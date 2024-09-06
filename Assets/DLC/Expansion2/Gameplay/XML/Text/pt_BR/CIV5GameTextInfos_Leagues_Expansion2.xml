@@ -514,7 +514,7 @@
 			<Text>Sessão Vindoura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON_TT">
-			<Text>A {1_LeagueName} irá se reunir em {2_TurnsUntilSession} {2: plural 1?turno; other?turnos;}  para deliberar sobre resoluções propostas:</Text>
+			<Text>A {1_LeagueName} irá se reunir em {2_TurnsUntilSession} {2: plural 1?turno; other?turnos;} para deliberar sobre resoluções propostas:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_PROGRESS">
 			<Text>{@1_ProjectName} Atualizado</Text>
@@ -579,7 +579,7 @@
 			<Text>Congresso Mundial Fundado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS_HELP">
-			<Text>Líderes de todo o  mundo se reúnem no Congresso Mundial para iniciar discussões sobre interesses internacionais. Sua primeira deliberação é sobre quem sediará o Congresso.</Text>
+			<Text>Líderes de todo o mundo se reúnem no Congresso Mundial para iniciar discussões sobre interesses internacionais. Sua primeira deliberação é sobre quem sediará o Congresso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES">
 			<Text>Congresso Mundial Saúda as Cidades-Estado</Text>
