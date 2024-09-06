@@ -91,10 +91,10 @@
 			<Text>FORÇA TOTAL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_YOUR_STRENGTH">
-			<Text>[ICON_STRENGTH] FORÇA DE COMBATE:</Text>
+			<Text>[ICON_STRENGTH]FORÇA DE COMBATE:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_STRENGTH">
-			<Text>: FORÇA DE COMBATE [ICON_STRENGTH]</Text>
+			<Text>: [ICON_STRENGTH]FORÇA DE COMBATE</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_TERRAIN_MODIFIER">
 			<Text>Modificador de terreno</Text>

@@ -37,7 +37,7 @@
 			<Text>Primeiro Sultão do Egito e Síria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_LIVED">
-			<Text>1138 - 1193 d.C.</Text>
+			<Text>1138-1193 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_HEADING_1">
 			<Text>História</Text>
@@ -76,7 +76,7 @@
 			<Text>Emir da Dinastia Almóada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_LIVED">
-			<Text>1160 - 1199 d.C.</Text>
+			<Text>1160-1199 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_HEADING_1">
 			<Text>História</Text>

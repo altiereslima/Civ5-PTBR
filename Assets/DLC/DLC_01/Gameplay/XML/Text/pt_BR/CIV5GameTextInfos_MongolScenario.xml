@@ -27,7 +27,7 @@
 			<Text>Com a ajuda de outra potência, mais uma grande civilização caiu. Nós conseguimos saquear uma moderada riqueza ({1_NumGold} gold) do tesouro deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
-			<Text>A Cidade-Estado de Almaty caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>
+			<Text>A Cidade-Estado de Almati caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
 			<Text>A Cidade-Estado de Dali caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_PIKEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>

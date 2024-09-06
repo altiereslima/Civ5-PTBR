@@ -112,7 +112,7 @@
 			<Text>Rei dos Belgas e do Congo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_LIVED">
-			<Text>1835 - 1909 d.C.</Text>
+			<Text>1835-1909 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_HEADING_1">
 			<Text>História</Text>
@@ -133,7 +133,7 @@
 			<Text>Rainha do Reino Unido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_LIVED">
-			<Text>1819 - 1901 d.C.</Text>
+			<Text>1819-1901 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_HEADING_1">
 			<Text>História</Text>
@@ -160,7 +160,7 @@
 			<Text>Presidente da França</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_LIVED">
-			<Text>1807 - 1891 d.C.</Text>
+			<Text>1807-1891 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_HEADING_1">
 			<Text>História</Text>
@@ -175,7 +175,7 @@
 			<Text>Chanceler do Império Alemão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_LIVED">
-			<Text>1815 - 1898 d.C.</Text>
+			<Text>1815-1898 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_HEADING_1">
 			<Text>História</Text>
@@ -211,7 +211,7 @@
 			<Text>General, Político da Itália</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_LIVED">
-			<Text>1807 - 1882 d.C.</Text>
+			<Text>1807-1882 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_HEADING_1">
 			<Text>História</Text>
@@ -226,7 +226,7 @@
 			<Text>Rainha Consorte de Portugal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_LIVED">
-			<Text>1847 - 1911 d.C.</Text>
+			<Text>1847-1911 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_HEADING_1">
 			<Text>História</Text>
@@ -250,7 +250,7 @@
 			<Text>Caide do Egito e Sudão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_LIVED">
-			<Text>1830 - 1895 d.C.</Text>
+			<Text>1830-1895 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_HEADING_1">
 			<Text>História</Text>
@@ -271,7 +271,7 @@
 			<Text>Sultão do Marrocos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_LIVED">
-			<Text>1873 - 1894 d.C.</Text>
+			<Text>1873-1894 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_HEADING_1">
 			<Text>História</Text>
@@ -295,7 +295,7 @@
 			<Text>Sultão do Império Otomano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_LIVED">
-			<Text>1842 - 1918 d.C.</Text>
+			<Text>1842-1918 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_HEADING_1">
 			<Text>História</Text>
@@ -343,7 +343,7 @@
 			<Text>Presidente da República Sul-Africana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_LIVED">
-			<Text>1825 - 1904 d.C.</Text>
+			<Text>1825-1904 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_HEADING_1">
 			<Text>História</Text>
@@ -364,7 +364,7 @@
 			<Text>Imperador da Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_LIVED">
-			<Text>1844 - 1913 d.C.</Text>
+			<Text>1844-1913 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_HEADING_1">
 			<Text>História</Text>
@@ -382,7 +382,7 @@
 			<Text>Rei do Reino Zulu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_LIVED">
-			<Text>1826 - 1884 d.C.</Text>
+			<Text>1826-1884 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_HEADING_1">
 			<Text>História</Text>
@@ -417,7 +417,7 @@
 			<Text>O primeiro Museu Estatal foi construído em 1892 d.C. em Pretória, com o propósito declarado de "melhorar e manter a consciência pública em relação aos aspectos culturais de valor", focando especificamente na história, etnografia, arqueologia e ciências naturais da região. Quando a Guerra Anglo-Boer estourou, os aspectos patrióticos do Museu Estatal se tornaram ainda mais pronunciados, já que os cidadãos nas comando Boer foram incentivados a doar objetos de memorabilia dos campos de batalha. Após a derrota dos Boers, os Museus Estatais não foram mais apoiados com fundos públicos; em vez disso, foram financiados por comitês privados em cidades de todo o Transvaal e Estado Livre de Orange.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
-			<Text>O Banho Turco é uma edificação exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD] Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD]Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
+			<Text>O Banho Turco é uma edificação exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD]Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
 			<Text>A cidade deve ter um banco.</Text>
@@ -582,7 +582,7 @@
 			<Text>Sindicalismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E5_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Sindicalismo[ENDCOLOR][NEWLINE]Redução de 50% na manutenção de Estradas e Ferrovias. +2 [ICON_HAPPINESS_1] Felicidade para cada recurso de Luxo.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Sindicalismo[ENDCOLOR][NEWLINE]Redução de 50% na manutenção de Estradas e Ferrovias. +2 de [ICON_HAPPINESS_1]Felicidade para cada recurso de Luxo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6">
 			<Text>Capitalismo</Text>

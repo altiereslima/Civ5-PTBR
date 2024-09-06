@@ -1492,7 +1492,7 @@
 			<Text>Crescimento das fronteiras 15% mais rápido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS">
-			<Text>+1 de [ICON_CULTURE]Cultura e +1 [ICON_PEACE]Fé por cada Vinho e Incenso</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé por cada Vinho e Incenso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
 			<Text>+1 de [ICON_CULTURE]Cultura de Plantações</Text>

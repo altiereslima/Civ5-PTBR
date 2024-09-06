@@ -596,7 +596,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Reduz o custo em [ICON_CULTURE]Cultura para futuras políticas em 10%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 [ICON_MOVES]Ponto de Movimento para unidades navais e +1 de Visão para unidades navais de combate. Um Grande Almirante aparece. +2 de [ICON_MOVES]Pontos de Movimento para todos os Grandes Almirantes.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Ponto de Movimento para unidades navais e +1 de Visão para unidades navais de combate. Um Grande Almirante aparece. +2 de [ICON_MOVES]Pontos de Movimento para todos os Grandes Almirantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Protecionismo[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1]Felicidade de cada recurso de luxo.</Text>

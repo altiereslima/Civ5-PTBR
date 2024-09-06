@@ -198,7 +198,7 @@
 			<Text>Rei da França</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED">
-			<Text>1494 - 1547 d.C.</Text>
+			<Text>1494-1547 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
 			<Text>História</Text>
@@ -492,7 +492,7 @@
 			<Text>No auge da extensão de seu império, os astecas construíram várias pirâmides duplas, que consistiam em uma plataforma piramidal massiva com uma escadaria dupla levando a templos gêmeos, em alguns casos eles mesmos pirâmides. O exemplo mais antigo já descoberto é o de Tenayuca, que já estava construído quando os astecas conquistaram a cidade por volta de 1434 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_NWS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Empreendedorismo[ENDCOLOR][NEWLINE]Aparece um Grande Mercador. Grandes Mercadores são obtidos 100% mais rápido. +2 [ICON_GOLD] por cada Banco.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Empreendedorismo[ENDCOLOR][NEWLINE]Aparece um Grande Mercador. Grandes Mercadores são obtidos 100% mais rápido. +2 de [ICON_GOLD] por cada Banco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_EUROPEAN">
 			<Text>Europeia</Text>

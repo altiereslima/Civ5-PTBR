@@ -1362,10 +1362,10 @@
 			<Text>Guerra com Cidades-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ALMATY_TEXT">
-			<Text>Localizada próximo da fronteira sudeste do que hoje é o Cazaquistão, Almaty acolheu assentamentos humanos desde 1000 a.C.  No início, foi uma terra de tribos fazendeiras e pastores e não começou a florescer como cidade até a Idade Média, graças a Rota da Seda.  Durante três séculos Almaty prosperou como centro de agricultura e artesanato, mas foi destruída em grande parte pelos Mongóis, no século 13.  Por volta do século 15, Almaty e sua região se encontravam em estado de declínio.[NEWLINE][NEWLINE]Almaty começou a se recuperar e se converter na moderna cidade que é hoje em 1854.  A Rússia Imperial construiu o Forte Zailiyskoye no antigo lugar, que logo passou a se chamar Forte Verniy. Um ano mais tarde, os soldados começaram a aceitar a presença de camponeses e comerciantes na área e assim nasceu a cidade de Verniy, o centro administrativo da recém-criada Semirechye, uma província de Turquistão.  Almaty prosperou desta forma durante 30 anos, apenas para ser destruída em menos de 12 minutos por um terremoto em 1887.[NEWLINE][NEWLINE]No início do século 20, a cidade passou a se chamar Alma-Ata e recuperou parte de sua importância com a construção da ferrovia Turquistão-Sibéria.  A capital do Cazaquistão foi transferida para Alma-Ata em 1936 com a intenção de converter a cidade em uma espécie de Meca Cultural.  Em 1993 o nome de Alma-Ata voltou a se chamar Almaty (referência aos pomares de maçã da região).[NEWLINE][NEWLINE]Em 1997 o governo transferiu a capital do país para Astana - uma cidade com menos ameaças de catástrofes naturais. Apesar deste revés para sua importância política e a constante ameaça das catástrofes, Almaty mais uma vez volta a prosperar como centro cultural, financeiro e industrial.</Text>
+			<Text>Localizada próximo da fronteira sudeste do que hoje é o Cazaquistão, Almati acolheu assentamentos humanos desde 1000 a.C.  No início, foi uma terra de tribos fazendeiras e pastores e não começou a florescer como cidade até a Idade Média, graças a Rota da Seda.  Durante três séculos Almati prosperou como centro de agricultura e artesanato, mas foi destruída em grande parte pelos Mongóis, no século 13.  Por volta do século 15, Almati e sua região se encontravam em estado de declínio.[NEWLINE][NEWLINE]Almati começou a se recuperar e se converter na moderna cidade que é hoje em 1854.  A Rússia Imperial construiu o Forte Zailiyskoye no antigo lugar, que logo passou a se chamar Forte Verniy. Um ano mais tarde, os soldados começaram a aceitar a presença de camponeses e comerciantes na área e assim nasceu a cidade de Verniy, o centro administrativo da recém-criada Semirechye, uma província de Turquistão.  Almati prosperou desta forma durante 30 anos, apenas para ser destruída em menos de 12 minutos por um terremoto em 1887.[NEWLINE][NEWLINE]No início do século 20, a cidade passou a se chamar Alma-Ata e recuperou parte de sua importância com a construção da ferrovia Turquistão-Sibéria.  A capital do Cazaquistão foi transferida para Alma-Ata em 1936 com a intenção de converter a cidade em uma espécie de Meca Cultural.  Em 1993 o nome de Alma-Ata voltou a se chamar Almati (referência aos pomares de maçã da região).[NEWLINE][NEWLINE]Em 1997 o governo transferiu a capital do país para Astana - uma cidade com menos ameaças de catástrofes naturais. Apesar deste revés para sua importância política e a constante ameaça das catástrofes, Almati mais uma vez volta a prosperar como centro cultural, financeiro e industrial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ALMATY_TITLE">
-			<Text>Almaty</Text>
+			<Text>Almati</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -5461,7 +5461,7 @@
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
-			<Text>356 - 323 a.C.</Text>
+			<Text>356-323 a.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_NAME">
 			<Text>Alexandre</Text>
@@ -5983,7 +5983,7 @@
 			<Text>Veredito da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_LIVED">
-			<Text>763 - 809 d.C.</Text>
+			<Text>763-809 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_NAME">
 			<Text>Harun al-Rashid</Text>
@@ -6424,7 +6424,7 @@
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_LIVED">
-			<Text>625 - 705 d.C.</Text>
+			<Text>625-705 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_NAME">
 			<Text>Wu Zetian</Text>
@@ -9454,7 +9454,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Qualquer homem que consegue dirigir bem enquanto beija uma bela mulher, simplesmente não está dando ao beijo a devida atenção que ele merece."[NEWLINE][TAB][TAB] - Albert Einstein[NEWLINE][TAB][TAB][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_DESC">
-			<Text>Uma bússola é um dispositivo que utiliza um imã, ou uma agulha magnetizada, para indicar a direção do norte "magnético". Apesar de o norte "magnético" não ser idêntico ao norte "real", eles são próximos o bastante para que ferramentas magnéticas sejam extremamente úteis para a navegação mundial. A primeira bússola foi inventada na China e Europa (aparentemente de forma independente) no século XXI. Bússolas permitiram aos navegantes monitorar e registrar com precisão a direção de suas embarcações nos oceanos, algo que antes era impossível durante dias e noites nublados. Eram úteis também aos viajantes atravessando desertos ou durante tempestades de neve ou sob as copas das árvores de selvas antigas.[NEWLINE][NEWLINE]Alguns exploradores modernos ainda carregam bússolas, mas hoje estes aparelhos são considerados um pouco antiquados ou ultrapassados, especialmente se comparados ao GPS, que podem indicar não só onde você está, mas fornece o local da cafeteria mais próxima, algo que nem a mais moderna bússola pode fazer.</Text>
+			<Text>Uma bússola é um dispositivo que utiliza um ímã, ou uma agulha magnetizada, para indicar a direção do norte "magnético". Apesar de o norte "magnético" não ser idêntico ao norte "real", eles são próximos o bastante para que ferramentas magnéticas sejam extremamente úteis para a navegação mundial. A primeira bússola foi inventada na China e Europa (aparentemente de forma independente) no século XXI. Bússolas permitiram aos navegantes monitorar e registrar com precisão a direção de suas embarcações nos oceanos, algo que antes era impossível durante dias e noites nublados. Eram úteis também aos viajantes atravessando desertos ou durante tempestades de neve ou sob as copas das árvores de selvas antigas.[NEWLINE][NEWLINE]Alguns exploradores modernos ainda carregam bússolas, mas hoje estes aparelhos são considerados um pouco antiquados ou ultrapassados, especialmente se comparados ao GPS, que podem indicar não só onde você está, mas fornece o local da cafeteria mais próxima, algo que nem a mais moderna bússola pode fazer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais pelas águas, das cidades até a capital, produzindo [ICON_GOLD]Ouro.</Text>
@@ -9898,7 +9898,7 @@
 			<Text>Rádio é a tecnologia de transmitir informação para um receptor remoto modificando a portadora de uma onda - amplitude, frequência ou fase. Em termos menos técnicos, em algum lugar, o transmissor transforma sons em ondas que são enviadas para a atmosfera. Distantes receptores de rádio podem pegar essas ondas e transformá-las de volta em sons.[NEWLINE][NEWLINE]Um rádio é uma máquina complicada e intrigante. Ela precisou de centenas de anos de pesquisas e desenvolvimentos, feitos por cientistas como Michael Faraday, James Maxwell, Heinrich Hertz e Guglielmo Marconi.[NEWLINE][NEWLINE]Marconi foi um físico italiano que estava trabalhando no telégrafo sem fios. Em 1894, Marconi conseguiu enviar um sinal por aproximadamente 27 metros. Ele continuou a refinar a tecnologia e, em 1901, ele transmitiu com sucesso um sinal através do Oceano Atlântico. Ele continuou a trabalhar neste campo, e no início dos anos vinte, começou o desenvolvimento das ondas curtas, que se tornaria a base para as mais modernas comunicações via rádio à longa distância.[NEWLINE][NEWLINE]O primeiro programa de rádio foi transmitido na véspera de Natal, em 1906. O primeiro jornal foi feito em 31 de agosto de 1920, em Detroit, Michigan. No final dos anos vinte, o rádio estava se tornando onipresente nos Estados Unidos e Europa.[NEWLINE][NEWLINE]O rádio teve um papel importante na Segunda Guerra Mundial. Além de permitir a comunicação entre aeronaves e navios, eles tornavam possível aos governos combatentes transmitir notícias e propagandas aos seus próprios cidadãos e aos do inimigo também. Hitler, Churchill, e Roosevelt eram todos mestres da mídia. O rádio permaneceu muito popular após os anos de guerra, particularmente nos Estados Unidos, que viu um grande crescimento nas redes e estações de transmissão. Ele se manteve dominante como forma de entretenimento até o advento da televisão nos anos 50.[NEWLINE][NEWLINE]Embora diminuído pelas tecnologias da TV e da Internet, o rádio ainda é uma fonte viável e importante de diversão e notícias para pessoas do mundo inteiro. Como rock'nroll, ele veio para ficar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE] Cultura de uma cidade. Também permite a construção dos [COLOR_POSITIVE_TEXT]Canhões Antiaéreos[ENDCOLOR], úteis para frustrar aeronaves inimigas.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade. Também permite a construção dos [COLOR_POSITIVE_TEXT]Canhões Antiaéreos[ENDCOLOR], úteis para frustrar aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"O país inteiro estava ligado pelo rádio. Todos nós compartilhávamos os mesmos heróis, comediantes e cantores. Eles eram gigantes."[NEWLINE][TAB][TAB] - Woody Allen[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10093,7 +10093,7 @@
 			<Text>A Teologia é o estudo da religião. Os teólogos estudam as tradições e crenças religiosas. Esta prática existe na história desde os Gregos Clássicos, que possuíam uma rica mitologia e tradições religiosas para observarem. Nos séculos I e II d.C., a escola religiosa Judaica floresceu. O Talmude Judaico, uma coleção de notas dos Rabinos sobre a tradição oral judaica, foi publicada por volta de 200 anos d.C. e se expandiu nos próximos dois séculos.[NEWLINE][NEWLINE]A Teologia é importante. Ela teve um poder incrível sobre a história humana. Milhões morreram em disputas religiosas (e alguns continuam até hoje). Os Romanos mataram Cristãos em razão da nova teologia radical que negava a existência dos deuses romanos. Cristãos mataram Judeus, Muçulmanos e outros Cristãos em diversas disputas religiosas. O revolucionário, teólogo e cristão Martin Luther iniciou um brutal conflito religioso de centenas de anos na Europa, com suas "95 teses" questionadoras, além de outras coisas como a venda de indulgências papais (perdão divino dos pecados) para a construção da Basílica de São Pedro. A Teologia terá uma importância crítica para resolver os atuais conflitos religiosos entre os radicais muçulmanos e o mundo ocidental, se é que um dia vai acabar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
-			<Text>Permite a construção de edificações úteis e especiais, além de Maravilhas, que aumentam a [ICON_CULTURE]Cultura das cidades e a habilidade de criar novas [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
+			<Text>Permite a construção de edificações úteis e especiais, além de Maravilhas, que aumentam a [ICON_CULTURE]Cultura das cidades e a habilidade de criar novas [ICON_GREAT_PEOPLE]Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Três coisas são necessárias para a salvação do homem: saber em que deve crer, saber o que deve desejar, saber o que deve fazer."[NEWLINE][TAB][TAB] - São Tomás de Aquino[NEWLINE][TAB]</Text>
@@ -10108,7 +10108,7 @@
 			<Text>O Homem tem feito armadilhas para animais por milênios. É uma forma de caçar tão antiga quanto o próprio Homem. Através da história, caçadores tem usado uma grande variedade de armadilhas para capturar suas presas - empregando de tudo, desde sementes encobertas, redes escondidas, até jaulas de metal com contrapesos. Nos séculos XVII e XVIII, os caçadores norte americanos e franco-canadenses passaram anos capturando uma grande quantidade de peles de animais, antes de levá-las ao lado leste para venda, sendo que a maioria das valiosas peles acabou se tornando chapéus e outros artigos de vestuário para os ricos da Europa. Caçadores russos fizeram praticamente o mesmo na Sibéria e outros territórios remotos da Eurásia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Mesmo os animais ferozes e pássaros distraídos caem na mesma armadilha duas vezes."[NEWLINE][TAB][TAB] - São Jerônimo[NEWLINE][TAB]</Text>

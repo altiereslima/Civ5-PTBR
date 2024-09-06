@@ -79,7 +79,7 @@
 			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Militarizado[ENDCOLOR] e podemos aumentar a força de seu [COLOR_POSITIVE_TEXT]Exército[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_MARITIME">
-			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Marítimo[ENDCOLOR] e podemos ajudar a acelerar o [ICON_FOOD][COLOR_POSITIVE_TEXT]crescimento[ENDCOLOR] da sua Civilização.</Text>
+			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Marítimo[ENDCOLOR] e podemos ajudar a acelerar o [ICON_FOOD][COLOR_POSITIVE_TEXT]Crescimento[ENDCOLOR] da sua Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_FRIENDLY">
 			<Text>Saudações grande líder. O que o traz a nossa Corte?</Text>
