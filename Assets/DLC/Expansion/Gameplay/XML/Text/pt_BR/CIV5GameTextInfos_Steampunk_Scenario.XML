@@ -4,125 +4,125 @@
 	<Language_pt_BR>
 		<!-- Entry UI-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TITLE">
-			<Text>Empires of the Smoky Skies</Text>
+			<Text>Impérios dos Céus Fumegantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_DESC">
-			<Text>The advent of steam power has revolutionized the world.  It is a time of discovery, fueled by newfound resources and brilliant inventions. Can you harness the power of steam to bring your people to greatness?</Text>
+			<Text>A chegada da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por recursos recém-encontrados e invenções brilhantes. Você consegue aproveitar o poder do vapor para levar seu povo à grandeza?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RANDOM_MAP">
-			<Text>Random Map</Text>
+			<Text>Mapa Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_FIXED_MAP">
-			<Text>Fixed Map</Text>
+			<Text>Mapa Fixo</Text>
 		</Row>
 		<!-- Notifications-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_SUMMARY">
-			<Text>{@1_CivName} becomes {@2_TitleName}!</Text>
+			<Text>O país de {@1_CivName} adquire o título de {@2_TitleName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_TT">
-			<Text>{@1_CivName} has gained the Honourable Title of [COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR], giving them more control in the League of Empires and bringing them closer to victory.</Text>
+			<Text>O país de {@1_CivName} obteve o Título Honorável de [COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR], dando a eles mais controle na Liga dos Impérios e os aproximando da vitória.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TURNS_REMAINING">
-			<Text>{1_TokensOwned} of {2_TokensAvailable} Titles</Text>
+			<Text>{1_TokensOwned} de {2_TokensAvailable} {2: plural 1?título; other?títulos;}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BRIEFING_BUTTON">
-			<Text>Briefing</Text>
+			<Text>Resumo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VSCREEN_BUTTON">
-			<Text>League of Empires</Text>
+			<Text>Liga dos Impérios</Text>
 		</Row>
 		<!-- Victory Status UI-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_HELP">
-			<Text>The League of Empires convenes annually to determine the most worthy world leaders and confer Honourable Titles upon them.  The first leader to hold {1_NumTokensNeededForVictory} or more Titles for {2_NumTurnsNeededForVictory} Turns will control the League and win the game.</Text>
+			<Text>A Liga dos Impérios se reúne anualmente para determinar os líderes mundiais mais dignos e conceder a eles Títulos Honoráveis. O primeiro líder a possuir {1_NumTokensNeededForVictory} ou mais Títulos por {2_NumTurnsNeededForVictory} Turnos controlará a Liga e vencerá o jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_POSSIBLE">
-			<Text>As of Year {1_YearUpdated : number #}:</Text>
+			<Text>A partir do Ano {1_YearUpdated : number #}:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_LOCKED">
-			<Text>Victory is not yet possible.</Text>
+			<Text>A vitória ainda não é possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_COUNTDOWN">
-			<Text>{1_NumTurnsUntilVictory} Turns until {@2_CivAboutToWin} wins!</Text>
+			<Text>{1_NumTurnsUntilVictory} Turnos até que {@2_CivAboutToWin} vença!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TURN_UNLOCK">
-			<Text>Available on Turn {1_UnlockTurn}.</Text>
+			<Text>Disponível no Turno {1_UnlockTurn}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TECH_UNLOCK">
-			<Text>Available once any player researches {1_Technology:textkey}.</Text>
+			<Text>Disponível assim que qualquer jogador pesquisar a tecnologia {1_Technology:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_VALUE_UNLOCK">
-			<Text>Available once any player gets to {1_UnlockValue} in this field.</Text>
+			<Text>Disponível assim que qualquer jogador alcançar {1_UnlockValue} nesse campo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_UNLOCK_TT">
-			<Text>The Title of [COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR] becomes available for all players.</Text>
+			<Text>O Título de [COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR] fica disponível para todos os jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY">
-			<Text>Military</Text>
+			<Text>Militar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TITLE">
-			<Text>Defender of Progress</Text>
+			<Text>Defensor do Progresso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_HELP">
-			<Text>Number of Latest Landships and Airships</Text>
+			<Text>Número dos Tanques e Dirigíveis mais novos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TT">
-			<Text>Once someone builds a more advanced model, older models are outdated and no longer count.  These older models, though, can still be upgraded to be competitive.  If someone else is in the lead you can build new units, upgrade old ones, or attack their army to shrink its size.[NEWLINE][NEWLINE]Latest landship type: {@1_LandshipUnitType}[NEWLINE]Latest airship type: {@2_AirshipUnitType}</Text>
+			<Text>Quando alguém constrói um modelo mais avançado, os modelos antigos ficam ultrapassados e não contam mais. No entanto, esses modelos antigos ainda podem ser atualizados para serem competitivos. Se outra pessoa estiver na liderança, você pode construir novas unidades, atualizar as antigas ou atacar o exército deles para reduzir o tamanho.[NEWLINE][NEWLINE]Último tipo de tanque: {@1_LandshipUnitType}[NEWLINE]Último tipo de dirigível: {@2_AirshipUnitType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE">
-			<Text>Culture</Text>
+			<Text>Cultura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TITLE">
-			<Text>Lord of Refinement</Text>
+			<Text>Senhor do Refinamento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_HELP">
-			<Text>Social Policies Adopted</Text>
+			<Text>Políticas Sociais Adotadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TT">
-			<Text>Adopt more social policies than your rivals.</Text>
+			<Text>Adote mais políticas sociais do que seus rivais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY">
-			<Text>Industry</Text>
+			<Text>Indústria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TITLE">
-			<Text>Captain of Industry</Text>
+			<Text>Capitão da Indústria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_HELP">
-			<Text>Highest Production City</Text>
+			<Text>Cidade com Maior Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TT">
-			<Text>The cities with the highest [ICON_PRODUCTION] Production in each individual empire are compared, and the Title given to the most productive city's owner.[NEWLINE][NEWLINE]World's most productive city: {@1_WorldBestCity}[NEWLINE]Your most productive city: {@2_YourBestCity}</Text>
+			<Text>As cidades com a maior [ICON_PRODUCTION]Produção em cada império são comparadas, e o Título é dado ao dono da cidade mais produtiva.[NEWLINE][NEWLINE]Cidade mais produtiva do mundo: {@1_WorldBestCity}[NEWLINE]Sua cidade mais produtiva: {@2_YourBestCity}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE">
-			<Text>Commerce</Text>
+			<Text>Comércio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TITLE">
-			<Text>Master of Wealth</Text>
+			<Text>Mestre da Riqueza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_HELP">
-			<Text>Total Gross Gold Income</Text>
+			<Text>Renda Bruta Total em Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TT">
-			<Text>The gross amount of gold acquired throughout the game.  Only the raw gold income is examined, so maintenance and other expenses do not subtract from this score.</Text>
+			<Text>A quantidade bruta de ouro adquirida ao longo do jogo. Somente a renda bruta de ouro é examinada, então manutenção e outras despesas não são subtraídas dessa pontuação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR">
-			<Text>Labor</Text>
+			<Text>Trabalho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TITLE">
-			<Text>Grand Philanthropist</Text>
+			<Text>Grande Filantropo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_HELP">
-			<Text>World Wonders and National Wonders</Text>
+			<Text>Maravilhas do Mundo e Maravilhas Nacionais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TT">
-			<Text>Each World Wonder and National Wonder you control counts equally towards your score.  If your rivals construct World Wonders first you can build National Wonders to catch up, or attack their cities and claim their Wonders as your own.</Text>
+			<Text>Cada Maravilha do Mundo e Maravilha Nacional que você controla conta igualmente para sua pontuação. Se seus rivais construírem Maravilhas do Mundo primeiro, você pode construir Maravilhas Nacionais para alcançá-los, ou atacar as cidades deles e reivindicar suas Maravilhas como suas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_HELP_TT">
-			<Text>In the event of a tie, no player receives the Title.</Text>
+			<Text>No caso de empate, nenhum jogador recebe o Título.</Text>
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>SCENARIO DESCRIPTION[NEWLINE]Greetings to you, renowned Captain of science and industry!  The advent of steam power has revolutionized the world.  It is a time of discovery, fueled by newfound resources and brilliant inventions.  Great airships trek across the skies, marking their trails with black smoke.  Civilizations are propelled towards a bright future, but competition is fierce.  Resources are scarce, and technological secrets are carefully guarded.  You and your rivals must expand your empires across the globe to meet growing needs in the name of progress.  Can you harness the power of steam technology and bring your people to greatness?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Empires compete in the domains of Military, Culture, Industry, Commerce, and Labor.  Be the best in a domain to earn an Honourable Title.  To see the specifics of each Title, and monitor your progress, check the League of Empires screen.  The first empire to hold three or more Titles wins the game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Players begin with all technologies up through Steam Power.  The tech tree after Steam Power has been altered significantly, giving players the ability to construct Airships, Landships, and new buildings.  Barbarians ("Luddites") are enabled, but do not have access to advanced units.  Social Policies have been rearranged.  Religion has been disabled, as have religious and militaristic city-states.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Saudações a você, renomado Capitão da ciência e indústria! O advento da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por novos recursos e invenções brilhantes. Grandes dirigíveis cruzam os céus, deixando rastros de fumaça negra. Civilizações estão sendo conduzidas a um futuro brilhante, mas a competição é acirrada. Os recursos são escassos, e os segredos tecnológicos são guardados com cuidado. Você e seus rivais devem expandir seus impérios pelo globo para atender às crescentes necessidades em nome do progresso. Você consegue aproveitar o poder da tecnologia a vapor e elevar seu povo à grandeza?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Impérios competem nos domínios Militar, Cultural, Industrial, Comercial e Trabalhista. Seja o melhor em um domínio para ganhar um Título Honorável. Para ver os detalhes de cada Título e monitorar seu progresso, verifique a tela da Liga dos Impérios. O primeiro império a obter três ou mais Títulos vence o jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Os jogadores começam com todas as tecnologias até a Energia a Vapor. A árvore tecnológica após a Energia a Vapor foi alterada significativamente, dando aos jogadores a capacidade de construir Dirigíveis, Tanques e novas edificações. Bárbaros ("Luditas") estão habilitados, mas não têm acesso a unidades avançadas. As Políticas Sociais foram reorganizadas. A religião foi desativada, assim como as Cidades-Estado religiosas e militares.</Text>
 		</Row>
 		<!-- <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_GERMANY_TEXT">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
@@ -141,76 +141,76 @@
 		</Row>-->
 		<!-- Victory-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME">
-			<Text>Empire</Text>
+			<Text>Império</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME_BANG">
-			<Text>Empire Victory!</Text>
+			<Text>Vitória do Império!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_FLAVOR_TIME">
-			<Text>The League of Empires bows before you.  You have proven that your civilization is the most worthy, and will guide humanity's ascent into the future.   The skies are yours.</Text>
+			<Text>A Liga dos Impérios se curva diante de você. Você provou que sua civilização é a mais digna e guiará a ascensão da humanidade ao futuro. Os céus são seus.</Text>
 		</Row>
 		<!-- Civs and Leaders-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ROFFENBURG_NAME">
-			<Text>Cyrus Rotheram</Text>
+			<Text>Ciro Rotheram</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CURNOW_NAME">
-			<Text>Ignace Curnow</Text>
+			<Text>Ignácio Curnow</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
-			<Text>Octavius Cutler</Text>
+			<Text>Otávio Cutler</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
-			<Text>Luther Griggs</Text>
+			<Text>Lutero Griggs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ALDERDICE_NAME">
 			<Text>Clinton Alderdice</Text>
 		</Row>
 		<!-- Scenario-specific Diplomacy Modifiers-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_1">
-			<Text>You have 2 Titles, and pose a threat to them in the League.</Text>
+			<Text>Você possui 2 Títulos e representa uma ameaça na Liga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_2">
-			<Text>You have more than 2 Titles, and nearly control the League!</Text>
+			<Text>Você possui mais de 2 Títulos e quase controla a Liga!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_3">
-			<Text>You are competing over the same Titles.</Text>
+			<Text>Você está competindo pelos mesmos Títulos.</Text>
 		</Row>
 		<!-- historic entries -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_TEXT_1">
-			<Text>The Eruch Empire began as a series of impassioned debates between long established noble families about the growing chaos in the world and what could be done to stop it.  The debates soon reached a critical mass for action, fueled by the nobles' fear of an uncertain future as well as their desire to protect their wealth.  A secret council was formed, drawing on the leadership and military prowess that had been their inheritance from previous generations.  It mobilized a small but well-equipped army.  With it, the nobles carved out a large territory that would become the core of Eruch, and seceded from the old kingdoms.  Outwardly, leaders of Eruch profess the glories of civilized life, and seek to spread their ways to the ends of the earth.  They act as gentlemen in diplomatic affairs, but always have a rigid structure of military might ready to respond at their first call.</Text>
+			<Text>O Império de Eruch começou como uma série de debates apaixonados entre famílias nobres de longa data sobre o caos crescente no mundo e o que poderia ser feito para detê-lo. Os debates logo atingiram uma massa crítica para ação, alimentados pelo medo dos nobres de um futuro incerto e pelo desejo de proteger sua riqueza. Um conselho secreto foi formado, aproveitando a liderança e a destreza militar que haviam sido herança de gerações anteriores. Ele mobilizou um pequeno, mas bem equipado exército. Com ele, os nobres conquistaram um grande território que se tornaria o coração de Eruch, e se separaram dos antigos reinos. Externamente, os líderes de Eruch professam as glórias da vida civilizada e buscam espalhar seus modos até os confins da Terra. Eles agem como cavalheiros nos assuntos diplomáticos, mas sempre têm uma rígida estrutura de poder militar pronta para responder ao primeiro chamado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_TEXT_1">
-			<Text>The exact origins of Pulias are shrouded in mystery even to this day.  It seems to have emerged out of nowhere, yet its power and wealth seem too large to have been easily missed.  Most sources posit a single leader who saw the opportunities of new science, commerce, and most of all politics, and manipulated affairs from the shadows.  This leader sold sensitive information to rivals at a premium while using it to further the objectives of Pulias.  In the early competition between empires, many opportunities were left unexplored as rivals focused on short-term gains.  Pulias was the first to send expeditions to foreign lands, and established trade that brought riches to its citizens.  Its spies were placed in key positions across the world, gathering intelligence and ready to act.</Text>
+			<Text>As origens exatas de Pulias estão envoltas em mistério até hoje. Parece ter surgido do nada, mas seu poder e riqueza parecem grandes demais para terem passado despercebidos. A maioria das fontes sugere um único líder que viu as oportunidades da nova ciência, comércio e, acima de tudo, política, e manipulou os acontecimentos das sombras. Esse líder vendia informações sensíveis a rivais a um preço alto, enquanto as usava para promover os objetivos de Pulias. Na competição inicial entre impérios, muitas oportunidades foram deixadas de lado, pois os rivais se concentravam em ganhos de curto prazo. Pulias foi o primeiro a enviar expedições a terras estrangeiras e estabeleceu comércio que trouxe riqueza aos seus cidadãos. Seus espiões foram colocados em posições-chave ao redor do mundo, coletando inteligência e prontos para agir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_TEXT_1">
-			<Text>Dalmace arose out of necessity.  The turmoil of old kingdoms collapsing and new empires emerging left many people of the lower and middle classes marginalized.  Some stayed in their homelands but many fled as refugees, not knowing where to go.  They gathered in the country estates of nobles that did not have the heart or the force to deny their presence.  Soon leaders arose from the ranks of the refugees, calling for organization, protection, food, and resources.  Some nobles saw opportunity and joined their ranks, sharing their wealth.  Others refused, and their estates were ransacked.  These were the first Dalmace compounds, which would grow into cities that rivaled those of any other empire.  Dalmace is founded on ideals, and its strength comes from the tight camaraderie and evolving culture of its humble citizens.</Text>
+			<Text>Dalmace surgiu por necessidade. A agitação do colapso dos antigos reinos e o surgimento de novos impérios deixaram muitas pessoas das classes mais baixas e médias marginalizadas. Alguns permaneceram em suas terras natais, mas muitos fugiram como refugiados, sem saber para onde ir. Eles se reuniram nas propriedades rurais de nobres que não tinham coragem ou força para negar sua presença. Logo, líderes surgiram das fileiras dos refugiados, clamando por organização, proteção, comida e recursos. Alguns nobres viram oportunidade e se juntaram a suas fileiras, compartilhando sua riqueza. Outros se recusaram, e suas propriedades foram saqueadas. Estes foram os primeiros complexos de Dalmace, que cresceriam para se tornar cidades que rivalizavam com as de qualquer outro império. Dalmace é fundado em ideais, e sua força vem da camaradagem estreita e da cultura em constante evolução de seus humildes cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_TEXT_1">
-			<Text>The steady advance of science brought great changes to the processes by which products were manufactured, transported, and sold.  Many otherwise shrewd businessmen could not contend with the changes and faded away, leaving room for the more adaptable.  Orlin had no political existence when it began, and no desire for empire.  It was a collection of ambitious industrialists that banded together for mutual benefit.  They parcelled out markets like territories, and together came to dominate industries throughout the old kingdoms.  When the kingdoms began to fade, the Orlin tycoons clashed in a contest for power.  They encroached on each other's ventures, and delved into blackmail and assassination.  A tight oligarchy emerged which controlled nearly all the means of production.  With their industrial capacity, and the riches it brought, they formally entered the world stage as an empire.</Text>
+			<Text>O constante avanço da ciência trouxe grandes mudanças nos processos de fabricação, transporte e venda de produtos. Muitos empresários, embora astutos em outras áreas, não conseguiram lidar com as mudanças e desapareceram, deixando espaço para os mais adaptáveis. Orlin não tinha existência política quando começou, nem desejo por um império. Era uma coleção de industriais ambiciosos que se uniram para benefício mútuo. Eles dividiram os mercados como territórios e juntos passaram a dominar indústrias em todo o território dos antigos reinos. Quando os reinos começaram a desaparecer, os magnatas de Orlin entraram em conflito em uma disputa de poder. Eles invadiram os empreendimentos uns dos outros e se envolveram em chantagem e assassinato. Uma oligarquia rígida emergiu, controlando quase todos os meios de produção. Com sua capacidade industrial e as riquezas que trouxe, eles entraram formalmente no cenário mundial como um império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_TEXT_1">
-			<Text>When the old kingdoms weakened, the growing class of academics and inventors saw the opportunity to create a new kind of nation, one that was founded on principles of reason and embraced scientific advancement.  They found allies in many of the old monarchists, who were looking for a way to preserve their influence, and together they became Vedria.  Their ranks mixed quickly, and before long every prominent leader was expected to be familiar with scientific processes, if not involved in research personally.  Vedria is marked by optimism for the future to come, and its citizens believe that the noble pursuit of science is the clear path towards it.  Scientists are consulted on matters of state, and given generous funding for their research.</Text>
+			<Text>Quando os antigos reinos enfraqueceram, a crescente classe de acadêmicos e inventores viu a oportunidade de criar um novo tipo de nação, fundada em princípios de razão e abraçando o avanço científico. Eles encontraram aliados em muitos dos antigos monarquistas, que estavam procurando uma maneira de preservar sua influência, e juntos se tornaram Vedria. Suas fileiras se misturaram rapidamente e, em pouco tempo, todo líder proeminente era esperado para estar familiarizado com os processos científicos, se não envolvido na pesquisa pessoalmente. Vedria é marcada pelo otimismo pelo futuro que está por vir, e seus cidadãos acreditam que a nobre busca pela ciência é o caminho claro em direção a ele. Os cientistas são consultados em assuntos de Estado e recebem financiamento generoso para suas pesquisas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
-			<Text>Cyrus Rotheram</Text>
+			<Text>Ciro Rotheram</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_SUBTITLE">
-			<Text>Leader of Eruch</Text>
+			<Text>Líder de Eruch</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LIVED">
 			<Text>1815 - 1872 d.C.</Text>
@@ -219,14 +219,14 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1">
-			<Text>"The military sciences are as complex as ever, yet we have more tools at our disposal than ever before.  Not a century ago, quelling the forces of a distant enemy required extensive fortifications, supply routes, and resources.  Horses had to be fed and quartered, and the loss of a supply line could mean the end of an otherwise honorable campaign.  Soldiers had to learn how to stare their enemy in the eye as they calmly readied their weapons and took life.  In our present age, soldiers can face each other in honorable combat while avoiding the savageries of the previous century.  The recent development of the Landship has made foot soldiers and cavalry all but obsolete.  Limited only by the resources needed to build it, the Landship can traverse a nation in a matter of days without need of rest.  Distant territories, once costly to conquer, are now within reach.  And with its cannons and near impenetrable armor, the Landship can easily make pliant all but the most savagely persistent of the uncivilized nations."[NEWLINE][NEWLINE] - Cyrus Rotheram, address to the Eruch Senate
+			<Text>"As ciências militares são tão complexas quanto sempre, mas temos mais ferramentas à nossa disposição do que nunca. Há menos de um século, subjugar as forças de um inimigo distante exigia fortificações extensas, rotas de suprimento e recursos. Os cavalos tinham que ser alimentados e abrigados, e a perda de uma linha de suprimento poderia significar o fim de uma campanha, caso contrário honrada. Os soldados tinham que aprender a encarar o inimigo nos olhos enquanto calmamente preparavam suas armas e tiravam vidas. Em nossa era atual, os soldados podem enfrentar uns aos outros em combate honroso, evitando as selvagerias do século anterior. O recente desenvolvimento do Tanque tornou os soldados a pé e a cavalaria praticamente obsoletos. Limitado apenas pelos recursos necessários para construí-lo, o Tanque pode percorrer uma nação em questão de dias sem a necessidade de descanso. Territórios distantes, antes caros de conquistar, agora estão ao alcance. E com seus canhões e armadura quase impenetrável, o Tanque pode facilmente subjugar todos, exceto as nações mais selvagemente persistentes e incivilizadas."[NEWLINE][NEWLINE] - Ciro Rotheram, discurso ao Senado de Eruch
 </Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_NAME">
-			<Text>Ignace Curnow</Text>
+			<Text>Ignácio Curnow</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_SUBTITLE">
-			<Text>Leader of Orlin</Text>
+			<Text>Líder de Orlin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LIVED">
 			<Text>1781 - 1836 d.C.</Text>
@@ -235,14 +235,14 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1">
-			<Text>"With the press of a button the steam jet enters the rig and begins the fabrication.  Gears turning in the rig, pressing hot steel, shaping it into newly minted gears.  A factory for making a factory.  Maybe we will use it to make even more products; or maybe we will sell it to someone else for a wide profit.  In this simple process is the proof of industry's role in our age.  We can make airships, landships, difference engines, clothing, and even factories.  By controlling the efficiency and maximizing the output of our industrial sector, we can make whatever we want, and be the best at it."[NEWLINE][NEWLINE] - Ignace Curnow, excerpt from "Steel and Steam: An Industrialist's Guide"
+			<Text>"Com o apertar de um botão, o jato de vapor entra na plataforma e inicia a fabricação. Engrenagens girando na plataforma, pressionando aço quente, moldando-o em engrenagens recém-fabricadas. Uma fábrica para fazer uma fábrica. Talvez a usemos para fazer ainda mais produtos; ou talvez a vendamos para outra pessoa por um amplo lucro. Nesse simples processo está a prova do papel da indústria em nossa era. Podemos fazer dirigíveis, tanques, máquinas diferenciais, roupas e até mesmo fábricas. Ao controlar a eficiência e maximizar a produção de nosso setor industrial, podemos fazer o que quisermos e ser os melhores nisso."[NEWLINE][NEWLINE] - Ignácio Curnow, trecho de "Aço e Vapor: Um Guia do Industrialista"
 </Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_NAME">
-			<Text>Octavius Cutler</Text>
+			<Text>Otávio Cutler</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_SUBTITLE">
-			<Text>Leader of Pulias</Text>
+			<Text>Líder de Pulias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_LIVED">
 			<Text>1809 - 1888 d.C.</Text>
@@ -251,14 +251,14 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1">
-			<Text>"There are those who say that power comes from science, and research is the way to more of it.  Others find power in inventing new military contraptions, rolling around with their Landships and locking away stores of resources.  But the true power is in none of these things.  It is in the people that make these things.  If we know what they know, then we have what they have.  Let them fight amongst themselves and strive towards new discoveries. We make it our business to match their every step from the shadows, and our collected power becomes greater than all of theirs.  If we do it right - and we must - they won't even notice."[NEWLINE][NEWLINE] - Octavius Cutler, personal correspondence with newly appointed Intelligence Director
+			<Text>"Há aqueles que dizem que o poder vem da ciência e que a pesquisa é o caminho para mais dele. Outros encontram poder ao inventar novos dispositivos militares, rolando com seus Tanques e guardando estoques de recursos. Mas o verdadeiro poder não está em nada disso. Está nas pessoas que fazem essas coisas. Se soubermos o que eles sabem, então temos o que eles têm. Deixemos que lutem entre si e busquem novas descobertas. Fazemos o nosso negócio combinar cada passo deles nas sombras, e nosso poder coletivo se torna maior que o de todos eles. Se fizermos isso corretamente - e devemos -, eles nem perceberão."[NEWLINE][NEWLINE] - Otávio Cutler, correspondência pessoal com o recém-nomeado Diretor de Inteligência
 </Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_NAME">
-			<Text>Luther Griggs</Text>
+			<Text>Lutero Griggs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_SUBTITLE">
-			<Text>Leader of Vedria</Text>
+			<Text>Líder de Vedria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LIVED">
 			<Text>1842 - 1910 d.C.</Text>
@@ -267,14 +267,14 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TEXT_1">
-			<Text>"Technological progress has brought marvels of mechanical achievement into our everyday life and allowed us to live in class and comfort.  The whirring of the difference engines, the clack of brass gears, the steady burst of steam exhaust like the breath of a bull about to charge; these bring order into our world and allow us to perform marvels of science and computation that not only explain the natural world, but bring our order to bear firmly upon its sturdy shoulders.  Airships have lifted our leaden bodies, once eternally bound to the earth, for sorties in the skies.  With the sharp force of mind we have made real the eternal human dream of flight.  And not with wings that the whims of natural selection deemed to give us, but with wings wrought from the sweat of our own brow and the fire of our own forge."[NEWLINE][NEWLINE] - Luther Griggs, excerpt from "The Wings of Intellect"
+			<Text>"O progresso tecnológico trouxe maravilhas de realizações mecânicas para a nossa vida cotidiana e nos permitiu viver com classe e conforto. O zumbido dos máquinas diferenciais, o som das engrenagens de latão, o fluxo constante do vapor de exaustão como o sopro de um touro prestes a investir; esses elementos trazem ordem ao nosso mundo e nos permitem realizar maravilhas da ciência e da computação que não apenas explicam o mundo natural, mas também impõem nossa ordem de forma firme sobre seus ombros robustos. Dirigíveis elevaram nossos corpos de chumbo, uma vez eternamente ligados à terra, para incursões nos céus. Com a força aguçada da mente, realizamos o sonho humano eterno de voar. E não com asas que os caprichos da seleção natural nos concederam, mas com asas forjadas do suor de nossa própria testa e do fogo de nossa própria forja."[NEWLINE][NEWLINE] - Lutero Griggs, trecho de "As Asas do Intelecto"
 </Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
 			<Text>Clinton Alderdice</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_SUBTITLE">
-			<Text>Leader of Dalmace</Text>
+			<Text>Líder de Dalmace</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LIVED">
 			<Text>1799 - 1855 d.C.</Text>
@@ -283,39 +283,39 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1">
-			<Text>"Of this above all do I pray you remember, Mr. Secretary.  The Age of Steam has improved the livelihood of our great powers, but it has done so at the cost of the common man.  The swath of achievements in the past decades has only made more clear what has been the black mark on human history: the powerful few exploit the powerless many.  We have dismissed their difficulties as petty squabble, and appealed to our gentlemanly demeanor and productive enterprises as justification for our power, but the reality is that conditions are improving for us while they get worse for the common man.  Left unchecked, this gap will continue to grow until the common man is no more than a serf.  If I cannot appeal to you and the League on moral grounds - as it so seems, for I have tried tirelessly - let me warn you that our great society is becoming more and more unstable.  The common man may not be as educated or refined as we, but he has eyes and ears and a mind, and he will not be able to ignore the decadence of our lifestyle.  He will compare it to his own, and he will conspire with his neighbor.  Together they will grow and form a disgruntled block, and before the century is out we will have an uncontrollable rebellion on our hands.  And no amount of difference engine calculations or airship bombardments will be able to stop it, because those are built on the labor of those who have turned against us."[NEWLINE][NEWLINE] - Clinton Alderdice, letter to the Grand Secretary of the League of Empires
+			<Text>"Dentre tudo isso, acima de tudo, peço que você se lembre, Sr. Secretário. A Era do Vapor melhorou a vida de nossas grandes potências, mas o fez ao custo do homem comum. A faixa de realizações nas décadas passadas só tornou mais claro o que foi a marca negra na história humana: os poucos poderosos exploram os muitos sem poder. Ignoramos suas dificuldades como pequenas brigas, apelamos ao nosso comportamento cavalheiresco e a empreendimentos produtivos como justificação para o nosso poder, mas a realidade é que as condições estão melhorando para nós enquanto pioram para o homem comum. Sem controle, esse fosso continuará a crescer até que o homem comum não seja mais que um servo. Se não posso apelar a você e à Liga por motivos morais - como parece ser, pois tentei incansavelmente - permita-me avisá-lo de que nossa grande sociedade está se tornando cada vez mais instável. O homem comum pode não ser tão educado ou refinado quanto nós, mas ele tem olhos, ouvidos e uma mente, e ele não poderá ignorar a decadência de nosso estilo de vida. Ele o comparará ao dele e conspirará com seu vizinho. Juntos, eles crescerão e formarão um grupo descontente, e antes do final do século teremos uma rebelião incontrolável em mãos. E não haverá cálculos de máquina diferencial ou bombardeios de dirigíveis que possam detê-la, pois esses são construídos com o trabalho daqueles que se voltaram contra nós."[NEWLINE][NEWLINE] - Clinton Alderdice, carta ao Grande Secretário da Liga das Nações
 </Text>
 		</Row>
 		<!-- Traits-->
 		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS_SHORT">
-			<Text>Frontier Markets</Text>
+			<Text>Mercados Fronteiriços</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS">
-			<Text>+1 [ICON_GOLD] Gold from strategic resources, and [ICON_RES_ALUMINUM] Aetherium resources provide double quantity.</Text>
+			<Text>+1 de [ICON_GOLD]Ouro por recursos estratégicos, e os recursos de [ICON_RES_ALUMINUM]Éter fornecem o dobro da quantidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS_SHORT">
-			<Text>Optimized Extractors</Text>
+			<Text>Extratores Otimizados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS">
-			<Text>+1 [ICON_PRODUCTION] Production from strategic resources, and [ICON_RES_URANIUM] Luboric resources provide double quantity.</Text>
+			<Text>+1 de [ICON_PRODUCTION]Produção por recursos estratégicos, e recursos de [ICON_RES_URANIUM]Lubórico fornecem o dobro da quantidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER_SHORT">
-			<Text>New World Order</Text>
+			<Text>Nova Ordem Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER">
-			<Text>Adopting new Social Policies costs 10% less [ICON_CULTURE] Culture.</Text>
+			<Text>Adotar novas Políticas Sociais custa 10% menos de [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH_SHORT">
-			<Text>Tireless Watch</Text>
+			<Text>Vigilância Incansável</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH">
-			<Text>Airship units get +2 [ICON_MOVES] Movement.</Text>
+			<Text>Unidades de dirigíveis recebem +2 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES_SHORT">
-			<Text>Labor Castes</Text>
+			<Text>Castas Trabalhadoras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES">
-			<Text>20% less [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population.</Text>
+			<Text>20% menos de [ICON_HAPPINESS_4]Infelicidade por [ICON_CITIZEN]População.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT">
 			<Text>Guilda de Inventores</Text>
@@ -325,465 +325,465 @@
 		</Row>
 		<!-- Technologies-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Difference Engine[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Analytical Engine[ENDCOLOR] national wonder, which boost a city's [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Máquina Diferencial[ENDCOLOR] e a Maravilha Nacional [COLOR_POSITIVE_TEXT]Máquina Analítica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção e a [ICON_RESEARCH]Ciência de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"There will always be plenty of things to compute in the detailed affairs of millions of people doing complicated things."[NEWLINE] - Vannevar Bush[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Sempre haverá muitas coisas para calcular nos assuntos detalhados de milhões de pessoas fazendo coisas complicadas."[NEWLINE] - Vannevar Bush[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_REPLACEABLE_PARTS_HELP">
-			<Text>Gives access to [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR], the most advanced infantry unit in the world.</Text>
+			<Text>Dá acesso a [COLOR_POSITIVE_TEXT]Infantaria da Guerra Mundial[ENDCOLOR], a unidade de infantaria mais avançada do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LAND_IRONCLAD}[ENDCOLOR], the first landship unit.  Also allows Workers to build [COLOR_POSITIVE_TEXT]Railroads[ENDCOLOR] on map tiles.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Blindado Terrestre[ENDCOLOR], a primeira unidade de tanque. Também permite que os Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas de Ferro[ENDCOLOR] em hexágonos do mapa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_HELP">
-			<Text>Provides access to the [COLOR_POSITIVE_TEXT]Analytical Engine[ENDCOLOR] national wonder, which greatly increases [ICON_PRODUCTION] Production.</Text>
+			<Text>Fornece acesso à Maravilha Nacional [COLOR_POSITIVE_TEXT]Máquina Analítica[ENDCOLOR], que aumenta significativamente a [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The whole of arithmetic now appeared within the grasp of mechanism."[NEWLINE] - Charles Babbage[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Toda a aritmética agora parecia ao alcance do mecanismo."[NEWLINE] - Charles Babbage[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Grand Mansion[ENDCOLOR] and its national wonder counterpart, the [COLOR_POSITIVE_TEXT]Biltmore House[ENDCOLOR], both of which grant [ICON_GOLD] Gold and [ICON_CULTURE] Culture.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Grande Mansão[ENDCOLOR] e sua contraparte nacional, a [COLOR_POSITIVE_TEXT]Casa Biltmore[ENDCOLOR], ambas concedendo [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Avarice, the spur of industry."[NEWLINE] - David Hume[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A avareza, o estímulo da indústria."[NEWLINE] - David Hume[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_DESTROYER}[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]Flyer[ENDCOLOR], que é a primeira unidade aérea.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Contratorpedeiro[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Aeroplano[ENDCOLOR], que é a primeira unidade aérea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"To invent an airplane is nothing. To build an airplane is something. But to fly... is everything."[NEWLINE] - Ferdinand Ferber[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Inventar um aeroplano não é nada. Construir um aeroplano já é alguma coisa. Mas voar... é tudo."[NEWLINE] - Ferdinand Ferber[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_HELP">
-			<Text>Reveals [ICON_RES_URANIUM] Luboric and allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BATTLESHIP}[ENDCOLOR].</Text>
+			<Text>Revela os recursos de [ICON_RES_URANIUM]Lubórico e permite construir o [COLOR_POSITIVE_TEXT]Encouraçado[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Nature, to be commanded, must be obeyed."[NEWLINE] - Francis Bacon[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A natureza, para ser comandada, deve ser obedecida."[NEWLINE] - Francis Bacon[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
-			<Text>Reveals [ICON_RES_ALUMINUM] Aetherium and allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR].  Also allows you to build the [COLOR_POSITIVE_TEXT]Trade College[ENDCOLOR], which increases a city's [ICON_RESEARCH] Science and [ICON_CULTURE] Culture.</Text>
+			<Text>Revela os recursos de [ICON_RES_ALUMINUM]Éter e permite construir o [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR]. Também permite construir a [COLOR_POSITIVE_TEXT]Faculdade de Comércio[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência e [ICON_CULTURE]Cultura de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"In wilderness I sense the miracle of life, and behind it our scientific accomplishments fade to trivia."[NEWLINE] - Charles Lindbergh[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Na natureza, sinto o milagre da vida, e por trás dela nossas realizações científicas parecem triviais."[NEWLINE] - Charles Lindbergh[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR], which increases [ICON_GOLD] Gold.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], que aumenta o [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Competition is a sin."[NEWLINE] - John D. Rockefeller[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A competição é um pecado."[NEWLINE] - John D. Rockefeller[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANDSHIP}[ENDCOLOR], a powerful land unit.  Also grants access to the [COLOR_POSITIVE_TEXT]Patent Office[ENDCOLOR], which increases a city's [ICON_PRODUCTION] Production and [ICON_GOLD] Gold.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade terrestre poderosa. Também concede acesso ao [COLOR_POSITIVE_TEXT]Escritório de Patentes[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção e o [ICON_GOLD]Ouro de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The defenders had been driven right and left as soon as the prow of this {TXT_KEY_UNIT_LAND_IRONCLAD} had loomed up over the front of the trench."[NEWLINE] - H.G. Wells[NEWLINE][TAB]</Text>
+		<Text>[NEWLINE][TAB][TAB]"Os defensores foram jogados para a direita e para a esquerda assim que a proa deste blindado terrestre apareceu sobre a frente da trincheira."[NEWLINE] - H.G. Wells[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stadium[ENDCOLOR], which increases your empire's [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade do seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Virtue is the truest nobility."[NEWLINE] - Miguel de Cervantes[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A virtude é a verdadeira nobreza."[NEWLINE] - Miguel de Cervantes[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Airship[ENDCOLOR], which can travel over land and sea alike.  Also allows you to build the [COLOR_POSITIVE_TEXT]Inventor's Hall[ENDCOLOR] national wonder.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Dirigível[ENDCOLOR], que pode viajar tanto por terra quanto pelo mar. Também permite construir a maravilha nacional [COLOR_POSITIVE_TEXT]Salão dos Inventores[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Luboric Refinery[ENDCOLOR], which will produce [ICON_RES_URANIUM] Luboric resources for you.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Refinaria de Lubórico[ENDCOLOR], que irá produzir recursos de [ICON_RES_URANIUM]Lubórico para você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The most tangible of all visible mysteries - fire."[NEWLINE] - James Henry Leigh Hunt[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O mais tangível de todos os mistérios visíveis - o fogo."[NEWLINE] - James Henry Leigh Hunt[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Philanthroporium[ENDCOLOR], which increases a city's [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Filantropório[ENDCOLOR], que aumenta a [ICON_CULTURE]Cultura e a [ICON_HAPPINESS_1]Felicidade de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"I resolved to stop accumulating and begin the infinitely more serious and difficult task of wise distribution."[NEWLINE] - Andrew Carnegie[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Decidi parar de acumular e começar a tarefa infinitamente mais séria e difícil da distribuição inteligente."[NEWLINE] - Andrew Carnegie[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Aetherium Fabricator[ENDCOLOR], which will produce [ICON_RES_ALUMINUM] Aetherium resources for you.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Fabricante de Éter[ENDCOLOR], que irá produzir recursos de [ICON_RES_ALUMINUM]Éter para você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Civilization advances by extending the number of important operations which we can perform without thinking about them."[NEWLINE] - Alfred North Whitehead[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A civilização avança estendendo o número de operações importantes que podemos realizar sem pensar nelas."[NEWLINE] - Alfred North Whitehead[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Airship Hangar[ENDCOLOR], which gives extra Experience to trained units.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Hangar de Dirigíveis[ENDCOLOR], que fornece Experiência extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"I fly because it releases my mind from the tyranny of petty things."[NEWLINE] - Antoine de Saint Exupéry[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Eu voo porque isso liberta minha mente da tirania das coisas insignificantes."[NEWLINE] - Antoine de Saint Exupéry[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tesla Coil[ENDCOLOR], which greatly increases a city's [ICON_RESEARCH] Science output and slightly boosts [ICON_GOLD] Gold.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Bobina de Tesla[ENDCOLOR], que aumenta significativamente a produção de [ICON_RESEARCH]Ciência de uma cidade e aumenta ligeiramente o [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Anti-Aircraft Gun[ENDCOLOR], a powerful counter to air units, and the [COLOR_POSITIVE_TEXT]Military Base[ENDCOLOR], which increases a city's defense.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Canhão Antiaéreo[ENDCOLOR], uma poderosa unidade de defesa contra unidades aéreas, e a [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que aumenta a defesa de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Defense is superior to opulence."[NEWLINE] - Adam Smith[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A defesa é superior à opulência."[NEWLINE] - Adam Smith[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_HELP">
-			<Text>Allows you to build the most powerful landship unit, the [COLOR_POSITIVE_TEXT]Land Leviathan[ENDCOLOR].</Text>
+			<Text>Permite construir a unidade de tanque mais poderosa, o [COLOR_POSITIVE_TEXT]Leviatã Terrestre[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Speak softly and carry a big stick; you will go far."[NEWLINE] - Theodore Roosevelt[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Fale suavemente e carregue um grande bastão; você chegará longe."[NEWLINE] - Theodore Roosevelt[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RADIO_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], a building which greatly increases the [ICON_CULTURE] Cultural output of a city.  Also grants access to the [COLOR_POSITIVE_TEXT]Carnegie Hall[ENDCOLOR] national wonder, another large source of [ICON_CULTURE] Culture.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultural de uma cidade. Também concede acesso à maravilha nacional [COLOR_POSITIVE_TEXT]Carnegie Hall[ENDCOLOR], outra grande fonte de [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ROBOTICS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Automated Factory[ENDCOLOR], which significantly increases the [ICON_PRODUCTION] Production output of a city.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Fábrica Automatizada[ENDCOLOR], que aumenta significativamente a produção [ICON_PRODUCTION] Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_HELP">
-			<Text>Allows you to build the most powerful airship unit, the [COLOR_POSITIVE_TEXT]Sky Fortress[ENDCOLOR].</Text>
+			<Text>Permite construir a unidade de dirigível mais poderosa, a [COLOR_POSITIVE_TEXT]Fortaleza Aérea[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Any sufficiently advanced technology is indistinguishable from magic."[NEWLINE] - Arthur C. Clarke[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Qualquer tecnologia suficientemente avançada é indistinguível da magia."[NEWLINE] - Arthur C. Clarke[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Perpetual Motion Engine[ENDCOLOR] national wonder, which provides an enormous boost to [ICON_PRODUCTION] Production.</Text>
+			<Text>Permite construir a maravilha nacional [COLOR_POSITIVE_TEXT]Máquina de Movimento Perpétuo[ENDCOLOR], que proporciona um enorme aumento na [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Give me a place to stand and a lever long enough, and I shall move the world."[NEWLINE] - Archimedes[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Dê-me um lugar para ficar e uma alavanca suficientemente longa, e eu moverei o mundo."[NEWLINE] - Arquimedes[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Subterranean Outpost[ENDCOLOR] and its national wonder counterpart the [COLOR_POSITIVE_TEXT]Subterranean Colony[ENDCOLOR], both of which provide a powerful boost to a city's [ICON_PRODUCTION] Production.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Posto Avançado Subterrâneo[ENDCOLOR] e sua contraparte, a maravilha nacional [COLOR_POSITIVE_TEXT]Colônia Subterrânea[ENDCOLOR], ambas proporcionando um poderoso impulso na [ICON_PRODUCTION]Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"One just principle from the depths of a cave is more powerful than an army."[NEWLINE] - José Martí[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Um princípio vindo das profundezas de uma caverna é mais poderoso que um exército."[NEWLINE] - José Martí[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_HELP">
-			<Text>Allows you to build the late-game [COLOR_POSITIVE_TEXT]CN Tower[ENDCOLOR] wonder, which provides uma Torre de Difusão in all of your cities.</Text>
+			<Text>Permite construir a maravilha [COLOR_POSITIVE_TEXT]Torre CN[ENDCOLOR] no final do jogo, que fornece uma Torre de Transmissão em todas as suas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"A government of reason is better than one of force."[NEWLINE] - Thomas Jefferson[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Um governo baseado na razão é melhor do que um baseado na força."[NEWLINE] - Thomas Jefferson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_HELP">
-			<Text>May be researched more than once.  Provides [ICON_CULTURE] Culture each time it is successfully researched.</Text>
+			<Text>Pode ser pesquisada mais de uma vez. Fornece [ICON_CULTURE]Cultura cada vez que é pesquisada com sucesso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Men love to wonder, and that is the seed of our science."[NEWLINE] - Ralph Waldo Emerson[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Os homens amam se maravilhar, e essa é a semente da nossa ciência."[NEWLINE] - Ralph Waldo Emerson[NEWLINE][TAB]</Text>
 		</Row>
 		<!-- Resources -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_HELP">
-			<Text>Used by airship Units.</Text>
+			<Text>Usado por Unidades de Dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_TEXT">
-			<Text>Aetherium was first discovered by expedition parties who mistook it for silver.  As their mining operations expanded, the flakes and chunks of it were gathered into large parcels for shipment, and something very strange happened.  The parcels began to levitate off the ground.  Scientists began to analyze this material's unusual properties.  When masses of it are gathered together, it has the power to counteract gravity.  With careful engineering, these counter-gravitational forces can be guided into a reliable source of lift, allowing ships to float in the sky.  Its importance in the affairs of empire continues to grow, yet even today its properties are not well understood.  One careless inventor's apparatus electrified a small chunk of aetherium, causing it to shoot upwards and punch a hole through the roof.  The sample, engraved with the inventor's marking for experimental verification, was found weeks later, miles away from where it launched.</Text>
+			<Text>O Éter foi descoberto inicialmente por expedições que o confundiram com prata. À medida que as operações de mineração se expandiam, os fragmentos de Éter foram reunidos em grandes pacotes para envio e algo muito estranho aconteceu. Os pacotes começaram a flutuar do chão. Os cientistas começaram a analisar as propriedades incomuns desse material. Quando massas dele são reunidas, ele tem o poder de contrariar a gravidade. Com engenharia cuidadosa, essas forças contragravitacionais podem ser guiadas para gerar uma fonte confiável de elevação, permitindo que as naves flutuem no céu. Sua importância nos assuntos do império continua a crescer, mas até hoje suas propriedades não são bem compreendidas. Um inventor descuidado eletrificou um pequeno fragmento de Éter, fazendo-o disparar para cima e perfurar um buraco no telhado. A amostra, gravada com a marca do inventor para verificação experimental, foi encontrada semanas depois, a milhas de onde foi lançada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_HELP">
-			<Text>Used by landship Units.</Text>
+			<Text>Usado por Unidades de Tanque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_TEXT">
-			<Text>Appearing in the natural world as a nondescript, dull green ore, luboric glows under high temperatures.  It is much more powerful and volatile than its predecessor, coal, and acts as the ultimate energy source for factories and vehicles alike. The chain of reactions and mechanisms required to utilize luboric  are complex and unprecedented in the science of energies.  Whereas most fuel sources yield their energy when burned, luboric is unfazed by flame, its green glow the only apparent reaction.  To unlock the enormous potential present within chunks of luboric ore, it must be submerged in a solution of enzymes and subjected to both heat and pressure.  The key reaction is not combustion, but dissolution.  Its toxic gaseous exhaust must be carefully guided; if the fumes get trapped in a valve or corner for more than a few seconds it will eat through metal. Only with precautions will its legendary energy be loosed from its chemical bonds.</Text>
+			<Text>Aparecendo no mundo natural como um minério verde e opaco, o lubórico brilha sob altas temperaturas. É muito mais poderoso e volátil do que seu antecessor, o carvão, e atua como a fonte de energia definitiva para fábricas e veículos. A cadeia de reações e mecanismos necessários para utilizar o lubórico é complexa e sem precedentes na ciência das energias. Enquanto a maioria das fontes de combustível libera sua energia quando queimada, o lubórico não se abala com o fogo, sendo sua luminescência verde a única reação aparente. Para desbloquear o enorme potencial presente em pedaços de minério de lubórico, ele deve ser mergulhado em uma solução de enzimas e submetido tanto a calor quanto a pressão. A reação-chave não é a combustão, mas a dissolução. Seus gases de escape tóxicos devem ser cuidadosamente controlados; se os vapores ficarem presos em uma válvula ou canto por mais de alguns segundos, eles corroerão o metal. Somente com precauções sua energia lendária será liberada de suas ligações químicas.</Text>
 		</Row>
 		<!-- Promotions-->
 		<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN">
-			<Text>Move All Terrain</Text>
+			<Text>Mover por todos os terrenos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN_HELP">
-			<Text>As an airship, this unit may move over both land and sea tiles.</Text>
+			<Text>Como um dirigível, esta unidade pode se mover sobre hexágonos de terra e mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR">
-			<Text>Bonus vs fighters and airships (150)</Text>
+			<Text>Bônus contra Caças e Dirigíveis (150)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_AIR">
-			<Text>Bonus vs fighters and airships (150)</Text>
+			<Text>Bônus contra Caças e Dirigíveis (150)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR_II">
-			<Text>Bonus vs airships (150)</Text>
+			<Text>Bônus contra Dirigíveis (150)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_TANK">
-			<Text>Bonus vs landships (100)</Text>
+			<Text>Bônus contra Tanques (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_TANK">
-			<Text>Bonus vs landships (100)</Text>
+			<Text>Bônus contra Tanques (100)</Text>
 		</Row>
 		<!-- Units-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNITCOMBAT_HELICOPTER">
-			<Text>Airship Units</Text>
+			<Text>Unidades de Dirigíveis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
-			<Text>Great War Infantry is the strongest infantry unit in the game.  It can capture cities, but struggles when going up against landship and airship units.</Text>
+			<Text>A Infantaria da Guerra Mundial é a unidade de infantaria mais forte do jogo. Pode capturar cidades, mas tem dificuldades contra aviões e tanques.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_GREAT_WAR_INFANTRY">
-			<Text>Strongest infantry unit in the game.</Text>
+			<Text>A unidade de infantaria mais forte do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_BATTLESHIP">
-			<Text>Most powerful ranged Naval unit in the game.</Text>
+    			<Text>A unidade naval de longo alcance mais poderosa do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
+			<Text>O Submarino é uma embarcação especializada para eliminar navios. Ele é invisível para a maioria das unidades - exceto Contratorpedeiros e outros Submarinos - até atacar ou estar adjacente a outra unidade. O Submarino pode entrar em hexágonos de gelo. Use o Submarino para patrulhar as águas inimigas, afundar navios inimigos e proteger suas próprias embarcações contra ataques de submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e outros {TXT_KEY_INVISIBLE_SUBMARINE}. Pode causar grandes danos a outras embarcações quando entram no campo de alcance do {TXT_KEY_UNIT_SUBMARINE} sem que este seja detectado.</Text>
+			<Text>Invisível para todas as unidades, exceto Contratorpedeiros e outros Submarinos. Pode causar danos significativos a outros navios se estiverem dentro do alcance sem serem vistos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_ANTI_AIRCRAFT_GUN">
-			<Text>Will intercept enemy Flyers which try to attack nearby Units.  Also effective against airships.</Text>
+			<Text>Interceptarão unidades voadoras inimigas que tentem atacar unidades próximas. Também eficazes contra dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_TEXT">
-			<Text>Much had been learned from the construction of the "Iron Horse" that was the railroad.  Soon, inventors tried to engineer a vehicle with the power of a locomotive without need of a track.  Designing the apparatus for moving the unwieldy metal beasts that were the first prototypes proved extremely difficult.  The process merged into a simpler design with much less armor plating, but enough to withstand gunfire and the elements.  The first drivers found that having a light, maneuverable craft was much more effective than a bulky one.  It allowed for quick travel on less fuel, as well as agility in combat.</Text>
+			<Text>Muito foi aprendido com a construção do "Cavalo de Ferro", que era a ferrovia. Logo, inventores tentaram projetar um veículo com o poder de uma locomotiva sem a necessidade de trilhos. Projetar o aparato para mover as bestas de metal desajeitadas que eram os primeiros protótipos provou ser extremamente difícil. O processo evoluiu para um design mais simples, com muito menos placas de armadura, mas o suficiente para resistir a tiros e aos elementos. Os primeiros pilotos descobriram que ter uma embarcação leve e manobrável era muito mais eficaz do que uma volumosa. Isso permitia viagens rápidas com menos combustível, bem como agilidade em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_STRATEGY">
-			<Text>The most basic type of landship unit, the {TXT_KEY_UNIT_LAND_IRONCLAD} is well armored and shines in ground combat.  Use it to easily defeat primitive land units and wear down cities for capture.  Its armor will somewhat protect it against the smaller guns of Flyers, but it is very vulnerable to cannon fire from Airships.</Text>
+			<Text>O tipo mais básico de unidade de tanque terrestre, o Blindado Terrestre é bem blindado e se destaca em combates terrestres. Use-o para derrotar facilmente unidades terrestres primitivas e enfraquecer cidades para a captura. Sua blindagem oferecerá alguma proteção contra as armas menores de Aeronaves, mas ele é muito vulnerável a tiros de canhão de Dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_HELP">
-			<Text>First landship unit.  Strong against other land units, but weak against airships.</Text>
+			<Text>Primeira unidade de tanque terrestre. Forte contra outras unidades terrestres, mas fraco contra dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_TEXT">
-			<Text>The {TXT_KEY_UNIT_LANDSHIP} was everything the {TXT_KEY_UNIT_LAND_IRONCLAD} was to be but was not.  The discovery of luboric increased the energy available to power such a vehicle exponentially, allowing for more armor and weaponry while maintaining the same maneuverability.  It became the gold standard on the battlefield, capable of destroying nearly any other land unit.  With several of them, a commander could quickly take out an army or encircle a city.</Text>
+			<Text>O Tanque era tudo o que o Blindado Terrestre deveria ser, mas não foi. A descoberta do lubórico aumentou exponencialmente a energia disponível para alimentar tal veículo, permitindo mais blindagem e armamento mantendo a mesma manobrabilidade. Tornou-se o padrão de ouro no campo de batalha, capaz de destruir quase qualquer outra unidade terrestre. Com vários deles, um comandante poderia rapidamente eliminar um exército ou cercar uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_STRATEGY">
-			<Text>The {TXT_KEY_UNIT_LANDSHIP} is heavily armored and excels at ground combat.  Use it to defeat other land units and wear down cities for capture.  Its armor will help protect it against the smaller guns of Flyers, but it is vulnerable to cannon fire from Airships.  Escort the {TXT_KEY_UNIT_LANDSHIP} with units that are strong against air units, such as Flyers and Anti-Air Guns, for maximum survivability.</Text>
+			<Text>O Tanque é fortemente blindado e se destaca em combates terrestres. Use-o para derrotar outras unidades terrestres e enfraquecer cidades para captura. Sua blindagem o ajudará a se proteger contra as armas menores de Aeroplanos, mas ele é vulnerável a tiros de canhão de Dirigíveis. Escolte o Tanque com unidades fortes contra unidades aéreas, como Aeroplanos e Canhões Antiaéreos, para maximizar a sobrevivência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_HELP">
-			<Text>More powerful version of the {TXT_KEY_UNIT_LAND_IRONCLAD}.  Strong against other land units, but weak against airships.</Text>
+			<Text>Versão mais poderosa do Blindado Terrestre. Forte contra outras unidades terrestres, mas fraco contra dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_TEXT">
-			<Text>The Land Leviathan is the pinnacle of ground combat.  Taking its name from the fantastic sea monster, it boasts immense firepower.  It can fire from almost any angle and trek across the land at great speeds.  It is outfitted with a crew of sixteen: some man the cannons, others tend the luboric engine, and a pair act as pilot and navigator.  During training they learn to move and think as one unit, developing a shorthand language for giving complex commands quickly.</Text>
+			<Text>O Leviatã Terrestre é o auge do combate terrestre. Recebendo o nome do fantástico monstro marinho, ele possui um poder de fogo imenso. Pode disparar de quase qualquer ângulo e percorrer a terra em grande velocidade. Ele possui uma tripulação de dezesseis pessoas: alguns manejam os canhões, outros cuidam do motor lubórico e um par atua como piloto e navegador. Durante o treinamento, aprendem a se mover e pensar como uma unidade, desenvolvendo uma linguagem de comandos complexos de forma rápida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_STRATEGY">
-			<Text>The Land Leviathan is the pinnacle of landship units, bringing devastation to any other land unit.  Use it to destroy vulnerable enemy Anti-Air Guns and ensure your air units stay safe.  Its armor will help protect it against the smaller guns of Flyers, but it is still vulnerable to cannon fire from Airships and Sky Fortresses.  It is best to protect the expensive Land Leviathan with units that are strong against air units, such as Flyers and Anti-Air Guns.  </Text>
+			<Text>O Leviatã Terrestre é o auge das unidades de tanque terrestre, trazendo devastação para qualquer outra unidade terrestre. Use-o para destruir Canhões Antiaéreos inimigos vulneráveis e garantir que suas unidades aéreas fiquem seguras. Sua blindagem o ajudará a se proteger contra as armas menores de Aeroplanos, mas ele ainda é vulnerável a tiros de canhão de Dirigíveis e Fortalezas Aéreas. É melhor proteger o Leviatã Terrestre com unidades fortes contra unidades aéreas, como Aeroplanos e Canhões Antiaéreos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_HELP">
-			<Text>Most advanced landship unit.  Strong against other land units, but weak against airships.</Text>
+			<Text>A unidade de tanque terrestre mais avançada. Forte contra outras unidades terrestres, mas fraco contra dirigíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FLYER_TEXT">
-			<Text>The Flyer began as an inventor's novelty, one of the many results of the widespread participation in science brought on by the Age of Steam.  Advancements in propulsion had done wonders for land and sea vehicles; why not apply them in the pursuit of the eternal dream of human flight?  The engine mounted on the fuselage was bulky, so every ounce of weight had to be saved if the plane was to fly.  Cloth was used instead of metal wherever possible.  Later, as technology advanced, weapons were mounted on it and liberties were taken with the original design.</Text>
+			<Text>O Aeroplano começou como uma novidade de inventores, um dos muitos resultados da ampla participação na ciência trazida pela Era do Vapor. Avanços na propulsão fizeram maravilhas para veículos terrestres e marítimos; por que não aplicá-los na busca pelo sonho eterno do voo humano? O motor montado na fuselagem era volumoso, então cada grama de peso tinha que ser economizado se o avião fosse voar. Tecido era usado em vez de metal sempre que possível. Mais tarde, à medida que a tecnologia avançava, armas foram montadas nele e liberdades foram tomadas com o design original.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FLYER_STRATEGY">
-			<Text>Flyers have a short range and a moderate attack.  They excel at hit and run tactics, especially against Airships and Sky Fortresses, which are too bulky to effectively dodge their strikes.  Their limited range restricts them to mostly defensive roles at first, but later on the Sky Fortress can act as their mobile base, transporting them directly into the battlefield.</Text>
+			<Text>Aeroplanos têm um alcance curto e um ataque moderado. Eles se destacam em táticas de ataque e retirada, especialmente contra Dirigíveis e Fortalezas Aéreas, que são muito volumosos para esquivar eficazmente seus ataques. Seu alcance limitado os restringe principalmente a papéis defensivos no início, mas mais tarde a Fortaleza Aérea pode servir como sua base móvel, transportando-os diretamente para o campo de batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FLYER_HELP">
-			<Text>Excellent against airships, but not very strong against land units.  It also has a limited range, and must base at a city or Sky Fortress.</Text>
+			<Text>Excelente contra dirigíveis, mas não muito forte contra unidades terrestres. Também possui um alcance limitado e precisa estar baseado em uma cidade ou Fortaleza Aérea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AIRSHIP_TEXT">
-			<Text>Until the discovery of aetherium, it was believed that only light and maneuverable craft - such as the Flyer - would ever travel the skies.  The airship is a strange yet majestic contraption.  With the new material, the original engineers and inventors of the airship were free to put nearly anything in the air, going against the constraints of the science which had been the guiding laws of their professions heretofore.  Necessarily, the product reflected something familiar from past history: a seafaring vessel.  It had a deck, armaments on either side, and a balloon in place of a sail.  Early airship crews adopted naval conventions of rank and hierarchy.  Soon, though, the reality of sustained flight took on its own character.  Ship designs became more and more experimental.  Airship pilots and crew developed their own culture, at once genteel and whimsical.</Text>
+			<Text>Até a descoberta do éter, acreditava-se que apenas embarcações leves e manobráveis - como o Aeroplano - viajariam pelos céus. O dirigível é uma máquina estranha, porém majestosa. Com o novo material, os engenheiros e inventores originais do dirigível puderam colocar praticamente qualquer coisa no ar, indo contra as restrições da ciência que haviam sido as leis orientadoras de suas profissões até então. Necessariamente, o produto refletiu algo familiar da história passada: uma embarcação marítima. Tinha um convés, armamentos dos dois lados e um balão em lugar de uma vela. As tripulações dos primeiros dirigíveis adotaram convenções navais de patente e hierarquia. Logo, no entanto, a realidade do voo sustentado assumiu seu próprio caráter. Os projetos das embarcações tornaram-se cada vez mais experimentais. Pilotos e tripulação de dirigíveis desenvolveram sua própria cultura, ao mesmo tempo gentil e extravagante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AIRSHIP_STRATEGY">
-			<Text>The Airship is able to move over land and sea, shortening the distance needed to travel to the battlefield and opening up chances to strike enemies from a direction they do not expect.  Its large cannons can attack enemy Airships nearby or rain destruction down on targets below.  Flyers and Anti-Air Guns pose a threat, so take them out early or bring other unit types for support.</Text>
+			<Text>O Dirigível pode se mover sobre terra e mar, encurtando a distância necessária para chegar ao campo de batalha e abrindo chances de atacar inimigos de uma direção que eles não esperam. Seus grandes canhões podem atacar Dirigíveis inimigos próximos ou lançar destruição sobre alvos abaixo. Aeroplanos e Canhões Antiaéreos representam uma ameaça, então elimine-os cedo ou traga outros tipos de unidades como apoio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AIRSHIP_HELP">
-			<Text>First airship unit, able to move over land and sea.  Powerful against land targets, but vulnerable to Flyers.</Text>
+			<Text>Primeira unidade de dirigível, capaz de se mover sobre terra e mar. Poderosa contra alvos terrestres, mas vulnerável a Aeroplanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_TEXT">
-			<Text>The majestic Sky Fortress is quite a sight to behold.  Much larger than the airship, it casts a wide shadow on the ground below that strikes fear into the hearts of foes.  It is outfitted with heavy weaponry, but kept aloft through advanced applications of aetherium's lift properties.  Inside the ship's body are a variety of accommodations: war rooms used by generals above the battlefield, a small hangar which can host a squadron of Flyers, and even parlors for recreation.  The Sky Fortress became the centerpiece of airship fleets, a mobile command center that could rain death on the land below and blow enemy airships out of the sky.</Text>
+			<Text>A majestosa Fortaleza Aérea é uma visão impressionante. Muito maior que o dirigível, lança uma sombra ampla sobre o chão abaixo, causando temor nos corações dos inimigos. Ela é equipada com armamento pesado, mas é mantida no ar por meio das propriedades de sustentação do éter aplicadas de forma avançada. Dentro do corpo da nave existem várias acomodações: salas de guerra usadas por generais acima do campo de batalha, um pequeno hangar que pode abrigar um esquadrão de Aeroplanos e até salas de recreação. A Fortaleza Aérea se tornou o ponto central das frotas de dirigíveis, um centro de comando móvel capaz de lançar morte sobre a terra abaixo e abater dirigíveis inimigos dos céus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_STRATEGY">
-			<Text>The Sky Fortress is the most advanced type of airship unit, and houses significant firepower.  Not only can it use its cannons to attack land targets and other airships, but also it can act as a mobile base for a Flyer.  With a Flyer running strikes on nearby airship units, the Sky Fortress poses a serious threat to many types of units, but is still vulnerable to enemy Flyers and Anti-Air Guns.</Text>
+			<Text>A Fortaleza Aérea é o tipo mais avançado de unidade de dirigível e abriga um poder de fogo significativo. Não apenas pode usar seus canhões para atacar alvos terrestres e outros dirigíveis, mas também pode servir como uma base móvel para um Aeroplano. Com um Aeroplano realizando ataques em unidades de dirigíveis próximas, a Fortaleza Aérea representa uma séria ameaça para muitos tipos de unidades, mas ainda é vulnerável a Aeroplanos inimigos e Canhões Antiaéreos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_HELP">
-			<Text>Most advanced airship unit.  May act as base for a Flyer.  Powerful attacks, but vulnerable to Flyers.</Text>
+			<Text>Unidade de dirigível mais avançada. Pode servir como base para um Aeroplano. Ataques poderosos, mas vulnerável a Aeroplanos.</Text>
 		</Row>
 		<!-- Unique Buildings-->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANDSTAND_TEXT">
-			<Text>The people of Dalmace understand the importance of public spaces to their livelihood and advancement.  The Grandstand acts as a venue for entertainment and culture alike, attracting crowds from far away.</Text>
+			<Text>O povo de Dalmace entende a importância de espaços públicos para sua subsistência e avanço. A Tribuna atua como um local para entretenimento e cultura, atraindo multidões de longe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_STRATEGY">
-			<Text>The Grandstand can only be built by Alderdice, and replaces the Stadium.  Unlike the Stadium, it provides [ICON_CULTURE] Culture, helping to expand territory and gain new Social Policies more quickly.</Text>
+			<Text>A Tribuna só pode ser construída por Alderdice e substitui o Estádio. Ao contrário do Estádio, ela proporciona [ICON_CULTURE]Cultura, ajudando a expandir o território e adquirir novas Políticas Sociais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_HELP">
-			<Text>Can only be built by Alderdice.</Text>
+			<Text>Só pode ser construída por Alderdice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_FACTORY_TEXT">
-			<Text>The value of luboric in creating engines for landships was clear to all of the empires, but the industrial masterminds of Orlin saw its potential to improve production.  They created factories specifically for luboric, which could refine trace amounts into usable quantities and use them for the efficient production of goods.</Text>
+			<Text>O valor do lubórico na criação de motores para tanques era claro para todos os impérios, mas os mestres industriais de Orlin viram seu potencial para melhorar a produção. Eles criaram fábricas especificamente para lubórico, que poderiam refinar pequenas quantidades em quantidades utilizáveis e usá-las para a produção eficiente de bens.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_STRATEGY">
-			<Text>The Luboric Factory can only be built by Curnow.  Unlike the Luboric Refinery, which it replaces, the Luboric Factory gives a bonus to [ICON_PRODUCTION] Production which increases with the number of [ICON_RES_URANIUM] Luboric resources worked by the city it is built in.  This bonus stacks with Curnow's trait.</Text>
+			<Text>A Fábrica de Lubórico só pode ser construída por Curnow. Ao contrário da Refinaria de Lubórico, que substitui, a Fábrica de Lubórico dá um bônus de [ICON_PRODUCTION]Produção que aumenta com o número de recursos de [ICON_RES_URANIUM]Lubórico trabalhados pela cidade em que é construída. Esse bônus acumula com a característica de Curnow.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_HELP">
-			<Text>Can only be built by Curnow.[NEWLINE][NEWLINE]Provides [COLOR_POSITIVE_TEXT]2 [ICON_RES_URANIUM] Luboric[ENDCOLOR] resources.[NEWLINE][NEWLINE]Each source of [ICON_RES_URANIUM] Luboric worked by this city provides +1 [ICON_PRODUCTION] Production.</Text>
+			<Text>Só pode ser construída por Curnow.[NEWLINE][NEWLINE]Fornece [COLOR_POSITIVE_TEXT]2 de [ICON_RES_URANIUM]Lubórico[ENDCOLOR].[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_URANIUM]Lubórico trabalhada por esta cidade fornece +1 de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TORUS_DYNAMO_TEXT">
-			<Text>The scientists of Vedria were mesmerized by galvanomagnetic forces, and built entire research laboratories dedicated to it.  At the center of these laboratories was the Torus Dynamo, which crackled with electric current.  It served as both the subject of research and the energy source that powered research.</Text>
+			<Text>Os cientistas de Vedria ficaram fascinados pelas forças galvanomagnéticas e construíram laboratórios de pesquisa inteiros dedicados a isso. No centro desses laboratórios estava o Dínamo Toroidal, que crepitava com corrente elétrica. Ele serviu tanto como objeto de pesquisa quanto como fonte de energia que alimentava a pesquisa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_STRATEGY">
-			<Text>The Torus Dynamo can only be built by Griggs.  It provides a boost to a city's [ICON_RESEARCH] Science greater than the Tesla Coil, which it replaces.  This bonus can be very helpful for picking up older technologies you may have missed, or when working towards expensive Future Era technologies.</Text>
+			<Text>O Dínamo Toroidal só pode ser construído por Griggs. Ele fornece um impulso na [ICON_RESEARCH]Ciência de uma cidade maior do que a Bobina de Tesla, que ele substitui. Esse bônus pode ser muito útil para pegar tecnologias mais antigas que você pode ter perdido ou ao trabalhar em direção a tecnologias caras da Era Futura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_HELP">
-			<Text>Can only be built by Griggs.</Text>
+			<Text>Só pode ser construído por Griggs.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FACTORY_TEXT">
-			<Text>Aetherium is a substance that seems to defy the laws of the natural world, and its uses are many.  Agents of Pulias made this resource the focus of much of their efforts.  The Aetherium Factory is able to maximize the effects of even small amounts of aetherium, which can then be used by traders to bedazzle commoners out of their cash or craft highly valued commercial novelties.</Text>
+			<Text>O éter é uma substância que parece desafiar as leis do mundo natural, e seus usos são muitos. Agentes de Pulias fizeram desse recurso o foco de muitos de seus esforços. A Fábrica de Éter é capaz de maximizar os efeitos mesmo de pequenas quantidades de éter, que podem então ser usadas por comerciantes para deslumbrar o povo comum de seu dinheiro ou criar novidades comerciais altamente valorizadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_STRATEGY">
-			<Text>The Aetherium Factory can only be built by Cutler.  Unlike the Aetherium Fabricator, which it replaces, the Aetherium Factory gives a bonus to [ICON_GOLD] Gold which increases with the number of [ICON_RES_ALUMINUM] Aetherium resources worked by the city it is built in.  This bonus stacks with Cutler's trait.</Text>
+			<Text>A Fábrica de Éter só pode ser construída por Cutler. Ao contrário do Fabricante de Éter, que substitui, a Fábrica de Éter dá um bônus de [ICON_GOLD]Ouro que aumenta com o número de recursos de [ICON_RES_ALUMINUM]Éter trabalhados pela cidade em que é construída. Esse bônus acumula com a característica de Cutler.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_HELP">
-			<Text>Can only be built by Cutler.[NEWLINE][NEWLINE]Provides [COLOR_POSITIVE_TEXT]2 [ICON_RES_ALUMINUM] Aetherium[ENDCOLOR] resources.[NEWLINE][NEWLINE]Each source of [ICON_RES_ALUMINUM] Aetherium worked by this city provides +1 [ICON_GOLD] Gold.</Text>
+			<Text>Só pode ser construída por Cutler.[NEWLINE][NEWLINE]Fornece [COLOR_POSITIVE_TEXT]2 de Éter [ICON_RES_ALUMINUM][ENDCOLOR].[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_ALUMINUM]Éter trabalhada por esta cidade fornece +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AERODROME_TEXT">
-			<Text>The famed Aerodromes of Eruch doubled as a place of airship manufacture and training.  Crewmen participated directly in the process of construction, which not only acted as training but also improved efficiency.</Text>
+			<Text>Os famosos Aeródromos de Eruch serviam tanto como local de fabricação quanto de treinamento de dirigíveis. Os membros da tripulação participavam diretamente do processo de construção, o que não apenas funcionava como treinamento, mas também melhorava a eficiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AERODROME_STRATEGY">
-			<Text>The Aerodrome can only be built by Rotheram.  It replaces the Airship Hangar, providing a bonus to [ICON_PRODUCTION] Production when building air units: Flyers, Airships, and Sky Fortresses.  Like the Airship Hangar, it also provides extra Experience to trained air units.  Use the Aerodrome to build an experienced air fleet in a short time.</Text>
+			<Text>O Aeródromo só pode ser construído por Rotheram. Ele substitui o Hangar de Dirigíveis, fornecendo um bônus de [ICON_PRODUCTION]Produção ao construir unidades aéreas: Aeroplanos, Dirigíveis e Fortalezas Aéreas. Como o Hangar de Dirigíveis, ele também fornece Experiência extra às unidades aéreas treinadas. Use o Aeródromo para construir uma frota aérea experiente em pouco tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AERODROME_HELP">
-			<Text>Can only be built by Rotheram.[NEWLINE][NEWLINE]+15 XP for air Units.[NEWLINE][NEWLINE]+10% [ICON_PRODUCTION] Production when building air units.</Text>
+			<Text>Só pode ser construído por Rotheram.[NEWLINE][NEWLINE]+15 de EXP para Unidades Aéreas.[NEWLINE][NEWLINE]+10% de [ICON_PRODUCTION]Produção ao construir unidades aéreas.</Text>
 		</Row>
 		<!-- Buildings-->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIFFERENCE_ENGINE_TEXT">
-			<Text>The first difference engines were small, expensive tools restricted to performing complex calculations for businesses or laboratories.  Once the value of computational logic was recognized, however, larger and larger models were built.  Now their use extends from the smallest financial transaction to statistical analysis for affairs of state.</Text>
+			<Text>As primeiras máquinas diferenciais eram ferramentas pequenas e caras restritas a realizar cálculos complexos para empresas ou laboratórios. Uma vez reconhecido o valor da lógica computacional, no entanto, modelos cada vez maiores foram construídos. Agora, seu uso se estende desde a menor transação financeira até análises estatísticas para assuntos de estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_STRATEGY">
-			<Text>Provides a boost to [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science.  Build one in each city to unlock the Analytical Engine national wonder.</Text>
+			<Text>Fornece um impulso na [ICON_PRODUCTION]Produção e na [ICON_RESEARCH]Ciência. Construa um em cada cidade para desbloquear a maravilha nacional Máquina Analítica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_HELP">
-			<Text>Unlocks the Analytical Engine when built in every city.</Text>
+			<Text>Desbloqueia a Máquina Analítica quando construída em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRAND_MANSION_TEXT">
-			<Text>The operations of empire brought many opportunities for prosperity through trade, invention, and industry.  There were many newcomers to the ranks of nobility, and they used their fortunes to construct decadent, grand mansions which became the gathering places of high culture and business.</Text>
+			<Text>As operações do império trouxeram muitas oportunidades de prosperidade através do comércio, invenção e indústria. Muitos recém-chegados se juntaram às fileiras da nobreza e usaram suas fortunas para construir mansões suntuosas e grandiosas, que se tornaram os locais de encontro da alta cultura e dos negócios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_STRATEGY">
-			<Text>Provides a boost to [ICON_GOLD] Gold and [ICON_CULTURE] Culture.  Build one in each city to unlock the Biltmore House national wonder.</Text>
+			<Text>Fornece um impulso no [ICON_GOLD]Ouro e na [ICON_CULTURE]Cultura. Construa um em cada cidade para desbloquear a maravilha nacional Casa Biltmore.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_HELP">
-			<Text>Unlocks Biltmore House when built in every city.</Text>
+			<Text>Desbloqueia a Casa Biltmore quando construída em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TRADE_COLLEGE_TEXT">
-			<Text>As the possibilities of science continued to expand in scope, empires recognized the value of subsidizing the education of young scientists, inventors, explorers, and entrepreneurs.  Advantages in these - big and small alike - were sought after; anything could be the edge that would outclass rival empires.</Text>
+			<Text>À medida que as possibilidades da ciência continuavam a se expandir em escopo, os impérios reconheceram o valor de subsidiar a educação de jovens cientistas, inventores, exploradores e empreendedores. As vantagens nessas áreas, sejam grandes ou pequenas, eram buscadas; qualquer coisa poderia ser a vantagem que superaria os impérios rivais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_STRATEGY">
-			<Text>Provides a large boost to [ICON_RESEARCH] Science as well as some [ICON_CULTURE] Culture.</Text>
+			<Text>Fornece um grande impulso na [ICON_RESEARCH]Ciência, bem como alguma [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_HELP">
-			<Text>Provides [ICON_RESEARCH] Science and [ICON_CULTURE] Culture.</Text>
+			<Text>Fornece [ICON_RESEARCH]Ciência e [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PATENT_OFFICE_TEXT">
-			<Text>In the age of miraculous science, inventors fill the streets, trying to peddle their wares.  Their brilliance is hidden in a sea of competition and empty promise.  Patents streamline the process of invention, weeding out the spurious and rewarding ingenuity.</Text>
+			<Text>Na era da ciência miraculosa, inventores enchem as ruas, tentando vender suas mercadorias. Sua genialidade está escondida em um mar de concorrência e promessas vazias. Patentes simplificam o processo de invenção, eliminando o falso e recompensando a engenhosidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_STRATEGY">
-			<Text>Provides a boost to [ICON_GOLD] Gold and [ICON_PRODUCTION] Production, as well as a slot for a Scientist specialist.</Text>
+			<Text>Fornece um impulso no [ICON_GOLD]Ouro e na [ICON_PRODUCTION]Produção, bem como um espaço para um especialista Cientista.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_HELP">
-			<Text>Unlocks Inventor's Hall when built in every city.</Text>
+			<Text>Desbloqueia o Salão dos Inventores quando construído em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_REFINERY_TEXT">
-			<Text>Valuable luboric deposits are a rare find, but once its chemical composition was known, scientists were able to find trace amounts nearly anywhere.  Through elaborate chemical processes, these trace amounts can be refined into potent compounds that mimic the effects of pure luboric.</Text>
+			<Text>Depósitos valiosos de lubórico são difíceis de encontrar, mas uma vez conhecida sua composição química, os cientistas conseguiram encontrar pequenas quantidades em quase qualquer lugar. Através de processos químicos elaborados, essas pequenas quantidades podem ser refinadas em compostos potentes que imitam os efeitos do lubórico puro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_STRATEGY">
-			<Text>Provides [ICON_RES_URANIUM] Luboric resources without needing to own a tile with the resource.  With these resources, you can train more {TXT_KEY_UNIT_LANDSHIP} units for your army.</Text>
+			<Text>Fornece recursos de [ICON_RES_URANIUM] Lubórico sem precisar possuir um hexágono com o recurso. Com esses recursos, você pode treinar mais unidades de tanques para seu exército.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_HELP">
-			<Text>Provides [COLOR_POSITIVE_TEXT]2 [ICON_RES_URANIUM] Luboric[ENDCOLOR] resources.</Text>
+			<Text>Fornece [COLOR_POSITIVE_TEXT]2 de [ICON_RES_URANIUM]Lubórico[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PHILANTHROPORIUM_TEXT">
-			<Text>A cross between philanthropy and the great trade emporiums in this age of international trade, the philanthroporium offers premium charity to the common man at a fraction of the price.</Text>
+			<Text>Uma combinação de filantropia e os grandes empórios comerciais nesta era de comércio internacional, o filantropório oferece caridade de qualidade ao homem comum a uma fração do preço.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_STRATEGY">
-			<Text>Provides a large boost to [ICON_CULTURE] Culture as well as some [ICON_HAPPINESS_1] Happiness.  Build one in each city to unlock the Carnegie Hall national wonder.</Text>
+			<Text>Fornece um grande impulso na [ICON_CULTURE]Cultura, bem como alguma [ICON_HAPPINESS_1]Felicidade. Construa um em cada cidade para desbloquear a maravilha nacional Carnegie Hall.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_HELP">
-			<Text>Unlocks Carnegie Hall when built in every city.</Text>
+			<Text>Desbloqueia o Carnegie Hall quando construído em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TESLA_COIL_TEXT">
-			<Text>Electricity was initially a wild and poorly-understood force.  Its power was difficult to control, which is why the Tesla Coil was designed.  It soon became indispensable for scientific inquiry.</Text>
+			<Text>A eletricidade era inicialmente uma força selvagem e pouco compreendida. Seu poder era difícil de controlar, por isso a Bobina de Tesla foi projetada. Logo ela se tornou indispensável para a investigação científica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_STRATEGY">
-			<Text>Provides a large boost to [ICON_RESEARCH] Science as well as some [ICON_GOLD] Gold.</Text>
+			<Text>Fornece um grande impulso na [ICON_RESEARCH]Ciência, bem como algum [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_HELP">
-			<Text>Provides [ICON_RESEARCH] Science and [ICON_GOLD] Gold.</Text>
+			<Text>Fornece [ICON_RESEARCH]Ciência e [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FABRICATOR_TEXT">
-			<Text>As the mysteries of aetherium continue to be probed, scientists have found ways to make smaller quantities of the resource just as effective as a large quantity, and even craft synthetic versions that approximate its effects.</Text>
+			<Text>À medida que os mistérios do éter continuaram sendo explorados, cientistas encontraram maneiras de tornar quantidades menores do recurso tão eficazes quanto uma grande quantidade, e até criar versões sintéticas que aproximam seus efeitos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_STRATEGY">
-			<Text>Provides [ICON_RES_ALUMINUM] Aetherium resources without needing to own a tile with the resource.  With these resources, you can train more airship units for your army.</Text>
+			<Text>Fornece recursos de [ICON_RES_ALUMINUM]Éter sem precisar possuir um hexágono com o recurso. Com esses recursos, você pode treinar mais unidades de dirigíveis para seu exército.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_HELP">
-			<Text>Provides [COLOR_POSITIVE_TEXT]2 [ICON_RES_ALUMINUM] Aetherium[ENDCOLOR] resources.</Text>
+			<Text>Fornece [COLOR_POSITIVE_TEXT]2 de [ICON_RES_ALUMINUM]Éter[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AIRSHIP_HANGAR_TEXT">
-			<Text>Flyers and airships can land anywhere there is a flat stretch of land, but having a dedicated space to act as base of operations significantly increases both morale and potential for training new crew members.</Text>
+			<Text>Aeroplanos e dirigíveis podem pousar em qualquer lugar onde haja uma área plana, mas ter um espaço dedicado como base de operações aumenta significativamente tanto o moral quanto o potencial para treinar novos membros da tripulação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_STRATEGY">
-			<Text>Provides extra Experience to trained air units: Flyers, Airships, and Sky Fortresses.</Text>
+			<Text>Fornece Experiência extra para unidades aéreas treinadas: Aeroplanos, Dirigíveis e Fortalezas Aéreas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_HELP">
-			<Text>+15 XP for air Units.</Text>
+			<Text>+15 EXP para Unidades Aéreas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AUTOMATED_FACTORY_TEXT">
-			<Text>The toil of the common man can be traced to the hours he spends slaving in factories under the worst conditions.  By applying knowledge of automated machines, not only can his plight be improved, but efficiency can be increased.  Machines have no need of sleep.</Text>
+			<Text>O trabalho do homem comum pode ser atribuído às horas que ele passa trabalhando nas fábricas sob as piores condições. Ao aplicar o conhecimento de máquinas automatizadas, não apenas sua situação pode ser melhorada, mas também a eficiência pode ser aumentada. Máquinas não precisam dormir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_STRATEGY">
-			<Text>Provides a large boost to [ICON_PRODUCTION] Production as well as some [ICON_HAPPINESS_1] Happiness. Build one in each city to unlock the Perpetual Motion Engine national wonder.</Text>
+			<Text>Fornece um grande impulso na [ICON_PRODUCTION]Produção, bem como alguma [ICON_HAPPINESS_1]Felicidade. Construa um em cada cidade para desbloquear a maravilha nacional Máquina de Movimento Perpétuo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_HELP">
-			<Text>Unlocks Perpetual Motion Engine when built in every city.</Text>
+			<Text>Desbloqueia a Máquina de Movimento Perpétuo quando construída em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_OUTPOST_TEXT">
-			<Text>The sheer vehicular power of the steam era was used to easily traverse the land and even the sky, but it was not for several decades that intrepid scientists thought to probe the depths of the earth.  With proper living quarters and equipment, a subterranean outpost can prove to be a valuable source of raw materials.</Text>
+			<Text>A grande potência veicular da era do vapor foi usada para atravessar facilmente a terra e até mesmo o céu, mas foi somente depois de várias décadas que cientistas intrépidos pensaram em sondar as profundezas da terra. Com alojamentos adequados e equipamentos, um posto avançado subterrâneo pode se revelar uma fonte valiosa de matérias-primas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_STRATEGY">
-			<Text>Provides a large boost to [ICON_PRODUCTION] Production as well as some [ICON_RESEARCH] Science. Build one in each city to unlock the Subterranean Colony national wonder.</Text>
+			<Text>Fornece um grande impulso na [ICON_PRODUCTION]Produção, bem como alguma [ICON_RESEARCH]Ciência. Construa um em cada cidade para desbloquear a maravilha nacional Colônia Subterrânea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_HELP">
-			<Text>Unlocks Subterranean Colony when built in every city.</Text>
+			<Text>Desbloqueia a Colônia Subterrânea quando construída em cada cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_HELP">
-			<Text>Reduces enemy spy stealing rate by 25%.</Text>
+			<Text>Reduz a taxa de roubo de tecnologias por espiões inimigos em 25%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_STRATEGY">
-			<Text>Police stations slow down the rate at which enemy spies can steal technologies from your city.</Text>
+			<Text>As delegacias de polícia diminuem a taxa com que espiões inimigos podem roubar tecnologias de sua cidade.</Text>
 		</Row>
 		<!-- National Wonders -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANALYTICAL_ENGINE_TEXT">
-			<Text>Towering above a mere Difference Engine, the Analytical Engine acts as the logistical brain of an empire.  It is tended by a staff of specialists, and its valuable operation time is carefully budgeted.</Text>
+			<Text>Elevando-se acima de uma mera Máquina Diferencial, a Máquina Analítica atua como o cérebro logístico de um império. Ela é cuidada por uma equipe de especialistas, e seu valioso tempo de operação é cuidadosamente orçado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_STRATEGY">
-			<Text>The Analytical Engine may only be built once each of your cities has a Difference Engine, and you may only build one in your empire.  It provides a large boost to [ICON_PRODUCTION] Production.</Text>
+			<Text>A Máquina Analítica pode ser construída somente quando cada uma de suas cidades tiver uma Máquina Diferencial, e você só pode construir uma em seu império. Ela fornece um grande impulso na [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_HELP">
-			<Text>É preciso ter construído a Difference Engine in all cities.</Text>
+			<Text>É preciso ter construído uma Máquina Diferencial em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BILTMORE_HOUSE_TEXT">
-			<Text>The Biltmore House is a center of refinement and commerce.  Its every room is manicured to entertain guests and facilitate important business transactions in the smoothest and most comfortable manner.</Text>
+			<Text>A Casa Biltmore é um centro de refinamento e comércio. Todos os seus cômodos são cuidadosamente preparados para entreter convidados e facilitar transações comerciais importantes da maneira mais suave e confortável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_STRATEGY">
-			<Text>The Biltmore House may only be built once each of your cities has a Grand Mansion, and you may only build one in your empire.  It provides a boost to [ICON_GOLD] Gold and [ICON_CULTURE] Culture.</Text>
+			<Text>A Casa Biltmore só pode ser construída quando cada uma de suas cidades tiver uma Grande Mansão, e você só pode construir uma em seu império. Ela fornece um impulso no [ICON_GOLD]Ouro e na [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_HELP">
-			<Text>É preciso ter construído a Grand Mansion in all cities.</Text>
+			<Text>É preciso ter construído a Grande Mansão em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_INVENTORS_HALL_TEXT">
-			<Text>A veritable madhouse of innovation, the Inventor's Hall is a public forum of discovery where inventors can meet and use provided tools to devise profitable gadgets which push the boundaries of science.</Text>
+			<Text>Um verdadeiro turbilhão de inovação, o Salão dos Inventores é um fórum público de descoberta onde inventores podem se encontrar e usar ferramentas fornecidas para criar aparelhos lucrativos que empurram os limites da ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_STRATEGY">
-			<Text>The Inventor's Hall may only be built once each of your cities has a Patent Office, and you may only build one in your empire.  It provides a boost to [ICON_GOLD] Gold and [ICON_RESEARCH] Science.</Text>
+			<Text>O Salão dos Inventores só pode ser construído quando cada uma de suas cidades tiver um Escritório de Patentes, e você só pode construir um em seu império. Ele fornece um impulso no [ICON_GOLD]Ouro e na [ICON_RESEARCH]Ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_HELP">
-			<Text>É preciso ter construído a Patent Office in all cities.</Text>
+			<Text>É preciso ter construído um Escritório de Patentes em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CARNEGIE_HALL_TEXT">
-			<Text>Serving high and low culture alike, Carnegie Hall is a grand venue which attracts the most talented of artists to perform and share their ideals on a national stage.</Text>
+			<Text>Servindo tanto a alta cultura quanto a baixa cultura, o Carnegie Hall é um grande local que atrai os artistas mais talentosos para se apresentar e compartilhar suas ideias em um palco nacional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_STRATEGY">
-			<Text>The Carnegie Hall may only be built once each of your cities has a Philanthroporium, and you may only build one in your empire.  It provides a large boost to [ICON_CULTURE] Culture as well as a small boost to [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>O Carnegie Hall só pode ser construído uma vez em cada uma das suas cidades que possui um Filantropório, e você só pode construir um em seu império. Ele proporciona um grande aumento na [ICON_CULTURE]Cultura, bem como um pequeno aumento na [ICON_HAPPINESS_1]Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_HELP">
-			<Text>É preciso ter construído a Philanthroporium in all cities.</Text>
+			<Text>É preciso ter construído um Filantropório em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_COLONY_TEXT">
-			<Text>Once outposts had been established in the depths of the earth, empires recruited civilians for colonization.  With technological advancements and reliable supply lines, a small city could be maintained beneath the earth.</Text>
+			<Text>Uma vez que postos avançados tenham sido estabelecidos nas profundezas da terra, impérios recrutaram civis para a colonização. Com avanços tecnológicos e linhas de abastecimento confiáveis, uma pequena cidade poderia ser mantida sob a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_STRATEGY">
-			<Text>The Subterranean Colony may only be built once each of your cities has a Subterranean Outpost, and you may only build one in your empire.  It provides a large boost to [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture.</Text>
+			<Text>A Colônia Subterrânea só pode ser construída quando cada uma de suas cidades tiver um Posto Avançado Subterrâneo, e você só pode construir um em seu império. Ela fornece um grande impulso na [ICON_PRODUCTION]Produção e na [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_HELP">
-			<Text>É preciso ter construído a Subterranean Outpost in all cities.</Text>
+			<Text>É preciso ter construído um Posto Avançado Subterrâneo em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PERPETUAL_MOTION_ENGINE_TEXT">
-			<Text>Scientists tried to unlock the secret of perpetual motion for centuries.  With advances in robotics and galvanomagnetic forces, it finally became possible.</Text>
+			<Text>Cientistas tentaram desvendar o segredo do movimento perpétuo por séculos. Com avanços na robótica e forças galvanomagnéticas, finalmente se tornou possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_STRATEGY">
-			<Text>The Perpetual Motion Engine may only be built once each of your cities has an Automated Factory, and you may only build one in your empire.  It provides an enormous boost to [ICON_PRODUCTION] Production as well as a moderate bonus to [ICON_GOLD] Gold.</Text>
+			<Text>A Máquina de Movimento Perpétuo só pode ser construída quando cada uma de suas cidades tiver uma Fábrica Automatizada, e você só pode construir uma em seu império. Ela fornece um impulso enorme na [ICON_PRODUCTION]Produção, bem como um bônus moderado de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_HELP">
-			<Text>É preciso ter construído an Automated Factory in all cities.</Text>
+			<Text>É preciso ter construído uma Fábrica Automatizada em todas as cidades.</Text>
 		</Row>
 		<!-- Leader Dialog-->
 		<!-- Luther Griggs (Gustavus Adolphus)-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
-			<Text>I say, it is a pleasure to meet you! I am Luther Griggs, inventor extraordinaire, leader of Vedria! Let us share our knowledge in the spirit of science and friendship.</Text>
+			<Text>É um prazer conhecê-lo! Eu sou Lutero Griggs, inventor extraordinário, líder de Vedria! Vamos compartilhar nosso conhecimento no espírito da ciência e da amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1}</Text>
@@ -792,7 +792,7 @@
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1">
-			<Text>The music of our machines is upon your doorstep. I'll be sure to preserve what I can of your cities so that I may learn from your methods.</Text>
+			<Text>A música de nossas máquinas chegou à sua porta. Certamente preservarei o que puder de suas cidades para que eu possa aprender com seus métodos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1}</Text>
@@ -801,7 +801,7 @@
 			<Text>{TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
-			<Text>Well met, sir. I hope that you continue the pursuit of knowledge and invention in my absence.</Text>
+			<Text>Seja muito bem-vindo, senhor. Espero que continue a busca pelo conhecimento e pela invenção em minha ausência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1}</Text>
@@ -844,7 +844,7 @@
 		</Row>
 		<!-- Cyrus Rotheram (Bismarck)-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1">
-			<Text>Ah, salutations. Allow me to introduce myself. I am Cyrus Rotheram of Eruch, known for our great military might. I hope you to be a valuable ally, or I shall judge you a worthy foe.</Text>
+			<Text>Ah, saudações. Permita-me apresentar-me. Sou Ciro Rotheram de Eruch, conhecido pelo nosso grande poder militar. Espero que se torne um aliado valioso, ou então o julgarei um adversário digno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1}</Text>
@@ -853,13 +853,13 @@
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1">
-			<Text>I shall relish this game of war with you, and then our airships will cast your land into shadow.</Text>
+			<Text>Saborearei este jogo de guerra contigo, e então nossos dirigíveis lançarão sombras sobre tuas terras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1">
-			<Text>I bow to you, sir, as you have proved to be my match. Enjoy your victory.</Text>
+			<Text>Inclino-me diante de ti, senhor, pois provaste ser meu igual. Desfrute da tua vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1}</Text>
@@ -908,7 +908,7 @@
 		</Row>
 		<!-- Ignace Curnow (Catherine)-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1">
-			<Text>Behold the greatest cog in the industrial machine, the nation of Orlin! I am Ignace Curnow, and shall warn you, sir, that any foolery shall be dealt with severely.  My time is of great value.</Text>
+			<Text>Eis a maior engrenagem na máquina industrial, a nação de Orlin! Sou Ignácio Curnow, e advirto-te, senhor, que qualquer tolice será tratada com severidade. Meu tempo é muito valioso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1}</Text>
@@ -917,13 +917,13 @@
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2">
-			<Text>Our factories have long prepared for this moment. You stand no chance against the progress of industry!</Text>
+			<Text>Nossas fábricas se preparam há muito tempo para este momento. Você não tem chance contra o progresso da indústria!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1">
-			<Text>You, sir, are a villain. Go ahead, take our factories, but the world shall never know the greatness of industry in your hands.</Text>
+			<Text>Você, senhor, é um vilão. Vá em frente, tome nossas fábricas, mas o mundo nunca conhecerá a grandeza da indústria em suas mãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1}</Text>
@@ -987,7 +987,7 @@
 		</Row>
 		<!-- Octavius Cutler (Elizabeth)-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2">
-			<Text>Come, my good man, and let us talk a while. My name is Octavius Cutler of Pulias, perhaps you have heard of me? No matter. Pray tell me about yourself and your great accomplishments.</Text>
+			<Text>Venha, meu caro, e conversemos um pouco. Meu nome é Otávio Cutler de Pulias, talvez já tenha ouvido falar de mim? Não importa. Conte-me sobre você e suas grandes realizações, por favor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
@@ -996,13 +996,13 @@
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1">
-			<Text>This will be quick, I assure you. Be at peace in the knowledge that your defeat will help Pulias grow stronger.</Text>
+			<Text>Isto será rápido, eu lhe asseguro. Fique em paz sabendo que sua derrota ajudará Pulias a se fortalecer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1">
-			<Text>I bow to you, sir, for your strong victory. My nation may have risen quietly, but the world knows that we did not go down in the same fashion.</Text>
+			<Text>Inclino-me diante de você, senhor, pela sua vitória contundente. Minha nação pode ter se erguido silenciosamente, mas o mundo sabe que não sucumbimos da mesma maneira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1}</Text>
@@ -1057,7 +1057,7 @@
 		</Row>
 		<!-- Clinton Alderdice (Napoleon)-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
-			<Text>Splendid meeting you, sir, simply splendid! Welcome to humble Dalmace. My name is Clinton Alderdice, and I happily offer you my hand in friendship.</Text>
+			<Text>É esplêndido encontrá-lo, senhor, absolutamente esplêndido! Bem-vindo à humilde Dalmace. Meu nome é Clinton Alderdice, e com prazer estendo minha mão em amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1}</Text>
@@ -1069,13 +1069,13 @@
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1">
-			<Text>My dear fellow, I must apologize for this act of aggression. Unfortunately there is no alternative.</Text>
+			<Text>Meu caro amigo, preciso pedir desculpas por este ato de agressão. Infelizmente, não há alternativa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2">
-			<Text>Good gracious, this injustice is uncalled for! Dalmace may be gone in name, but it will live on through the common man.</Text>
+			<Text>Mas que injustiça cruel! Dalmace pode ter desaparecido em seu nome, mas continuará vivo por meio do homem comum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_3">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2}</Text>
@@ -1139,50 +1139,50 @@
 		</Row>
 		<!-- Generic-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1">
-			<Text>Greetings, good sir! You appear to be an honourable gentleman. May our dealings long be amicable, and if we should meet on the battlefield may the best man win.</Text>
+			<Text>Saudações, nobre senhor! Você parece ser um cavalheiro honrado. Que nossos negócios sejam amigáveis por muito tempo, e se nos encontrarmos no campo de batalha, que o melhor homem vença.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2">
-			<Text>Ho, sir! I beg that you will state your business. Undoubtedly, your intentions are most admirable, else I shall warn you that I am quite a formidable foe.</Text>
+			<Text>Oh, senhor! Imploro que declare seu propósito. Sem dúvida, suas intenções são admiráveis, caso contrário, advirto que sou um adversário bastante formidável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_1">
-			<Text>Very good.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_2">
-			<Text>Just so.</Text>
+			<Text>Exatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_3">
-			<Text>Quite right.</Text>
+			<Text>Exatamente certo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_4">
-			<Text>Precisely so.</Text>
+			<Text>Exatamente assim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_5">
-			<Text>Most admirable.</Text>
+			<Text>Extremamente admirável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_6">
-			<Text>This arrangement is most agreeable.</Text>
+			<Text>Este acordo é bastante aceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_1">
-			<Text>I should think not.</Text>
+			<Text>Eu diria que não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_2">
-			<Text>This is an outrage!</Text>
+			<Text>Isto é um ultraje!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_3">
-			<Text>You offend me, sir.</Text>
+			<Text>Você me ofende, senhor.</Text>
 		</Row>
 		<!-- Backups for Policies and Traits-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT">
-			<Text>United Front</Text>
+			<Text>Frente Única</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]United Front[ENDCOLOR][NEWLINE]+10% [ICON_PRODUCTION] when building Wonders and new Cities start with an extra 1 [ICON_CITIZEN] Population.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Frente Única[ENDCOLOR][NEWLINE]+10% de [ICON_PRODUCTION] ao construir Maravilhas e as novas Cidades começam com 1 de [ICON_CITIZEN]População extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK_SHORT">
-			<Text>Intelligence Network</Text>
+			<Text>Rede de Inteligência</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK">
-			<Text>Receieve 2 extra Spies.</Text>
+			<Text>Receba 2 Espiões adicionais.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

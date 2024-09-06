@@ -1,5 +1,5 @@
-﻿<!-- Sid Meier's Civilization V -->
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization V -->
 <!-- Copyright Firaxis Games 2010 -->
 <!-- -->
 <!-- Game Text Cities -->
@@ -16,7 +16,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ABYDOS">
-			<Text>Abydos</Text>
+			<Text>Abidos</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -41,7 +41,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AGRIPPINA">
-			<Text>Agrippina</Text>
+			<Text>Agripina</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -96,7 +96,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALEPPO">
-			<Text>Aleppo</Text>
+			<Text>Alepo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -131,7 +131,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AMASYA">
-			<Text>Amasya</Text>
+			<Text>Amásia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -171,17 +171,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANKARA">
-			<Text>Ankara</Text>
+			<Text>Ancara</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANTALYA">
-			<Text>Antalya</Text>
+			<Text>Antália</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANTIUM">
-			<Text>Âncio</Text>
+			<Text>Antium</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -201,7 +201,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_APOLLONIA">
-			<Text>Apollonia</Text>
+			<Text>Apolônia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -226,7 +226,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ARKHANGELSK">
-			<Text>Arkhangel'sk</Text>
+			<Text>Arcangel</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -241,12 +241,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ARPINUM">
-			<Text>Arpinum</Text>
+			<Text>Arpino</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ARRETIUM">
-			<Text>Arretium</Text>
+			<Text>Arezzo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -271,7 +271,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ARYAN">
-			<Text>Aryan</Text>
+			<Text>Ariano</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -281,17 +281,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASSYRIAN">
-			<Text>Assyrian</Text>
+			<Text>Assíria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASTRAKHAN">
-			<Text>Astrakhan'</Text>
+			<Text>Astracã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASYUT">
-			<Text>Asyut</Text>
+			<Text>Assiute</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -346,7 +346,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AYDAB">
-			<Text>Aydab</Text>
+			<Text>Aidabe</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -366,7 +366,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BACTRIAN">
-			<Text>Bactrian</Text>
+			<Text>Bactriano</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -431,7 +431,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BASRA">
-			<Text>Basra</Text>
+			<Text>Baçorá</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -476,12 +476,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BELGIUM">
-			<Text>Belgium</Text>
+			<Text>Bélgica</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BELGRADE">
-			<Text>Belgrado</Text>
+			<Text>Ecbátana</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -561,7 +561,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BONN">
-			<Text>Bonn</Text>
+			<Text>Bona</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -571,7 +571,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BORDEAUX">
-			<Text>Bordeaux</Text>
+			<Text>Bordéus</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -581,7 +581,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BOURGES">
-			<Text>Bourges</Text>
+			<Text>Burges</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -621,12 +621,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BRYANSK">
-			<Text>Bryansk</Text>
+			<Text>Briansk</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUBASTIS">
-			<Text>Bubastis</Text>
+			<Text>Bubástis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -646,7 +646,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUKHARA">
-			<Text>Bukhara</Text>
+			<Text>Bucara</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -671,7 +671,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUSIRIS">
-			<Text>Busiris</Text>
+			<Text>Busíris</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -716,7 +716,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CAMBODIA">
-			<Text>Cambodia</Text>
+			<Text>Camboja</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -746,7 +746,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CARIB">
-			<Text>Carib</Text>
+			<Text>Caribe</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -826,7 +826,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHERBOURG">
-			<Text>Cherbourg</Text>
+			<Text>Cherburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -861,13 +861,13 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHONGQING">
-			<Text>Chongqing</Text>
+			<Text>Xunquim</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIMMERIAN">
-			<Text>Cimmerian</Text>
-			<Gender>neuter:noart</Gender>
+			<Text>Ciméria</Text>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CINCINNATI">
@@ -876,8 +876,8 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIRCASSIAN">
-			<Text>Circassian</Text>
-			<Gender>neuter:noart</Gender>
+			<Text>Circassiana</Text>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIRCEI">
@@ -916,7 +916,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_COPENHAGEN">
-			<Text>Copenhagen</Text>
+			<Text>Copenhague</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -926,7 +926,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CORINTH">
-			<Text>Corinth</Text>
+			<Text>Corinto</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -981,7 +981,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DAMASCUS">
-			<Text>Damascus</Text>
+			<Text>Damasco</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1016,7 +1016,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DELHI">
-			<Text>Delhi</Text>
+			<Text>Deli</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1026,7 +1026,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DENMARK">
-			<Text>Denmark</Text>
+			<Text>Dinamarca</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1041,7 +1041,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DIYARBAKIR">
-			<Text>Diyarbakir</Text>
+			<Text>Diarbaquir</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1131,7 +1131,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_EDINBURGH">
-			<Text>Edinburgh</Text>
+			<Text>Edimburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1151,7 +1151,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ELEPHANTINE">
-			<Text>Elephantine</Text>
+			<Text>Elefantina</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1166,7 +1166,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_EPHESUS">
-			<Text>Ephesus</Text>
+			<Text>Éfeso</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1176,7 +1176,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ERETRIA">
-			<Text>Eretria</Text>
+			<Text>Erétria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1231,7 +1231,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FINLAND">
-			<Text>Finland</Text>
+			<Text>Finlândia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1246,7 +1246,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FREIBURG">
-			<Text>Fraiburgo</Text>
+			<Text>Friburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1326,7 +1326,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GIZA">
-			<Text>Giza</Text>
+			<Text>Gizé</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1341,7 +1341,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GORDION">
-			<Text>Gordion</Text>
+			<Text>Górdio</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1351,7 +1351,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GORTYN">
-			<Text>Gortyn</Text>
+			<Text>Gotinga</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1406,7 +1406,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HALICARNASSUS">
-			<Text>Halicarnassus</Text>
+			<Text>Halicarnasso</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1441,12 +1441,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HANNOVER">
-			<Text>Hanover</Text>
+			<Text>Hanôver</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HANOI">
-			<Text>Hanoi</Text>
+			<Text>Hanói</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1471,22 +1471,22 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HELIOPOLIS">
-			<Text>Heliopolis</Text>
+			<Text>Heliópolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HELSINKI">
-			<Text>Helsinki</Text>
+			<Text>Helsinque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HERAKLEIA">
-			<Text>Herakleia</Text>
+			<Text>Heracleia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HERAKLEOPOLIS">
-			<Text>Herakleopolis</Text>
+			<Text>Heracleópolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1501,7 +1501,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HERMOPOLIS">
-			<Text>Hermopolis</Text>
+			<Text>Hermópolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1516,7 +1516,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HIERACONPOLIS">
-			<Text>Hieraconpolis</Text>
+			<Text>Hieracômpolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1581,7 +1581,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY">
-			<Text>Hungary</Text>
+			<Text>Hungria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1591,7 +1591,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HURRIAN">
-			<Text>Hurrian</Text>
+			<Text>Hurrita</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1631,7 +1631,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_IRELAND">
-			<Text>Ireland</Text>
+			<Text>Irlanda</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1651,7 +1651,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ISTANBUL">
-			<Text>Istanbul</Text>
+			<Text>Istambul</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1766,7 +1766,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KANSAS_CITY">
-			<Text>Kansas City</Text>
+			<Text>Cidade de Kansas</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1816,7 +1816,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KAZAKH">
-			<Text>Kazakh</Text>
+			<Text>Cazaque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1826,7 +1826,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KHOISAN">
-			<Text>Khoisan</Text>
+			<Text>Coissã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1836,7 +1836,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KIEL">
-			<Text>Kiel</Text>
+			<Text>Quiel</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1866,7 +1866,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KONYA">
-			<Text>Konya</Text>
+			<Text>Cônia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1876,7 +1876,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KOREA">
-			<Text>Korea</Text>
+			<Text>Coreia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1896,7 +1896,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KRAKOW">
-			<Text>Krakow</Text>
+			<Text>Cracóvia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1941,7 +1941,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KYOTO">
-			<Text>Kyoto</Text>
+			<Text>Quioto</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1971,7 +1971,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LAURIACUM">
-			<Text>Lauriacum</Text>
+			<Text>Lauriaco</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2021,12 +2021,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LIBYAN">
-			<Text>Libyan</Text>
+			<Text>Líbia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LIGURIAN">
-			<Text>Ligurian</Text>
+			<Text>Ligúria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2091,7 +2091,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LUCERIA">
-			<Text>Luceria</Text>
+			<Text>Lucéria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2126,7 +2126,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MAGADAN">
-			<Text>Magadan</Text>
+			<Text>Magadã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2186,7 +2186,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MARSEILLES">
-			<Text>Marseille</Text>
+			<Text>Marselha</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2206,7 +2206,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MAURYAN">
-			<Text>Mauryan</Text>
+			<Text>Máuria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2226,7 +2226,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MEDIOLANUM">
-			<Text>Mediolanum</Text>
+			<Text>Mediolano</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2236,7 +2236,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MEMPHIS">
-			<Text>Memphis</Text>
+			<Text>Mênfis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2276,7 +2276,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MINNEAPOLIS">
-			<Text>Minneapolis</Text>
+			<Text>Mineápolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2306,7 +2306,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MOSUL">
-			<Text>Mosul</Text>
+			<Text>Mossul</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2346,12 +2346,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MYCENAE">
-			<Text>Mycenae</Text>
+			<Text>Micenas</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MYCENIAN">
-			<Text>Mycenian</Text>
+			<Text>Micênico</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2391,7 +2391,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NANJING">
-			<Text>Nanjing</Text>
+			<Text>Nanquim</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2421,7 +2421,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NEAPOLIS">
-			<Text>Neapolis</Text>
+			<Text>Neápolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2436,12 +2436,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NEW_ORLEANS">
-			<Text>New Orleans</Text>
+			<Text>Nova Orleans</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NEW_YORK">
-			<Text>New York</Text>
+			<Text>Nova Iorque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2456,7 +2456,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NICOPOLIS">
-			<Text>Nicopolis</Text>
+			<Text>Nicópolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2476,7 +2476,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NORWAY">
-			<Text>Norway</Text>
+			<Text>Noruega</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2491,7 +2491,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NOVGOROD">
-			<Text>Novgorod</Text>
+			<Text>Novogárdia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2501,12 +2501,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NUBIAN">
-			<Text>Nubian</Text>
+			<Text>Núbio</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NUMIDIAN">
-			<Text>Numidian</Text>
+			<Text>Numídia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2526,7 +2526,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_OLDENBURG">
-			<Text>Oldenburgo</Text>
+			<Text>Oldemburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2576,7 +2576,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ORENBURG">
-			<Text>Orenburgo</Text>
+			<Text>Oremburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2646,12 +2646,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PARTHIAN">
-			<Text>Pártia</Text>
+			<Text>Parta</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PASARGADAE">
-			<Text>Pasárgada</Text>
+			<Text>Pasargadae</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2666,12 +2666,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PERGAMON">
-			<Text>Pérgamo</Text>
+			<Text>Pergamon</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PERM">
-			<Text>Perm</Text>
+			<Text>Perm'</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2681,7 +2681,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PHARSALOS">
-			<Text>Farsalos</Text>
+			<Text>Farsala</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2706,12 +2706,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PHOENIX">
-			<Text>Fênix</Text>
+			<Text>Phoenix</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PHRADA">
-			<Text>Phrada</Text>
+			<Text>Farah</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2736,7 +2736,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PLACENTIA">
-			<Text>Placência</Text>
+			<Text>Placentia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2821,7 +2821,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_RAVENNA">
-			<Text>Ravenna</Text>
+			<Text>Ravena</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2856,7 +2856,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_RHODES">
-			<Text>Rhodes</Text>
+			<Text>Rodes</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2881,7 +2881,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ROSTOV">
-			<Text>Rostov</Text>
+			<Text>Rostóvia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2956,7 +2956,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SANAA">
-			<Text>Sana'a</Text>
+			<Text>Sanaa</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2966,7 +2966,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SANTA_FE">
-			<Text>Santa Fe</Text>
+			<Text>Santa Fé</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3026,7 +3026,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SCYTHIAN">
-			<Text>Scythian</Text>
+			<Text>Cita</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3066,7 +3066,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SHANDONG">
-			<Text>Shandong</Text>
+			<Text>Xantum</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3226,7 +3226,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SUHAR">
-			<Text>Suhar</Text>
+			<Text>Sohar</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3236,22 +3236,22 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SUSA">
-			<Text>Susa</Text>
+			<Text>Susã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SUTRIUM">
-			<Text>Sutrium</Text>
+			<Text>Sutri</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SUZDAL">
-			<Text>Suzdal'</Text>
+			<Text>Susdália</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SUZHOU">
-			<Text>Suzhou</Text>
+			<Text>Sucheu</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3291,7 +3291,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TAIPEI">
-			<Text>Taipé</Text>
+			<Text>Taipei</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3306,7 +3306,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TAMPA_BAY">
-			<Text>Tampa Bay</Text>
+			<Text>Baía de Tampa</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3321,7 +3321,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TANIS">
-			<Text>Tanis</Text>
+			<Text>Tânis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3411,7 +3411,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_THRACIAN">
-			<Text>Trácia</Text>
+			<Text>Trácio</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3501,7 +3501,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TRES_ZAPOTES">
-			<Text>Três Zapotes</Text>
+			<Text>Tres Zapotes</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3606,7 +3606,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VIETNAM">
-			<Text>Vietnam</Text>
+			<Text>Vietnã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3686,7 +3686,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WURZBURG">
-			<Text>Wurzburgo</Text>
+			<Text>Wurzburg</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3811,7 +3811,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ZURICH">
-			<Text>Zurich</Text>
+			<Text>Zurique</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3971,7 +3971,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SYRACUSE">
-			<Text>Siracusa</Text>
+			<Text>Syracuse</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -4281,7 +4281,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TIRYNS">
-			<Text>Tiryns</Text>
+			<Text>Tirinto</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -4291,7 +4291,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHIOS">
-			<Text>Chios</Text>
+			<Text>Quios</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -4371,12 +4371,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LAMIA">
-			<Text>Lamia</Text>
+			<Text>Lâmia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NAFPLION">
-			<Text>Nafplion</Text>
+			<Text>Náuplia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

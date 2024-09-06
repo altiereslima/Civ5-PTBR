@@ -5,51 +5,61 @@
 	<Language_pt_BR>
 		<!-- Builds -->
 		<Row Tag="TXT_KEY_BUILD_TIPI_HELP">
-			<Text>Constructs a Tipi, which increases the amount of [ICON_FOOD] Food, and [ICON_PEACE] Faith provided by this tile.</Text>
+			<Text>Constrói um Tipi, que aumenta a quantidade de [ICON_FOOD]Comida, e [ICON_PEACE]Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI_REC">
-			<Text>It will increase the amount of [ICON_FOOD] Food, and [ICON_PEACE] Faith provided by this tile.</Text>
+			<Text>Aumentará a quantidade de [ICON_FOOD]Comida, e [ICON_PEACE]Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI">
-			<Text>Construct a [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>
+			<Text>Construa um [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>
 		</Row>
 		<!-- Improvements -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM">
-			<Text>Fazenda em Terraços</Text>
+			<Text>Fazenda em Terraço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
-			<Text>Tipi</Text>
+			<Text>Tipi|Tipis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_HELP">
-			<Text>A Tipi can only be built on a Flat Plains tile (even if it has a feature). It may not be adjacent to another Tipi. Must be built in Shoshone territory.</Text>
+			<Text>Um Tipi só pode ser construído em um hexágono de Planície Plana (mesmo que tenha um recurso). Não pode estar adjacente a outro Tipi. Deve ser construído no território dos Shoshone.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_TEXT">
-			<Text>The tipi (or teepee) is a portable, conical tent constructed of tanned hides and wooden poles traditionally associated with the migratory North American Plains Indians. The word itself comes from the Lakota for "they dwell." Often elaborately painted, tipis not only sheltered the Shoshone but served to identify the separate tribes.[NEWLINE][NEWLINE]A Tipi can only be built on Flat Plains tile (even if it has a feature) not adjacent to another Tipi.</Text>
+			<Text>O tipi (ou teepee) é uma tenda cônica portátil, construída com peles curtidas e paus de madeira, tradicionalmente associada aos índios das planícies migratórias da América do Norte. A própria palavra vem do Lakota e significa "eles habitam". Frequentemente pintados de forma elaborada, os tipis não apenas abrigavam os Shoshone, mas também serviam para identificar as tribos separadas.[NEWLINE][NEWLINE]Um Tipi só pode ser construído em um hexágono de Planície Plana (mesmo que tenha um recurso) e não pode estar adjacente a outro Tipi.</Text>
 		</Row>
 		<!-- Natural Wonders-->
 		<Row Tag="TXT_KEY_FEATURE_BELIZE_REEF">
-			<Text>Belize Barrier Reef</Text>
+			<Text>Barreira de Recifes de Belize|Barreiras de Recifes de Belize</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_BELIZE_REEF_TEXT">
-			<Text>The Belize Barrier Reef is a 190-mile long section of the Mesoamerican Reef System, home to over 100 coral species and 500 species of fish. The third largest natural barrier reef in the world, it was designated a World Heritage Site in 1996 AD; it is endangered due to pollution and uncontrolled tourism, fishing and shipping with a 48% reduction in live coral observed over the past decade.</Text>
+			<Text>A Barreira de Recifes de Belize é uma seção de 305 quilômetros do Sistema de Recifes Mesoamericanos, lar de mais de 100 espécies de corais e 500 espécies de peixes. A terceira maior barreira de recifes natural do mundo, foi designada Patrimônio Mundial em 1996, mas está em perigo devido à poluição, turismo descontrolado, pesca e navegação sem controle, com uma redução de 48% nos corais vivos observada na última década.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_CHIMBORAZO">
-			<Text>Chimborazo</Text>
+			<Text>Chimborazo|Chimborazos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_CHIMBORAZO_TEXT">
-			<Text>Chimborazo is a 20,500-foot stratovolcano (last eruption around 550 AD) in the Cordillera Occidental of the Andes. Widely believed by Europeans to be the highest peak in the world before the Himalayas were discovered, it was first climbed by an English-Italian team guided by Ecuadorian natives in 1880.</Text>
+			<Text>Chimborazo é um estratovulcão com mais de 6200 metros (última erupção por volta de 550 d.C.) na Cordilheira dos Andes. Ampla e erroneamente acreditado pelos europeus como o pico mais alto do mundo antes da descoberta dos Himalaias, foi escalado pela primeira vez por uma equipe inglês-italiana guiada por nativos equatorianos em 1880.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MT_TLALOC">
-			<Text>Mt. Tlaloc</Text>
+			<Text>Monte Tlaloc|Montes Tlaloc</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_MT_TLALOC_TEXT">
-			<Text>Standing over 13,600 feet in central Mexico, Mount Tlaloc was revered by the Aztecs, who worshiped their rain god at a sanctuary on the summit. Archaeological research has shown a relationship between this shrine and surrounding temples may have been a way to track important ceremonial dates, associated with the sowing of maize in the region.</Text>
+			<Text>Com mais de 13.600 pés no México central, o Monte Tlaloc era reverenciado pelos astecas, que adoravam seu deus da chuva em um santuário no cume. Pesquisas arqueológicas indicam uma relação entre esse santuário e templos circundantes, possivelmente como uma maneira de marcar datas cerimoniais importantes, associadas ao plantio de milho na região.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_TSOODZIL">
 			<Text>Tsoodzil</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_TSOODZIL_TEXT">
-			<Text>To the Navajo, Tsoodzil, the "turquoise mountain," was one of the four sacred peaks marking the cardinal directions (in this case, south) and boundaries of their homeland in New Mexico. A 4100-foot dormant stratovolcano now named after President Zachary Taylor, for the Navaho Tsoodzil was home to the Black God, Turquoise Boy and Turquoise Girl.</Text>
+			<Text>Para os Navajos, Tsoodzil, a "montanha turquesa", era um dos quatro picos sagrados que marcavam as direções cardeais (neste caso, sul) e limites de sua terra natal em Novo México. Um estratovulcão adormecido com mais de 4100 pés de altura, agora chamado em homenagem ao presidente Zachary Taylor, para os Navajos, Tsoodzil era lar do Deus Negro, do Garoto Turquesa e da Garota Turquesa.</Text>
 		</Row>
 
 	</Language_pt_BR>

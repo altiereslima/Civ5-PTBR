@@ -4,12 +4,12 @@
 	<Language_pt_BR>
 		<!-- FALL OF ROME SCENARIO -->
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_DESC">
-			<Text>Roma Ocidental</Text>
-			<Gender>feminine</Gender>
+			<Text>Império Romano do Ocidente</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_SHORT_DESC">
-			<Text>Roma Ocidental</Text>
+			<Text>Roma</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -19,13 +19,13 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_DESC">
-			<Text>Roma Oriental</Text>
-			<Gender>feminine</Gender>
+			<Text>Império Romano do Oriente</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_SHORT_DESC">
 			<Text>Roma Oriental</Text>
-			<Gender>feminine</Gender>
+			<Gender>neuter</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_ADJECTIVE">
@@ -96,13 +96,13 @@
 		
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_DESC">
-			<Text>Império Eruco</Text>
+			<Text>Império de Eruch</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
-			<Text>Erucos</Text>
-			<Gender>masculine</Gender>
+			<Text>Eruch</Text>
+			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
@@ -111,12 +111,12 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_DESC">
-			<Text>Império Orlino</Text>
+			<Text>Império de Orlin</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_SHORT_DESC">
-			<Text>Orlina</Text>
+			<Text>Orlin</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -126,13 +126,13 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_DESC">
-			<Text>Império Pulias</Text>
+			<Text>Império de Pulias</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
-			<Text>Pulianos</Text>
-			<Gender>masculine</Gender>
+			<Text>Pulias</Text>
+			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
@@ -141,13 +141,13 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_DESC">
-			<Text>Império Vedria</Text>
+			<Text>Império de Vedria</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
-			<Text>Vedrianos</Text>
-			<Gender>masculine</Gender>
+			<Text>Vedria</Text>
+			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
@@ -156,13 +156,13 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_DESC">
-			<Text>Império Dalmace</Text>
+			<Text>Império de Dalmace</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
-			<Text>Dalmacianos</Text>
-			<Gender>masculine</Gender>
+			<Text>Dalmace</Text>
+			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
@@ -203,17 +203,17 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
-			<Text>Almôadas</Text>
+			<Text>Almóadas</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_DESC">
-			<Text>Califado Almôada</Text>
+			<Text>Califado Almóada</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_ADJECTIVE">
-			<Text>Almôada|Almôadas</Text>
+			<Text>Almóada|Almóadas</Text>
 			<Gender>neuter</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

@@ -43,19 +43,19 @@
 			<Text>Mostre a unidade em espera</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
-			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} escondem segredos que podem avançar sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Envie uma unidade para as {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}[/COLOR] para ver o que ela esconde. </Text>
+			<Text>Ruínas antigas escondem segredos que podem avançar sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Envie uma unidade para as ruínas antigas[/COLOR] para ver o que ela esconde. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
-			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}!</Text>
+			<Text>Ruínas antigas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
-			<Text>Mostre a {TXT_KEY_IMPROVEMENT_GOODY_HUT}</Text>
+			<Text>Mostre a ruína</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
 			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está.  Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
-			<Text>Combate Corpo a Corpo</Text>
+			<Text>Combate corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
 			<Text>Mostre a unidade de combate</Text>
@@ -73,7 +73,7 @@
 			<Text>Produza um Trabalhador!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
-			<Text>Agora que você tem um Trabalhador, você pode ordenar que ele faça melhoramentos para impulsionar a produtividade de nosso território. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Trabalhador para um hexágono em destaque e construa um melhoramento.[/COLOR]</Text>
+			<Text>Agora que você tem um Trabalhador, você pode ordenar que ele faça melhorias para impulsionar a produtividade de nosso território. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Trabalhador para um hexágono em destaque e construa uma melhoria.[/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
 			<Text>Trabalhadores</Text>
@@ -91,7 +91,7 @@
 			<Text>Mostre o Trabalhador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
-			<Text>Nós temos um Trabalhador, mas não estão melhorando os hexágonos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa um melhoramento[/COLOR] em um hexágono próximo de suas cidades para obter um benefício econômico.</Text>
+			<Text>Nós temos um Trabalhador, mas não estão melhorando os hexágonos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa uma melhoria[/COLOR] em um hexágono próximo de suas cidades para obter um benefício econômico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
 			<Text>Trabalhadores precisam trabalhar</Text>
@@ -121,7 +121,7 @@
 			<Text>É preciso mais militares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
-			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4]Infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhoramentos em recursos[/COLOR].</Text>
+			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4]infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
 			<Text>Seu povo não é mais feliz</Text>
@@ -130,7 +130,7 @@
 			<Text>Mostre o recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
-			<Text>Seu povo está muito [ICON_HAPPINESS_4]Infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION]Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edifícios que produzam felicidade, melhoramentos e negociando recursos com outros líderes.</Text>
+			<Text>Seu povo está muito [ICON_HAPPINESS_4]infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION]Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
 			<Text>Seu povo está irritado!</Text>
@@ -160,7 +160,7 @@
 			<Text>Mostre a Cidade-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
-			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colonizador[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD]alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD]alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colonizador para um local fértil e funde uma nova cidade.[/COLOR]</Text>
+			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colonizador[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD]Alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD]Alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colonizador para um local fértil e funde uma nova cidade.[/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
 			<Text>Onde fundar uma cidade</Text>
@@ -187,7 +187,7 @@
 			<Text>Mostre a cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
-			<Text>Nossa capital acabou de construir algo. Cidades podem construir unidades, edifícios e maravilhas do mundo, mas somente um tipo de cada vez.</Text>
+			<Text>Nossa capital acabou de construir algo. Cidades podem construir unidades, edificações e maravilhas do mundo, mas somente um tipo de cada vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
 			<Text>Construção concluída</Text>
@@ -277,49 +277,49 @@
 			<Text>Tela da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
-			<Text>{TXT_KEY_FEATURE_FOREST[2]} diminuem o movimento da unidade. Mover-se em hexágonos com {TXT_KEY_FEATURE_FOREST} irá consumir todos os pontos de movimento da sua unidade. {TXT_KEY_FEATURE_FOREST[2]} bloqueiam a vista de objetos por trás delas.</Text>
+			<Text>Florestas diminuem o movimento da unidade. Mover-se em hexágonos com floresta irá consumir todos os pontos de movimento da sua unidade. Florestas bloqueiam a vista de objetos por trás delas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
-			<Text>Movimento: {TXT_KEY_FEATURE_FOREST[2]}</Text>
+			<Text>Movimento: Florestas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
-			<Text>Mostre a {TXT_KEY_FEATURE_FOREST}</Text>
+			<Text>Mostre a floresta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
-			<Text>{TXT_KEY_TERRAIN_HILL[2]} diminuem os movimentos de uma unidade, mas fornecem uma vantagem de vista, permitindo que a unidade veja sobre as árvores e outros morros. Mover uma unidade sobre uma {TXT_KEY_TERRAIN_HILL} pode consumir todos os seus pontos de movimento. {TXT_KEY_TERRAIN_HILL[2]} bloqueiam a vista de objetos atrás delas.</Text>
+			<Text>Colinas diminuem os movimentos de uma unidade, mas fornecem uma vantagem de vista, permitindo que a unidade veja sobre as árvores e outros morros. Mover uma unidade sobre uma colina pode consumir todos os seus pontos de movimento. Colinas bloqueiam a vista de objetos atrás delas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
-			<Text>Movimento: {TXT_KEY_TERRAIN_HILL[2]}</Text>
+			<Text>Movimento: Colinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
-			<Text>Mostre a {TXT_KEY_TERRAIN_HILL}</Text>
+			<Text>Mostre a colina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
-			<Text>{TXT_KEY_FEATURE_MARSH[2]} diminuem os movimentos de uma unidade. Mover-se sobre um {TXT_KEY_FEATURE_MARSH} irá consumir todos os pontos de movimentos da sua unidade. Elas estarão em um momento difícil para se defender quando estiverem em um {TXT_KEY_FEATURE_MARSH}, por isso tome cuidado!</Text>
+			<Text>Pântanos diminuem os movimentos de uma unidade. Mover-se sobre um pântano irá consumir todos os pontos de movimentos da sua unidade. Elas estarão em um momento difícil para se defender quando estiverem em um pântano, por isso tome cuidado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
-			<Text>Movimento: {TXT_KEY_FEATURE_MARSH[2]}</Text>
+			<Text>Movimento: Pântanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
-			<Text>Mostre o {TXT_KEY_FEATURE_MARSH}</Text>
+			<Text>Mostre o pântano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
-			<Text>Unidades terrestres não podem se mover através de {TXT_KEY_TERRAIN_MOUNTAIN[2]}; você precisa contorná-la. {TXT_KEY_TERRAIN_MOUNTAIN[2]} podem ser vistas de uma distância razoável.</Text>
+			<Text>Unidades terrestres não podem se mover através de montanhas; você precisa contorná-la. Montanhas podem ser vistas de uma distância razoável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
-			<Text>Movimento: {TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
+			<Text>Movimento: Montanhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
-			<Text>Mostre a {TXT_KEY_TERRAIN_MOUNTAIN}</Text>
+			<Text>Mostre a montanha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
-			<Text>{TXT_KEY_FEATURE_JUNGLE[2]} diminuem os movimentos de uma unidade. Mover-se sobre uma {TXT_KEY_FEATURE_JUNGLE} irá consumir todos os pontos de movimentos da sua unidade. {TXT_KEY_FEATURE_JUNGLE[2]} bloqueiam a vista de objetos atrás delas e são bastante quentes e úmidas, mas isso não importa.</Text>
+			<Text>Selvas diminuem os movimentos de uma unidade. Mover-se sobre uma selva irá consumir todos os pontos de movimentos da sua unidade. Selvas bloqueiam a vista de objetos atrás delas e são bastante quentes e úmidas, mas isso não importa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
-			<Text>Movimento: {TXT_KEY_FEATURE_JUNGLE[2]}</Text>
+			<Text>Movimento: Selvas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
-			<Text>Mostre a {TXT_KEY_FEATURE_JUNGLE}</Text>
+			<Text>Mostre a selva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
 			<Text>Movimentar-se sobre rios diminui os movimentos da unidade. Mover-se através de um rio cosumirá todos os pontos de movimentos da sua unidade e é extremamente difícil para as unidades atacarem quando atravessam um rio, então posicione suas unidades com cuidado.</Text>
@@ -331,7 +331,7 @@
 			<Text>Mostre o rio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
-			<Text>Ter uma marinha forte é a única maneira de defender e explorar os {TXT_KEY_TERRAIN_OCEAN[2]} em torno da nossa civilização. Unidades navais também podem causar estragos nos inimigos com seus poderosos ataques a distância!</Text>
+			<Text>Ter uma marinha forte é a única maneira de defender e explorar os oceanos em torno da nossa civilização. Unidades navais também podem causar estragos nos inimigos com seus poderosos ataques a distância!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
 			<Text>Unidades Navais</Text>
@@ -385,7 +385,7 @@
 			<Text>Mostre o campo bárbaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
-			<Text>Manter seus cidadãos felizes é a chave para uma civilização produtiva. Cidadãos produzem [ICON_HAPPINESS_4]Infelicidade enquanto recursos de luxo e alguns edifícios fornecem [ICON_HAPPINESS_1]Felicidade para balancear. Tente manter sua civilização feliz e a mantenha saudável!</Text>
+			<Text>Manter seus cidadãos felizes é a chave para uma civilização produtiva. Cidadãos produzem [ICON_HAPPINESS_4]Infelicidade enquanto recursos de luxo e algumas edificações fornecem [ICON_HAPPINESS_1]Felicidade para balancear. Tente manter sua civilização feliz e a mantenha saudável!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
 			<Text>Felicidade</Text>
@@ -460,7 +460,7 @@
 			<Text>Falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]Infelizes.</Text>
+			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]infelizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada precisa de Tribunal</Text>
@@ -496,13 +496,13 @@
 		  <Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
-		  <Text>Parabéns! Uma Grande Pessoa nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era Dourada, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
+		  <Text>Parabéns! Uma Grande Personalidade nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era Dourada, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
-		  <Text>Grande Pessoa</Text>
+		  <Text>Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
-		  <Text>Mostre a Grande Pessoa</Text>
+		  <Text>Mostre a Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
 			<Text>Há várias maneiras de se tornar a maior civilização e ganhar o jogo. Na verdade, são quatro maneiras: pela força militar, pela tecnologia, pela diplomacia ou pela cultura!</Text>
@@ -541,7 +541,7 @@
 			<Text>Tela da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
-			<Text>Em 'Escolher Produção', uma unidade, maravilha ou edifício é selecionado para ser produzido na cidade. Uma cidade pode produzir apenas um item de cada vez. Toda vez que a sua cidade concluir uma produção, você deverá escolher algo novo para produzir.</Text>
+			<Text>Em 'Escolher Produção', uma unidade, maravilha ou edificação é selecionada para ser produzida na cidade. Uma cidade pode produzir apenas um item de cada vez. Toda vez que a sua cidade concluir uma produção, você deverá escolher algo novo para produzir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
 			<Text>Escolher Produção</Text>
@@ -601,7 +601,7 @@
 			<Text>Negociações Diplomáticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
-			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE]Cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
+			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE]cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
 			<Text>Políticas Sociais</Text>
@@ -688,7 +688,7 @@
 			<Text>Criar Colonizadores e Fundar Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
-			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD]Ouro, melhoramentos para ajudar suas cidades a crescer mais rápido, levantar edifícios e encontrar recursos para fazer seu povo feliz.</Text>
+			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD]Ouro, melhorias para ajudar suas cidades a crescer mais rápido, levantar edificações e encontrar recursos para fazer seu povo feliz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
 			<Text>Uso de Trabalhadores para a cidade</Text>
@@ -709,10 +709,10 @@
 			<Text>*METAS*</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS">
-			<Text>Encontre todas as {1_Num} {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}.</Text>
+			<Text>Encontre todas as {1_Num} Ruínas Antigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS">
-			<Text>Explore todas as {1_Num} {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}. ({2_Num} {2_Num: plural 1?explorada; other?exploradas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Explore todas as {1_Num} Ruínas Antigas. ({2_Num} {2_Num: plural 1?explorada; other?exploradas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_1_COMPLETE">
 			<Text>Você completou o tutorial Movimento e Exploração! Belo trabalho!</Text>
@@ -748,31 +748,31 @@
 			<Text>Conecte {1_Num} cidades a sua capital usando estradas. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES">
-			<Text>Construa melhoramentos em {1_Num} recursos.</Text>
+			<Text>Construa melhorias em {1_Num} recursos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_PROGRESS">
-			<Text>Construa melhoramentos em {1_Num} recursos. ({2_Num} {2_Num: plural 1?recurso melhorado; other?recursos melhorados;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa melhorias em {1_Num} recursos. ({2_Num} {2_Num: plural 1?recurso melhorado; other?recursos melhorados;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_COMPLETE">
-			<Text>Construa melhoramentos em {1_Num} recursos. Completo!</Text>
+			<Text>Construa melhorias em {1_Num} recursos. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento.</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. ({3_Num} {3_Num: plural 1?{TXT_KEY_IMPROVEMENT_FARM}; other?{TXT_KEY_IMPROVEMENT_FARM[2]};} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento. ({3_Num} {3_Num: plural 1?fazenda; other?fazendas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. Completo!</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. ({3_Num} {3_Num: plural 1?{TXT_KEY_IMPROVEMENT_MINE}; other?{TXT_KEY_IMPROVEMENT_MINE[2]};} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. ({3_Num} {3_Num: plural 1?mina; other?minas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
-			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. Completo!</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
 			<Text>Você completou o tutorial Melhorando Cidades! Belo trabalho!</Text>
@@ -817,7 +817,7 @@
 			<Text>Terrenos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_IMPROVEMENT_LIST">
-			<Text>Melhoramentos</Text>
+			<Text>Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_PROMOTIONS_LIST">
 			<Text>Promoções</Text>
@@ -826,7 +826,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SPECIALISTS_AND_GREAT_PEOPLE">
-			<Text>Especialistas e Grandes Pessoas</Text>
+			<Text>Especialistas e Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_MINOR_CIV_LIST">
 			<Text>Cidades-Estado</Text>
@@ -835,7 +835,7 @@
 			<Text>Tecnologias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_BUILDING_LIST">
-			<Text>Edifícios</Text>
+			<Text>Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_WONDER_LIST">
 			<Text>Maravilhas</Text>
@@ -883,7 +883,7 @@
 			<Text>Estamos quase indefesos! Precisamos treinar mais unidades!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_AT_WAR">
-			<Text>Estamos em guerra! Construa unidades militares e edifícios para conseguirmos a vitória!</Text>
+			<Text>Estamos em guerra! Construa unidades militares e edificações para conseguirmos a vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS">
 			<Text>Estamos gastando muito com a manutenção militar. Devemos parar de construir mais unidades militares.</Text>
@@ -916,13 +916,13 @@
 		  <Text>Devemos nos concentrar no crescimento e melhorar o que temos ao invés de fundar novas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS">
-			<Text>A [ICON_HAPPINESS_1]Felicidade do nosso povo está se tornando uma preocupação. Precisamos conectar recursos de luxo, construir maravilhas e edifícios que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
+			<Text>A [ICON_HAPPINESS_1]Felicidade do nosso povo está se tornando uma preocupação. Precisamos conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL">
-			<Text>Nosso povo está bastante infeliz! Precisamos, rapidamente, conectar recursos de luxo, construir maravilhas e edifícios que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
+			<Text>Nosso povo está bastante infeliz! Precisamos, rapidamente, conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH">
-			<Text>Temos muitas cidades litorâneas, por isso devemos focar em edifícios que melhorem o rendimento de nossos hexágonos litorâneos.</Text>
+			<Text>Temos muitas cidades litorâneas, por isso devemos focar em edificações que melhorem o rendimento de nossos hexágonos litorâneos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
 			<Text>Temos recursos marinhos que não estamos usando. Construa {TXT_KEY_UNIT_WORK_BOAT[2]} e use-os para ajudar a nossa civilização!</Text>
@@ -931,7 +931,7 @@
 			<Text>Temos um [COLOR_UNIT_TEXT]Colonizador[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>Temos uma crise de [ICON_FOOD]alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD]alimentos que necessitamos.</Text>
+			<Text>Temos uma crise de [ICON_FOOD]Alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD]Alimentos que necessitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
 			<Text>Temos uma crise de [ICON_PRODUCTION]Produção! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_PRODUCTION]Produção que necessitamos.</Text>
@@ -943,7 +943,7 @@
 			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de Ancoradouros. Construa Ancoradouros nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD]Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
-			<Text>Precisamos aumentar nossa geração de [ICON_GOLD]Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD]Ouro do hexágono e faça edifícios que aumentem a nossa geração de [ICON_GOLD]Ouro.</Text>
+			<Text>Precisamos aumentar nossa geração de [ICON_GOLD]Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD]Ouro do hexágono e faça edificações que aumentem a nossa geração de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
 			<Text>Estamos trabalhando em uma Grande Pirâmide, então não precisamos construir {TXT_KEY_BUILDING_GRANARY[2]} em nossas outras cidades.</Text>
@@ -955,7 +955,7 @@
 			<Text>Nossa pátria é um continente pequeno, sem muito espaço para expansão. Precisamos nos concentrar em tecnologias navais até que possamos embarcar unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] é muito pequena neste momento para realizar grandes edifícios, como maravilhas. Foque em crescê-la para um tamanho maior antes de assumir grandes projetos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] é muito pequena neste momento para realizar grandes edificações, como maravilhas. Foque em crescê-la para um tamanho maior antes de assumir grandes projetos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não possui litoral, o que significa que não há acesso por águas. Então você terá que se preocupar mais com os ursos do que com os tubarões.</Text>
@@ -970,7 +970,7 @@
 			<Text>Acredito que, neste momento, [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não precisa treinar mais [COLOR_UNIT_TEXT]Trabalhadores[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edifícios como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edificações como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um {TXT_KEY_UNIT_WORK_BOAT} para melhorar o recurso!</Text>
@@ -979,13 +979,13 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir {TXT_KEY_IMPROVEMENT_FARM[2]} nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]Alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir fazendas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir {TXT_KEY_IMPROVEMENT_MINE[2]} nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir minas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edifícios que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edificações que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] está preparada e pronta para treinar um [COLOR_UNIT_TEXT]Colonizador[/COLOR] e expandir nosso império.</Text>
@@ -1003,7 +1003,7 @@
 			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR], que é exclusiva da nossa {3_Adjective:textkey} civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_BUILDING">
-			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], que é exclusivo da nossa {3_Adjective:textkey} civilização!</Text>
+			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], que é exclusiva da nossa {3_Adjective:textkey} civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_RESOURCE">
 			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], o que nos permitirá melhorar o recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR] dentro das nossas fronteiras.</Text>
@@ -1105,7 +1105,7 @@
 			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades, ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine; resolver este problema financeiro é fundamental!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_BUILDING_MAINTENANCE">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção dos edifícios.</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_IMPROVEMENT_MAINTENANCE">
 			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de melhorias. Não devemos criar mais melhorias do que precisamos. Destrua todas aquelas que não estão nos ajudando.</Text>
@@ -1123,7 +1123,7 @@
 			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_BUILDING_MAINTENANCE">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção dos edifícios.</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_IMPROVEMENT_MAINTENANCE">
 			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de melhorias. Devemos parar de construí-las e remover aquelas que são desnecessárias.</Text>
@@ -1141,7 +1141,7 @@
 			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades (pagamentos para unidades que estão fora de nossas fronteiras). Recomendo mover nossas unidades para dentro do nosso território ou eliminar as desnecessárias, evitando, assim, a falência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_BUILDING_MAINTENANCE">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção dos edifícios.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_IMPROVEMENT_MAINTENANCE">
 			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Recomendo que pare de fazer melhorias ou remova aquelas que não estão nos ajudando.</Text>
@@ -1159,7 +1159,7 @@
 			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento de unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_BUILDING_MAINTENANCE">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de edifícios.</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_IMPROVEMENT_MAINTENANCE">
 			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Recomendo construir menos melhorias ou remover aquelas desnecessárias.</Text>
@@ -1177,7 +1177,7 @@
 			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção dos edifícios.</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
 			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Melhore apenas os hexágonos que precisamos para crescer ou seu crescimento pode ficar fora de controle.</Text>
@@ -1204,7 +1204,7 @@
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a  [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa aliança.</Text>
@@ -1237,7 +1237,7 @@
 			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que nos conectemos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONSTRUCT_WONDER">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
 			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa amizade.</Text>
@@ -1270,7 +1270,7 @@
 			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se nos conectarmos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se construirmos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR].</Text>
+			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_GREAT_PERSON">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] estaria totalmente impressionada se tivéssemos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Providencie uma dessas!</Text>
@@ -1291,34 +1291,34 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edifícios que gerem pontos de ciência, como bibliotecas e universidades.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edificações que gerem pontos de ciência, como bibliotecas e universidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população. Isso é que é eficiência!</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Isso é que é eficiência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
 			<Text>Nossa pesquisa está sendo prejudicada pela nossa falta de [ICON_GOLD]Ouro. Sem fundos para pesquisa, vamos ficar irremediavelmente atrasados e seremos apenas uma nota pitoresca na história.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_1">
-			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
+			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_2">
-			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir os edifícios [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
+			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_3">
-			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir os edifícios [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@4_BldgName}[/COLOR] em nossas cidades. É um monte de edifícios que geram pontos de ciência!</Text>
+			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@4_BldgName}[/COLOR] em nossas cidades. É um monte de edificações que geram pontos de ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa do edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH]Ciência e fazer progressos significativos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa da edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH]ciência e fazer progressos significativos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
 			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter um exército moderno é a chave para ataques seguros e eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
-			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso ao edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], o qual, quando construído, obterá promoções para as unidades construídas na cidade.</Text>
+			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], a qual, quando construída, obterá promoções para as unidades construídas na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
 			<Text>Não temos nenhum acesso ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] e há uma fonte próxima à cidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Envie um Trabalhador para melhorar o hexágono para que possamos nos beneficiar desse recurso.</Text>
@@ -1369,7 +1369,7 @@
 			<Text>Obrigado pela informação, mas não me lembre novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
-			<Text>Por favor não me diga isso de novo.</Text>
+			<Text>Por favor, não me diga isso de novo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
 			<Text>Assessor de Informações</Text>

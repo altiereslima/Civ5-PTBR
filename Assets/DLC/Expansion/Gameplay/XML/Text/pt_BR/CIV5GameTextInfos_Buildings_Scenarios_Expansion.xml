@@ -8,36 +8,36 @@
 	<Language_pt_BR>
 		<!-- FALL OF ROME -->
 		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL">
-			<Text>Salão Hidromel</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Salão do Hidromel|Salões do Hidromel</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOV">
-			<Text>Hov</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Hov|Hovs</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<!-- Unique Buildings-->
 		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND">
-			<Text>Arquibancada</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Tribuna|Tribunas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY">
-			<Text>Fábrica Lubórica</Text>
+			<Text>Fábrica de Lubórico</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
-			<Text>Dínamo Toroide</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Dínamo Toroidal|Dínamos Toroidais</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY">
-			<Text>Fábrica de Aeterium</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Fábrica de Éter|Fábricas de Éter</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AERODROME">
 			<Text>Aeródromo</Text>
@@ -56,7 +56,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
-			<Text>Faculdade de Negócios|Faculdades de Negócios</Text>
+			<Text>Faculdade de Comércio|Faculdades de Comércio</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -66,12 +66,12 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY">
-			<Text>Refinaria Lubórica</Text>
+			<Text>Refinaria de Lubórico</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM">
-			<Text>Salão Filantrópico|Salões Filantrópicos</Text>
+			<Text>Filantropório|Filantropórios</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -81,12 +81,12 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR">
-			<Text>Usina de Aeterium|Usinas de Aeterium</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Fabricante de Éter|Fabricantes de Éter</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR">
-			<Text>Hangar|Hangares</Text>
+			<Text>Hangar de Dirigíveis|Hangares de Dirigíveis</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -102,12 +102,12 @@
 		</Row>
 		<!-- National Wonders -->
 		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE">
-			<Text>Engenho Analítico|Engenhos Analíticos</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Máquina Analítica|Máquinas Analíticas</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE">
-			<Text>Casa Comercial Biltmore|Casas Comerciais Biltmore</Text>
+			<Text>Casa Biltmore|Casas Biltmore</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -127,7 +127,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE">
-			<Text>Máquina de Movimento Contínuo|Máquinas de Movimento Contínuo</Text>
+			<Text>Máquina de Movimento Perpétuo|Máquinas de Movimento Perpétuo</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -143,7 +143,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHATEAU">
-			<Text>Mansão|Mansões</Text>
+			<Text>Château|Châteaux</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>

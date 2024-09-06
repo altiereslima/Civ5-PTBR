@@ -16,7 +16,7 @@
 			<Text>Ataque anfíbio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GG_NEAR">
-			<Text>Próximo a Grande General</Text>
+			<Text>Próximo de um Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_POLICY_ATTACK_BONUS">
 			<Text>Bônus de ataque temporário ({1_Num})</Text>
@@ -61,7 +61,7 @@
 			<Text>Bônus vs unidades feridas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_HILL_ATTACK_BONUS">
-			<Text>Bônus de ataque nas {TXT_KEY_TERRAIN_HILL[2]}</Text>
+			<Text>Bônus de ataque nas colinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_BONUS">
 			<Text>Bônus de ataque em terreno aberto</Text>
@@ -106,7 +106,7 @@
 			<Text>Bônus de defesa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_HILL_DEFENSE_BONUS">
-			<Text>Bônus de defesa nas {TXT_KEY_TERRAIN_HILL[2]}</Text>
+			<Text>Bônus de defesa nas colinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_DEF_BONUS">
 			<Text>Bônus de defesa em terreno aberto</Text>
@@ -173,7 +173,7 @@
 			<Text>(embarcado)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_MIL_UNIT_STRENGTH">
-			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num}HP {5_Num}</Text>
+			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num}PV {5_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV">
 			<Text>{@2_UnitName} {@2: gender masculine?{@2: plural 1?{@1[1]}; other?{@1[3]};}; feminine?{@2: plural 1?{@1[2]}; other?{@1[4]};};}</Text>
@@ -182,13 +182,13 @@
 			<Text>{1_PlayerName}: {2_UnitName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_HP">
-			<Text>{1_Num} HP</Text>
+			<Text>{1_Num}PV</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
-			<Text>Ladrilho adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
+			<Text>Hexágono adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_PLAYER">
-			<Text>Ladrilho adquirido por {1_PlayerName}</Text>
+			<Text>Hexágono adquirido por {1_PlayerName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_FRESH_WATER">
 			<Text>Água potável</Text>
@@ -206,16 +206,16 @@
 			<Text>Rota comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_MOUNTAIN">
-			<Text>{TXT_KEY_TERRAIN_MOUNTAIN}</Text>
+			<Text>Montanha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_HILL">
-			<Text>{TXT_KEY_TERRAIN_HILL}</Text>
+			<Text>Colina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_LAKE">
-			<Text>Lagoa</Text>
+			<Text>Lago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OCEAN">
-			<Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
+			<Text>Oceano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_RIVER">
 			<Text>Rio</Text>
@@ -246,10 +246,10 @@
 			<Text>Recomendação:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_REPAIR_TILE">
-			<Text>Reparar Ladrilho</Text>
+			<Text>Reparar Hexágono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_REPAIR_TILE_3">
-			<Text>Reparar Ladrilho (3)</Text>
+			<Text>Reparar Hexágono (3)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED">
 			<Text>PROMOÇÃO</Text>
@@ -417,7 +417,7 @@
 			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_RESEARCH] dos acordos de pesquisa com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_BUDGET_DEFICIT">
-			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do déficit [ICON_GOLD] orçamentário![ENDCOLOR]</Text>
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do défice [ICON_GOLD]orçamentário![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_AVAILABLE_GOLD">
 			<Text>Você possui um total de {1_Num} de [ICON_GOLD]Ouro disponível para gastar.</Text>
@@ -456,7 +456,7 @@
 			<Text>Despesas que não puderem ser pagas, serão descontadas dos seus pontos de Ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_EXPLANATION">
-			<Text>Com [ICON_GOLD]Ouro você pode comprar terrenos, unidades e edifícios para suas cidades ou dar presentes a outras Cidades-Estado para que elas gostem mais de você.</Text>
+			<Text>Com [ICON_GOLD]Ouro você pode comprar terrenos, unidades e edificações para suas cidades ou dar presentes a outras Cidades-Estado para que elas gostem mais de você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_TOTAL_HAPPINESS">
 			<Text>O nível de [ICON_HAPPINESS_1]Felicidade do seu Império é {1_Num}.</Text>
@@ -465,7 +465,7 @@
 			<Text>O nível de {1_Icon}Infelicidade do seu Império é {2_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4]Infeliz! As cidades não crescem mais, os Colonizadores não podem ser treinados, a [ICON_PRODUCTION]Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4]infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4]infeliz! As cidades não crescem mais, os Colonizadores não podem ser treinados, a [ICON_PRODUCTION]Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
 			<Text>As cidades vão crescer apenas a 1/4 da velocidade normal enquanto o império estiver [ICON_HAPPINESS_3]Infeliz!</Text>
@@ -492,7 +492,7 @@
 			<Text>{1_Num} das políticas sociais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_BUILDINGS">
-			<Text>{1_Num} dos edifícios.</Text>
+			<Text>{1_Num} das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_GARRISONED_UNITS">
 			<Text>{1_Num} das unidades alojadas.</Text>
@@ -687,7 +687,7 @@
 			<Text>Alterar foco da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TT">
-			<Text>Interromper processo de arrasamento</Text>
+			<Text>Parar o processo de arrasamento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TEXT">
 			<Text>Parar arrasamento da cidade</Text>
@@ -708,7 +708,7 @@
 			<Text>Foco em [ICON_CULTURE]Cultura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TEXT">
-			<Text>Foco em [ICON_GREAT_PEOPLE]Grande Pessoa</Text>
+			<Text>Foco em [ICON_GREAT_PEOPLE]Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FOOD_TT">
 			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_FOOD]Alimento.</Text>
@@ -726,7 +726,7 @@
 			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TT">
-			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
+			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_GREAT_PEOPLE]Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TT">
 			<Text>Clique aqui para que esta Cidade use a distribuição padrão dos cidadãos.</Text>
@@ -762,13 +762,13 @@
 			<Text>Alimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_EMPTY_SLOT">
-			<Text>Local vazio para especialistas</Text>
+			<Text>Espaço vazio para especialista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNEMPLOYED_TEXT">
 			<Text>Cidadãos desempregados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNEMPLOYED_TOOLTIP">
-			<Text>Clique aqui para redistribuir a força de trabalho.</Text>
+			<Text>Clique aqui para redistribuir a mão de obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PERTURN_TEXT">
 			<Text>+{1_perTurn:number "#.##"}</Text>
@@ -834,7 +834,7 @@
 			<Text>Adicionar um item ao fim da fila de produção (até seis itens). Apenas será produzido um item de cada vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
-			<Text>Quando você possuir [ICON_GOLD]Ouro suficiente, compre imediatamente uma unidade ou edifício.</Text>
+			<Text>Quando você possuir [ICON_GOLD]Ouro suficiente, compre imediatamente uma unidade ou edificação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_BUTTON">
 			<Text>COMPRA</Text>
@@ -873,7 +873,7 @@
 			<Text>Progresso de Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GP_PROGRGRESS">
-			<Text>Progresso de Grande Pessoa</Text>
+			<Text>Progresso de Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_MAP">
 			<Text>Voltar ao mapa</Text>
@@ -918,7 +918,7 @@
 			<Text>Nós Amamos o Rei! ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CITY_CENTER">
-			<Text>O centro da cidade está trabalhando de graça automaticamente. Clique aqui para distribuir a força de trabalho.</Text>
+			<Text>O centro da cidade está trabalhando de graça automaticamente. Clique aqui para distribuir a mão de obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FORCED_WORK_TILE">
 			<Text>Você selecionou este hexágono para trabalhar.</Text>
@@ -997,7 +997,7 @@
 			<Text>Penalidade vs Cidades</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_REVERSE_GG_NEAR">
-			<Text>Próximo a Dança de Guerra Inimiga</Text> 
+			<Text>Próximo de uma Dança de Guerra Inimiga</Text> 
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_IMPROVEMENT_NEAR">
 			<Text>Próximo de Melhoria do Bônus de Combate</Text>
@@ -1006,7 +1006,7 @@
 			<Text>Bônus de unidade alojadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4]infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
  		</Row>
 		<Row Tag="TXT_KEY_TP_UNHAPPINESS_SPECIALISTS">
 			<Text>{1_Num : number "#.##"} {1: plural 1?gerado; other?gerados;} por [ICON_CITIZEN]Especialistas.</Text>
@@ -1048,7 +1048,7 @@
 		  <Text>Processando turno do jogador {1_PlayerCount}</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
-			<Text>[COLOR_YELLOW]Interceptação por {TXT_KEY_UNIT_FIGHTER} ou[ENDCOLOR]</Text>
+			<Text>[COLOR_YELLOW]Interceptação por Avião de Combate ou[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
 			<Text>[COLOR_YELLOW]antiaéreo aumentará o dano[ENDCOLOR]</Text>
@@ -1060,10 +1060,10 @@
       <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] pela Característica Única.</Text>
     </Row>
 	    <Row Tag="TXT_KEY_MAP_OPTIONS_TRADE_ROUTES">
-      <Text>Rotas de Comércio</Text>
+      <Text>Rotas Comerciais</Text>
     </Row>
     <Row Tag="TXT_KEY_MAP_OPTIONS_TRADE_ROUTES_TT">
-      <Text>Exibir as rotas de comércio.</Text>
+      <Text>Exibir as rotas comerciais.</Text>
     </Row>    
 	</Language_pt_BR>
 </GameData>

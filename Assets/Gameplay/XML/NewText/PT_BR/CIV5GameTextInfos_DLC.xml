@@ -4,10 +4,10 @@
 		<!-- READ ME -->
 		<!-- DLC Package Names and Descriptions should only go here after they have been announced.-->
 		<Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_NAME">
-			<Text>Upgrade 1</Text>
+			<Text>Atualização 1</Text>
 		</Row>
 		<Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_DESCRIPTION">
-			<Text>Upgrade Data 1</Text>
+			<Text>Dados de atualização 1</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_NAME">
 			<Text>Babilônia</Text>

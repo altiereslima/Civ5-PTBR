@@ -406,6 +406,9 @@
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_3">
 		  <Text>Que assuntos o traz aqui?</Text>
 		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_4">
+		  <Text>Oh ótimo, você outra vez?</Text>
+		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_5">
 		  <Text>Diga o que quer de uma vez.</Text>
 		</Row>
@@ -938,9 +941,9 @@
  		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_POLITE_HELLO_1">
  			<Text>Saudações da Alemanha. Espero que você esteja bem.</Text>
  		</Row>
-		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
-			<Text>Olá novamente, querido amigo. A Índia lhe dá as boas-vindas de braços abertos.</Text>
-		</Row>
+ 		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
+ 			<Text>Olá novamente, querido amigo. A Índia lhe dá as boas-vindas de braços abertos.</Text>
+ 		</Row>
  		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_POLITE_HELLO_1">
  			<Text>Os espíritos profetizaram sua chegada. O que o traz aqui, amigo?</Text>
  		</Row>
@@ -980,9 +983,9 @@
  		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_NEUTRAL_HELLO_1">
  			<Text>Bem-vindo. O que o traz a rica e poderosa China?</Text>
  		</Row>
-		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_NEUTRAL_HELLO_1">
-			<Text>O rei e faraó do Egito te dá as boas-vindas.</Text>
-		</Row>
+ 		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_NEUTRAL_HELLO_1">
+ 			<Text>O rei e faraó do Egito te dá as boas-vindas.</Text>
+ 		</Row>
  		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_NEUTRAL_HELLO_1">
  			<Text>Bem-vindo à Inglaterra.</Text>
  		</Row>

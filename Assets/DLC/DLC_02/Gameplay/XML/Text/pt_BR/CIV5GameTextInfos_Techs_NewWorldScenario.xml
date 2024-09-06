@@ -6,7 +6,7 @@
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
 			<Text>Imperialismo</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
@@ -16,32 +16,32 @@
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
 			<Text>Soldados Profissionais</Text>
 			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>						
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
 			<Text>Pirataria</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
 			<Text>Navios de Guerra</Text>
 			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>						
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
 			<Text>Guarda Real</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
 			<Text>Ordens Religiosas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>						
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
-			<Text>Fragata Preciosa</Text>
+			<Text>Frota de Tesouro</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>									
+			<Plurality>1</Plurality>			
 		</Row>
 	</Language_pt_BR>
 </GameData>

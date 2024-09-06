@@ -4,126 +4,149 @@
 	<Language_pt_BR>
     <!-- American Civl War -->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION">
-			<Text>USA Infantry Division</Text>
+			<Text>Divisão de Infantaria USA|Divisões de Infantaria USA</Text>
+			<Gender>feminine:feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS">
-			<Text>USA Infantry Corps</Text>
+			<Text>Corpo de Infantaria USA|Corpos de Infantaria USA</Text>
+			<Gender>feminine:feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
-			<Text>Cavalaria da União|Cavalarias da União</Text>
-			<Gender>feminine:human</Gender>
+			<Text>Cavalaria USA|Cavalarias USA</Text>
+			<Gender>feminine:feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY">
-			<Text>Cavalaria com Carabina da União|Cavalarias com Carabina da União</Text>
-			<Gender>feminine:human</Gender>
+			<Text>Cavalaria com Carabina USA|Cavalarias com Carabina USA</Text>
+			<Gender>feminine:feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON">
-			<Text>USA Cannon</Text>
+			<Text>Canhão USA|Canhões USA</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON">
-			<Text>USA Rifled Cannon</Text>
+			<Text>Canhão Raiado USA|Canhões Raiados USA</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE">
-			<Text>Frigate</Text>
+			<Text>Fragata:Fragatas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR">
-			<Text>Monitor</Text>
-		</Row>
+			<Text>Monitor Encouraçado|Monitores Encouraçados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+    </Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION">
-			<Text>CSA Infantry Division</Text>
+			<Text>Divisão de Infantaria CSA|Divisões de Infantaria CSA</Text>
+			<Gender>feminine:feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS">
-			<Text>CSA Infantry Corps</Text>
+			<Text>Corpo de Infantaria CSA|Corpos de Infantaria CSA</Text>
+			<Gender>feminine:feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY">
-			<Text>Cavalaria Confederada|Cavalarias Confederadas</Text>
-			<Gender>feminine:human</Gender>
+			<Text>Cavalaria CSA|Cavalarias CSA</Text>
+			<Gender>feminine:feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY">
-			<Text>Cavalaria com Carabina Confederada|Cavalarias com Carabina Confederadas</Text>
+			<Text>Cavalaria com Carabina CSA|Cavalarias com Carabina CSA</Text>
 			<Gender>feminine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON">
-			<Text>CSA Cannon</Text>
+			<Text>Canhão CSA|Canhões CSA</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON">
-			<Text>CSA Rifled Cannon</Text>
+			<Text>Canhão Raiado CSA|Canhões Raiados CSA</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER">
-			<Text>Blockade Runner</Text>
+			<Text>Quebra-bloqueio|Quebra-bloqueios</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD">
-			<Text>{TXT_KEY_UNIT_IRONCLAD}</Text>
-			<Gender>neuter:an</Gender>
+			<Text>Navio Blindado|Navios Blindados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN">
-			<Text>Gatling Gun</Text>
-		</Row>
+			<Text>Metralhadora Gatling|Metralhadoras Gatling</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+    </Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER">
 			<Text>Engenheiro Militar|Engenheiros Militares</Text>
-			<Gender>masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_STRATEGY">
-			<Text>The basic melee unit of the Civil War. Upgrade Divisions into Corps for more concentrated firepower if you have unlocked the Military Science Tech and have the necessary Manpower and Gold available.</Text>
+			<Text>A unidade de combate básica da Guerra Civil. Melhore as Divisões e transforme-as em Corpos para um poder de fogo mais concentrado se você desbloquear a Tecnologia de Ciência Militar e tiver a Mão de Obra e Ouro necessários disponíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_STRATEGY">
-			<Text>The most powerful melee unit of the Civil War, available only by upgrading an Infantry Division.</Text>
+			<Text>A unidade de combate corpo a corpo mais poderosa da Guerra Civil, disponível apenas ao atualizar uma Divisão de Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_STRATEGY">
 			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_STRATEGY">
-			<Text>A mais poderosa unidade montada da Guerra Civil.</Text>
+			<Text>A unidade montada mais poderosa da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_STRATEGY">
-			<Text>The basic artillery unit of the Civil War. Very effective against nearby units.</Text>
+			<Text>A unidade de artilharia básica da Guerra Civil. Muito eficaz contra unidades próximas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_STRATEGY">
-			<Text>Advanced artillery unit of the Civil War with a range of 3 hexes. Use for counter-battery fire on enemy artillery units.</Text>
+			<Text>Unidade avançada de artilharia da Guerra Civil com um alcance de 3 hexágonos. Use para fogo contra bateria em unidades de artilharia inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_STRATEGY">
-			<Text>The basic melee unit of the Civil War. Upgrade Divisions into Corps for more concentrated firepower if you have unlocked the Military Science Tech and have the necessary Manpower and Gold available.</Text>
+			<Text>A unidade de combate básica da Guerra Civil. Melhore as Divisões e transforme-as em Corpos para um poder de fogo mais concentrado se você desbloquear a Tecnologia de Ciência Militar e tiver a Mão de Obra e Ouro necessários disponíveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_STRATEGY">
-			<Text>The most powerful melee unit of the Civil War, available only by upgrading an Infantry Division.</Text>
+			<Text>A unidade corpo a corpo mais poderosa da Guerra Civil, disponível apenas ao atualizar uma Divisão de Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_STRATEGY">
 			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_STRATEGY">
-			<Text>A mais poderosa unidade montada da Guerra Civil.</Text>
+			<Text>A unidade montada mais poderosa da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_STRATEGY">
-			<Text>The basic artillery unit of the Civil War. Very effective against nearby units.</Text>
+			<Text>A unidade de artilharia básica da Guerra Civil. Muito eficaz contra unidades próximas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_STRATEGY">
-			<Text>Advanced artillery unit of the Civil War with a range of 3 hexes. Use for counter-battery fire on enemy artillery units.</Text>
+			<Text>Unidade avançada de artilharia da Guerra Civil com um alcance de 3 hexágonos. Use para combater o fogo de contrabateria em unidades de artilharia inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_STRATEGY">
-			<Text>Basic naval unit, already outdated by the time of the Civil War. May only be built by the Union.</Text>
+			<Text>Unidade naval básica, já obsoleta na época da Guerra Civil. Pode ser construída apenas pela União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_STRATEGY">
-			<Text>May only be built by the Confederate. Receive Gold for each Blockade Runner that is moved to the Eastern map edge (where it will be automatically disbanded).</Text>
+			<Text>Pode ser construído apenas pelos Confederados. Receba Ouro para cada Quebra-bloqueios que for movido para a borda leste do mapa (onde será automaticamente dissolvido).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_STRATEGY">
-			<Text>May only be built by the Confederate. Slow but incredibly strong naval unit, able to easily defeat Union Frigates.</Text>
+			<Text>Pode ser construído apenas pelos Confederados. Unidade naval lenta, mas incrivelmente forte, capaz de derrotar facilmente Fragatas da União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_STRATEGY">
-			<Text>Ranged unit available late in the Civil War.  Strong enough to resist melee attack and devastating to adjacent units.</Text>
+			<Text>Unidade de longo alcance disponível no final da Guerra Civil. Suficientemente forte para resistir a ataques corpo a corpo e devastadora contra unidades adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_STRATEGY">
-			<Text>May only be built by the Union. Able to easily defeat Confederate Blockade Runners and hold their own against {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
+			<Text>Pode ser construído apenas pela União. Capaz de derrotar facilmente Quebra-bloqueios Confederados e se manter contra os Navios Blindados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_HELP">
-			<Text>Front-line melee unit of the early Civil War, before both sides started organizing into larger units (Infantry Corps).</Text>
+			<Text>Unidade de combate corpo a corpo da fase inicial da Guerra Civil, antes de ambos os lados começarem a se organizar em unidades maiores (Corpos de Infantaria).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_HELP">
-			<Text>Front-line melee unit during the bulk of the Civil War, after both sides started organizing into larger units.</Text>
+			<Text>Unidade de combate corpo a corpo da maior parte da Guerra Civil, depois que ambos os lados começaram a se organizar em unidades maiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_HELP">
 			<Text>Unidade montada básica da Guerra Civil.</Text>
@@ -132,16 +155,16 @@
 			<Text>Poderosa unidade montada com o dobro da força de combate da cavalaria regular.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_HELP">
-			<Text>Basic artillery unit of the Civil War.</Text>
+			<Text>Unidade de artilharia básica da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_HELP">
-			<Text>Advanced artillery unit with boosted range.</Text>
+			<Text>Unidade de artilharia avançada com alcance ampliado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_HELP">
-			<Text>Front-line melee unit of the early Civil War, before both sides started organizing into larger units (Infantry Corps).</Text>
+			<Text>Unidade de combate corpo a corpo da fase inicial da Guerra Civil, antes de ambos os lados começarem a se organizar em unidades maiores (Corpos de Infantaria).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_HELP">
-			<Text>Front-line melee unit during the bulk of the Civil War, after both sides started organizing into larger units.</Text>
+			<Text>Unidade de combate corpo a corpo da maior parte da Guerra Civil, depois que ambos os lados começaram a se organizar em unidades maiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_HELP">
 			<Text>Unidade montada básica da Guerra Civil.</Text>
@@ -150,35 +173,35 @@
 			<Text>Poderosa unidade montada com o dobro da força de combate da cavalaria regular.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_HELP">
-			<Text>Basic artillery unit of the Civil War.</Text>
+			<Text>Unidade de artilharia básica da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_HELP">
-			<Text>Advanced artillery unit with boosted range.</Text>
+			<Text>Unidade de artilharia avançada com alcance ampliado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_HELP">
-			<Text>Basic Union naval unit.</Text>
+			<Text>Unidade naval básica da União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_HELP">
-			<Text>Confederate naval unit that can be exchanged for Gold.</Text>
+			<Text>Unidade naval Confederada que pode ser trocada por Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_HELP">
-			<Text>Unique Confederate naval unit, devastating to Union Frigates.</Text>
+			<Text>Unidade naval única Confederada, devastadora para as Fragatas da União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_HELP">
-			<Text>Advanced anti-personnel weapon available late in the Civil War.</Text>
+			<Text>Arma avançada arma antipessoal disponível no final da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_HELP">
-			<Text>Unique Union naval unit, able to hold its own against Confederate {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
+			<Text>Unidade naval única da União, capaz de enfrentar os Navios Blindados Confederados.</Text>
 		</Row>
 		<!-- PROMOTIONS -->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN">
-			<Text>Green</Text>
+			<Text>George S. Greene</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_CONFEDERATE_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Confederate General (promotion) after the unit completes its first combat</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Substituído por um novo General Confederado (promoção) escolhido aleatoriamente após a unidade completar seu primeiro combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_UNION_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Union General (promotion) after the unit completes its first combat</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Substituído por um novo General da União (promoção) escolhido aleatoriamente após a unidade completar seu primeiro combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON">
 			<Text>Richard H. Anderson</Text>
@@ -256,79 +279,79 @@
 			<Text>Ambrose Wright</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Dobro de movimento em {TXT_KEY_FEATURE_FOREST}.[ENDCOLOR][NEWLINE][NEWLINE]Venceu a "Corrida para Spotsylvania" em seu primeiro dia de comando no exército, marchando com as forças da União para aquela encruzilhada crítica. </Text>
+			<Text>[COLOR_POSITIVE_TEXT]Movimento dobrado em florestas.[ENDCOLOR][NEWLINE][NEWLINE]Venceu a "Corrida para Spotsylvania" em seu primeiro dia no comando do Corpo, superando as forças da União até aquela encruzilhada crítica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_HILL_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Dobro de movimento em {TXT_KEY_TERRAIN_GRASS}.[ENDCOLOR][NEWLINE][NEWLINE]A "Divisão Ligeira de Hill" era famosa por sua marcha de 17 milhas em um dia, de Harper's Ferry para salvar os confederados em Sharpsburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Movimento dobrado em pradarias.[ENDCOLOR][NEWLINE][NEWLINE]"A Divisão Leve de Hill" era famosa por sua marcha de 17 milhas em um único dia de Harpers Ferry para salvar os Confederados em Sharpsburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in a city.[ENDCOLOR][NEWLINE][NEWLINE]His South Carolinians fought well in the Battle of the Crater, capturing 130 prisoners.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Seus sul-carolinenses lutaram bem na Batalha do Crater, capturando 130 prisioneiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Ran for President against Lincoln in 1860. His division participated in the repulse of the Union frontal assault at Cold Harbor.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Candidatou-se à Presidência contra Lincoln em 1860. Sua divisão participou na repulsa ao ataque frontal da União em Cold Harbor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]No bonus from Great Generals.[ENDCOLOR][NEWLINE][NEWLINE]An accomplished general whose career was hampered by his frequent feuds with his superior officers.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Sem bônus de Grandes Generais.[ENDCOLOR][NEWLINE][NEWLINE]Um general talentoso cuja carreira foi prejudicada por suas frequentes disputas com seus superiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_E_JOHNSON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] quando defendendo em {TXT_KEY_FEATURE_FOREST}.[ENDCOLOR][NEWLINE][NEWLINE]Sua divisão repeliu vários ataques da União na Batalha da Região Selvagem, fazendo com que Lee o considerasse para o comando do corpo.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em florestas.[ENDCOLOR][NEWLINE][NEWLINE]Sua divisão repeliu vários ataques da União na Batalha de Wilderness, levando Lee a considerá-lo para o comando do corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EARLY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+10 HP per turn in enemy territory.[ENDCOLOR][NEWLINE][NEWLINE]Led a late war raid on Washington that almost succeeded in capturing the lightly-defended capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+10 de PV por turno em território inimigo.[ENDCOLOR][NEWLINE][NEWLINE]Liderou um ataque tardio a Washington que quase teve sucesso em capturar a capital pouco defendida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EWELL_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+10 HP per turn outside of friendly and enemy territory.[ENDCOLOR][NEWLINE][NEWLINE]Led the Confederate advance into Pennsylvania and nearly captured Harrisburg during the Gettysburg campaign.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+10 de PV por turno fora de território amigo e inimigo.[ENDCOLOR][NEWLINE][NEWLINE]Liderou o avanço Confederado na Pensilvânia e quase capturou Harrisburg durante a campanha de Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FIELD_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When attacking in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Helped keep Richmond secure with a fierce counterattack at the Battle of Deep Bottom.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] ao atacar em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Contribuiu para manter Richmond segura com um feroz contra-ataque na Batalha de Deep Bottom.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GORDON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] quando atacando em {TXT_KEY_FEATURE_FOREST}.[ENDCOLOR][NEWLINE][NEWLINE]Executou um ataque de flanco bem-sucedido na Terra Selvagem que poderia ter mudado o rumo da batalha se tivesse começado mais cedo no dia.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar em florestas.[ENDCOLOR][NEWLINE][NEWLINE]Executou um bem-sucedido ataque de flanco na Wilderness que poderia ter mudado o rumo da batalha se tivesse começado mais cedo no dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HETH_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+1 Visibility Range.[ENDCOLOR][NEWLINE][NEWLINE]Famed for his scouting expeditionary into Gettysburg looking for shoes that precipitated the great battle.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+1 de Alcance Visual.[ENDCOLOR][NEWLINE][NEWLINE]Ficou famoso por sua expedição de reconhecimento em Gettysburg em busca de sapatos, que precipitou a grande batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar cidades.[ENDCOLOR][NEWLINE][NEWLINE]Captured a Union garrison of three thousand in his attack at Plymouth, North Carolina, the last Confederate victory of the war.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar cidades.[ENDCOLOR][NEWLINE][NEWLINE]Capturou uma guarnição da União de três mil soldados em seu ataque a Plymouth, Carolina do Norte, a última vitória Confederada da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-1 Movement.[ENDCOLOR][NEWLINE][NEWLINE]In his late fifties and suffering from memory loss, his principle assignment in the war was command of coastal garrisons.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-1 de Movimento.[ENDCOLOR][NEWLINE][NEWLINE]Com idade avançada e sofrendo de perda de memória, sua principal atribuição na guerra foi o comando de guarnições costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOOD_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]1 additional attack per turn.[ENDCOLOR][NEWLINE][NEWLINE]Perhaps the most aggressive of the Confederate commanders, his attacking style would ruin the Army of Tennessee late in the war.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]1 ataque adicional por turno.[ENDCOLOR][NEWLINE][NEWLINE]Talvez o mais agressivo dos comandantes Confederados, seu estilo de ataque arruinaria o Exército do Tennessee no final da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUGER_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-30% [ICON_STRENGTH] When defending in a city.[ENDCOLOR][NEWLINE][NEWLINE]Evacuated Norfolk early in the Peninsula Campaign, forcing the Confederates to scuttle the ironclad CSS Virginia.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-30% para a defesa [ICON_STRENGTH] em uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Evacuou Norfolk no início da Campanha da Península, forçando os Confederados a afundar o navio blindado CSS Virgínia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_JACKSON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Flanking Bonus increased by 50%.[ENDCOLOR][NEWLINE][NEWLINE]Nicknamed "Stonewall" at 1st Bull Run, he led decisive flanking maneuvers during the 2nd Bull Run and Chancellorsville campaigns.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Bônus de Flanqueamento aumentado em 50%.[ENDCOLOR][NEWLINE][NEWLINE]Apelidado de "Stonewall" na 1ª Batalha de Bull Run, ele liderou manobras decisivas de flanqueamento durante as campanhas da 2ª Batalha de Bull Run e Chancellorsville.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_LONGSTREET_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH]When attacking in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE] His greatest success came leading the Confederate counterattack in the dense woods contested during the Wilderness campaign.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Seu maior sucesso veio liderando o contra-ataque Confederado nas densas florestas contestadas durante a campanha da Wilderness.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAGRUDER_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+100% [ICON_STRENGTH] Quando defendendo em {TXT_KEY_FEATURE_MARSH[2]}.[ENDCOLOR][NEWLINE][NEWLINE] Bluffed the Union into thinking he was leading a huge army while defending the marshlands of the Virginia Peninsula.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+100% para a defesa [ICON_STRENGTH] em áreas alagadas.[ENDCOLOR][NEWLINE][NEWLINE]Enganou a União fazendo-a acreditar que liderava um grande exército enquanto defendia os pântanos da Península da Virgínia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAHONE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]30% stronger while fighting in the capital; bonus falls off as the unit gets further away.[ENDCOLOR][NEWLINE][NEWLINE]The hero of the Battle of the Crater, an ill-fated Union attempt to tunnel under the siege lines defending Petersburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]30% mais forte ao lutar na capital; o bônus diminui à medida que a unidade se afasta.[ENDCOLOR][NEWLINE][NEWLINE]O herói da Batalha da Cratera, uma malsucedida tentativa da União de escavar sob as linhas de cerco que defendiam Petersburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MCLAWS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Quando defendendo em {TXT_KEY_TERRAIN_HILL[2]}.[ENDCOLOR][NEWLINE][NEWLINE]Spurred his troops on to a ferocious defense of Marye's Heights during the Battle of Fredericksburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em colinas.[ENDCOLOR][NEWLINE][NEWLINE]Estimulou suas tropas a uma feroz defesa das Alturas de Marye durante a Batalha de Fredericksburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PICKETT_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] Quando atacando em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Gave his name to the ill-fated "Pickett's Charge" that led to the Confederate defeat on the third day of the Battle of Gettysburg.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH] ao atacar em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Deu seu nome à malograda "Carga de Pickett" que levou à derrota Confederada no terceiro dia da Batalha de Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_RODES_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Flanking Bonus increased by 30%.[ENDCOLOR][NEWLINE][NEWLINE]Commanded the first wave of Jackson's flank attack at Chancellorsville, helping create the legend of that general.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Bônus de Flanqueamento aumentado em 30%.[ENDCOLOR][NEWLINE][NEWLINE]Comandou a primeira onda do ataque de flanco de Jackson em Chancellorsville, ajudando a criar a lenda desse general.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WHITING_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Combat Strength against artillery.[ENDCOLOR][NEWLINE][NEWLINE]Commanded units that succeeded in capturing the first Union artillery battery of the war (Rickett's battery at 1st Bull Run).</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH]Força de Combate contra artilharia.[ENDCOLOR][NEWLINE][NEWLINE]Comandou unidades que tiveram sucesso em capturar a primeira bateria de artilharia da União na guerra (a bateria de Rickett na 1ª Bull Run).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WINDER_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+1 Movement.[ENDCOLOR][NEWLINE][NEWLINE]His unit formed represented some of the elite "foot cavalry" of Jackson's corps, famed for their long daily marches.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+1 de Movimento.[ENDCOLOR][NEWLINE][NEWLINE]Sua unidade representava parte da elite da "cavalaria a pé" de Jackson, famosa por suas longas marchas diárias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WRIGHT_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Can embark onto Water Tiles.[ENDCOLOR][NEWLINE][NEWLINE]Part of a rare Confederate amphibious operation to reinforce Roanoke Island, North Carolina to defend it from Union assault.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Pode embarcar em Hexágonos de Água.[ENDCOLOR][NEWLINE][NEWLINE]Parte de uma rara operação anfíbia Confederada para reforçar Roanoke Island, Carolina do Norte, defendendo-a de um ataque da União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL">
 			<Text>Franz Sigel</Text>
@@ -406,79 +429,79 @@
 			<Text>Emory Upton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]No bonus from Great Generals.[ENDCOLOR][NEWLINE][NEWLINE]Granted command of the XI Corps due to his popularity with German immigrant recruits. Kept in side theaters whenever possible.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Sem bônus de Grandes Generais.[ENDCOLOR][NEWLINE][NEWLINE]Concedido o comando do XI Corpo devido à sua popularidade entre os recrutas imigrantes alemães. Mantido em teatros secundários sempre que possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-1 Visibility Range.[ENDCOLOR][NEWLINE][NEWLINE]Thoroughly outmaneuvered and defeated by Stonewall Jackson during the 1862 Shenandoah Valley campaign.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-1 de Alcance Visual.[ENDCOLOR][NEWLINE][NEWLINE]Totalmente superado e derrotado por Stonewall Jackson durante a campanha do Vale de Shenandoah de 1862.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]Spurred his troops on to a ferocious defense of Henry House Hill during the 2nd Battle of Bull Run.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Estimulou suas tropas a uma feroz defesa de Henry House Hill durante a 2ª Batalha de Bull Run.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]His corps suffered disastrous losses in attacks he led at both Antietam and Fredericksburg.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Seu corpo sofreu perdas desastrosas em ataques que liderou em Antietam e Fredericksburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]30% stronger while fighting in the capital; bonus falls off as the unit gets further away.[ENDCOLOR][NEWLINE][NEWLINE]After mediocre results in field command, was assigned to lead the defenses of Washington for the balance of the war.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]30% mais forte ao lutar na capital; o bônus diminui à medida que a unidade se afasta.[ENDCOLOR][NEWLINE][NEWLINE]Após resultados medianos no comando de campo, foi designado para liderar a defesa de Washington pelo restante da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PORTER_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+50% [ICON_STRENGTH] When defending in {TXT_KEY_FEATURE_MARSH}.[ENDCOLOR][NEWLINE][NEWLINE]Defended the Union right flank with a single corps against superior forces at the Battle of Gaines Mill.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+50% para a defesa [ICON_STRENGTH] em áreas alagadas.[ENDCOLOR][NEWLINE][NEWLINE]Defendeu o flanco direito da União com um único corpo contra forças superiores na Batalha de Gaines Mill.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FRANKLIN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Eliminates combat penalty for attacking from the sea or over a river.[ENDCOLOR][NEWLINE][NEWLINE]Led the one Union infantry unit that received special training on conducting amphibious operations.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Elimina a penalidade de combate ao atacar do mar ou sobre um rio.[ENDCOLOR][NEWLINE][NEWLINE]Liderou a única unidade de infantaria da União que recebeu treinamento especial para conduzir operações anfíbias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_COUCH_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in a city.[ENDCOLOR][NEWLINE][NEWLINE]Successfully defended Harrisburg with lightly trained militia during the Gettysburg campaign.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Defendeu com sucesso Harrisburg com milícia fracamente treinada durante a campanha de Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MANSFIELD_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] quando atacando em {TXT_KEY_FEATURE_FOREST}.[ENDCOLOR][NEWLINE][NEWLINE]Liderou um ataque ousado em West Woods em Antietam, no qual foi morto.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar em floresta.[ENDCOLOR][NEWLINE][NEWLINE]Liderou um ataque audacioso nas West Woods em Antietam, onde foi morto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_WILLIAMS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+2 Visibility Range.[ENDCOLOR][NEWLINE][NEWLINE]His troops found the infamous Special Order 191 (detailing Lee's Maryland invasion plans) rolled around three cigars.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+2 de Alcance Visual.[ENDCOLOR][NEWLINE][NEWLINE]Suas tropas encontraram o infame Pedido Especial 191 (detalhando os planos de invasão de Maryland de Lee) enrolado em torno de três charutos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SEDGWICK_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] Combat Strength against infantry.[ENDCOLOR][NEWLINE][NEWLINE]Killed by a sharpshooter just moments after declaring that the Confederates "couldn't hit an elephant at this distance."</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH]Força de Combate contra infantaria.[ENDCOLOR][NEWLINE][NEWLINE]Morto por um atirador de elite momentos após declarar que os Confederados "não poderiam acertar um elefante a esta distância".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Though most famous for his role in inventing baseball, he was a competent commander who performed admirably at Gettysburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Embora seja mais famoso por seu papel na invenção do beisebol, ele foi um comandante competente que se saiu admiravelmente em Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Organized the Union defense along Cemetery Ridge at Gettysburg after the death of his wing commander, John Reynolds.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Organizou a defesa da União ao longo do Cemetery Ridge em Gettysburg após a morte de seu comandante de ala, John Reynolds.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Advanced his corps into the Peach Orchard at Gettysburg, leaving his units dangerously exposed to attacks from three sides.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Avançou com seu corpo para o Pomar de Pêssegos em Gettysburg, deixando suas unidades perigosamente expostas a ataques de três lados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]His corps was routed in successive battles at Chancellorsville and Gettysburg in 1863.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Seu corpo foi derrotado em batalhas sucessivas em Chancellorsville e Gettysburg em 1863.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar um cidade.[ENDCOLOR][NEWLINE][NEWLINE]Although nicknamed "Slow Come" for his hesitant marching, his troops did capture Atlanta during Sherman's attack on that city.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Embora apelidado de "Slow Come" por sua marcha hesitante, suas tropas capturaram Atlanta durante o ataque de Sherman àquela cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]Laid out the Union defenses at Gettysburg running along Cemetery Ridge to Little Round Top.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Definiu as defesas da União em Gettysburg, estendendo-se do Cemetery Ridge até o Little Round Top.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Embarked units defend at double strength.[ENDCOLOR][NEWLINE][NEWLINE]Planned and successfully executed the amphibious operation at Brown's Ferry during the Chattanooga campaign.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Unidades embarcadas defendem com o dobro de força.[ENDCOLOR][NEWLINE][NEWLINE]Planejou e executou com sucesso a operação anfíbia em Brown's Ferry durante a campanha de Chattanooga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUMPHREYS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Quando atacando em {TXT_KEY_TERRAIN_HILL[2]}.[ENDCOLOR][NEWLINE][NEWLINE]Achieved the furthest advance of any Union unit during the assault on Marye's Heights above Fredericksburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar em colina.[ENDCOLOR][NEWLINE][NEWLINE]Alcançou o avanço mais distante de qualquer unidade da União durante o ataque às Alturas de Marye acima de Fredericksburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_H_WRIGHT_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]No Movement Cost to Pillage[ENDCOLOR][NEWLINE][NEWLINE]Led the Union VI Corps during Sheridan's Shenandoah Valley campaign that left that fertile farmland in ruin.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Sem custo de Movimento para saquear[ENDCOLOR][NEWLINE][NEWLINE]Liderou o VI Corpo da União durante a campanha de Sheridan no Vale de Shenandoah, deixando aquelas terras férteis em ruínas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GIBBON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Dobro de movimento em {TXT_KEY_TERRAIN_GRASS}.[ENDCOLOR][NEWLINE][NEWLINE]Marched his corps 30 miles in 21 hours to support Sheridan in trapping Lee's army at Appomattox and ending the war in Virginia.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Movimento duplo em pradarias.[ENDCOLOR][NEWLINE][NEWLINE]Marchou com seu corpo 30 milhas em 21 horas para apoiar Sheridan em encurralar o exército de Lee em Appomattox e encerrar a guerra na Virgínia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PATTERSON_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-1 Movement.[ENDCOLOR][NEWLINE][NEWLINE]Mustered out of service immediately after 1st Bull Run when he was blamed for not detaining Joe Johnston's army at Winchester.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-1 Movimento.[ENDCOLOR][NEWLINE][NEWLINE]Desligado do serviço imediatamente após a 1ª Bull Run, quando foi culpado por não deter o exército de Joe Johnston em Winchester.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Quando defendendo em {TXT_KEY_TERRAIN_HILL[2]}.[ENDCOLOR][NEWLINE][NEWLINE]Commander of the 20th Maine during their historic defense of Little Round Top during the second day at Gettysburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em colina.[ENDCOLOR][NEWLINE][NEWLINE]Comandante do 20º Maine durante sua histórica defesa do Little Round Top durante o segundo dia em Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Combat Strength VS Fortified Units.[ENDCOLOR][NEWLINE][NEWLINE]Division included the 48th Pennsylvania, a unit of former coal miners expert at tunneling under enemy lines and planting explosives.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH]Força de Combate contra Unidades Fortificadas.[ENDCOLOR][NEWLINE][NEWLINE]A divisão incluía o 48º da Pensilvânia, uma unidade de ex-mineiros de carvão especializados em escavação sob as linhas inimigas e plantio de explosivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_UPTON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When attacking in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Pioneered a new style of attack using a massed column of troops that broke through enemy lines at Spotsylvania Court House.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] ao atacar em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Pioneirou um novo estilo de ataque usando uma coluna maciça de tropas que rompeu as linhas inimigas em Spotsylvania Court House.</Text>
 		</Row>
     
     <!-- Scramble for Africa -->
@@ -486,25 +509,35 @@
       <Text>Cavalaria Dervixe</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE">
-      <Text>Force Publique</Text>
+      <Text>Força Pública</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS">
-      <Text>Brandenburg Class</Text>
+      <Text>Classe Brandemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS">
-      <Text>Caio Duilio Class</Text>
+      <Text>Classe Caio Duilio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
-      <Text>Foreign Volunteer</Text>
+      <Text>Voluntário Estrangeiro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
     </Row>
 	<Row Tag="TXT_KEY_UNIT_EXPLORER">
-		<Text>Explorador|Exploradores</Text>
-		<Gender>masculine</Gender>
-		<Plurality>1|2</Plurality>
+      <Text>Explorador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
 	</Row>
     <Row Tag="TXT_KEY_UNIT_RIFLED_CANNON">
-      <Text>Rifled Cannon</Text>
-    </Row>
+      <Text>Canhão Raiado</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+	</Row>
 
     <!--Explorer Names-->
     <Row Tag="TXT_KEY_EXPLORER_ANDERSON">

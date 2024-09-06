@@ -46,7 +46,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BROADCAST_TOWER">
-			<Text>Torre de Difusão|Torres de Difusão</Text>
+			<Text>Torre de Transmissão|Torres de Transmissão</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -96,7 +96,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORGE">
-			<Text>Ferraria|Ferrarias</Text>
+			<Text>Forja|Forjas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -141,7 +141,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC">
-			<Text>Epopéia Heróica|Epopéias Heróicas</Text>
+			<Text>Epopeia Heroica|Epopeias Heroicas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -216,7 +216,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC">
-			<Text>Epopeia Nacional|Epopéias Nacionais</Text>
+			<Text>Epopeia Nacional|Epopeias Nacionais</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -266,14 +266,14 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY">
-			<Text>Observatório|Observatórios</Text>
-			<Gender>masculine</Gender>
+			<Text>Planetário|Planetários</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID">
-			<Text>As Pirâmides</Text>
-			<Gender>feminine:art</Gender>
-			<Plurality>2</Plurality>
+			<Text>As Pirâmides|As Pirâmides</Text>
+			<Gender>feminine:art|feminine:art</Gender>
+			<Plurality>2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SISTINE_CHAPEL">
 			<Text>Capela Sistina|Capelas Sistinas</Text>
@@ -412,7 +412,7 @@
 		</Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_BUILDING_CIRCUS_MAXIMUS">
-			<Text>Circus Maximus|Circus Maximus</Text>
+			<Text>Circo Máximo|Circos Máximos</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

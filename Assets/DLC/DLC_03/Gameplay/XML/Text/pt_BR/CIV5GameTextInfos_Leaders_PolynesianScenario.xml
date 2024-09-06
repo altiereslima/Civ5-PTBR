@@ -6,42 +6,42 @@
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA">
 			<Text>Hotu Matua</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_KAMEHAMEHA_NAME">
 			<Text>Hotu Matua</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Plurality>1</Plurality>			
 		</Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA">
       <Text>'Aho'eitu</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MONTEZUMA_NAME">
       <Text>'Aho'eitu</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI">
       <Text>Malietoa Savea</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_GANDHI_NAME">
       <Text>Malietoa Savea</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA">
       <Text>Pomare I</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HIAWATHA_NAME">
       <Text>Pomare I</Text>
       <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						      
+			<Plurality>1</Plurality>      
     </Row>
 	</Language_pt_BR>
 </GameData>

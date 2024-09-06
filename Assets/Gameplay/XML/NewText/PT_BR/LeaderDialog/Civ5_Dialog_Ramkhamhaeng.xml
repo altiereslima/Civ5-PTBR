@@ -131,7 +131,7 @@
 			<Text>O que você deseja?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_1">
-			<Text>Continue</Text>
+			<Text>Continuar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_2">
 			<Text>Prossiga</Text>
@@ -149,7 +149,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_7">
-			<Text>Continue</Text>
+			<Text>Continuar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LOSEWAR_1">
 			<Text>Você foi vitorioso, por agora. Mas eu terei minha vingança!</Text>

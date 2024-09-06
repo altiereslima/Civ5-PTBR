@@ -7,40 +7,40 @@
 	<Language_pt_BR>
 		<!-- FALL OF ROME SCENARIO -->
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_AUGUSTUS">
-			<Text>Honorius</Text>
+			<Text>Honório</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_DARIUS">
-			<Text>Bahram V</Text>
+			<Text>Vararanes V</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ASKIA">
-			<Text>Genseric</Text>
+			<Text>Genserico</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_NAPOLEON">
-			<Text>Chlodio</Text>
+			<Text>Clóvis</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BISMARCK">
-			<Text>Alaric I</Text>
+			<Text>Alarico I</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
-			<Text>Cyrus Rotheram</Text>
+			<Text>Ciro Rotheram</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
-			<Text>Ignace Curnow</Text>
+			<Text>Ignácio Curnow</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
-			<Text>Octavius Cutler</Text>
+			<Text>Otávio Cutler</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
-			<Text>Luther Griggs</Text>
+			<Text>Lutero Griggs</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
@@ -48,12 +48,12 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
-			<Text>Luddite</Text>
+			<Text>Ludita</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<!-- INTO THE RENAISSANCE -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
-			<Text>Saladin</Text>
+			<Text>Saladino</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">

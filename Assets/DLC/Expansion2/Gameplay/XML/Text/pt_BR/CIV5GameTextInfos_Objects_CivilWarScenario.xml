@@ -8,7 +8,7 @@
 	<Language_pt_BR>
 		<!-- Resources -->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER">
-			<Text>Força de Trabalho</Text>
+			<Text>Mão de Obra</Text>
 			<Plurality>1</Plurality>
 			<Gender>feminine</Gender>
 		</Row>

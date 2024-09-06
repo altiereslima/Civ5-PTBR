@@ -3,8 +3,10 @@
 <GameData>
   <Language_pt_BR>
     <Row Tag="TXT_KEY_CITYVIEW_GREAT_WORK_BUILDINGS_TEXT">
-      <Text>Edifícios de Grande Obra</Text>
-    </Row>
+      <Text>Edificação de Grandes Obras|Edificações de Grandes Obras</Text>
+		<Gender>feminine:as|feminine</Gender>
+		<Plurality>2|2</Plurality>
+	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_ARTIFACTS">
 		<Text>Sítio Arqueológico|Sítios Arqueológicos</Text>
 		<Gender>masculine</Gender>
@@ -44,7 +46,7 @@
       <Text>Construir uma [LINK=IMPROVEMENT_FEITORIA]Feitoria[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_CHATEAU">
-      <Text>Construir uma [LINK=IMPROVEMENT_CHATEAU]Mansão[\LINK]</Text>
+      <Text>Construir um [LINK=IMPROVEMENT_CHATEAU]Château[\LINK]</Text>
     </Row>
 	<Row Tag="TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG">
 		<Text>Escavação Arqueológica|Escavações Arqueológicas</Text>
@@ -64,138 +66,130 @@
 	  <Gender>feminine</Gender>
     </Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_CHATEAU">
-      <Text>Mansão</Text>
-	  <Gender>feminine</Gender>
+      <Text>Château|Chateaux</Text>
+	  <Gender>masculine</Gender>
+	  <Plurality>1|2</Plurality>
     </Row>
     <!-- Archaeological Artifacts-->
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
-		<Text>Rosário</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CAMP">
-		<Text>Fragmento de Cerâmica</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_1">
-		<Text>Cabeça de Machado</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_2">
-		<Text>Escudo</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RANGED">
-		<Text>Pontas de Flechas</Text>
-		<Gender>feminine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CITY">
-		<Text>Máscara</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RUIN">
-		<Text>Amuleto</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CAMP">
-		<Text>Moeda</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_1">
-		<Text>Pontas de Lanças</Text>
-		<Gender>feminine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_2">
-		<Text>Grevas</Text>
-		<Gender>feminine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RANGED">
-		<Text>Pontas de Dardos</Text>
-		<Gender>feminine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CITY">
-		<Text>Colar</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RUIN">
-		<Text>Pêndulo</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CAMP">
-		<Text>Canoa</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_1">
-		<Text>Espada Curta</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_2">
-		<Text>Armadura</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RANGED">
-		<Text>Flechas</Text>
-		<Gender>feminine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CITY">
-		<Text>Taça</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RUIN">
-		<Text>Estátua</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CAMP">
-		<Text>Dobrão</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_1">
-		<Text>Espada Grande</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_2">
-		<Text>Placa de Armadura</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RANGED">
-		<Text>Bala de Canhão</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CITY">
-		<Text>Coroa</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RUIN">
-		<Text>Estatueta</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CAMP">
-		<Text>Fivela de Cinto</Text>
-		<Gender>feminine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_1">
-		<Text>Projéteis</Text>
-		<Gender>masculine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_2">
-		<Text>Sabre</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RANGED">
-		<Text>Capacete de Artilharia</Text>
-		<Gender>masculine</Gender>
-	</Row>
-	<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CITY">
-		<Text>Brincos</Text>
-		<Gender>masculine</Gender>
-		<Plurality>2</Plurality>
-	</Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
+      <Text>Rosário</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CAMP">
+      <Text>Fragmento de Cerâmica</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_1">
+      <Text>Cabeça de Machado</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_2">
+      <Text>Escudo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RANGED">
+      <Text>Pontas de Flechas</Text>
+	  <Plurality>2</Plurality>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CITY">
+      <Text>Máscara</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RUIN">
+      <Text>Amuleto</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CAMP">
+      <Text>Moeda</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_1">
+      <Text>Pontas de Lanças</Text>
+	  <Gender>feminine</Gender>
+	  <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_2">
+      <Text>Grevas</Text>
+	  <Gender>feminine</Gender>
+	  <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RANGED">
+      <Text>Pontas de Dardos</Text>
+	  <Gender>feminine</Gender>
+	  <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CITY">
+      <Text>Colar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RUIN">
+      <Text>Pêndulo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CAMP">
+      <Text>Canoa</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_1">
+      <Text>Espada Curta</Text>
+	  <Gender>feminine</Gender>	  
+	  <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_2">
+      <Text>Armadura</Text>	  
+	  <Gender>feminine</Gender>	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RANGED">
+      <Text>Flechas</Text>
+	  <Gender>feminine</Gender>	  
+	  <Plurality>2</Plurality>	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CITY">
+      <Text>Taça</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RUIN">
+      <Text>Estátua</Text>
+	  <Gender>feminine</Gender>  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CAMP">
+      <Text>Dobrão</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_1">
+      <Text>Espada Grande</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_2">
+      <Text>Placa de Armadura</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RANGED">
+      <Text>Bala de Canhão</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CITY">
+      <Text>Coroa</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RUIN">
+      <Text>Estatueta</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CAMP">
+      <Text>Fivela de Cinto</Text>
+	  <Gender>feminine</Gender>	  	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_1">
+      <Text>Projéteis</Text>
+	  <Gender>masculine</Gender>	  
+	  <Plurality>2</Plurality>	  
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_2">
+      <Text>Sabre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RANGED">
+      <Text>Capacete de Artilharia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CITY">
+      <Text>Brincos</Text>
+	  <Gender>masculine</Gender>	  
+	  <Plurality>2</Plurality>	  
+    </Row>
     <!-- Processes-->
     <Row Tag="TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION">
       <Text>Estação Espacial Internacional</Text>
@@ -804,7 +798,7 @@
     </Row>
 	<!-- Additional great musician works -->
 	<Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
-      <Text>Assim Falou Zarathustra</Text>
+      <Text>Assim Falou Zoroastro</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SATURN">
       <Text>Saturno</Text>
@@ -843,7 +837,7 @@
       <Text>Agnus Dei</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_WATER_MUSIC">
-      <Text>Water Music</Text>
+      <Text>Música aquática</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
       <Text>Sinfonia Nº 93</Text>
@@ -870,7 +864,7 @@
       <Text>Quarteto de Cordas em Fá</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_PERSONS_GUIDE">
-      <Text>Young Person's Guide to the Orchestra</Text>
+      <Text>Guia da Orquestra para Jovens</Text>
     </Row>
     <!-- Artifacts (Written)-->
     <Row Tag="TXT_KEY_GREAT_WORK_ROSETTA">
@@ -898,7 +892,7 @@
       <Text>Pedra de Rök</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
-      <Text>Código de Hamurabi</Text>
+      <Text>Código de Hamurábi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
       <Text>Manuscrito Bakshali</Text>

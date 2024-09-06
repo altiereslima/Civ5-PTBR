@@ -11,7 +11,7 @@
       <Text>Três unidades razoavelmente fortes, independente do tipo, podem capturar praticamente qualquer cidade, por mais forte que ela seja, a não ser que a cidade esteja sendo defendida por unidades extras.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_HINT_2">
-      <Text>Construa [COLOR_ADVISOR_HIGHLIGHT_TEXT]Templos[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]Teatros[/COLOR] e outros edifícios culturais para ganhar acesso a avanços da sociedade</Text>
+      <Text>Construa [COLOR_ADVISOR_HIGHLIGHT_TEXT]Templos[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]Teatros[/COLOR] e outras edificações culturais para ganhar acesso a avanços da sociedade</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_HINT_3">
       <Text>Uma vez que um hexágono esteja dentro das fronteiras de uma civilização, ele sempre pertencerá a esta civilização. A única maneira de conquistá-lo é capturando ou destruindo a cidade o possui.</Text>
@@ -25,5 +25,5 @@
     <Row Tag="TXT_KEY_CIV5_HINT_8">
       <Text>Não deixe de lado a [ICON_HAPPINESS_1]Felicidade de seu Império. Caso seu império esteja [ICON_HAPPINESS_4]Infeliz, as cidades deixarão de crescer até que você consiga novas fontes de felicidade.</Text>
     </Row>
-  <Language_pt_BR>
+  </Language_pt_BR>
 </GameData>

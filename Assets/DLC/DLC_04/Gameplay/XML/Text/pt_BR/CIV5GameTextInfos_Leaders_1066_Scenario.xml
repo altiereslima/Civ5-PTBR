@@ -3,12 +3,12 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_BISMARCK">
-			<Text>Harald Hardrada</Text>
+			<Text>Haroldo Hardrada</Text>
             <Gender>masculine</Gender>
             <Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_ELIZABETH">
-			<Text>Harold Godwinson</Text>
+			<Text>Haroldo Godwinson</Text>
             <Gender>masculine</Gender>
             <Plurality>1</Plurality>
 		</Row>
@@ -18,7 +18,7 @@
             <Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARALD">
-			<Text>Sweyn II</Text>
+			<Text>Sueno II</Text>
             <Gender>masculine</Gender>
             <Plurality>1</Plurality>
 		</Row>

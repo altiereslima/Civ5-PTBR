@@ -23,7 +23,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_TITLE">
-			<Text>{TXT_KEY_UNIT_IRONCLAD[2]}</Text>
+			<Text>Navios Blindados</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -38,12 +38,12 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_TITLE">
-			<Text>Balão de Reconhecimento</Text>
+			<Text>Reconhecimento por Balão</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_TITLE">
-			<Text>Ferrovias Militares</Text>
+			<Text>Ferrovia Militar</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -58,7 +58,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_TITLE">
-			<Text>Entrincheiramento</Text>
+			<Text>Trincheira</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

@@ -3,38 +3,38 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TITLE">
-			<Text>Into the Renaissance</Text>
+			<Text>No Limiar do Renascimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DESC">
-			<Text>The stage is set for a dramatic battle between the faiths. But with such bloodshed on the horizon, will you be able to preserve civilization as we know it and lead the world into the glory of the Renaissance?</Text>
+			<Text>O palco está montado para uma batalha dramática entre as fés. Mas com tanta carnificina no horizonte, você será capaz de preservar a civilização como a conhecemos e conduzir o mundo para a glória do Renascimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RANDOM_MAP">
-			<Text>Random Europe</Text>
+			<Text>Europa Aleatória</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_FIXED_MAP">
 			<Text>Histórico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>SCENARIO DESCRIPTION[NEWLINE]The Great Schism has divided the Christian church into east and west. All attempts to reconcile Byzantium and Rome have failed. Meanwhile the Islamic armies of the Great Turk threaten Constantinople with capture. In response, Pope Urban II issues a call for a crusade to bolster the Byzantines and liberate the Holy Land. The stage is set for a dramatic battle between the faiths. With such bloodshed on the horizon, will you be able to preserve civilization as we know it and lead the world into the glory of the Renaissance?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory is awarded based on score after 200 turns. Earn special scenario VP as follows:[NEWLINE][ICON_BULLET]Holy City Control: Control (or be allied with) the Holy City for your religion or Jerusalem (10 VP per turn).[NEWLINE][ICON_BULLET]Holy Roman Emperor: Win the election by receiving the most votes from all powers and City-States (250 VP per election).[NEWLINE][ICON_BULLET]New World: Send Caravels west after researching Exploration.[NEWLINE][ICON_BULLET]Religious War: Capture cities following a different religion.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Three religions are established before the game starts: Catholicism (Holy City is Vatican City), Orthodoxy (Holy City is Constantinople) and Islam (Holy City is Mecca). Control your Holy City (or Jerusalem) to gain the benefits of the Founder beliefs for your religion.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O Grande Cisma dividiu a igreja cristã em leste e oeste. Todas as tentativas de reconciliar Bizâncio e Roma fracassaram. Enquanto isso, os exércitos islâmicos do Grande Turco ameaçam Constantinopla com a captura. Em resposta, o Papa Urbano II emite um chamado para uma cruzada para fortalecer os bizantinos e libertar a Terra Santa. O palco está montado para uma batalha dramática entre as fés. Com tanta carnificina no horizonte, você será capaz de preservar a civilização como a conhecemos e conduzir o mundo para a glória do Renascimento?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]A vitória é concedida com base na pontuação após 200 turnos. Ganhe pontos de vitória especiais do cenário da seguinte forma:[NEWLINE][ICON_BULLET]Controle da Cidade Sagrada: Controle (ou seja aliado com) a Cidade Sagrada de sua religião ou Jerusalém (10 Pontos de Vitória por turno).[NEWLINE][ICON_BULLET]Imperador do Sacro Império Romano: Vença a eleição recebendo a maioria dos votos de todos os poderes e Cidades-Estado (250 Pontos de Vitória por eleição).[NEWLINE][ICON_BULLET]Novo Mundo: Envie Caravelas para o oeste após pesquisar Exploração.[NEWLINE][ICON_BULLET]Guerra Religiosa: Capture cidades que sigam uma religião diferente.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Três religiões são estabelecidas antes do início do jogo: Catolicismo (Cidade Sagrada é Cidade do Vaticano), Ortodoxia (Cidade Sagrada é Constantinopla) e Islã (Cidade Sagrada é Meca). Controle sua Cidade Sagrada (ou Jerusalém) para obter os benefícios das Crenças Fundadoras de sua religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BRIEFING">
-			<Text>Briefing</Text>
+			<Text>Resumo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TURNSREMAINING">
-			<Text>Turns Left: {1_TurnsRemaining}</Text>
+			<Text>Turnos Restantes: {1_TurnsRemaining}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_FUTURE_TECH">
-			<Text>Special Scenario</Text>
+			<Text>Cenário Especial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
-			<Text>{1_Num} from Special Scenario VP[NEWLINE]   (Holy City Control, Holy Roman Election)</Text>
+			<Text>{1_Num} de Pontos de Vitória do Cenário Especial[NEWLINE]   (Controle da Cidade Sagrada, Eleição do Sacro Império Romano)</Text>
 		</Row>
 		<!-- Civs and Leaders -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_NAME">
 			<Text>Salah ad-Din Yusuf ibn Ayyub</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_SUBTITLE">
-			<Text>First Sultan of Egypt and Syria</Text>
+			<Text>Primeiro Sultão do Egito e Síria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_LIVED">
 			<Text>1138 - 1193 d.C.</Text>
@@ -43,37 +43,37 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_TEXT_1">
-			<Text>Salah ad-Din Yusuf ibn Ayyub, better known as Saladin, was a Kurdish noble who rose to become the first sultan of Egypt and Syria. Born in Tikrit (Iraq) around 1138 AD, his military training began at the age of 26 under the tutelage of his uncle Asad, an influential commander in service to Nur ad-Din, governor of the Syrian province of the Seljuk Empire. In a campaign against Crusaders and the Egyptian usurper Dirgham, Saladin distinguished himself in the sack of Bilbais and at a battle near the Nile west of Giza. Proceeding to Alexandria, Saladin entered the city unopposed and in 1169 was appointed vizier by al-Adid, the Fatimid caliph. Two years later Saladin was ordered to establish a caliphate in Egypt by Nur ad-Din. Upon Nur's death in 1174, Saladin proclaimed the establishment of the Ayyubid dynasty.[NEWLINE][NEWLINE]Using Egypt as his base, Saladin spent the next few years expanding his authority, and autonomy. Yemen had already been occupied in 1173; the fall of Damascus and the fortress at Hamas to his forces in 1174 added Syria. Following his defeat of the rival Zengids there, Saladin returned to Cairo to devote himself to strengthening his rule. He oversaw the fortification of Cairo, the digging of the Bir Yusef well, construction of a bridge at Giza and several new madrasas. But after Crusader raids into his territory, Saladin turned his attention to Palestine in 1177.[NEWLINE][NEWLINE]Saladin's war against the Christians raged until his death in 1193 AD. Marked by a string of Ayyubid victories and the occupation of the Crusader Kingdom of Jerusalem in 1187, including the holy city itself, Saladin became infamous in Europe. The result was the Third Crusade - mounted by England's Richard the Lionheart, Philip II of France, Frederick Barbarossa, among others - marked more by massacres than battles. By September 1191, the Crusader army had been reduced to about 2000 men-at-arms and 50 knights fit for battle. Richard and Saladin finally came to an agreement, the Treaty of Ramla in 1192, whereby Jerusalem would remain in Muslim control but be open to Christian pilgrimages.</Text>
+			<Text>Salah ad-Din Yusuf ibn Ayyub, mais conhecido como Saladino, foi um nobre curdo que se tornou o primeiro sultão do Egito e da Síria. Nascido em Tikrit (Iraque) por volta de 1138 d.C., seu treinamento militar começou aos 26 anos sob a tutela de seu tio Asad, um comandante influente a serviço de Nur ad-Din, governador da província síria do Império Seljúcida. Em uma campanha contra os Cruzados e o usurpador egípcio Dirgham, Saladino se destacou no saque de Bilbais e em uma batalha perto do Nilo a oeste de Gizé. Avançando para Alexandria, Saladino entrou na cidade sem oposição e, em 1169, foi nomeado vizir por al-Adid, o califa fatímida. Dois anos depois Saladino recebeu ordens para estabelecer um califado no Egito por Nur ad-Din. Após a morte de Nur em 1174, Saladino proclamou o estabelecimento da dinastia Aiúbida.[NEWLINE][NEWLINE]Usando o Egito como base, Saladino passou os próximos anos expandindo sua autoridade e autonomia. O Iêmen já havia sido ocupado em 1173; a queda de Damasco e da fortaleza em Hamas para suas forças em 1174 adicionou a Síria. Após sua derrota dos rivais Zengids lá, Saladino voltou ao Cairo para se dedicar a fortalecer seu domínio. Ele supervisionou a fortificação do Cairo, a escavação do poço Bir Yusef, a construção de uma ponte em Gizé e várias novas madraças. Mas após ataques dos Cruzados em seu território, Saladino voltou sua atenção para a Palestina em 1177.[NEWLINE][NEWLINE]A guerra de Saladino contra os cristãos continuou até sua morte em 1193 d.C. Marcada por uma série de vitórias Aiúbidas e a ocupação do Reino Cruzado de Jerusalém em 1187, incluindo a própria cidade sagrada, Saladino se tornou infame na Europa. O resultado foi a Terceira Cruzada - liderada por Ricardo Coração de Leão da Inglaterra, Filipe II da França, Frederico Barbarossa, entre outros - marcada mais por massacres do que por batalhas. Até setembro de 1191, o exército cruzado havia sido reduzido a cerca de 2000 homens de armas e 50 cavaleiros aptos para a batalha. Ricardo e Saladino finalmente chegaram a um acordo, o Tratado de Ramla em 1192, pelo qual Jerusalém permaneceria sob controle muçulmano, mas seria aberta a peregrinações cristãs.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_1">
-			<Text>Greetings. I am Saladin of the Ayyubids. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.</Text>
+			<Text>Saudações. Sou Saladino dos Aiúbidas. Somos um povo justo - mas aqueles que nos desafiam encontrarão apenas destruição. Você faria bem em evitar repetir os erros cometidos no passado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_2">
-			<Text>Blessings upon you. I am Saladin of the Ayyubid Dynasty. I seek peace with all, but do not shrink from war when necessary. If you wish to survive, do not make it necessary.</Text>
+			<Text>Bênçãos sobre você. Sou Saladino da Dinastia Aiúbida. Busco paz com todos, mas não recuo da guerra quando necessário. Se deseja sobreviver, não torne isso necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_3">
-			<Text>Greetings. I am Saladin, Sultan of the Ayyubid Dynasty. We are an enlightened people who seek the peaceful exchange of knowledge with others. However, we are quite ready to defend ourselves when necessary.</Text>
+			<Text>Saudações. Sou Saladino, Sultão da Dinastia Aiúbida. Somos um povo iluminado que busca a troca pacífica de conhecimento com outros. No entanto, estamos prontos para nos defender quando necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_4">
-			<Text>Greetings. I am Saladin of the Ayyubids. We seek peace with all. If you are looking to make trouble, I urge you to do so elsewhere.</Text>
+			<Text>Saudações. Sou Saladino dos Aiúbidas. Buscamos paz com todos. Se procura encrenca, insto que o faça em outro lugar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_TRADE_NO_HAPPY">
-			<Text>I cannot agree to your terms. They are unfair to the Ayyubids.</Text>
+			<Text>Não posso concordar com seus termos. Eles são injustos para os Aiúbidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
-			<Text>We could use your assistance in her fight against the heretics and scum who infest the earth.</Text>
+			<Text>Poderíamos usar sua ajuda em sua luta contra os hereges e escória que infestam a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_TEXT_1">
-			<Text>A Muslim dynasty of Kurdish origins, the Ayyubid sultanate was founded by Salah ad-Din (Saladin) and centered in Egypt, ruling most of the Middle East in the 12th and 13th centuries. By 1183 AD, the sultanate included Egypt, Tunisia, Syria, Mesopotamia, Kurdistan, Hejaz, Yemen and much of the Levant. The Crusader Kingdom of Jerusalem fell to Ayyubid forces in 1187, sparking the Christian Third Crusade led by Richard the Lionheart and Philip Augustus.[NEWLINE][NEWLINE]After the death of Saladin, his sons fought for control of the sultanate, with Saladin's brother al-Adil eventually establishing himself as sultan in 1200 AD. However, the kingdom was troubled by Syrian revolts in 1230 through 1247, when order was restored. But in the meantime, successful revolts against Ayyubid rule in Yemen, Hejaz and areas of Mesopotamia had fragmented the sultanate. Repelling a Crusader invasion of the Nile delta so weakened Ayyubid rule that Mamluk generals overthrew Sultan al-Muazzam Turanshah in 1250, ending the family's control of the heart of the sultanate. Ayyubid rule was now briefly centered on Aleppo, which was sacked by the rampaging Mongols in 1260. Within a few years, the Mongols had erased what remained of Ayyubid power.[NEWLINE][NEWLINE]Although of relatively short length, Ayyubid rule ushered in an age of prosperity in the lands they held and a resurgence of Islamic culture and science in the region. Based on the principle espoused by Saladin of collective sovereignty, Ayyubid rule was relatively benign and enlightened. First Damascus and later Cairo as the capital witnessed a flowering of art and literature. Ayyubid patronage led to the construction of numerous Sunni madrasas. Of special interest to the Ayyubids, studies in medicine, pharmacology and botany were encouraged and physicians such as Ibn al-Baytar, al-Dakhwar and Rashidun al-Suri developed procedures and treatments not found elsewhere in the world for decades.</Text>
+			<Text>Uma dinastia muçulmana de origem curda, o sultanato Aiúbida foi fundado por Salah ad-Din (Saladino) e centrado no Egito, governando a maior parte do Oriente Médio nos séculos XII e XIII. Em 1183 d.C., o sultanato incluía Egito, Tunísia, Síria, Mesopotâmia, Curdistão, Hejaz, Iêmen e grande parte do Levante. O Reino Cruzado de Jerusalém caiu para as forças Aiúbidas em 1187, desencadeando a Terceira Cruzada cristã liderada por Ricardo Coração de Leão e Filipe Augusto.[NEWLINE][NEWLINE]Após a morte de Saladino, seus filhos lutaram pelo controle do sultanato, com o irmão de Saladino, al-Adil, eventualmente se estabelecendo como sultão em 1200 d.C. No entanto, o reino foi atormentado por revoltas sírias de 1230 a 1247, quando a ordem foi restaurada. Mas, enquanto isso, revoltas bem-sucedidas contra o domínio Aiúbida no Iêmen, Hejaz e áreas da Mesopotâmia haviam fragmentado o sultanato. Repelindo uma invasão cruzada do delta do Nilo, enfraqueceu tanto o domínio Aiúbida que generais mamelucos derrubaram o sultão al-Muazzam Turanshah em 1250, encerrando o controle da família sobre o coração do sultanato. O domínio Aiúbida agora estava brevemente centrado em Alepo, que foi saqueada pelos mongóis em 1260. Em poucos anos, os mongóis haviam apagado o que restava do poder Aiúbida.[NEWLINE][NEWLINE]Embora de duração relativamente curta, o domínio Aiúbida trouxe uma era de prosperidade nas terras que detinham e um ressurgimento da cultura e ciência islâmicas na região. Com base no princípio defendido por Saladino de soberania coletiva, o domínio Aiúbida foi relativamente benigno e esclarecido. Primeiro Damasco e depois o Cairo como capital testemunharam um florescimento da arte e literatura. O patrocínio Aiúbida levou à construção de numerosas madraças sunitas. De interesse especial para os Aiúbidas, estudos em medicina, farmacologia e botânica foram incentivados, e médicos como Ibn al-Baytar, al-Dakhwar e Rashidun al-Suri desenvolveram procedimentos e tratamentos que não foram encontrados em outras partes do mundo por décadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_NAME">
 			<Text>Abu Yusuf Ya'qub al-Mansur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_SUBTITLE">
-			<Text>Emir of the Almohad Dynasty</Text>
+			<Text>Emir da Dinastia Almóada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_LIVED">
 			<Text>1160 - 1199 d.C.</Text>
@@ -82,38 +82,38 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_TEXT_1">
-			<Text>Abu Yusuf Ya'qub al-Mansur (1160-1199 AD) was the third emir of the Almohad dynasty, succeeding to the throne when his father was killed in combat with the Christian Alfonso I in Portugal in 1184 AD. Al-Mansur vowed revenge for his father's death and landed in Iberia, capturing and sacking Christian cities before returning to Morocco with 3000 captives. There he spent several years strengthening his kingdom both culturally and diplomatically.[NEWLINE][NEWLINE]During his absence from Iberia, the Castilian king Alfonso VIII again sought to "reconquer" Moorish territories in Iberia. Gathering the largest army of the period, reportedly 300,000, the Christians captured a number of Almohad cities, including Silves and Beja. Returning with a vengeance, al-Mansur decisively defeated Alfonso at the Battle of Alarcos in July 1195, inflicting 150,000 casualties on the Christians; after the victory al-Mansur was given the title "Made Victorious by God" by his people.[NEWLINE][NEWLINE]In addition to his military successes, al-Mansur reigned with distinction. Under his rule, trade, art and the sciences flourished. He oversaw the construction of the great mosques of Koutouba and el-Mansouria in Marrakesh and the Udayas kasbah in Rabat. Al-Mansur was patron to the philosopher Ibn Rushd (known as Averroes among Christians) and other artists and scholars. He funded construction of what would have been the world's largest mosque in Rabat, but work was halted upon al-Mansur's premature death.
+			<Text>Abu Yusuf Ya'qub al-Mansur (1160-1199 d.C.) foi o terceiro emir da dinastia Almóada, sucedendo ao trono quando seu pai foi morto em combate contra o cristão Alfonso I em Portugal em 1184 d.C. Al-Mansur jurou vingança pela morte de seu pai e desembarcou na Península Ibérica, capturando e saqueando cidades cristãs antes de retornar ao Marrocos com 3000 cativos. Lá, passou vários anos fortalecendo seu reino tanto cultural quanto diplomaticamente.[NEWLINE][NEWLINE]Durante sua ausência da Península Ibérica, o rei castelhano Alfonso VIII novamente buscou "reconquistar" territórios mouros na Península Ibérica. Reunindo o maior exército do período, supostamente 300.000, os cristãos capturaram várias cidades almóadas, incluindo Silves e Beja. Retornando com vingança, al-Mansur derrotou decisivamente Alfonso na Batalha de Alarcos em julho de 1195, infligindo 150.000 baixas aos cristãos; após a vitória, al-Mansur recebeu o título de "Feito Vitorioso por Deus" por seu povo.[NEWLINE][NEWLINE]Além de seus sucessos militares, al-Mansur reinou com distinção. Sob seu governo, o comércio, a arte e as ciências floresceram. Ele supervisionou a construção das grandes mesquitas de Koutouba e el-Mansouria em Marraquexe e a kasbah de Udayas em Rabat. Al-Mansur foi patrono do filósofo Ibn Rushd (conhecido como Averróis entre os cristãos) e de outros artistas e estudiosos. Ele financiou a construção daquela que teria sido a maior mesquita do mundo em Rabat, mas o trabalho foi interrompido com a morte prematura de al-Mansur.
 </Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_1">
-			<Text>Welcome! I am Ya'qub al-Mansur of the Almohad Caliphate. Come - let us admire the sumptuousness of my palace!</Text>
+			<Text>Bem-vindo! Eu sou Ya'qub al-Mansur da Califado Almóada. Venha - vamos admirar a suntuosidade do meu palácio!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_2">
-			<Text>Ah! A new star appears on the horizon. I am Ya'qub al-Mansur of the Almohad Dynasty! I shall write an epic poem to celebrate our historic meeting!</Text>
+			<Text>Ah! Uma nova estrela surge no horizonte. Eu sou Ya'qub al-Mansur da Dinastia Almóada! Escreverei um poema épico para celebrar nosso encontro histórico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_3">
-			<Text>Welcome, Stranger! I am Abu Yusuf Ya'qub al-Mansur, ruler of the Almohads. Come - tell me of your empire.</Text>
+			<Text>Bem-vindo, estranho! Eu sou Abu Yusuf Ya'qub al-Mansur, governante dos Almóadas. Venha - conte-me sobre seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_TEXT_1">
-			<Text>The Almohad dynasty was founded in the Atlas Mountains of Morocco by the Berber Ibn Tumart in the early 12th Century. Originally a religious movement, the Almohads under Tumart rebelled against the ruling Almoravids, united the Berber and Moorish tribes, and in a few decades dominated all the Magreb and Morocco. Energized by religious zeal, the Almohads quickly extended their rule across the straits to Iberia (modern Portugal and southern Spain). In 1170, they transferred their capital to Seville.[NEWLINE][NEWLINE]Despite continuous attempts by Christian monarchs to reclaim the peninsula, Almohad domination of Iberia continued until 1212. In that year, a coalition of forces from Castile, Aragon, Portugal and Navarre decisively defeated Muhammad III at the Battle of Las Navas de Tolosa. Over the next four decades the Moorish territories were taken by Christian rulers, with the great city of Cordoba falling in 1236, and Seville in 1248. By 1260, all that remained after the Reconquista was the Moorish fortress city of Grenada, which remained independent for another 250 years.[NEWLINE][NEWLINE]In Africa, the Almohads fended off incursions by Norman adventurers and revolts by native tribes, even entering into alliances with Castile to do so. But over time, they lost districts and towns to rebellion and incursions by other peoples, most notably the Marinids, a Zenata Berber dynasty that would eventually replace them in the Magreb. In 1265, the last Almohad ruler, Idris al-Wathiq was reduced to controlling only the capital of Marrakesh. In 1268 the city was besieged; Marrakesh fell in September 1269 and Idris was assassinated by a slave.[NEWLINE][NEWLINE]The Almohads left a legacy of art and learning unmatched by the successive Islamic dynasties. Caliphs such as al-Mansur sponsored and protected philosophers such as Averroes and the Jew Maimonides. The architecture of the Almohads was renowned, exemplified by the Giralda in Seville, the Koutouba mosque in Marrakesh, the Hassan Tower in Rabat, and the minaret in Safi. Under the Almohad reign Jewish culture experienced a "Golden Age," and Jews from other parts of Christian Europe made their way to Moorish Iberia, where they contributed to Almohad advances in medicine and science. Despite lasting but 160 years, the cultural contributions of the Almohads echo still across modern North Africa and Iberia.</Text>
+			<Text>A dinastia Almóada foi fundada nas Montanhas Atlas do Marrocos pelo berbere Ibn Tumart no início do século XII. Originalmente um movimento religioso, os Almóadas sob Tumart se rebelaram contra os governantes Almorávidas, uniram as tribos berberes e mouros e, em algumas décadas, dominaram todo o Magrebe e Marrocos. Energizados pelo zelo religioso, os Almóadas rapidamente estenderam seu domínio através dos estreitos até a Península Ibérica (Portugal moderno e sul da Espanha). Em 1170, transferiram sua capital para Sevilha.[NEWLINE][NEWLINE]Apesar das contínuas tentativas dos monarcas cristãos de reconquistar a península, a dominação almóada na Península Ibérica continuou até 1212. Naquele ano, uma coalizão de forças de Castela, Aragão, Portugal e Navarra derrotou decisivamente Muhammad III na Batalha de Las Navas de Tolosa. Nas quatro décadas seguintes, os territórios mouriscos foram tomados por governantes cristãos, com a grande cidade de Córdoba caindo em 1236 e Sevilha em 1248. Em 1260, tudo o que restava após a Reconquista era a cidade fortaleza moura de Granada, que permaneceu independente por mais 250 anos.[NEWLINE][NEWLINE]Na África, os Almóadas resistiram a incursões de aventureiros normandos e revoltas de tribos nativas, entrando até mesmo em alianças com Castela para fazê-lo. No entanto, ao longo do tempo, eles perderam distritos e cidades para rebelião e incursões de outros povos, principalmente os Marinidas, uma dinastia berbere Zenata que eventualmente os substituiria no Magrebe. Em 1265, o último governante Almóada, Idris al-Wathiq, foi reduzido a controlar apenas a capital de Marraquexe. Em 1268, a cidade foi cercada; Marraquexe caiu em setembro de 1269 e Idris foi assassinado por um escravo.[NEWLINE][NEWLINE]Os Almóadas deixaram um legado de arte e aprendizado inigualáveis pelas sucessivas dinastias islâmicas. Califas como al-Mansur patrocinaram e protegeram filósofos como Averróis e o judeu Maimônides. A arquitetura dos Almóadas era renomada, exemplificada pela Giralda em Sevilha, a mesquita Koutouba em Marraquexe, a Torre Hassan em Rabat e o minarete em Safi. Sob o reinado Almóada, a cultura judaica experimentou uma "Idade de Ouro," e judeus de outras partes da Europa cristã fizeram seu caminho para a Ibéria moura, onde contribuíram para os avanços Almóadas em medicina e ciência. Apesar de durar apenas 160 anos, as contribuições culturais dos Almóadas ecoam ainda hoje na moderna África do Norte e na Ibéria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_TEXT_1">
-			<Text>The "Ottoman Turks" first became known to Western Europe in 1227 AD when the tribe migrated into the Seljuk kingdom in Anatolia. Their chieftain Ertugrul would found a principality amid the decaying Seljuk lands in western Anatolia. His son Osman (for whom the kingdom was named by Europeans) and grandson Orhan would greatly expand the empire. Militarily sophisticated, by 1362, these Turks would cross the Dardanelles strait into the last vestiges of the Byzantine Balkans. The Turks became a great power when, in 1453, Sultan Mehmed II captured Byzantium, renaming it Istanbul and making it his capital. The Ottoman Empire would become the largest and longest lasting one of the Middle Ages.[NEWLINE][NEWLINE]Having taken Constantinople, seat of Orthodox Christianity, Mehmed displayed his political acumen by meeting with the Orthodox patriarch Gennadios. Although the empire would be Muslim, in exchange for tolerance and maintaining its holdings and authority, the Orthodox Church agreed to accept Ottoman authority in all things secular. The Christians within the empire became supporters of the regime and even joined the Ottomans in their efforts against the Catholic West.[NEWLINE][NEWLINE]Following the fall of Constantinople, the Turks began an unrelenting effort to expand westward and southward. They overran the Balkans, spread across the Levant and Egypt, dominated the Eastern Mediterranean. Their sea-borne trade routes reached across the Black, Aegean and Mediterranean seas and, via the Red Sea, reached the Indian Ocean and the Orient. Expansion into Europe was not halted until the Turkish defeats at the gates of Vienna in 1529 and 1532. Thwarted, they turned to the conquest of the North African coast. By 1566, the Turkish Empire stretched from Bagdad to Budapest to Algiers to Mecca.[NEWLINE][NEWLINE]During this period of expansion, the Ottomans were blessed with a long series of able and enlightened sultans, from Mehmed through Selim I and Suleiman the Magnificent. Religious tolerance of Orthodox Christianity and Judaism brought economic and intellectual benefits. The cultural traditions and social institutions of the polyglot empire blended to insure a golden age of art and science. Free education in madrasas, expanding literacy, and patronage by the ruling elite made the empire more stable and peaceful than the Western kingdoms.[NEWLINE][NEWLINE]But by the 1600s, the empire would begin its long decline. The rise of Muscovite Russia and the Mongol onslaught from the east would end Ottoman efforts to spread into Catholic Europe. In the Mediterranean, a coalition of Catholic powers led by Philip II of Spain would end Turkish dominance at Lepanto in 1571. The influx of wealth from the New World made Europe less reliant on the trade routes to and through the Ottoman Empire. Despite the upheaval of the Protestant Reformation, the Turks would never again threaten Christian Europe.</Text>
+			<Text>Os "Turcos Otomanos" se tornaram conhecidos para a Europa Ocidental em 1227 d.C., quando a tribo migrou para o reino Seljúcida na Anatólia. Seu chefe Ertugrul fundaria um principado entre as terras Seljúcidas em decadência no oeste da Anatólia. Seu filho Osman (pelo qual o reino foi nomeado pelos europeus) e seu neto Orhan expandiriam grandemente o império. Militarmente sofisticados, até 1362, esses turcos cruzariam o estreito de Dardanelos até os últimos vestígios dos Bálcãs bizantinos. Os turcos se tornariam uma grande potência quando, em 1453, o Sultão Mehmed II capturou Bizâncio, renomeando-a Istambul e tornando-a sua capital. O Império Otomano se tornaria o maior e mais duradouro da Idade Média.[NEWLINE][NEWLINE]Após tomar Constantinopla, sede do cristianismo ortodoxo, Mehmed exibiu sua habilidade política ao se encontrar com o patriarca ortodoxo Gennadios. Embora o império fosse muçulmano, em troca de tolerância e de manter suas posses e autoridade, a Igreja Ortodoxa concordou em aceitar a autoridade otomana em todas as questões seculares. Os cristãos dentro do império se tornaram apoiadores do regime e até mesmo se juntaram aos otomanos em seus esforços contra o Ocidente Católico.[NEWLINE][NEWLINE]Após a queda de Constantinopla, os turcos começaram um esforço incansável para expandir-se para o oeste e sul. Eles conquistaram os Bálcãs, espalharam-se pelo Levante e pelo Egito, dominaram o Mediterrâneo Oriental. Suas rotas comerciais marítimas alcançaram os mares Negro, Egeu e Mediterrâneo e, através do Mar Vermelho, chegaram ao Oceano Índico e ao Oriente. A expansão para a Europa não foi interrompida até as derrotas turcas nas portas de Viena em 1529 e 1532. Frustrados, voltaram para a conquista da costa norte-africana. Até 1566, o Império Turco se estendia de Bagdá a Budapeste, de Argel a Meca.[NEWLINE][NEWLINE]Durante esse período de expansão, os otomanos foram abençoados com uma longa série de sultões capazes e iluminados, desde Mehmed até Selim I e Solimão, o Magnífico. A tolerância religiosa em relação ao cristianismo ortodoxo e ao judaísmo trouxe benefícios econômicos e intelectuais. As tradições culturais e instituições sociais do império poliglota se fundiram para garantir uma era de ouro da arte e da ciência. Educação gratuita em madraças, aumento da alfabetização e o patrocínio da elite governante tornaram o império mais estável e pacífico do que os reinos ocidentais.[NEWLINE][NEWLINE]Mas, a partir dos anos 1600, o império começaria seu longo declínio. O surgimento da Rússia moscovita e o avanço mongol do leste acabariam com os esforços otomanos de se espalhar pela Europa Católica. No Mediterrâneo, uma coalizão de poderes católicos liderada por Filipe II da Espanha poria fim ao domínio turco em Lepanto em 1571. A entrada de riquezas do Novo Mundo tornou a Europa menos dependente das rotas comerciais para e através do Império Otomano. Apesar da agitação da Reforma Protestante, os turcos nunca mais ameaçariam a Europa Cristã.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_1">
-			<Text>By my beard and belly, I am glad to meet you! I am Suleiman, leader of the mighty Turks!</Text>
+			<Text>Pelas barbas do profeta, estou muito satisfeito em conhecê-lo! Eu sou Solimão, líder dos poderosos Turcos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_2">
-			<Text>The Turkish nation greets you, Stranger! I am Suleiman!</Text>
+			<Text>A nação Turca lhe dá saudações, estrangeiro! Eu sou Solimão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_3">
-			<Text>Greetings, Stranger! I am Suleiman, leader of the Turks! Let us feast to celebrate this grand occasion!</Text>
+			<Text>Saudações, estrangeiro! Eu sou Solimão, líder dos Turcos! Deixe-nos celebrar esta grande ocasião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_NAME">
 			<Text>Francisco I</Text>
@@ -122,13 +122,13 @@
 			<Text>Rei da França</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_LIVED">
-			<Text>1494 - 1547 d.C.</Text>
+			<Text>1494-1547 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_TEXT_1">
-			<Text>Rei da França de 1515 d.C. até sua morte, Francisco I (1494-1547) supervisionou significativas mudanças políticas e culturais em seu país. sua rivalidade vitalícia com o Sacro Imperador Romano Carlos V pela hegemonia da Europa Cristã foi a raiz de um ruinoso conflito militar e econômico que contribuiu para o surgimento da revolução Protestante. Em 1514, com a morte de Luís, que casou três vezes mas não teve nenhum filho, Francisco foi coroado Rei da França na Catedral de Reims no Dia de Ano-Novo de 1515.[NEWLINE][NEWLINE]Francisco não recebeu a educação humanista que sua mãe queria, mas mesmo assim era reconhecido como "homem letrado". Ideias e ideais Renaiscentistas tinham chegado à França quando ele ascendeu ao trono, e Francisco patronizou alguns dos maiores artistas e acadêmicos do seu tempo, incluindo da Vinci, Cellini, del Sarto e outros, muitos dos quais ele encorajou a irem para a França e gastou vastas somas no seu sustento. Ele empregou numerosos agentes reais para vasculhar a Itália por livros e manuscritos, e em 1537 ele decretou que sua biblioteca receberia uma cópia de cada livro vendido na França.[NEWLINE][NEWLINE]No entanto é como um líder militar e diplomata que Francisco I é lembrado. Muitas de suas ações eram focadas em Carlos V, por quem ele tinha uma aversão pessoal, com a Itália como campo de batalha. Em 1515, logo depois de receber a coroa, ele derrotou os Suíços em Marignano, levando à captura da cidade-estado de Milão. Mas seguindo uma década de escaramuça, Francisco foi capturado por forças espanholas na Batalha de Pavia em 1525. Mantido cativo en Madri, ele foi forçado a assinar o Tratado de Madri no ano seguinte.[NEWLINE][NEWLINE]Retornando à França, Francisco prontamente alegou que tinha assinado o acordo com Carlos sob coação e o repudiou. Isso levou a uma segunda série de guerras entre os Habsburgos e os Franceses. Aliado com os Turcos Otomanos, as guerras italianas de 1536-1538 e 1542-1546 foram amplamente inconclusivas até que Francisco finalmente forçou Carlos, enfrentando revoltas esparsas em suas terras, a assinar o Tratado de Crépy. No processo de suas guerras, procurando contra-balançar o poder da Espanha dos Habsburgos, Francisco I procurou estabelecer posses e contatos no Novo Mundo e na Ásia. O porto francês de Le Havre foi fundado em 1517 para facilitar esse esforço.[NEWLINE][NEWLINE]Francisco I morreu em Março de 1547 no Chateau Rambouillet. Seu legado ainda é discutido. Ele trouxe grandes avanços culturais, mas ao custo de uma economia falida. Sua perseguição aos Protestantes, como simbolizado pelo Decreto de Fontainebleau em 1540, levou a muitos massacres, e detonou décadas de instabilidade civil. Apesar de seu interesse em livros e humanismo, ele expediu ordens de censura, que forçaram pensadores como John Calvin ao exílio. Seu ciclo de guerras não resultou em vantagens estratégicas ou econômicas para a França. Para o bem e para o mal, a sombra de Francisco I assentou pelo continente por anos depois de sua morte.</Text>
+			<Text>Rei da França de 1515 até sua morte, Francisco I (1494-1547) testemunhou mudanças culturais e políticas significativas em seu país. Sua rivalidade ao longo da vida com o Imperador do Sacro Império Romano, Carlos V, pela hegemonia sobre a Europa Cristã, foi a raiz de um conflito militar e econômico arruinador que contribuiu para o surgimento da revolução protestante. Em 1514, após a morte de Luís, que havia se casado três vezes mas não teve um filho, Francisco foi coroado Rei da França na Catedral de Reims no Dia de Ano Novo de 1515.[NEWLINE][NEWLINE]Francisco não recebeu a educação humanista que sua mãe desejava, mas ainda assim foi renomado como um "homem de letras". As ideias e ideais do Renascimento haviam chegado à França quando ele ascendeu ao trono, e Francisco patrocinou alguns dos maiores artistas e estudiosos de sua época, incluindo da Vinci, Cellini, del Sarto e outros, muitos dos quais ele encorajou a vir para a França, gastando somas vultosas em seu sustento. Ele empregou numerosos agentes reais para vasculhar a Itália em busca de livros e manuscritos, e em 1537 decretou que sua biblioteca recebesse uma cópia de cada novo livro vendido na França.[NEWLINE][NEWLINE]No entanto, é como líder militar e diplomata que Francisco I é lembrado. A maioria de suas ações estava focada em Carlos V, por quem ele tinha antipatia pessoal, com a Itália como campo de batalha. Em 1515, pouco depois de assumir a coroa, ele derrotou os suíços em Marignano, o que levou à captura da cidade-estado de Milão. Mas após uma década de escaramuças, Francisco foi capturado pelas forças espanholas na Batalha de Pavia em 1525. Mantido cativo em Madri, ele foi forçado a assinar o Tratado de Madri no ano seguinte.[NEWLINE][NEWLINE]Ao retornar à França, Francisco logo afirmou que havia assinado o acordo com Carlos sob coação e o repudiou. Isso levou a uma segunda série de guerras entre os Habsburgos e os franceses. Com uma aliança com os turcos otomanos, as guerras italianas de 1536-1538 e 1542-1546 foram em grande parte inconclusivas até que Francisco finalmente forçou Carlos, enfrentando revoltas espalhadas em suas terras, a assinar o Tratado de Crépy. No processo de suas guerras, buscando equilibrar o poder da Espanha dos Habsburgos, Francisco I buscou estabelecer territórios e contatos no Novo Mundo e na Ásia. O porto francês de Le Havre foi fundado em 1517 para facilitar esse esforço.[NEWLINE][NEWLINE]Francisco I faleceu em março de 1547 no Château de Rambouillet. Seu legado ainda é debatido. Ele trouxe grandes avanços culturais, mas às custas de uma economia falida. Sua perseguição aos protestantes, como representada pelo Édito de Fontainebleau em 1540, resultou em vários massacres e desencadeou décadas de tumulto civil. Apesar de seu interesse por livros e humanismo, ele emitiu ordens de censura, o que forçou pensadores como João Calvino ao exílio. Seu ciclo de guerras não trouxe vantagens estratégicas ou econômicas para a França. Para o bem ou para o mal, a sombra de Francisco I pairou sobre o continente por anos após sua morte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
 			<Text>Seja bem-vindo. Eu sou Francisco I, um grande patrono da arte Renascentista!</Text>
@@ -144,10 +144,10 @@
 		</Row>
 		<!-- Traits -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_VIKING_FURY">
-			<Text>Embarked units have +1 [ICON_MOVES] Movement and pay just 1 movement point to move from sea to land. Melee units pay no movement point cost to pillage.</Text>
+			<Text>Unidades embarcadas têm +1 de [ICON_MOVES]Movimento e gastam apenas 1 ponto de movimento para passar do mar para a terra. Unidades de combate corpo a corpo não pagam custo de movimento para saquear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_VIKING_FURY_SHORT">
-			<Text>Viking Fury</Text>
+			<Text>Fúria Viking</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART">
 			<Text>Bônus de combate (+20%) quando lutando contra unidades de uma civilização com mais cidades que os Celtas.</Text>
@@ -156,227 +156,227 @@
 			<Text>Coração Valente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN">
-			<Text>All land combat units have +1 [ICON_MOVES] Movement. All units pay just 1 movement point to enter any tile adjacent to a river.</Text>
+			<Text>Todas as unidades de combate terrestre têm +1 de [ICON_MOVES]Movimento. Todas as unidades gastam apenas 1 ponto de movimento para entrar em qualquer bloco adjacente a um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN_SHORT">
-			<Text>Lay of Igor's Campaign</Text>
+			<Text>Conto da Campanha de Ígor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN">
-			<Text>Receba uma {TXT_KEY_BUILDING_COURTHOUSE} grátis em cada cidade conquistada. Comece com {TXT_KEY_BUILDING_PYRAMID} construídas no Cairo.</Text>
+			<Text>Receba um Tribunal Gratuito em cada cidade conquistada. Comece com as Pirâmides construídas no Cairo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN_SHORT">
 			<Text>Justiça de Saladino</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LOGOTHETE_COURSE">
-			<Text>Receives 1 extra Spy. Only civilization that starts the scenario in control of a Holy City.</Text>
+			<Text>Recebe 1 Espião extra. Única civilização que começa o cenário no controle de uma Cidade Sagrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LOGOTHETE_COURSE_SHORT">
-			<Text>Logothete of the Course</Text>
+			<Text>Logoteta do Percurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_TERROR">
-			<Text>All land combat units have +1 [ICON_MOVES] Movement and the March promotion, allowing them to heal every turn.</Text>
+			<Text>Todas as unidades de combate terrestre têm +1 de [ICON_MOVES]Movimento e a promoção de Marcha, permitindo-lhes curar a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_SEVEN_CITIES">
-			<Text>Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, pode enviar até três {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para obter PVs do Novo Mundo e [ICON_GOLD]Ouro adicionais.</Text>
+			<Text>Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, pode enviar até três {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para obter Pontos de Vitória do Novo Mundo e [ICON_GOLD]Ouro adicionais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAND_TRADE_GOLD">
-			<Text>+2 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route.</Text>
+			<Text>+2 de [ICON_GOLD]Ouro de cada [ICON_CONNECTED]Rota Comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_ENHANCED_CULTURE">
-			<Text>+2 [ICON_CULTURE] Culture per turn from Cities.</Text>
+			<Text>+2 de [ICON_CULTURE]Cultura por turno por Cidades.</Text>
 		</Row>
 		<!-- New City States -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_DESC">
-			<Text>Located in southwest Bavaria, Augsburg was founded in 15 BC by Tiberius, soon becoming the military and economic capital of the Roman province of Raetia. Although sacked by Attila in the 5th Century AD, by Charlemagne in the 8th, and by Welf of Bavaria in the 11th, each time the city rose to greater prosperity due to its location astride many of the trade routes over the Alps. Augsburg, because of its strategic location, was decreed an Imperial Free City under the auspices of the Holy Roman Empire in March 1276. That put it at the center of the Catholic-Protestant wars of the 1600s. Augsburg's golden age spanned the 15th and 16th centuries under the great mercantile houses of the Fuggers and the Welsers; its wealth attracted artists seeking patrons, and it became a center for music, literature, painting and architecture. In 1806 when the Holy Roman Empire was dissolved by Napoleon, Augsburg lost its free-city status and became part of the Kingdom of Bavaria. The next century saw the city quickly converted to textile, steel and military manufacturing during the Industrial Revolution as part of a unified and expansive Germany. Although devastated during World War II, Augsburg has rebounded to again become one of the great cities of Europe.</Text>
+			<Text>Localizada no sudoeste da Baviera, Augsburgo foi fundada em 15 a.C. por Tibério, tornando-se em breve a capital militar e econômica da província romana de Récia. Embora saqueada por Átila no século V d.C., por Carlos Magno no século VIII e por Welf da Baviera no século XI, a cada vez a cidade se ergueu com maior prosperidade devido à sua localização em muitas rotas comerciais sobre os Alpes. Augsburgo, devido à sua localização estratégica, foi declarada uma Cidade Imperial Livre sob os auspícios do Sacro Império Romano em março de 1276. Isso a colocou no centro das guerras católicas-protestantes do século XVII. A idade de ouro de Augsburgo abrangeu os séculos XV e XVI, sob as grandes casas mercantis dos Fugger e dos Welser; sua riqueza atraiu artistas em busca de patronos, e tornou-se um centro de música, literatura, pintura e arquitetura. Em 1806, quando o Sacro Império Romano foi dissolvido por Napoleão, Augsburgo perdeu seu status de cidade livre e se tornou parte do Reino da Baviera. O próximo século viu a cidade se converter rapidamente em manufatura têxtil, siderúrgica e militar durante a Revolução Industrial, como parte de uma Alemanha unificada e expansiva. Apesar da devastação durante a Segunda Guerra Mundial, Augsburgo se recuperou para se tornar novamente uma das grandes cidades da Europa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_DESC">
-			<Text>In 50 AD Rome founded the fortress-city of Colonia on the Rhine to protect the province of Germania Inferior. Prospering under the Romans, and later the Franks, the city became one of the most important trading and religious centers north of the Alps. In 785 it was made the seat of an archbishopric. As part of the Holy Roman Empire, the free city was home to one of the seven prince-electors and three ecclesiastical electors who chose the emperor. Along with one of the grandest cathedrals of the time, the city was also a major harbor and trading center on the Rhine, the site of the charterhouses of a number of influential, self-governing guilds. During the Reformation, the city remained steadfastly Catholic, despite the efforts of two archbishops who converted to Lutheranism. The faculty at the famous university, one of the oldest in Europe, publically burned Luther's works in 1520 AD. Cologne lost its status as a free city in 1798 when occupied by the new French Republic. In 1815 at the Congress of Vienna, it became part of Prussia, and then of Germany after the unification of that nation in 1871. Targeted by the Allies during the Second World War, Cologne endured 262 air raids, which destroyed 95% of the city. It was not until 1959 that Cologne would regain its pre-war population numbers and be fully rebuilt into a modern industrial metropolis.</Text>
+			<Text>Em 50 d.C., Roma fundou a cidade-fortaleza de Colônia às margens do Reno para proteger a província da Germânia Inferior. Prosperando sob os romanos e depois os francos, a cidade se tornou um dos centros comerciais e religiosos mais importantes ao norte dos Alpes. Em 785, ela se tornou a sede de um arcebispado. Como parte do Sacro Império Romano, a cidade livre abrigava um dos sete príncipes eleitores e três príncipes eclesiásticos que escolhiam o imperador. Juntamente com uma das catedrais mais grandiosas da época, a cidade também era um importante porto e centro comercial no Reno, local das cartuxas de várias guildas influentes e autônomas. Durante a Reforma, a cidade permaneceu firmemente católica, apesar dos esforços de dois arcebispos que se converteram ao luteranismo. A faculdade na famosa universidade, uma das mais antigas da Europa, queimou publicamente as obras de Lutero em 1520. Colônia perdeu seu status de cidade livre em 1798, quando foi ocupada pela nova República Francesa. Em 1815, no Congresso de Viena, ela se tornou parte da Prússia e depois da Alemanha após a unificação do país em 1871. Alvo dos Aliados durante a Segunda Guerra Mundial, Colônia resistiu a 262 ataques aéreos, que destruíram 95% da cidade. Só em 1959 que Colônia recuperou seus números de população pré-guerra e foi totalmente reconstruída em uma metrópole industrial moderna.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_DESC">
-			<Text>As the birthplace of Mohammed and the Koran, Mecca is the holiest city of Islam and a pilgrimage (the Hajj) to it is an obligation for all Muslims. Although its founding is unknown except in myth, by the 6th Century AD it was a vital link in the spice trade, and its camel caravans made it one of the wealthiest cities in the world at the time. Mohammed was born in the city in 570, and the history of Islam has been inextricably interwoven with it since. Mohammed's march to Medina shifted the political center of the rapidly expanding Muslim kingdom to that city, but Mecca remained the center of the faith. With a growing number of scholars and faithful who wished to live close to the Kaaba, and a burgeoning class of merchants and shopkeepers to serve the needs of the pilgrims, Mecca prospered throughout the next centuries despite the rise and fall of caliphs and conquerors. In 1517 AD it became part of the Ottoman Empire; following the collapse of the Ottomans at the end of World War I, the city fell under the rule of the Saudis. Today, Mecca is home to the Masjid al-Haram, the world's largest mosque, a world-class madrasah, and numerous religious and historic sites. A pilgrimage to it remains one of Islam's Five Pillars of faith.</Text>
+			<Text>Como o local de nascimento de Maomé e do Alcorão, Meca é a cidade mais sagrada do Islã e a peregrinação (Hajj) a ela é uma obrigação para todos os muçulmanos. Embora sua fundação seja desconhecida, exceto por meio de mitos, no século VI d.C. ela era um elo vital no comércio de especiarias e suas caravanas de camelos a tornaram uma das cidades mais ricas do mundo na época. Maomé nasceu na cidade em 570, e a história do Islã está inextricavelmente entrelaçada com ela desde então. A marcha de Maomé para Medina deslocou o centro político do reino muçulmano em rápido crescimento para aquela cidade, mas Meca permaneceu o centro da fé. Com um número crescente de estudiosos e fiéis que desejavam viver perto da Caaba, e uma classe emergente de comerciantes e lojistas para atender às necessidades dos peregrinos, Meca prosperou ao longo dos próximos séculos, apesar do surgimento e queda de califas e conquistadores. Em 1517, ela se tornou parte do Império Otomano; após o colapso dos otomanos ao final da Primeira Guerra Mundial, a cidade ficou sob o domínio dos sauditas. Hoje, Meca abriga a Masjid al-Haram, a maior mesquita do mundo, uma madrasa de classe mundial e inúmeros locais religiosos e históricos. A peregrinação a Meca permanece um dos Cinco Pilares da fé islâmica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_DESC">
-			<Text>Founded by Berbers in the 2nd millennium BC, the town of Tunes was destroyed by the Romans in 146 BC during their wars with Carthage. Although rebuilt and occupied by the Romans, Tunis would not gain prominence until the 7th Century AD under the control of Arab Muslims. Recognizing the strategic importance of its proximity to Europe, from the 900s on it became the primary naval base in the western Mediterranean of successive Islamic dynasties. Following yet another revolt, the Almohad al-Mumin took the city in 1159 and established it as a trading center; from the 12th through the 16th centuries, Tunis was one of the richest and most strategic ports in the world. The Ottoman Empire took nominal control of Tunis in 1534 AD; after a brief Spanish occupation ended in 1574, the Ottoman governors there became relatively autonomous. Under the Husainid rulers, to its traditional trade and industry was added the plunder of the Barbary corsairs, then at their peak of activity. After a succession of rebellions, invasions and occupations, the French ruled the area from 1881 through 1956. Gaining its independence, Tunis has been the capital city of Tunisia since the French withdrawal, a cosmopolitan center of trade and culture for the region.</Text>
+			<Text>Fundada por Berberes no 2º milênio a.C., a cidade de Tunes foi destruída pelos romanos em 146 a.C. durante suas guerras com Cartago. Embora reconstruída e ocupada pelos romanos, Tunes só ganharia destaque no século VII d.C. sob o controle dos muçulmanos árabes. Reconhecendo a importância estratégica de sua proximidade com a Europa, a partir dos anos 900 ela se tornou a principal base naval no Mediterrâneo ocidental de sucessivas dinastias islâmicas. Após outra revolta, o almóada al-Mumin tomou a cidade em 1159 e a estabeleceu como um centro comercial; do século XII ao XVI, Tunes foi um dos portos mais ricos e estratégicos do mundo. O Império Otomano tomou controle nominal de Tunes em 1534; após uma breve ocupação espanhola que terminou em 1574, os governantes otomanos lá se tornaram relativamente autônomos. Sob os governantes husainidas, ao seu comércio e indústria tradicionais se somou o saque dos corsários berberes, que estavam no auge de sua atividade. Após uma sucessão de rebeliões, invasões e ocupações, os franceses governaram a área de 1881 a 1956. Ganhando sua independência, Tunes tem sido a cidade capital da Tunísia desde a retirada francesa, um centro cosmopolita de comércio e cultura para a região.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_DESC">
-			<Text>Dating back to the 9th Century BC, founded as a Greek colony, Naples is one of the oldest continuously-inhabited cities in the world. The city eventually became part of the Roman Republic, then Empire. A microcosm of Europe, the city has witnessed the coming and going of many occupiers, each leaving traces of its culture and bloodlines. From 1282 through 1816 AD, it was the center of the rich and vibrant Kingdom of Naples, a prominent player in the struggles of the great nations of the time. It was occupied in turn by the French, the Spanish, the Austrians, again by the Spanish, and yet again by the French before gaining its independence at the end of the Napoleonic Wars. In 1815 it was combined with Sicily in the Congress of Vienna to form the Kingdom of the Two Sicilies, which survived until the unification of Italy in 1861. The city's 2800-year history has left it a wealth of great art, architecture, and commerce, making it one of the most important cities of the Mediterranean.</Text>
+			<Text>Com data que remonta ao século IX a.C., fundada como uma colônia grega, Nápoles é uma das cidades continuamente habitadas mais antigas do mundo. A cidade acabou se tornando parte da República Romana e depois do Império. Um microcosmo da Europa, a cidade testemunhou a chegada e partida de muitos ocupantes, cada um deixando vestígios de sua cultura e linhagens. De 1282 a 1816, foi o centro do rico e vibrante Reino de Nápoles, um protagonista importante nas lutas das grandes nações da época. Foi ocupada sucessivamente pelos franceses, espanhóis, austríacos, novamente pelos espanhóis e novamente pelos franceses antes de ganhar sua independência no final das Guerras Napoleônicas. Em 1815, ela se juntou à Sicília no Congresso de Viena para formar o Reino das Duas Sicílias, que durou até a unificação da Itália em 1861. A história de 2800 anos da cidade a deixou com uma riqueza de grande arte, arquitetura e comércio, tornando-a uma das cidades mais importantes do Mediterrâneo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_DESC">
-			<Text>A 2nd Century settlement, Riga became an early Middle Age trading outpost along the Dvina-Dnieper River trade route to Byzantium. The city prospered as a member of the Hanseatic League in the High Middle Ages. Today it is the largest city of the Baltic states and capital of Latvia.</Text>
+			<Text>Um assentamento do século II, Riga se tornou um posto avançado de comércio no início da Idade Média ao longo da rota comercial do rio Dvina-Dnieper para Bizâncio. A cidade prosperou como membro da Liga Hanseática na Alta Idade Média. Hoje, é a maior cidade dos Estados Bálticos e a capital da Letônia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_DESC">
-			<Text>Situated along the delta of the Vistula River, the Gdansk region has been settled for over 2000 years. The city of Gdansk (Danzig in German) was founded in 980 when Duke Mieszko I of Poland built a fortress here. Today Gdansk is the fourth largest city in Poland and that country's principal seaport.</Text>
+			<Text>Situada ao longo do delta do rio Vístula, a região de Gdansk está habitada há mais de 2000 anos. A cidade de Gdansk (Danzig em alemão) foi fundada em 980, quando o Duque Mieszko I da Polônia construiu uma fortaleza aqui. Hoje, Gdansk é a quarta maior cidade da Polônia e o principal porto marítimo do país.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_DESC">
-			<Text>Polotsk was the dominant Slavic power in the area of modern Belarus from the 10th to 12th Centuries. However in the 13th Century it became a vassal of the Lithuanian princes and started to fade in importance. Two battles were fought near Polotsk during Napoleon's 1812 invasion of Russia.</Text>
+			<Text>Polatsk foi a potência preponderante na área da atual Bielorrússia entre os séculos 10 e 12. No entanto, no século 13, ela se converteu em vassala dos príncipes lituanos e começou a perder a importância. Durante a invasão napoleônica da Rússia em 1812, foram travadas duas batalhas em Polatsk.</Text>
 		</Row>
 		<!-- Beliefs -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MESSIAH">
-			<Text>When each Reformer enters, 40% of Catholics in nearby cities convert</Text>
+			<Text>Para cada Reformista que entre, 40% dos católicos das cidades próximas serão convertidos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_RELIGIOUS_TEXTS">
-			<Text>Religion spreads 5 times faster (9 times faster with Printing Press)</Text>
+			<Text>A religião se propaga 5 vezes mais rápida (9 vezes vezes mais rápida com a Imprensa)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_PAPAL_PRIMACY">
-			<Text>+15 to [ICON_INFLUENCE] Influence resting point with [ICON_RELIGION_CHRISTIANITY] Catholic City-States</Text>
+			<Text>+15 ao limite de [ICON_INFLUENCE]Influência com as cidades [ICON_RELIGION_CHRISTIANITY]Católicas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHORAL_MUSIC">
-			<Text>+4 de [ICON_CULTURE]Cultura para {TXT_KEY_BUILDING_TEMPLE[2]} em cidades com 5 seguidores</Text>
+			<Text>+4 para a [ICON_CULTURE]Cultura por Templos em cidades com 5 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_INDULGENCES">
-			<Text>+2 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route</Text>
+			<Text>+2 de [ICON_GOLD]Ouro por cada [ICON_CONNECTED]Rota Comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_THIRD_ROME">
-			<Text>Holy City switches to largest following city if captured</Text>
+			<Text>Se capturada, a Cidade Sagrada passa a ser a maior cidade devota</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
-			<Text>+2 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé de {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
+			<Text>+2 para a [ICON_CULTURE]Cultura e +1 para a [ICON_PEACE]Fé por Templos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HAJJ">
-			<Text>+5 de [ICON_CULTURE]Cultura e +5 de [ICON_PEACE]Fé</Text>
+			<Text>+5 para a [ICON_CULTURE]Cultura e +5 para a [ICON_PEACE]Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SALAT">
-			<Text>+2 [ICON_PEACE]Fé de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
+			<Text>+2 para a [ICON_PEACE]Fé por Santuários e Templos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
-			<Text>+8 [ICON_PRODUCTION] Production in each following city</Text>
+			<Text>+8 para a [ICON_PRODUCTION]Produção em cada cidade que siga essa religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE">
-			<Text>+3 de [ICON_HAPPINESS_1]Felicidade de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
+			<Text>+3 para a [ICON_HAPPINESS_1]Felicidade por Santuários e Templos</Text>
 		</Row>
 		<!-- Religions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA">
-			<Text>Roman Catholicism refers to the theology and doctrine of the Christian church under the auspices of the Holy See, the papacy based in Rome. According to ecclesiastical scholars, Catholicism is distinguished from other branches of Christianity by its commitment to the church's traditions, to the sacraments, and its priesthood as interpreters of the Bible.[NEWLINE][NEWLINE]The earliest known use of the term "Catholic Church" is by Ignatius of Antioch around 107 AD. The early church was organized based on the rule of three patriarchs, those of Rome, Alexandria and Antioch - to which were later added the patriarchs of Constantinople and Jerusalem. The patriarch of Rome claimed special authority based on the connection between St. Peter and the city. For 1000 years, Roman Catholicism dominated Europe, until the Great Schism of 1054 AD that gave rise to Eastern Orthodoxy. Some 500 years later another major division in Christianity occurred with the Protestant Reformation, which saw many in Europe reject the teachings and practices of Catholicism in favor of more personal expressions of belief.[NEWLINE][NEWLINE]Presently, the Roman Catholic Church considers those not in communion with the Vatican to be "non-Catholics" but tolerates differing interpretations of the Bible. Roman Catholicism remains the largest Christian church, with over a billion members worldwide.</Text>
+			<Text>O Catolicismo romano é a teologia e a doutrina da Igreja Cristã sob os auspícios da Santa Sé, o papado que se encontra em Roma. De acordo com os acadêmicos, o catolicismo se distingue de outros ramos do cristianismo pelo seu compromisso com as tradições da Igreja Católica, os sacramentos e a contemplação do clero como intérprete da Bíblia.[NEWLINE][NEWLINE]A primeira aparição conhecida do termo "Igreja Católica" se deve a Inácio de Antioquia, em torno de 107 d.C. A igreja primitiva foi organizada em torno da autoridade de três patriarcas: os de Roma, Alexandria e Antioquia, aos quais mais tarde seriam adicionados os de Constantinopla e Jerusalém. O patriarca de Roma reivindicou uma autoridade especial baseada em sua relação com São Pedro e a cidade. Por 1.000 anos, o catolicismo romano dominou a Europa, até o Grande Cisma de 1054, que deu origem à Ortodoxia Oriental. Cerca de 500 anos depois, houve outra importante divisão entre o cristianismo e a Reforma Protestante, que viu muitos europeus rejeitaram os ensinamentos católicos em favor de uma expressão mais pessoal de fé.[NEWLINE][NEWLINE]Atualmente, a Igreja Católica Romana considera que aqueles que não comungam com o Vaticano "não são católicos", mas toleram diferentes interpretações da Bíblia. O Catolicismo romano continua sendo a maior igreja cristã, com mais de um bilhão de fieis ao redor do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY_PEDIA">
-			<Text>The Eastern Orthodox Church is currently the second-largest Christian denomination, with an estimated 300 million adherents. The goal of Orthodox Christians is to draw nearer to God throughout their lives through theosis, a spiritual pilgrimage to become more "Christ-like."[NEWLINE][NEWLINE]The church traces its roots to the Great Schism. During the 9th and 10th centuries AD the Christian church under the Patriarch of Constantinople made significant conversions among the peoples of eastern Europe, including Kievan Russia and the Balkans. Doctrinal issues such as the filioque split and the authority of the Pope over the Patriarch in matters religious, exacerbated by the political and economic rivalry of Rome and Constantinople, led to a schism. The final breach between these two branches of Christianity is acknowledged as the sacking of Constantinople by the Catholic crusaders in 1204 AD. Moreover, after the fall of Constantinople to the Ottomans in 1453, the Eastern Church became even more isolated from Rome under the relatively tolerant rule of the Turks. The Orthodox Church, which saw itself as the true heir to the teachings and practices of the early Christians, flourished under the Russian Tsars. Although somewhat diminished by Communist rule and Balkan secularism, Eastern Orthodoxy has experienced a resurgence in recent decades and remains a vital aspect of Christianity.</Text>
+			<Text>A Igreja Ortodoxa Oriental é a segunda maior denominação cristã do mundo, com cerca de 300 milhões de seguidores estimados. O objetivo desta igreja é aproximar seus fiéis de Deus através de uma vida de deificação, uma peregrinação espiritual para ser mais "semelhante a Cristo".[NEWLINE][NEWLINE]A origem da igreja remonta ao Grande Cisma. Durante os séculos  9 e 10 d.C., a igreja cristã do patriarca de Constantinopla realizou conversões importantes entre os povos da Europa Oriental, incluindo a Rússia de Quieve e os Bálcãs. Problemas doutrinários, como a cláusula filioque e a autoridade do Papa sobre o patriarca em questões religiosas, exacerbadas pela rivalidade econômica e política de Roma e Constantinopla, levaram a um cisma. A ruptura final entre esses dois ramos do cristianismo marca os saques realizados pelos cruzados católicos em 1204 d.C. Além disso, após a queda de Constantinopla antes dos otomanos em 1453, a Igreja Oriental era ainda mais isolada de Roma, embora sob a tolerância relativa dos turcos. A Igreja Ortodoxa, que considera-se a autêntica herdeira dos ensinamentos e práticas dos primeiros cristãos, floresceu durante a Rússia dos czares. Embora um pouco diminuída pelo comunismo e pelo secularismo dos Bálcãs, a ortodoxia oriental experimentou um ressurgimento nas últimas décadas e continua a ser um aspecto vital do cristianismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM_PEDIA">
-			<Text>The Protestant Reformation, as a movement that would eventually divide Christian Europe, began as a protest in Germany against Catholic doctrine and practices, especially in regard to salvation, justification and interpretation of the Bible.[NEWLINE][NEWLINE]Based upon his readings of humanist scholars, in 1517 AD Martin Luther, a German priest in the university town of Wittenberg, published his 95 theses criticizing certain practices of the Catholic Church. His example saw other liberal religious thinkers advance their own critiques of the church, and "evangelical" Lutheran denominations sprang up across Germany and Scandinavia, "reformed" creeds in Switzerland under John Calvin. Meanwhile religion became mixed with politics in England and elsewhere, bringing yet more Protestant churches into existence. Although with some differences, all the Protestant movements maintained two tenets: that the Bible, rather than papal interpretation, was the sole source of authority for Christians; and that salvation comes only through a personal connection with Jesus as the Christ rather than through good works or indulgences.[NEWLINE][NEWLINE]The split in the Catholic faith would ignite a series of religious wars, echoes of which resonate still. Despite numerous movements and divisions with Protestantism since, its many denominations together number about 670 million members.</Text>
+			<Text>A Reforma Protestante, como um movimento que acabaria por dividir a Europa cristã, começou como um protesto na Alemanha contra as doutrinas e práticas católicas, especialmente em relação à salvação, justificação e interpretação da Bíblia.[NEWLINE][NEWLINE]Baseado em suas leituras de estudiosos humanistas, em 1517 Martin Luther, um padre alemão na cidade universitária de Vitemberga, publicou suas 95 teses criticando certas práticas da Igreja Católica. Seu exemplo viu outros pensadores religiosos liberais promoverem suas próprias críticas à igreja, e denominações luteranas "evangélicas" surgiram na Alemanha e na Escandinávia, "reformaram" credos na Suíça sob João Calvino. Enquanto isso, a religião se misturou com a política na Inglaterra e em outros lugares, trazendo ainda mais igrejas protestantes à existência. Embora com algumas diferenças, todos os movimentos protestantes mantiveram dois princípios: que a Bíblia, em vez da interpretação papal, era a única fonte de autoridade para os cristãos; e que a salvação vem somente através de uma conexão pessoal com Jesus como o Cristo, e não através de boas obras ou indulgências.[NEWLINE][NEWLINE]A divisão na fé católica provocaria uma série de guerras religiosas, cujos ecos ainda ressoam. Apesar dos numerosos movimentos e divisões com o protestantismo desde então, suas muitas denominações somam cerca de 670 milhões de membros.</Text>
 		</Row>
 		<!-- Victory Conditions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_HELP">
-			<Text>Triggers voting for the Holy Roman Emperor. Possession of St. Peter's Basilica in Vatican City gives the owner an additional vote.</Text>
+			<Text>Ativa a votação para o Imperador do Sacro Império Romano. Possuir a Basílica de São Pedro no Vaticano concede ao proprietário um voto adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_QUOTE">
-			<Text>A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.[NEWLINE] - Antoine de Saint-Exupery</Text>
+			<Text>Um monte de pedras deixa de ser um monte de pedras no momento em que um único homem o contempla, trazendo dentro de si a imagem de uma catedral.[NEWLINE] - Antoine de Saint-Exupery</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_DESC">
-			<Text>Basilica Papale di San Pietro in Vaticano, better known as St. Peter's Basilica, is a late Renaissance church in Vatican City, with the largest interior of any Christian church in the world. The supposed burial site of the apostle Peter in 64 AD, some years later a shrine was constructed there. Replacing the shrine, construction of "old" St. Peter's was begun by the Emperor Constantine between 319 and 333 AD. Having fallen into serious disrepair over the centuries, Pope Julius II in 1505 determined to demolish the old church and replace it with a monumental structure, a construction project that spanned the next 120 years under a succession of popes and architects. To finance the colossal project, a number of popes authorized the wholesale selling of indulgences, a practice that led in part to Martin Luther's protestant movement. With work by some of the Renaissance's leading figures - Michelangelo, Raphael, Bramante, Bernini and others - the church now stands as one of the great treasures of Western civilization.</Text>
+			<Text>Basilica Papale di San Pietro in Vaticano, mais conhecida como Basílica de São Pedro, é uma igreja do final do Renascimento localizada no Vaticano, com o maior interior de qualquer igreja cristã do mundo. O suposto local de sepultamento do apóstolo Pedro em 64 d.C., alguns anos depois, um santuário foi construído lá. Substituindo o santuário, a construção da "antiga" Basílica de São Pedro foi iniciada pelo Imperador Constantino entre 319 e 333 d.C. Tendo caído em grave deterioração ao longo dos séculos, o Papa Júlio II, em 1505, determinou demolir a antiga igreja e substituí-la por uma estrutura monumental, um projeto de construção que se estendeu pelos próximos 120 anos sob a sucessão de papas e arquitetos. Para financiar o projeto colossal, vários papas autorizaram a venda em massa de indulgências, uma prática que levou em parte ao movimento protestante de Martinho Lutero. Com obras de algumas das principais figuras do Renascimento - Michelangelo, Rafael, Bramante, Bernini e outros - a igreja agora é considerada um dos grandes tesouros da civilização ocidental.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_EO_DIPLOMACY_AND_UN_VOTE">
-			<Text>Diplomacy[NEWLINE][NEWLINE]{1_Num} turns before a vote for Holy Roman Emperor.</Text>
+			<Text>Diplomacia[NEWLINE][NEWLINE]{1_Num} {1: plural 1?turno; other?turnos;} para uma votação para o Imperador do Sacro Império Romano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_VOTE">
-			<Text>HRE VOTE</Text>
+			<Text>Eleição Imp. Sacro Império</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_VOTE_TT">
-			<Text>You must vote to elect the next Holy Roman Emperor!!</Text>
+			<Text>Você deve votar para eleger o próximo Imperador do Sacro Império Romano!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_POP_UNITED_NATIONS_VOTE">
-			<Text>Holy Roman Emperor vote!</Text>
+			<Text>Voto para o Imperador do Sacro Império Romano!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_POP_UN_ELEC_RESULTS">
-			<Text>Holy Roman Election Results</Text>
+			<Text>Resultados da Eleição do Sacro Imperador Romano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_HRE_WINNER">
-			<Text>Holy Roman {1: gender feminine?Empress; other?Emperor;} is: {1_LeaderName}</Text>
+			<Text>{1: gender feminine?A Imperadora; other?O Imperadora;} do Sacro Império é {1_LeaderName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NO_HRE_WINNER">
-			<Text>No Holy Roman Emperor elected (vote tied).</Text>
+			<Text>Nenhum Imperador do Sacro Império Romano eleito (votação empatada).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_DIPLO_PROJECT_BUILT_BY">
-			<Text>Winning election does not end scenario.</Text>
+			<Text>Ganhar a eleição não encerra o cenário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VICTORY_DIPLOMATIC">
-			<Text>Holy Roman Election</Text>
+			<Text>Eleição do Imperador do Sacro Império Romano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_DIPLO_VOTES_NEEDED">
-			<Text>Vatican City receives 1 extra vote</Text>
+			<Text>A Cidade do Vaticano recebe 1 voto extra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_HAVE_FOUNDER_BELIEFS">
-			<Text>Receiving Founder Beliefs benefits through control of Holy City/Jerusalem.</Text>
+			<Text>Recebendo os benefícios das Crenças Fundadoras através do controle da Cidade Sagrada/Jerusalém.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NEED_FOUNDER_BELIEFS">
-			<Text>You need control of the Holy City/Jerusalem to receive Founder Belief benefits.</Text>
+			<Text>Você precisa controlar a Cidade Sagrada/Jerusalém para receber os benefícios das Crenças Fundadoras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CARAVEL">
-			<Text>A {@1_UnitName} is off to the New World! For this feat of exploration you receive {2_VPAmount} Victory Points. {3_NumRemaining} more expedition(s) may receive exploration VP.</Text>
+			<Text>{1: gender masculine?Um; feminine?Uma;} {@1_UnitName} está partindo para o Novo Mundo! Por essa façanha de exploração, você recebe {2_VPAmount} {1: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CONQUISTADOR">
-			<Text>A {@1_UnitName} is off to the New World! For this feat of New World conquest you receive {2_GoldAmount} [ICON_GOLD] Gold and {3_VPAmount} Victory Points.</Text>
+			<Text>{1: gender masculine?Um; feminine?Uma;} {@1_UnitName} está partindo para o Novo Mundo! Por essa façanha de conquista no Novo Mundo, você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_OTHER_CARAVEL">
-			<Text>{@1_PlayerName} has sent an expedition off to the New World! For this feat of exploration they received {2_VPAmount} Victory Points. {3_NumRemaining} more expedition(s) may receive exploration VP.</Text>
+			<Text>{@1_PlayerName} enviou uma expedição ao Novo Mundo. Por essa façanha de exploração, ele recebe {2_VPAmount} {1: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
 		</Row>
 		<!--Scenario-specific diplo modifiers-->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_1">
-			<Text>You follow a different religion.</Text>
+			<Text>Você segue uma religião diferente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_2">
-			<Text>You conquered the Holy City for their religion!</Text>
+			<Text>Você conquistou a Cidade Sagrada para a religião deles!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_3">
-			<Text>You liberated the Holy City for their religion!</Text>
+			<Text>Você libertou a Cidade Sagrada para a religião deles!</Text>
 		</Row>
 		<!-- Popup messages -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_FIRST_REFORMER">
-			<Text>A humble monk, Martin Luther, has published 95 Theses complaining against abuses of the Catholic church. His writings have taken {@1_CityStateName} by storm and it has converted to the new religion Protestantism. Will Luther's beliefs take root?</Text>
+			<Text>Um humilde monge, Martinho Lutero, publicou 95 Teses criticando os abusos da igreja Católica. Suas escritas tomaram {@1_CityStateName} de assalto e eles se converteram para a nova religião, o Protestantismo. As crenças de Lutero irão se enraizar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SECOND_REFORMER">
-			<Text>A second reformer, Ulrich Zwingli, has started preaching and converted the people of {@1_CityStateName} to Protestantism. Beware -- his reformed interpretations of scripture are spreading quickly!</Text>
+			<Text>Um segundo reformador, Ulrico Zwinglio, começou a pregar e converteu o povo de {@1_CityStateName} ao Protestantismo. Cuidado - suas interpretações reformadas das escrituras estão se espalhando rapidamente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_THIRD_REFORMER">
-			<Text>A third reformer, John Calvin, has started preaching and converted the people of {@1_CityStateName}. Calvin's writings provide a systematic plan for establishing Protestant communities. Can this challege to Catholicism be stopped?</Text>
+			<Text>Um terceiro reformador, João Calvino, começou a pregar e converteu o povo de {@1_CityStateName}. As escritas de Calvino fornecem um plano sistemático para estabelecer comunidades protestantes. Será que esse desafio ao Catolicismo pode ser interrompido?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_YOU_ADOPTED_PROTESTANTISM">
-			<Text>More than half of your cities are following the reform beliefs of Protestantism. Your civilization will be considered Protestant from now on. Your new Holy City to control is {@1_HolyCityName}.</Text>
+			<Text>Mais da metade de suas cidades estão seguindo as crenças reformadas do Protestantismo. Sua civilização será considerada protestante daqui para frente. Sua nova Cidade Sagrada para controlar é {@1_HolyCityName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_OTHER_ADOPTED_PROTESTANTISM">
-			<Text>{@1_PlayerName} has converted to Protestantism.</Text>
+			<Text>{@1_PlayerName} se converteu ao Protestantismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NEW_ORTHODOX_HOLY_CITY">
-			<Text>{@1_OldHolyCityName} has been captured. The new Orthodox Holy City is {@2_NewHolyCityName}.</Text>
+			<Text>A cidade {@1_OldHolyCityName} foi capturada. A nova Cidade Sagrada Ortodoxa é {@2_NewHolyCityName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NO_ORTHODOX_CITIES">
-			<Text>{@1_OldHolyCityName} has been captured, but there are no other Orthodox cities, so {@1_OldHolyCityName} remains the Holy City.</Text>
+			<Text>A cidade {@1_OldHolyCityName} foi capturada, mas não existem outras cidades Ortodoxas, então {@1_OldHolyCityName} permanece como a Cidade Sagrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_CITY_CAPTURE">
-			<Text>{1_CivName:textkey} has scored {2_VP} VP for their capture of {@3_CityName}  (a city of a competing religion with population of {4_Population}).</Text>
+			<Text>{1_CivName:textkey} marcou {2_VP} Pontos de Vitória pela captura de {@3_CityName} (uma cidade de uma religião concorrente com população de {4_Population}).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_CITY_CAPTURE_HUMAN">
-			<Text>You have scored {1_VP} VP for your capture of {@2_CityName}  (a city of a competing religion with population of {3_Population}).</Text>
+			<Text>Você marcou {1_VP} Pontos de Vitória pela captura de {@2_CityName} (uma cidade de uma religião concorrente com população de {3_Population}).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_HOLY_CITY_CAPTURE">
-			<Text>{1_CivName:textkey} has scored {2_VP} VP for their capture of {@3_CityName}  (a Holy City of a competing religion with population of {4_Population}).</Text>
+			<Text>{1_CivName:textkey} marcou {2_VP} Pontos de Vitória pela captura de {@3_CityName} (uma Cidade Sagrada de uma religião concorrente com população de {4_Population}).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_HOLY_CITY_CAPTURE_HUMAN">
-			<Text>You have scored {1_VP} VP for your capture of {@2_CityName}  (a Holy City of a competing religion with population of {3_Population}).</Text>
+			<Text>Você marcou {1_VP} Pontos de Vitória pela captura de {@2_CityName} (uma Cidade Sagrada de uma religião concorrente com população de {3_Population}).</Text>
 		</Row>
 		<!-- Techs -->
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_TITLE">
 			<Text>Exploração</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."[NEWLINE][TAB][TAB] - T. S. Eliot[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Não cessaremos da exploração, e o fim de toda nossa exploração será chegar onde começamos e conhecer o lugar pela primeira vez."[NEWLINE][TAB][TAB] - T. S. Eliot[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Caravel[ENDCOLOR], an expensive naval unit that represents a major expedition of New World exploration. Build these and sail them to the western map edge to gain VP.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], uma unidade naval cara que representa uma grande expedição de exploração do Novo Mundo. Construa-as e navegue até a borda ocidental do mapa para ganhar Pontos de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_DESC">
-			<Text>The Renaissance Age of Exploration was initiated by the Portuguese under the leadership of Henry the Navigator. Relying on the Caravel, the Portuguese pushed south down the west coast of Africa, eventually rounding the Cape of Good Hope into the Indian Ocean. By Christopher Columbus' voyage of 1492, the focus had changed to finding a western route to the riches of China and the Indies. Spain would take the lead for the next half century, achieving the first circumnavigation of the globe (in a voyage led -- but not survived -- by Ferdinand Magellan) and the conquest of many of the native civilizations of the Americas.</Text>
+			<Text>A Era do Renascimento da Exploração foi iniciada pelos portugueses sob a liderança de Henrique, o Navegador. Contando com a Caravela, os portugueses seguiram para o sul pela costa oeste da África, eventualmente contornando o Cabo da Boa Esperança e entrando no Oceano Índico. Com a viagem de Cristóvão Colombo em 1492, o foco mudou para encontrar uma rota ocidental para as riquezas da China e das Índias. A Espanha assumiria a liderança pelas próximas décadas, alcançando a primeira circum-navegação do globo (em uma viagem liderada - mas não sobrevivida - por Fernando de Magalhães) e a conquista de muitas das civilizações nativas das Américas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HUMANISM_TITLE">
-			<Text>Humanism</Text>
+			<Text>Humanismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HUMANISM_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Give light, and the darkness will disappear of itself."[NEWLINE][TAB][TAB] - Desiderius Erasmus [NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Dai luz, e a escuridão desaparecerá por si mesma."[NEWLINE][TAB][TAB] - Desidério Erasmo [NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HUMANISM_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Opera House[ENDCOLOR], which provides a large boost to [ICON_CULTURE] Culture. At least one civilization must have researched Humanism for the Protestant Reformation to commence.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Casa de Ópera[ENDCOLOR], que fornece um grande impulso de [ICON_CULTURE]Cultura. Pelo menos uma civilização deve ter pesquisado o Humanismo para que a Reforma Protestante comece.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HUMANISM_DESC">
-			<Text>Renaissance Humanism was a cultural and educational reform originating in 14th and 15th Century Europe. Humanists sought to encourage the study of subjects that are now labeled as "humanities:" philosophy, history, language and religion. Foremost of the humanists was Desiderius Erasmus, whose Latin and Greek translations of the New Testament influenced the development of the Protestant Reformation.</Text>
+			<Text>O Humanismo Renascentista foi uma reforma cultural e educacional originada na Europa dos séculos XIV e XV. Os humanistas buscavam incentivar o estudo de disciplinas agora rotuladas como "humanidades": filosofia, história, linguagem e religião. O principal dos humanistas foi Desidério Erasmo, cujas traduções do Novo Testamento em latim e grego influenciaram o desenvolvimento da Reforma Protestante.</Text>
 		</Row>
 		<!-- Unique units and buildings -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
@@ -389,7 +389,7 @@
 			<Text>O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} é uma unidade exclusiva celta, substituindo o {TXT_KEY_UNIT_CROSSBOWMAN}. O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} tem um alcance maior do que o {TXT_KEY_UNIT_CROSSBOWMAN}, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_CARAVEL_STRATEGY">
-			<Text>In this scenario, building a Caravel represents financing a major voyage of New World exploration. Once constructed, sail the Caravel to the western map edge where it will disappear (but score you VP).</Text>
+			<Text>Neste cenário, construir uma Caravela representa o financiamento de uma grande viagem de exploração do Novo Mundo. Uma vez construída, navegue com a Caravela até a borda ocidental do mapa, onde ela desaparecerá (mas lhe renderá Pontos de Vitória).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_AUSTRIAN_HUSSAR_STRATEGY">
 			<Text>{TXT_KEY_UNIT_AUSTRIAN_HUSSAR[2]} são ótimos batedores e combatentes de flancos. São um pouco mais fortes e rápidos que o {TXT_KEY_UNIT_LANCER} que substituem. Eles começam com Promoções que lhes dão +1 Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
@@ -398,44 +398,44 @@
 			<Text>O {TXT_KEY_UNIT_RUSSIAN_COSSACK} é um unidade exclusiva russa, substituindo o {TXT_KEY_UNIT_LANCER}. Eles são mais fortes que os {TXT_KEY_UNIT_LANCER[2]} e ganham um forte bônus de combate quando batalhando com unidades feridas. Isso faz os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} excepcionalmente fortes no contra-ataque - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
-			<Text>Renaissance naval exploration unit. Move them to the western map edge to score VP. Fights as a naval melee unit.</Text>
+			<Text>Unidade de exploração naval do Renascimento. Mova-as para a borda ocidental do mapa para ganhar Pontos de Vitória. Luta como uma unidade naval de combate corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
-			<Text>Unidade da Era Medieval especializada em exploração e colonização no além-mar. Somente a Espanha pode treiná-lo. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, eles podem enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa oeste para obter PVs do Novo Mundo e [ICON_GOLD]Ouro. Substitui o {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>Unidade da Era Medieval especializada em exploração e colonização no além-mar. Somente a Espanha pode treiná-lo. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, eles podem enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro. Substitui o {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o {TXT_KEY_UNIT_KNIGHT}, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, a Espanha pode enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa oeste para obter PVs do Novo Mundo e [ICON_GOLD]Ouro.</Text>
+			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o {TXT_KEY_UNIT_KNIGHT}, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, a Espanha pode enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
 			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao {TXT_KEY_UNIT_CROSSBOWMAN}, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
-			<Text>The Stave Church increases the [ICON_PEACE]Fé of a city, speeding up the rate at which you can found and spread religions. The city must contain a Shrine before the Stave Church can be constructed. The Stave Church has no maintenance cost and takes half the time to build as the Temple, which it replaces.</Text>
+			<Text>A Igreja de Madeira aumenta a [ICON_PEACE]Fé de uma cidade, acelerando a velocidade com que você pode fundar e espalhar religiões. A cidade deve conter um Santuário antes que a Igreja de Madeira possa ser construída. A Igreja de Madeira não tem custo de manutenção e leva metade do tempo para ser construída em comparação com o Templo, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAVE_CHURCH_TEXT">
-			<Text>Stave churches were wooden, post-and-beam constructions found throughout medieval Scandinavia after the Vikings converted to Christianity.  In Sweden alone it is estimated that over 1000 stave churches were built, the oldest dating back to the mid-1100s. Besides their religious function, stave churches often served as meeting halls, cultural centers, courthouses, and even as marketplaces. Early stave churches were palisade constructions, with steeply pitched roofs to shed the heavy snows. The churches had elaborate wooden carvings, usually Christian in design but occasionally depicting pre-Christian heroes and myths. Later, only the corner posts were set in the earth, with planking covering the frame. Currently 30 stave churches remain standing, all save two in Norway.</Text>
+			<Text>As igrejas de madeira a pique eram construções de madeira e vigas encontradas por toda a Escandinávia medieval depois que os Vikings se converteram ao cristianismo. Na Suécia sozinha, estima-se que mais de 1000 igrejas de madeira a pique foram construídas, sendo a mais antiga datada de meados do século XII. Além de sua função religiosa, as igrejas de madeira a pique frequentemente serviam como salas de reunião, centros culturais, tribunais e até mesmo como mercados. As primeiras igrejas de madeira a pique eram construções de palisade, com telhados de inclinação acentuada para se livrar das pesadas neves. As igrejas tinham entalhes de madeira elaborados, geralmente de design cristão, mas ocasionalmente retratavam heróis e mitos pré-cristãos. Mais tarde, apenas os postes de canto eram fixados na terra, com tábuas cobrindo a estrutura. Atualmente, 30 igrejas de madeira a pique permanecem de pé, todas menos duas na Noruega.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHATEAU_STRATEGY">
-			<Text>The Chateau is a Medieval-era building which increases the city's Defensive Strength. The city must possess Walls before the Chateau can be constructed. A Chateau is more expensive than the Castle, which it replaces, however it also provides [ICON_CULTURE] Culture to the city.</Text>
+			<Text>O Château é uma edificação da era medieval que aumenta a Força Defensiva da cidade. A cidade deve possuir Muralhas antes que o Château possa ser construído. Um Château é mais caro do que o Castelo, que substitui, porém também fornece [ICON_CULTURE]Cultura para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHATEAU_TEXT">
-			<Text>A chateau is a manor house or country home of gentry, usually without fortifications. In the Middle Ages, a chateau was largely self-sufficient, being supported by the lord's demesne (hereditary lands). The often sprawling building included gate-house, kitchens, stables, breweries, bakeries, storerooms, servants' quarters, art galleries, ballrooms, libraries, as well as the family's living quarters. These evolved from the open villas Roman nobles in Gaul favored, such as those of Pliny the Elder, Maecenas and the emperor Tiberius. The urban equivalent in France was the palais, a grand house in a city. In the city of Paris, for instance, the Louvre and the Luxembourg were originally chateaux but lost this status, becoming palaces as the city grew around them.</Text>
+			<Text>Um château é uma casa senhorial ou residência rural da nobreza, geralmente sem fortificações. Na Idade Média, um château era em grande parte autossuficiente, sendo sustentado pelas terras do senhor (terras hereditárias). A edificação frequentemente ampla incluía portaria, cozinhas, estábulos, cervejarias, padarias, armazéns, alojamentos para servos, galerias de arte, salões de baile, bibliotecas, bem como os aposentos da família. Eles evoluíram das villas abertas que os nobres romanos da Gália favoreciam, como as de Plínio, o Velho, Mecenas e o imperador Tibério. O equivalente urbano na França era o palais, uma grande casa em uma cidade. Na cidade de Paris, por exemplo, o Louvre e o Luxemburgo eram originalmente châteaux, mas perderam esse status, tornando-se palácios à medida que a cidade cresceu ao redor deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHATEAU_HELP">
-			<Text>City must have Walls.</Text>
+			<Text>A cidade deve ter Muralhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_STRATEGY">
-			<Text>A Madrasah é um edifício da era medieval. Ele aumenta a produção científica da cidade e é ainda mais eficaz se a cidade estiver perto de blocos de {TXT_KEY_FEATURE_JUNGLE}. A cidade já deve ter uma {TXT_KEY_BUILDING_LIBRARY} para construir uma Madrasah. Ele também fornece [ICON_PEACE]Fé, ao contrário da {TXT_KEY_BUILDING_UNIVERSITY} que ele substitui. </Text>
+			<Text>O "Madraçal" é uma edificação da era Medieval. Aumenta a produção científica da cidade e é ainda mais eficaz se a cidade estiver próxima de hexágonos de selva. A cidade já deve ter uma Biblioteca para construir um Madraçal. Além disso, ele fornece [ICON_PEACE] Fé, ao contrário da Universidade que substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MADRASAH_TEXT">
-			<Text>"Madrasah" is Arabic for any type of educational institution; although with a religious component, madrasahs were often secular, and could cover anything from elementary to higher learning. Usually associated with a mosque, madrasahs could even specialize in medicine, law, science, philosophy or the education of women. The first madrasah, the Gama'at al-Qarawiyyn, was established in 859 AD by Fatimah al-Fihri, the daughter of a wealthy merchant. During the rule of the Fatimid, Ayyubid and Mamluk dynasties, the practice of sponsoring madrasahs by the ruling, wealthy elite spread across Egypt and the Middle East. The first Ottoman madrasah was founded in 1331 AD in Iznik, and followed the traditions of Sunni Islam. The madrasahs of the Turks and Arabs would, as Europe suffered through the Dark Ages, keep the best of Western knowledge alive, and blend it with that of the East.</Text>
+			<Text>"Madraçal" é uma palavra em árabe que se refere a qualquer tipo de instituição educacional; embora com um componente religioso, os madraçais frequentemente eram seculares e poderiam abranger desde o ensino básico até o superior. Geralmente associados a uma mesquita, os madraçais também poderiam se especializar em medicina, direito, ciência, filosofia ou na educação de mulheres. O primeiro madraçal, o Gama'at al-Qarawiyyn, foi estabelecido em 859 d.C. por Fatimah al-Fihri, filha de um rico comerciante. Durante o domínio das dinastias Fatímida, Aiúbida e Mameluca, a prática de patrocinar madraçais pela elite governante e rica se espalhou pelo Egito e pelo Oriente Médio. O primeiro madraçal otomano foi fundado em 1331 d.C. em Iznik e seguia as tradições do Islã Sunita. Os madraçais dos turcos e árabes, enquanto a Europa sofria com a Idade das Trevas, mantinham vivo o melhor do conhecimento ocidental e o mesclavam com o do Oriente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência de ladrilhos de {TXT_KEY_FEATURE_JUNGLE} explorados por esta cidade.[NEWLINE][NEWLINE]A cidade deve ter uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
+			<Text>+2 de [ICON_RESEARCH]Ciência dos hexágonos de selva trabalhados por esta Cidade.[NEWLINE][NEWLINE]A cidade deve ter uma Biblioteca.</Text>
 		</Row>
 		<!-- Unit and building overrides -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_HAGIA_SOPHIA_HELP">
-			<Text>All Missionaries born in this city can spread religion three times. Provides a free Temple in the city in which it is built.</Text>
+			<Text>Todos os Missionários nascidos nesta cidade podem espalhar a religião três vezes. Fornece um Templo gratuito na cidade onde é construído.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

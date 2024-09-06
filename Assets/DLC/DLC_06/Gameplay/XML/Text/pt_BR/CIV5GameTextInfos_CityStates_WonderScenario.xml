@@ -7,12 +7,12 @@
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY">
 			<Text>Troia</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>									
+			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_ADJ">
 			<Text>Troiano|Troiana|Troianos|Troianas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>									
+			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_DESC">
 			<Text>A lendária cidade de Troia, que presumem ter atingido seu auge no terceiro e segundo milênio a.C., era um próspero centro de comércio no Mar Egeu. Retratada predominantemente no poema épico de Homero a "Ilíada", imaginou-se por muito tempo que a cidade fosse puramente mitológica. No entanto, descobertas arqueológicas no século XIX relevaram restos na Turquia moderna, que acreditam ter sido a cidade de Troia.</Text>

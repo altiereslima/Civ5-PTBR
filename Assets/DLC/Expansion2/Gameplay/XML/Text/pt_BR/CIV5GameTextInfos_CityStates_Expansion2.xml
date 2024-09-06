@@ -232,12 +232,12 @@
 		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON">
 			<Text>Wellington</Text>
             <Gender>neuter</Gender>
-            <Plurality>1</Plurality>						
+            <Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_ADJ">
 			<Text>Wellingtoniano|Wellingtoniana|Wellingtonianos|Wellingtonianas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
-            <Plurality>1|1|2|2</Plurality>						
+            <Plurality>1|1|2|2</Plurality>
 		</Row>		
         <!-- Old city-state names used in DLC civs -->
         <!--

@@ -95,7 +95,7 @@
 			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} por pesquisar Globalização ({2_VotesPerDiplomat} por Espião indicado como um [ICON_DIPLOMAT]Diplomata)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WONDER_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} pelas Maravilhas Mundiais</Text>
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} pelas Maravilhas do Mundo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WORLD_RELIGION_VOTES">
 			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} por seguir a Religião Mundial</Text>
@@ -257,7 +257,7 @@
 			<Text>-{1_ResearchCostPercent}% no custo em [ICON_RESEARCH]Ciência por Tecnologias já pesquisadas por outra Civilização</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_CULTURE_FROM_WONDERS">
-			<Text>+{1_CulturePerWorldWonder} de [ICON_CULTURE]Cultura por Maravilhas Mundiais</Text>
+			<Text>+{1_CulturePerWorldWonder} de [ICON_CULTURE]Cultura por Maravilhas do Mundo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_CULTURE_FROM_NATURAL_WONDERS">
 			<Text>+{1_CulturePerWorldWonder} de [ICON_CULTURE]Cultura por Maravilhas Naturais</Text>
@@ -281,10 +281,10 @@
 			<Text>{@1_GreatPersonType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_GREAT_PERSON_TILE_IMPROVEMENT_CULTURE">
-			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada hexágono com melhorias de Grandes Pessoas</Text>
+			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada hexágono com melhorias de Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_LANDMARK_CULTURE">
-			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada {TXT_KEY_IMPROVEMENT_LANDMARK} arqueológico</Text>
+			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada Ponto de Referência arqueológica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CHANGE_NAME">
 			<Text>Alterar Nome</Text>
@@ -354,7 +354,7 @@
 			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {2_NumCivs} {2_NumCivs: plural 1?Civilização prometeu; other?Civilizações prometeram;} {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} em razão de acordos comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_CHOICE">
-			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} ({2_NumCivs} {2_NumCivs: plural 1?Civivilização; other?Civilizações;})</Text>
+			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} ({2_NumCivs} {2_NumCivs: plural 1?Civilização; other?Civilizações;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_UNACCOUNTED">
 			<Text>[NEWLINE][ICON_BULLET]{2_NumCivs} {2_NumCivs: plural 1?Civilização controla; other?Civilizações controlam;} {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} não contados</Text>
@@ -484,7 +484,7 @@
 			<Text>{@1_CivName} {@1: plural 2?tornaram-se; other?tornou-se;} {@1: plural 2?{@1: gender feminine?as anfitriãs; other?os anfitriões;}; other?{@1: gender feminine?a anfitriã; other?o anfitrião;};}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_SAME_SUMMARY">
-			<Text>{@1_CivName} {@1: plural 2?permancem; other?permance;} {@1: plural 2?{@1: gender feminine?as anfitriãs; other?os anfitriões;}; other?{@1: gender feminine?a anfitriã; other?o anfitrião;};}</Text>
+			<Text>{@1_CivName} {@1: plural 2?permanecem; other?permanece;} {@1: plural 2?{@1: gender feminine?as anfitriãs; other?os anfitriões;}; other?{@1: gender feminine?a anfitriã; other?o anfitrião;};}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_DETAILS">
 			<Text>A Sessão Especial da {1_LeagueName} escolheu {@2_CivName} para {@2: plural 2?serem; other?ser;} {@2: plural 2?{@2: gender feminine?as próximas as anfitriãs; other?os próximos anfitriões;}; other?{@2: gender feminine?a próxima anfitriã; other?o próximo anfitrião;};}.</Text>
@@ -700,7 +700,7 @@
 			<Text>Não Proliferação Nuclear</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION_HELP">
-			<Text>Todas as Civilizações são impedidas de construírem novas armas nucleares ({TXT_KEY_UNIT_ATOMIC_BOMB[2]} e {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}). Armas já construídas, entretanto, não são desativadas.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Balísticas.</Text>
+			<Text>Todas as Civilizações são impedidas de construírem novas armas nucleares (Bombas Atômicas e Mísseis Nucleares). Armas já construídas, entretanto, não são desativadas.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Balísticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_WORLD_RELIGION">
 			<Text>Religião Mundial</Text>
@@ -727,10 +727,10 @@
 			<Text>Aumenta a geração de Grandes Cientistas, Engenheiros e Mercadores em 33%. Diminui a geração de Grandes Escritores, Artistas e Músicos em 33%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS">
-			<Text>{TXT_KEY_IMPROVEMENT_LANDMARK[2]} Históricos</Text>
+			<Text>Pontos de Referência Históricos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS_HELP">
-			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e {TXT_KEY_IMPROVEMENT_LANDMARK[2]} construídos por {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY}.</Text>
+			<Text>Melhorias de Grandes Personalidades fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por Arqueólogos fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Arqueologia.</Text>
 		</Row>
 		<!-- Resolution Decisions-->
 		<Row Tag="TXT_KEY_RESOLUTION_DECISION_NONE">

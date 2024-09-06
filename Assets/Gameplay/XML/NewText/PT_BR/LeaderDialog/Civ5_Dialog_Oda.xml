@@ -167,7 +167,7 @@
 			<Text>Você deve fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_4">
-			<Text>Quase ...</Text>
+			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_1">
 			<Text>Devemos recusar sua oferta muito generosa. Você não pode melhorá-la?</Text>
@@ -176,10 +176,10 @@
 			<Text>É o melhor que você pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá ...</Text>
+			<Text>Você está quase lá...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_4">
-			<Text>Quase ...</Text>
+			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_NEUTRAL_1">
 			<Text>Devemos recusar sua oferta como está agora. Pedimos que você a melhore.</Text>

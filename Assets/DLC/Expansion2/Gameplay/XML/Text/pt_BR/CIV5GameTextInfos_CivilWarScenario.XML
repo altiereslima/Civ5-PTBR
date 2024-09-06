@@ -4,21 +4,21 @@
 	<Language_pt_BR>
 		<!-- Entry UI-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TITLE">
-			<Text>American Civil War</Text>
+			<Text>Guerra Civil Americana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_DESC">
-			<Text>From 1861 to 1865, America suffers through a bloody civil war with the brunt of the action centered between the capital cities of Washington and Richmond. Can you lead one of these fledgling nations to victory?</Text>
+			<Text>De 1861 a 1865, a América sofre através de uma sangrenta guerra civil com o peso da ação centrada entre as capitais de Washington e Richmond. Você pode levar uma dessas nações à vitória?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TURNS_REMAINING">
-			<Text>Turns Left: {1_TurnsRemaining}</Text>
+			<Text>Turnos restantes: {1_TurnsRemaining}</Text>
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>SCENARIO DESCRIPTION[NEWLINE]April the 12th, 1861. Confederate mortars open fire on Fort Sumter in Charleston harbor, signaling the start of America's Civil War. President Abraham Lincoln issues a call for volunteers for 90-day enlistments, confident that the rebellion can be put down in short order. Jefferson Davis, newly elected President of the Confederates States, is equally optimistic. Davis boldly moves his government to Richmond, Virginia, just 100 miles from Washington, D.C.  Can you win the swift victory both sides are predicting? Or will this war test if a nation conceived in liberty can long endure?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Win by capturing your opponent's capital before time runs out.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]City razing and settlers are off. Only cities with one of these production buildings may create units: either the {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL} (Infantry), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE} (Cavalry), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS} (Artillery), or {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD} (Naval Units). Capture enemy cities to control these production centers and the Manpower resource, necessary for Infantry units. All units of the player moving first receive just half their usual movement on the opening turn. Cities have no range strike and only minimal defense above the combat strength of any garrison. Great Generals' range increased to 5 and they are displaced to a nearby city rather than killed.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Em 12 de abril de 1861, os morteiros confederados abrem fogo contra o Forte Sumter no porto de Charleston, sinalizando o início da Guerra Civil Americana. O Presidente Abraham Lincoln convoca voluntários para se alistar por 90 dias, confiante de que a rebelião pode ser reprimida rapidamente. Jefferson Davis, o recém-eleito Presidente dos Estados Confederados, também está igualmente otimista. Davis ousadamente move seu governo para Richmond, na Virgínia, apenas 160 quilômetros de Washington, D.C. Você pode conquistar a vitória rápida que ambos os lados estão prevendo? Ou esta guerra testará se uma nação concebida na liberdade pode perdurar por muito tempo?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Vença capturando a capital do seu oponente antes que o tempo se esgote.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]A eliminação de cidades e colonos está desativada. Somente cidades com uma das seguintes edificações de produção podem criar unidades: {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL} (Infantaria), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE} (Cavalaria), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS} (Artilharia) ou {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD} (Unidades Navais). Capture cidades inimigas para controlar esses centros de produção e o recurso de Mão de Obra, necessário para unidades de Infantaria. Todas as unidades do jogador que se move primeiro recebem apenas metade de seu movimento usual no primeiro turno. As cidades não têm ataque à distância e apenas defesa mínima acima da força de combate de qualquer guarnição. O alcance dos Grandes Generais é aumentado para 5 e eles são deslocados para uma cidade próxima em vez de serem mortos.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BRIEFING_BUTTON">
-			<Text>Briefing</Text>
+			<Text>Resumo</Text>
 		</Row>
 		<!-- Victory-->
 		<!-- Civilopedia-->
@@ -26,64 +26,64 @@
 			<Text>Abraham Lincoln</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_SUBTITLE">
-			<Text>President of the United States of America</Text>
+			<Text>Presidente dos Estados Unidos da América</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_LIVED">
-			<Text>1809 - 1865 d.C.</Text>
+			<Text>1809-1865 d.C</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_1">
-			<Text>Born in 1809 in a small cabin in central Kentucky, Abraham Lincoln rose from seemingly humble beginnings to become one of the greatest statesmen in American history. In his early 20s, Lincoln served in a number of small government roles before his election to the Illinois General Assembly in 1834. In 1836 he began practicing law, and it wasn't long before he established a reputation as a savvy lawyer willing to take on a wide variety of cases. During successive terms in the Illinois House of Representatives and later a single term in the U.S. House of Representatives, Lincoln became known for his views opposing the further spread of slavery in the United States, a key issue that became a hallmark of his political career.
+			<Text>Nascido em 1809 em uma pequena cabana no centro de Kentucky, Abraham Lincoln surgiu de origens aparentemente humildes para se tornar um dos maiores estadistas da história americana. Em seus primeiros 20 anos, Lincoln serviu em vários papéis governamentais menores antes de ser eleito para a Assembleia Geral de Illinois em 1834. Em 1836, ele começou a praticar direito, e não demorou muito para que ele estabelecesse uma reputação como um advogado astuto disposto a assumir uma ampla variedade de casos. Durante mandatos sucessivos na Câmara de Representantes de Illinois e posteriormente um único mandato na Câmara de Representantes dos EUA, Lincoln ficou conhecido por suas opiniões contrárias à expansão adicional da escravidão nos Estados Unidos, uma questão-chave que se tornou uma marca registrada de sua carreira política.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_2">
-			<Text>Election</Text>
+			<Text>Eleição</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_2">
-			<Text>In 1860, Lincoln successfully campaigned to become the 16th President of the United States. It was during the now famous Lincoln-Douglas debates that the specter of southern secession was first raised, when Lincoln continually rebuked the notion of allowing slavery to spread into the western territories of the United States. The southern states, united in their continued support for slavery, were prepared to abandon the United States if Lincoln were to be elected.
+			<Text>Em 1860, Lincoln fez campanha com sucesso para se tornar o 16º Presidente dos Estados Unidos. Foi durante os agora famosos debates Lincoln-Douglas que o espectro da secessão do sul foi levantado pela primeira vez, quando Lincoln continuamente rejeitou a noção de permitir que a escravidão se espalhasse para os territórios ocidentais dos Estados Unidos. Os estados do sul, unidos em seu apoio contínuo à escravidão, estavam preparados para abandonar os Estados Unidos se Lincoln fosse eleito.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_3">
-			<Text>Fort Sumter</Text>
+			<Text>Forte Sumter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_3">
-			<Text>Soon after Lincoln's victory the first seven states to secede, led by South Carolina, and soon followed by Alabama, Florida, Georgia, Louisiana, Mississippi, and Texas, declared their sovereignty and formed the Confederate States of America in 1861. In naming Jefferson Davis as their president-elect, the southern states made good on their threat to secede, and it wasn't long before one of America's most devastating conflicts, the Civil War, began with a confederate attack on Fort Sumter in April of 1861.
+			<Text>Logo após a vitória de Lincoln, os primeiros sete estados a secessão, liderados pela Carolina do Sul, e logo seguidos por Alabama, Flórida, Geórgia, Louisiana, Mississippi e Texas, declararam sua soberania e formaram os Estados Confederados da América em 1861. Ao nomear Jefferson Davis como seu presidente eleito, os estados do sul cumpriram sua ameaça de secessão, e não demorou muito para que um dos conflitos mais devastadores da América, a Guerra Civil, começasse com um ataque confederado ao Forte Sumter em abril de 1861.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_4">
-			<Text>Emancipation Proclamation</Text>
+			<Text>Proclamação de Emancipação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_4">
-			<Text>Lincoln assumed command of the Union war effort as commander-in-chief, issuing unprecedented orders to imprison confederate sympathizers, blockade all confederate ports, and to seize and free any slave used in the confederate war effort. His most aggressive and noteworthy order, the Emancipation Proclamation, was signed on January 1st, 1863, and provided freedom to all slaves within the confederacy, although it did not grant them full citizenship within the United States.
+			<Text>Lincoln assumiu o comando do esforço de guerra da União como comandante-em-chefe, emitindo ordens sem precedentes para prender simpatizantes confederados, bloquear todos os portos confederados e apreender e libertar qualquer escravo usado no esforço de guerra confederado. Sua ordem mais agressiva e notável, a Proclamação de Emancipação, foi assinada em 1º de janeiro de 1863 e concedeu liberdade a todos os escravos dentro da confederação, embora não lhes tenha concedido plena cidadania nos Estados Unidos.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_5">
-			<Text>Gettysburg Address</Text>
+			<Text>Discurso de Gettysburg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_5">
-			<Text>Months later, Lincoln gave what would become one of the most famous speeches in history, the Gettysburg Address. His renowned opening line - "Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal" - lives on today as one of the greatest reminders of Lincoln's mark on American history.  
+			<Text>Meses depois, Lincoln proferiu o que se tornaria um dos discursos mais famosos da história, o Discurso de Gettysburg. Sua renomada linha de abertura - "Há oitenta e sete anos, nossos pais trouxeram a este continente uma nova nação, concebida na liberdade e dedicada à proposição de que todos os homens são criados iguais" - perdura até hoje como um dos maiores lembretes do legado de Lincoln na história americana.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_6">
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_6">
-			<Text>Following nearly five years of warfare, during which time over 500,000 Americans fought and died, the Civil War ended with the surrender of General Robert E. Lee in April of 1865. Just five days later, while attending a play at Ford's Theater in Washington D.C., Lincoln was assassinated by the Confederate sympathizer John Wilkes Booth. Although Lincoln did not survive to see the eventual outcome of his efforts to reestablish the nation and abolish slavery, the legacy of his deeds has long since established his position among America's greatest presidents.
+			<Text>Após quase cinco anos de guerra, durante os quais mais de 500.000 americanos lutaram e morreram, a Guerra Civil terminou com a rendição do General Robert E. Lee em abril de 1865. Apenas cinco dias depois, enquanto assistia a uma peça de teatro no Teatro Ford em Washington D.C., Lincoln foi assassinado pelo simpatizante confederado John Wilkes Booth. Embora Lincoln não tenha sobrevivido para ver o resultado final de seus esforços para restabelecer a nação e abolir a escravidão, o legado de suas ações há muito tempo estabeleceu sua posição entre os maiores presidentes da América.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_TEXT_1">
-			<Text>During the American Civil War, the Union was the name used to reference the states still aligned with the federal government of the United States. Mainly comprised of states that had already outlawed slavery without a federal mandate, 20 in all, the North also controlled five slaveholding border states. The Union was led by President Abraham Lincoln, who oversaw both the logistical and tactical aspects of the war against the South.[NEWLINE][NEWLINE]From the onset of the war, the Union states had vastly more resources and manpower available to fuel their efforts, with the North being much more industrialized than the South. The Union also had a much larger population from which to recruit soldiers, outnumbering the South nearly four to one. However, despite these advantages, the Union was still faced with a difficult task in reclaiming the southern states. The Confederate armies were led by skilled officers, and fighting to defend their home states gave the Confederates a distinct advantage in their knowledge of the terrain.</Text>
+			<Text>Durante a Guerra Civil Americana, a União era o nome usado para se referir aos estados ainda alinhados com o governo federal dos Estados Unidos. Composta principalmente por estados que já haviam proibido a escravidão sem uma ordem federal, um total de 20, o Norte também controlava cinco estados fronteiriços que mantinham escravos. A União era liderada pelo Presidente Abraham Lincoln, que supervisionava tanto os aspectos logísticos quanto táticos da guerra contra o Sul. Desde o início da guerra, os estados da União tinham muito mais recursos e mão de obra disponíveis para impulsionar seus esforços, com o Norte sendo muito mais industrializado do que o Sul. A União também tinha uma população muito maior da qual recrutar soldados, superando o Sul em quase quatro para um. No entanto, apesar dessas vantagens, a União ainda enfrentava uma tarefa difícil ao recuperar os estados do sul. Os exércitos confederados eram liderados por oficiais experientes, e lutar para defender seus estados natais deu aos confederados uma vantagem distinta em seu conhecimento do terreno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_NAME">
 			<Text>Jefferson Davis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_SUBTITLE">
-			<Text>Provisional President of the Confederacy</Text>
+			<Text>Presidente Provisório da Confederação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_LIVED">
 			<Text>1808 - 1889 d.C.</Text>
@@ -92,241 +92,242 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_1">
-			<Text>Jefferson Davis, born in 1808, was an American politician and military officer elected to lead the Confederate States of America following the secession of southern states in 1861. After attending the United States Military Academy in West Point and serving at Fort Crawford, Davis moved to Mississippi where he operated a plantation. After serving briefly in the Mexican-American war, Jefferson Davis returned to Mississippi and was appointed by the governor to serve in the U.S. Senate in 1848. As a slave owner and military veteran, Davis was seen as the embodiment of southern values, a sentiment that would help him in his burgeoning political career.
+			<Text>Jefferson Davis, nascido em 1808, foi um político e oficial militar americano eleito para liderar os Estados Confederados da América após a secessão dos estados do sul em 1861. Depois de frequentar a Academia Militar dos Estados Unidos em West Point e servir em Fort Crawford, Davis mudou-se para o Mississippi, onde operava uma plantação. Após servir brevemente na Guerra México-Americana, Jefferson Davis retornou ao Mississippi e foi nomeado pelo governador para servir no Senado dos Estados Unidos em 1848. Como proprietário de escravos e veterano militar, Davis era visto como a personificação dos valores do sul, um sentimento que o ajudaria em sua crescente carreira política.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_2">
-			<Text>Secession</Text>
+			<Text>Secessão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_2">
-			<Text>In 1853, Davis was appointed Secretary of War under newly elected president Franklin Peirce. After serving his term, he returned to the Senate in 1857, where he urged restraint against secessionist movements brewing in the southern states. However, following Lincoln's victory in the presidential election of 1860, Mississippi joined six other states in seceding from the union, and Davis resigned his senate seat to return home. Although Davis had only anticipated serving the newly formed Confederate States of America in a military leadership role, he was selected by acclamation to serve as provisional President of the Confederacy in 1861.
+			<Text>Em 1853, Davis foi nomeado Secretário de Guerra sob o recém-eleito presidente Franklin Peirce. Após cumprir seu mandato, ele retornou ao Senado em 1857, onde instou à moderação contra os movimentos secessionistas que se desenvolviam nos estados do sul. No entanto, após a vitória de Lincoln na eleição presidencial de 1860, o Mississippi se juntou a outros seis estados na secessão da união, e Davis renunciou ao seu assento no senado para retornar para casa. Embora Davis tivesse previsto apenas servir no recém-formado Estados Confederados da América em um papel de liderança militar, ele foi selecionado por aclamação para servir como Presidente Provisório da Confederação em 1861.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_3">
-			<Text>Fort Sumter</Text>
+			<Text>Forte Sumter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_3">
-			<Text>As the Confederate President, Davis attempted to negotiate for the acquisition of several Union-held forts that remained within the new Confederate territory. President Lincoln had no interest in ceding any territory to the South, and sent orders for Fort Sumter in South Carolina to be resupplied with food and materials. Viewing this as an act of war, the Confederate troops under General P.G.T. Beauregard bombarded the fort - marking the beginning of the American Civil War.
+			<Text>Como presidente da Confederação, Davis tentou negociar a aquisição de várias fortalezas mantidas pela União que permaneceram dentro do novo território confederado. O Presidente Lincoln não tinha interesse em ceder qualquer território ao Sul e enviou ordens para que Fort Sumter, na Carolina do Sul, fosse reabastecido com alimentos e materiais. Vendo isso como um ato de guerra, as tropas confederadas sob o comando do General P.G.T. Beauregard bombardearam o forte - marcando o início da Guerra Civil Americana.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_4">
-			<Text>Limited Resources</Text>
+			<Text>Recursos Limitados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_4">
-			<Text>Jefferson Davis took it upon himself to directly oversee many of the strategies employed by the Southern armies. He was quick to recognize that the Confederacy had limited resources and equipment in comparison to the larger Union army, and sought to rely on a staunch defense rather than an aggressive offensive approach. However, after this strategy proved successful in protecting the Confederate capital in Richmond, Virginia, Davis and his senior advisor, General Robert E. Lee, pressed forward with plans for an invasion of the North.
+			<Text>Jefferson Davis assumiu pessoalmente a supervisão de muitas das estratégias empregadas pelos exércitos do Sul. Ele rapidamente reconheceu que a Confederação tinha recursos e equipamentos limitados em comparação com o grande exército da União e buscou confiar em uma defesa firme em vez de uma abordagem ofensiva agressiva. No entanto, depois que essa estratégia se mostrou bem-sucedida na proteção da capital confederada em Richmond, Virgínia, Davis e seu principal conselheiro, o General Robert E. Lee, avançaram com planos para uma invasão do Norte.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_5">
-			<Text>Invasion of the North</Text>
+			<Text>Invasão do Norte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_5">
-			<Text>Despite General Lee's brilliance as a military tactician and leader, the Confederate campaign to invade the northern states was met with hard fighting at every turn. At the Battle of Antietam in September of 1862, the Confederates suffered over 10,000 casualties, and later still at the Battle of Gettysburg another 20,000 men or more were killed or wounded (an event widely considered the turning point of the war.)
+			<Text>Apesar do brilhantismo do General Lee como tático militar e líder, a campanha confederada para invadir os estados do norte encontrou resistência firme a cada turno. Na Batalha de Antietam em setembro de 1862, os confederados sofreram mais de 10.000 baixas, e posteriormente, na Batalha de Gettysburg, mais de 20.000 homens foram mortos ou feridos (um evento amplamente considerado o ponto de virada da guerra).
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_6">
-			<Text>Surrender</Text>
+			<Text>Rendição</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_6">
-			<Text>By 1865, the Confederacy was in dire shape, and by April of that year Union commander Ulysses S. Grant was nearly ready to seize the Confederate capital in Richmond. General Robert E. Lee and the Army of Northern Virginia surrendered just days later, and Jefferson Davis and his Cabinet fled south. On May 5, 1865, the Confederate government was officially dissolved in Washington, Georgia.
+			<Text>Em 1865, a Confederação estava em péssimas condições e, em abril desse ano, o comandante da União, Ulysses S. Grant, estava quase pronto para tomar a capital confederada em Richmond. O General Robert E. Lee e o Exército da Virgínia do Norte se renderam apenas alguns dias depois, e Jefferson Davis e seu gabinete fugiram para o sul. Em 5 de maio de 1865, o governo confederado foi oficialmente dissolvido em Washington, Geórgia.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_7">
-			<Text>Capture</Text>
+			<Text>Captura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_7">
-			<Text>On May 10th, Davis was captured by Union troops and held in confinement for just over two years. Eventually released on bail, Davis spent much of the next decade working quietly, avoiding much in the way of public appearances or discourse on the outcome of the war. 
+			<Text>Em 10 de maio, Davis foi capturado por tropas da União e ficou preso por pouco mais de dois anos. Eventualmente, liberado sob fiança, Davis passou grande parte da próxima década trabalhando discretamente, evitando grande parte das aparições públicas ou discussões sobre o resultado da guerra.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_8">
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_8">
-			<Text>Jefferson Davis passed away in 1889 at the age of 81, after suffering from an unknown illness that kept him bedridden for several months. Following his death, numerous memorials were constructed in his honor, and his legacy is still held in high regard among historians and the descendants of those who fought and died for the Confederacy. 
+			<Text>Jefferson Davis faleceu em 1889, aos 81 anos, depois de sofrer de uma doença desconhecida que o manteve acamado por vários meses. Após sua morte, numerosos memoriais foram construídos em sua homenagem, e seu legado ainda é altamente respeitado entre historiadores e descendentes daqueles que lutaram e morreram pela Confederação.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_TEXT_1">
-			<Text>The Confederate States of America, also known as the Confederacy, was the name chosen by the southern states that opted to secede from the U.S. following Abraham Lincoln's election to the presidency in 1860. Viewing Lincoln's perspectives on slavery as leading to an infringement upon the individual rights of each state, including their right to break from the constitution and secede, the southern states did just that.[NEWLINE][NEWLINE]The Confederate President, Jefferson Davis, sought to directly oversee not only the logistical issues of the war effort, but also the military strategies and appointments of the southern armies (much like his counterpart in the North). The Confederacy was faced with war against an opponent armed with superior equipment, greater manpower, and more raw materials dedicated to the conflict. These concerns did little to hamper the southern forces' enthusiasm for the fight ahead, as they viewed this as a battle for their way of life and the individual rights of every state versus the federal government.</Text>
+			<Text>Os Estados Confederados da América, também conhecidos como Confederação, foram o nome escolhido pelos estados do sul que optaram por se separar dos Estados Unidos após a eleição de Abraham Lincoln para a presidência em 1860. Vendo as perspectivas de Lincoln sobre a escravidão como levando a uma violação dos direitos individuais de cada estado, incluindo o direito de quebrar a constituição e se separar, os estados do sul fizeram exatamente isso. [NEWLINE] [NEWLINE] O Presidente Confederado, Jefferson Davis, procurou supervisionar diretamente não apenas as questões logísticas do esforço de guerra, mas também as estratégias militares e nomeações dos exércitos do sul (assim como seu homólogo no Norte). A Confederação enfrentou uma guerra contra um oponente armado com equipamentos superiores, maior mão de obra e mais matéria-prima dedicada ao conflito. Essas preocupações pouco fizeram para diminuir o entusiasmo das forças do sul pela luta que se avizinhava, pois viam isso como uma batalha por seu modo de vida e pelos direitos individuais de cada estado em oposição ao governo federal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_TEXT">
-			<Text>The Confederate blockade runners were light, fast merchant ships commissioned to slip past or outrun Union warships that tried to enforce the Anaconda Plan, a strategy to deprive the South of its cotton trade with the European nations. Running cotton out and medical and military supplies in was a lucrative, if dangerous, business for Southern captains; by the end of the war, the Union had captured 1100 blockade runners and destroyed 355 more.</Text>
+			<Text>Os Quebra-bloqueios confederados eram navios mercantes leves e rápidos comissionados para escapar ou superar os navios de guerra da União que tentavam fazer cumprir o Plano Anaconda, uma estratégia para privar o Sul de seu comércio de algodão com as nações europeias. Levar algodão para fora e suprimentos médicos e militares para dentro era um negócio lucrativo, se perigoso, para os capitães do Sul; até o final da guerra, a União havia capturado 1100 Quebra-bloqueios e destruído outros 355.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CARBINE_CAVALRY_TEXT">
-			<Text>Carbines, with a shorter barrel than a rifle, were less accurate but much easier to use when mounted. Most Union and a few Confederate cavalry regiments had been equipped with carbines by war's end, which proved their worth in cavalry actions such as Brandy Station and Yellow Tavern.</Text>
+			<Text>Carabinas, com um cano mais curto do que um rifle, eram menos precisas, mas muito mais fáceis de usar quando montadas. A maioria dos regimentos de cavalaria da União e alguns confederados haviam sido equipados com carabinas até o final da guerra, o que provou seu valor em ações de cavalaria como Brandy Station e Yellow Tavern.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_CORPS_TEXT">
-			<Text>On both sides the infantry corps was the major organizational formation of the armies; in the Confederate Army these would comprise two to four divisions and be named for its commander (e.g. Longstreet's Corps), whereas Union Corps were standardized at three divisions and simply numbered. A corps would comprise between 10,000 and 25,000 men, commanded by a lieutenant general on the Southern side and a major general in the Northern armies.</Text>
+			<Text>De ambos os lados, o corpo de infantaria era a principal formação organizacional dos exércitos; no Exército Confederado, eles compreendiam de duas a quatro divisões e eram nomeados pelo seu comandante (por exemplo, Corpo de Longstreet), enquanto os Corpos da União eram padronizados em três divisões e simplesmente numerados. Um corpo compreenderia entre 10.000 e 25.000 homens, comandados por um tenente-general no lado Sul e um major-general nos exércitos do Norte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_DIVISION_TEXT">
-			<Text>An infantry division was generally made up of two to four brigades, each brigade between 1200 and 2500 soldiers. Commanded by a general, the division was the basic unit of maneuver during battle; in theory, these generals were tasked with husbanding the striking power of their division until able to deliver one hard blow rather than a series of lesser ones.</Text>
+			<Text>Uma divisão de infantaria geralmente era composta de duas a quatro brigadas, cada brigada entre 1200 e 2500 soldados. Comandada por um general, a divisão era a unidade básica de manobra durante a batalha; teoricamente, esses generais tinham a tarefa de guardar o poder de ataque de sua divisão até serem capazes de desferir um golpe forte em vez de uma série de golpes menores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_RIFLED_CANNON_TEXT">
-			<Text>Rifling adds grooves to the inside of the barrel of cannon to improve the range and accuracy of the piece, at the cost of increased expense to manufacture and the need for a longer barrel. Although various makes of rifled artillery were supplied to the Civil War armies, the most famous is the Parrott Rifle, used by both sides in different sizes, from the common 10-pounders for field use up to the emplaced 300-pounders in fortifications.</Text>
+			<Text>O estriamento adiciona sulcos ao interior do cano do canhão para melhorar o alcance e a precisão da peça, com o custo de maior despesa na fabricação e a necessidade de um cano mais longo. Embora várias marcas de artilharia estriada tenham sido fornecidas aos exércitos da Guerra Civil, a mais famosa é o Canhão Parrott, usado por ambos os lados em diferentes tamanhos, desde os comuns de 10 libras para uso em campo até os de 300 libras em fortificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MILITARY_ENGINEER_TEXT">
-			<Text>Military engineering is loosely defined as the art of designing and building military fortifications and maintaining the lines of military transport and communications. In the Civil War, with recent advances in technology, military engineers were not only responsible for field and permanent fortifications, bridges and bases, but tasked with constructing and repairing the rail and telegraph lines that so dramatically changed the nature of warfare.</Text>
+			<Text>Engenharia militar é definida de forma ampla como a arte de projetar e construir fortificações militares e manter as linhas de transporte e comunicação militares. Na Guerra Civil, com os avanços recentes na tecnologia, os engenheiros militares não eram apenas responsáveis pelas fortificações de campo e permanentes, pontes e bases, mas também pela construção e reparo das linhas de trem e telégrafo que mudaram tão dramaticamente a natureza da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_TEXT">
-			<Text>The first steam-driven warship plated with iron or steel was launched by the French Navy in 1859, but the first battles involving {TXT_KEY_UNIT_IRONCLAD[2]} took place in 1862 during the Civil War. It quickly became clear that the ironclad had replaced the wooden ship-of-the-line as the most powerful warship afloat; by the end of the war the Confederate Navy launched 24 {TXT_KEY_UNIT_IRONCLAD[2]} (although 59 were begun, several being destroyed before completion), while the Union commissioned 52 coastal {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
+			<Text>O primeiro navio de guerra movido a vapor revestido de ferro ou aço foi lançado pela Marinha Francesa em 1859, mas as primeiras batalhas envolvendo navios blindados ocorreram em 1862 durante a Guerra Civil. Rapidamente ficou claro que o navio blindado havia substituído o navio de guerra de madeira como o navio de guerra mais poderoso em alto-mar; no final da guerra, a Marinha Confederada lançou 24 couraçados (embora 59 tenham sido iniciados, vários foram destruídos antes da conclusão), enquanto a União comissionou 52 couraçados costeiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_TEXT">
-			<Text>In the Civil War, a "monitor" was an armored, steam-driven warship with a very low freeboard (as a foot from waterline to deck) mounting a few heavy guns in one or more turrets. Intended primarily for use on the rivers that cut through Southern territory, the unseaworthy craft were used to support land forces, protect riverbank positions, and control river passage; monitors were crucial to the Union victories in the West, notably along the Mississippi River.</Text>
+			<Text>Na Guerra Civil, um "monitor" era um navio de guerra blindado movido a vapor com uma borda livre muito baixa (cerca de um pé da linha d'água até o convés), montando algumas peças de artilharia pesada em uma ou mais torres. Destinados principalmente para uso nos rios que cortavam o território do Sul, as embarcações impróprias para navegação em alto-mar eram usadas para apoiar as forças terrestres, proteger posições nas margens dos rios e controlar a passagem dos rios; os monitores foram cruciais para as vitórias da União no Oeste, especialmente ao longo do Rio Mississippi.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_TEXT">
-			<Text>The United States first used conscription to raise manpower for the military during the Civil War, passing an act authorizing the draft of citizens to supplement the volunteers. The Confederate States president Jefferson Davis proposed the first Southern conscription act in March 1862 as volunteer furloughs loomed; it was passed by the Confederate Congress the next month. The conscription laws of both nations sought to answer the manpower deficiencies brought about by the high casualty rates, but proved increasingly unpopular as the war progressed.</Text>
+			<Text>Os Estados Unidos usaram o recrutamento para aumentar a mão de obra militar pela primeira vez durante a Guerra Civil, promulgando uma lei autorizando o recrutamento de cidadãos para complementar os voluntários. O presidente dos Estados Confederados, Jefferson Davis, propôs a primeira lei de recrutamento do Sul em março de 1862, enquanto as licenças para licenças de voluntários estavam pendentes; ela foi aprovada pelo Congresso Confederado no mês seguinte. As leis de recrutamento de ambas as nações buscaram resolver as deficiências de mão de obra decorrentes das altas taxas de baixas, mas se tornaram cada vez mais impopulares à medida que a guerra avançava.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_HELP">
-			<Text>Manpower is produced by Barracks, and is required to maintain your Infantry. Protecting your Manpower-producing Barracks is critical to victory, especially in the South, where Manpower is in short supply.</Text>
+			<Text>A mão de obra é produzida por Quartéis, e é necessária para manter sua Infantaria. Proteger seus Quartéis produtores de Mão de Obra é crucial para a vitória, especialmente no Sul, onde a Mão de Obra é escassa.</Text>
 		</Row>
 		<!-- Civ Traits-->
 		<!-- Scenario-specific Diplomacy Modifiers-->
 		<!-- Technologies-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Rifled Cannon[ENDCOLOR], an artillery unit with Range of 3.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Canhão Raiado[ENDCOLOR], uma unidade de artilharia com 3 de Alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The Yankee three-inch rifle was a dead shot at any distance under a mile. They could hit the end of a flour barrel more often than miss, unless the gunner got rattled."[NEWLINE][TAB][TAB] - Confederate gunner at the Battle of Atlanta[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O canhão Yankee de três polegadas era um tiro certeiro a qualquer distância inferior a uma milha. Eles podiam acertar o final de um barril de farinha com mais frequência do que errar, a menos que o atirador ficasse nervoso."[NEWLINE][TAB][TAB] - Artilheiro confederado na Batalha de Atlanta[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_DESC">
-			<Text>Rifling adds grooves to the inside of the barrel of cannon to improve the range and accuracy of the piece, at the cost of increased expense to manufacture and the need for a longer barrel. Both the Union and Confederate armies in the Eastern Theater included batteries of rifled artillery, along with batteries of mixed smooth-bore and rifled cannons.</Text>
+			<Text>O estriamento adiciona sulcos no interior do cano do canhão para melhorar o alcance e a precisão da peça, com o custo de aumentar o gasto na fabricação e a necessidade de um cano mais longo. Tanto os exércitos da União quanto os Confederados no Teatro Oriental incluíam baterias de artilharia raiada, junto com baterias de canhões de alma lisa e raiados mistos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Infantry Corps[ENDCOLOR], an upgrade to the Infantry Division that requires more manpower but has a much higher [ICON_STRENGTH] Combat Strength.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Corpo de Infantaria[ENDCOLOR], uma melhoria para a Divisão de Infantaria que requer mais mão de obra, mas possui uma [ICON_STRENGTH]Força de Combate muito maior.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Why do they call them civil wars when they always are so extraordinarily uncivil?"[NEWLINE][TAB][TAB] - Elizabeth Fitch[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Por que eles chamam de guerras civis quando sempre são extraordinariamente incivilizadas?"[NEWLINE][TAB][TAB] - Elizabeth Fitch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_DESC">
-			<Text>At the beginning of the Civil War there were several military academies devoted to educating young men in military science, most notably the U.S. Military Academy at West Point. The South, on the other hand, boasted more, and arguably better, private academies catering to the Southern traditions: the {TXT_KEY_IMPROVEMENT_CITADEL}, Virginia Military Academy, Porter Military Academy in South Carolina, St. Charles College in Mississippi and others.</Text>
+			<Text>No início da Guerra Civil, havia várias academias militares dedicadas a educar jovens em ciência militar, sendo a mais notável a Academia Militar dos Estados Unidos em West Point. O Sul, por outro lado, ostentava mais e, possivelmente, melhores academias particulares que atendiam às tradições do Sul: as de Citadel, Virgínia e Porter na Carolina do Sul, St. Charles College no Mississippi e outras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
-			<Text>Permite treinar o [COLOR_POSITIVE_TEXT]{TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER}[ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Estradas de Ferro. Essa unidade também pode ser consumida para construir uma {TXT_KEY_IMPROVEMENT_CITADEL} ou {TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT][TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]][ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Quit thinking about what Bobby Lee's gonna do to us and start thinking about what we're going to do to him."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Deixe de pensar no que Bobby Lee vai fazer conosco e comece a pensar no que vamos fazer com ele."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_DESC">
-			<Text>Although the Union engineers were blessed with plentiful materials and labor and Southern engineers with imagination and necessity, both were challenged by the changing technology of mass warfare: telegraphy, railroads, barbed wire, pontoon bridges, balloons, and the like.</Text>
+			<Text>Embora os engenheiros da União fossem abençoados com materiais e mão de obra abundantes, e os engenheiros do Sul com imaginação e necessidade, ambos foram desafiados pela tecnologia em constante evolução da guerra em massa: telegrafia, ferrovias, arame farpado, pontes de balseira, balões e outros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_HELP">
 			<Text>Permite treinar a [COLOR_POSITIVE_TEXT]Cavalaria com Carabina[ENDCOLOR], uma evolução da Divisão de Cavalaria com o dobro da [ICON_STRENGTH]Força de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Our best officers estimate one man armed with a Spencer Carbine is equivalent to three with any other arm."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Nossos melhores oficiais estimam que um homem armado com uma Carabina Spencer é equivalente a três com qualquer outra arma."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
 			<Text>A Guerra Civil é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilha o mecanismo de disparo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_IRONCLAD[2]}[ENDCOLOR], a powerful naval unit that will dominate wooden naval vessels.</Text>
+			<Text>Permite construir [COLOR_POSITIVE_TEXT]Navios Blindados[ENDCOLOR], uma poderosa unidade naval que dominará as embarcações navais de madeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The turrets and other parts of the ship were heavily struck, but the shots did not penetrate; the tower was intact, and it continued to revolve. A look of confidence passed over the men's faces, and we believed the Merrimac would not repeat the work she had accomplished the day before."[NEWLINE][TAB][TAB] - Samuel Dana Greene[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"As torres e outras partes do navio foram atingidas com força, mas os tiros não penetraram; a torre estava intacta e continuou a girar. Um olhar de confiança passou pelos rostos dos homens, e acreditamos que o Merrimac não repetiria o que havia realizado no dia anterior."[NEWLINE][TAB][TAB] - Samuel Dana Greene[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_DESC">
-			<Text>In an attempt to break the Union blockade, the Confederacy was the first in the Civil War to turn to constructing an {TXT_KEY_UNIT_IRONCLAD}; in October 1861 the CSS Manassas became the first {TXT_KEY_UNIT_IRONCLAD} to enter combat, engaging Union warships in the Battle of the Head of Passes - a battle overshadowed by the first {TXT_KEY_UNIT_IRONCLAD} clash between the CSS Merrimack and the USS Monitor the following February.</Text>
+			<Text>Na tentativa de quebrar o bloqueio da União, a Confederação foi a primeira na Guerra Civil a construir um navio blindado; em outubro de 1861, o CSS Manassas se tornou o primeiro navio blindado a entrar em combate, enfrentando navios de guerra da União na Batalha da Head of Passes - uma batalha que foi obscurecida pelo primeiro confronto entre navios blindados entre o CSS Merrimack e o USS Monitor no mês seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_HELP">
-			<Text>Allows cavalry units to pillage enemy tiles. Prior to researching this tech, no unit can pillage enemy territory.</Text>
+			<Text>Permite que unidades de cavalaria saqueiem os territórios inimigos. Antes de pesquisar esta tecnologia, nenhuma unidade pode saquear território inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Jeb Stuart is my ideal of a cavalry leader, prompt, vigilant, and fearless."[NEWLINE][TAB][TAB] - Thomas J. Jackson[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Jeb Stuart é meu ideal de líder de cavalaria, pronto, vigilante e destemido."[NEWLINE][TAB][TAB] - Thomas J. Jackson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_DESC">
-			<Text>The Confederacy, fighting a defensive war, was the first to initiate large-scale cavalry raids, numbering from a few hundred to two thousand mounted troops, sweeping behind the lines to disrupt the enemy forces and dismay the enemy civilian population. Confederate cavalry generals such as J.E.B. Stuart, John Hunt Morgan and "Jo" Shelby became infamous for their deep raids, burning bridges, warehouses and towns and scattering livestock and destroying crops.</Text>
+			<Text>A Confederação, travando uma guerra defensiva, foi a primeira a iniciar incursões de cavalaria em larga escala, com um número que variava de algumas centenas a dois mil soldados montados, avançando por trás das linhas inimigas para perturbar as forças inimigas e atemorizar a população civil inimiga. Generais de cavalaria confederados, como J.E.B. Stuart, John Hunt Morgan e "Jo" Shelby, tornaram-se famosos por suas incursões profundas, incendiando pontes, armazéns e cidades, dispersando o gado e destruindo as colheitas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_HELP">
-			<Text>Doubles the healing rate of all your units.</Text>
+			<Text>Dobra a taxa de cura de todas as suas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"This conflict is one thing I've been waiting for. I'm well and strong and young - young enough to go to the front. If I can't be a soldier, I'll help soldiers."[NEWLINE][TAB][TAB] - Clara Barton[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Este conflito é uma coisa que tenho esperado. Estou bem, forte e jovem - jovem o suficiente para ir para a frente. Se não posso ser um soldado, vou ajudar os soldados."[NEWLINE][TAB][TAB] - Clara Barton[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_DESC">
-			<Text>Before the Civil War, armies tended to be small, mostly due to logistic and mobilization issues. But the larger, more rapidly moving armies and the increasing lethality of the weaponry brought a demand by civilians and officers alike for a better method of treating the wounded. On the Union side, following the Battle of Bull Run General McClellan appointed surgeon Charles Tipler the first medical director for the Army of the Potomac; in 1862 William Hammond was named Surgeon general of the United States and launched a number of reforms in the evacuation, treatment and recovery procedures for the wounded, including integrated field hospitals operating right at the front lines.</Text>
+			<Text>Antes da Guerra Civil, os exércitos tendiam a ser pequenos, principalmente devido a questões logísticas e de mobilização. Mas os exércitos maiores e em movimento mais rápido, juntamente com a crescente letalidade das armas, trouxeram a demanda tanto dos civis quanto dos oficiais por um melhor método de tratamento dos feridos. No lado da União, após a Batalha de Bull Run, o General McClellan nomeou o cirurgião Charles Tipler como o primeiro diretor médico do Exército de Potomac; em 1862, William Hammond foi nomeado Cirurgião Geral dos Estados Unidos e lançou uma série de reformas nos procedimentos de evacuação, tratamento e recuperação dos feridos, incluindo hospitais de campanha integrados operando nas linhas de frente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_HELP">
-			<Text>Gives all Generals extra visibility.</Text>
+			<Text>Fornece visibilidade adicional para todos os Generais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"I have pleasure in sending you this first dispatch ever telegraphed from an aerial station."[NEWLINE][TAB][TAB] - Thaddeus S. C. Lowe[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Tenho o prazer de enviar-lhe esta primeira mensagem telegrafada de uma estação aérea."[NEWLINE][TAB][TAB] - Thaddeus S. C. Lowe[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_DESC">
-			<Text>With the outbreak of war, the United States War Department would create a balloon corps; the civilian Thaddeus Lowe would be named the corps first commander with the lofty title "Chief Aeronaut." Union general McDowell first called on the corps to provide aerial observations of enemy encampments and movements during the First Battle of Bull Run.</Text>
+			<Text>Com o início da guerra, o Departamento de Guerra dos Estados Unidos criaria um corpo de balões; o civil Thaddeus Lowe seria nomeado o primeiro comandante do corpo com o pomposo título de "Chefe Aeronauta". O general da União McDowell primeiro convocou o corpo para fornecer observações aéreas de acampamentos e movimentos inimigos durante a Primeira Batalha de Bull Run.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_HELP">
-			<Text>Halves the time to construct Railroads and doubles your movement rate on Railroads.</Text>
+			<Text>Reduz pela metade o tempo para construir Ferrovias e dobra sua taxa de movimento em Ferrovias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The North can make a steam engine, locomotive or railway car; hardly a yard of cloth or a pair of shoes can you make. You are rushing into war with one of the most powerful, ingeniously mechanical and determined people on earth-right at your doors."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O Norte pode fabricar uma máquina a vapor, locomotiva ou vagão de trem; mal você pode fazer um jarda de tecido ou um par de sapatos. Você está se precipitando para a guerra com um dos povos mais poderosos, engenhosamente mecânicos e determinados da Terra, bem à sua porta."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_DESC">
-			<Text>The United States Military Railroad was established by the U.S. War Department in 1862 to operate any rail lines seized by the federal government after Congress authorized Lincoln to commandeer railroads and telegraph lines for use by the military. By war's end, the USMRR controlled over 2000 miles of Northern track and captured Southern rail lines.</Text>
+			<Text>O Departamento de Guerra dos Estados Unidos criou a Ferrovia Militar dos Estados Unidos (USMRR, sigla em inglês) em 1862 para operar todas as linhas ferroviárias apreendidas depois que o Congresso autorizou Lincoln a requisitar todas as ferrovias e linhas telegráficas para uso militar. No final da guerra, a USMRR controlava mais de 3.000 quilômetros de trilhos no norte e linhas ferroviárias capturadas no sul.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Gatling Guns[ENDCOLOR], a powerful unit with Range of 1.</Text>
+			<Text>Permite construir [COLOR_POSITIVE_TEXT]Metralhadoras Gatling[ENDCOLOR], uma poderosa unidade com 1 de Alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"This year's brought about many changes that at the beginning would've been thought impossible."[NEWLINE][TAB][TAB] - Christian Fleetwood[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Este ano trouxe muitas mudanças que no início teriam sido consideradas impossíveis."[NEWLINE][TAB][TAB] - Christian Fleetwood[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_DESC">
-			<Text>Already industrialized, the Union spent the war refining and perfecting methods of mass production and transport of weapons, clothing, and military supplies of all types in large quantities. The Southern states, by contrast were largely agrarian at the start of the war, importing most manufactured goods from the North or Europe.</Text>
+			<Text>Já industrializada, a União passou a guerra refinando e aperfeiçoando métodos de produção em massa e transporte de armas, roupas e suprimentos militares de todos os tipos em grandes quantidades. Por outro lado, os estados do Sul eram em grande parte agrários no início da guerra, importando a maioria dos produtos manufaturados do Norte ou da Europa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_HELP">
-			<Text>Allows infantry units to pillage enemy tiles.</Text>
+			<Text>Permite que unidades de infantaria saqueiem hexágonos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"War is hell."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A guerra é o inferno."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_DESC">
-			<Text>An ancient strategy, "scorched earth" refers to campaigns aimed at destroying everything that might be useful to the enemy, including civilian property. In the Civil War, faced with a war that had lasted long enough to prove increasingly unpopular on the home front, the United States initiated the policy, most famously during Sherman's march to the sea and Sheridan's campaign in the Shenandoah Valley.</Text>
+			<Text>Uma estratégia antiga, "terra arrasada" se refere a campanhas destinadas a destruir tudo o que possa ser útil ao inimigo, incluindo propriedades civis. Na Guerra Civil, diante de uma guerra que durou o suficiente para se tornar cada vez mais impopular na retaguarda, os Estados Unidos iniciaram a política, mais famosamente durante a marcha ao mar de Sherman e a campanha de Sheridan no Vale de Shenandoah.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_HELP">
-			<Text>Doubles the combat bonus for being fortified.</Text>
+			<Text>Dobra o bônus de combate por estar fortificado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"I have always regretted that the last assault at Cold Harbor was ever made."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Sempre lamentei que o último ataque em Cold Harbor tenha sido feito."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_DESC">
-			<Text>A field fortification meant to protect infantry from cavalry and missile fire, entrenchments have been used in warfare since the earliest days; during the Civil War, temporary entrenchments were dug during battles, as at Gettysburg, while more elaborate, extensive entrenchments protected strategic cities such as Washington and Richmond.</Text>
+			<Text>Uma fortificação de campo destinada a proteger a infantaria contra a cavalaria e o fogo de mísseis, trincheiras têm sido usadas na guerra desde os primeiros dias; durante a Guerra Civil, trincheiras temporárias foram cavadas durante as batalhas, como em Gettysburg, enquanto trincheiras mais elaboradas e extensas protegiam cidades estratégicas como Washington e Richmond.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_1">
-			<Text>Allows cavalry to pillage tiles.</Text>
+			<Text>Permite que a cavalaria saqueie hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_2">
-			<Text>Allows infantry to pillage tiles.</Text>
+			<Text>Permite que a infantaria saqueie hexágonos.</Text>
 		</Row>
 		<!-- Resources -->
 		<!-- Improvements-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE">
-			<Text>Ponte de Pontão</Text>
+			<Text>Ponte de Barcas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_HELP">
-			<Text>Allows land units to traverse this Coast tile. May only be constructed in a Coast tile with 4 or more land tiles adjacent to it. Constructed by an embarked {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]}, who is consumed by the construction of the Pontoon Bridge.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Costa. Só pode ser construída em um hexágono de Costa com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_TEXT">
-			<Text>Pontoon (or "floating") bridges were used by both sides during the war to allow the rapid crossing of rivers by infantry, artillery and wagons; an innovative, light-weight design known as Cumberland Pontoons was especially crucial during the Union campaigns across the deep South.</Text>
+			<Text>As Pontes de Barcas (ou "Flutuantes") foram usadas por ambos os lados durante a guerra para permitir a travessia rápida de rios por infantaria, artilharia e carroças; um design inovador e leve conhecido como Cumberland Pontoons foi especialmente crucial durante as campanhas da União no sul profundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE">
-			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]{TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}[\LINK]</Text>
+			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]Ponte de Barcas[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_HELP">
-			<Text>Allows land units to traverse this Coast tile. May only be constructed in a Coast tile with 4 or more land tiles adjacent to it. Constructed by an embarked {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]}, who is consumed by the construction of the Pontoon Bridge.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Costa. Só pode ser construída em um hexágono de Costa com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_REC">
-			<Text>It will allow land units to traverse this hex.</Text>
+			<Text>Isso permitirá que unidades terrestres atravessem este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILD_RAILROAD_HELP">
-			<Text>An unbroken chain of Railroads allows Units to move extremely quickly through Tiles.[NEWLINE][NEWLINE]Connecting Cities to your capital by Railroad will give them a 25% [ICON_PRODUCTION] Production bonus.</Text>
+			<Text>Uma cadeia contínua de Ferrovias permite que as unidades se movam extremamente rapidamente pelos Hexágonos.[NEWLINE][NEWLINE]Conectar Cidades à sua capital por meio de Ferrovias fornecerá a elas um bônus de 25% de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILD_ROAD_HELP">
-			<Text>An unbroken chain of Roads allows Units to move more quickly across the map.[NEWLINE][NEWLINE]Connecting Cities to your capital will provide a large amount of [ICON_GOLD] Gold per turn.</Text>
+			<Text>Uma cadeia contínua de Estradas permite que as unidades se movam mais rapidamente pelo mapa.[NEWLINE][NEWLINE]Conectar Cidades à sua capital fornecerá uma grande quantidade de [ICON_GOLD]Ouro por turno.</Text>
 		</Row>
 		<!-- Buildings in the seperate Buildings file-->
 		<!-- Units-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_HELP_WORKER">
-			<Text>Uma unidade civil que pode reparar melhorias, construir Estradas e Estradas de Ferro. Essa unidade também pode ser consumida para construir uma {TXT_KEY_IMPROVEMENT_CITADEL} ou {TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}.</Text>
+			<Text>Uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
 		</Row>
 		<!--Great Generals-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_IRVIN_MCDOWELL">
@@ -355,86 +356,86 @@
 		</Row>
 		<!-- Promotions-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MORALE">
-			<Text>Rebel Yell</Text>
+			<Text>Grito Rebelde</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MORALE_HELP">
 			<Text>+10% de [ICON_STRENGTH]Força de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BALLOON_RECON">
-			<Text>Balloon Reconnaissance</Text>
+			<Text>Reconhecimento por Balão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BALLOON_RECON_HELP">
-			<Text>+2 Visibility Range for Great Generals.</Text>
+			<Text>+2 de Alcance Visual para Grandes Generais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_IGNORES_GREAT_GENERAL">
-			<Text>Ignores Great Generals</Text>
+			<Text>Ignora Grandes Generais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_IGNORES_GREAT_GENERAL_HELP">
-			<Text>Does not receive bonuses from nearby Great Generals.</Text>
+			<Text>Não recebe bônus por Grandes Generais próximos.</Text>
 		</Row>
 		<!--In-Game Messages-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BLOCKADE_RUNNER_YOURS">
-			<Text>Your {1_UnitName} has slipped by the Northern blockade, arrived in Europe, and sold its cargo of cotton for [ICON_GOLD] {2_GoldAmount}.</Text>
+			<Text>{1: gender masculine?Seu; feminine?Sua;} {1_UnitName} escapou do bloqueio do Norte, chegou à Europa e vendeu sua carga de algodão por [ICON_GOLD] {2_GoldAmount}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BLOCKADE_RUNNER_THEIRS">
-			<Text>A Confederate {1_UnitName} sneaked by the coastal securities and is destined for Europe. Its cargo of cotton will bring [ICON_GOLD] {2_GoldAmount} to the Confederacy.</Text>
+			<Text>{1: gender masculine?Um; feminine?Uma;} {1_UnitName} {1: gender masculine?confederado; feminine?confederada;} passou sorrateiramente pelas defesas costeiras e está a caminho da Europa. Sua carga de algodão renderá [ICON_GOLD] {2_GoldAmount} para a Confederação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_JOHN_ERICSSON">
-			<Text>PRO-UNION EVENT: John Ericsson[NEWLINE][NEWLINE]The Swedish-born inventor John Ericsson has joined the Union cause. Perhaps this Grande Cientista can aid the Union in developing new technology such as the Monitor ironclad?</Text>
+			<Text>EVENTO PRÓ-UNIÃO: John Ericsson[NEWLINE][NEWLINE]O inventor sueco John Ericsson se juntou à causa da União. Talvez este Grande Cientista possa ajudar a União no desenvolvimento de novas tecnologias, como o Monitor Encouraçado?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_EMANCIPATION">
-			<Text>PRO-UNION EVENT: Emancipation Proclamation[NEWLINE][NEWLINE]Abraham Lincoln has issued a great proclamation declaring freedom for all those persons enslaved in Confederate territory.  Union Manpower is raised by {1_Num}.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Proclamação de Emancipação[NEWLINE][NEWLINE]Abraham Lincoln emitiu uma grande proclamação declarando a liberdade de todas as pessoas escravizadas no território Confederado. A Mão de Obra da União aumenta em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CLARA_BARTON">
-			<Text>PRO-UNION EVENT: Clara Barton[NEWLINE][NEWLINE]The humanitarian Clara Barton has been appointed to head up the Union field hospitals in this theater. Because of the efforts of this "Angel of the Battlefield", Union Manpower is raised by {1_Num}.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Clara Barton[NEWLINE][NEWLINE]A humanitária Clara Barton foi nomeada para liderar os hospitais de campanha da União neste teatro. Graças aos esforços desta "Anjo do Campo de Batalha", a Mão de Obra da União aumenta em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CALL_VOLUNTEERS">
-			<Text>PRO-UNION EVENT: Call for Volunteers[NEWLINE][NEWLINE]Abraham Lincoln's urgent appeal for Union volunteers has been answered. {1_Num} divisions of Union infantry have just arrived via rail from the Northeast.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Chamado para Voluntários[NEWLINE][NEWLINE]O apelo urgente de Abraham Lincoln por voluntários da União foi atendido. {1_Num} divisões de infantaria da União acabam de chegar via ferrovia do Nordeste.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_WESTERN_CRISIS">
-			<Text>PRO-UNION EVENT: Western Crisis[NEWLINE][NEWLINE]The Union victory at Vicksburg has left the Confederate forces in the West in disarray. Reinforcements will need to be sent to Mississippi. Confederate Manpower is dropped by {1_Num}.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Crise no Oeste[NEWLINE][NEWLINE]A vitória da União em Vicksburg deixou as forças Confederadas no Oeste em desordem. Reforços precisarão ser enviados para o Mississippi. A Mão de Obra Confederado diminui em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CSA_INFLATION">
-			<Text>PRO-UNION EVENT: Confederate Inflation[NEWLINE][NEWLINE]The Confederate currency has been devalued!  The [ICON_GOLD] Gold in the Confederate treasury has dropped by {1_Num}%.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Inflação Confederada[NEWLINE][NEWLINE]A moeda Confederada foi desvalorizada! O [ICON_GOLD]Ouro no tesouro Confederado diminuiu em {1_Num}%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_GEORGE_RAINS">
-			<Text>PRO-CONFEDERATE EVENT: George W. Rains[NEWLINE][NEWLINE]George Washington Rains and his brother Gabriel have been experimenting with explosive devices. Perhaps this Grande Cientista can aid the Confederate in developing new technology such as improved artillery?</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: George W. Rains[NEWLINE][NEWLINE]George Washington Rains e seu irmão Gabriel têm experimentado dispositivos explosivos. Talvez este Grande Cientista possa ajudar os Confederados no desenvolvimento de novas tecnologias, como artilharia aprimorada?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_WESTERN_RAIL">
-			<Text>PRO-CONFEDERATE EVENT: Western Reinforcements[NEWLINE][NEWLINE]{1_Num} divisions of Confederate infantry have just arrived via rail from the Western Theater. Surely these troops are needed more urgently here in the East!</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Reforços do Oeste[NEWLINE][NEWLINE]{1_Num} divisões de infantaria Confederada acabam de chegar via ferrovia do Teatro do Oeste. Certamente essas tropas são necessárias com mais urgência aqui no Leste!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_NYC_DRAFT_RIOTS">
-			<Text>PRO-CONFEDERATE EVENT: New York City Draft Riots[NEWLINE][NEWLINE]Civil unrest has overtaken New York City! Rioting has broken out over the Union's latest draft laws conscripting men for military service.  Troops will need to be diverted to quell the unrest. Union Manpower is dropped by {1_Num}.</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Distúrbios Contra o Recrutamento em Nova Iorque[NEWLINE][NEWLINE]A instabilidade civil tomou conta de Nova Iorque! Distúrbios estouraram devido às últimas leis de recrutamento da União, que convocam homens para o serviço militar. Tropas precisarão ser desviadas para conter a agitação. A Mão de Obra da União diminui em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_COTTON_PRICES">
-			<Text>PRO-CONFEDERATE EVENT: Cotton Prices[NEWLINE][NEWLINE]Cotton prices soar in Europe. Confederate profits from blockade running increase dramatically. The Confederate cause gains {1_Num} [ICON_GOLD] Gold.</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Preços do Algodão[NEWLINE][NEWLINE]Os preços do algodão dispararam na Europa. Os lucros Confederados com a corrida de bloqueio aumentam dramaticamente. A causa Confederada ganha {1_Num} de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MOSBYS_RAIDERS">
-			<Text>PRO-CONFEDERATE EVENT: Mosby's Raiders[NEWLINE][NEWLINE]Confederate partisan raiders led by John S. Mosby have captured several major Union wagon trains in Northern Virginia. {1_Num}% of the current Union [ICON_GOLD] Gold in their treasury has been taken by the Confederates!</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Os Guerreiros de Mosby[NEWLINE][NEWLINE]Guerrilheiros Confederados liderados por John S. Mosby capturaram diversos grandes comboios de carroças da União no norte da Virgínia. {1_Num}% do [ICON_GOLD]Ouro atual da União em seu tesouro foi tomado pelos Confederados!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_LEE_ARRIVES">
-			<Text>PRO-CONFEDERATE EVENT: Robert E. Lee Takes Command[NEWLINE][NEWLINE]Joe Johnston has been injured in battle. Robert E. Lee is promoted to command of the Army of Northern Virginia. This raises the Confederate Great General combat modifier from +20% to +30%.  All units starting the turn within 5 hexes gain +1 [ICON_MOVES] Movement.</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Robert E. Lee Assume o Comando[NEWLINE][NEWLINE]Joe Johnston foi ferido em batalha. Robert E. Lee é promovido para comandar o Exército da Virgínia do Norte. Isso aumenta o modificador de combate do Grande General Confederado de +20% para +30%. Todas as unidades que começarem o turno dentro de 5 hexágonos ganham +1 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MCCLELLAN">
-			<Text>NEW UNION COMMANDER: George McClellan[NEWLINE][NEWLINE]After the defeat at {1_CityName}, Lincoln feels it is time to replace the current Union commander. George McClellan is put in command. He provides only a 10% combat modifier. However McClellan is a master at training new troops. When present in a city that constructs a new infantry unit, a SECOND unit is instantly created at the same time.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: George McClellan[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln sente que é hora de substituir o atual comandante da União. George McClellan assume o comando. Ele fornece apenas um modificador de combate de 10%. No entanto, McClellan é um mestre em treinar novas tropas. Quando presente em uma cidade que constrói uma nova unidade de infantaria, UMA SEGUNDA unidade é criada instantaneamente ao mesmo tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_HOOKER">
-			<Text>NEW UNION COMMANDER: Ambrose Burnside[NEWLINE][NEWLINE]After the defeat at {1_CityName}, Lincoln feels it is time to replace the current Union commander. Ambrose Burnside is put in command. He provides only a 10% combat modifier. However Burnside is determined to get the Army of Potomac on the move. All units starting the turn within 5 hexes gain +1 [ICON_MOVES] Movement.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: Ambrose Burnside[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln sente que é hora de substituir o atual comandante da União. Ambrose Burnside assume o comando. Ele fornece apenas um modificador de combate de 10%. No entanto, Burnside está determinado a colocar o Exército de Potomac em movimento. Todas as unidades que começarem o turno dentro de 5 hexágonos ganham +1 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_BURNSIDE">
-			<Text>NEW UNION COMMANDER: Joe Hooker[NEWLINE][NEWLINE]After the defeat at {1_CityName}, Lincoln feels it is time to replace the current Union commander. Joe Hooker is put in command. He provides a 20% combat modifier.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: Joe Hooker[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln sente que é hora de substituir o atual comandante da União. Joe Hooker assume o comando. Ele fornece um modificador de combate de 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MEADE">
-			<Text>NEW UNION COMMANDER: George Meade[NEWLINE][NEWLINE]After the defeat at {1_CityName}, Lincoln once again looks for a new commander. George Meade is put in command, a clear upgrade over the previous leadership. He provides a significant combat modifier of +30%. </Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: George Meade[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln mais uma vez procura um novo comandante. George Meade assume o comando, uma clara melhoria em relação ao comando anterior. Ele fornece um significativo modificador de combate de +30%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_GRANT">
-			<Text>NEW UNION COMMANDER: Ulysses Grant[NEWLINE][NEWLINE]Lincoln has at last found his man. Ulysses Grant, already victorious in numerous Western Theater campaigns, is brought east and put in command. He provides a 30% combat modifier and all units starting the turn within 5 hexes gain +1 [ICON_MOVES] Movement.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: Ulysses Grant[NEWLINE][NEWLINE]Lincoln finalmente encontrou seu homem. Ulysses Grant, já vitorioso em diversas campanhas no Teatro do Oeste, é trazido para o leste e assume o comando. Ele fornece um modificador de combate de 30% e todas as unidades que começarem o turno dentro de 5 hexágonos ganham +1 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_IMPROVEMENTS_CITADEL_TEXT">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_CITADEL} é uma poderosa fortificação que só pode ser construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER}. Após a construção da {TXT_KEY_IMPROVEMENT_CITADEL}, as suas fronteiras Culturais também se expandirão para circundar a {TXT_KEY_IMPROVEMENT_CITADEL} por todos os lados em um hexágono. Qualquer unidade estacionada dentro de uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próxima à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano (o dano não se acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}).</Text>
+			<Text>Uma Cidadela é uma poderosa fortificação que só pode ser construída por um Engenheiro. Ao construir a Cidadela, suas fronteiras culturais também se expandirão para cercar a Cidadela de todos os lados por um hexágono. Qualquer unidade estacionada dentro de uma Cidadela recebe um bônus de força defensiva de 100%. Além disso, qualquer unidade inimiga que encerrar seu turno ao lado de uma Cidadela sofre 30 de dano (o dano não se acumula com outras Cidadelas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EO_EX_IMPROVEMENTS">
-			<Text>Total cost of maintaining Roads and Railroads you have built, or are responsible for.</Text>
+			<Text>Custo total de manutenção das Estradas e Ferrovias que você construiu ou pelas quais é responsável.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

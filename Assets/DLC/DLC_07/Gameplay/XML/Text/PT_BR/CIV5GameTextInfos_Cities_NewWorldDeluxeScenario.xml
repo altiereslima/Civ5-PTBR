@@ -55,7 +55,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
-			<Text>Assunção</Text>
+			<Text>Asuncion</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -95,7 +95,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
-			<Text>Salem</Text>
+			<Text>Salém</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -223,7 +223,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM">
-			<Text>Nova Amsterdam</Text>
+			<Text>Nova Amsterdã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -450,7 +450,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ROTTERDAM">
-			<Text>Roterdão</Text>
+			<Text>Roterdã</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -847,17 +847,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEON">
-			<Text>Leão</Text>
+			<Text>León</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BILBAO">
-			<Text>Bilbau</Text>
+			<Text>Bilbao</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LA_CORUNA">
-			<Text>Corunha</Text>
+			<Text>La Coruna</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

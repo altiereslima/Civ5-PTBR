@@ -13,19 +13,19 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
-			<Text>Machada|Machadas</Text>
+			<Text>Soldado com Saxo|Soldados com Saxo</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN">
-			<Text>Machadinha|Machadinhas</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Soldado com Machado|Soldados com Machado</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA">
 			<Text>Trirremiola|Trirremiolas</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1|2</Plurality>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT">
 			<Text>Valente|Valentes</Text>
@@ -34,27 +34,27 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD">
 			<Text>Flagelo de Deus|Flagelos de Deus</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1|2</Plurality>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">
-			<Text>Couraçado Terrestre|Couraçados Terrestres</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1|2</Plurality>
+			<Text>Blindado Terrestre|Blindados Terrestres</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP">
-			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1|2</Plurality>
+			<Text>Tanque|Tanques</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN">
 			<Text>Leviatã Terrestre|Leviatãs Terrestres</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1|2</Plurality>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FLYER">
-			<Text>Voador|Voadores</Text>
+			<Text>Aeroplano|Aeroplanos</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -70,13 +70,13 @@
 		</Row>
 		<!-- INTO THE RENAISSANCE -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
-			<Text>Cavalaria Mamluke|Cavalarias Mamluke</Text>
-			<Gender>feminine:human</Gender>
+			<Text>Mameluco|Mamelucos</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
-			<Text>Arqueiro de Arco Longo Galês|Arqueiros de Arco Longo Galeses</Text>
-			<Gender>masculine:human</Gender>
+			<Text>Arqueiro Galês|Arqueiros Galeses</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>

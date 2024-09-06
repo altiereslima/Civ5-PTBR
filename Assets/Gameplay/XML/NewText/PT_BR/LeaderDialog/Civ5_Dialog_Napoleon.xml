@@ -152,7 +152,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_7">
-			<Text>Continue.</Text>
+			<Text>Continuar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LOSEWAR_1">
 			<Text>Parece que eu subestimei muito você. Não vou cometer o mesmo erro outra vez, eu prometo.</Text>
@@ -182,7 +182,7 @@
 			<Text>Isso é o melhor que você pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá ...</Text>
+			<Text>Você está quase lá...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_1">
 			<Text>Tentaria me enganar? O Imperador? Você deve fazer melhor!</Text>

@@ -255,7 +255,7 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN">
-		<Text>Cape Town</Text>
+		<Text>Cidade do Cabo</Text>
 		<Gender>neuter:noart</Gender>
 		<Plurality>1</Plurality>
     </Row>
@@ -265,7 +265,7 @@
 		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SIDON">
-		<Text>Sidão</Text>
+		<Text>Sídon</Text>
 		<Gender>masculine</Gender>
 		<Plurality>1</Plurality>
     </Row>

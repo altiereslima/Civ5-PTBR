@@ -9,7 +9,7 @@
 			<Text>Companhia Holandesa das Índias Orientais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
-			<Text>+1 de [ICON_PEACE]Fé por cada cidade com uma {TXT_KEY_FEATURE_FOREST} adjacente não explorada. O bônus aumenta para +2 de [ICON_PEACE]Fé em cidades com 3 ou mais hexágonos com {TXT_KEY_FEATURE_FOREST[2]} não exploradas.</Text>
+			<Text>+1 de [ICON_PEACE]Fé por cada cidade com uma floresta adjacente não explorada. O bônus aumenta para +2 de [ICON_PEACE]Fé em cidades com 3 ou mais hexágonos com florestas não exploradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
 			<Text>Conhecimento Druídico</Text>
@@ -21,7 +21,7 @@
 			<Text>Patriarca de Constantinopla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
-			<Text>Ganhe 90 de [ICON_INFLUENCE]Influência ao presentear uma Grande Pessoa a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Pessoas.</Text>
+			<Text>Ganhe 90 de [ICON_INFLUENCE]Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
 			<Text>Prêmio Nobel</Text>
@@ -30,25 +30,25 @@
 			<Text>Arrase cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia {TXT_KEY_TECH_ANIMAL_HUSBANDRY}. +1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
-			<Text>Castigo de Deus</Text>
+			<Text>Flagelo de Deus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE">
 			<Text>Pode gastar [ICON_GOLD]Ouro para anexar ou transformar em fantoche uma Cidade-Estado que esteja aliada a você por 5 turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
-			<Text>Casamento Diplomático</Text>
+			<Text>Matrimônio diplomático</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
-			<Text>Todas as cidades costeiras ganham um {TXT_KEY_BUILDING_HARBOR} gratuito. As unidades podem se movimentar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]} após o primeiro {TXT_KEY_UNIT_GREAT_GENERAL} ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
+			<Text>Todas as cidades costeiras ganham um Ancoradouro gratuito. As unidades podem se movimentar sobre montanhas após o primeiro Grande General ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a montanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
 			<Text>Herança Fenícia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
-			<Text>Após pesquisar a Teologia, receba uma Grande Pessoa como bônus ao fim de cada ciclo do calendário Maia Conta Longa (a cada 394 anos). Cada Grande Pessoa deste bônus pode ser escolhida somente uma vez.</Text>
+			<Text>Após pesquisar a Teologia, receba uma Grande Personalidade como bônus ao fim de cada ciclo do calendário maia de Contagem Longa (a cada 394 anos). Cada Grande Personalidade deste bônus pode ser escolhida somente uma vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
-			<Text>A Conta Longa</Text>
+			<Text>A Contagem Longa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
 			<Text>Bônus de combate (+20%) quando está lutando contra civilizações com mais cidades que a Etiópia.</Text>

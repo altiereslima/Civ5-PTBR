@@ -71,7 +71,7 @@
             <Text>Rotas Comerciais:[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARAVAN">
-            <Text>Caravanaa {1_CivAdj[2]}</Text>
+            <Text>Caravana {1_CivAdj[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARGO_SHIP">
             <Text>Navio Cargueiro {1_CivAdj[2]}</Text>
@@ -161,7 +161,7 @@
             <Text>Unidade Comercial: {1_UnitName}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_RANGE">
-            <Text>Alcance: {1_Num} {1: plural 1?ladrilho; other?ladrilhos;}</Text>
+            <Text>Alcance: {1_Num} {1: plural 1?hexágono; other?hexágonos;}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GPT_YOU">
             <Text>Você: +{1_Num: number #} de [ICON_GOLD]Ouro por turno</Text>
@@ -173,7 +173,7 @@
             <Text>Ouro base: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_BUILDING">
-            <Text>Bônus de Ouro dos edifícios {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_CityName}: {2_Num}</Text>
+            <Text>Bônus de Ouro das edificações {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_CityName}: {2_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_POLICIES">
             <Text>Bônus das Políticas Sociais: {1_Num}</Text>
@@ -373,7 +373,7 @@
             <Text>Lista todas as rotas comerciais que outros criaram com suas cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_DOMAIN_TT">
-            <Text>Unidades comerciais podem estar ou em terra (com uma Caravanaa) ou nas águas (com um Navio Cargueiro).[NEWLINE][NEWLINE]Clique para ordenar pelo domínio das rotas comerciais.</Text>
+            <Text>Unidades comerciais podem estar ou em terra (com uma Caravana) ou nas águas (com um Navio Cargueiro).[NEWLINE][NEWLINE]Clique para ordenar pelo domínio das rotas comerciais.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_FROM_CIV_TT">
             <Text>Clique para ordenar por qual civilização a rota comercial está vindo.</Text>
@@ -454,7 +454,7 @@
             <Text>Achado Arqueológico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LEAD_IN">
-            <Text>Seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobriu...</Text>
+            <Text>Seu arqueologista descobriu...</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE1">
             <Text>RELÍQUIAS DE ATAQUE A DISTÂNCIA</Text>
@@ -505,22 +505,22 @@
 		  <Text>Criar Escrita {1_String}</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
-            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
+            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueologista será consumido.</Text>
         </Row>
-		<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
-			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
+	    <Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
+			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueólogo será consumido.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
-			<Text>Criar Melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
-			<Text>Quando trabalhado, o {TXT_KEY_IMPROVEMENT_LANDMARK} fornece [ICON_CULTURE]Cultura baseada na sua idade. +1 de [ICON_CULTURE]Cultura por Era anterior a atual Era da civilização. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
-		</Row>
+        <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
+            <Text>Criar Melhoria Ponto de Referência</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
+            <Text>Quando trabalhado, o Ponto de Referência fornece [ICON_CULTURE]Cultura baseada na sua idade. +1 de [ICON_CULTURE]Cultura por Era anterior a atual Era da civilização. O Arqueologista será consumido.</Text>
+        </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
-			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um {TXT_KEY_IMPROVEMENT_LANDMARK} no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
-			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um {TXT_KEY_IMPROVEMENT_LANDMARK} no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
 		  <Text>Iniciar Renascença Cultural</Text>
@@ -613,13 +613,13 @@
 		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+1 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]25% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_POPULAR">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 gradução acima em Cidades-Estados aliadas à civilização influenciada[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]50% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 graduação acima em Cidades-Estado aliadas à civilização influenciada[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]50% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_INFLUENTIAL">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 gradução acima nas cidades da civilização influenciada e nas Cidades-Estados aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]75% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 graduação acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]75% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_DOMINANT">
-		  <Text>Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 2 graduções acima nas cidades da civilização influenciada e nas Cidades-Estados aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]Não há tempo de agitação ou perda de população</Text>
+		  <Text>Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 2 graduações acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]Não há tempo de agitação ou perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_BONUS_CITY_STATE">
 		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Os espiões estão operando em {1_SpyBonus} {1_SpyBonus: plural 1?graduação; other?graduações;} acima do normal, já que esta Cidade-Estado é aliada a uma civilização sobre a qual você possui forte influência cultural.[ENDCOLOR]</Text>
@@ -637,7 +637,7 @@
             <Text>Produção de [ICON_TOURISM]Turismo ajustada</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_TREND_HEADER_TT">
-            <Text>Indicador Levantando-se ou Decadente[NEWLINE](e se Levantando-se, o popup exibe o número de turnos até ficar Influente)</Text>
+            <Text>Indicador Levantando-se ou Decadente[NEWLINE](e se Levantando-se, a janela emergente exibe o número de turnos até ficar Influente)</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENTIAL_TURNS_TT">
             <Text>Influente em {1_Num} {1: plural 1:turno; other?turnos;} (assumindo que a produção de Turismo permaneça inalterada)</Text>
@@ -673,16 +673,16 @@
             <Text>{1_Num} de [ICON_TOURISM]Turismo de Bônus de Museu e de Maravilha Temática</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_TILES">
-            <Text>{1_Num} de [ICON_TOURISM]Turismo de {2_Num}% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias</Text>
+            <Text>{1_Num} de [ICON_TOURISM]Turismo de {2_Num}% da [ICON_CULTURE]Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_FAITH_BUILDINGS">
-            <Text>{1_Num} de [ICON_TOURISM]Turismo de Edifícios construídos com [ICON_PEACE]Fé</Text>
+            <Text>{1_Num} de [ICON_TOURISM]Turismo de Edificações construídas com [ICON_PEACE]Fé</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGIOUS_ART">
             <Text>{1_Num} de [ICON_TOURISM]Turismo da Crença Arte Religiosa</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_TECH_ENHANCED">
-            <Text>{1_Num} de [ICON_TOURISM]Turismo de Edifícios</Text>
+            <Text>{1_Num} de [ICON_TOURISM]Turismo de Edificações</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGION_BONUS">
             <Text>+{1_Num}% de Bônus pela Religião Compartilhada com:[NEWLINE]</Text>
@@ -784,7 +784,7 @@
             <Text>[COLOR_NEGATIVE_TEXT]Onda Revolucionária[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_OVERVIEW">
-            <Text>A Opinião Pública de cada civilização é monitorada assim que o Império adota uma Idelogia e é calculada baseada na Influência exercida por uma civilização comparada com a Influência recebida de outras civilizações com uma Ideologia.[NEWLINE][NEWLINE]Se a pressão da Influência de outras Ideologias exceder a pressão da atual Ideologia, a Opinião Pública vai se distanciar de [COLOR_POSITIVE_TEXT]Contente[ENDCOLOR] e criar [ICON_HAPPINESS_4]Infelicidade. O resumo abaixo exibe um símbolo para cada unidade de pressão a uma Ideologia.[NEWLINE][NEWLINE]</Text>
+            <Text>A Opinião Pública de cada civilização é monitorada assim que o Império adota uma Ideologia e é calculada baseada na Influência exercida por uma civilização comparada com a Influência recebida de outras civilizações com uma Ideologia.[NEWLINE][NEWLINE]Se a pressão da Influência de outras Ideologias exceder a pressão da atual Ideologia, a Opinião Pública vai se distanciar de [COLOR_POSITIVE_TEXT]Contente[ENDCOLOR] e criar [ICON_HAPPINESS_4]Infelicidade. O resumo abaixo exibe um símbolo para cada unidade de pressão a uma Ideologia.[NEWLINE][NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_NOT_INFLUENCED">
             <Text>Não influenciado pela Ideologia de qualquer outra civilização.</Text>
@@ -829,7 +829,7 @@
             <Text>[ICON_HAPPINESS_1] GERAL</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_VICTORY_EXCESS_HAPPINESS_HEADER_TT">
-            <Text>Nível de [ICON_HAPPINESS_1]Felicidade Geral atual[NEWLINE][NEWLINE]Infelicidade da Opinião Pública está incluída neste total. Em -20 ou abaixo, a civilização começará a perder cidades para as revoltas e pode mudar para a Ideologia preferida pelo povo (você pode encontrar a preferência no popup da Opinião Pública).</Text>
+            <Text>Nível de [ICON_HAPPINESS_1]Felicidade Geral atual[NEWLINE][NEWLINE]Infelicidade da Opinião Pública está incluída neste total. Em -20 ou abaixo, a civilização começará a perder cidades para as revoltas e pode mudar para a Ideologia preferida pelo povo (você pode encontrar a preferência na janela emergente da Opinião Pública).</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_THIRD_PARTY_CULTURE_INFLUENCE">
             <Text>{1_Civ} {1: plural 2?são; other?é;} {2_Num: number #.#}% {1: plural 2?influentes; other?influente;} sobre {3_Civ}.</Text>
@@ -856,10 +856,10 @@
             <Text>Clique com botão esquerdo nos Grandes Obras para exibi-los.</Text>
         </Row>
         <Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
-            <Text>{TXT_KEY_RESOURCE_ARTIFACTS[2]} ainda não escavados: {1_Num}</Text>
+            <Text>Sítios Arqueológicos ainda não escavados: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_HIDDEN_SITES_TO_EXCAVATE">
-            <Text>{TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} ainda não escavados: {1_Num}</Text>
+            <Text>Locais Escondidos ainda não escavados: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE">
             <Text>Os Povos que Gostamos de Visitar</Text>
@@ -946,16 +946,16 @@
             <Text>Vazio (Musical)</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra de Arte. Grandes Obras de Arte só podem ser permutadas por outra Grande Obra de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra de Arte. Grandes Obras de Arte só podem ser permutadas por outra Grande Obra de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ARTIFACT_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por um Artefato. Artefatos só podem ser permutados por outro Artefato. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Artefato para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por um Artefato. Artefatos só podem ser permutados por outro Artefato. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Artefato para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Musical. Grandes Obras Musicais só podem ser permutadas por outra Grande Obra Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas Grandes Obras ou Artefatos que você você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Musical. Grandes Obras Musicais só podem ser permutadas por outra Grande Obra Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas Grandes Obras ou Artefatos que você você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_OTHERS_SLOT_EMPTY">
             <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} uma Grande Obra Literária que possa ser permutada.</Text>
@@ -1036,10 +1036,10 @@
             <Text>Espião</Text>
         </Row>       <!--Choose Goody Hut Reward Popup -->
         <Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_TITLE">
-            <Text>Escolha Bônus de {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
+            <Text>Escolha Bônus de Ruínas Antigas</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_DESCRIPTION">
-            <Text>Escolha Bônus de {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} da Lista</Text>
+            <Text>Escolha Bônus de Ruínas Antigas da Lista</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_TRADE">
             <Text>Conexões entre Cidades</Text>
@@ -1093,7 +1093,7 @@
             <Text>Turnos até a próxima proposta de Líder Mundial:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_NEEDED">
-            <Text>Delegados necessários para vencer uma proposta de Líder Mundial:</Text>
+            <Text>Delegados para ser Líder Mundial:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_CONTROLLED">
             <Text>Delegados que Você Controla:</Text>
@@ -1147,7 +1147,7 @@
             <Text>Cenário VP 4</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-            <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Pessoas".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Pessoa no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Pessoas através da construção de certos edifícios e maravilhas e, depois, desiginando a eles "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos ladrilhos da cidade, eles aceleraram muito a chegada de uma Grande Pessoa. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Pessoas é um desafio importante de gestão da cidade.</Text>
+            <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Personalidades".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Personalidade no jogo: Grandes Mercadores, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades através da construção de certas edificações e maravilhas e, depois, designando a elas "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos hexágonos da cidade, eles aceleraram muito a chegada de uma Grande Personalidade. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Personalidades é um desafio importante de gestão da cidade.</Text>
         </Row>       <!--New Declare War Screen -->
         <Row Tag="TXT_KEY_DECLARE_WAR_TOP">
             <Text>Tem certeza que deseja declarar guerra contra {1_CivName}?</Text>

@@ -9,21 +9,21 @@
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<!-- Resources -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM">
-			<Text>Aeterium|Aeteriuns</Text>
+			<Text>Éter|Éteres</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM">
 			<Text>Lubório|Lubórios</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<!-- Eras -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_5">
 			<Text>Era do Vapor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_6">
-			<Text>Era Aérea</Text>
+			<Text>Era dos Dirigíveis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_7">
 			<Text>Era Futura</Text>

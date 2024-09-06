@@ -58,7 +58,7 @@
             <Text>Nós recompensaremos o jogador que obtiver a maior quantidade de [ICON_PEACE]Fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL">
-            <Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]Fé.</Text>
+            <Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_WINNING_FORMAL">
             <Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL} Até agora, você lidera com [ICON_PEACE][COLOR_POSITIVE_TEXT]{1_PlayerScore}[ENDCOLOR].</Text>
@@ -397,16 +397,16 @@
             <Text>Sua agressão contra seus vizinhos mais fracos não passou despercebida. O valor base de [ICON_INFLUENCE]Influência diminuiu em [COLOR_NEGATIVE_TEXT]{1_InfluenceMinimum}[ENDCOLOR] sobre essas Cidades-Estado, tornando mais difícil manter amizade com elas:[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MAYA_LONG_COUNT">
-            <Text>BÔNUS DA CONTA LONGA MAIA</Text>
+            <Text>BÔNUS DA CONTAGEM LONGA MAIA</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MAYA_LONG_COUNT_TT">
-            <Text>O atual b'ak'tun do calendário Maia Conta Longa terminou. Escolha um bônus para celebrar esse marco na história dos Maias!</Text>
+            <Text>O atual b'ak'tun do calendário maia de Contagem Longa terminou. Escolha um bônus para celebrar esse marco na história dos Maias!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_FAITH_GREAT_PERSON">
-            <Text>GRANDE PESSOA DA FÉ!</Text>
+            <Text>GRANDE PERSONALIDADE DA FÉ!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_FAITH_GREAT_PERSON_TT">
-            <Text>Você acumulou Fé suficiente para obter uma Grande Pessoa de sua escolha!</Text>
+            <Text>Você acumulou Fé suficiente para obter uma Grande Personalidade de sua escolha!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_GREAT_ARTIST_STOLE_PLOT">
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 2?usaram; other?usou;} um Grande General para roubar parte do seu território!</Text>
@@ -466,19 +466,19 @@
             <Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Você prometeu proteção por pelo menos mais {1_TurnsRemaining} {1: plural 1?turno; other?turnos;} e não poderá cancelá-la até que este tempo passe.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BUYOUT">
-            <Text>Casamento Diplomático</Text>
+            <Text>Matrimônio diplomático</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BUYOUT_TT">
-            <Text>Você pode gastar {1_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um casamento diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.</Text>
+            <Text>Você pode gastar {1_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um matrimônio diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BUYOUT_DISABLED_TT">
-            <Text>Você pode gastar {2_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um casamento diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Vocês precisam ser aliados por {1_NumTurns} {1: plural 1?turno; other?turnos;} e você deve possuir {2_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado.[ENDCOLOR]</Text>
+            <Text>Você pode gastar {2_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um matrimônio diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Vocês precisam ser aliados por {1_NumTurns} {1: plural 1?turno; other?turnos;} e você deve possuir {2_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BUYOUT_DISABLED_ALLY_TT">
-            <Text>Você pode gastar {3_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um casamento diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Vocês precisam ser aliados por {1_NumTurns} {1: plural 1?turno; other?turnos;} ({2_TurnsAllied} {2: plural 1?turno; other?turnos;} até agora) e você deve possuir {3_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado.[ENDCOLOR]</Text>
+            <Text>Você pode gastar {3_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado por meio de um matrimônio diplomático, tornando-a parte do seu império, juntamente com todas as suas unidades. Isso não causará penalidades diplomáticas ou infelicidade pela conquista da Cidade-Estado. Entretanto, os bônus e Delegados no Congresso Nacional que você receberia pela amizade com esta Cidade-Estado serão perdidos.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Vocês precisam ser aliados por {1_NumTurns} {1: plural 1?turno; other?turnos;} ({2_TurnsAllied} {2: plural 1?turno; other?turnos;} até agora) e você deve possuir {3_BuyoutCost} de [ICON_GOLD]Ouro para adquirir esta Cidade-Estado.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_GIFT_TILE_IMPROVEMENT_HELP">
-            <Text>Construa um melhoramento neste hexágono para esta Cidade-Estado, dando a ela acesso ao recurso.</Text>
+            <Text>Construa uma melhoria neste hexágono para esta Cidade-Estado, dando a ela acesso ao recurso.</Text>
         </Row>
         <Row Tag="TXT_KEY_AFRAID">
             <Text>Com medo</Text>
@@ -539,13 +539,13 @@
             <Text>[COLOR_POSITIVE_TEXT]Estética[ENDCOLOR][NEWLINE]O valor base de [ICON_INFLUENCE]Influência sobre todas as Cidades-Estado é aumentado em 20.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para Impérios pequenos e focados. Em particular, fornece bônus para [ICON_GREAT_PEOPLE]Grandes Pessoas e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Pessoas aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE]Era Dourada aumentará em 50%.[NEWLINE][NEWLINE]Será possível comprar Grandes Artistas com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia ou Ordem.[ENCOLOR]</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para Impérios pequenos e focados. Em particular, fornece bônus para [ICON_GREAT_PEOPLE]Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE]Era Dourada aumentará em 50%.[NEWLINE][NEWLINE]Será possível comprar Grandes Artistas com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia ou Ordem.[ENCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR] é melhor para grandes e espalhadas civilizações, aumentando a força do Império com base na quantidade de cidades existentes.[NEWLINE][NEWLINE]Adotando Ordem, você irá aumentar a [ICON_HAPPINESS_1]Felicidade em +1 para cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Ordem, você receberá +2 de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção, [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura por cada cidade.[NEWLINE][NEWLINE]Será possível comprar Grandes Engenheiros com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Autocracia.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD]Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE]Cultura para cada ponto de [ICON_CULTURE]Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENCOLOR]</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD]Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE]Cultura para cada ponto de [ICON_CULTURE]Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e Grandes Almirantes com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Religião Organizada[ENDCOLOR][NEWLINE]+1 de [ICON_PEACE]Fé de Santuários e Templos.</Text>
@@ -560,22 +560,22 @@
             <Text>[COLOR_POSITIVE_TEXT]Protecionismo[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1]Felicidade de cada recurso de luxo.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCANTILISM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Mercantilismo[ENDCOLOR][NEWLINE]A compra de itens em cidades requer 25% menos [ICON_GOLD]Ouro. +1 de [ICON_RESEARCH]Ciência de cada edifício Casa da Moeda, Mercado, Banco e Bolsa de Valores.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Mercantilismo[ENDCOLOR][NEWLINE]A compra de itens em cidades requer 25% menos [ICON_GOLD]Ouro. +1 de [ICON_RESEARCH]Ciência por cada edificação Casa da Moeda, Mercado, Banco e Bolsa de Valores.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_TOTAL_WAR_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Guerra Total[ENDCOLOR][NEWLINE]+25% de [ICON_PRODUCTION]Produção quando estiver produzindo unidades militares e novas unidades militares começam com +15 de experiência.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção [ICON_RESEARCH]Científica da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_COMMUNISM}[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Comunismo[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada Mina ou Pedreira.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FASCISM_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Fascismo[ENDCOLOR][NEWLINE]A quantidade de recursos estratégicos produzidos pelo Império aumenta em 100%. Todos os Grandes Generais recebem de +2 [ICON_MOVES]Pontos de Movimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_SOVEREIGNTY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Soberania[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro de cada edifício [ICON_RESEARCH]Científico.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Soberania[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro por cada edificação [ICON_RESEARCH]Científica.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Revolução Científica[ENDCOLOR][NEWLINE]Aumenta o ganho de [ICON_RESEARCH]Ciência de Acordos de Pesquisas em 50%.</Text>
@@ -584,7 +584,7 @@
             <Text>[ICON_FOOD]Alimento, [ICON_CULTURE]Cultura e [ICON_PEACE]Fé de Cidades-Estado amigas aumentam em 50%.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
-            <Text>Todas as unidades navais de ataque corpo a corpo possuem a promoção Embarcação Premiada, que lhes permite capturar embarcações derrotadas. A manutenção de unidades navais é reduzida para um terço do valor normal.</Text>
+            <Text>Todas as unidades navais de ataque corpo a corpo possuem a promoção Conquista Embarcações, que lhes permite capturar embarcações derrotadas. A manutenção de unidades navais é reduzida para um terço do valor normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT">
             <Text>+2 de [ICON_MOVES]Pontos de Movimento para todas as unidades navais. Um espião extra é concedido.</Text>
@@ -593,7 +593,7 @@
             <Text>Aumentará a quantidade de [ICON_CULTURE]Cultura fornecida por este hexágono, aumentando nossas fronteiras e nos permitindo obter mais políticas sociais.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_FOUND_RELIGION_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e resultará na criação de uma nova religião.</Text>
+            <Text>Esta ordem consumirá a Grande Personalidade e resultará na criação de uma nova religião.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_FOUND_RELIGION_DISABLED_HELP">
             <Text>A unidade precisa estar em uma de suas cidades.</Text>
@@ -620,13 +620,13 @@
             <Text>A unidade precisa estar dentro ou adjacente a uma cidade amiga.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ENHANCE_RELIGION_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e lhe permitirá adicionar duas novas crenças a sua religião. Você também terá a opção de comprar Inquisidores para defender sua religião.</Text>
+            <Text>Esta ordem consumirá a Grande Personalidade e lhe permitirá adicionar duas novas crenças a sua religião. Você também terá a opção de comprar Inquisidores para defender sua religião.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ENHANCE_RELIGION_DISABLED_HELP">
             <Text>A unidade precisa estar dentro da cidade santa desta religião.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_REPAIR_FLEET_HELP">
-            <Text>Esta ordem consumirá o {TXT_KEY_UNIT_GREAT_ADMIRAL} e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
+            <Text>Esta ordem consumirá o Grande Almirante e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
             <Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION]Produção, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
@@ -668,7 +668,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Você os perdoou pela espionagem.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_HOLY_SITE">
-            <Text>Construir um {TXT_KEY_IMPROVEMENT_HOLY_SITE}</Text>
+            <Text>Construir um Local Sagrado</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_HOLY_SITE_HELP">
             <Text>A unidade será consumida.[NEWLINE][NEWLINE]Grandes Melhorias conectarão recursos estratégicos deste hexágono à rota comercial.</Text>
@@ -767,7 +767,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+15% de [ICON_STRENGTH]Força de Combate para unidades de combate corpo a corpo que possuírem outra unidade militar no hexágono adjacente.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-            <Text>+100% [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo a uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe 30 de dano (o dano não acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}). Ao construir a {TXT_KEY_IMPROVEMENT_CITADEL} você expandirá suas fronteiras culturais ao redor da construção e consumirá esta unidade. Se a nova fronteira cultural reivindicar hexágonos pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
+            <Text>+100% [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo a uma Cidadela recebe 30 de dano (o dano não acumula com outras Cidadelas). Ao construir a Cidadela você expandirá suas fronteiras culturais ao redor da construção e consumirá esta unidade. Se a nova fronteira cultural reivindicar hexágonos pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE_BROKEN_WITH_OTHERS">
             <Text>[COLOR_NEGATIVE_TEXT]Você fez uma promessa para mover suas tropas para longe das fronteiras de outras civilizações e não cumpriu![ENDCOLOR]</Text>

@@ -18,7 +18,7 @@
 			<Text>Cairo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ALEPPO">
-			<Text>Aleppo</Text>
+			<Text>Alepo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_URGENCH">
 			<Text>Urgench</Text>
@@ -48,7 +48,7 @@
 			<Text>Dazaifu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_BEIJING">
-			<Text>Pequin</Text>
+			<Text>Pequim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_KAIFENG">
 			<Text>Kaifeng</Text>

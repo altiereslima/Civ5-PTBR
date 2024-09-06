@@ -149,7 +149,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_8">
-			<Text>Continue.</Text>
+			<Text>Continuar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LOSEWAR_1">
 			<Text>Tolo, tolo - permitindo-me viver. Você sempre deve destruir os galhos, tronco e raiz dos seus inimigos.</Text>
@@ -224,13 +224,13 @@
 			<Text>Vou lhe dar mil cantoras concubinas no outro mundo, mas neste mundo você não ganha nada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_NEUTRAL">
-			<Text>Tolo chacal! Você faria bem em ir para o Egito, onde você é adorado. Aqui você não ganha nada.</Text>
+			<Text>Tolo chacal! Faria bem pra você em ir para o Egito, onde pessoas como você são adoradas. Aqui, você não vai conseguir nada.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_ANGRY">
 			<Text>Seu hálito fétido sufoca a minha vida. Pegue o que você deseja e desapareça.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_HAPPY">
-			<Text>Aqui. Eu não sou nada, além do pesadelo de um deus louco - são boas essas coisas para mim?</Text>
+			<Text>Aqui. Eu não sou nada, além do pesadelo de um deus louco; são boas essas coisas para mim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_NEUTRAL">
 			<Text>Concordo - se apenas para confundir meus conselheiros, que desejam me recusar.</Text>
@@ -248,7 +248,7 @@
 			<Text>Da próxima vez não serei tão educado.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WINWAR_1">
-			<Text> Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
+			<Text>Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

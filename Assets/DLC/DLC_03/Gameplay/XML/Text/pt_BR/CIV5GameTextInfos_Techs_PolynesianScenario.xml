@@ -6,27 +6,27 @@
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
             <Text>Hidrocultura</Text>
             <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>						            
+			<Plurality>1</Plurality>            
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING">
             <Text>Escultura Ornamental</Text>
             <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>						                        
+			<Plurality>1</Plurality>                        
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO">
             <Text>Tatuagem</Text>
             <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>						                        
+			<Plurality>1</Plurality>                        
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE">
             <Text>Dança Cerimonial</Text>
             <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>						                        
+			<Plurality>1</Plurality>                        
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING">
             <Text>Orientação</Text>
             <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>						                        
+			<Plurality>1</Plurality>                        
         </Row>
     </Language_pt_BR>
 </GameData>

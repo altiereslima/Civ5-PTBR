@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-    <Language_pt_BR>
+	<Language_pt_BR>
         <Row Tag="TXT_KEY_CHOOSE_MAP_SIZE">
             <Text>Escolha o tamanho do mapa</Text>
         </Row>
@@ -65,7 +65,7 @@
             <Text>Aleatório</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_ADV_SETUP">
-            <Text>Configurações avançadas.</Text>
+            <Text>Config. avançada.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_START_GAME">
             <Text>Inicie o Jogo.</Text>
@@ -105,13 +105,13 @@
             <Text>Planaltos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_HIGHLANDS_HELP">
-            <Text>Uma grande região dominada por {TXT_KEY_TERRAIN_HILL[2]} e cordilheiras.</Text>
+            <Text>Uma grande região dominada por colinas e cordilheiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_ARBOREA">
             <Text>Arborizado</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_ARBOREA_HELP">
-            <Text>Um mundo quase todo coberto por {TXT_KEY_FEATURE_FOREST}.</Text>
+            <Text>Um mundo quase todo coberto por floresta.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_BIG_AND_SMALL">
             <Text>Grande e pequeno</Text>
@@ -123,7 +123,7 @@
             <Text>Boreal</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_BOREAL_HELP">
-            <Text>Uma grande região com {TXT_KEY_TERRAIN_TUNDRA} e arborização.</Text>
+            <Text>Uma grande região com tundra e arborização.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_CUSTOM_CONTINENTS">
             <Text>Continentes personalizados</Text>
@@ -141,13 +141,13 @@
             <Text>Reino da fantasia</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_FANTASY_HELP">
-            <Text>Um pequeno mundo com {TXT_KEY_TERRAIN_OCEAN[2]}. Clima e recursos que parecem desafiar as leis da física e do tempo.</Text>
+            <Text>Um pequeno mundo com oceanos. Clima e recursos que parecem desafiar as leis da física e do tempo.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS">
             <Text>Planalto global</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS_HELP">
-            <Text>Um mundo muito grande, dominado por {TXT_KEY_TERRAIN_HILL[2]} e cordilheiras.</Text>
+            <Text>Um mundo muito grande, dominado por colinas e cordilheiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GREAT_PLAINS">
             <Text>Grandes Planícies</Text>
@@ -183,7 +183,7 @@
             <Text>Lagos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_LAKES_HELP">
-            <Text>Um mundo sem {TXT_KEY_TERRAIN_OCEAN[2]}, somente pequenos lagos.</Text>
+            <Text>Um mundo sem oceanos, somente pequenos lagos.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_LARGE_ISLANDS">
             <Text>Grandes Ilhas</Text>
@@ -222,10 +222,10 @@
             <Text>Uma Pangeia em forma oval com baías aleatórias esculpidas nos lados.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RAINFOREST">
-            <Text>{TXT_KEY_FEATURE_FOREST}</Text>
+            <Text>Floresta</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RAINFOREST_HELP">
-            <Text>Um mundo quase que totalmente tomado por uma {TXT_KEY_FEATURE_FOREST}.</Text>
+            <Text>Um mundo quase que totalmente tomado por uma floresta.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RING">
             <Text>Anel</Text>
@@ -369,7 +369,7 @@
             <Text>Quente</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_RAINFALL">
-            <Text>Nível de Chuva</Text>
+            <Text>Nível de chuva</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_ARID">
             <Text>Árido</Text>
@@ -456,7 +456,7 @@
             <Text>Irracional</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_IRRATIONAL_HELP">
-            <Text>Os recursos serão colocados em locais irracionais, como banana na {TXT_KEY_TERRAIN_SNOW}.</Text>
+            <Text>Os recursos serão colocados em locais irracionais, como banana na neve.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_CRAZY">
             <Text>Louco</Text>
@@ -480,7 +480,7 @@
             <Text>Cordilheiras em estilo fractal: pequenas, numerosas e bem distribuídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_RANGES">
-            <Text>Intervalos</Text>
+            <Text>Cordilheiras</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_RANGES_HELP">
             <Text>Cordilheiras em estilo fractal: médias, serpenteadas e altamente aleatórias.</Text>
@@ -516,10 +516,10 @@
             <Text>Grandes lagos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP">
-            <Text>Lagos extensos e alguns {TXT_KEY_TERRAIN_OCEAN} aparecerão.</Text>
+            <Text>Lagos extensos e alguns oceanos aparecerão.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_SEAS">
-            <Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
+            <Text>Oceanos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_SEAS_HELP">
             <Text>A maioria dos corpos de água serão mares salgados de dimensão modesta, aleatórios em forma.</Text>
@@ -651,7 +651,7 @@
             <Text>Começam em qualquer lugar</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_WITHOUT_OCEANS">
-            <Text>Sem {TXT_KEY_TERRAIN_OCEAN[2]}</Text>
+            <Text>Sem oceanos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_ARCHIPELAGO">
             <Text>Arquipélago</Text>
@@ -723,25 +723,25 @@
             <Text>Região central</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_HILLS">
-            <Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
+            <Text>Encostas</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_MOUNTAINS">
-            <Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
+            <Text>Montanhas</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_DESERT">
-            <Text>{TXT_KEY_TERRAIN_DESERT}</Text>
+            <Text>Deserto</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_OCEAN">
-            <Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
+            <Text>Oceano</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_STANDARD">
             <Text>Padrão</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_JUNGLE">
-            <Text>{TXT_KEY_FEATURE_FOREST}</Text>
+            <Text>Floresta</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_NO_JUNGLES">
-            <Text>Sem {TXT_KEY_FEATURE_FOREST[2]}</Text>
+            <Text>Sem florestas</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_WORLD_WRAP">
             <Text>Contorno do mundo</Text>
@@ -844,10 +844,10 @@
             <Text>Multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_AUTOSAVES">
-            <Text>Autosaves</Text>
+            <Text>Salvamentos automáticos</Text>
         </Row>
         <Row Tag="TXT_KEY_STEAMCLOUD">
-            <Text>Repositório Steam</Text>
+            <Text>Nuvem Steam</Text>
         </Row>
         <Row Tag="TXT_KEY_STEAM_EMPTY_SAVE">
             <Text>Espaço para jogo salvo</Text>
@@ -856,13 +856,13 @@
             <Text>{1_SaveNumber}. {2_SaveName}</Text>
         </Row>
         <Row Tag="TXT_KEY_NAME_CIV_TITLE">
-            <Text>Nomeie sua Civilização!</Text>
+            <Text>Dê um nome à sua civilização!</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_TYPE_TITLE">
-            <Text>Escolha o tipo de mapa</Text>
+            <Text>Selecionar tipo de mapa</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_TITLE">
-            <Text>Escolha o mapa tipo Mod</Text>
+            <Text>Selecionar mapa modificado</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_SIZE_FORMAT">
             <Text>Tamanho do mapa: {1_string}</Text>
@@ -895,7 +895,7 @@
             <Text>Nome do líder</Text>
         </Row>
         <Row Tag="TXT_KEY_PGSCREEN_CIVNAME">
-            <Text>Nome da Civilização</Text>
+            <Text>Nome da civilização</Text>
         </Row>
         <Row Tag="TXT_KEY_PGSCREEN_DIPLOSTATUS">
             <Text>Status da diplomacia</Text>
@@ -964,14 +964,14 @@
             <Text>Espaço para a descrição do título</Text>
         </Row>
         <Row Tag="TXT_KEY_SOMEONE_STILL_LOADING">
-            <Text>ALGUÉM ainda está carregando...</Text>
+            <Text>Algo ainda está carregando...</Text>
         </Row>
         <!-- Advanced Setup Screen Buttons and Headers-->
         <Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER">
-            <Text>Remover ID</Text>
+            <Text>Remover IA</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER_TT">
-            <Text>Remover o ID desse jogador.</Text>
+            <Text>Remova esse jogador de IA.</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_GAME_OPTIONS">
             <Text>Opções de jogo</Text>
@@ -986,7 +986,7 @@
             <Text>Reiniciar</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_ADD_DEFAULT_TT">
-            <Text>Resetar as opções para o padrão</Text>
+            <Text>Restaurar opções padrões</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_RAGING_BARBARIANS">
             <Text>Bárbaros raivosos</Text>
@@ -1004,7 +1004,7 @@
             <Text>Adicionar jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_ADD_AI_PLAYER_TT">
-            <Text>Adicionar um ID de jogador.</Text>
+            <Text>Adiciona um jogador de IA.</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_GAME_SPEED">
             <Text>Ritmo do jogo</Text>
@@ -1049,7 +1049,7 @@
             <Text>Era do jogo</Text>
         </Row>
 		<Row Tag="TXT_KEY_AD_SETUP_GAME_TURN_MODE">
-		  <Text>Modo de Turnos</Text>
+		  <Text>Modo de turnos</Text>
 		</Row>		
         <Row Tag="TXT_KEY_AD_SETUP_HANDICAP">
             <Text>Dificuldade</Text>
@@ -1058,13 +1058,13 @@
             <Text>Nível de dificuldade: {1_handicap}</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_CITY_STATES">
-            <Text>Cidades-Estado: {1_number}</Text>
+            <Text>Cidades-estado: {1_number}</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS">
-            <Text>Até Turno</Text>
+            <Text>Máximo turnos</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_MAP_DESC_FORMAT">
-            <Text>{1_description} [NEWLINE] Num Civs: {2_civs}      Máximo de turnos: {3_num}      Era inicial: {4_era}</Text>
+            <Text>{1_description} [NEWLINE] Civ.: {2_civs}  Turnos: {3_num}      Era: {4_era}</Text>
         </Row>
         <Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS_TT">
             <Text>O jogo acabará quando o máximo de turnos for atingido.</Text>
@@ -1128,13 +1128,13 @@
             <Text>Membros</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_LOBBY">
-            <Text>JOGOS DE INTERNET</Text>
+            <Text>JOGOS NA INTERNET</Text>
         </Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>JOGOS PITBOSS</Text>
+			<Text>JOGOS POR PITBOSS</Text>
 		</Row>		
         <Row Tag="TXT_KEY_MOD_INTERNET_LOBBY">
-            <Text>MOD DE JOGOS INTERNET</Text>
+            <Text>JOGOS NA INTERNET COM "MODS"</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_REFRESH_GAME_LIST">
             <Text>Atualizar</Text>
@@ -1143,13 +1143,13 @@
 		  <Text>Recuperar a última lista de informações de jogos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
-			<Text>Parar Atualização</Text>
+			<Text>Parar atualização</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
 			<Text>Parar a recuperação da lista de informações de jogos.</Text>
 		</Row>		
     <Row Tag="TXT_KEY_MULTIPLAYER_CONNECT_TO_IP">
-      <Text>Conectar ao Endereço IP</Text>
+      <Text>Conectar ao endereço IP</Text>
     </Row>
     <Row Tag="TXT_KEY_MULTIPLAYER_CONNECT_TO_IP_TT">
       <Text>Conectar a um jogo pitboss em um endereço IP público específico.</Text>
@@ -1164,22 +1164,22 @@
 			<Text>É agora o anfitrião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KICKED">
-		  <Text>Foi Expulso</Text>
+		  <Text>Foi expulso</Text>
 		</Row>		
         <Row Tag="TXT_KEY_MULTIPLAYER_JOIN_GAME">
             <Text>Entrar no jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_LAN_LOBBY">
-            <Text>JOGOS LOCAIS DE REDE</Text>
+            <Text>JOGOS EM REDE LOCAL</Text>
         </Row>
         <Row Tag="TXT_KEY_MOD_LAN_LOBBY">
-            <Text>MOD DE JOGOS LOCAIS DE REDE</Text>
+            <Text>JOGOS EM REDE LOCAL COM "MODS"</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_SELECT_MULTIPLAYER_TYPE">
             <Text>Multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_MODS_SELECT_MULTIPLAYER_TYPE">
-            <Text>Mods - Multijogador</Text>
+            <Text>Mods - multijogador</Text>
         </Row>
     <Row Tag="TXT_KEY_MULTIPLAYER_STANDARD_GAME">
       <Text>Padrão</Text>
@@ -1203,10 +1203,10 @@
             <Text>Reconectar ao último jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_GAME_SETUP_HEADER">
-            <Text>CONFIGURAÇÕES DE JOGO MULTIPLAYER</Text>
+            <Text>CONFIGURAR PARTIDA MULTIJOGADOR</Text>
         </Row>
         <Row Tag="TXT_KEY_MOD_MP_GAME_SETUP_HEADER">
-            <Text>CONFIGURAÇÕES DE MOD MULTIPLAYER</Text>
+            <Text>CONFIGURAR PARTIDA MULTIJOGADOR COM "MODS"</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_BROWSE_GAMES">
             <Text>Procurar jogos</Text>
@@ -1236,7 +1236,7 @@
             <Text>Começar cenário</Text>
         </Row>
         <Row Tag="TXT_KEY_HOST_SCENARIO">
-            <Text>Cenário do Anfitrião</Text>
+            <Text>Hospedar cenário</Text>
         </Row>
         <Row Tag="TXT_KEY_FIND_SCENARIO">
             <Text>Cenário encontrado</Text>
@@ -1266,7 +1266,7 @@
             <Text>Equipe {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_AI_NICKNAME">
-            <Text>ID</Text>
+            <Text>IA</Text>
         </Row>
         <Row Tag="TXT_KEY_WAITING_FOR_INVITE_RESPONSE">
             <Text>Esperando por {1_player}</Text>
@@ -1278,49 +1278,49 @@
             <Text>Retomar último jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM">
-            <Text>Sala de preparação</Text>
+            <Text>Sala de comunicações</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_LAUNCH_GAME">
             <Text>Iniciar jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_READY_CHECK">
-            <Text>Status pronto</Text>
+            <Text>Status: pronto</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_KICK_PLAYER">
             <Text>Banir jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_LOCK_SLOT">
-            <Text>Trancar ID do jogador</Text>
+            <Text>Bloquear jogador de IA</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_UNLOCK_SLOT">
-            <Text>Destrancar ID do jogador</Text>
+            <Text>Desbloquear jogador de IA</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_DISABLE_SLOT">
-            <Text>Desabilitar slot</Text>
+            <Text>Desativar espaço</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_ENABLE_SLOT">
-            <Text>Habilitar slot</Text>
+            <Text>Ativar espaço</Text>
         </Row>
     <Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
-      <Text>Troque com o slot deste jogador.</Text>
+      <Text>Troque com o espaço deste jogador.</Text>
     </Row>		
         <Row Tag="TXT_KEY_MULTIPLAYER_TO_ALL">
             <Text>Para todos:</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_SELECT_SAVED_GAME">
-            <Text>Selecione o jogo SALVO</Text>
+            <Text>Selecionar jogo salvo</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_AUTOSAVES">
-            <Text>Autosaves</Text>
+            <Text>Salvamentos automáticos</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_CANCEL_LOAD_TT">
-            <Text>Cancelar carregamento de jogo Multiplayer.</Text>
+            <Text>Cancela o carregamento de um jogo salvo multijogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_DESC">
             <Text>Escolha o tipo de jogo que você deseja jogar e o sistema irá combiná-lo com jogadores que procuram pelo mesmo tipo de jogo. Utilize esta opção para hospedar um jogo onde você pode convidar seus amigos para o jogo e não ser acompanhado de jogadores aleatórios (Hospedar jogo privado)</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN">
-            <Text>Hospedar um Jogo em REDE</Text>
+            <Text>Hospedar um jogo em REDE</Text>
         </Row>
         <Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN_DESC">
             <Text>Selecione as opções de jogo e em seguida hospede o jogo. Isso criará um jogo onde os jogadores de sua REDE visualizarão a sala de espera e estarão aptos a participar.</Text>
@@ -1342,13 +1342,13 @@
 		  <Text>Líder não disponível, pois alguns jogadores não possuem o pacote DLC '{1_string}'.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_MAP_SKIRMISH">
-			<Text>Skirmish</Text>
+			<Text>Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SKIRMISH_HELP">
 			<Text>Um mapa balanceado, destinado a 2 jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ANCIENT_LAKES">
-			<Text>Lagos Antigos</Text>
+			<Text>Lagos antigos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ANCIENT_LAKES_HELP">
 			<Text>Um região terrestre contendo um grande lago no centro.</Text>
@@ -1360,13 +1360,13 @@
 			<Text>Voltar à pasta superior.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL">
-			<Text>Mapas Adicionais</Text>
+			<Text>Mapas adicionais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL_HELP">
 			<Text>Mapas adicionais disponíveis ao jogo.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_MAP_OPTION_WATER_SETTING">
-			<Text>Configurações da Água</Text>
+			<Text>Configurações da água</Text>
 		</Row>		 
 		<Row Tag="TXT_KEY_MAP_OPTION_RIVERS">
 			<Text>Rios</Text>
@@ -1411,49 +1411,49 @@
 			<Text>Balanceado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS">
-			<Text>{TXT_KEY_TERRAIN_GRASS[2]}</Text>
+			<Text>Pradarias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS_HELP">
-			<Text>Algumas {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_FEATURE_FOREST[2]} espalhadas por uma vasta {TXT_KEY_TERRAIN_GRASS}.</Text>
+			<Text>Algumas colinas e florestas espalhadas por uma vasta pradaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS">
-			<Text>{TXT_KEY_TERRAIN_PLAINS[2]}</Text>
+			<Text>Planícies</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP">
-			<Text>Pequenas porções de terreno misto espalhadas por uma vasta {TXT_KEY_TERRAIN_PLAINS}.</Text>
+			<Text>Pequenas porções de terreno misto espalhadas por uma vasta planície.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST">
-			<Text>{TXT_KEY_FEATURE_FOREST}</Text>
+			<Text>Floresta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST_HELP">
-			<Text>Uma magnífica {TXT_KEY_FEATURE_FOREST} com {TXT_KEY_TERRAIN_GRASS[2]} espalhadas.</Text>
+			<Text>Uma magnífica floresta com pradarias espalhadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE">
-			<Text>{TXT_KEY_FEATURE_JUNGLE}</Text>
+			<Text>Selva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP">
-			<Text>Uma enorme {TXT_KEY_FEATURE_JUNGLE} com algumas {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_FEATURE_FOREST[2]} espalhadas.</Text>
+			<Text>Uma enorme selva com algumas colinas e florestas espalhadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT">
-			<Text>{TXT_KEY_TERRAIN_DESERT}</Text>
+			<Text>Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT_HELP">
-			<Text>Um vasto {TXT_KEY_TERRAIN_DESERT} com algumas {TXT_KEY_TERRAIN_HILL[2]} espalhadas! As configurações de água terão grande efeito.</Text>
+			<Text>Um vasto deserto com algumas colinas espalhadas! As configurações de água terão grande efeito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA">
-			<Text>{TXT_KEY_TERRAIN_TUNDRA}</Text>
+			<Text>Tundra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP">
 			<Text>Uma área gelada com pequenas porções de terra mais fértil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS">
-			<Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
+			<Text>Colinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS_HELP">
-			<Text>Enorme região montanhosa com alguns vales espalhados.</Text>
+			<Text>Enorme região montanhosa com algumas pradarias espalhadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE">
-			<Text>Clima Global</Text>
+			<Text>Clima global</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE_HELP">
 			<Text>Um clima padrão, como se o mapa representasse o mundo inteiro.</Text>
@@ -1499,41 +1499,41 @@
 		</Row>
 		<!-- MAP SCIPT TEXT -->		
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS">
-			<Text>Continentes Avançados</Text>
+			<Text>Continentes Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS_HELP">
-			<Text>Similar a Continentes, mas com cadeias de ilhas e locais para cidades expandidos.</Text>
+			<Text>Semelhante à Continentes, mas com programação estendida para cadeias de ilhas e cidades-estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS">
-			<Text>Pangaea Avançada</Text>
+			<Text>Pangeia Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS_HELP">
-			<Text>Similiar à Pangaea, mas com cadeias de ilhas e locais para cidades expandidos.</Text>
+			<Text>Semelhante à Pangeia, mas com programação estendida para cadeias de ilhas e a localização de cidades-estado..</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SANDSTORM">
-			<Text>Tempestade de Areia</Text>
+			<Text>Tempestade de areia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SANDSTORM_HELP">
-			<Text>Um mundo severo, composto principalmente de {TXT_KEY_TERRAIN_DESERT[2]} com pequenas porções de {TXT_KEY_TERRAIN_PLAINS[2]} e {TXT_KEY_TERRAIN_GRASS[2]}.</Text>
+			<Text>Um mundo severo, composto principalmente de desertos com pequenas porções de planícies e pradarias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LATEST_NEWS">
 			<Text>ÚLTIMAS NOTÍCIAS</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_LATEST_NEWS_TT">
-			<Text>Leia as Últimas Notícias (Requer uma conexão ativa com a Internet).</Text>
+			<Text>Leia as últimas notícias (Requer uma conexão ativa com a Internet).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_PLAYER_COUNT">
 			<Text>Jogadores: {1_PlayerCount}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_START_ERA">
-			<Text>Era de Início: {@1_Era}</Text>
+			<Text>Era inicial: {@1_Era}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS_1">
-			<Text>Máximo de Turnos: {1_NumTurns}</Text>
+			<Text>Turnos máximos: {1_NumTurns}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOTSEAT_GAME">
-			<Text>Jogue e Levante</Text>
+			<Text>De um em um ("hotseat")</Text>
 		</Row>
     <Row Tag="TXT_KEY_MULTIPLAYER_HOTSEAT_GAME_TT">
       <Text>Jogar modo multijogador onde os jogadores realizam ações alternadamente neste computador.</Text>
@@ -1548,7 +1548,7 @@
 			<Text>Apelido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_USE_PASSWORD">
-			<Text>Usar Senha</Text>
+			<Text>Usar senha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_USE_PASSWORD_TT">
 			<Text>Usar uma senha para iniciar o turno do jogador</Text>
@@ -1570,7 +1570,7 @@
 			<Text>SELECIONAR REPLAY</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LOAD_REPLAY_MENU_SELECT_REPLAY">
-			<Text>Selecionar Replay</Text>
+			<Text>Selecionar replay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LOAD_REPLAY_MENU_PLEASE_SELECT_REPLAY">
 			<Text>Por favor, selecione um arquivo de replay.</Text>
@@ -1582,10 +1582,10 @@
 			<Text>NENHUM REPLAY DISPONÍVEL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SORTBY_NAME">
-			<Text>Ordenar Por Nome</Text>
+			<Text>Classificar por nome</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SORTBY_LASTMODIFIED">
-			<Text>Ordenar Por Modificação</Text>
+			<Text>Classificar por data</Text>
 		</Row>
 		<!-- 383 -->
 		<Row Tag="TXT_KEY_MULTIPLAYER_INVITE">
@@ -1630,10 +1630,10 @@
 			<Text>DLC requerido:</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_MULTIPLAYER_PRIVATE_GAME">
-		  <Text>Jogo Privado</Text>
+		  <Text>Jogo privado</Text>
 		</Row>		
     <Row Tag="TXT_KEY_GAME_IN_PROGRESS">
-      <Text>Jogo em Andamento</Text>
+      <Text>Jogo em andamento</Text>
     </Row>
     <Row Tag="TXT_KEY_JOINING_GAME_IN_PROGRESS">
       <Text>Entrando no jogo em andamento</Text>
@@ -1660,37 +1660,37 @@
 			<Text>Servidor {1_Num}</Text>
 		</Row>	
     <Row Tag="TXT_KEY_MULTIPLAYER_DEDICATED_SERVER_ROOM">
-      <Text>Sala do Servidor Dedicado</Text>
+      <Text>Sala de servidor dedicado</Text>
     </Row>		
 		<Row Tag="TXT_KEY_SLOTTYPE_OPEN">
 			<Text>Aberto</Text>
 		</Row>
     <Row Tag="TXT_KEY_SLOTTYPE_OPEN_TT">
-      <Text>Slots abertos podem ser ocupados por jogadores.</Text>
+      <Text>Os jogadores que entrarem ocuparão os espaços abertos.</Text>
     </Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_HUMANREQ">
-			<Text>Humano Requerido</Text>
+			<Text>Jogador</Text>
 		</Row>
     <Row Tag="TXT_KEY_SLOTTYPE_HUMANREQ_TT">
-      <Text>Slots 'Humano Requerido' exigem um jogador humano para o jogo começar.</Text>
+      <Text>Os espaços de "Jogador" devem ser ocupados por jogadores humanos para que o jogo comece.</Text>
     </Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_AI">
 			<Text>IA</Text>
 		</Row>
     <Row Tag="TXT_KEY_SLOTTYPE_AI_TT">
-      <Text>Jogador IA</Text>
+      <Text>Jogador de IA</Text>
     </Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_OBSERVER">
 			<Text>Observador</Text>
 		</Row>
     <Row Tag="TXT_KEY_SLOTTYPE_OBSERVER_TT">
-      <Text>Observadores vêem o jogo sem participar como civilizações.</Text>
+      <Text>Observadores veem o jogo sem participar como civilizações.</Text>
     </Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_CLOSED">
 			<Text>Fechado</Text>
 		</Row>
     <Row Tag="TXT_KEY_SLOTTYPE_CLOSED_TT">
-      <Text>Slots fechados não podem ser usados por jogadores.</Text>
+      <Text>Espaços fechados que os jogadores não têm permissão para usar.</Text>
     </Row>
     <Row Tag="TXT_KEY_SLOTTYPE_HUMAN_TT">
       <Text>Jogador Humano</Text>
@@ -1732,41 +1732,41 @@
 			<Text>Salas de Espera: Internet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_LOBBIES_INTERNET_TT">
-			<Text>Salas de Espera Steam na Internet.</Text>
+			<Text>Salas da Steam na Internet.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_INTERNET">
 			<Text>Servidores: Internet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_INTERNET_TT">
-			<Text>Servidores Steam Dedicados na Internet.</Text>
+			<Text>Servidores dedicados da Steam na Internet.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_LAN">
 			<Text>Servidores: Rede Local</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_LAN_TT">
-			<Text>Servidores Steam Dedicados na rede local.</Text>
+			<Text>Servidores dedicados da Steam na rede local.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_FRIENDS">
 			<Text>Servidores: Amigos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_FRIENDS_TT">
-			<Text>Servidores Steam Dedicados hospedados por amigos na Internet.</Text>
+			<Text>Servidores dedicados da Steam hospedados por amigos na Internet.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_FAVORITES">
 			<Text>Servidores: Favoritos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_FAVORITES_TT">
-			<Text>Servidores Steam Dedicados marcados como Favoritos.</Text>
+			<Text>Servidores dedicados da Steam marcados como Favoritos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_HISTORY">
 			<Text>Servidores: Histórico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_HISTORY_TT">
-			<Text>Servidores Steam Dedicados em que você jogou recentemente.</Text>
+			<Text>Servidores dedicados da Steam em que você jogou recentemente.</Text>
 		</Row>
 		<!-- Leaderboard Screen -->
 		<Row Tag="TXT_KEY_LB_REQUESTINGSCORES" >
-			<Text>Recuperando Placar...</Text>
+			<Text>Recuperando pontuações de placar...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LB_NOTSUPPORTEDBYMOD" >
 			<Text>O Placar não é suportado por sua atual configuração de mod.</Text>
@@ -1830,23 +1830,24 @@
 
 		<!-- Change smtp Password Screen -->
 		<Row Tag="TXT_KEY_MAIL_PASSWORD_USAGE_INFO">
-			<Text>O Civilization 5 não salva ou transmite sua senha de email (SMTP) por razões de segurança. Por favor, informe-a novamente.</Text>
+			<Text>O Civilization 5 não salva ou transmite sua senha de e-mail (SMTP) por razões de segurança. Por favor, informe-a novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NAME_REENTER_MAIL_PASSWORD">
-			<Text>Informar Novamente Sua Senha de Email</Text>
+			<Text>Informar novamente sua senha de e-mail</Text>
 		</Row>
 		<!-- Change smtp Password Screen End -->
 
 		<Row Tag="TXT_KEY_SAVE_GAME_CONFIGURATION_TT">
-			<Text>Salvar a configuração de início do jogo.</Text>
+			<Text>Salva a configuração inicial do jogo.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_DEFAULT_GAME_CONFIGURATION_NAME">
-			<Text>Configuração do Jogo</Text>
+			<Text>Configuração do jogo</Text>
 		</Row>
 		
 		<Row Tag="TXT_KEY_UPDATING_GAME_DATA">
 			<Text>Configurando dados do jogo... Aguarde.</Text>
-		</Row>		
-    </Language_pt_BR>
+		</Row>
+
+	</Language_pt_BR>
 </GameData>

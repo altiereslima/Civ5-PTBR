@@ -5,82 +5,82 @@
 	<Language_pt_BR>
 		<!-- Technologies-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY">
-			<Text>Advanced Piracy</Text>
+			<Text>Pirataria Avançada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
-			<Text>The "Golden Age of Piracy" spanned, roughly, the years from 1650 to 1730 AD as the likes of Henry Morgan, Bartholomew Roberts and Calico Jack Rackham sailed the Spanish Main. It was brought about by both the incredible riches being shipped to Europe from the New World and by advances in shipbuilding, allowing fast and nimble sloops, brigantines and schooners to carry heavier weaponry and larger crews.</Text>
+			<Text>A "Era Dourada da Pirataria" abrangeu, aproximadamente, os anos de 1650 a 1730 d.C., enquanto figuras como Henry Morgan, Bartholomew Roberts e Calico Jack Rackham navegavam pela Rota Espanhola. Ela foi impulsionada tanto pelas riquezas incríveis sendo enviadas para a Europa do Novo Mundo quanto pelos avanços na construção naval, permitindo que navios velozes e ágeis como escunas, brigantinos e escunas maiores carregassem armamento mais pesado e tripulações maiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SEA_BEGGAR}[ENDCOLOR] a stronger pirate ship that can heal outside your territory. This technology also allows you to build the [ICON_GOLD] Gold-boosting buildng the [COLOR_POSITIVE_TEXT]{TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE}[ENDCOLOR].</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Mendigo do Mar[ENDCOLOR], um navio pirata mais forte que pode se curar fora do seu território. Esta tecnologia também permite construir a edificação impulsionadora de [ICON_GOLD]Ouro, a [COLOR_POSITIVE_TEXT]Fábrica de Chocolate[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"For I am a Pirate King! And it is, it is a glorious thing to be a Pirate King!"[NEWLINE][TAB][TAB] - W.S. Gilbert, The Pirates of Penzance[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Pois eu sou um Rei Pirata! E é, é uma coisa gloriosa ser um Rei Pirata!"[NEWLINE][TAB][TAB] - W.S. Gilbert, Os Piratas de Penzance[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_BANKING_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR] as well as the [COLOR_POSITIVE_TEXT]East India Company[ENDCOLOR], buildings which increase the [ICON_GOLD] Gold produced by a city.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR] assim como a [COLOR_POSITIVE_TEXT]Companhia das Índias Orientais[ENDCOLOR], edificações que aumentam o [ICON_GOLD]Ouro produzido por uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
-			<Text>Provides a variety of benefits to [ICON_RESEARCH] Science.</Text>
+			<Text>Oferece uma variedade de benefícios para [ICON_RESEARCH]Ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Conquistador[ENDCOLOR], a unit that specializes in scouting and settling overseas. This technology also allows you to build the [COLOR_POSITIVE_TEXT]Courthouse[ENDCOLOR], a building which reduces the [ICON_HAPPINESS_4] Unhappiness from [ICON_OCCUPIED] Occupied Cities.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Conquistador[ENDCOLOR], uma unidade especializada em exploração e colonização no exterior. Esta tecnologia também permite construir o [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4]Infelicidade de [ICON_OCCUPIED]Cidades Ocupadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE">
-			<Text>Line-Of-Battle</Text>
+			<Text>Linha de Batalha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
-			<Text>Although its first use in battle is a matter of debate (ranging from 1502 to 1652 AD), by 1675 the "line-of-battle" tactic was the most common formation being used by European navies. In contrast to the usual naval melees, in line-of-battle each warship could fire its broadside without hitting friendly vessels, allowing for both concentrated and continuous fire.</Text>
+			<Text>Apesar de seu primeiro uso em batalha ser motivo de debate (variando de 1502 a 1652 d.C.), em 1675 a tática de "linha de batalha" era a formação mais comum usada pelas marinhas europeias. Em contraste com os combates navais usuais, na linha de batalha, cada navio de guerra podia disparar sua lateral sem atingir embarcações aliadas, permitindo um fogo concentrado e contínuo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
-			<Text>Allows you to build the [ICON_GOLD] Gold-boosting building the [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STOCK_EXCHANGE}[ENDCOLOR] and to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE}[ENDCOLOR], the strongest unit and the unit with the farthest range. </Text>
+			<Text>Permite construir a edificação impulsionadora de [ICON_GOLD]Ouro, a [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], e construir o [COLOR_POSITIVE_TEXT]Navio de Linha[ENDCOLOR], a unidade mais forte e com o alcance mais distante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"No captain can do very wrong if he places his ship alongside that of the enemy."[NEWLINE][TAB][TAB] - Horatio Nelson[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Nenhum capitão pode errar muito se colocar seu navio ao lado do inimigo."[NEWLINE][TAB][TAB] - Horatio Nelson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET">
-			<Text>Merchant Fleet</Text>
+			<Text>Frota Mercante</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
-			<Text>In the face of depredations from buccaneers and privateers, in the mid-1500s the Spanish and Portuguese adopted an early form of convoys for their merchant ships plying the Atlantic trade routes. Whereas the treasure fleets were usually accompanied by warships, the private merchant fleets were not; hence many of the galleons - laden with tobacco, spices, lumber, sugar, grain, pearls and other luxuries for the European markets - were armed with cannons and carronades to ward off the smaller pirate ships.</Text>
+			<Text>Diante das depredações de bucaneiros e corsários, nos meados de 1500, espanhóis e portugueses adotaram uma forma inicial de comboios para seus navios mercantes que navegavam nas rotas comerciais do Atlântico. Enquanto as frotas de tesouro eram normalmente acompanhadas por navios de guerra, as frotas mercantes privadas não eram; assim, muitos dos galeões - carregados com tabaco, especiarias, madeira, açúcar, grãos, pérolas e outras mercadorias de luxo para os mercados europeus - eram armados com canhões e caronadas para afastar os pequenos navios piratas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_PORTUGUESE_NAU}[ENDCOLOR] the fastest ship.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Nau[ENDCOLOR], o navio mais rápido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Gold is a treasure, and he who possesses it does all he wishes to in this world."[NEWLINE][TAB][TAB] -Christopher Columbus[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O ouro é um tesouro, e quem o possui faz tudo o que deseja neste mundo."[NEWLINE][TAB][TAB] - Cristóvão Colombo[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tercio[ENDCOLOR], a dominant melee unit and the [COLOR_POSITIVE_TEXT]Military Academy[ENDCOLOR], which gives all your units an experience boost.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Terço[ENDCOLOR], uma unidade de combate corpo a corpo dominante, e a [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que concede a todas as suas unidades um impulso de experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
-			<Text>Permite a construção de edifícios com [ICON_PEACE]Fé e o [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRAND_TEMPLE}[ENDCOLOR], que permite aos {TXT_KEY_UNIT_MISSIONARY[2]} pregarem três vezes.</Text>
+			<Text>Permite construir edificações com [ICON_PEACE]Fé e o [COLOR_POSITIVE_TEXT]Grande Templo[ENDCOLOR], que permite que todos os Missionários se disseminem três vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], a Mounted unit that can pillage for free.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Lanceiro Montado[ENDCOLOR], uma unidade montada que pode saquear gratuitamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
-			<Text>Imperialism</Text>
+			<Text>Imperialismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
-			<Text>Naval Tradition</Text>
+			<Text>Tradição Naval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
-			<Text>Professional Soldiers</Text>
+			<Text>Soldados Profissionais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
-			<Text>Piracy</Text>
+			<Text>Pirataria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
-			<Text>Warships</Text>
+			<Text>Navios de Guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
-			<Text>Royal Guards</Text>
+			<Text>Guarda Real</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
-			<Text>Religious Orders</Text>
+			<Text>Ordens Religiosas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
-			<Text>Treasure Fleet</Text>
+			<Text>Frota de Tesouro</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

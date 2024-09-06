@@ -4,7 +4,6 @@
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
 	<Language_pt_BR>
-		<!-- City States-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
 			<Text>Terra dos Inuítes</Text>
 			<Gender>feminine</Gender>
@@ -156,12 +155,12 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
-			<Text>Terra dos Anasazi</Text>
+			<Text>Terra dos Anasazis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
-			<Text>anasazi|anasazi</Text>
+			<Text>anasazi|anasazis</Text>
 			<Gender>neuter</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
