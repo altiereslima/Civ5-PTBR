@@ -567,7 +567,7 @@
 [N]
 [4]Concertmasters - Rita Cepurcenko & Milos Jahoda
 [4]Contratante de Música Orquestral e Produtor - Petr Pycha
-[4]Engenheiro de Som  - Jan Kotzmann
+[4]Engenheiro de Som - Jan Kotzmann
 [4]Engenheiro Assistente - Cenda Kotzmann
 [4]Librarian - Tomas Kirschner
 [4]Mestre de Coro - Stanislav Mistr
@@ -831,7 +831,7 @@
 [N]
 [2]2K SHANGHAI
 [3]Diretor Geral
-[4]Julien Bares  
+[4]Julien Bares
 [3]Diretor de Produção
 [4]Liu Jing
 [3]Produtores

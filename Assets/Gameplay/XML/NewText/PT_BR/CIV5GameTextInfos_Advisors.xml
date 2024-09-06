@@ -52,7 +52,7 @@
 			<Text>Mostre a ruína</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
-			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está.  Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
+			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está. Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
 			<Text>Combate corpo a corpo</Text>
@@ -1201,7 +1201,7 @@
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a  [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>

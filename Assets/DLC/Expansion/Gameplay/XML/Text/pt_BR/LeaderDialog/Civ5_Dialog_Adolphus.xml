@@ -13,7 +13,7 @@
             <Text>Seja bem-vindo às terras do Rei das Neves, estrangeiro. Eu sou Gustavo Adolfo, herdeiro e descendente da distinta Casa de Vasa.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
-            <Text>Oh! Um recém-chegado ao palco mundial.  Saudações! Eu sou Gustavo Adolfo, celebrado Rei da Suécia. Seja pacífico em minha corte.</Text>
+            <Text>Oh! Um recém-chegado ao palco mundial. Saudações! Eu sou Gustavo Adolfo, celebrado Rei da Suécia. Seja pacífico em minha corte.</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_1">

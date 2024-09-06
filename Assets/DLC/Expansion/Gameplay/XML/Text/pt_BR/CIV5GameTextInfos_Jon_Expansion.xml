@@ -181,7 +181,7 @@
 			<Text>Manterá relações com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, mas você deve retirar sua promessa de proteger {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} e perder {3_InfluenceLoss} de [ICON_INFLUENCE]Influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_PROTECTED_MINOR_DISPUTE_TT">
-			<Text>Manterá relações com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey}, mas você irritará  {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} temporariamente e arriscará uma escalada à guerra.</Text>
+			<Text>Manterá relações com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey}, mas você irritará {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} temporariamente e arriscará uma escalada à guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_FOR_BULLYING">
 			<Text>Pedimos desculpas. Nós os deixaremos em paz.</Text>
@@ -241,7 +241,7 @@
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?faliram; other?faliu;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GIVE_GOLD">
-			<Text>Seu presente em Ouro ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}!  Sua [ICON_INFLUENCE]Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR] e eles agora estão menos resistentes a futuras exigências de tributos que você possa fazer.</Text>
+			<Text>Seu presente em Ouro ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}! Sua [ICON_INFLUENCE]Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR] e eles agora estão menos resistentes a futuras exigências de tributos que você possa fazer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GIVE_GOLD">
 			<Text>Apoio em Ouro dado {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_MinorCivName:textkey}!</Text>
@@ -427,7 +427,7 @@
 			<Text>Uma linda princesa {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName} se casou com um nobre {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_MinorCivName}. Com uma relação diplomática por casamento, {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_MinorCivName} se tornou parte permanente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BUYOUT_TT_2">
-			<Text>Um formoso príncipe {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName} se casou com uma nobre mulher {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_MinorCivName}.  Com uma relação diplomática por casamento, {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_MinorCivName} se tornou parte permanente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName}.</Text>
+			<Text>Um formoso príncipe {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName} se casou com uma nobre mulher {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_MinorCivName}. Com uma relação diplomática por casamento, {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_MinorCivName} se tornou parte permanente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_CivName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_TILE_IMPROVEMENT_TT">
 			<Text>Se você for aliado desta Cidade-Estado, você pode ter acesso aos seus recursos estratégicos e de luxo ao dar-lhes [ICON_GOLD]Ouro para que possam melhorá-los.</Text>

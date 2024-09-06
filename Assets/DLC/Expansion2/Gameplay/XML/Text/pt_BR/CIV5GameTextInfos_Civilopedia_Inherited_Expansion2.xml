@@ -625,7 +625,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
-			<Text>Permite construção de várias edificações que impulsionam a produção de [ICON_GOLD]Ouro, como a  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
+			<Text>Permite construção de várias edificações que impulsionam a produção de [ICON_GOLD]Ouro, como a [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Aquedutos[ENDCOLOR], aumentando o [ICON_FOOD]Alimento que pode ser mantido quando sua cidade cresce. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], aumentando a defesa da unidade ali estacionada. Além disso, pontes são automaticamente construídas sobre os rios onde há estradas, permitindo que as unidades os atravesse sem se atrasarem.</Text>

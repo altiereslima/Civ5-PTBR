@@ -600,7 +600,7 @@
 			<Text>Líder da Assíria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_LIVED">
-			<Text>685 a.C. -  627 a.C.</Text>
+			<Text>685 a.C.- 627 a.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_FACT_1">
 			<Text>Uma enorme estátua de bronze de Assurbanípal foi construída em 1988 e fica em frente à Prefeitura de São Francisco, em San Francisco, Califórnia.</Text>
@@ -1071,7 +1071,7 @@
 			<Text>Além da saída da Biblioteca [ICON_RESEARCH] da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço de Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece EXP extra para Unidades treinadas nesta cidade, por isso coloque aqui uma Grande Obra o mais rápido possível para o máximo benefício. Somente os Assírios podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
-			<Text>O Farol só pode ser construído em uma cidade ao lado de um hexágono costeiro. Aumenta a produção de  [ICON_FOOD]Alimentos dos hexágonos de água e dos [ICON_RES_FISH]Peixes e aumenta a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
+			<Text>O Farol só pode ser construído em uma cidade ao lado de um hexágono costeiro. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos de água e dos [ICON_RES_FISH]Peixes e aumenta a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IRONWORKS_STRATEGY">
 			<Text>A Maravilha Nacional da Siderurgia aumenta a [ICON_PRODUCTION]Produção da cidade em 8. Uma civilização deve ter uma Oficina em todas as cidades para poder construir uma Siderurgia.</Text>
@@ -1408,7 +1408,7 @@
 			<Text>A Terceira Alternativa, ou Terceira Posição, é uma filosofia política nacionalista que enfatiza sua oposição ao capitalismo e ao comunismo, em vez de sintetizar ideias radicais de ambos. Aqueles que seguem essa abordagem favorecem a propriedade estatal da produção e da distribuição de bens e serviços para "os membros produtivos da sociedade", a segregação pacífica de grupos étnicos e raciais dentro do estado, e abraçaram recentemente o ambientalismo radical. Muitos cientistas políticos argumentaram que o movimento, que surgiu após a Segunda Guerra Mundial em países como a Argentina e a África do Sul, não é uma terceira alternativa, mas uma mutação do neofascismo e ultra-nacionalismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY_TEXT">
-			<Text>Um Culto à Personalidade surge quando um indivíduo conscientemente usa mídia, propaganda e outros meios para criar uma imagem pública idealizada, heróica e / ou divina. O sociólogo Max Weber desenvolveu uma classificação tripartida de autoridade, na qual o Culto da Personalidade aparece proeminentemente como uma forma de autoridade. Governantes autocráticos dos monarcas absolutos do Iluminismo até os ditadores totalitários modernos buscaram promover obediência e devoção em seus súditos através da manipulação das indústrias de notícias e entretenimento - alguns com mais sucesso do que outros.</Text>
+			<Text>Um Culto à Personalidade surge quando um indivíduo conscientemente usa mídia, propaganda e outros meios para criar uma imagem pública idealizada, heroica e / ou divina. O sociólogo Max Weber desenvolveu uma classificação tripartida de autoridade, na qual o Culto da Personalidade aparece proeminentemente como uma forma de autoridade. Governantes autocráticos dos monarcas absolutos do Iluminismo até os ditadores totalitários modernos buscaram promover obediência e devoção em seus súditos através da manipulação das indústrias de notícias e entretenimento - alguns com mais sucesso do que outros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_TEXT">
 			<Text>Nos assuntos internacionais, "Diplomacia das Canhoneiras" refere-se à busca de objetivos de política externa através de manifestações conspícuas de esmagadora força militar, com a ameaça de hostilidades abertas subjacentes à exibição pela nação mais poderosa. O termo entrou em uso popular durante o período do imperialismo europeu, como as potências coloniais usaram a presença de navios de guerra para forçar concessões de um reino nativo. A política se mostrou muito bem-sucedida, especialmente quando empregada por autocracias militaristas... até que os nativos conseguiram obter armas modernas.</Text>
