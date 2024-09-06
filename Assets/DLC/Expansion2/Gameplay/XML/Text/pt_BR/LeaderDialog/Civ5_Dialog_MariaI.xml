@@ -269,7 +269,7 @@
             <Text>Oh, uh, sim, eu pensei que você deveria saber: vamos declarar guerra contra você agora.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_3">
-            <Text>Parece que nós não pensamos da mesma forma. Uma guerra então?</Text>             
+            <Text>Parece que nós não pensamos da mesma forma. Uma guerra então?</Text>
 		</Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_1">
             <Text>Você não pode estar falando sério! Bem... então eu vou ter que lidar com você!</Text>
