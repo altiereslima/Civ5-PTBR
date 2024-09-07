@@ -9,7 +9,7 @@
 			<Text>Como posso chamar meus assessores?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_BODY">
-			<Text>Durante o jogo, seus assessores irão aparecer em "janelas emergentes" quando considerarem que devem te informar de algo. Geralmente eles fornecem links para outras informações relacionadas com o tópico em questão. Você pode seguir esses links ou clicar em "Obrigado" a qualquer momento para dispensar o Assessor.[NEWLINE][NEWLINE]Você também pode pressionar o botão "Assessores", no canto superior direito da tela, para ir à tela de "Consultoria". Lá você verá seus quatro Assessores; se tiverem algo útil a dizer sobre a situação atual irá aparecer aí.</Text>
+			<Text>Durante o jogo, seus Assessores aparecerão em janelas emergentes quando tiverem algo que acham que você deve saber. Eles frequentemente fornecem links para outras informações relacionadas ao tópico atual. Você pode seguir esses links ou clicar em "Obrigado" a qualquer momento para dispensar o Assessor.[NEWLINE][NEWLINE]Você também pode pressionar o botão "Assessores" no canto superior direito da tela para acessar a tela de "Conselho dos Assessores". Lá, você pode ver todos os quatro Assessores; se tiverem algo útil a dizer sobre a situação atual, isso aparecerá lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_TITLE">
 			<Text>Contatar um Assessor</Text>

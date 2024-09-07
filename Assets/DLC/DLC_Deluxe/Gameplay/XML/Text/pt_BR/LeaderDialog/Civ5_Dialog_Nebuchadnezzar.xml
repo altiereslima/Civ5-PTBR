@@ -50,13 +50,13 @@
 			<Text>Terei eu de fato sido vencido? Que interessante.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_ANGRY">
-			<Text>A dor de ratos roendo seus órgãos vitais não seria nada em comparação à angústia que você sofrerá se você recusar minhas exigências.</Text>
+			<Text>A dor de ratos roendo seus órgãos vitais não seria nada em comparação com a angústia que você sofrerá se recusar minhas exigências.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_HAPPY">
 			<Text>Eu me pergunto se a ganância bruta e cega me fez uma pessoa má...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_NEUTRAL">
-			<Text>O seguinte tributo iria melhorar o meu humor negro, aumentando consideravelmente as chances de que você possa sobreviver mais um dia.</Text>
+			<Text>O seguinte tributo iria melhorar o meu humor negro, aumentando consideravelmente as chances de você sobreviver mais um dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_1">
 			<Text>Os mortos sussurram "não" em meus ouvidos.</Text>

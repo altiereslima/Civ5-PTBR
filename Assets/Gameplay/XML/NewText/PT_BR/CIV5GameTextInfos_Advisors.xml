@@ -844,7 +844,7 @@
 			<Text>Lista de Políticas Sociais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
-			<Text>Assessores</Text>
+			<Text>Conselho dos Assessores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
 			<Text>Próximo</Text>
@@ -1375,7 +1375,7 @@
 			<Text>Assessor de Informações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COUNSEL">
-			<Text>Assessor de Conselhos</Text>
+			<Text>Conselho dos Assessores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_MILITARY">
 			<Text>Esta é a recomendação do seu Assessor Militar.</Text>
