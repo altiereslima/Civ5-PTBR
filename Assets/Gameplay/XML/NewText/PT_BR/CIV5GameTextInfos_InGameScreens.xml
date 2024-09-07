@@ -1403,7 +1403,7 @@
             <Text>A frequência em que o jogo salvará automaticamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT">
-            <Text>Máximo de salvamentos automáticos:</Text>
+            <Text>Máximo de salvam. automáticos:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
             <Text>Número máximo de salvamentos automáticos mantidos até que o jogo comece apagar os antigos</Text>
