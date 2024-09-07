@@ -1304,7 +1304,7 @@
             <Text>Exibir uma unidade em cada grupo</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL">
-            <Text>Janela de consulta aos assessores</Text>
+            <Text>Janela de conselho dos assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL_TT">
             <Text>Conselhos periódicos dos seus assessores</Text>
