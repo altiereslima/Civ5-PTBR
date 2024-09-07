@@ -1158,7 +1158,7 @@
 			<Text>Se um cidadão não é designado para trabalhar nos campos e não é um especialista, o cidadão ainda fornece um benefício de + 1 para a Produção para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_UNEMPLOYEDCITIZENS_HEADING3_TITLE">
-			<Text>Cidadãos desempregados</Text>
+			<Text>Cidadãos Desempregados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_UNITSINCITIES_HEADING2_TITLE">
 			<Text>Unidades nas cidades</Text>

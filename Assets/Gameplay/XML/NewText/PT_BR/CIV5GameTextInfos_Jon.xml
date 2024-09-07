@@ -967,10 +967,10 @@
 			<Text>O pacto defensivo realizado com {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_FROM_US">
-			<Text>O acordo que dava Ouro/turno para {1_CivName:textkey} terminou</Text>
+			<Text>O acordo que dava ouro por turno para {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_TO_US">
-			<Text>O acordo que recebia Ouro/turno {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
+			<Text>O acordo que recebia ouro por turno {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
 			<Text>O acordo de fronteiras abertas para {1_CivName:textkey} terminou</Text>

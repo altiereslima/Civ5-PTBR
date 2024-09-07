@@ -107,7 +107,7 @@
 			<Text>Delegados Restantes: {1_VotesRemaining}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_COMMIT_VOTES">
-			<Text>Prometer Delegados</Text>
+			<Text>Comprometer Delegados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_RESET_VOTES">
 			<Text>Restaurar Delegados</Text>
@@ -146,7 +146,7 @@
 			<Text>Já proposta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_ALREADY_ENACTED">
-			<Text>Já em feito.</Text>
+			<Text>Já está em vigor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_TECH">
 			<Text>Nenhuma Civilização pesquisou {@1_TechName}.</Text>
@@ -454,7 +454,7 @@
 			<Text>FAZER UMA PROPOSTA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROPOSALS_NEEDED_TT">
-			<Text>É a sua vez de fazer uma proposta à {1_LeagueName}. Você pode propor a aprovação de uma nova resolução ou anular uma resolução existente. Você e outros membros da {1_LeagueName} decidirão o resultado de sua proposta na próxima sessão.</Text>
+			<Text>É a sua vez de fazer uma proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName}. Você pode propor a aprovação de uma nova resolução ou anular uma resolução existente. Você e outros membros da {1_LeagueName} decidirão o resultado de sua proposta na próxima sessão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTES_NEEDED">
 			<Text>DESIGNAR DELEGADOS</Text>
@@ -466,7 +466,7 @@
 			<Text>Sessão Concluída</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_DONE_TT">
-			<Text>As resoluções propostas à {1_LeagueName} foram decididas.</Text>
+			<Text>As resoluções propostas {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foram decididas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_PASS">
 			<Text>{@1_CivName} {@1: plural 2?tornaram-se Líderes Mundiais; other?tornou-se Líder Mundial;}</Text>

@@ -861,7 +861,7 @@
 			<Text>Manutenção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CITIZEN_ALLOCATION">
-			<Text>Gerenciar população</Text>
+			<Text>Gerenciar População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_EACH">
 			<Text>cada</Text>

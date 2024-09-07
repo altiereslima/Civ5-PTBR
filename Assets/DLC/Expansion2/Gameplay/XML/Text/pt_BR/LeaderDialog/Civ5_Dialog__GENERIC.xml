@@ -131,28 +131,28 @@
 			<Text>Podemos fazer um acordo agora para impedir a sua aniquilação total.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_1">
-			<Text>Ficamos muito satisfeitos de ouvir a sua recente proposta à {1_LeagueName}. Parece que nossos objetivos estão alinhados.</Text>
+			<Text>Ficamos muito satisfeitos de ouvir a sua recente proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName}. Parece que nossos objetivos estão alinhados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_2">
-			<Text>Sua proposta à {1_LeagueName} se ajusta aos nossos interesses muito bem. Você tem a nossa sincera gratidão.</Text>
+			<Text>Sua proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} se ajusta aos nossos interesses muito bem. Você tem a nossa sincera gratidão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_1">
-			<Text>Sua proposta à {1_LeagueName} é um ataque flagrante aos nossos interesses. Espero que isso não cresça para um conflito futuro.</Text>
+			<Text>Sua proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} é um ataque flagrante aos nossos interesses. Espero que isso não cresça para um conflito futuro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_2">
-			<Text>Eu achei a sua proposta à {1_LeagueName} muito preocupante. Certamente há uma maneira melhor de resolver nossas diferenças do que politicagem.</Text>
+			<Text>Eu achei a sua proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} muito preocupante. Certamente há uma maneira melhor de resolver nossas diferenças do que politicagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
-			<Text>Graças à ajuda de seus delegados, a nossa proposta recente à {1_LeagueName} foi bem sucedida. Estamos ansiosos para o seu contínuo apoio, e tentaremos devolver o favor.</Text>
+			<Text>Graças à ajuda de seus delegados, a nossa proposta recente {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi bem sucedida. Estamos ansiosos para o seu contínuo apoio, e tentaremos devolver o favor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
-			<Text>Nossa proposta à {1_LeagueName} foi aprovada com o apoio de sua delegação. Juntos podemos realizar grandes coisas.</Text>
+			<Text>Nossa proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi aprovada com o apoio de sua delegação. Juntos podemos realizar grandes coisas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_1">
-			<Text>Sua delegação teve um papel no fracasso da nossa proposta à {1_LeagueName}. Eu não aceito essas transgressões facilmente.</Text>
+			<Text>Sua delegação teve um papel no fracasso da nossa proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName}. Eu não aceito essas transgressões facilmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_2">
-			<Text>Nossa proposta à {1_LeagueName} foi derrotada nas mãos de seus delegados. Não espere que a nossa delegação apoie seus interesses no futuro.</Text>
+			<Text>Nossa proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi derrotada nas mãos de seus delegados. Não espere que a nossa delegação apoie seus interesses no futuro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_HOSTING_1">
 			<Text>Agradecemos por confiar o Congresso Mundial à nossa liderança. Esperamos grandes coisas que virão na {1_LeagueName}.</Text>

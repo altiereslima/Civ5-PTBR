@@ -1256,7 +1256,7 @@
             <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_IMP_DESTROYED">
-            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImpName}} foi destruído por {@2: gender masculine?um; feminine?uma;} {@3_civ_adjective} {@2_UnitName} {@2: gender masculine?saqueador; feminine?saqueadora;}!</Text>
+            <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_UnitName} {@2_UnitName: gender masculine?{@3_civ_adjective[1]}; other?{@3_civ_adjective[2]};} que estava vagando pela área destruiu {@1: plural 1?{@1: gender masculine?um; feminine?uma;}; other?{@1: gender masculine?uns; other?umas;};} {@1_ImpName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED">
             <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION]Produção perdida será convertida em {3_NumGold}[ICON_GOLD]!</Text>

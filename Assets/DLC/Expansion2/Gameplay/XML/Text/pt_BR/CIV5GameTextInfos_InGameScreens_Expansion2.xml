@@ -59,7 +59,7 @@
             <Text>Reforma</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_REFORMATION_BELIEF_TITLE">
-            <Text>Adicionar Crença Reforma</Text>
+            <Text>Reforma da Crença</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MAJOR">
             <Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} ({4_CivName})</Text>
