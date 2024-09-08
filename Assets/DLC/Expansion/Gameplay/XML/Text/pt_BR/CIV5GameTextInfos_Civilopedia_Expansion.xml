@@ -1918,7 +1918,7 @@
 			<Text>As {TXT_KEY_TERRAIN_MOUNTAIN[2]} são intransitáveis, exceto para unidades aéreas e unidades cartaginesas (depois de ganhar um {TXT_KEY_UNIT_GREAT_GENERAL}). Elas não oferecem nada para as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_DEFENSE_HITPOINTS">
-			<Text>+{1_DefenseHP}PV</Text>
+			<Text>+{1_DefenseHP} PV</Text>
 		</Row>
 		<!-- =====================================-->
 		<!-- == BEGIN new Diplomacy Victory text keys ==-->
