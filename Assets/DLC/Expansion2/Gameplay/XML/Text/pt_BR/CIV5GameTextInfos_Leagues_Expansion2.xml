@@ -299,7 +299,7 @@
 			<Text>Tem certeza?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CONFIRM_MISSING_VOTES">
-			<Text>[COLOR_WARNING_TEXT]Alguns dos seus Delegados não estão indicados.[ENDCOLOR] Quer continuar assim mesmo?</Text>
+			<Text>[COLOR_WARNING_TEXT]Alguns dos seus Delegados não foram designados.[ENDCOLOR] Deseja comprometer os Delegados restantes mesmo assim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_ON_HOLD_TT">
 			<Text>Esta proposta está suspensa até que o Congresso Mundial conclua sua Sessão Especial.</Text>
@@ -345,13 +345,13 @@
 			<Text>[NEWLINE][ICON_BULLET]{3_DesireLevel} para {2_VoteChoice} em {1_Proposal}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_COMMITMENT">
-			<Text>[NEWLINE][NEWLINE]Por causa de um acordo comercial, eles concordaram em prometer {3_NumDelegates} {3_NumDelegates: plural 1?Delegado; other?Delegados;} para apoiar o ato de {2_VoteChoice} a proposta: {1_Proposal}.</Text>
+			<Text>[NEWLINE][NEWLINE]Por causa de um acordo comercial, eles concordaram em comprometer {3_NumDelegates} {3_NumDelegates: plural 1?Delegado; other?Delegados;} para apoiar o ato de {2_VoteChoice} a proposta: {1_Proposal}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS">
 			<Text>[NEWLINE][NEWLINE]Baseada em nosso conhecimento sobre os desejos das outras Civilizações, nossa contagem para esta proposta está em:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_COMMITMENTS">
-			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {2_NumCivs} {2_NumCivs: plural 1?Civilização prometeu; other?Civilizações prometeram;} {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} em razão de acordos comerciais</Text>
+			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {2_NumCivs} {2_NumCivs: plural 1?Civilização comprometeu; other?Civilizações comprometeram;} {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} em razão de acordos comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_CHOICE">
 			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}: {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;} ({2_NumCivs} {2_NumCivs: plural 1?Civilização; other?Civilizações;})</Text>
