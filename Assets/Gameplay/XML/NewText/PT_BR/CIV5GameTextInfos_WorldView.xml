@@ -94,7 +94,7 @@
 			<Text>SUA FORÇA [ICON_STRENGTH]:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_STRENGTH">
-			<Text>: SUA FORÇA [ICON_STRENGTH]</Text>
+			<Text>: FORÇA DELES [ICON_STRENGTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_TERRAIN_MODIFIER">
 			<Text>Modificador de terreno</Text>
