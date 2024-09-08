@@ -173,7 +173,7 @@
 			<Text>(embarcado)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_MIL_UNIT_STRENGTH">
-			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num}PV {5_Num}</Text>
+			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num} PV {5_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV">
 			<Text>{@2_UnitName} {@2: gender masculine?{@2: plural 1?{@1[1]}; other?{@1[3]};}; feminine?{@2: plural 1?{@1[2]}; other?{@1[4]};};}</Text>
@@ -182,7 +182,7 @@
 			<Text>{1_PlayerName}: {2_UnitName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_HP">
-			<Text>{1_Num}PV</Text>
+			<Text>{1_Num} PV</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
 			<Text>Hexágono adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
@@ -375,7 +375,7 @@
 			<Text>Voltar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_SCREEN_EXIT_TOOLTIP">
-			<Text>Sair da tela da cidade e voltar ao mapa.</Text>
+			<Text>Sai da tela da cidade e voltar ao mapa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HELP_CAPS">
 			<Text>AJUDA</Text>
@@ -384,7 +384,7 @@
 			<Text>Ajuda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_TOOLTIP">
-			<Text>Abrir a Civilopédia, que explica os elementos do jogo.</Text>
+			<Text>Abre a Civilopédia, que explica uma grande variedade de elementos do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_CAPS">
 			<Text>MENU</Text>
