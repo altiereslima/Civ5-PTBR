@@ -236,10 +236,10 @@
 			<Text>{@1_ResourceName} ({2_ResourceQuantity})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_CITY_STATES">
-			<Text>Nenhum [ICON_INTERNATIONAL_TRADE]Acordo com Cidades-Estado</Text>
+			<Text>Sem Comércio [ICON_INTERNATIONAL_TRADE] com Cidades-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_PLAYERS">
-			<Text>Nenhum [ICON_INTERNATIONAL_TRADE]Acordo com: {1_CivsList}</Text>
+			<Text>Sem Comércio [ICON_INTERNATIONAL_TRADE] com: {1_CivsList}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_PLAYERS_ENTRY">
 			<Text>{@1_CivName}</Text>
@@ -381,13 +381,13 @@
 			<Text>Moderadamente contra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_DESIRE_WEAK_DISLIKE">
-			<Text>Fracamente contra</Text>
+			<Text>Levemente contra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_DESIRE_NEUTRAL">
 			<Text>Neutro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_DESIRE_WEAK_LIKE">
-			<Text>Fracamente a favor</Text>
+			<Text>Levemente a favor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_DESIRE_LIKE">
 			<Text>Moderadamente a favor</Text>
@@ -441,7 +441,7 @@
 		</Row>
 		<!-- Miscellaneous UI-->
 		<Row Tag="TXT_KEY_LEAGUE_PROJECT_COST_PER_PLAYER">
-			<Text>{1_ProductionCostPerPlayer} [ICON_PRODUCTION]Produção por Civ</Text>
+			<Text>{1_ProductionCostPerPlayer} [ICON_PRODUCTION] por civilização</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_NOT_FOUNDED">
 			<Text>O Congresso Mundial ainda não foi fundado. Sua fundação começará quando uma Civilização tiver pesquisado {@1_TechName} e tiver conhecido todas as Civilizações no jogo.</Text>
@@ -490,22 +490,22 @@
 			<Text>A Sessão Especial da {1_LeagueName} escolheu {@2_CivName} para {@2: plural 2?serem; other?ser;} {@2: plural 2?{@2: gender feminine?as próximas as anfitriãs; other?os próximos anfitriões;}; other?{@2: gender feminine?a próxima anfitriã; other?o próximo anfitrião;};}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_PASS_SUMMARY">
-			<Text>{1_ResolutionName} Aceita</Text>
+			<Text>A resolução de {1_ResolutionName} foi aceita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_FAIL_SUMMARY">
-			<Text>{1_ResolutionName} Falhou</Text>
+			<Text>A resolução de {1_ResolutionName} não foi aceita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_PASS">
-			<Text>{1_ResolutionName} foi aceita. Seus efeitos estão [COLOR_POSITIVE_TEXT]ativos agora[ENDCOLOR].</Text>
+			<Text>A resolução de {1_ResolutionName} foi aceita. Seus efeitos [COLOR_WARNING_TEXT]já não estão ativos[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_FAIL">
-			<Text>{1_ResolutionName} não foi aceita.</Text>
+			<Text>A resolução de {1_ResolutionName} não foi aceita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_PASS">
-			<Text>{1_ResolutionName} foi aceita. Seus efeitos estão [COLOR_WARNING_TEXT]inativos agora[ENDCOLOR].</Text>
+			<Text>A resolução de {1_ResolutionName} foi aceita. Seus efeitos [COLOR_WARNING_TEXT]já não estão ativos[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_FAIL">
-			<Text>{1_ResolutionName} não foi aceita.</Text>
+			<Text>A resolução de {1_ResolutionName} não foi aceita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_MEMBER_VOTE">
 			<Text>[ICON_BULLET]{1_NumVotes} para {2_ResolutionChoiceText} {@3: plural 2?{@3: gender feminine?das; other?dos;}; other?{@3: gender feminine?da; other?do;};} {@3_CivName}</Text>
