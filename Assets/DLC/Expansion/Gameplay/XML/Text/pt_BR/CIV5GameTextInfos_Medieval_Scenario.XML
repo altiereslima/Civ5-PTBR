@@ -425,7 +425,7 @@
 			<Text>A cidade deve ter Muralhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_STRATEGY">
-			<Text>O "Madraçal" é uma edificação da era Medieval. Aumenta a produção científica da cidade e é ainda mais eficaz se a cidade estiver próxima de hexágonos de selva. A cidade já deve ter uma Biblioteca para construir um Madraçal. Além disso, ele fornece [ICON_PEACE] Fé, ao contrário da Universidade que substitui.</Text>
+			<Text>O "Madraçal" é uma edificação da era Medieval. Aumenta a produção científica da cidade e é ainda mais eficaz se a cidade estiver próxima de hexágonos de selva. A cidade já deve ter uma Biblioteca para construir um Madraçal. Além disso, ele fornece [ICON_PEACE]Fé, ao contrário da Universidade que substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MADRASAH_TEXT">
 			<Text>"Madraçal" é uma palavra em árabe que se refere a qualquer tipo de instituição educacional; embora com um componente religioso, os madraçais frequentemente eram seculares e poderiam abranger desde o ensino básico até o superior. Geralmente associados a uma mesquita, os madraçais também poderiam se especializar em medicina, direito, ciência, filosofia ou na educação de mulheres. O primeiro madraçal, o Gama'at al-Qarawiyyn, foi estabelecido em 859 d.C. por Fatimah al-Fihri, filha de um rico comerciante. Durante o domínio das dinastias Fatímida, Aiúbida e Mameluca, a prática de patrocinar madraçais pela elite governante e rica se espalhou pelo Egito e pelo Oriente Médio. O primeiro madraçal otomano foi fundado em 1331 d.C. em Iznik e seguia as tradições do Islã Sunita. Os madraçais dos turcos e árabes, enquanto a Europa sofria com a Idade das Trevas, mantinham vivo o melhor do conhecimento ocidental e o mesclavam com o do Oriente.</Text>
