@@ -2006,19 +2006,19 @@
 			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Musical[/COLOR] para gerar [ICON_TOURISM]Tourismo para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM]Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_DISPLAY">
-			<Text>Podemos construir uma Guilda de Escritores!</Text>
+			<Text>Podemos construir Guilda de Escritores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
 			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
-			<Text>Podemos construir uma Guilda de Artistas!</Text>
+			<Text>Podemos construir Guilda de Artistas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_BODY">
 			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR] designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_DISPLAY">
-			<Text>Podemos construir uma Guilda de Músicos!</Text>
+			<Text>Podemos construir Guilda de Músicos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_BODY">
 			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR] designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
@@ -2179,10 +2179,10 @@
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_LEAGUE_PROJECT_REWARD">
 			<Text>{1_TrophyIcon} {2_RewardDescription}: {3_RewardHelp}</Text>
-    </Row>
-    <Row Tag="TXT_KEY_PEDIA_TENET_LEVEL">
-      <Text>Nível Ideológico</Text>
-    </Row>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TENET_LEVEL">
+			<Text>Nível Ideológico</Text>
+		</Row>
 		<Row Tag="TXT_KEY_TECH_NANOTECHNOLOGY_HELP">
 			<Text>Permite que você construa o [COLOR_POSITIVE_TEXT]Esquadrão XCOM[ENDCOLOR] e a [COLOR_POSITIVE_TEXT]Câmara Criogênica Espacial[ENDCOLOR], uma das partes da Espaçonave, necessária para obter uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
