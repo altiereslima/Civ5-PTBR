@@ -1054,7 +1054,7 @@
 			<Text>Além das habilidades regulares do Banco (produção adicional de [ICON_GOLD]Ouro e mais [ICON_GOLD]Ouro adicional por rotas comerciais), a Hansa fornece [ICON_PRODUCTION]Produção para cada rota comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As rotas comerciais podem vir de qualquer combinação de cidades, mesmo sem a Hansa (Exemplo: se você tiver rotas comerciais de Berlim para Genebra, Munique para Genebra, Munique para Berlim e Berlim para Bruxelas, todas as cidades com Hansa receberão +15% de [ICON_PRODUCTION]Produção). Somente a Alemanha pode construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_STRATEGY">
-			<Text>O Porto é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Porto também aumenta a produção [ICON_PRODUCTION] de um recurso marítimo melhorado.</Text>
+			<Text>O Porto é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Porto também aumenta a [ICON_PRODUCTION]Produção de um recurso marítimo melhorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_STRATEGY">
 			<Text>Com o seu enorme impulso para [ICON_TOURISM]Turismo, o Hotel é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural ou aumentar seu impacto ideológico em outras civilizações.</Text>
