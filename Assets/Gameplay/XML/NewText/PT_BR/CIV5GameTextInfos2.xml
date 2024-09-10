@@ -1061,13 +1061,13 @@
             <Text>Bárbaros enfurecidos</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RAGING_BARBARIANS_HELP">
-            <Text>A taxa na qual os Bárbaros se procriam é gigantescamente aumentada.</Text>
+            <Text>A taxa na qual os Bárbaros surgem é muito aumentada.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES">
-            <Text>Grandes Personalidades aleatórias</Text>
+            <Text>Personalidades aleatórias</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES_HELP">
-            <Text>Em vez de agir como eles normalmente fazem, uma Grande Personalidade aleatória será escolhida de cada líder da IA (Inteligência Artificial), fazendo o jogo mais imprevisível.</Text>
+            <Text>Uma personalidade aleatória é escolhida para cada líder da IA, em vez de agirem como de costume, o que torna o jogo mais imprevisível.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_DISABLE_START_BIAS">
             <Text>Desabilitar tendência inicial</Text>
