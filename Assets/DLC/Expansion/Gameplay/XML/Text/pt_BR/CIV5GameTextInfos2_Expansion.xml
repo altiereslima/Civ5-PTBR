@@ -65,31 +65,31 @@
 			<Text>Um mapa gerado aleatoriamente que lembra a Europa, com todas as posições pré-definidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SHUFFLE">
-			<Text>Aleatório Verdadeiro</Text>
+			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SHUFFLE_HELP">
 			<Text>Um mapa verdadeiramente aleatório, incluindo todas as configurações centrais como Era, chuva etc.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_ARID_HELP">
-			<Text>Floresta Diminuída.</Text>
+			<Text>Menos selvas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_NORMAL_HELP">
-			<Text>Floresta Típica.</Text>
+			<Text>Selvas normais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_WET_HELP">
-			<Text>Floresta Extra.</Text>
+			<Text>Mais selvas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_RAINFALL_HELP">
 			<Text>Afeta a quantidade de Floresta no mundo e o número de Oásis em terrenos desérticos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_ARID_HELP">
-			<Text>Muita Floresta.</Text>
+			<Text>Mais florestas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_NORMAL_HELP">
-			<Text>Alguma Floresta.</Text>
+			<Text>Algumas florestas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_WET_HELP">
-			<Text>Pouca Floresta.</Text>
+			<Text>Poucas florestas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_RAINFALL_HELP">
 			<Text>Afeta a quantidade de Floresta no mundo e o número de Oásis em terrenos desérticos.</Text>
@@ -1843,10 +1843,10 @@
 			<Text>Um único continente marcado com montanhas para simular um ambiente irregular da fronteira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_AMAZON_XP">
-			<Text>Amazônia Plus</Text>
+			<Text>Amazônia plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_GREAT_PLAINS_XP">
-			<Text>Grandes Planícies Plus</Text>
+			<Text>Grandes planícies plus</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>
