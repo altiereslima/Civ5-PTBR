@@ -264,7 +264,7 @@
 			<Text>Região extremamente pequena, predominantemente terrestre, feita especialmente para partidas rápidas multijogador em equipes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_TERRA">
-			<Text>Terra</Text>
+			<Text>Outra Terra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_TERRA_HELP">
 			<Text>Um mundo muito grande, semelhante à Terra, onde todas as civilizações começam no continente equivalente a Ásia-Europa-África.</Text>
