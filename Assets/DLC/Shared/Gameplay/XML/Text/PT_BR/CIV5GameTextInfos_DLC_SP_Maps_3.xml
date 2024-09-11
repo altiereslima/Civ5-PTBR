@@ -98,7 +98,7 @@
       <Text>Reino Unido</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_UK_DESC">
-      <Text>Um mapa do Reino Unido, incluindo a Inglaterra, Escócia e Irlanda do Norte, com terreno totalmente aleatório.</Text>
+      <Text>Um mapa do Reino Unido, incluindo a Inglaterra, Escócia e Irlanda do Norte, com todo o terreno aleatório.</Text>
     </Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_DUEL">
       <Text>Reino Unido - Duelo</Text>
@@ -184,29 +184,29 @@
 	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_HUGE">
       <Text>Turquia - Enorme</Text>
     </Row>
-	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE">
-      <Text>Grécia</Text>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE">
+      <Text>França</Text>
     </Row>
-    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_DESC">
-      <Text>Um mapa da Grécia, onde o relevo é constante e todos os terrenos internos são aleatórios.</Text>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DESC">
+      <Text>Um mapa da França, onde o relevo é constante e todo o terreno interno é aleatório.</Text>
     </Row>
-	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_DUEL">
-      <Text>Grécia - Duelo</Text>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DUEL">
+      <Text>França - Duelo</Text>
     </Row>
-	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_TINY">
-      <Text>Grécia - Minúsculo</Text>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_TINY">
+      <Text>França - Pequeno</Text>
     </Row>
-    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_SMALL">
-      <Text>Grécia - Pequeno</Text>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_SMALL">
+      <Text>França - Reduzido</Text>
     </Row>
-    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_STANDARD">
-      <Text>Grécia - Padrão</Text>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_STANDARD">
+      <Text>França - Padrão</Text>
     </Row>
-	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_LARGE">
-      <Text>Grécia - Grande</Text>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_LARGE">
+      <Text>França - Grande</Text>
     </Row>
-	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_HUGE">
-      <Text>Grécia - Enorme</Text>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_HUGE">
+      <Text>França - Enorme</Text>
     </Row>
 	</Language_pt_BR>
 </GameData>
