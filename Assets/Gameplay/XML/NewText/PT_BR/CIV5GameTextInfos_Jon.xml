@@ -1119,90 +1119,90 @@
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_LOST_CAPITAL">
 			<Text>Sua [ICON_CAPITAL]Capital foi perdida!</Text>
 		</Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_YOU_WINNING">
-      <Text>Você perdeu sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_OTHER_PLAYER_WINNING">
-      <Text>Você perdeu sua [ICON_CAPITAL]Capital original! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_TEAM_WINNING">
-      <Text>Você perdeu sua [ICON_CAPITAL]Capital original! O time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_UNMET_WINNING">
-      <Text>Você perdeu sua [ICON_CAPITAL]Capital original! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_YOU_WINNING">
-      <Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_OTHER_WINNING">
-      <Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_TEAM_WINNING">
-      <Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. O time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_UNMET_WINNING">
-      <Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL">
-      <Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original.</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_YOU_WINNING">
-      <Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_OTHER_WINNING">
-      <Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_TEAM_WINNING">
-      <Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. O time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_UNMET_WINNING">
-      <Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL">
-      <Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original.</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_YOU_WINNING">
-      <Text>Você reconquistou sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_OTHER_PLAYER_WINNING">
-      <Text>Você reconquistou sua [ICON_CAPITAL]Capital! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_TEAM_WINNING">
-      <Text>Você reconquistou sua [ICON_CAPITAL]Capital! O time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_UNMET_WINNING">
-      <Text>Você reconquistou sua [ICON_CAPITAL]Capital! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_YOU_WINNING">
-      <Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_OTHER_WINNING">
-      <Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_TEAM_WINNING">
-      <Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. O time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_UNMET_WINNING">
-      <Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL">
-      <Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original.</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_YOU_WINNING">
-      <Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_OTHER_WINNING">
-      <Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_TEAM_WINNING">
-      <Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. O time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_UNMET_WINNING">
-      <Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL">
-      <Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original.</Text>
-    </Row>		
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_YOU_WINNING">
+			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_OTHER_PLAYER_WINNING">
+			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_TEAM_WINNING">
+			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! O time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_UNMET_WINNING">
+			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_YOU_WINNING">
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_OTHER_WINNING">
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_TEAM_WINNING">
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. O time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_UNMET_WINNING">
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL">
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_YOU_WINNING">
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_OTHER_WINNING">
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_TEAM_WINNING">
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. O time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_UNMET_WINNING">
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL">
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>Você reconquistou sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_OTHER_PLAYER_WINNING">
+			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! O time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_OTHER_WINNING">
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. O time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL">
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital original.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_OTHER_WINNING">
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. O time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL">
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital original.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_RECOVERED_CAPITAL">
 			<Text>Sua [ICON_CAPITAL]Capital foi recuperada!</Text>
 		</Row>
@@ -2456,8 +2456,8 @@
 			<Text>Nenhuma área acessível à exploração no momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ACTION_AUTOMATE_EXPLORE_HELP">
-      <Text>Esta ordem fará com que a unidade explore regiões desconhecidas no mapa. A unidade continuará explorando até não existir mais lugares a serem explorados.</Text>
-    </Row>
+			<Text>Esta ordem fará com que a unidade explore regiões desconhecidas no mapa. A unidade continuará explorando até não existir mais lugares a serem explorados.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_COMMAND_CANCEL_ALL_HELP">
 			<Text>Cancelará todas as ordens dadas à unidade selecionada.</Text>
 		</Row>
