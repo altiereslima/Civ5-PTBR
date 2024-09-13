@@ -118,7 +118,7 @@
 			<Text>Eles querem uma estrada construída entre nossas [ICON_CAPITAL]Capitais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CAMP">
-			<Text>Ainda há acampamentos bárbaros nas proximidades que gostaríamos de alguém cuidasse disso.</Text>
+			<Text>Ainda há acampamentos bárbaros nas proximidades que gostaríamos que alguém cuidasse disso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CAMP_FORMAL">
 			<Text>Eles querem um acampamento bárbaro próximo a eles destruído.</Text>
