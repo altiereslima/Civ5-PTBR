@@ -494,7 +494,7 @@
       <Text>Este é um "mod" exclusivo.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_MODSTATUS">
-      <Text>Versão alfa|Versão beta|Versão anterior|Demonstra��o</Text>
+      <Text>Versão alfa|Versão beta|Versão anterior|Demonstração</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_MULTIPLAYER">
       <Text>MULTIJOGADOR</Text>
@@ -551,7 +551,7 @@
       <Text>Jogar uma partida previamente salva.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SCENARIO_TITLE">
-      <Text>CONFIGURAÇÃO DE CEN�RIOS MODIFICADOS</Text>
+      <Text>CONFIGURAÇÃO DE CENÁRIOS MODIFICADOS</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SCENARIOS">
       <Text>CENÁRIOS</Text>
@@ -560,7 +560,7 @@
       <Text>Jogar um cenário.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SCREENSHOT">
-      <Text>VISUALIZAR SCREENSHOTS</Text>
+      <Text>VISUALIZAR CAPTURAS DE TELA</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SEARCH_TOOLTIP">
       <Text>Procurar um "mod".</Text>
@@ -569,7 +569,7 @@
       <Text>CONFIGURAÇÃO DA PARTIDA MODIFICADA</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SHOW_SCREENSHOT">
-      <Text>Mostrar visualizador de screenshots</Text>
+      <Text>Mostrar visualizador de captura de tela</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER">
       <Text>UM JOGADOR</Text>
@@ -673,7 +673,7 @@
 		<Text>Apagar</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_CONFIRM">
-		<Text>Tem certeza que deseja cancelar a inscrição deste mod? Isdso removerá o mod do seu computador.</Text>
+		<Text>Tem certeza que deseja cancelar a inscrição deste mod? Isso removerá o mod do seu computador.</Text>
 	</Row>
     <Row Tag="TXT_KEY_MODDING_NEXT">
       <Text>PRÓXIMO</Text>
