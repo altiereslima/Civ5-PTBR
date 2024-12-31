@@ -439,7 +439,7 @@
 			<Text>Unidade montada que se especializa em ataques rápidos e defesa contra unidades militares e religiosas. Pode ser obtida apenas através da adoção da política Jinetes das Planícies pelos Americanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_GREAT_ADMIRAL_STRATEGY">
-			<Text>O Grande Almirante tem a capacidade de reparar instantaneamente todas as unidades navais e embarcadas no mesmo hexágono, bem como nos hexágonos adjacentes. O Grande Almirante pode realizar uma versão mais fraca da "missão comercial" do Grande Comerciante. O Grande Almirante é consumido ao realizar qualquer uma dessas ações. O Grande Almirante também fornece um bônus de combate de 15% a todas as unidades navais pertencentes ao jogador dentro de 2 hexágonos. O Grande Almirante NÃO é consumido ao fornecer esse bônus.</Text>
+			<Text>O Grande Almirante tem a capacidade de reparar instantaneamente todas as unidades navais e embarcadas no mesmo hexágono, bem como nos hexágonos adjacentes. O Grande Almirante pode realizar uma versão mais fraca da "missão comercial" do Grande Mercador. O Grande Almirante é consumido ao realizar qualquer uma dessas ações. O Grande Almirante também fornece um bônus de combate de 15% a todas as unidades navais pertencentes ao jogador dentro de 2 hexágonos. O Grande Almirante NÃO é consumido ao fornecer esse bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_HELP_INQUISITOR">
 			<Text>Usado para remover outras religiões de cidades. Pode ser obtido apenas através da compra com [ICON_PEACE]Fé. [COLOR_POSITIVE_TEXT]Não requer manutenção.[ENDCOLOR]</Text>
