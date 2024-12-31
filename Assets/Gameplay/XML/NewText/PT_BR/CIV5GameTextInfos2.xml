@@ -1514,7 +1514,7 @@
             <Text>Desembarcar</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HEAL">
-            <Text>Fortificar até se curar</Text>
+            <Text>Fortificar até estar curado</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HURRY_PRODUCTION">
             <Text>Acelerar produção</Text>
