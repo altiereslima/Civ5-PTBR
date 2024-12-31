@@ -590,10 +590,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Exército Profissional[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para atualizar unidades militares é reduzido em 33% e +1 de [ICON_HAPPINESS_1]Felicidade para cada edificação defensiva (Muralha, Castelo, Arsenal, Base Militar).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION">
-			<Text>Tolerância Religiosa</Text>
+			<Text>Liberdade Religiosa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Reduz o custo em [ICON_CULTURE]Cultura para futuras políticas em 10%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Liberdade Religiosa[ENDCOLOR][NEWLINE]Reduz o custo em [ICON_CULTURE]Cultura para futuras políticas em 10%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Ponto de Movimento para unidades navais e +1 de Visão para unidades navais de combate. Um Grande Almirante aparece. +2 de [ICON_MOVES]Pontos de Movimento para todos os Grandes Almirantes.</Text>
