@@ -1058,7 +1058,7 @@
             <Text>{1_Num} da Tecnologia</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MY_SCORE_FUTURE_TECH">
-            <Text>{1_Num} por Futuras Tecnologias</Text>
+            <Text>{1_Num} por Tecnologia do Futuro</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DIPLOMACY_BUTTON">
             <Text>DIPLOMACIA</Text>
