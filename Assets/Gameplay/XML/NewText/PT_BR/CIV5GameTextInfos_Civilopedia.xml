@@ -792,10 +792,10 @@
 			<Text>Esta Maravilha do começo do jogo proporciona um monumento grátis a cada cidade, bem como +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Como os monumentos proporcionam [ICON_CULTURE]Cultura por si só, esta Maravilha é uma maneira inteligente de aumentar o tamanho de suas cidades e também de acelerar a aquisição de políticas sociais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SYDNEY_OPERA_HOUSE_PEDIA">
-			<Text>O Teatro da Ópera de Sydney é uma das maiores casas de óperas do mundo. Sua construção durou 20 anos e terminou em 1973, e resultou na bela edificação que está assentada sobre o Bennelong Point, no Porto de Sydney, Austrália. Desenhada como uma série de conchas ou asas, a estrutura é uma das mais reconhecidas do mundo e se tornou símbolo da Austrália, da mesma maneira que a Estátua da Liberdade representa os Estados Unidos ou as Grandes Pirâmides o Egito. Ela abriga um Teatro de Ópera, uma Sala de Concertos, três espaços menores e um restaurante.</Text>
+			<Text>A Casa de Ópera de Sydney é uma das maiores casas de óperas do mundo. Sua construção durou 20 anos e terminou em 1973, e resultou na bela edificação que está assentada sobre o Bennelong Point, no Porto de Sydney, Austrália. Desenhada como uma série de conchas ou asas, a estrutura é uma das mais reconhecidas do mundo e se tornou símbolo da Austrália, da mesma maneira que a Estátua da Liberdade representa os Estados Unidos ou as Grandes Pirâmides o Egito. Ela abriga um Teatro de Ópera, uma Sala de Concertos, três espaços menores e um restaurante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SYDNEY_OPERA_HOUSE_STRATEGY">
-			<Text>O Teatro da Ópera de Sydney é uma Maravilha da fase avançada do jogo que ajuda o jogador a conseguir uma Vitória Cultural. Só pode ser construído em cidades costeiras.</Text>
+			<Text>A Casa de Ópera de Sydney é uma Maravilha da fase avançada do jogo que ajuda o jogador a conseguir uma Vitória Cultural. Só pode ser construída em cidades costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TAJ_MAHAL_STRATEGY">
 			<Text>O Taj Mahal aumenta em 50% a duração da Era do Ouro de uma civilização. Também proporciona +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Se sua civilização dá lugar a muitas Eras Douradas, esta maravilha pode melhorar notavelmente seus efeitos.</Text>
@@ -1203,13 +1203,13 @@
 			<Text>Comunicando com Cidades-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CULTURED_ADV_QUEST">
-			<Text>O que significa uma Cidade-Estado culta?</Text>
+			<Text>O que significa uma Cidade-Estado cultural?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CULTURED_HEADING3_BODY">
-			<Text>Uma Cidade-Estado culta pode ajudar a melhorar sua cultura.</Text>
+			<Text>Uma Cidade-Estado cultural pode ajudar a melhorar sua cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CULTURED_HEADING3_TITLE">
-			<Text>Culta</Text>
+			<Text>Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_DIPLOVICTORY_ADV_QUEST">
 			<Text>Que efeitos têm as Cidades-Estado na vitória diplomática?</Text>
@@ -1305,7 +1305,7 @@
 			<Text>Uma Cidade-Estado militarista pode fornecer unidades para seu exército.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILITARISTIC_HEADING3_TITLE">
-			<Text>Militar</Text>
+			<Text>Militarista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MISSIONS_ADV_QUEST">
 			<Text>Quais são as missões das Cidades-Estado e como influenciam?</Text>
@@ -3846,10 +3846,10 @@
 			<Text>Sociedade Civil</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_COLLECTIVERULE_HEADING">
-			<Text>Controle Coletivo</Text>
+			<Text>Governo Coletivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_COLLECTIVERULE_TEXT">
-			<Text>Controle Coletivo é a política na qual cada membro (ou qualquer membro adulto, ou qualquer membro adulto masculino) da sociedade tem participação no processo de governo, votando diretamente nas decisões ao invés de utilizarem representantes (como em uma república). Embora seja, talvez, uma forma efetiva de governo para tribos e pequenas vilas, o Controle Coletivo se torna muito mais dificultoso e inviável à medida que a política cresce em tamanho. Se metade dos cidadãos de uma tribo de 100 quiser falar por um minuto em uma reunião, eles podem fazê-lo em menos de uma hora. Se metade dos cidadãos da cidade de Nova Iorque quiser falar por um minuto, eles precisarão de cerca de 60.000 horas (além de um enorme salão de reuniões).</Text>
+			<Text>Governo coletivo é a política na qual cada membro (ou cada membro adulto, ou cada membro adulto masculino) da sociedade participa do processo de governança, votando diretamente nas decisões em vez de através de um representante (como em uma república). Embora seja talvez uma forma eficaz de governo para tribos ou pequenas vilas, o governo coletivo torna-se cada vez mais difícil e complicado conforme a população aumenta de tamanho. Se metade dos cidadãos de uma tribo de 100 pessoas quisesse falar por um minuto em uma reunião, eles poderiam fazê-lo em menos de uma hora. Se metade dos cidadãos de Nova Iorque quisesse falar por um minuto, eles precisariam de cerca de 66.000 horas (além de um salão de reuniões realmente enorme).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_COMMERCE_HEADING">
 			<Text>Comércio</Text>
@@ -3882,7 +3882,7 @@
 			<Text>Independência</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_FREERELIGION_HEADING">
-			<Text>Religião Livre</Text>
+			<Text>Liberdade Religiosa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_FREESPEECH_HEADING">
 			<Text>Liberdade de Expressão</Text>
@@ -4035,7 +4035,7 @@
 			<Text>Sufrágio Universal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_WARRIORCODE_HEADING">
-			<Text>Código de Guerreiro</Text>
+			<Text>Código do Guerreiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RAGUSA_TEXT">
 			<Text>A moderna cidade Croata de Dubrovnik foi por um tempo uma poderosa Cidade-Estado conhecida como a República de Ragusa. Fundada no século XVII, acredita-se que a cidade de Ragusa tenha sido originalmente fundada em uma pequena ilha situada no mar Adriático, não muito longe da costa sul da Croácia moderna. Estes fundadores, um grupo de refugiados Romano, instituíram o assentamento, após fugirem da destruição de sua cidade natal de Epidaurus. Ao longo do tempo, a cidade se expandiu na região envolvente, graças à assistência dos Bizantinos e Otomano, bem como os reis da Croácia e Hungria. O desenvolvimento da cidade, particularmente em áreas chave, como o Porto de Gruz (um porto importante até hoje) iria atrair a ira de Veneza, cujo domínio do comércio marítimo era incomparável.[NEWLINE][NEWLINE]Começando em 1205, quando Veneza invadiu o que era então conhecida como Dalmácia (uma região do leste da Croácia), Ragusa foi forçada a uma posição de suserania, pagando extensivos tributos a Veneza e ao mesmo tempo servindo como a base naval de Veneza no Mar Adriático. Apesar das pressões de influência Veneziana, o desenvolvimento de Ragusa como um centro do comércio do Adriático continuaria. Intromissões de Veneza, no entanto, tiveram seus efeitos sobre a população e o ressentimento crescente entre o povo de Ragusa e Veneza durante este período marcaria o início de uma antiga rivalidade econômica entre as duas Cidades-Estado. Depois que Veneza cedeu suas reivindicações para a Dalmácia em 1358, Ragusa, finalmente teve a oportunidade de ganhar autonomia real. A República de Ragusa foi estabelecido logo após, a aristocracia da cidade rapidamente consolidando o poder entre si. A nobreza conseguiu quase todos os postos da política de Ragusa, deixando os cidadãos e plebeus quase sem voz. Este governo iria operar de forma autônoma, sob a soberania do rei Húngaro, pelos próximos 100 anos.[NEWLINE][NEWLINE]Em 1458, um tratado assinado com o Império Otomano solidificou a posição de Ragusa como um centro comercial forte pelo restante de seu tempo como república. Sob a proteção dos Otomanos, a cidade prosperou. Taxas alfandegárias reduzidas, o acesso ao Mar Negro (anteriormente restrito aos comerciantes Otomanos), e o apoio Otomano em disputas comerciais forneceram todas as vantagens valiosas, impulsionando a posição de Ragusa como o porto dominante do Adriático.[NEWLINE][NEWLINE]No seu auge, Ragusa tinha uma população de aproximadamente 30.000 pessoas e serviu como um elo crucial entre os portos da Itália e os destinos do Oriente. No entanto, como bens da Índia, China e outros se tornaram mais facilmente disponíveis, a influência comercial de Ragusa diminuiu. Um forte terremoto atingiria a cidade em 1667, destruindo cerca de 75% das estruturas e matando mais de 5.000 moradores. Sendo um vulto de sua forma anterior, em 1806 a cidade finalmente se rendeu ao exército de Napoleão e de 1808 a República de Ragusa não existia mais.[NEWLINE][NEWLINE]Hoje, a cidade de Dubrovnik é um popular destino turístico no Mar Adriático, com uma população de mais de 40.000. Dubrovnik também continua sendo um porto comercial, um dos poucos remanescentes do seu passado histórico.</Text>
@@ -8506,7 +8506,7 @@
 			<Text>Como política, Independência geralmente significa que nenhuma classe da sociedade é subserviente à outra, e que todos são igualmente sujeitos às leis. Eu não posso ser seu dono e você não pode levar minha esposa de mim, simplesmente porque você é o genro do rei. Sociedades livres são geralmente mais bem sucedidas do que os estados não livres, bem como o povo livre muitas vezes sente que tem mais participação no sucesso ou no fracasso do seu país.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREERELIGION_TEXT">
-			<Text>Religião Livre é a política de um Estado que não obriga as quais religiões seus membros devem aderir. Todas as religiões são bem-vindas, e deixe que o mercado espiritual decida entre eles. Embora talvez implementada por razões mais nobres, religião livre muitas vezes tem o efeito de limitar o poder de qualquer religião individualmente. Nos estados com uma religião, as pessoas da alta cúpula de uma religião podem lidar com uma grande quantidade de poder(testemunhamos atualmente no Irã). Estados com a religião livre geralmente tentam tratá-las todas igualmente, garantindo que nenhuma possa se tornar, em última instância, dominante.</Text>
+			<Text>Liberdade Religiosa é a política de um Estado que não obriga as quais religiões seus membros devem aderir. Todas as religiões são bem-vindas, e deixe que o mercado espiritual decida entre eles. Embora talvez implementada por razões mais nobres, religião livre muitas vezes tem o efeito de limitar o poder de qualquer religião individualmente. Nos estados com uma religião, as pessoas da alta cúpula de uma religião podem lidar com uma grande quantidade de poder(testemunhamos atualmente no Irã). Estados com a religião livre geralmente tentam tratá-las todas igualmente, garantindo que nenhuma possa se tornar, em última instância, dominante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREESPEECH_TEXT">
 			<Text>Liberdade de Expressão é a política em que as pessoas são capazes de dizer o que quiser sem medo de represálias do governo. Candidatos políticos devem ser livres para as suas posições, a mídia de notícias deve ser livre para apontar falhas do governo, e comediantes deve ser livre para tirar sarro do sotaque do governante. Mesmo nas sociedades mais livres geralmente há algum tipo de limitação à liberdade de expressão - nos Estados Unidos não se pode gritar "fogo!" em um cinema lotado, por exemplo, nem se pode defender a derrubada violenta do governo dos EUA ou ameaçar atirar uma figura política. (Também é perigoso dizer a alguém fora da cidade de Nova York que você é um fã do New York Yankees, mas não é realmente ilegal.)</Text>
@@ -8644,7 +8644,7 @@
 			<Text>O sufrágio universal significa que todos no país podem votar - ao invés de, digamos, só os homens ou as pessoas brancas, a nobreza, ou proprietários. Muitas vezes, o sufrágio universal não é totalmente "universal": as crianças, os criminosos condenados e não cidadãos ainda são geralmente impedidos de votar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_WARRIORCODE_TEXT">
-			<Text>O código de guerreiro representa as organizações militares em que os soldados sentem uma forte aliança com o exército e seus companheiros do que qualquer outra coisa. O soldado está disposto - se não ansiosa - para lutar e morrer para o exército. Ele vai seguir as ordens sem questionar, colocando o bem dos militares à frente de seu próprio bem estar pessoal, ou mesmo o bem estar de sua nação como um todo. Essas organizações podem ser muito perigosas, a menos que os líderes da nação mantenha um controle extremamente apertado neles. De acordo com alguns historiadores, ante Segunda Guerra Mundial no Japão, o Exército Imperial e da Marinha foram quase inteiramente de controle civil, e suas ações militaristas arrastando aquele país para o confronto final desastrosa com os Estados Unidos.</Text>
+			<Text>O código do guerreiro representa as organizações militares em que os soldados sentem uma forte aliança com o exército e seus companheiros do que qualquer outra coisa. O soldado está disposto - se não ansiosa - para lutar e morrer para o exército. Ele vai seguir as ordens sem questionar, colocando o bem dos militares à frente de seu próprio bem estar pessoal, ou mesmo o bem estar de sua nação como um todo. Essas organizações podem ser muito perigosas, a menos que os líderes da nação mantenha um controle extremamente apertado neles. De acordo com alguns historiadores, ante Segunda Guerra Mundial no Japão, o Exército Imperial e da Marinha foram quase inteiramente de controle civil, e suas ações militaristas arrastando aquele país para o confronto final desastrosa com os Estados Unidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA">
 			<Text>O Programa Apollo foi uma iniciativa dos Estados Unidos para colocar o primeiro ser humano na Lua. Concebido nos anos 1950, o programa começou de fato sob a presidência de Jonh F. Kennedy. Com uma década, em 20 de julho de 1969, os americanos Neil Armstrong e Buzz Aldrin aterrissaram na Lua. Sem dúvidas, uma das maiores façanhas da engenharia na história humana. O Programa Apollo foi bastante dispendioso, mas os avanços trazidos por ele em tecnologia e ciência mudaram o mundo para sempre.</Text>
@@ -9157,13 +9157,13 @@
 			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MERCHANT_ADV_QUEST">
-			<Text>O que o especialista Comerciante faz?</Text>
+			<Text>O que o especialista Mercador faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MERCHANT_HEADING3_BODY">
-			<Text>Um especialista Comerciante produz ouro e gera pontos para obtenção de um Grande Mercador. Comerciantes são designados para edificações prósperas como Mercados e Bancos.</Text>
+			<Text>Um especialista Mercador produz ouro e gera pontos para obtenção de um Grande Mercador. Comerciantes são designados para edificações prósperas como Mercados e Bancos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MERCHANT_HEADING3_TITLE">
-			<Text>Comerciante</Text>
+			<Text>Mercador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MOVINGGREATPEOPLE_ADV_QUEST">
 			<Text>Como uma Grande Personalidade se move?</Text>
