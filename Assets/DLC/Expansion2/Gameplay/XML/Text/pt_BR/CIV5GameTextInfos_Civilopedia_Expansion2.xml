@@ -1053,8 +1053,8 @@
 		<Row Tag="TXT_KEY_BUILDING_HANSE_STRATEGY">
 			<Text>Além das habilidades regulares do Banco (produção adicional de [ICON_GOLD]Ouro e mais [ICON_GOLD]Ouro adicional por rotas comerciais), a Hansa fornece [ICON_PRODUCTION]Produção para cada rota comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As rotas comerciais podem vir de qualquer combinação de cidades, mesmo sem a Hansa (Exemplo: se você tiver rotas comerciais de Berlim para Genebra, Munique para Genebra, Munique para Berlim e Berlim para Bruxelas, todas as cidades com Hansa receberão +15% de [ICON_PRODUCTION]Produção). Somente a Alemanha pode construí-la.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_BUILDING_HARBOR_STRATEGY">
-			<Text>O Porto é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Porto também aumenta a [ICON_PRODUCTION]Produção de um recurso marítimo melhorado.</Text>
+		<Row Tag="TXT_KEY_BUILDING_Ancoradouro_STRATEGY">
+			<Text>O Ancoradouro é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Ancoradouro também aumenta a [ICON_PRODUCTION]Produção de um recurso marítimo melhorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_STRATEGY">
 			<Text>Com o seu enorme impulso para [ICON_TOURISM]Turismo, o Hotel é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural ou aumentar seu impacto ideológico em outras civilizações.</Text>
@@ -1239,7 +1239,7 @@
 			<Text>O projeto original das {TXT_KEY_UNIT_GALLEASS[2]} evoluiu das grandes galés mercantes e manteve-se relativamente inalterado até 1660, quando Veneza construiu seu primeiro Navio de Linha. Ele normalmente tinha três mastros equipados e era caracterizado por uma proa bem como uma popa. Transportando mais velas e remos que a {TXT_KEY_UNIT_GALLEASS} padrão para aumentar a velocidade, estes navios de guerra Venezianos também tinham uma arma no deck que corria por cima das cabeças dos remadores. No Mediterrâneo, a {TXT_KEY_UNIT_VENETIAN_GALLEASS} permaneceu em serviço por muito tempo depois de ter sido substituída por maiores navios de guerra de outras nações. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_VENETIAN_MERCHANT_TEXT">
-			<Text>Os comerciantes que operam a partir de Veneza nos séculos 13-16 eram mais do que apenas comerciantes: eles eram exploradores, diplomatas, geógrafos e autores. Além de trazerem riqueza à República de Veneza, eles trouxeram conhecimento e cultura e colocaram-nas por escrito. As façanhas de indivíduos, como Marco Polo, Gasparo Balbi e Ambrogio Contarini, não só fizeram Veneza rica, mas famosa também.</Text>
+			<Text>Os mercadores que operam a partir de Veneza nos séculos 13-16 eram mais do que apenas mercadores: eles eram exploradores, diplomatas, geógrafos e autores. Além de trazerem riqueza à República de Veneza, eles trouxeram conhecimento e cultura e colocaram-nas por escrito. As façanhas de indivíduos, como Marco Polo, Gasparo Balbi e Ambrogio Contarini, não só fizeram Veneza rica, mas famosa também.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_XCOM_SQUAD_TEXT">
 			<Text>Reconhecendo a ameaça potencial de {TXT_KEY_UNIT_MECH[2]}, alienígenas e outras ameaças externas, a Iniciativa XCOM nasceu para proteger a população dos inimigos conhecidos e desconhecidos.</Text>
