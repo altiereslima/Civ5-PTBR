@@ -18,7 +18,7 @@
 			<Text>Uma Cidade-Estado marítima caiu frente às nossas forças Mongóis. O povo daquela nação nos pagou um resgate generoso de ({1_NumGold} de Ouro) para preservar suas vidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CULTURED_FALLEN">
-			<Text>Uma Cidade-Estado culta caiu frente às nossas forças Mongóis. Nós conseguimos descobrir, do povo daquela nação, os segredos de uma nova Política Social. Escolha uma Política gratuita de sua preferência, Grande Khan.</Text>
+			<Text>Uma Cidade-Estado cultural caiu frente às nossas forças Mongóis. Nós conseguimos descobrir, do povo daquela nação, os segredos de uma nova Política Social. Escolha uma Política gratuita de sua preferência, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN">
 			<Text>Parabéns, mais uma grande civilização caiu frente aos nossos cavaleiros. Nós conseguimos saquear uma grande riqueza de ({1_NumGold} de Ouro) do tesouro deles. Nós também descobrimos uma nova revelação científica, após estudar sua forma de vida estrangeira. Escolha uma Tecnologia gratuita de sua preferência, Grande Líder.</Text>
