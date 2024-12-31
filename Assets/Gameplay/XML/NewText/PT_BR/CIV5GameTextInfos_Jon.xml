@@ -73,10 +73,10 @@
 			<Text>(Se você quiser falar com {1_CivName:textkey} novamente, clique na cidade.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_CULTURED">
-			<Text>Somos um povo [COLOR_POSITIVE_TEXT]Culto[ENDCOLOR] e podemos ajudar a melhorar a sua [ICON_CULTURE] [COLOR_POSITIVE_TEXT]Cultura[ENDCOLOR].</Text>
+			<Text>Somos um povo [COLOR_POSITIVE_TEXT]cultural[ENDCOLOR] e podemos ajudar a melhorar a sua [ICON_CULTURE] [COLOR_POSITIVE_TEXT]Cultura[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_MILITARISTIC">
-			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Militarizado[ENDCOLOR] e podemos aumentar a força de seu [COLOR_POSITIVE_TEXT]Exército[ENDCOLOR].</Text>
+			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] e podemos aumentar a força de seu [COLOR_POSITIVE_TEXT]Exército[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_MARITIME">
 			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Marítimo[ENDCOLOR] e podemos ajudar a acelerar o [ICON_FOOD][COLOR_POSITIVE_TEXT]Crescimento[ENDCOLOR] da sua Civilização.</Text>
@@ -217,7 +217,7 @@
 			<Text>Ninguém</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_CULTURED_TT">
-			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Culta[ENDCOLOR] irá fornecer presentes de [ICON_CULTURE]Cultura, permitindo que você obtenha Políticas Sociais mais rapidamente.</Text>
+			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Cultural[ENDCOLOR] irá fornecer presentes de [ICON_CULTURE]Cultura, permitindo que você obtenha Políticas Sociais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
 			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] irá fornecer ocasionalmente unidades avançadas como presente. Eles também solicitarão favores militares, naturalmente (exemplo: destruir um acampamento bárbaro ou capturar uma Cidade-Estado vizinha).</Text>
@@ -1409,7 +1409,7 @@
 			<Text>Reforma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION">
-			<Text>Religião Livre</Text>
+			<Text>Liberdade Religiosa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PHILANTHROPY">
 			<Text>Filantropia</Text>
@@ -1559,7 +1559,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]A [ICON_CULTURE]Cultura aumenta em 33% em todas as cidades que tenham construído uma Maravilha Mundial e o Império entra imediatamente em uma [ICON_GOLDEN_AGE]Era Dourada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Religião Livre[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura para cada Monumento, Templo e Monastério. Além disso, fornece 1 Política gratuita.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Liberdade Religiosa[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura para cada Monumento, Templo e Monastério. Além disso, fornece 1 Política gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PHILANTHROPY_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Filantropia[ENDCOLOR][NEWLINE]O [ICON_GOLD]Ouro dado as Cidades-Estado produzirão 25% mais [ICON_INFLUENCE]Influência.</Text>
