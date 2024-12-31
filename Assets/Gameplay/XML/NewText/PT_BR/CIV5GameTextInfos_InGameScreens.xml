@@ -238,7 +238,7 @@
             <Text>Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_FUTURE_TECH">
-          <Text>Futuras Tecnologias</Text>
+          <Text>Tecnologia do Futuro</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_TURNS_TT">
             <Text>Turnos antes do fim do jogo</Text>
