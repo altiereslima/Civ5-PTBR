@@ -717,7 +717,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_NEUTRAL">
-			<Text>Neutralidade</Text>
+			<Text>Neutra</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
