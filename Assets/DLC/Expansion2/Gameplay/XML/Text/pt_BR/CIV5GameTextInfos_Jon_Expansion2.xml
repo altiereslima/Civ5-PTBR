@@ -41,7 +41,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Mandato Divino[ENDCOLOR][NEWLINE]20% de desconto em todas as compras de unidades e edificações religiosas com [ICON_PEACE]Fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Cidades com uma religião predominante também recebem o bônus de crença do Panteão da segunda religião mais popular.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Liberdade Religiosa[ENDCOLOR][NEWLINE]Cidades com uma religião predominante também recebem o bônus de crença do Panteão da segunda religião mais popular.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]Se você fundar uma religião, ganhe um bônus de crença da Reforma.</Text>
