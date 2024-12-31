@@ -6,7 +6,7 @@
 			<Text>Quem são esses assessores tão incríveis?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_ADV_QUEST">
-			<Text>Como posso chamar meus assessores?</Text>
+			<Text>Como posso entrar em contato com meus assessores?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_BODY">
 			<Text>Durante o jogo, seus Assessores aparecerão em janelas emergentes quando tiverem algo que acham que você deve saber. Eles frequentemente fornecem links para outras informações relacionadas ao tópico atual. Você pode seguir esses links ou clicar em "Obrigado" a qualquer momento para dispensar o Assessor.[NEWLINE][NEWLINE]Você também pode pressionar o botão "Assessores" no canto superior direito da tela para acessar a tela de "Conselho dos Assessores". Lá, você pode ver todos os quatro Assessores; se tiverem algo útil a dizer sobre a situação atual, isso aparecerá lá.</Text>
@@ -18,7 +18,7 @@
 			<Text>Por que a assessora econômica é tão importante?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_BODY">
-			<Text>A assessora econômica lhe aconselha sobre a construção e melhoria de cidades e do território.</Text>
+			<Text>A assessora econômica aconselha-o sobre a construção e melhoria de cidades e do território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_TITLE">
 			<Text>Economia</Text>
@@ -33,7 +33,7 @@
 			<Text>Relações Exteriores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_HEADING1_BODY">
-			<Text>Como líder de uma poderosa civilização, você tem um círculo de competentes assessores que te ajudarão com orientações e aconselhamento. Eles vão sinalizar as coisas que acreditam serem importantes ou que possa ter esquecido. Você pode desativá-los se quiser, mas tente jogar com eles no primeiro momento. Você tem quatro diferentes assessores. Cada um te aconselha sobre uma área específica de atuação:</Text>
+			<Text>Como líder de uma poderosa civilização, você tem um círculo de competentes assessores que te ajudarão com orientações e aconselhamento. Eles destacarão as coisas que consideram importantes ou que você possa ter esquecido. Você pode desativá-los se quiser, mas tente jogar com eles no primeiro momento. Você tem quatro diferentes assessores. Cada um te aconselha sobre uma área específica de atuação:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_HEADING1_TITLE">
 			<Text>Assessores</Text>
@@ -48,7 +48,7 @@
 			<Text>Militar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_SCIENCE_ADV_QUEST">
-			<Text>Esse cara parece um nerd da ciência. Este nerd serve para algo?</Text>
+			<Text>Esse cara da ciência parece nerd. Ele faz alguma coisa legal?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_SCIENCE_HEADING3_BODY">
 			<Text>O Assessor da Ciência te aconselha sobre ciência e tecnologia, bem como informações sobre as regras do jogo.</Text>
@@ -60,7 +60,7 @@
 			<Text>Como posso fazer com que meus assessores se calem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_BODY">
-			<Text>Na tela de "Opções" você pode determinar o nível de ajuda que quer de seus assessores. Você pode definir o nível de conselhos para Novo em Civ, Novo em Civ 5, Jogador Experiente, ou Sem Conselhos. Se desativado, eles não irão aparecer nas janelas emergentes, mas você ainda poderá acessar a tela dos "Assessores" para ver o que pensam.</Text>
+			<Text>Você pode ajustar o nível de ajuda que recebe dos Assessores na tela de 'Opções'. Você pode definir o nível de conselhos para Novo em Civ, Novo em Civ 5, Jogador Experiente, ou Sem Conselhos. Se desativado, eles não irão aparecer nas janelas emergentes, mas você ainda poderá acessar a tela dos "Assessores" para ver o que pensam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_TITLE">
 			<Text>Desativação dos Assessores</Text>
@@ -72,7 +72,7 @@
 			<Text>O que são as bases aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_BODY">
-			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os Caças e alguns Bombardeiros também podem ter como base Porta-Aviões. As unidades de Mísseis podem ter como base cidades, submarinos nucleares e cruzadores porta-mísseis. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - Porta-aviões, Cruzadores ou Submarinos Nucleares.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas se movem pelo mapa como as demais unidades e podem embarcar.</Text>
+			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os Caças e alguns Bombardeiros também podem ter como base Porta-Aviões. As unidades de Mísseis podem ter como base cidades, submarinos nucleares e cruzadores porta-mísseis. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - Porta-aviões, Cruzadores ou Submarinos Nucleares.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas movem-se pelo mapa como as demais unidades e podem embarcar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_TITLE">
 			<Text>Bases Aéreas</Text>
@@ -126,7 +126,7 @@
 			<Text>Quais são as unidades aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRUNITS_HEADING2_BODY">
-			<Text>Em Civilization V há cinco tipos de unidades aéreas: helicópteros de combate, mísseis, caças, bombardeiros e unidades antiaéreas. Os helicópteros de combate são as mais parecidas com as unidades normais de combate terrestres e serão discutidas separadamente.[NEWLINE][NEWLINE]Das demais unidades aéreas, os mísseis são em essência armas "de um só uso": você o dispara, caem sobre seu alvo e desaparecem. Os caças são utilizados basicamente para se defender contra outra potência aérea e para limpar o alvo de interceptores para permitir que seus bombardeiros façam seu trabalho. Os bombardeiros causam dano a alvos em terra, se não forem interceptados. As unidades antiaéreas defendem contra caças e bombardeiros.</Text>
+			<Text>Em Civilization V há cinco tipos de unidades aéreas: helicópteros de combate, mísseis, caças, bombardeiros e unidades antiaéreas. Os helicópteros de combate são as mais parecidas com as unidades normais de combate terrestres e serão discutidas separadamente.[NEWLINE][NEWLINE]Das demais unidades aéreas, os mísseis são armas de uso único: você o dispara, caem sobre seu alvo e desaparecem. Os caças são utilizados basicamente para se defender contra outra potência aérea e para limpar o alvo de interceptores para permitir que seus bombardeiros façam seu trabalho. Os bombardeiros causam dano a alvos em terra, se não forem interceptados. As unidades antiaéreas defendem contra caças e bombardeiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRUNITS_HEADING2_TITLE">
 			<Text>Unidades Aéreas</Text>
@@ -135,7 +135,7 @@
 			<Text>Em que base é possível ter os mísseis?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ALLMISSILES_HEADING4_BODY">
-			<Text>Os mísseis podem ter suas bases em cidades, em porta-mísseis e em submarinos nucleares.</Text>
+			<Text>Os mísseis podem ter suas bases em cidades, em cruzadores de mísseis e em submarinos nucleares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ALLMISSILES_HEADING4_TITLE">
 			<Text>Todos os Mísseis</Text>
@@ -159,7 +159,7 @@
 			<Text>Bombas Atômicas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMICBOMBS_HEADING2_BODY">
-			<Text>A primeira arma nuclear disponível no jogo, a bomba atômica é uma unidade muito poderosa que pode afetar rapidamente o equilíbrio de poder mundial. As bombas atômicas são semelhantes aos mísseis, já que só podem atacar uma vez. Ao contrário dos mísseis, elas podem ser alocadas de Porta-aviões. O raio de dano de uma bomba atômica é de 2 hexágonos em qualquer direção. As unidades apanhadas pela explosão receberão dano e as cidades perderão sua população se a bomba a atingir.[NEWLINE][NEWLINE]Uma "bomba-A" não pode destruir totalmente uma cidade. Não importa quantas vezes a cidade é atingida por bombas atômicas, ela não será destruída.</Text>
+			<Text>A primeira arma nuclear disponível no jogo, a bomba atômica é uma unidade muito poderosa que pode afetar rapidamente o equilíbrio de poder mundial. As bombas atômicas são semelhantes aos mísseis, já que só podem atacar uma vez. Ao contrário dos mísseis, elas podem ser alocadas de Porta-aviões. O raio de dano de uma bomba atômica é de 2 hexágonos em qualquer direção. As unidades apanhadas pela explosão receberão dano e as cidades perderão sua população se a bomba a atingir.[NEWLINE][NEWLINE]Uma "bomba-A" não pode destruir totalmente uma cidade. Não importa quantas vezes uma cidade seja atingida por bombas atômicas, ela não será destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMICBOMBS_HEADING2_TITLE">
 			<Text>Bombas Atômicas</Text>
@@ -906,7 +906,7 @@
 			<Text>Como as edificações se interagem com os especialistas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_SPECIALISTS_HEADING2_BODY">
-			<Text>Certas edificações permitem a criação de "especialistas" a partir dos seus cidadãos para que trabalhem neles. Os especialistas melhoram o rendimento de uma edificação e também a produção de Grandes Personagens. Consulte a seção sobre Especialistas e Grandes Personalidades para obter mais detalhes.</Text>
+			<Text>Certas edificações permitem a criação de "especialistas" a partir dos seus cidadãos para que trabalhem neles. Os especialistas melhoram o rendimento de uma edificação e também a produção de Grandes Personalidades. Consulte a seção sobre Especialistas e Grandes Personalidades para obter mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_SPECIALISTS_HEADING2_TITLE">
 			<Text>Especialistas e Edificações</Text>
@@ -6619,7 +6619,7 @@
 			<Text>Tanque Moderno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MODERNARMOR_TEXT">
-			<Text>O Tanque Moderno foi significativamente melhorado ao longo do tempo, da mesma maneira que os melhores tanques da Segunda Guerra Mundial. Tanques de hoje são maiores, mais rápidos, têm blindagem muito melhor e as armas também, e, talvez mais importante, são fornecidos com computadores sofisticados e equipamentos de comunicação que melhoram consideravelmente o seu poder e capacidade de sobrevivência no campo de batalha mortal. Um tanque moderno pode percorrer o campo de batalha a 40 milhas por hora, enquanto dispara com precisão em alvos que estão há centenas de metros de distância, um computador minuciosamente ajusta o tambor do tanque, compensando cada lombada ou buraco na estrada.[NEWLINE][NEWLINE]No campo de batalha moderno, as maiores ameaças ao Tanque Moderno vêm dos blindados do inimigo e da artilharia, caças inimigos e helicópteros. Raramente alguém carrega armas de infantaria fortes o suficiente para destruir tanques inimigos - exceto, é claro, para os rádios, que podem ser usados para chamar o poder da artilharia ou aérea.</Text>
+			<Text>O Tanque Moderno foi significativamente melhorado ao longo do tempo, da mesma maneira que os melhores tanques da Segunda Guerra Mundial. Tanques de hoje são maiores, mais rápidos, têm blindagem muito melhor e as armas também, e, talvez mais importante, são fornecidos com computadores sofisticados e equipamentos de comunicação que melhoram consideravelmente o seu poder e capacidade de sobrevivência no campo de batalha mortal. Um tanque moderno pode percorrer o campo de batalha a 40 milhas por hora, enquanto dispara com precisão em alvos que estão há centenas de metros de distância, um computador minuciosamente ajusta o tambor do tanque, compensando cada lombada ou buraco na estrada.[NEWLINE][NEWLINE]No campo de batalha moderno, as maiores ameaças ao Tanque Moderno vêm dos blindados do inimigo e da artilharia, caças inimigos e helicópteros de combate. Raramente alguém carrega armas de infantaria fortes o suficiente para destruir tanques inimigos - exceto, é claro, para os rádios, que podem ser usados para chamar o poder da artilharia ou aérea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_NUCLEARMISSLE_HEADING">
 			<Text>Míssil Nuclear</Text>
@@ -9325,7 +9325,7 @@
 			<Text>Balística é o estudo do movimento envolvendo projéteis - principalmente balas, mísseis e bombas. Na maioria dos casos, o termo balística surge em relação ao estudo forense de armas e munições, em particular envolvendo o crime, em que pode ser necessário ligar uma arma com uma bala recuperada para provar a culpa ou inocência. O estudo mais geral de balística ao longo do século passado levou a grandes melhorias na precisão, potência e eficácia geral das armas de projéteis de diversos tipos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_DESC">
-			<Text>Os primeiros bancos na história provavelmente eram templos religiosos, estabelecidos por volta de 3.000 a.C. Na verdade, bancos vieram antes do dinheiro: os primeiros depósitos podem ter sido na forma de grãos. No século XVIII na Babilônia, o grande líder Hammurabi escreveu leis regulando os bancos em seu famoso Código. Posteriormente os gregos evoluíram o conceito de banco. Há registros de templos e outras instituições financeiras realizando empréstimos, aceitando depósitos, trocando e validando moedas (para assegurar que não eram falsificações). Os romanos continuaram aperfeiçoando este sistema bancário, porém quando o Império Romano caiu, levou junto à maioria das instituições bancárias na Europa. Os bancos não reapareceram na Europa até a Idade Média, quando foram descobertos por pessoas que procuravam formas de patrocinar as Cruzadas.[NEWLINE][NEWLINE]Hoje, bancos geralmente realizam as mesmas funções que efetuavam na Grécia antiga. Eles aceitam depósitos em dinheiro e os devolvem com juros quando o depositante solicita. Eles emprestam um pouco do dinheiro para um mutuário que o paga de volta (também com juros). Eles também trocam moeda, emitem cheques, além de outras coisas.[NEWLINE][NEWLINE]O valor do banco na sociedade é que ele permite muitas pessoas canalizar seu dinheiro para investir em grandes projetos. Digamos que eu queira constituir uma loja de impressão e o custo fosse 1.000 peças de ouro (muito além do que eu tivesse disponível). Antes dos bancos as únicas pessoas capazes de financiar o projeto seriam a realeza e, talvez, membros importantes da Igreja, e, se eles não tivessem interesse, meu projeto não iria a lugar nenhum. Entretanto, assim que os bancos fossem inventados eu poderia me dirigir a um deles e pedir um empréstimo. Se eles decidissem que meu projeto era razoável, e que eu era uma boa pessoa, eu estaria rico.[NEWLINE][NEWLINE]Sem bancos, seria extremamente difícil para um único cidadão realizar qualquer projeto.</Text>
+			<Text>Os primeiros bancos na história provavelmente eram templos religiosos, estabelecidos por volta de 3.000 a.C. Na verdade, bancos vieram antes do dinheiro: os primeiros depósitos podem ter sido na forma de grãos. No século XVIII na Babilônia, o grande líder Hamurábi escreveu leis regulando os bancos em seu famoso Código. Posteriormente os gregos evoluíram o conceito de banco. Há registros de templos e outras instituições financeiras realizando empréstimos, aceitando depósitos, trocando e validando moedas (para assegurar que não eram falsificações). Os romanos continuaram aperfeiçoando este sistema bancário, porém quando o Império Romano caiu, levou junto à maioria das instituições bancárias na Europa. Os bancos não reapareceram na Europa até a Idade Média, quando foram descobertos por pessoas que procuravam formas de patrocinar as Cruzadas.[NEWLINE][NEWLINE]Hoje, bancos geralmente realizam as mesmas funções que efetuavam na Grécia antiga. Eles aceitam depósitos em dinheiro e os devolvem com juros quando o depositante solicita. Eles emprestam um pouco do dinheiro para um mutuário que o paga de volta (também com juros). Eles também trocam moeda, emitem cheques, além de outras coisas.[NEWLINE][NEWLINE]O valor do banco na sociedade é que ele permite muitas pessoas canalizar seu dinheiro para investir em grandes projetos. Digamos que eu queira constituir uma loja de impressão e o custo fosse 1.000 peças de ouro (muito além do que eu tivesse disponível). Antes dos bancos as únicas pessoas capazes de financiar o projeto seriam a realeza e, talvez, membros importantes da Igreja, e, se eles não tivessem interesse, meu projeto não iria a lugar nenhum. Entretanto, assim que os bancos fossem inventados eu poderia me dirigir a um deles e pedir um empréstimo. Se eles decidissem que meu projeto era razoável, e que eu era uma boa pessoa, eu estaria rico.[NEWLINE][NEWLINE]Sem bancos, seria extremamente difícil para um único cidadão realizar qualquer projeto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade.</Text>
