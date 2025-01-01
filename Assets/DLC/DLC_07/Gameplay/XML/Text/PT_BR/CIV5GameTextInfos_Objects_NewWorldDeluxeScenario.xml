@@ -5,10 +5,10 @@
 	<Language_pt_BR>
 		<!-- Builds -->
 		<Row Tag="TXT_KEY_BUILD_TIPI_HELP">
-			<Text>Constrói um Tipi, que aumenta a quantidade de [ICON_FOOD]Comida, e [ICON_PEACE]Fé fornecidas por este hexágono.</Text>
+			<Text>Constrói um Tipi, que aumenta a quantidade de [ICON_FOOD] Comida, e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI_REC">
-			<Text>Aumentará a quantidade de [ICON_FOOD]Comida, e [ICON_PEACE]Fé fornecidas por este hexágono.</Text>
+			<Text>Aumentará a quantidade de [ICON_FOOD] Comida, e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI">
 			<Text>Construa um [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>

@@ -16,16 +16,16 @@
 			<Text>O Castelo é uma edificação da era medieval que aumenta a Força Defensiva da cidade em 12 e os Pontos de Vida em 25. A cidade deve possuir Muralhas antes que o Castelo possa ser construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
-			<Text>Cada plantação trabalhada por esta Cidade produz +1 de [ICON_GOLD]Ouro, exceto as Plantações de Cacau, que, quando trabalhadas por esta cidade, fornecem +3 de [ICON_GOLD]Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma plantação próxima.</Text>
+			<Text>Cada plantação trabalhada por esta Cidade produz +1 de [ICON_GOLD] Ouro, exceto as Plantações de Cacau, que, quando trabalhadas por esta cidade, fornecem +3 de [ICON_GOLD] Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma plantação próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
-			<Text>A Fábrica de Chocolate só pode ser construída em uma cidade com uma plantação próxima. A Casa de Chocolate aumenta a produção de [ICON_GOLD]Ouro para cada plantação em um e cada recurso de Cacau melhorado aumenta a produção de [ICON_GOLD]Ouro em mais 2.</Text>
+			<Text>A Fábrica de Chocolate só pode ser construída em uma cidade com uma plantação próxima. A Casa de Chocolate aumenta a produção de [ICON_GOLD] Ouro para cada plantação em um e cada recurso de Cacau melhorado aumenta a produção de [ICON_GOLD] Ouro em mais 2.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
 			<Text>Em 1643 d.C., a corte francesa adotou o chocolate - primeiro importado do Novo Mundo em 1585 para a Espanha - e uma moda de chocolate varreu a Europa na década seguinte. A primeira casa de chocolate abriu em Londres em 1657, oferecendo bebidas e doces feitos com o material, e em breve esses lugares se tornaram pontos de encontro elegantes para a elite em todo o continente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_HELP">
-			<Text>15% de [ICON_PRODUCTION]Produção ao construir unidades de pólvora.</Text>
+			<Text>15% de [ICON_PRODUCTION] Produção ao construir unidades de pólvora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_STRATEGY">
 			<Text>A Armeria aumenta a velocidade com que a cidade produz unidades de pólvora.</Text>
@@ -34,35 +34,35 @@
 			<Text>Os armeiros são artesãos que se dedicam ao design, modificação, fabricação e reparo de armas de fogo. Antes da existência da armeria de Eli Whitney em Mill River na década de 1790 d.C. e da produção em massa de revólveres por Samuel Colt em suas fábricas em Hartford (EUA) e Londres (Reino Unido) no meio do século 19, as armerias eram estabelecimentos cruciais para qualquer assentamento "civilizado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_HELP">
-			<Text>+1 de [ICON_PRODUCTION]Produção e +1 de [ICON_PEACE]Fé de cada hexágono de Floresta trabalhado.</Text>
+			<Text>+1 de [ICON_PRODUCTION] Produção e +1 de [ICON_PEACE] Fé de cada hexágono de Floresta trabalhado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_STRATEGY">
-			<Text>A Casa Grande é a edificação exclusiva dos Iroqueses, substituindo a Oficina. Ela aumenta a [ICON_PRODUCTION]Produção e a [ICON_PEACE]Fé para cada Floresta dentro do raio da cidade.</Text>
+			<Text>A Casa Grande é a Edificação Exclusiva dos Iroqueses, substituindo a Oficina. Ela aumenta a [ICON_PRODUCTION] Produção e a [ICON_PEACE] Fé para cada Floresta dentro do raio da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_HELP">
-			<Text>+5% de [ICON_PRODUCTION]Produção para cada Rota Comercial que sua civilização tiver com uma Cidade-Estado.</Text>
+			<Text>+5% de [ICON_PRODUCTION] Produção para cada Rota Comercial que sua civilização tiver com uma Cidade-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_STRATEGY">
-			<Text>A Casa de Reunião fornece [ICON_PRODUCTION]Produção para cada Rota Comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As Rotas Comerciais podem vir de qualquer combinação de cidades, mesmo cidades sem a Casas de Oração. Só pode ser construída em cidades que seguem uma religião com a crença em Casas de Reuniões. Construa esta edificação comprando-a com [ICON_PEACE]Fé.</Text>
+			<Text>A Casa de Reunião fornece [ICON_PRODUCTION] Produção para cada Rota Comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As Rotas Comerciais podem vir de qualquer combinação de cidades, mesmo cidades sem a Casas de Oração. Só pode ser construída em cidades que seguem uma religião com a crença em Casas de Reuniões. Construa esta edificação comprando-a com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEETING_HOUSE_TEXT">
 			<Text>No Novo Mundo, o centro social e cultural da maioria das colônias congregacionais Protestantes era a casa de reuniões, que servia tanto como um local de culto quanto de discurso público para os colonos. Para muitos assentamentos Quakers, Menonitas, Unitaristas, Puritanos, Batistas e outros, a casa de reuniões também servia como a prefeitura de facto, onde debates políticos, votos e decisões eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
-			<Text>O Mosteiro aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. O Mosteiro quadruplica a taxa de crescimento das fronteiras culturais da cidade. Só pode ser construído em cidades que seguem uma religião com a crença em Mosteiros. Construa esta edificação comprando-a com [ICON_PEACE]Fé.</Text>
+			<Text>O Mosteiro aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. O Mosteiro quadruplica a taxa de crescimento das fronteiras culturais da cidade. Só pode ser construído em cidades que seguem uma religião com a crença em Mosteiros. Construa esta edificação comprando-a com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_STRATEGY">
-			<Text>Cada Estábulo fornece 2 [ICON_RES_HORSE]Cavalos. Máximo de 5 dessas edificações em seu império.</Text>
+			<Text>Cada Estábulo fornece 2 [ICON_RES_HORSE] Cavalos. Máximo de 5 dessas edificações em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_HELP">
-			<Text>Fornece 2 [ICON_RES_HORSE]Cavalos. Máximo de 5 dessas edificações em seu império.</Text>
+			<Text>Fornece 2 [ICON_RES_HORSE] Cavalos. Máximo de 5 dessas edificações em seu império.</Text>
 		</Row>
 		<!-- National Wonder-->
 		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_STRATEGY">
 			<Text>Uma edificação importante para uma civilização americana que tenta espalhar sua religião pelo mundo a partir de um império com poucas e populosas cidades. Também aumenta o crescimento das fronteiras nesta cidade. Uma civilização deve ter um Templo em todas as cidades antes de poder construir os Blythe Intaglios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_HELP">
-			<Text>O custo em [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro para adquirir novos hexágonos é reduzido em 25% nesta cidade.[NEWLINE][NEWLINE]Você deve ter construído um Templo em todas as cidades e ser uma civilização americana. O custo aumenta conforme mais cidades existirem no império.</Text>
+			<Text>O custo em [ICON_CULTURE] Cultura e [ICON_GOLD] Ouro para adquirir novos hexágonos é reduzido em 25% nesta cidade.[NEWLINE][NEWLINE]Você deve ter construído um Templo em todas as cidades e ser uma civilização americana. O custo aumenta conforme mais cidades existirem no império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BLYTHE_INTAGLIOS_TEXT">
 			<Text>Com data de pelo menos 1000 a.C., os Blythe Intaglios são um grupo de várias dúzias de figuras gigantescas no Deserto do Colorado a leste das Montanhas Big Maria. Criados raspando as camadas superficiais para revelar rochas mais claras, os intaglios não foram reconhecidos como tal até a década de 1930, com a maior figura com cerca de 171 pés de comprimento; acredita-se que esses foram feitos por razões cerimoniais pelas tribos Quechan e Mojave.</Text>
@@ -71,7 +71,7 @@
 			<Text>Uma edificação importante para uma civilização europeia que tenta espalhar sua religião pelo mundo a partir de um império com poucas e populosas cidades. Deve ser construído na Capital. Permite que Missionários nascidos nesta cidade espalhem a religião três vezes. Uma civilização deve ter um Templo em todas as cidades antes de poder construir o Grande Templo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_HELP">
-			<Text>Todos os Missionários nascidos nesta cidade podem espalhar a religião três vezes.[NEWLINE][NEWLINE]Deve ser construído na [ICON_CAPITAL]Capital. Deve ter construído um Templo em todas as Cidades e ser uma Civilização Europeia. O custo aumenta quanto mais cidades houver no império.</Text>
+			<Text>Todos os Missionários nascidos nesta cidade podem espalhar a religião três vezes.[NEWLINE][NEWLINE]Deve ser construído na [ICON_CAPITAL] Capital. Deve ter construído um Templo em todas as Cidades e ser uma Civilização Europeia. O custo aumenta quanto mais cidades houver no império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_HELP">
 			<Text>Remove o escorbuto de todas as unidades navais construídas pelo império. Todas as unidades que começarem sua vez na cidade com a Escola de Navegação terão sua promoção de Escorbuto removida. Um Grande Almirante aparece perto da Cidade onde a Maravilha foi construída. Deve ter uma Universidade em todas as cidades.[NEWLINE]Só pode ser construído pelos europeus. A cidade deve ser construída na costa.</Text>
@@ -90,10 +90,10 @@
 			<Text>[NEWLINE][TAB][TAB]"Este círculo provavelmente era o foco de sua vida cerimonial... e parte da razão pela qual as pessoas vieram aqui de quilômetros de distância."[NEWLINE][TAB][TAB] - Robert Riordan[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_MACHU_PICHU_HELP">
-			<Text>Pode ser construído apenas pelos Americanos. +25% [ICON_GOLD]Ouro das [ICON_CONNECTED]Rotas Comerciais . É destruído com a conquista.[NEWLINE][NEWLINE]A cidade deve ser construída dentro de 2 hexágonos de uma Montanha que esteja dentro de seu território.</Text>
+			<Text>Pode ser construído apenas pelos Americanos. +25% [ICON_GOLD] Ouro das [ICON_CONNECTED] Rotas Comerciais . É destruído com a conquista.[NEWLINE][NEWLINE]A cidade deve ser construída dentro de 2 hexágonos de uma Montanha que esteja dentro de seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_CHICHEN_ITZA_HELP">
-			<Text>Pode ser construída apenas pelos Americanos. Duração das [ICON_GOLDEN_AGE]Eras Douradas aumentada em 50%. +2 para [ICON_PEACE]Fé em hexágonos de Selva. É destruída com a conquista.[NEWLINE][NEWLINE]A cidade não deve ser construída em Colinas.</Text>
+			<Text>Pode ser construída apenas pelos Americanos. Duração das [ICON_GOLDEN_AGE] Eras Douradas aumentada em 50%. +2 para [ICON_PEACE] Fé em hexágonos de Selva. É destruída com a conquista.[NEWLINE][NEWLINE]A cidade não deve ser construída em Colinas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_DESC">
 			<Text>Remontando ao Período Pós-Clássico do Império Asteca, adjacente à capital de Texcoco, Texcotzingo servia como jardins de verão imperiais. Dedicado a Tlaloc, o deus da chuva, foi construído pelo monarca Nezahualcoyoti no século XV d.C. Um sistema de irrigação elaborado e avançado transformou Texcotzingo em um paraíso recreativo para a nobreza, uma exibição da flora do império, um jardim medicinal e um lugar sagrado. Cobrindo 122 hectares, é considerado o primeiro jardim botânico do mundo e foi uma fonte de admiração para os conquistadores espanhóis.</Text>
@@ -399,13 +399,13 @@
 		</Row>
 		<!-- Improvements-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID_STRATEGY">
-			<Text>A Pirâmide Maia é uma edificação da era Antiga exclusiva dos Maias, substituindo o Santuário. Ela aumenta a [ICON_RESEARCH]Ciência e a [ICON_PEACE]Fé de uma cidade, acelerando a pesquisa e a aquisição de Religiões pela civilização.</Text>
+			<Text>A Pirâmide Maia é uma edificação da era Antiga exclusiva dos Maias, substituindo o Santuário. Ela aumenta a [ICON_RESEARCH] Ciência e a [ICON_PEACE] Fé de uma cidade, acelerando a pesquisa e a aquisição de Religiões pela civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT">
 			<Text>Essas impressionantes estruturas em forma de pirâmide foram construídas pelos Maias para fins cerimoniais, começando há quase 3.000 anos. Os artesãos maias esculpiam cada pedra da edificação à mão, dando às estruturas uma aparência de "escada". Uma longa escadaria subia por um dos lados da pirâmide, levando a um pequeno santuário no topo, geralmente dedicado a um dos deuses maias. A maior pirâmide maia está localizada em El Mirador, medindo quase 79 metros de altura. Em volume (quase 2,8 milhões de metros cúbicos), é uma das maiores pirâmides do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
-			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} pode ser construído apenas em Planícies Inundadas e Pântanos. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
+			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} pode ser construído apenas em Planícies Inundadas e Pântanos. Ele aumenta a produção de [ICON_FOOD] Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION] Produção e +2 de [ICON_GOLD] Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_TEXT">
 			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de planícies inundadas ou de pântanos. Com o tempo, a terra drenada cede de modo que o pôlder fica eventualmente abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros pôlderes foram construídos no século XI DC, embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar pântanos e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em pôlderes da Europa. Embora existam pôlderes em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3000 pôlderes representando cerca de 27% das terras do país. A própria Amsterdã é construída em grande parte sobre pôlder. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
@@ -442,7 +442,7 @@
 			<Text>O Grande Almirante tem a capacidade de reparar instantaneamente todas as unidades navais e embarcadas no mesmo hexágono, bem como nos hexágonos adjacentes. O Grande Almirante pode realizar uma versão mais fraca da "missão comercial" do Grande Mercador. O Grande Almirante é consumido ao realizar qualquer uma dessas ações. O Grande Almirante também fornece um bônus de combate de 15% a todas as unidades navais pertencentes ao jogador dentro de 2 hexágonos. O Grande Almirante NÃO é consumido ao fornecer esse bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_HELP_INQUISITOR">
-			<Text>Usado para remover outras religiões de cidades. Pode ser obtido apenas através da compra com [ICON_PEACE]Fé. [COLOR_POSITIVE_TEXT]Não requer manutenção.[ENDCOLOR]</Text>
+			<Text>Usado para remover outras religiões de cidades. Pode ser obtido apenas através da compra com [ICON_PEACE] Fé. [COLOR_POSITIVE_TEXT]Não requer manutenção.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_LANCER_STRATEGY">
 			<Text>O Lanceiro Montado é a unidade de cavalaria renascentista que vem depois do Cavaleiro. É mais rápido e mais poderoso que o Cavaleiro, capaz de eliminar essas unidades outrora poderosas do mapa. O Lanceiro Montado pode saquear melhorias inimigas sem custo adicional.</Text>
@@ -457,10 +457,10 @@
 			<Text>Os bravos de várias tribos norte-americanas durante períodos de conflito eram consagrados em elaboradas cerimônias místicas destinadas a aumentar sua coragem, força, habilidade e/ou sobrevivência. O registro mais antigo de tais "guerreiros místicos" vem da guerra Pequot com colonos ingleses (1634-1638 d.C.), mas exemplos são encontrados ao longo da história das tribos do Nordeste e das Grandes Planícies.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_STRATEGY">
-			<Text>Esta unidade naval de combate é especializada em exploração. Esta unidade também fornece [ICON_GOLD]Ouro se chegar à China, mas desaparece depois. Use esta unidade para explorar o mapa e descobrir as localizações de outros jogadores.</Text>
+			<Text>Esta unidade naval de combate é especializada em exploração. Esta unidade também fornece [ICON_GOLD] Ouro se chegar à China, mas desaparece depois. Use esta unidade para explorar o mapa e descobrir as localizações de outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_HELP">
-			<Text>Unidade naval de combate que se destaca na exploração marítima. Tem mais [ICON_MOVES]Movimento do que a Caravela e, uma vez que se move para a China, concede [ICON_GOLD]Ouro.</Text>
+			<Text>Unidade naval de combate que se destaca na exploração marítima. Tem mais [ICON_MOVES] Movimento do que a Caravela e, uma vez que se move para a China, concede [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_STRATEGY">
 			<Text>Unidade naval usada para atacar cidades costeiras e ganhar ouro, além de capturar navios inimigos. Cura fora do território amigável. Começa com as duas primeiras promoções de Pirata Costeiro, permitindo ganhar ouro ao atacar cidades costeiras. Pode capturar quaisquer unidades navais inimigas que derrotar como prêmios.</Text>
@@ -475,10 +475,10 @@
 			<Text>A mais poderosa Unidade Naval da Era Renascentista usada para tomar o controle dos mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER">
-			<Text>Excelente para explorar e temível em combate, esta Unidade Única dos Shoshone substitui o Batedor. Ela possui uma promoção que concede [ICON_PEACE]Fé ao descobrir Maravilhas Naturais.</Text>
+			<Text>Excelente para explorar e temível em combate, esta Unidade Única dos Shoshone substitui o Batedor. Ela possui uma promoção que concede [ICON_PEACE] Fé ao descobrir Maravilhas Naturais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER_STRATEGY">
-			<Text>O Rastreador é a substituição do Batedor e apenas os Shoshone podem construí-lo. Ele explora tão bem quanto um Batedor e luta quase tão bem quanto um Guerreiro. Ele concede um bônus de [ICON_PEACE]Fé ao descobrir Maravilhas Naturais. Tem um custo maior do que um Batedor comum.</Text>
+			<Text>O Rastreador é a substituição do Batedor e apenas os Shoshone podem construí-lo. Ele explora tão bem quanto um Batedor e luta quase tão bem quanto um Guerreiro. Ele concede um bônus de [ICON_PEACE] Fé ao descobrir Maravilhas Naturais. Tem um custo maior do que um Batedor comum.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

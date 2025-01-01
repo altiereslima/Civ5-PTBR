@@ -15,7 +15,7 @@
 			<Text>Esta mística "Cidade Perdida do Ouro" atraiu muitos conquistadores espanhóis ao Novo Mundo, todos esperando tropeçar em suas incontáveis riquezas. Por quase três séculos, o mito de pedras preciosas e ouro levou exploradores às costas da América do Sul, que frequentemente saqueavam outras cidades que encontravam pelo caminho. Eldorado fascinou exploradores por séculos e explorações foram realizadas até o fim de 1804 para tentar encontrá-lo. Entretanto, acredita-se agora que a mítica cidade foi inspirada no nome de um chefe Muisca que, segundo contam, em um processo de iniciação, cobria-se com uma camada fina de pó de ouro e entrava no Lago Guatavita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_EL_DORADO_HELP">
-			<Text>Fornece 500 de [ICON_GOLD]Ouro ao primeiro jogador que o descobrir.</Text>
+			<Text>Fornece 500 de [ICON_GOLD] Ouro ao primeiro jogador que o descobrir.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

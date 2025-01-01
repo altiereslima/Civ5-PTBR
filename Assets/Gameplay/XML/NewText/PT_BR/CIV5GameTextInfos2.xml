@@ -55,16 +55,16 @@
             <Text>Atualizar a unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP">
-            <Text>Atualiza a unidade para {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_UnitName}}. Isto requer {2_Num} de [ICON_GOLD]Ouro.</Text>
+            <Text>Atualiza a unidade para {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_UnitName}}. Isto requer {2_Num} de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_SCRAP_HELP">
-            <Text>Executar esta ação dentro de seu território fornecerá {1_Num} de [ICON_GOLD]Ouro.</Text>
+            <Text>Executar esta ação dentro de seu território fornecerá {1_Num} de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_TERRITORY">
             <Text>Sua unidade precisa estar em território amigo regular para ser atualizada.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_GOLD">
-            <Text>Você não possui [ICON_GOLD]Ouro suficiente para atualizar esta unidade.</Text>
+            <Text>Você não possui [ICON_GOLD] Ouro suficiente para atualizar esta unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_RESOURCES">
             <Text>Você precisa de {1_ResourcesString} para atualizar esta unidade.</Text>
@@ -947,22 +947,22 @@
             <Text>Tropical</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_EXTRA_STRENGTH">
-            <Text>[ICON_BULLET]{1_Resource}% de Força</Text>
+            <Text>[ICON_BULLET] {1_Resource}% de Força</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_FORTIFY_MOD">
-            <Text>[ICON_BULLET]{1_Resource}% de Unidade Fortificada</Text>
+            <Text>[ICON_BULLET] {1_Resource}% de Unidade Fortificada</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_HILLS_MOD">
-            <Text>[ICON_BULLET]{1_Resource}% de Colinas (Habilidade da unidade)</Text>
+            <Text>[ICON_BULLET] {1_Resource}% de Colinas (Habilidade da unidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_MOD_VS_TYPE">
-            <Text>[ICON_BULLET]{1_Resource}% vs. {2_Type}</Text>
+            <Text>[ICON_BULLET] {1_Resource}% vs. {2_Type}</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_TILE_MOD">
-            <Text>[ICON_BULLET]{1_Resource}% de Defesa do hexágono</Text>
+            <Text>[ICON_BULLET] {1_Resource}% de Defesa do hexágono</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_UNIT_MOD">
-            <Text>[ICON_BULLET]{1_Resource}% de {2_TerrOrFeat} (Habilidade da unidade)</Text>
+            <Text>[ICON_BULLET] {1_Resource}% de {2_TerrOrFeat} (Habilidade da unidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_AUTOMATE">
             <Text>Automatizar a unidade</Text>
@@ -1082,7 +1082,7 @@
             <Text>Explorar as ruínas revelará escrituras antigas que proverá a sua unidade um novo treino de combate!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_GOLD">
-            <Text>Você encontrou nas ruínas os tesouros de um antigo império! Você recebeu {1_Num} de [ICON_GOLD]Ouro!</Text>
+            <Text>Você encontrou nas ruínas os tesouros de um antigo império! Você recebeu {1_Num} de [ICON_GOLD] Ouro!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_HEALING">
             <Text>Você encontrou remédios entre as ruínas. Sua unidade os usou para curar seus ferimentos.</Text>
@@ -1193,7 +1193,7 @@
             <Text>{@1_CivName} {@1: gender masculine?{@1: plural 1?conquistado; other?conquistados;}; feminine{@1: plural 1?conquistada; other?conquistadas;};}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CLEARING_FEATURE_RESOURCE">
-            <Text>Limpar {@1: gender masculine?o; feminine?a;} {@1_FeatName} gerou {2_Num} de [ICON_PRODUCTION]Produção para {@3_CityName}.</Text>
+            <Text>Limpar {@1: gender masculine?o; feminine?a;} {@1_FeatName} gerou {2_Num} de [ICON_PRODUCTION] Produção para {@3_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_COMPLETED_WONDER_CHOOSE_TECH">
             <Text>Você completou {@1: gender masculine?o; feminine?a;} {@1_BldgName}! Escolha uma tecnologia gratuitamente...</Text>
@@ -1253,13 +1253,13 @@
             <Text>{1_GPName} nasceu no estrangeiro!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GREAT_PERSON">
-            <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
+            <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE] </Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_IMP_DESTROYED">
             <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_UnitName} {@2_UnitName: gender masculine?{@3_civ_adjective[1]}; other?{@3_civ_adjective[2]};} que estava vagando pela área destruiu {@1: plural 1?{@1: gender masculine?um; feminine?uma;}; other?{@1: gender masculine?uns; other?umas;};} {@1_ImpName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED">
-            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION]Produção perdida será convertida em {3_NumGold}[ICON_GOLD]!</Text>
+            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION] Produção perdida será convertida em {3_NumGold}[ICON_GOLD] !</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_MELTDOWN_CITY">
             <Text>Um derretimento nuclear ocorreu em {@1_CityName}!!!</Text>
@@ -1670,7 +1670,7 @@
             <Text>Não</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ANNEX_PUPPET">
-            <Text>Você quer anexar o fantoche de {@1_CityName} ao seu Império? Isso permitirá a você escolher a produção, mas aumentará sua [ICON_HAPPINESS_4]Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
+            <Text>Você quer anexar o fantoche de {@1_CityName} ao seu Império? Isso permitirá a você escolher a produção, mas aumentará sua [ICON_HAPPINESS_4] Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO_PUPPET">
             <Text>Não, converter em fantoche</Text>
@@ -1828,13 +1828,13 @@
       <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
     </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_ANNEX">
-            <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4] infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4] infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_PUPPET">
-			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4]Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Personalidades. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}.</Text>
+			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4] Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Personalidades. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_RAZE">
-			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4]Infelicidade extra durante o arrasamento.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Arrasar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4]infelicidade diminuirá em 1 a cada turno.</Text>
+			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4] Infelicidade extra durante o arrasamento.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Arrasar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4] infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
 			<Text>Vá para a tela da cidade. Você não pode puder nada enquanto estiver dentro.</Text>

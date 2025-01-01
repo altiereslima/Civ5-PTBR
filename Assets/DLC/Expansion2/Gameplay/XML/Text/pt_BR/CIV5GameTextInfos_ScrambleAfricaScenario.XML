@@ -411,13 +411,13 @@
 			<Text>A Estela é um monumento único que aumenta a produção de [ICON_CULTURE]Cultura da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM_STRATEGY">
-			<Text>O Museu Estatal é uma edificação exclusiva dos Boers que aumenta a produção de [ICON_CULTURE]Cultura da cidade (especialmente quando abriga Grandes Obras). Ele já vem com 1 Grande Obra pré-construída. Civilizações europeias que capturarem uma cidade com um Museu Estatal ganharão Pontos de Vitória por capturar artefato(s). Substitui o Museu.</Text>
+			<Text>O Museu Estatal é uma Edificação Exclusiva dos Boers que aumenta a produção de [ICON_CULTURE]Cultura da cidade (especialmente quando abriga Grandes Obras). Ele já vem com 1 Grande Obra pré-construída. Civilizações europeias que capturarem uma cidade com um Museu Estatal ganharão Pontos de Vitória por capturar artefato(s). Substitui o Museu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAATSMUSEUM_TEXT">
 			<Text>O primeiro Museu Estatal foi construído em 1892 d.C. em Pretória, com o propósito declarado de "melhorar e manter a consciência pública em relação aos aspectos culturais de valor", focando especificamente na história, etnografia, arqueologia e ciências naturais da região. Quando a Guerra Anglo-Boer estourou, os aspectos patrióticos do Museu Estatal se tornaram ainda mais pronunciados, já que os cidadãos nas comando Boer foram incentivados a doar objetos de memorabilia dos campos de batalha. Após a derrota dos Boers, os Museus Estatais não foram mais apoiados com fundos públicos; em vez disso, foram financiados por comitês privados em cidades de todo o Transvaal e Estado Livre de Orange.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
-			<Text>O Banho Turco é uma edificação exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD]Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
+			<Text>O Banho Turco é uma Edificação Exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD]Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
 			<Text>A cidade deve ter um banco.</Text>
@@ -496,7 +496,7 @@
 			<Text>Unidade de cerco entre Canhão e Artilharia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_STRATEGY">
-			<Text>O Túmulo Funerário é uma edificação exclusiva do Egito que aumenta a produção da cidade em [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura (por abrigar uma Grande Obra pré-construída). Não tem custos de manutenção para a cidade. Civilizações europeias que o capturam também ganham Pontos de Vitória por capturar um artefato. Substitui o Coliseu.</Text>
+			<Text>O Túmulo Funerário é uma Edificação Exclusiva dos Egípcios que aumenta a produção da cidade em [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura (por abrigar uma Grande Obra pré-construída). Não tem custos de manutenção para a cidade. Civilizações europeias que o capturam também ganham Pontos de Vitória por capturar um artefato. Substitui o Coliseu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_HELP">
 			<Text>Não requer manutenção de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Se esta cidade for capturada por um conquistador europeu, a Grande Obra armazenada no interior marcará Pontos de Vitória para essa civilização.</Text>

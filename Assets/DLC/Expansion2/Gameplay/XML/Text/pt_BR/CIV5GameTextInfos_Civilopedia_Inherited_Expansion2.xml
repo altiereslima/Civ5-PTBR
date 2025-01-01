@@ -246,13 +246,13 @@
 			<Text>Comumente encontrado em toda a Ásia, o Pagode é um estilo arquitetônico que consiste em uma torre de várias camadas, tipicamente com beirais de grandes dimensões e um remate proeminente em seu pico. A maioria dos pagodes está associada à religião budista, pois eles eram frequentemente construídos sobre ou perto de complexos de templos budistas para abrigar relíquias sagradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
-			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa esta edificação comprando-a com [ICON_PEACE]Fé.</Text>
+			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa esta edificação comprando-a com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa esta edificação comprando-a com [ICON_PEACE]Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa esta edificação comprando-a com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa esta edificação comprando-a com [ICON_PEACE]Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa esta edificação comprando-a com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STELE_TEXT">
 			<Text>Uma estela é uma laje grande e vertical de pedra ou madeira usada como monumento para comemorar grandes líderes, vitórias em batalhas ou ocasionalmente para marcar limites territoriais. Encontradas em toda a Etiópia e nas regiões vizinhas, as estelas eram frequentemente intricadamente inscritas com os detalhes da pessoa ou evento a ser comemorado. O Obelisco de Axum, uma dessas estelas, foi construído em meados do século IV d.C. na cidade etíope de Axum, mas depois foi quebrado e enviado para a Itália durante a ocupação da Etiópia pelas forças de Mussolini. Com mais de 75 pés de altura e pesando 150 toneladas, a grande estela foi devolvida à Etiópia e remontada em 2008 como parte de um esforço da Organização das Nações Unidas para a Educação, a Ciência e a Cultura.</Text>
@@ -387,7 +387,7 @@
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE]Cultura.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"O que é o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
@@ -396,7 +396,7 @@
 			<Text>A dramaturgia e a poesia são formas de expressão artística, a primeira expressa pelo uso da performance visual, a segunda pela palavra escrita. O drama é mais comumente associado a performances teatrais - peças teatrais, musicais e óperas -, embora nos tempos modernos essas formas tradicionais tenham sido superadas pelas produções televisivas e cinematográficas. A poesia concentra-se no uso da linguagem escrita para expressar tanto um significado literal quanto uma mensagem subjacente instigante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
-			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST}[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter a [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edificações.</Text>
+			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST}[ENDCOLOR], que aumenta a produção de [ICON_GOLD] Ouro. Além disso, permite às suas cidades converter a [ICON_PRODUCTION] Produção em [ICON_GOLD] Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os mercadores e negociantes chegaram; seus lucros são pré-estabelecidos..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
@@ -405,7 +405,7 @@
 			<Text>Nas cidades pré-industriais, os artesãos tendiam a formar associações - ou guildas comerciais - baseadas em sua profissão; essas guildas tinham a intenção de proteger os segredos da arte, bem como promover a influência e a renda dos artesãos. Predecessores das guildas comerciais foram encontrados no século III a.C. em Roma e na China Han. Por volta de 300 d.C., a prática de artesãos se unindo se espalhou para Índia Gupta e Egito Ptolemaico. Na Idade Média, as organizações de guildas se espalharam rapidamente da Itália por toda a Europa; Registros do século XII em Paris e Londres listam mais de 100 guildas constituídas pelas cidades. Em alguns casos, eram tão poderosas algumas guildas que se tornaram o corpo governante das cidades, indicadas pelos guildhalls encontrados na Alemanha, Suíça e Holanda.[NEWLINE][NEWLINE]Com o tempo, as guildas assumiram a tarefa de salvaguardar a qualidade e instrução no ofício, com uma progressão ao longo da vida do aprendiz ao grande mestre. Para garantir a qualidade do produto, o sistema de marcas registradas que indicava que o item havia passado pelos padrões da guilda e do governo evoluiu. No entanto, com o passar do tempo, a influência e o poder das guildas diminuíram à medida que se fragmentavam com a chegada de novos negócios, preocupações do governo e métodos de produção em massa. Na França, por exemplo, as guildas foram abolidas em 1791 d.C. pela Lei Le Chapelier; outros países logo fizeram o mesmo. Embora largamente suplantado por sindicatos na Era Industrial, ainda existem exemplos de guildas existentes, notavelmente nos ramos do cinema, literatura e outras profissões artísticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
-			<Text>Permite a construção de várias Maravilhas que aumentam a [ICON_CULTURE]Cultura, a [ICON_RESEARCH]Ciência e a [ICON_HAPPINESS_1]Felicidade.</Text>
+			<Text>Permite a construção de várias Maravilhas que aumentam a [ICON_CULTURE] Cultura, a [ICON_RESEARCH] Ciência e a [ICON_HAPPINESS_1] Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A arquitetura começa onde a engenharia termina."[NEWLINE] - Walter Gropius[NEWLINE][TAB]</Text>
@@ -414,7 +414,7 @@
 			<Text>A arquitetura pode ser considerada tanto uma arte quanto uma ciência. Englobando tudo, desde o planejamento inicial e design de uma estrutura até o processo de construção propriamente dito, a arquitetura tem sido um elemento crucial do processo de construção desde os tempos antigos. Uma das primeiras discussões conhecidas sobre arquitetura e seus princípios, "De Architectura", foi escrita pelo arquiteto romano Vitrúvio no século I a.C. Um conjunto de dez volumes que compreende todos os detalhes mais intricados dos métodos de construção romana, o trabalho de Vitrúvio é amplamente reconhecido hoje como um desenvolvimento crucial na evolução do processo de design arquitetônico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_FACTORY}[ENDCOLOR], uma edificação que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
+			<Text>Revela o [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_FACTORY}[ENDCOLOR], uma edificação que melhora muito a [ICON_PRODUCTION] Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A industrialização baseada em maquinário, já referida como uma das características da nossa era, é apenas um aspecto da revolução que está sendo feita pela tecnologia."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
@@ -604,49 +604,49 @@
 			<Text>As Frutas Cítricas, em especial a Laranja, a Lima e o Pomelo, têm sido uma parte fundamental da dieta humana desde os tempos antigos. O cultivo dessas plantas cítricas começou ao redor do sudeste asiático, e se popularizou em todo o mundo. O escorbuto, uma deficiência de vitamina C endêmica entre os marinheiros, começou a se tornar um problema sério no século XV. Ele continuou açoitando os barcos durante toda era dos descobrimentos até a introdução de tratamentos de suco de lima e repolho fermentado no século XVIII. Embora na realidade tenha sido a vitamina C, a maioria dos marinheiros acreditava que o ácido das frutas cítricas evitava a doença; em qualquer caso, o resultado era una tripulação mais saudável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência nas Cidades.</Text>			
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH] Ciência nas Cidades.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com florestas, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE] Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com florestas, aumentando a sua [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE]Fé de uma cidade.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE] Fé de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH] Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH] Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY]Marfim, [ICON_RES_FUR]Peles e [ICON_RES_TRUFFLES]Trufas.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], a primeira edificação do jogo que fornece [ICON_PEACE]Fé.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], a primeira edificação do jogo que fornece [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE] Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD] Alimento e [ICON_PRODUCTION] Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD] Ouro extra quando você conecta cidades à sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
-			<Text>Permite construção de várias edificações que impulsionam a produção de [ICON_GOLD]Ouro, como a [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
+			<Text>Permite construção de várias edificações que impulsionam a produção de [ICON_GOLD] Ouro, como a [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Aquedutos[ENDCOLOR], aumentando o [ICON_FOOD]Alimento que pode ser mantido quando sua cidade cresce. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], aumentando a defesa da unidade ali estacionada. Além disso, pontes são automaticamente construídas sobre os rios onde há estradas, permitindo que as unidades os atravesse sem se atrasarem.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Aquedutos[ENDCOLOR], aumentando o [ICON_FOOD] Alimento que pode ser mantido quando sua cidade cresce. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], aumentando a defesa da unidade ali estacionada. Além disso, pontes são automaticamente construídas sobre os rios onde há estradas, permitindo que as unidades os atravesse sem se atrasarem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
-			<Text>Permite a construção de muitas maravilhas e edificações especializadas que aumentam sua produção de [ICON_PEACE]Fé e sua capacidade de criar novas [ICON_GREAT_PEOPLE]Grandes Personalidades.</Text>
+			<Text>Permite a construção de muitas maravilhas e edificações especializadas que aumentam sua produção de [ICON_PEACE] Fé e sua capacidade de criar novas [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH] Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além do [COLOR_POSITIVE_TEXT]Condestável[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD] Ouro produzido pela cidade, além do [COLOR_POSITIVE_TEXT]Condestável[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD] Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION] Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
@@ -655,16 +655,16 @@
 			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CAVALRY}[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
-			<Text>Revela o [ICON_RES_ALUMINUM]Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
+			<Text>Revela o [ICON_RES_ALUMINUM] Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD] Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION] Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Blindado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Contratorpedeiros e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam Plataformas Costeiras.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Contratorpedeiros e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam Plataformas Costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE] Cultura de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
 			<Text>Permite o treinamento da unidade terrestre básica [COLOR_POSITIVE_TEXT]Infantaria da Guerra Mundial[ENDCOLOR] e a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que melhora a defesa da Cidade.</Text>
@@ -673,7 +673,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Triplano[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]Bombardeiro Voisin[ENDCOLOR], que pode devastar Unidades Terrestres e Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Laboratório de Pesquisas[ENDCOLOR], uma edificação que aumenta a [ICON_RESEARCH]Ciência em uma cidade, e o treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma Unidade Terrestre básica da fase avançada do jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Laboratório de Pesquisas[ENDCOLOR], uma edificação que aumenta a [ICON_RESEARCH] Ciência em uma cidade, e o treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma Unidade Terrestre básica da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Porta-Aviões[ENDCOLOR], uma embarcação capaz de transportar aeronaves, e do [COLOR_POSITIVE_TEXT]Encouraçado[ENDCOLOR], uma Unidade Naval com ataque a distância da fase avançada do jogo.</Text>
@@ -688,7 +688,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no deserto ou próximo a ele, e que aumenta a [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM]Alumínio.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no deserto ou próximo a ele, e que aumenta a [ICON_PRODUCTION] Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM] Alumínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
 			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Bateria Antiaérea Móvel[ENDCOLOR], uma unidade rápida e especializada em frustrar ataques de aeronaves inimigas.</Text>
@@ -697,7 +697,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR], uma unidade especializada em combater tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssil Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM] Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssil Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
 			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis Guiados[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
@@ -736,10 +736,10 @@
 			<Text>Se você for "amigo" de uma cidade-estado, esta lhe dará presentes periodicamente (uma cidade-estado culta lhe dará Cultura; uma marítima, Alimento; uma militarista, unidades militares; uma mercantilista, Felicidade; e uma religiosa, Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALLIES_HEADING4_BODY">
-			<Text>Se estiver aliado com uma cidade-estado, você receberá os mesmos benefícios que receberia por sua amizade, só que mais fortes. Além disso, a cidade-estado lhe dará todos os seus recursos de luxo e estratégicos. Só uma civilização pode pode ser aliada de uma cidade-estado de cada vez: se houver vários candidatos, aquele que tiver mais PI será seu aliado.[NEWLINE][NEWLINE]Além disso, se estiver aliado com uma cidade-estado, você pode pagá-las para melhorar um recurso, o que faz com que o recurso fique disponível para você. Para fazer isso, clique em "Dar um presente", dentro da tela da cidade-estado e outro clique em "200 de [ICON_GOLD]Ouro - Melhorar um Recurso". Selecione a caixa com o recurso que você gostaria de melhorar e a melhoria é colocada imediatamente.</Text>
+			<Text>Se estiver aliado com uma cidade-estado, você receberá os mesmos benefícios que receberia por sua amizade, só que mais fortes. Além disso, a cidade-estado lhe dará todos os seus recursos de luxo e estratégicos. Só uma civilização pode pode ser aliada de uma cidade-estado de cada vez: se houver vários candidatos, aquele que tiver mais PI será seu aliado.[NEWLINE][NEWLINE]Além disso, se estiver aliado com uma cidade-estado, você pode pagá-las para melhorar um recurso, o que faz com que o recurso fique disponível para você. Para fazer isso, clique em "Dar um presente", dentro da tela da cidade-estado e outro clique em "200 de [ICON_GOLD] Ouro - Melhorar um Recurso". Selecione a caixa com o recurso que você gostaria de melhorar e a melhoria é colocada imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_STRATEGY">
-			<Text>O Forte Mughal é uma edificação da Era Medieval que aumenta em 7 a Força de Defesa de uma cidade e em 25 seus Pontos de Vida, e fornece um pouco de [ICON_CULTURE]Cultura a cada turno. É uma edificação Indiana exclusiva e substitui o Castelo. Após aprender a tecnologia Voo, também concede a cidade +2 de [ICON_TOURISM]Turismo. A cidade deve construir a Muralha para poder construir o Forte Mughal.</Text>
+			<Text>O Forte Mughal é uma edificação da Era Medieval que aumenta em 7 a Força de Defesa de uma cidade e em 25 seus Pontos de Vida, e fornece um pouco de [ICON_CULTURE] Cultura a cada turno. É uma edificação Indiana exclusiva e substitui o Castelo. Após aprender a tecnologia Voo, também concede a cidade +2 de [ICON_TOURISM] Turismo. A cidade deve construir a Muralha para poder construir o Forte Mughal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_NAVALUNITS_HEADING3_BODY">
 			<Text>Os acampamentos bárbaros costeiros podem criar unidades navais (mais uma vez, iguais às da civilização mais avançada tecnologia). Essas unidades ameaçarão sua costa, destruirão as melhorias navais e atacarão as as desafortunadas unidades terrestres que estiverem perto da costa. É importante manter um estaleiro para mantê-los longe, embora a melhor maneira de deter esses ataques é destruir os acampamentos costeiros nas proximidades.</Text>
@@ -760,7 +760,7 @@
 			<Text>A Independência concede bônus para a produção de especialistas, Turismo e Cultura. Torna-se disponível ao completar 3 Fábricas ou ao entrar na Era Moderna e não pode ser ativada ao mesmo tempo que a Autocracia ou a Ordem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HYDRO_PLANT_STRATEGY">
-			<Text>A Usina Hidrelétrica é uma edificação da Era Moderna que só pode ser construída em uma cidade adjacente a um rio. Aumenta o regime de [ICON_PRODUCTION]Produção de todos os hexágonos de trabalho da cidade e próximos ao rio. Construir a Usina Hidrelétrica consome 1 de [ICON_RES_ALUMINUM]Alumínio.</Text>
+			<Text>A Usina Hidrelétrica é uma edificação da Era Moderna que só pode ser construída em uma cidade adjacente a um rio. Aumenta o regime de [ICON_PRODUCTION] Produção de todos os hexágonos de trabalho da cidade e próximos ao rio. Construir a Usina Hidrelétrica consome 1 de [ICON_RES_ALUMINUM] Alumínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_RELIGIOUS">
 			<Text>Religiosa</Text>
@@ -772,7 +772,7 @@
 			<Text>Os Grandes Generais são "Grandes Personalidades" hábeis na arte da guerra. Eles oferecem bônus de combate, tanto ofensivo quanto defensivo para qualquer unidade amigável a uma distância de dois hexágonos de sua localização. Um Grande General em si não é uma unidade de combate, por isso pode ocupar o mesmo hexágono de uma unidade de combate para a proteção. Se uma unidade inimiga entrar no hexágono que contenha um Grande General, ele será destruído.[NEWLINE][NEWLINE]O Grande General dá um bônus de combate de 15% para unidades no hexágono do General e todas as unidades amigas dentro de 2 hexágonos do General.[NEWLINE][NEWLINE]Grandes Generais são criados quando suas unidades estão em batalha e também podem ser adquiridos quando você destravar a Política Social "Código de Guerra". Consulte a seção sobre "Grandes Personalidades" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WRITING_HELP">
-			<Text>Permite a construção da primeira edificação [ICON_RESEARCH]Científica, a [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
+			<Text>Permite a construção da primeira edificação [ICON_RESEARCH] Científica, a [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ERA_FUTURE">
 			<Text>Era da informação</Text>

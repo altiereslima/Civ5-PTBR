@@ -127,7 +127,7 @@
 			<Text>João Caboto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
-			<Text>Unidade militar dominante da Renascença. Esta unidade possui uma grande [ICON_STRENGTH]Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
+			<Text>Unidade militar dominante da Renascença. Esta unidade possui uma grande [ICON_STRENGTH] Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
 			<Text>Esta unidade é mais forte em combate que o {TXT_KEY_UNIT_MUSKETMAN} e luta com força em dobro contra unidades montadas.</Text>
@@ -139,7 +139,7 @@
 			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
-			<Text>Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo a corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>
+			<Text>Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo a corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_STRATEGY">
 			<Text>O Mosqueteiro é significantemente mais forte que o Mosquete, o que o torna o soldado terrestre mais poderoso do jogo.</Text>
@@ -217,13 +217,13 @@
 			<Text>Escorbuto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_CIRCUMNAVIGATION">
-			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais duas Caravelas podem ganhar recompensas por viajarem à China.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD] Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais duas Caravelas podem ganhar recompensas por viajarem à China.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_SECOND_CIRCUMNAVIGATION">
-			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta segunda façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais uma Caravela pode ganhar recompensas por viajar à China.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta segunda façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD] Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais uma Caravela pode ganhar recompensas por viajar à China.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_THIRD_CIRCUMNAVIGATION">
-			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta terceira façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais nenhuma recompensa será dada por viajar à China.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta terceira façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD] Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais nenhuma recompensa será dada por viajar à China.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_OTHER_CIRCUMNAVIGATION">
 			<Text>Um explorador {@1: gender masculine?{@1: plural 1?do; other?dos;}; feminine{@1: plural 1?da; other?das;};} {@1_PlyrName} chegou à China. Mais {2_Num} {2: plural 0?Caravela; 1?Caravela; other?Caravelas;} podem receber ouro e pontos de vitória por {2: plural 0?fazer; 1?fazer; other?fazerem;} a viagem à China.</Text>
@@ -244,7 +244,7 @@
 			<Text>Tesouro Retornado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED">
-			<Text>Um tesouro foi retornado a {@1_CityName}, fornecendo a você {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória.</Text>
+			<Text>Um tesouro foi retornado a {@1_CityName}, fornecendo a você {2_GoldAmount} de [ICON_GOLD] Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
 			<Text>Acordos de pesquisas não são permitidos neste cenário.</Text>
@@ -253,22 +253,22 @@
 			<Text>Permite declarações de guerra contra qualquer civilização</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em fontes de [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles[ENDCOLOR], que aumenta a geração de [ICON_GOLD]Ouro daqueles hexágonos.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em fontes de [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles[ENDCOLOR], que aumenta a geração de [ICON_GOLD] Ouro daqueles hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Catapulta[ENDCOLOR], uma poderosa arma de cerco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH]Ciência.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4] Infelicidade de cidades [ICON_OCCUPIED] ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH] Ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], uma edificação que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], uma edificação que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION] Produção de recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
-			<Text>O custo de [ICON_CULTURE]Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>
+			<Text>O custo de [ICON_CULTURE] Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
-			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadruplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
+			<Text>O Monastério aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadruplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
 			<Text>Corsário</Text>

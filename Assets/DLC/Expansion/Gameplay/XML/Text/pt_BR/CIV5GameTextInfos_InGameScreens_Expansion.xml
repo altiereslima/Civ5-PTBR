@@ -30,22 +30,22 @@
 			<Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande General é baseado na EXP ganha pelo combate de unidades terrestres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_GP_MOD">
-			<Text>[ICON_BULLET]Bônus de Cidade: +{1_num}%</Text>
+			<Text>[ICON_BULLET] Bônus de Cidade: +{1_num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLAYER_GP_MOD">
-			<Text>[ICON_BULLET]Bônus do Império: +{1_num}%</Text>
+			<Text>[ICON_BULLET] Bônus do Império: +{1_num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
-			<Text>[ICON_PLUS]Felicidade Global pelas Edificações</Text>
+			<Text>[ICON_PLUS] Felicidade Global pelas Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
-			<Text>[ICON_MINUS]Felicidade Global pelas Edificações</Text>
+			<Text>[ICON_MINUS] Felicidade Global pelas Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_LOCAL_CITY">
-			<Text>[ICON_PLUS]Felicidade Local da Cidade</Text>
+			<Text>[ICON_PLUS] Felicidade Local da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_LOCAL_CITY_COLLAPSE">
-			<Text>[ICON_MINUS]Felicidade Local da Cidade</Text>
+			<Text>[ICON_MINUS] Felicidade Local da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_RELIGION">
 			<Text>Religião</Text>
@@ -94,16 +94,16 @@
 			<Text>Nenhuma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_FAITH">
-			<Text>[ICON_PEACE]FÉ: {1_NumFaith}/{2_MinFaithForProphet}</Text>
+			<Text>[ICON_PEACE] FÉ: {1_NumFaith}/{2_MinFaithForProphet}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_FAITH_TOOLTIP">
-			<Text>É necessário o mínimo de {1_MinFaith} de [ICON_PEACE]Fé para o próximo Grande Profeta.</Text>
+			<Text>É necessário o mínimo de {1_MinFaith} de [ICON_PEACE] Fé para o próximo Grande Profeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_POSSIBLE_GP">
 			<Text>Grandes Personalidades possíveis:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE">
-			<Text>Compra automática com [ICON_PEACE]Fé:</Text>
+			<Text>Compra automática com [ICON_PEACE] Fé:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_AUTO_FAITH_MISSIONARY">
 			<Text>Comprar Missionário</Text>
@@ -175,7 +175,7 @@
 			<Text>Pode criar um Panteão agora!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_STATUS_NEED_FAITH">
-			<Text>Precisa de {1_NumFaith} de [ICON_PEACE]Fé para criar um Panteão.</Text>
+			<Text>Precisa de {1_NumFaith} de [ICON_PEACE] Fé para criar um Panteão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_STATUS_TOO_LATE">
 			<Text>Muito tarde para criar um Panteão</Text>

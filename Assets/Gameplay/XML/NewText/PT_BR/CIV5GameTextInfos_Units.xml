@@ -482,7 +482,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
-			<Text>+20% DE [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (sem Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% DE [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (sem Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2">
 			<Text>Choque II</Text>
@@ -490,7 +490,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3">
 			<Text>Choque III</Text>
@@ -498,7 +498,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
 			<Text>Broca I</Text>
@@ -506,7 +506,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
 			<Text>Broca II</Text>
@@ -514,7 +514,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
 			<Text>Broca III</Text>
@@ -522,7 +522,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1">
 			<Text>Precisão I</Text>
@@ -530,7 +530,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
-			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2">
 			<Text>Precisão II</Text>
@@ -538,7 +538,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
-			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3">
 			<Text>Precisão III</Text>
@@ -546,7 +546,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1">
 			<Text>Barragem I</Text>
@@ -554,7 +554,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2">
 			<Text>Barragem II</Text>
@@ -562,7 +562,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3">
 			<Text>Barragem III</Text>
@@ -570,7 +570,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH] Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1">
 			<Text>Mira I</Text>
@@ -578,7 +578,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2">
 			<Text>Mira II</Text>
@@ -586,7 +586,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3">
 			<Text>Mira III</Text>
@@ -594,7 +594,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIEGE">
 			<Text>Cerco</Text>
@@ -602,7 +602,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIEGE_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SENTRY">
 			<Text>Sentinela</Text>
@@ -634,7 +634,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CHARGE_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Feridas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Feridas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_VOLLEY">
 			<Text>Rajada</Text>
@@ -642,7 +642,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_VOLLEY_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Fortificadas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Fortificadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_COVER_1">
 			<Text>Cobertura I</Text>
@@ -666,7 +666,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2">
 			<Text>Formação II</Text>
@@ -674,7 +674,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1">
 			<Text>Emboscada I</Text>
@@ -682,7 +682,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2">
 			<Text>Emboscada II</Text>
@@ -690,7 +690,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MARCH">
 			<Text>Marcha</Text>
@@ -762,7 +762,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2">
 			<Text>Interceptação II</Text>
@@ -770,7 +770,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3">
 			<Text>Interceptação III</Text>
@@ -778,7 +778,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1">
 			<Text>Briga de Cães I</Text>
@@ -786,7 +786,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2">
 			<Text>Briga de Cães II</Text>
@@ -794,7 +794,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3">
 			<Text>Briga de Cães III</Text>
@@ -802,7 +802,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1">
 			<Text>Cerco I</Text>
@@ -810,7 +810,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2">
 			<Text>Cerco II</Text>
@@ -818,7 +818,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3">
 			<Text>Cerco III</Text>
@@ -826,7 +826,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1">
 			<Text>Bombardeamento I</Text>
@@ -834,7 +834,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2">
 			<Text>Bombardeamento II</Text>
@@ -842,7 +842,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3">
 			<Text>Bombardeamento III</Text>
@@ -850,7 +850,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
+			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_RANGE">
 			<Text>Alcance</Text>
@@ -945,7 +945,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MORALE_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate</Text>
+			<Text>+15% de [ICON_STRENGTH] Força de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MORALE">
 			<Text>Moral</Text>
@@ -953,7 +953,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
-			<Text>+10% de [ICON_STRENGTH]Força de Combate enquanto estiver perto de uma unidade amiga.</Text>
+			<Text>+10% de [ICON_STRENGTH] Força de Combate enquanto estiver perto de uma unidade amiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE">
 			<Text>Disciplina</Text>
@@ -961,7 +961,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY_HELP">
-			<Text>+33% de [ICON_STRENGTH]Força de Combate em território amigo</Text>
+			<Text>+33% de [ICON_STRENGTH] Força de Combate em território amigo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY">
 			<Text>Equipe</Text>
@@ -969,7 +969,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate em território amigo</Text>
+			<Text>+15% de [ICON_STRENGTH] Força de Combate em território amigo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE">
 			<Text>Castelo de Himeji</Text>
@@ -977,7 +977,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_HELP">
-			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES] Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
@@ -985,7 +985,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE_HELP">
-			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES] Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE">
 			<Text>Grande Farol</Text>
@@ -1357,19 +1357,19 @@
 		</Row>
 		<!-- Unit Help and Rollover Text-->
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKER">
-			<Text>Melhora a [ICON_PRODUCTION]Produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro ao construir melhorias em hexágonos fora das cidades.</Text>
+			<Text>Melhora a [ICON_PRODUCTION] Produção de [ICON_FOOD] Alimento e [ICON_GOLD] Ouro ao construir melhorias em hexágonos fora das cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SETTLER">
-			<Text>Funda novas cidades para expandir seu Império.[NEWLINE][NEWLINE]O [ICON_FOOD]crescimento da cidade é interrompido enquanto esta unidade está sendo produzida.</Text>
+			<Text>Funda novas cidades para expandir seu Império.[NEWLINE][NEWLINE]O [ICON_FOOD] crescimento da cidade é interrompido enquanto esta unidade está sendo produzida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
-			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH]Peixe. O {TXT_KEY_UNIT_WORK_BOAT} é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
+			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH] Peixe. O {TXT_KEY_UNIT_WORK_BOAT} é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
-			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL]capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
+			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL] capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_BOOSTER">
-			<Text>Uma das partes da Espaçonave, deve ser construído e enviado à [ICON_CAPITAL]Capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Ao contrário das outras partes, é preciso três Propulsores Espaciais para completar uma Espaçonave.</Text>
+			<Text>Uma das partes da Espaçonave, deve ser construído e enviado à [ICON_CAPITAL] Capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Ao contrário das outras partes, é preciso três Propulsores Espaciais para completar uma Espaçonave.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
 			<Text>Unidade Naval especializada em derrubar aeronaves. Também pode conter 3 Mísseis.</Text>
@@ -1495,7 +1495,7 @@
 			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Americanos podem treiná-la. Esta unidade atravessa terrenos acidentados como se fossem totalmente planos, ao contrário do Mosquete, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSKETEER">
-			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Franceses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, que ela substitui.</Text>
+			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Franceses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do Mosquete, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_JANISSARY">
 			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Otomanos podem treiná-la. Esta unidade é muito forte na ofensiva e se cura quando mata um inimigo, ao contrário do Mosquete que ela substitui.</Text>
@@ -1516,7 +1516,7 @@
 			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
-			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_KNIGHT}, que ela substitui.</Text>
+			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_KNIGHT}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
 			<Text>Poderosa unidade montada da Era Medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Songais podem treiná-la.</Text>
@@ -1540,13 +1540,13 @@
 			<Text>Primeira unidade de cerco do jogo. Causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BALLISTA">
-			<Text>Unidade de cerco que causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar. Apenas os Romanos podem construí-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate a Distância maior que a Catapulta, que ela substitui.</Text>
+			<Text>Unidade de cerco que causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar. Apenas os Romanos podem construí-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate a Distância maior que a Catapulta, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HORSEMAN">
 			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
-			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH]Força de Combate maior que o {TXT_KEY_UNIT_HORSEMAN}, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH] Força de Combate maior que o {TXT_KEY_UNIT_HORSEMAN}, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>
@@ -1555,25 +1555,25 @@
 			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em florestas ou selvas, ao contrário do {TXT_KEY_UNIT_SWORDSMAN} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ROMAN_LEGION">
-			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_SWORDSMAN}, que ela substitui.</Text>
+			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_SWORDSMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância, altamente efetiva em terreno aberto, mas significativamente prejudicada em terreno acidentado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
-			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE] Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
-			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH] Força de Combate e [ICON_STRENGTH] Força de Combate a Distância maiores que a da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
 			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HOPLITE">
-			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IMMORTAL">
-			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHER">
 			<Text>Poderosa unidade de ataque a distância da Era Antiga que pode acabar com inimigos de longe.</Text>

@@ -1011,16 +1011,16 @@
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_STRATEGY">
-			<Text>A Guilda dos Artistas é a única edificação que contém espaços especializados de artistas, que são críticos para a geração de grandes artistas. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Artistas fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade e 3 de [ICON_CULTURE]Cultura.</Text>
+			<Text>A Guilda dos Artistas é a única edificação que contém espaços especializados de artistas, que são críticos para a geração de grandes artistas. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Artistas fornece 2 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade e 3 de [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_EAST_INDIA_STRATEGY">
-			<Text>A Companhia das Índias Orientais aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. As rotas comerciais que outros jogadores fazem para uma cidade com uma Companhia das Índias Orientais gerarão mais 4 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 2 de [ICON_GOLD]Ouro para a rota comercial.</Text>
+			<Text>A Companhia das Índias Orientais aumenta a quantidade de [ICON_GOLD] Ouro que uma cidade gera. As rotas comerciais que outros jogadores fazem para uma cidade com uma Companhia das Índias Orientais gerarão mais 4 de [ICON_GOLD] Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 2 de [ICON_GOLD] Ouro para a rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD_STRATEGY">
-			<Text>A Guilda dos Músicos é a única edificação que contém espaços especializados em músicos, que são críticos para a geração de grandes músicos. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Músicos fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade e 3 de [ICON_CULTURE]Cultura.</Text>
+			<Text>A Guilda dos Músicos é a única edificação que contém espaços especializados em músicos, que são críticos para a geração de grandes músicos. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Músicos fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade e 3 de [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD_STRATEGY">
-			<Text>A Liga dos Escritores é a única edificação que contém espaços especializados em escritores, que são críticos para a geração de grandes escritores. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Escritores fornece 1 ponto de [ICON_GREAT_PEOPLE]Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade e 3 de [ICON_CULTURE]Cultura.</Text>
+			<Text>A Liga dos Escritores é a única edificação que contém espaços especializados em escritores, que são críticos para a geração de grandes escritores. Se o seu objetivo é uma vitória cultural, esta edificação é imprescindível. A Guilda dos Escritores fornece 1 ponto de [ICON_GREAT_PEOPLE] Grande Personalidade e cada especialista atribuído fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade e 3 de [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARTISTS_GUILD_TEXT">
 			<Text>O conceito de guildas para artesãos não se firmou até o final da Idade Média, quando a Europa iniciou seu longo processo de urbanização. No século XIII, várias corporações de artistas surgiram nas cidades, baseadas nas corporações mercantis da época. As guildas procuravam consertar custos e se estabelecer, oferecendo apoio e educação aos artistas de uma cidade, evitando assim os problemas de clientelismo dos ricos e da nobreza. Embora guildas não oficiais ainda existam para vários tipos de artistas, a Era do Iluminismo provocou um declínio nos monopólios de corporações até que tudo foi abolido em meados do século XIX.</Text>
@@ -1036,46 +1036,46 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_STRATEGY">
-			<Text>O versátil Aeroporto é uma excelente escolha tanto para civilizações que estão tentando melhorar sua produção de [ICON_TOURISM]Turismo quanto para aquelas que precisam usar recursos de transporte aéreo para movimentar unidades para cidades distantes.</Text>
+			<Text>O versátil Aeroporto é uma excelente escolha tanto para civilizações que estão tentando melhorar sua produção de [ICON_TOURISM] Turismo quanto para aquelas que precisam usar recursos de transporte aéreo para movimentar unidades para cidades distantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BANK_STRATEGY">
-			<Text>O Banco é uma edificação da era Renascentista que aumenta a produção de [ICON_GOLD]Ouro da cidade. Esta cidade deve possuir um Mercado ou um Bazar para poder construí-lo. As rotas comerciais que outros jogadores fizerem para uma cidade com um Banco gerarão 1 de [ICON_GOLD]Ouro adicional para o dono da cidade, e o dono da rota comercial ganhará 1 de [ICON_GOLD]Ouro adicional por ela.</Text>
+			<Text>O Banco é uma edificação da era Renascentista que aumenta a produção de [ICON_GOLD] Ouro da cidade. Esta cidade deve possuir um Mercado ou um Bazar para poder construí-lo. As rotas comerciais que outros jogadores fizerem para uma cidade com um Banco gerarão 1 de [ICON_GOLD] Ouro adicional para o dono da cidade, e o dono da rota comercial ganhará 1 de [ICON_GOLD] Ouro adicional por ela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_STRATEGY">
-			<Text>Além das habilidades regulares do Jardim, o Candi também oferece +2 de [ICON_PEACE]Fé por cada Religião Mundial que tenha pelo menos 1 seguidor na cidade. Somente a Indonésia pode construí-lo, e a cidade deve estar localizada ao lado de um Rio ou de um Lago.</Text>
+			<Text>Além das habilidades regulares do Jardim, o Candi também oferece +2 de [ICON_PEACE] Fé por cada Religião Mundial que tenha pelo menos 1 seguidor na cidade. Somente a Indonésia pode construí-lo, e a cidade deve estar localizada ao lado de um Rio ou de um Lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_CARAVANSARY} é uma edificação da Era Clássica. Melhora o alcance da produção de [ICON_GOLD]Ouro das rotas comerciais terrestres.</Text>
+			<Text>O {TXT_KEY_BUILDING_CARAVANSARY} é uma edificação da Era Clássica. Melhora o alcance da produção de [ICON_GOLD] Ouro das rotas comerciais terrestres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_STRATEGY">
-			<Text>Além das habilidades normais do Estábulo, o Estábulo Ducal aumenta o [ICON_GOLD]Ouro nos hexágonos de Pradaria e concede +15 EXP para unidades montadas. Somente os poloneses podem construí-lo.</Text>
+			<Text>Além das habilidades normais do Estábulo, o Estábulo Ducal aumenta o [ICON_GOLD] Ouro nos hexágonos de Pradaria e concede +15 EXP para unidades montadas. Somente os poloneses podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HANSE_STRATEGY">
-			<Text>Além das habilidades regulares do Banco (produção adicional de [ICON_GOLD]Ouro e mais [ICON_GOLD]Ouro adicional por rotas comerciais), a Hansa fornece [ICON_PRODUCTION]Produção para cada rota comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As rotas comerciais podem vir de qualquer combinação de cidades, mesmo sem a Hansa (Exemplo: se você tiver rotas comerciais de Berlim para Genebra, Munique para Genebra, Munique para Berlim e Berlim para Bruxelas, todas as cidades com Hansa receberão +15% de [ICON_PRODUCTION]Produção). Somente a Alemanha pode construí-la.</Text>
+			<Text>Além das habilidades regulares do Banco (produção adicional de [ICON_GOLD] Ouro e mais [ICON_GOLD] Ouro adicional por rotas comerciais), a Hansa fornece [ICON_PRODUCTION] Produção para cada rota comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As rotas comerciais podem vir de qualquer combinação de cidades, mesmo sem a Hansa (Exemplo: se você tiver rotas comerciais de Berlim para Genebra, Munique para Genebra, Munique para Berlim e Berlim para Bruxelas, todas as cidades com Hansa receberão +15% de [ICON_PRODUCTION] Produção). Somente a Alemanha pode construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_Ancoradouro_STRATEGY">
-			<Text>O Ancoradouro é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Ancoradouro também aumenta a [ICON_PRODUCTION]Produção de um recurso marítimo melhorado.</Text>
+			<Text>O Ancoradouro é uma edificação da era Medieval. Aumenta o alcance e a produção de [ICON_GOLD] Ouro de rotas comerciais marítimas. Permite "ligações por água entre as cidades" (consulte as regras) entre cidades. O Ancoradouro também aumenta a [ICON_PRODUCTION] Produção de um recurso marítimo melhorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_STRATEGY">
-			<Text>Com o seu enorme impulso para [ICON_TOURISM]Turismo, o Hotel é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural ou aumentar seu impacto ideológico em outras civilizações.</Text>
+			<Text>Com o seu enorme impulso para [ICON_TOURISM] Turismo, o Hotel é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural ou aumentar seu impacto ideológico em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_STRATEGY">
 			<Text>Além das habilidades regulares do Quartel que ele substitui, o Ikanda concede um conjunto exclusivo de promoções para unidades de combate pré-armas criadas dentro da cidade. Estas incluem movimento mais rápido e maior força de combate. Somente os Zulus podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MARKET_STRATEGY">
-			<Text>Mercados aumentam a quantidade de [ICON_GOLD]Ouro gerado na cidade. Rotas comerciais de outros jogadores fazem a cidade com o Mercado gerar +2 de [ICON_GOLD]Ouro extra para o proprietário da cidade e +1 de [ICON_GOLD]Ouro para o proprietário da rota comercial.</Text>
+			<Text>Mercados aumentam a quantidade de [ICON_GOLD] Ouro gerado na cidade. Rotas comerciais de outros jogadores fazem a cidade com o Mercado gerar +2 de [ICON_GOLD] Ouro extra para o proprietário da cidade e +1 de [ICON_GOLD] Ouro para o proprietário da rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_STRATEGY">
-			<Text>Além da produção de [ICON_RESEARCH]Ciência da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço para Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece EXP extra para Unidades treinadas nesta cidade. Portanto, coloque aqui uma Grande Obra o mais rápido possível para obter o máximo benefício. Somente os Assírios podem construí-la.</Text>
+			<Text>Além da produção de [ICON_RESEARCH] Ciência da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço para Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece EXP extra para Unidades treinadas nesta cidade. Portanto, coloque aqui uma Grande Obra o mais rápido possível para obter o máximo benefício. Somente os Assírios podem construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
-			<Text>O Farol só pode ser construído em uma cidade ao lado de um hexágono costeiro. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos de água e dos [ICON_RES_FISH]Peixes, além de aumentar a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
+			<Text>O Farol só pode ser construído em uma cidade ao lado de um hexágono costeiro. Aumenta a produção de [ICON_FOOD] Alimentos dos hexágonos de água e dos [ICON_RES_FISH] Peixes, além de aumentar a [ICON_PRODUCTION] Produção de todos os recursos do mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IRONWORKS_STRATEGY">
-			<Text>A Maravilha Nacional da Siderurgia aumenta a [ICON_PRODUCTION]Produção da cidade em 8. Uma civilização deve ter uma Oficina em todas as cidades para poder construir uma Siderurgia.</Text>
+			<Text>A Maravilha Nacional da Siderurgia aumenta a [ICON_PRODUCTION] Produção da cidade em 8. Uma civilização deve ter uma Oficina em todas as cidades para poder construir uma Siderurgia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_STRATEGY">
-			<Text>Com o seu enorme impulso para o [ICON_TOURISM]Turismo, o Centro Nacional de Visitantes é uma excelente escolha para civilizações que estão tentando obter uma vitória cultural ou aumentar sua influência ideológica sobre outras civilizações. Construa-o em sua cidade com a melhor produção de [ICON_TOURISM]Turismo quando todas as suas cidades tiverem concluído os Hotéis.</Text>
+			<Text>Com o seu enorme impulso para o [ICON_TOURISM] Turismo, o Centro Nacional de Visitantes é uma excelente escolha para civilizações que estão tentando obter uma vitória cultural ou aumentar sua influência ideológica sobre outras civilizações. Construa-o em sua cidade com a melhor produção de [ICON_TOURISM] Turismo quando todas as suas cidades tiverem concluído os Hotéis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CANDI_TEXT">
 			<Text>Candi refere-se a uma estrutura de pedra indonésia baseada no santuário hindu singular, com uma torre piramidal acima e um pórtico ornamentado, construída principalmente entre os séculos VIII e XV. Incorporando desenhos de mandala, o candi foi projetado para imitar Meru, a montanha sagrada que era a morada dos deuses. Os javaneses, notavelmente o Khmer, desenvolveram uma arquitetura um pouco diferente para seus candi, fazendo uso de pilares em torno de uma massa central sólida, mas mantendo a forma básica. O maior e mais famoso candi é Borobadur, o templo budista do século IX com sete terraços.</Text>
@@ -1134,19 +1134,19 @@
 			<Text>Esta unidade de ataque corpo a corpo, quando derrota um inimigo, ganha pontos que ajudam a iniciar o próximo Carnaval no Brasil. Use-a para lutar em terras estrangeiras, ajudando o Brasil a conquistar uma vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVAN_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_CARAVAN} permite estabelecer uma rota comercial terrestre entre duas civilizações, gerando [ICON_GOLD]Ouro tanto para a civilização proprietária da unidade quanto a de destino. A construção de um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP} em sua cidade natal também permite que você transporte [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção entre suas próprias cidades. Uma vez que você atribui a {TXT_KEY_UNIT_CARAVAN} a uma rota, ela não poderá se defender, por isso certifique-se de que o caminho esteja livre de perigo.</Text>
+			<Text>A {TXT_KEY_UNIT_CARAVAN} permite estabelecer uma rota comercial terrestre entre duas civilizações, gerando [ICON_GOLD] Ouro tanto para a civilização proprietária da unidade quanto a de destino. A construção de um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP} em sua cidade natal também permite que você transporte [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção entre suas próprias cidades. Uma vez que você atribui a {TXT_KEY_UNIT_CARAVAN} a uma rota, ela não poderá se defender, por isso certifique-se de que o caminho esteja livre de perigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARGO_SHIP_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_CARGO_SHIP} permite estabelecer uma rota comercial marítima entre duas civilizações, gerando [ICON_GOLD]Ouro para o proprietário e a civilização de destino. Ele também tem um alcance maior do que as caravanas terrestres. A construção de um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP} em sua cidade natal também permite que você transporte [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção entre suas próprias cidades. Uma vez que você atribui o {TXT_KEY_UNIT_CARGO_SHIP} a uma rota, ele não pode se defender, por isso certifique-se de que o caminho está livre de perigo.</Text>
+			<Text>Um {TXT_KEY_UNIT_CARGO_SHIP} permite estabelecer uma rota comercial marítima entre duas civilizações, gerando [ICON_GOLD] Ouro para o proprietário e a civilização de destino. Ele também tem um alcance maior do que as caravanas terrestres. A construção de um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP} em sua cidade natal também permite que você transporte [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção entre suas próprias cidades. Uma vez que você atribui o {TXT_KEY_UNIT_CARGO_SHIP} a uma rota, ele não pode se defender, por isso certifique-se de que o caminho está livre de perigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MUSICIAN_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar uma Grande Obra Musical (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM]Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar uma Grande Obra Musical (gerando tanto [ICON_CULTURE] Cultura quanto [ICON_TOURISM] Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM] Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WRITER_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar uma Grande Obra Literária (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar uma Grande Obra Literária (gerando tanto [ICON_CULTURE] Cultura quanto [ICON_TOURISM] Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar uma Grande Obra de Arte (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar uma Grande Obra de Arte (gerando tanto [ICON_CULTURE] Cultura quanto [ICON_TOURISM] Turismo) que é colocado na cidade mais próxima que tenha uma edificação apropriada com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN} substitui o {TXT_KEY_UNIT_SWORDSMAN} padrão. Utilize-o em combate o mais rápido possível para desbloquear as propriedades secretas de sua espada Kris de lâmina curva.</Text>
@@ -1158,7 +1158,7 @@
 			<Text>O {TXT_KEY_UNIT_POLISH_WINGED_HUSSAR} substitui o {TXT_KEY_UNIT_LANCER} e apenas os Poloneses podem treiná-la. Mais rápido e mais poderoso do que o {TXT_KEY_UNIT_LANCER}, o {TXT_KEY_UNIT_POLISH_WINGED_HUSSAR} obriga o defensor a recuar quando inflige mais dano do que recebe. Um defensor que não possa recuar recebe dano extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PORTUGUESE_NAU_STRATEGY">
-			<Text>Esta unidade naval de ataque corpo a corpo substitui a {TXT_KEY_UNIT_CARAVEL} e é hábil em exploração. Quando ela está ao lado de terras pertencentes à outra civilização ou Cidade-Estado que você está em paz, pode realizar uma única missão comercial para obter [ICON_GOLD]Ouro e EXP. Quanto mais distante as terras estão de sua capital, maior o bônus, por isso é melhor usá-la com jogadores distantes. Utilize esta unidade para explorar o mapa e descobrir a localização dos outros jogadores.</Text>
+			<Text>Esta unidade naval de ataque corpo a corpo substitui a {TXT_KEY_UNIT_CARAVEL} e é hábil em exploração. Quando ela está ao lado de terras pertencentes à outra civilização ou Cidade-Estado que você está em paz, pode realizar uma única missão comercial para obter [ICON_GOLD] Ouro e EXP. Quanto mais distante as terras estão de sua capital, maior o bônus, por isso é melhor usá-la com jogadores distantes. Utilize esta unidade para explorar o mapa e descobrir a localização dos outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS} substitui a {TXT_KEY_UNIT_CAVALRY} e somente os Shoshones podem treiná-la. Mais barato e mais rápido do que a unidade padrão.</Text>
@@ -1182,10 +1182,10 @@
 			<Text>Antes de se envolver em um ataque corpo a corpo, o {TXT_KEY_UNIT_ZULU_IMPI} arremessa sua lança que pode ferir ou matar unidades inimigas antes de fazer contato. Apenas os Zulus podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MUSICIAN_STRATEGY">
-			<Text>Crie {TXT_KEY_SPECIALIST_MUSICIAN[2]} para aumentar a produção de [ICON_CULTURE]Cultura de uma cidade e para acelerar a geração de {TXT_KEY_UNIT_GREAT_MUSICIAN[2]}.</Text>
+			<Text>Crie {TXT_KEY_SPECIALIST_MUSICIAN[2]} para aumentar a produção de [ICON_CULTURE] Cultura de uma cidade e para acelerar a geração de {TXT_KEY_UNIT_GREAT_MUSICIAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_WRITER_STRATEGY">
-			<Text>Crie {TXT_KEY_SPECIALIST_WRITER[2]} para aumentar a produção de [ICON_CULTURE]Cultura de uma cidade e acelerar a geração de {TXT_KEY_UNIT_GREAT_WRITER[2]}.</Text>
+			<Text>Crie {TXT_KEY_SPECIALIST_WRITER[2]} para aumentar a produção de [ICON_CULTURE] Cultura de uma cidade e acelerar a geração de {TXT_KEY_UNIT_GREAT_WRITER[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ARCHAEOLOGIST_TEXT">
 			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} estudam o comportamento humano no passado, principalmente através da escavação e análise de fósseis humanos, as ruínas de edificações e os restos de artefatos humanos. Ao empreender esse esforço, os {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} trabalham para entender as crenças comuns e atividades diárias de vários povos ao longo da história. Apesar de controvérsias sobre a posse de artefatos, tesouros e restos humanos recuperados, milhares de {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} trabalham ao redor do mundo em escavações, nos museus e nas universidades para melhorar nossa compreensão de nosso próprio passado.</Text>
@@ -1255,7 +1255,7 @@
 			<Text>[NEWLINE][TAB][TAB]"A Internet é a primeira coisa que a humanidade construiu e que não entende; o maior experimento de anarquia que já tivemos." [NEWLINE] [TAB] [TAB ] - Eric Schmidt[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GLOBALIZATION_HELP">
-			<Text>Com a globalização, cada espião que você enviar para outra civilização como [ICON_DIPLOMAT]Diplomata vai aumentar o número de Delegados que você controla no Congresso Mundial, deixando você mais próximo da [COLOR_POSITIVE_TEXT]Vitória Diplomática[ENDCOLOR].</Text>
+			<Text>Com a globalização, cada espião que você enviar para outra civilização como [ICON_DIPLOMAT] Diplomata vai aumentar o número de Delegados que você controla no Congresso Mundial, deixando você mais próximo da [COLOR_POSITIVE_TEXT]Vitória Diplomática[ENDCOLOR].</Text>
 		</Row>
 		<!-- RELIGION -->
 		<!-- RESOURCES -->
@@ -1272,14 +1272,14 @@
 			<Text>A {TXT_KEY_RESOURCE_PEPPER}, de várias formas, tem sido cultivada praticamente em todo o mundo e é usada há milênios para temperar nossa comida. {TXT_KEY_RESOURCE_PEPPER} preta foi encontrada nas narinas de Ramsés II, parte do processo de mumificação. Ela tem sido usada na culinária do sudeste asiático desde o século 2 a.C.. Achados arqueológicos indicam que várias pimentas foram usadas pelos Astecas e Maias na culinária. Em Roma, tão valiosa era a {TXT_KEY_RESOURCE_PEPPER} que foi usada como garantia para empréstimos e Átila exigiu uma tonelada de {TXT_KEY_RESOURCE_PEPPER} para poupar uma cidade no século 5 d.C.. A {TXT_KEY_RESOURCE_PEPPER} foi justamente chamada de o "rei das especiarias".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_MARBLE_TEXT">
-			<Text>O {TXT_KEY_CIV5_RESOURCE_MARBLE} é uma pedra bonita, altamente valorizada como material de construção e por artistas para esculpir. O {TXT_KEY_CIV5_RESOURCE_MARBLE} vem em uma variedade de cores e tons, às vezes monocolorido e às vezes com veios e bolsões de cores diferentes. Muitas das mais belas estruturas do mundo - incluindo o Taj Mahal, por exemplo - são construídas com {TXT_KEY_CIV5_RESOURCE_MARBLE}, assim como as maiores esculturas da antiguidade[NEWLINE][NEWLINE].+15% de [ICON_PRODUCTION]Produção quando estiver construindo Maravilhas das Eras Antiga e Clássica na cidade onde é explorado.</Text>
+			<Text>O {TXT_KEY_CIV5_RESOURCE_MARBLE} é uma pedra bonita, altamente valorizada como material de construção e por artistas para esculpir. O {TXT_KEY_CIV5_RESOURCE_MARBLE} vem em uma variedade de cores e tons, às vezes monocolorido e às vezes com veios e bolsões de cores diferentes. Muitas das mais belas estruturas do mundo - incluindo o Taj Mahal, por exemplo - são construídas com {TXT_KEY_CIV5_RESOURCE_MARBLE}, assim como as maiores esculturas da antiguidade[NEWLINE][NEWLINE].+15% de [ICON_PRODUCTION] Produção quando estiver construindo Maravilhas das Eras Antiga e Clássica na cidade onde é explorado.</Text>
 		</Row>
 		<!-- IMPROVEMENTS -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_TEXT">
 			<Text>Uma Escavação Arqueológica só pode ser construída por um arqueólogo no recurso do Sítio Arqueológico. As escavações na antiga cidade de Tróia são um exemplo de uma proeminente escavação arqueológica. Ao construir o Dig, seu arqueólogo descobrirá que tipo de Artefato está enterrado neste local. Você pode escolher fazer com que o arqueólogo crie uma melhoria permanente no marco ou extraia o Artefato para colocá-lo em uma grande obra de arte em uma edificação em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_TEXT">
-			<Text>O pau-brasil é uma madeira tropical cuja casca produz um extrato carmesim e roxo intenso usado em corantes. Sua madeira é densa e é valorizada por criar instrumentos de cordas (especialmente os arcos) e armários. A colheita do pau-brasil não cessou até 1875, época em que os corantes sintéticos dominaram a indústria têxtil e outras madeiras de lei foram consideradas melhores para instrumentos musicais[NEWLINE][NEWLINE]Um acampamento brasileiro só pode ser construído em um mosaico da selva. e também irá gerar +2 de [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
+			<Text>O pau-brasil é uma madeira tropical cuja casca produz um extrato carmesim e roxo intenso usado em corantes. Sua madeira é densa e é valorizada por criar instrumentos de cordas (especialmente os arcos) e armários. A colheita do pau-brasil não cessou até 1875, época em que os corantes sintéticos dominaram a indústria têxtil e outras madeiras de lei foram consideradas melhores para instrumentos musicais[NEWLINE][NEWLINE]Um acampamento brasileiro só pode ser construído em um mosaico da selva. e também irá gerar +2 de [ICON_CULTURE] Cultura assim que a Acústica for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_TEXT">
 			<Text>A Feitoria - palavra derivada do latim facere, significando "fazer" - eram postos de comércio estabelecidos em territórios estrangeiros durante a Idade Média. Uma feitoria serviu simultaneamente como mercado, depósito, assentamento e ponto de parada para exploração. Muitas vezes estabelecidas com uma subvenção da coroa portuguesa, essas empresas privadas pagavam suas dívidas através da compra e venda de bens em nome da coroa e da cobrança de impostos sobre o comércio que passavam por seus portões. Durante os séculos XV e XVI, uma cadeia de mais de 50 feitorias foram construídas ao longo das costas do oeste e leste da África, Índia, Malásia, China e Japão. As feitorias permitiam Portugal a dominar as rotas comerciais do Oceano Atlântico e no Índico durante três séculos.[NEWLINE][NEWLINE]A Feitoria só pode ser construída em terras de uma cidade-estado, em uma telha costeira sem um recurso. Ele fornece uma cópia de cada tipo de Recurso de Luxo que a Cidade-Estado conectou, independentemente do seu status com aquela Cidade-Estado, mas essa cópia não pode ser negociada. Ele também fornece o mesmo bônus de defesa de + 50% como um forte. Só pode ser construído pelos portugueses.</Text>
@@ -1288,7 +1288,7 @@
 			<Text>Um Casbá é um tipo de medina (um bairro murado em uma cidade) encontrado no campo, geralmente um pequeno povoado no topo de uma colina ou encosta. Originalmente o lar de um chefe tribal ou importante imã islâmico, o Casbá é caracterizado por casas de paredes altas, sem janelas e ruas estreitas e sinuosas. Geralmente é dominado por uma única torre fortificada. Os kasbahs eram comuns ao longo da costa norte-africana e do Oriente Médio até o início do século XX. Construir um Casbá foi uma marca de riqueza, influência e poder para as famílias de descendência árabe marroquina e argelina.[NEWLINE][NEWLINE]Um Casbá só pode ser construído em um mosaico do deserto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_TEXT">
-			<Text>Um Château é uma mansão ou casa de campo da nobreza, geralmente sem fortificações. Na Idade Média, um Château era em grande parte auto-suficiente, sendo apoiado pelo domínio do senhor (terras hereditárias). Nos anos 1600, os ricos e aristocráticos senhores franceses espalhavam-se pelo campo com mansões elegantes, luxuriantes e arquitetonicamente refinadas, como o Château de Maisons. Hoje, o termo château é pouco usado; por exemplo, é comum que qualquer vinícola ou estalagem, por mais humilde que seja, prefira seu nome com "Château".[NEWLINE][NEWLINE]Um Château deve ser construído adjacente a um Recurso de Luxo. Não pode estar adjacente a outro Château. Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Concede mais 1 de [ICON_GOLD]Ouro e 2 de [ICON_CULTURE]Cultura. Além disso, fornece o mesmo bônus defensivo (+ 50%) que um Forte. Além disso, fornece o mesmo bônus defensivo (+ 50%) que um Forte. Quando o voo é pesquisado, aumentará em 1 a [ICON_CULTURE]Cultura produzida e 2 em [ICON_GOLD]Ouro. Deve ser construído em território francês.</Text>
+			<Text>Um Château é uma mansão ou casa de campo da nobreza, geralmente sem fortificações. Na Idade Média, um Château era em grande parte auto-suficiente, sendo apoiado pelo domínio do senhor (terras hereditárias). Nos anos 1600, os ricos e aristocráticos senhores franceses espalhavam-se pelo campo com mansões elegantes, luxuriantes e arquitetonicamente refinadas, como o Château de Maisons. Hoje, o termo château é pouco usado; por exemplo, é comum que qualquer vinícola ou estalagem, por mais humilde que seja, prefira seu nome com "Château".[NEWLINE][NEWLINE]Um Château deve ser construído adjacente a um Recurso de Luxo. Não pode estar adjacente a outro Château. Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Concede mais 1 de [ICON_GOLD] Ouro e 2 de [ICON_CULTURE] Cultura. Além disso, fornece o mesmo bônus defensivo (+ 50%) que um Forte. Além disso, fornece o mesmo bônus defensivo (+ 50%) que um Forte. Quando o voo é pesquisado, aumentará em 1 a [ICON_CULTURE] Cultura produzida e 2 em [ICON_GOLD] Ouro. Deve ser construído em território francês.</Text>
 		</Row>
 		<!-- POLICIES -->
 		<Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY_TEXT">
@@ -1469,13 +1469,13 @@
 			<Text>O ramo do racionalismo melhora a capacidade da civilização de usar e gerar ciência, tornando-se disponível ao entrar na Era da Renascença.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MACHU_PICHU_STRATEGY">
-			<Text>Machu Picchu oferece um bônus de 25% de [ICON_GOLD]Ouro obtido pelas comunicações entre cidades (por Estrada ou Ancoradouro com a capital). Também fornece +1 para a [ICON_CULTURE]Cultura e +1 ponto de Grande Mercador. Machu Picchu requer a tecnologia Moeda e fornece pequeno impulso financeiro nas fases iniciais e intermediárias do jogo.</Text>
+			<Text>Machu Picchu oferece um bônus de 25% de [ICON_GOLD] Ouro obtido pelas comunicações entre cidades (por Estrada ou Ancoradouro com a capital). Também fornece +1 para a [ICON_CULTURE] Cultura e +1 ponto de Grande Mercador. Machu Picchu requer a tecnologia Moeda e fornece pequeno impulso financeiro nas fases iniciais e intermediárias do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_PALACE_HEADING2_BODY">
 			<Text>O Palácio é uma edificação especial. Parte de construção, parte Maravilha, o palácio aparece automaticamente na primeira cidade que você constrói, o que faz dessa cidade a capital do seu império. Se a sua capital for capturada, seu palácio será automaticamente reconstruído em outra cidade, tornando essa cidade sua nova capital. Se você, posteriormente, retomar sua capital original, o palácio voltará a sua localização original. [NEWLINE] O Palácio oferece uma pequena quantidade de produção, ciência, ouro e cultura à sua civilização. Se você conectar outras cidades à capital por estrada ou porto, você criará conexões de cidades que geram renda adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PALACE_STRATEGY">
-			<Text>O Palácio aparece automaticamente na capital do império. Ele fornece uma pequena quantidade de [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura gratuitamente. Se você conectar outras cidades à capital por estrada ou porto, você criará conexões de cidades que geram renda adicional. Se a sua capital for capturada, seu palácio será automaticamente reconstruído em outra cidade. Se você subsequentemente retomar seu capital original, o Palácio voltará a seu local original.</Text>
+			<Text>O Palácio aparece automaticamente na capital do império. Ele fornece uma pequena quantidade de [ICON_RESEARCH] Ciência, [ICON_GOLD] Ouro e [ICON_CULTURE] Cultura gratuitamente. Se você conectar outras cidades à capital por estrada ou porto, você criará conexões de cidades que geram renda adicional. Se a sua capital for capturada, seu palácio será automaticamente reconstruído em outra cidade. Se você subsequentemente retomar seu capital original, o Palácio voltará a seu local original.</Text>
 		</Row>
 		<!-- CITY STATES -->
 		<Row Tag="TXT_KEY_CIV5_ANTANANARIVO_TEXT">
@@ -1595,7 +1595,7 @@
 			<Text>Turismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_HEADING2_BODY">
-			<Text>O [ICON_TOURISM]Turismo é gerado por Grandes Obras ou Artefatos que são colocados em certas edificações culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Obras e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM]Turismo vai continuar a aumentar. Além disso, você pode aumentar um pouco a sua geração de [ICON_TOURISM]Turismo, através de acordos para abertura de fronteiras, pelas rotas comerciais, compartilhamento de religião e determinados princípios ideológicos.</Text>
+			<Text>O [ICON_TOURISM] Turismo é gerado por Grandes Obras ou Artefatos que são colocados em certas edificações culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Obras e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM] Turismo vai continuar a aumentar. Além disso, você pode aumentar um pouco a sua geração de [ICON_TOURISM] Turismo, através de acordos para abertura de fronteiras, pelas rotas comerciais, compartilhamento de religião e determinados princípios ideológicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_ADV_QUEST">
 			<Text>Como faço para gerar Turismo?</Text>
@@ -1604,7 +1604,7 @@
 			<Text>Turismo e Vitória Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_AND_CULTURE_HEADING2_BODY">
-			<Text>Quando a sua geração de [ICON_TOURISM]Turismo cumulativa (no jogo inteiro) ultrapassa a geração de Cultura acumulada de cada civilização restante do jogo, você obtém a Vitória Cultural. Em termos de uma Vitória Cultura, o Turismo consiste em seu "ataque" contra outras civilizações e sua Cultura a "defesa". Você pode acompanhar o seu progresso clicando no ícone de [ICON_TOURISM]Turismo no topo da tela.</Text>
+			<Text>Quando a sua geração de [ICON_TOURISM] Turismo cumulativa (no jogo inteiro) ultrapassa a geração de Cultura acumulada de cada civilização restante do jogo, você obtém a Vitória Cultural. Em termos de uma Vitória Cultura, o Turismo consiste em seu "ataque" contra outras civilizações e sua Cultura a "defesa". Você pode acompanhar o seu progresso clicando no ícone de [ICON_TOURISM] Turismo no topo da tela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_AND_CULTURE_ADV_QUEST">
 			<Text>Como faço para ganhar usando Turismo?</Text>
@@ -1649,7 +1649,7 @@
 			<Text>Gerenciando Grandes Obras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_BODY">
-			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Obras de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover suas Grandes Obras com segurança. Você também pode usar isso para colocar Grandes Obras em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM]Turismo por combinar Grandes Obras semelhantes.</Text>
+			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Obras de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover suas Grandes Obras com segurança. Você também pode usar isso para colocar Grandes Obras em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM] Turismo por combinar Grandes Obras semelhantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_ADV_QUEST">
 			<Text>Como faço para gerenciar minhas Grandes Obras?</Text>
@@ -1979,7 +1979,7 @@
 			<Text>Podemos construir uma Caravana!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_CARAVAN_BODY">
-			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT]construir uma Caravana[/COLOR], a primeira unidade de Comércio disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
+			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT]construir uma Caravana[/COLOR], a primeira unidade de Comércio disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CULTURE_OVERVIEW_DISPLAY">
 			<Text>Visão Geral da Cultura</Text>
@@ -1991,43 +1991,43 @@
 			<Text>Você tem um Grande Escritor!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_WRITER_BODY">
-			<Text>A criatividade é abundante em sua civilização! Se estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], poderá querer [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Literária[/COLOR] para gerar [ICON_TOURISM]Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ter uma Vitória da Cultura!</Text>
+			<Text>A criatividade é abundante em sua civilização! Se estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], poderá querer [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Literária[/COLOR] para gerar [ICON_TOURISM] Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ter uma Vitória da Cultura!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_DISPLAY">
 			<Text>Você tem um Grande Artista!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_BODY">
-			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra de Arte[/COLOR] para gerar [ICON_TOURISM]Tourismo para sua civilização, essencial para uma Vitória Cultural. Ou você poderia começar uma Era Dourada!</Text>
+			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra de Arte[/COLOR] para gerar [ICON_TOURISM] Tourismo para sua civilização, essencial para uma Vitória Cultural. Ou você poderia começar uma Era Dourada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_DISPLAY">
 			<Text>Você tem um Grande Músico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_BODY">
-			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Musical[/COLOR] para gerar [ICON_TOURISM]Tourismo para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM]Turismo!</Text>
+			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Musical[/COLOR] para gerar [ICON_TOURISM] Tourismo para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM] Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_DISPLAY">
 			<Text>Podemos construir Guilda de Escritores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
-			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
+			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
 			<Text>Podemos construir Guilda de Artistas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_BODY">
-			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR] designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
+			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR] designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_DISPLAY">
 			<Text>Podemos construir Guilda de Músicos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_BODY">
-			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR] designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e obter uma Vitória Cultural.</Text>
+			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR] designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Personalidade que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_DISPLAY">
 			<Text>Você está gerando Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_BODY">
-			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Ao visar uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT]pense em seu [ICON_TOURISM]Turismo como seu valor de "Ataque"[/COLOR] a outras civilizações, e em sua [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura como uma forma de "Defesa"[/COLOR] contra outras civilizações. [NEWLINE][NEWLINE]Clique no ícone de [ICON_TOURISM]Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
+			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Ao visar uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT]pense em seu [ICON_TOURISM] Turismo como seu valor de "Ataque"[/COLOR] a outras civilizações, e em sua [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura como uma forma de "Defesa"[/COLOR] contra outras civilizações. [NEWLINE][NEWLINE]Clique no ícone de [ICON_TOURISM] Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARCH_DISPLAY">
 			<Text>Sítios Arqueológicos Apareceram!</Text>
@@ -2057,7 +2057,7 @@
 			<Text>Você fez uma descoberta!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_ARCHAEOLOGY_BODY">
-			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher entre [COLOR_ADVISOR_HIGHLIGHT_TEXT]escavar o Artefato[/COLOR], que pode ser usado para gerar [ICON_TOURISM]Turismo ou criar um Ponto de Referência para gerar [ICON_CULTURE]Cultura.</Text>
+			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher entre [COLOR_ADVISOR_HIGHLIGHT_TEXT]escavar o Artefato[/COLOR], que pode ser usado para gerar [ICON_TOURISM] Turismo ou criar um Ponto de Referência para gerar [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_IDEOLOGY_DISPLAY">
 			<Text>Um Admirável Novo Mundo!</Text>
@@ -2069,7 +2069,7 @@
 			<Text>Suas grandes obras são mundialmente renomadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFLUENTIAL_BODY">
-			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para obter uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], você deve continuar aumentando o seu [ICON_TOURISM]Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM]Turismo com bônus de Fronteiras Abertas, Rotas Comerciais, Hotéis e muito mais!</Text>
+			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para obter uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], você deve continuar aumentando o seu [ICON_TOURISM] Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM] Turismo com bônus de Fronteiras Abertas, Rotas Comerciais, Hotéis e muito mais!</Text>
 		</Row>
 		<!-- VICTORY CONCEPTS -->
 		<Row Tag="TXT_KEY_SOCIALPOLICY_CULTUREVICTORY_HEADING2_BODY">
@@ -2082,10 +2082,10 @@
 			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Personalidade exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_MONGOL_KHAN} se move na mesma taxa que o {TXT_KEY_UNIT_MONGOL_KESHIK} (5 pontos por turno) e pode curar unidades adjacentes (15 PV adicionais por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP">
-			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Caravana[ENDCOLOR], usada para estabelecer lucrativas Rotas Comerciais. Também permite aos Trabalhadores construir [COLOR_POSITIVE_TEXT]Pasto[ENDCOLOR] em locais com [ICON_RES_COW][COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP][COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Além de revelar os [ICON_RES_HORSE]Cavalos, que podem ser usados para criar fortes unidades montadas.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Caravana[ENDCOLOR], usada para estabelecer lucrativas Rotas Comerciais. Também permite aos Trabalhadores construir [COLOR_POSITIVE_TEXT]Pasto[ENDCOLOR] em locais com [ICON_RES_COW] [COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP] [COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Além de revelar os [ICON_RES_HORSE] Cavalos, que podem ser usados para criar fortes unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Cargueiro[ENDCOLOR], usado para estabelecer lucrativas Rotas Comerciais marítimas. Também permite construir navios militares e barcos civis, úteis para explorar e coletar recursos aquáticos como o [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixe[ENDCOLOR] e as [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Cargueiro[ENDCOLOR], usado para estabelecer lucrativas Rotas Comerciais marítimas. Também permite construir navios militares e barcos civis, úteis para explorar e coletar recursos aquáticos como o [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixe[ENDCOLOR] e as [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_AESTHETICS_HEADING3_BODY">
 			<Text>A Estética se torna disponível na era clássica e fornece bônus culturais em toda a sua civilização. Além disso, a Estética desbloqueia a capacidade de comprar Grandes artistas, músicos e escritores com a Fé.</Text>
@@ -2130,10 +2130,10 @@
 			<Text>O mais antigo zoológico conhecido (ou "zoológico") foi escavado em Hieracômpolis e data do ano 3500 a.C.; o mais antigo zoológico existente, o Tiergarten Schoenbrunn em Viena, evoluiu da coleção de animais exóticos mantida pela dinastia dos Habsburgos e foi aberto ao público em 1765 d.C..</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_THEATRE_STRATEGY">
-			<Text>Um Zoológico aumenta a [ICON_HAPPINESS_1]Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. Uma cidade precisa possuir um Coliseu antes do zoológico pode ser construída.</Text>
+			<Text>Um Zoológico aumenta a [ICON_HAPPINESS_1] Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. Uma cidade precisa possuir um Coliseu antes do zoológico pode ser construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STADIUM_STRATEGY">
-			<Text>Um Estádio é uma edificação da era moderna que aumenta a [ICON_HAPPINESS_1]Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. A cidade já deve possuir um zoológico antes de poder construir um estádio.</Text>
+			<Text>Um Estádio é uma edificação da era moderna que aumenta a [ICON_HAPPINESS_1] Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. A cidade já deve possuir um zoológico antes de poder construir um estádio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_LEVELSUNHAPPINESS_HEADING2_BODY">
 			<Text>Existem três níveis de infelicidade. Infeliz, agitação e revolta. Uma civilização Infeliz pode fazer o crescimento populacional desacelerar de forma significativa, uma civilização que vive a agitação pode ter muitos mais problemas, incluindo penas de combate e rebelião aberta, e uma civilização em Revolta pode potencialmente ter cidades abandonando seu império.</Text>
@@ -2166,7 +2166,7 @@
 			<Text>Os hexágonos oceânicos são hexágonos de águas profundas. Eles fornecem comida e ouro para uma cidade, uma vez que a cidade tem a tecnologia para acessá-los.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
-			<Text>Um Ponto de Referência é qualquer artefato magnífico, estrutura, obra de arte ou maravilha da natureza que atrai os visitantes para um local. A Coluna de Nelson, em Londres, é um Ponto de Referência, assim como o Monte Rushmore, nos Estados Unidos. Nem todo objeto de tamanho significativo, no entanto, é um Ponto de Referência: a maior bola de barbante do mundo talvez nunca chegue a essa estatura (embora possa valer a pena uma visita). Os Pontos de Referência fornecem +1 de [ICON_CULTURE]Cultura para cada Era adicional que passou em comparação com a Era original do Artefato.</Text>
+			<Text>Um Ponto de Referência é qualquer artefato magnífico, estrutura, obra de arte ou maravilha da natureza que atrai os visitantes para um local. A Coluna de Nelson, em Londres, é um Ponto de Referência, assim como o Monte Rushmore, nos Estados Unidos. Nem todo objeto de tamanho significativo, no entanto, é um Ponto de Referência: a maior bola de barbante do mundo talvez nunca chegue a essa estatura (embora possa valer a pena uma visita). Os Pontos de Referência fornecem +1 de [ICON_CULTURE] Cultura para cada Era adicional que passou em comparação com a Era original do Artefato.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_PILLAGE_HEADING3_BODY">
 			<Text>Pilhar uma melhoria do inimigo irá curar sua unidade em 25 pontos, além de lhe dar uma quantidade modesta de ouro.</Text>

@@ -18,7 +18,7 @@
       <Text>Sete Cidades de Ouro</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
-      <Text>Bônus de [ICON_GOLD]Ouro por descobrir uma Maravilha Natural (o bônus é maior se for o primeiro a descobri-la). A [ICON_CULTURE]Cultura, [ICON_HAPPINESS_1]Felicidade e o rendimento dos hexágonos com Maravilhas Naturais dobram.</Text>
+      <Text>Bônus de [ICON_GOLD] Ouro por descobrir uma Maravilha Natural (o bônus é maior se for o primeiro a descobri-la). A [ICON_CULTURE] Cultura, [ICON_HAPPINESS_1] Felicidade e o rendimento dos hexágonos com Maravilhas Naturais dobram.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SPAIN_TITLE">
       <Text>Espanha</Text>

@@ -62,13 +62,13 @@
 			<Text>Não são eliminados do jogo, mesmo se perderem sua última cidade. Periodicamente ganham unidades para retomarem cidades capturadas, como {TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING[2]} e {TXT_KEY_UNIT_ARCHER[2]} capazes de recuar antes de um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
-			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um {TXT_KEY_BUILDING_MONUMENT}, um {TXT_KEY_BUILDING_GRANARY} e um {TXT_KEY_BUILDING_MARKET}.[NEWLINE][NEWLINE]O [ICON_FOOD]Crescimento da cidade é interrompido enquanto esta unidade estiver sendo treinada.</Text>
+			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um {TXT_KEY_BUILDING_MONUMENT}, um {TXT_KEY_BUILDING_GRANARY} e um {TXT_KEY_BUILDING_MARKET}.[NEWLINE][NEWLINE]O [ICON_FOOD] Crescimento da cidade é interrompido enquanto esta unidade estiver sendo treinada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_ANTIQUITY_SETTLER_TEXT">
 			<Text>Os clãs tribais Jurchen, antecessores da Dinastia Manchu e seu povo, habitavam a região conhecida como Manchúria, agora no atual norte da China. Antes da ascensão da Dinastia Manchu, no século XVII, os Jurchen se uniram brevemente sob a bandeira da Dinastia Jin, no século XII. Ao longo de sua história, os Jurchen eram conhecidos como hábeis caçadores e igualmente cavaleiros, orgulhando-se dos talentos de sua cavalaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
-			<Text>[NEWLINE]Clans só podem ser treinados em cidades com pelo menos 2 [ICON_CITIZEN]Cidadãos.</Text>
+			<Text>[NEWLINE]Clans só podem ser treinados em cidades com pelo menos 2 [ICON_CITIZEN] Cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HEADING">
 			<Text>{TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} Manchu</Text>
@@ -107,10 +107,10 @@
 			<Text>Nurhaci, chefe estimado dos Jurchen, é creditado pela união das tribos nômades Jurchen da China e pela criação das bases da Dinastia Manchu. Líder durante a segunda metade do século XVI, Nurhaci foi o primeiro Khan da Dinastia Jin, que mais tarde veio a ser conhecida como Qing ou a Dinastia Manchu após a sua morte. Durante seu reinado, Nurhaci colocou o seu povo em uma missão para ultrapassar a rival Dinastia Ming da China e, eventualmente, a Dinastia Joseon da Coreia. Nurhaci é notavelmente creditado pela criação dos Oito Bandeiras, um sistema organizacional para seus militares, que dividiu as tropas em companhias bandeiras de tamanho variável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
-			<Text>O Papeleiro é a edificação exclusiva dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD]Ouro da cidade.</Text>
+			<Text>O Papeleiro é a Edificação Exclusiva dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD] Ouro da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_HELP">
-			<Text>+4 de [ICON_GOLD]Ouro.</Text>
+			<Text>+4 de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO">
 			<Text>Wajo</Text>
@@ -119,10 +119,10 @@
 			<Text>Construir um [LINK=IMPROVEMENT_WAJO]{TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_REC">
-			<Text>Ele aumentará a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste hexágono.</Text>
+			<Text>Ele aumentará a [ICON_STRENGTH] Defesa de qualquer unidade militar estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_HELP">
-			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade militar estacionada neste hexágono. Só pode ser construído pelo Japão e em um hexágono costeiro. Qualquer unidade inimiga que terminar seu turno próximo ao {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO}, recebe 2 pontos de dano.</Text>
+			<Text>+50% de [ICON_STRENGTH] Força de Defesa para qualquer unidade militar estacionada neste hexágono. Só pode ser construído pelo Japão e em um hexágono costeiro. Qualquer unidade inimiga que terminar seu turno próximo ao {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO}, recebe 2 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
 			<Text>O {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} é a melhoria exclusiva dos Japoneses, substituindo {TXT_KEY_IMPROVEMENT_FORT[2]} neste cenário. Ele deve ser construído em hexágonos costeiros. O {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} melhora em 50% a Força de Defesa de qualquer unidade militar estacionada ali e qualquer unidade inimiga que terminar seu turno próximo ao {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} recebe 2 pontos de dano.</Text>
@@ -152,7 +152,7 @@
 			<Text>A Torre de Porcelana aumenta a velocidade de produção de unidades de ataque corpo a corpo e navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_WONDER_PORCELAIN_TOWER_HELP">
-			<Text>+15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades de ataque corpo a corpo ou navais.</Text>
+			<Text>+15% de [ICON_PRODUCTION] Produção quando estiver construindo unidades de ataque corpo a corpo ou navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_GUERILLAS_SPAWNED">
 			<Text>Coreia recebeu novas unidades de guerrilha em razão de característica "Exército Honrado".</Text>
@@ -176,7 +176,7 @@
 			<Text>Mais uma tribo Jurchen ficou sabendo do crescimento da força Manchu e se juntou à causa deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_POLICY_COLLECTIVE_RULE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para comprar unidades é reduzido em 33%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD] Ouro para comprar unidades é reduzido em 33%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_MAP_TITLE">
 			<Text>Ásia Oriental</Text>

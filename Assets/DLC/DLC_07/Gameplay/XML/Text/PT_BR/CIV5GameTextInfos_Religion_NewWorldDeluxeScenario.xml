@@ -5,65 +5,65 @@
 	<Language_pt_BR>
 		<!-- Follower Beliefs-->
 		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES">
-			<Text>Pode construir Casas de Reunião com [ICON_PEACE]Fé.</Text>
+			<Text>Pode construir Casas de Reunião com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT">
 			<Text>Casas de Reunião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_HOLY_WARRIORS">
-			<Text>Use [ICON_PEACE]Fé para comprar unidades terrestres da Era do Fim do Horizonte (e posteriores).</Text>
+			<Text>Use [ICON_PEACE] Fé para comprar unidades terrestres da Era do Fim do Horizonte (e posteriores).</Text>
 		</Row>
 		<!-- Pantheons-->
 		<Row Tag="TXT_KEY_BELIEF_APU">
-			<Text>+3 de [ICON_PEACE]Fé em cidades com uma [ICON_CONNECTED]Conexões entre Cidades, +1 de [ICON_GOLD]Ouro por Posto Comercial, e use [ICON_PEACE]Fé para adquirir Trabalhadores.</Text>
+			<Text>+3 de [ICON_PEACE] Fé em cidades com uma [ICON_CONNECTED] Conexões entre Cidades, +1 de [ICON_GOLD] Ouro por Posto Comercial, e use [ICON_PEACE] Fé para adquirir Trabalhadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_APU_SHORT">
 			<Text>Apu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
-			<Text>+2 de [ICON_PEACE]Fé por Pedreiras, +15% de [ICON_PRODUCTION]Produção por Maravilhas, e pode construir Oficinas com [ICON_PEACE]Fé.</Text>
+			<Text>+2 de [ICON_PEACE] Fé por Pedreiras, +15% de [ICON_PRODUCTION] Produção por Maravilhas, e pode construir Oficinas com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COQUIHANI_SHORT">
 			<Text>Coquihani</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_COYOTE">
-			<Text>+1 de [ICON_PEACE]Fé e +1 de [ICON_RESEARCH]Ciência por Plantações, e pode construir Bibliotecas com [ICON_PEACE]Fé.</Text>
+			<Text>+1 de [ICON_PEACE] Fé e +1 de [ICON_RESEARCH] Ciência por Plantações, e pode construir Bibliotecas com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COYOTE_SHORT">
 			<Text>Coiote Rouba o Fogo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HUNAHPU">
-			<Text>+1 de [ICON_FOOD]Comida por Campos de Caça, +1 de [ICON_PEACE]Fé para cada recurso de Banana, Fruta Cítrica e Trigo, e pode construir Templos com [ICON_PEACE]Fé.</Text>
+			<Text>+1 de [ICON_FOOD] Comida por Campos de Caça, +1 de [ICON_PEACE] Fé para cada recurso de Banana, Fruta Cítrica e Trigo, e pode construir Templos com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HUNAHPU_SHORT">
 			<Text>Hunahpu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_INTI">
-			<Text>+15% para a velocidade do Crescimento das Fronteiras, Templos fornecem +2 de [ICON_HAPPINESS_1]Felicidade, Templos fornecem +1 de [ICON_PEACE]Fé, e use [ICON_PEACE]Fé para comprar Colonos.</Text>
+			<Text>+15% para a velocidade do Crescimento das Fronteiras, Templos fornecem +2 de [ICON_HAPPINESS_1] Felicidade, Templos fornecem +1 de [ICON_PEACE] Fé, e use [ICON_PEACE] Fé para comprar Colonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_INTI_SHORT">
 			<Text>Inti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
-			<Text>Taxa de [ICON_FOOD]Crescimento 10% mais rápida, +3 de [ICON_PEACE]Fé por Jardins, e pode construir Moinho d'Água e Aquedutos com [ICON_PEACE]Fé.</Text>
+			<Text>Taxa de [ICON_FOOD] Crescimento 10% mais rápida, +3 de [ICON_PEACE] Fé por Jardins, e pode construir Moinho d'Água e Aquedutos com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
 			<Text>Quetzalcoatl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SEDNA">
-			<Text>+1 de [ICON_PEACE]Fé por Barcos Pesqueiros, +1 de [ICON_PRODUCTION]Produção por hexágonos de Lagos, Costa e Oceano, e pode construir Faróis com [ICON_PEACE]Fé.</Text>
+			<Text>+1 de [ICON_PEACE] Fé por Barcos Pesqueiros, +1 de [ICON_PRODUCTION] Produção por hexágonos de Lagos, Costa e Oceano, e pode construir Faróis com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SEDNA_SHORT">
 			<Text>Sedna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
-			<Text>+4 de [ICON_PEACE]Fé por Cidadelas e +2 de [ICON_PEACE]Fé por Fortes, aumento de 30% na [ICON_RANGE_STRENGTH]Força de Combate a Distância da cidade, e pode construir Muralhas com [ICON_PEACE]Fé.</Text>
+			<Text>+4 de [ICON_PEACE] Fé por Cidadelas e +2 de [ICON_PEACE] Fé por Fortes, aumento de 30% na [ICON_RANGE_STRENGTH] Força de Combate a Distância da cidade, e pode construir Muralhas com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
 			<Text>Sosondowah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_XBALANQUE">
-			<Text>Ganhe [ICON_PEACE]Fé se você vencer uma batalha, e use [ICON_PEACE]Fé para comprar unidades terrestres da Era Clássica.</Text>
+			<Text>Ganhe [ICON_PEACE] Fé se você vencer uma batalha, e use [ICON_PEACE] Fé para comprar unidades terrestres da Era Clássica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_XBALANQUE_SHORT">
 			<Text>Xbalanque</Text>
@@ -88,55 +88,55 @@
 		</Row>
 		<!-- Reformation Beliefs-->
 		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
-			<Text>+2 de [ICON_PEACE]Fé por hexágonos de Tundra sem Floresta e +4 de [ICON_PEACE]Fé por hexágonos de Neve</Text>
+			<Text>+2 de [ICON_PEACE] Fé por hexágonos de Tundra sem Floresta e +4 de [ICON_PEACE] Fé por hexágonos de Neve</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
-			<Text>+2 de [ICON_PEACE]Fé por hexágonos de Deserto</Text>
+			<Text>+2 de [ICON_PEACE] Fé por hexágonos de Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY">
-			<Text>+2 de [ICON_PEACE]Fé por cada recurso de Ferro, Gemas, Ouro, Prata, Cobre e Sal</Text>
+			<Text>+2 de [ICON_PEACE] Fé por cada recurso de Ferro, Gemas, Ouro, Prata, Cobre e Sal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EARTHS_BOUNTY_SHORT">
 			<Text>Abundância da Terra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS">
-			<Text>+3 de [ICON_PEACE]Fé por hexágonos de Pastos</Text>
+			<Text>+3 de [ICON_PEACE] Fé por hexágonos de Pastos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOLY_ANIMALS_SHORT">
 			<Text>Animais Sagrados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND">
-			<Text>+1 de [ICON_PEACE]Fé por hexágonos de Colina</Text>
+			<Text>+1 de [ICON_PEACE] Fé por hexágonos de Colina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOLY_HIGH_GROUND_SHORT">
 			<Text>Terra Elevada Sagrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND">
-			<Text>+3 de [ICON_PEACE]Fé por hexágonos de Pântano e Planícies Inundadas</Text>
+			<Text>+3 de [ICON_PEACE] Fé por hexágonos de Pântano e Planícies Inundadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOLY_LOW_GROUND_SHORT">
 			<Text>Terra Baixa Sagrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
-			<Text>+2 de [ICON_PEACE]Fé por Plantações</Text>
+			<Text>+2 de [ICON_PEACE] Fé por Plantações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
-			<Text>+8 de [ICON_PEACE]Fé por Maravilhas Naturais</Text>
+			<Text>+8 de [ICON_PEACE] Fé por Maravilhas Naturais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS">
-			<Text>+2 de [ICON_PEACE]Fé por hexágonos de Floresta</Text>
+			<Text>+2 de [ICON_PEACE] Fé por hexágonos de Floresta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS">
-			<Text>+2 de [ICON_PEACE]Fé por hexágonos de Lagos, Costa e Oceano. +1 de [ICON_HAPPINESS_1]Felicidade por cidades em rios</Text>
+			<Text>+2 de [ICON_PEACE] Fé por hexágonos de Lagos, Costa e Oceano. +1 de [ICON_HAPPINESS_1] Felicidade por cidades em rios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_TOTEMISM">
-			<Text>+2 de [ICON_PEACE]Fé por Campos de Caça</Text>
+			<Text>+2 de [ICON_PEACE] Fé por Campos de Caça</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TOTEMISM_SHORT">
 			<Text>Totemismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORLD_TREES">
-			<Text>+2 de [ICON_PEACE]Fé por hexágonos de Floresta</Text>
+			<Text>+2 de [ICON_PEACE] Fé por hexágonos de Floresta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORLD_TREES_SHORT">
 			<Text>Árvores do Mundo</Text>

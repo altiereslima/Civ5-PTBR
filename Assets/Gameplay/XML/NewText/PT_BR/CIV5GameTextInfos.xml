@@ -86,10 +86,10 @@
             <Text>Você pode oferecer {@1_CivName: gender feminine?à; other?ao;} {1_CivName:textkey} um presente em Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_AMOUNT">
-            <Text>Com {1_NumGold} de [ICON_GOLD]Ouro você ganhará {2_NumFriendship} de [ICON_INFLUENCE]Influência</Text>
+            <Text>Com {1_NumGold} de [ICON_GOLD] Ouro você ganhará {2_NumFriendship} de [ICON_INFLUENCE] Influência</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_CANT">
-            <Text>Com pelo menos {1_NumGold} de [ICON_GOLD]Ouro, você poderá dar {@2_CivName: gender feminine?à; other?ao;} {2_CivName:textkey} um presente.</Text>
+            <Text>Com pelo menos {1_NumGold} de [ICON_GOLD] Ouro, você poderá dar {@2_CivName: gender feminine?à; other?ao;} {2_CivName:textkey} um presente.</Text>
         </Row>
         <Row Tag="TXT_KEY_RANSOM_POPUP_ABANDON">
             <Text>Não valem a pena. Deixe-os.</Text>
@@ -410,10 +410,10 @@
             <Text>[COLOR_WARNING_TEXT]Limite de abastecimento atingido![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_UNIT_SUPPLY_REACHED_TOOLTIP">
-            <Text>Seu Império pode suportar {1_Num} {1_Num: plural 1?unidade; other?unidades;}. Você excedeu o limite em {2_Num}, com isso diminui em {3_Num}% a [ICON_PRODUCTION]Produção em suas cidades.</Text>
+            <Text>Seu Império pode suportar {1_Num} {1_Num: plural 1?unidade; other?unidades;}. Você excedeu o limite em {2_Num}, com isso diminui em {3_Num}% a [ICON_PRODUCTION] Produção em suas cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWITCH_POLICY_BRANCHES">
-            <Text>Você gostaria de adotar a política {1_NewBranchName:textkey}? Se o fizer, abandonará {2_OldBranches} e todos os benefícios oferecidos. Isso também fará que seu império entre em [COLOR_WARNING_TEXT]Anarquia[ENDCOLOR] por 1 turno, durante o qual não serão gerados [ICON_PRODUCTION]Produção, [ICON_RESEARCH]Ciência ou [ICON_GOLD]Ouro.</Text>
+            <Text>Você gostaria de adotar a política {1_NewBranchName:textkey}? Se o fizer, abandonará {2_OldBranches} e todos os benefícios oferecidos. Isso também fará que seu império entre em [COLOR_WARNING_TEXT]Anarquia[ENDCOLOR] por 1 turno, durante o qual não serão gerados [ICON_PRODUCTION] Produção, [ICON_RESEARCH] Ciência ou [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_LIBERTY_TITLE">
             <Text>{1: gender masculine?Cônsul; feminine?Consulesa;} {1_PlayerName:textkey} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey}</Text>
@@ -483,7 +483,7 @@
 	</Row>
       <!-- Disabled City Builds -->
         <Row Tag="TXT_KEY_NO_ACTION_VERY_UNHAPPY_SETTLERS">
-            <Text>[NEWLINE]Não poderá ser construído enquanto o Império estiver [ICON_HAPPINESS_4]Muito Infeliz.</Text>
+            <Text>[NEWLINE]Não poderá ser construído enquanto o Império estiver [ICON_HAPPINESS_4] Muito Infeliz.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_UNIT_PROJECT_REQUIRED">
             <Text>[NEWLINE]O projeto {1_ProjectName:textkey} é necessário para treinar esta unidade.</Text>
@@ -510,10 +510,10 @@
             <Text>[NEWLINE]Unidades Especiais não podem ser treinadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT">
-            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com pelo menos {1_Num} [ICON_CITIZEN]{1_Num: plural 1?cidadão; other?cidadãos;}.</Text>
+            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com pelo menos {1_Num} [ICON_CITIZEN] {1_Num: plural 1?cidadão; other?cidadãos;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
-            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com no mínimo 2 [ICON_CITIZEN]Cidadãos.</Text>
+            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com no mínimo 2 [ICON_CITIZEN] Cidadãos.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_UNIT_REQUIRES_BUILDING">
             <Text>[NEWLINE]Requer a edificação {1_BuildingName:textkey} nesta cidade.</Text>
@@ -526,62 +526,62 @@
         </Row>
         <!-- Note: the following string is sometimes appended to the text entry right above (which is why it starts with a comma) -->
         <Row Tag="TXT_KEY_BUILD_FEATURE_PRODUCTION">
-            <Text>, fornecendo {1_Num} de [ICON_PRODUCTION]Produção à cidade mais próxima.</Text>
+            <Text>, fornecendo {1_Num} de [ICON_PRODUCTION] Produção à cidade mais próxima.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_FOOD_STRING">
-            <Text>{1_Num}[ENDCOLOR] de [ICON_FOOD]Alimento</Text>
+            <Text>{1_Num}[ENDCOLOR] de [ICON_FOOD] Alimento</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_PRODUCTION_STRING">
-            <Text>{1_Num}[ENDCOLOR] de [ICON_PRODUCTION]Produção</Text>
+            <Text>{1_Num}[ENDCOLOR] de [ICON_PRODUCTION] Produção</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_GOLD_STRING">
-            <Text>{1_Num}[ENDCOLOR] de [ICON_GOLD]Ouro</Text>
+            <Text>{1_Num}[ENDCOLOR] de [ICON_GOLD] Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_SCIENCE_STRING">
-            <Text>{1_Num}[ENDCOLOR] de [ICON_RESEARCH]Ciência</Text>
+            <Text>{1_Num}[ENDCOLOR] de [ICON_RESEARCH] Ciência</Text>
         </Row>
         <!-- Production tooltip Info -->
         <Row Tag="TXT_KEY_PRODUCTION_COST">
-            <Text>[ICON_PRODUCTION]Custo: {1_Num}</Text>
+            <Text>[ICON_PRODUCTION] Custo: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_MOVEMENT">
-            <Text>[ICON_MOVES]Movimento: {1_Num}</Text>
+            <Text>[ICON_MOVES] Movimento: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_RANGE">
-            <Text>[ICON_BULLET]Alcance: {1_Num}</Text>
+            <Text>[ICON_BULLET] Alcance: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_RANGED_STRENGTH">
-            <Text>[ICON_RANGE_STRENGTH]Força de ataque a distância: {1_Num}</Text>
+            <Text>[ICON_RANGE_STRENGTH] Força de ataque a distância: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_STRENGTH">
-            <Text>[ICON_STRENGTH]Força: {1_Num}</Text>
+            <Text>[ICON_STRENGTH] Força: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_MAINTENANCE">
-            <Text>[ICON_GOLD]Manutenção: {1_Num}</Text>
+            <Text>[ICON_GOLD] Manutenção: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_HAPPINESS">
-            <Text>[ICON_HAPPINESS_1]Felicidade: +{1_Num}</Text>
+            <Text>[ICON_HAPPINESS_1] Felicidade: +{1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_CULTURE">
-            <Text>[ICON_CULTURE]Cultura: +{1_Num}</Text>
+            <Text>[ICON_CULTURE] Cultura: +{1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_DEFENSE">
-            <Text>[ICON_STRENGTH]Defesa: +{1_Num}</Text>
+            <Text>[ICON_STRENGTH] Defesa: +{1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_FOOD">
-            <Text>[ICON_FOOD]Alimento: +{1_Num}</Text>
+            <Text>[ICON_FOOD] Alimento: +{1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_GOLD">
-            <Text>[ICON_GOLD]Ouro: +{1_Num}%</Text>
+            <Text>[ICON_GOLD] Ouro: +{1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_SCIENCE">
-            <Text>[ICON_RESEARCH]Ciência: +{1_Num}%</Text>
+            <Text>[ICON_RESEARCH] Ciência: +{1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION">
-            <Text>[ICON_PRODUCTION]Produção: +{1_Num}%</Text>
+            <Text>[ICON_PRODUCTION] Produção: +{1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_RESOURCES_REQUIRED">
-            <Text>[ICON_BULLET]Requer:</Text>
+            <Text>[ICON_BULLET] Requer:</Text>
         </Row>
         <!-- Yield Info -->
         <Row Tag="TXT_KEY_YIELD_BASE">
@@ -606,13 +606,13 @@
             <Text>{1_Num} {2_IconString} das outras fontes</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_FROM_POP">
-            <Text>{1_Num} {2_IconString} da [ICON_CITIZEN]População</Text>
+            <Text>{1_Num} {2_IconString} da [ICON_CITIZEN] População</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_FROM_POP_EXTRA">
-            <Text>{1_Num} {1_Num: plural 1?extra; other?extras;} {2_IconString} da [ICON_CITIZEN]População</Text>
+            <Text>{1_Num} {1_Num: plural 1?extra; other?extras;} {2_IconString} da [ICON_CITIZEN] População</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_EATEN_BY_POP">
-            <Text>-{1_Num} {2_IconString} {1_Num: plural 1?utilizado; other?utilizados;} pela população (2 por [ICON_CITIZEN])</Text>
+            <Text>-{1_Num} {2_IconString} {1_Num: plural 1?utilizado; other?utilizados;} pela população (2 por [ICON_CITIZEN] )</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_AFTER_EATEN">
             <Text>[COLOR_POSITIVE_TEXT]{1_Num} {2_IconString} após cidadãos[ENDCOLOR]</Text>
@@ -621,22 +621,22 @@
             <Text>[COLOR_NEGATIVE_TEXT]{1_Num} {2_IconString} após cidadãos[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_FOOD_PROGRESS">
-            <Text>Progresso: {1_Num}/{2_Num} [ICON_FOOD]</Text>
+            <Text>Progresso: {1_Num}/{2_Num} [ICON_FOOD] </Text>
         </Row>
         <Row Tag="TXT_KEY_FOOD_HELP_INFO">
-            <Text>[ICON_FOOD]Alimento é o que determina o quão rápido ocorre o crescimento da sua cidade e o aumento da população. [ICON_CITIZEN]Cidadãos trabalham nas terras e coletam [ICON_FOOD], [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
+            <Text>[ICON_FOOD] Alimento é o que determina o quão rápido ocorre o crescimento da sua cidade e o aumento da população. [ICON_CITIZEN] Cidadãos trabalham nas terras e coletam [ICON_FOOD] , [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_INFO">
-            <Text>[ICON_PRODUCTION]Produção é o que determina o quão rápido a cidade treina suas unidades e constrói suas edificações etc. É coletada a partir de terrenos, edificações e muito mais.</Text>
+            <Text>[ICON_PRODUCTION] Produção é o que determina o quão rápido a cidade treina suas unidades e constrói suas edificações etc. É coletada a partir de terrenos, edificações e muito mais.</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLD_HELP_INFO">
-            <Text>[ICON_GOLD]Ouro é estocado no Tesouro Nacional e pode ser usado para expandir seus territórios, comprar itens nas cidades e influenciar a Diplomacia.</Text>
+            <Text>[ICON_GOLD] Ouro é estocado no Tesouro Nacional e pode ser usado para expandir seus territórios, comprar itens nas cidades e influenciar a Diplomacia.</Text>
         </Row>
         <Row Tag="TXT_KEY_SCIENCE_HELP_INFO">
-            <Text>[ICON_RESEARCH]Ciência é usada para avançar tecnologicamente sua Civilização, desbloqueando novas unidades, edificações e muito mais.</Text>
+            <Text>[ICON_RESEARCH] Ciência é usada para avançar tecnologicamente sua Civilização, desbloqueando novas unidades, edificações e muito mais.</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_HELP_INFO">
-            <Text>[ICON_CULTURE]Cultura ajuda as cidades a expandirem seus territórios, permitindo mais produtividade. Também é utilizada na adoção de [COLOR_POSITIVE_TEXT]Políticas Sociais[ENDCOLOR] para todo o Império.</Text>
+            <Text>[ICON_CULTURE] Cultura ajuda as cidades a expandirem seus territórios, permitindo mais produtividade. Também é utilizada na adoção de [COLOR_POSITIVE_TEXT]Políticas Sociais[ENDCOLOR] para todo o Império.</Text>
         </Row>
         <!-- Culture Info -->
         <Row Tag="TXT_KEY_CULTURE_INFO">
@@ -674,7 +674,7 @@
             <Text>Nada está sendo construído.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_SCREEN_PROD_PER_TURN">
-            <Text>{1_Num} [ICON_PRODUCTION]Produção / Turno</Text>
+            <Text>{1_Num} [ICON_PRODUCTION] Produção / Turno</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_NUM_TURNS">
             <Text>{1_Num} {1_Num: plural 1?turno; other?turnos;}</Text>
@@ -686,123 +686,123 @@
             <Text>??? turnos</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_PROGRESS">
-            <Text>Progresso: {1_Num}/{2_Num} [ICON_PRODUCTION]</Text>
+            <Text>Progresso: {1_Num}/{2_Num} [ICON_PRODUCTION] </Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_TEXT">
             <Text>{1_BuildItem:textkey} será construído em {2_NumTurnsString}.</Text>
         </Row>
         <!-- Food Modifiers -->
         <Row Tag="TXT_KEY_FOOD_USAGE">
-            <Text>([COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]-[COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR] usados por [ICON_CITIZEN]Cidadãos)</Text>
+            <Text>([COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]-[COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR] usados por [ICON_CITIZEN] Cidadãos)</Text>
         </Row>
         <Row Tag="TXT_KEY_FOODMOD_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pelo Império: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pelo Império: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_FOODMOD_CAPITAL">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pela [ICON_CAPITAL]Capital: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pela [ICON_CAPITAL] Capital: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_FOODMOD_UNHAPPY">
-            <Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]Modificador pela [ICON_HAPPINESS_4]Infelicidade: {1_Num}%[ENDCOLOR]</Text>
+            <Text>[NEWLINE][ICON_BULLET] [COLOR_WARNING_TEXT]Modificador pela [ICON_HAPPINESS_4] Infelicidade: {1_Num}%[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_FOODMOD_WLTKD">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pela festa "Nós Amamos o Rei": {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pela festa "Nós Amamos o Rei": {1_Num}%</Text>
         </Row>
         <!-- Production Modifiers -->
         <Row Tag="TXT_KEY_PRODMOD_FOOD_CONVERSION">
-            <Text>[NEWLINE][ICON_BULLET]Do excesso de [ICON_FOOD]Alimento: +{1_Num} [ICON_PRODUCTION]</Text>
+            <Text>[NEWLINE][ICON_BULLET] Do excesso de [ICON_FOOD] Alimento: +{1_Num} [ICON_PRODUCTION] </Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_RAILROAD_CONNECTION">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pelas Conexões Ferroviárias: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pelas Conexões Ferroviárias: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_DOMAIN">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pelo Domínio das Unidades: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pelo Domínio das Unidades: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_COMBAT_TYPE">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pela Classe de Unidade de Combate: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pela Classe de Unidade de Combate: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_MILITARY">
-            <Text>[NEWLINE][ICON_BULLET]Modificador pelas Unidades Militares: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador pelas Unidades Militares: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_WITH_BUILDING">
-            <Text>[NEWLINE][ICON_BULLET]Modificador por {2_BuildingName}: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador por {2_BuildingName}: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_WONDER_CITY">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades por Maravilhas: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades por Maravilhas: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_WONDER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Maravilhas: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_WONDER_LOCAL_RES">
-            <Text>[NEWLINE][ICON_BULLET]Modificador de Maravilhas por {2_ResourceName}: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador de Maravilhas por {2_ResourceName}: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_BUILDING_CITY">
-            <Text>[NEWLINE][ICON_BULLET]Modificador por Edificações: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador por Edificações: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_CAPITAL_BUILDING_TRAIT">
-            <Text>[NEWLINE][ICON_BULLET]Modificador da Característica Única por Edificações na [ICON_CAPITAL]Capital: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador da Característica Única por Edificações na [ICON_CAPITAL] Capital: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_SPACE">
-            <Text>[NEWLINE][ICON_BULLET]Modificador por Espaçonave: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador por Espaçonave: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_SUPPLY">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Unidades de Suprimento: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades de Suprimento: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_MILITARY_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Unidades Militares: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades Militares: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_SETTLER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Colonizadores: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Colonizadores: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_RELIGION_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Edificações Religiosas: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Edificações Religiosas: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_COBMAT_CLASS_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Unidades Combatentes: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades Combatentes: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_TRAIT">
-            <Text>[NEWLINE][ICON_BULLET]Modificador da Característica por Tipo de Unidade: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador da Característica por Tipo de Unidade: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_BUILDING_TRAIT">
-            <Text>[NEWLINE][ICON_BULLET]Modificador da Característica por Edificações: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador da Característica por Edificações: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_WONDER_POLICY">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Políticas por Maravilhas: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Políticas por Maravilhas: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_WORLD_WONDER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Maravilhas do Mundo: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas do Mundo: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_TEAM_WONDER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Maravilhas do Time: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas do Time: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_NATIONAL_WONDER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador no Império por Maravilhas Nacionais: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador no Império por Maravilhas Nacionais: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_BUILDING_POLICY_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Políticas no Império por Edificações: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Políticas no Império por Edificações: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_SPACE_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Espaçonave: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Espaçonave: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_SPECIALIST_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador do Império por Especialistas: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Especialistas: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD_RESOURCES">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades por Recursos: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades por Recursos: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD_HAPPINESS">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades por Felicidade: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades por Felicidade: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD_AREA">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades por Área: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades por Área: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET]Modificador Diverso do Jogador: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador Diverso do Jogador: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_YIELD_CAPITAL">
-            <Text>[NEWLINE][ICON_BULLET]Modificador das Cidades por [ICON_CAPITAL]Capital: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador das Cidades por [ICON_CAPITAL] Capital: {1_Num}%</Text>
         </Row>
         <!-- Specialist Popup-->
         <Row Tag="TXT_KEY_SPECIALIST_ADD_TO_BUILDING">
@@ -867,7 +867,7 @@
             <Text>Missão Conectado com Estradas completa![NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_ACTIVE">
-            <Text>Missão: conecte com estradas para ganhar bônus de [ICON_INFLUENCE]Influência[NEWLINE]</Text>
+            <Text>Missão: conecte com estradas para ganhar bônus de [ICON_INFLUENCE] Influência[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_GET_HAPPINESS">
             <Text>+{1_Num} Felicidade(Civ. Favorita!)[NEWLINE]</Text>
@@ -932,7 +932,7 @@
             <Text>Você capturou um civil que pertencia {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {1_CivName}. Você tem a opção de libertá-lo ou levá-lo com você como {@2_NewUnitName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CITY_STATE">
-            <Text>Liberando o civil, você ganhará {1_Num} de [ICON_INFLUENCE]Influência!</Text>
+            <Text>Liberando o civil, você ganhará {1_Num} de [ICON_INFLUENCE] Influência!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_AI">
             <Text>Se você libertar a unidade, eles deverão ficar muito agradecidos!</Text>
@@ -1150,13 +1150,13 @@
             <Text>PESQUISADO</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_HELP_COST">
-            <Text>[ICON_BULLET]Custo: {1_Num} de [ICON_RESEARCH]Ciência</Text>
+            <Text>[ICON_BULLET] Custo: {1_Num} de [ICON_RESEARCH] Ciência</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_HELP_COST_WITH_PROGRESS">
-            <Text>[ICON_BULLET]Progresso: {1_Num} de {2_Num} [ICON_RESEARCH]Ciência</Text>
+            <Text>[ICON_BULLET] Progresso: {1_Num} de {2_Num} [ICON_RESEARCH] Ciência</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_HELP_LEADS_TO">
-            <Text>[ICON_BULLET]Libera: {1_TechsString}</Text>
+            <Text>[ICON_BULLET] Libera: {1_TechsString}</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_OF_CIV">
             <Text>{@1_LeaderName} ({@2_CivName})</Text>
@@ -1171,7 +1171,7 @@
             <Text>[NEWLINE]Você não poderá adquiri-lo enquanto outra unidade estiver estacionada nesta cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_GOLD">
-            <Text>[NEWLINE]Você não tem [ICON_GOLD]Ouro suficiente para comprar isto.</Text>
+            <Text>[NEWLINE]Você não tem [ICON_GOLD] Ouro suficiente para comprar isto.</Text>
         </Row>
         <!--AdvisorInfoPopup-->
         <Row Tag="TXT_KEY_ADVISORINFOPOPUP_CIVILOPEDIA">
@@ -1204,7 +1204,7 @@
 		  <Text>Selecione uma unidade que está aguardando promoção. Todas as unidades devem ser promovidas antes que você termine o turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_REBELS">
-		  <Text>Em razão do Império ter pelo menos 20 de [ICON_HAPPINESS_4]Infelicidade, uma surpresa desagradável ocorreu em seu território!</Text>
+		  <Text>Em razão do Império ter pelo menos 20 de [ICON_HAPPINESS_4] Infelicidade, uma surpresa desagradável ocorreu em seu território!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_REBELS_SUMMARY">
 		  <Text>Rebeldes apareceram!</Text>
@@ -1234,34 +1234,34 @@
 		  <Text>Sua oferta para {1_Player} não é mais válida.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION_CHANGE">
-		  <Text>[ICON_PRODUCTION]Produção: {1_Num}</Text>
+		  <Text>[ICON_PRODUCTION] Produção: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SCIENCE_CHANGE">
-		  <Text>[ICON_RESEARCH]Ciência: {1_Num}</Text>
+		  <Text>[ICON_RESEARCH] Ciência: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GOLD_CHANGE">
-		  <Text>[ICON_GOLD]Ouro: {1_Num}</Text>
+		  <Text>[ICON_GOLD] Ouro: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_CAPITAL_SETTLER_PLAYER">
-		  <Text>[NEWLINE][ICON_BULLET]Modificador da Capital para Colonizadores: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador da Capital para Colonizadores: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_GOLDEN_AGE">
-		  <Text>[NEWLINE][ICON_BULLET]Modificador da Era Dourada: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador da Era Dourada: {1_Num}%</Text>
 		</Row>
 		 <Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_TT">
-		  <Text>Parabéns! A descoberta {@1: gender feminine?{@1: plural 1?da; other?das;}; other?{@1: plural 1?do; other?dos;};} {@1_NWName} aumentou a [ICON_HAPPINESS_1]Felicidade no Império.[NEWLINE][NEWLINE]Rendimento se explorar: </Text>
+		  <Text>Parabéns! A descoberta {@1: gender feminine?{@1: plural 1?da; other?das;}; other?{@1: plural 1?do; other?dos;};} {@1_NWName} aumentou a [ICON_HAPPINESS_1] Felicidade no Império.[NEWLINE][NEWLINE]Rendimento se explorar: </Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_HAPPY">
-		  <Text>[NEWLINE]Ganha {1_Num} de [ICON_HAPPINESS_1]Felicidade se estiver dentro das suas fronteiras.</Text>
+		  <Text>[NEWLINE]Ganha {1_Num} de [ICON_HAPPINESS_1] Felicidade se estiver dentro das suas fronteiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_PROMOTE">
 		  <Text>[NEWLINE]Promoção grátis para as unidades adjacentes:[NEWLINE]{1_PromoteString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FIRST_FOUND_GOLD">
-		  <Text>[NEWLINE]Por ser o primeiro a encontrar esta maravilha, você ganhou {1_Num} de [ICON_GOLD]</Text>
+		  <Text>[NEWLINE]Por ser o primeiro a encontrar esta maravilha, você ganhou {1_Num} de [ICON_GOLD] </Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_SUBSEQUENT_FOUND_GOLD">
-			<Text>[NEWLINE]Por encontrar esta maravilha (após outra equipe), você ganhou {1_Num} de [ICON_GOLD]</Text>
+			<Text>[NEWLINE]Por encontrar esta maravilha (após outra equipe), você ganhou {1_Num} de [ICON_GOLD] </Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_YOUR_TEAM">
 		  <Text>Sua equipe</Text>
@@ -1313,22 +1313,22 @@
 			<Text>[COLOR_NEGATIVE_TEXT]{1_Num} {1_Num: plural 1?exportado; other?exportados;}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_LUXURY_DETAILS">
-			<Text>[ICON_PLUS]Recursos de Luxo</Text>
+			<Text>[ICON_PLUS] Recursos de Luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_LUXURY_DETAILS_COLLAPSE">
-			<Text>[ICON_MINUS]Recursos de Luxo</Text>
+			<Text>[ICON_MINUS] Recursos de Luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_STRATEGIC_DETAILS">
-			<Text>[ICON_PLUS]Recursos Estratégicos</Text>
+			<Text>[ICON_PLUS] Recursos Estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_STRATEGIC_DETAILS_COLLAPSE">
-			<Text>[ICON_MINUS]Recursos Estratégicos</Text>
+			<Text>[ICON_MINUS] Recursos Estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BONUS_DETAILS">
-			<Text>[ICON_PLUS]Recursos Bônus</Text>
+			<Text>[ICON_PLUS] Recursos Bônus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BONUS_DETAILS_COLLAPSE">
-			<Text>[ICON_MINUS]Recursos Bônus</Text>
+			<Text>[ICON_MINUS] Recursos Bônus</Text>
 		</Row>
 		<!-- End Resources UI -->
 		<!-- Added as a shim for outdated replay files.-->
@@ -1360,10 +1360,10 @@
 		  <Text>{1_Num} {2_IconString} da Religião</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_FOODMOD_RELIGION">
-		  <Text>[NEWLINE][ICON_BULLET]Modificador pela Crença Religiosa: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador pela Crença Religiosa: {1_Num}%</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_PRODMOD_WONDER_RELIGION">
-		  <Text>[NEWLINE][ICON_BULLET]Modificador sobre Maravilhas por Crença Religiosa: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador sobre Maravilhas por Crença Religiosa: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_LIBERATED">
 		  <Text>VOLTOU À VIDA</Text>

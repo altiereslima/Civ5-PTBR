@@ -9,94 +9,94 @@
 			<Text>Negociar (Automático)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_YOU_WINNING">
-			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital original! Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_OTHER_PLAYER_WINNING">
-			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital original! {1_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_TEAM_WINNING">
-			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! O Time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital original! O Time {1_Num} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_UNMET_WINNING">
-			<Text>Você perdeu sua [ICON_CAPITAL]Capital original! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais ({1_Num})</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital original! Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL">
-			<Text>Você perdeu sua [ICON_CAPITAL]Capital original!</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital original!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_YOU_WINNING">
-			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL] Capital original. Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_OTHER_WINNING">
-			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL] Capital original. {2_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({3_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_TEAM_WINNING">
-			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. O Time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL] Capital original. O Time {2_TeamNum} controla a maioria das [ICON_CAPITAL] Capitais originais. ({3_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_UNMET_WINNING">
-			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL] Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL">
-			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL]Capital original.</Text>
+			<Text>{1_PlayerName} perdeu sua [ICON_CAPITAL] Capital original.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_YOU_WINNING">
-			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL] Capital original. Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_OTHER_WINNING">
-			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL] Capital original. {1_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_TEAM_WINNING">
-			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. O Time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL] Capital original. O Time {1_TeamNum} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_UNMET_WINNING">
-			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL] Capital original. Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL">
-			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital original.</Text>
+			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL] Capital original.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_YOU_WINNING">
-			<Text>Você reconquistou sua [ICON_CAPITAL]Capital original! Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Você reconquistou sua [ICON_CAPITAL] Capital original! Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_OTHER_PLAYER_WINNING">
-			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Você reconquistou sua [ICON_CAPITAL] Capital! {1_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_TEAM_WINNING">
-			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! O Time {1_Num} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Você reconquistou sua [ICON_CAPITAL] Capital! O Time {1_Num} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_UNMET_WINNING">
-			<Text>Você reconquistou sua [ICON_CAPITAL]Capital! Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais ({1_Num})</Text>
+			<Text>Você reconquistou sua [ICON_CAPITAL] Capital! Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL">
-			<Text>Você reconquistou sua [ICON_CAPITAL]Capital!</Text>
+			<Text>Você reconquistou sua [ICON_CAPITAL] Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_YOU_WINNING">
-			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL] Capital. Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_OTHER_WINNING">
-			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital. {2_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL] Capital. {2_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({3_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_TEAM_WINNING">
-			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital. O Time {2_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({3_Num})</Text>
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL] Capital. O Time {2_TeamNum} controla a maioria das [ICON_CAPITAL] Capitais originais. ({3_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_UNMET_WINNING">
-			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL] Capital. Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL">
-			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL]Capital.</Text>
+			<Text>{1_PlayerName} reconquistou sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_YOU_WINNING">
-			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital. Você controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital. Você controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_OTHER_WINNING">
-			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital. {1_PlayerName} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital. {1_PlayerName} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_TEAM_WINNING">
-			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital. O Time {1_TeamNum} controla a maioria das [ICON_CAPITAL]Capitais originais. ({2_Num})</Text>
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital. O Time {1_TeamNum} controla a maioria das [ICON_CAPITAL] Capitais originais. ({2_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_UNMET_WINNING">
-			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital. Um jogador desconhecido controla a maioria das [ICON_CAPITAL]Capitais originais. ({1_Num})</Text>
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital. Um jogador desconhecido controla a maioria das [ICON_CAPITAL] Capitais originais. ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL">
-			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL]Capital.</Text>
+			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF">
 			<Text>Você adotou a política social Reforma e, agora, pode adicionar uma crença a sua religião.</Text>
@@ -189,7 +189,7 @@
 			<Text>O substituto Bárbaro para a {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
-			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
+			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD] Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
 			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
@@ -198,13 +198,13 @@
 			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
-			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE]Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
+			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE] Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
 			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o {TXT_KEY_UNIT_LANCER}, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
-			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES] Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD] Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
 			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. {TXT_KEY_UNIT_PARATROOPER[2]} também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
@@ -216,10 +216,10 @@
 			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
-			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizado para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
+			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizado para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVAN">
-			<Text>Estabelece Rotas Comerciais terrestres, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
+			<Text>Estabelece Rotas Comerciais terrestres, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_XCOM_SQUAD">
 			<Text>Unidade de infantaria futurística especializada em enfrentar o perigo em qualquer lugar do mundo. O {TXT_KEY_UNIT_XCOM_SQUAD} pode se mover e saquear após aterrissar, mas não pode entrar em combate até o próximo turno.[NEWLINE][NEWLINE][COLOR_CYAN]Boa sorte, Comandante![ENDCOLOR]</Text>
@@ -273,7 +273,7 @@
 			<Text>A unidade deve estar em território de uma Cidade-Estado contra a qual você não esteja em guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
-			<Text>Usar [ICON_PEACE]Fé para comprar {TXT_KEY_BUILDING_CATHEDRAL[2]} (+1 de [ICON_PEACE]Fé, +1 de [ICON_CULTURE]Cultura, +1 de [ICON_HAPPINESS_1]Felicidade, 1 espaço para Grande Obra de Arte)</Text>
+			<Text>Usar [ICON_PEACE] Fé para comprar {TXT_KEY_BUILDING_CATHEDRAL[2]} (+1 de [ICON_PEACE] Fé, +1 de [ICON_CULTURE] Cultura, +1 de [ICON_HAPPINESS_1] Felicidade, 1 espaço para Grande Obra de Arte)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
 			<Text>A Religião é disseminada 25% mais rápido (50% com a tecnologia {TXT_KEY_TECH_PRINTING_PRESS_TITLE})</Text>
@@ -288,13 +288,13 @@
 			<Text>Convencer a população restante a se juntar a uma das suas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_CULTURE">
-			<Text>Usar este contato com a tribo perdida para aumentar sua [ICON_CULTURE]Cultura.</Text>
+			<Text>Usar este contato com a tribo perdida para aumentar sua [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_REVEAL_NEARBY_BARBS">
 			<Text>Usar informações da tribo perdida para localizar acampamentos[NEWLINE] bárbaros próximos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_GOLD">
-			<Text>Negociar com a tribo perdida por [ICON_GOLD]Ouro.</Text>
+			<Text>Negociar com a tribo perdida por [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_MAP">
 			<Text>Olhar nos mapas deles.</Text>
@@ -348,7 +348,7 @@
 			<Text>Tem certeza que deseja {@1_ActionName}?[NEWLINE]A melhoria atual será substituída e a conexão com a cidade poderá ser desconectada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
-			<Text>+2 de [ICON_RESEARCH]Ciência em cidades com uma [ICON_CONNECTED]Conexão</Text>
+			<Text>+2 de [ICON_RESEARCH] Ciência em cidades com uma [ICON_CONNECTED] Conexão</Text>
 		</Row>
 		<!-- PROMOTIONS -->
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
@@ -373,7 +373,7 @@
 			<Text>Obtém pontos para gerar uma Era Dourada para cada inimigo destruído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL_HELP">
-			<Text>+3 de [ICON_MOVES]Movimento.</Text>
+			<Text>+3 de [ICON_MOVES] Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
 			<Text>Guerra Patriótica</Text>
@@ -382,13 +382,13 @@
 			<Text>+1 de Movimento. Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST_HELP">
-			<Text>+10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colina, Floresta ou Selva). Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
+			<Text>+10% de [ICON_STRENGTH] Força de Combate quando estiver lutando em terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colina, Floresta ou Selva). Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS_HELP">
-			<Text>+10% de [ICON_STRENGTH]Força de Combate. Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
+			<Text>+10% de [ICON_STRENGTH] Força de Combate. Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS_HELP">
-			<Text>+100% de [ICON_GOLD]Ouro e +100% de influência com Cidade-Estado que uma Missão Comercial normal.</Text>
+			<Text>+100% de [ICON_GOLD] Ouro e +100% de influência com Cidade-Estado que uma Missão Comercial normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE_HELP">
 			<Text>Força o defensor a recuar se causar mais dano que receber. Um defensor que não pode recuar recebe dano extra.</Text>
@@ -430,7 +430,7 @@
 			<Text>Guerreio do Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR_HELP">
-			<Text>+50% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Desertos[ENDCOLOR]</Text>
+			<Text>+50% de [ICON_STRENGTH] Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Desertos[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER">
 			<Text>Atacante da Lua Cheia</Text>
@@ -448,7 +448,7 @@
 			<Text>Treinamento de Altitude</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING_HELP">
-			<Text>Dobra o movimento em colinas. +10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Colinas[ENDCOLOR].</Text>
+			<Text>Dobra o movimento em colinas. +10% de [ICON_STRENGTH] Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Colinas[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE">
 			<Text>Espada Mística</Text>
@@ -514,7 +514,7 @@
 			<Text>Combate Relâmpago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_HELP">
-			<Text>+15% de Bônus de Combate quando estiver atacando. +1 de [ICON_MOVES]Movimento. Ignora a Zona de Controle Inimiga.</Text>
+			<Text>+15% de Bônus de Combate quando estiver atacando. +1 de [ICON_MOVES] Movimento. Ignora a Zona de Controle Inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1">
 			<Text>Pele de Lobo I</Text>
@@ -574,109 +574,109 @@
 			<Text>Carga Exótica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS_HELP">
-			<Text>Pode vender bens exóticos quando estiver adjacente a um hexágono estrangeiro para obter [ICON_GOLD]Ouro e EXP baseados na distância da capital. Só pode usar esta habilidade uma vez.</Text>
+			<Text>Pode vender bens exóticos quando estiver adjacente a um hexágono estrangeiro para obter [ICON_GOLD] Ouro e EXP baseados na distância da capital. Só pode usar esta habilidade uma vez.</Text>
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Château) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
-			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
+			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL]Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD]Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD]Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD]Ouro adicional.</Text>
+			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL] Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD] Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD] Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD] Ouro adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
-			<Text>Substituto Indonésio único para o {TXT_KEY_BUILDING_GARDEN}. +25% de geração de [ICON_GREAT_PEOPLE]Grandes Personalidades nesta cidade e +2 de [ICON_PEACE]Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
+			<Text>Substituto Indonésio único para o {TXT_KEY_BUILDING_GARDEN}. +25% de geração de [ICON_GREAT_PEOPLE] Grandes Personalidades nesta cidade e +2 de [ICON_PEACE] Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_HELP">
-			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD]Ouro quando conectadas a outra civilização.</Text>
+			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD] Ouro quando conectadas a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
-			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de EXP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION] Produção e +15 de EXP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION] Produção e +1 de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
-			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
+			<Text>Cada fonte de [ICON_RES_WHEAT] Trigo, [ICON_RES_BANANA] Bananas e [ICON_RES_DEER] Cervos explorada por esta cidade gera +1 de [ICON_FOOD] Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD] Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HANSE_HELP">
-			<Text>Substituição exclusiva do banco alemão. + 5% de [ICON_PRODUCTION]Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Hansa geram 1 de [ICON_GOLD]Ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 de [ICON_GOLD]Ouro adicional para a rota comercial.</Text>
+			<Text>Substituição exclusiva do banco alemão. + 5% de [ICON_PRODUCTION] Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Hansa geram 1 de [ICON_GOLD] Ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 de [ICON_GOLD] Ouro adicional para a rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
-			<Text>[NEWLINE][ICON_BULLET]Modificador para Hansa: {1_Num}%</Text>
+			<Text>[NEWLINE][ICON_BULLET] Modificador para Hansa: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
-			<Text>Cria uma [ICON_CONNECTED]Conexão com a [ICON_CAPITAL]Capital pela a água (se já não estiverem [ICON_CONNECTED]conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD]Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
+			<Text>Cria uma [ICON_CONNECTED] Conexão com a [ICON_CAPITAL] Capital pela a água (se já não estiverem [ICON_CONNECTED] conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD] Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
-			<Text>50% da [ICON_CULTURE]Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo dos Grandes Obras aumenta em 50%.</Text>
+			<Text>50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo dos Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
 			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo a corpo pré-pólvora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
-			<Text>+1 de [ICON_FOOD]Alimento de hexágonos costeiros e oceânicos. +1 de [ICON_PRODUCTION]Produção de recursos marítimos explorados por esta cidade.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve estar construída na costa.</Text>
+			<Text>+1 de [ICON_FOOD] Alimento de hexágonos costeiros e oceânicos. +1 de [ICON_PRODUCTION] Produção de recursos marítimos explorados por esta cidade.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH] Peixe explorada por esta cidade gera +1 de [ICON_FOOD] Alimento.[NEWLINE][NEWLINE]A cidade deve estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD_HELP">
-			<Text>Fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade para geração de um Grande Músico. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Músico (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
+			<Text>Fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para geração de um Grande Músico. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Músico (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
-			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma {TXT_KEY_BUILDING_EAST_INDIA} gerarão 4 de [ICON_GOLD]Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD]Ouro.</Text>
+			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma {TXT_KEY_BUILDING_EAST_INDIA} gerarão 4 de [ICON_GOLD] Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
-			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
+			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH] Ciência para cada 2 [ICON_CITIZEN] Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
-			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE]Cultura vinda de Maravilhas do Mundo, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 100%.</Text>
+			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE] Cultura vinda de Maravilhas do Mundo, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 100%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com Selva explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
+			<Text>+2 de [ICON_RESEARCH] Ciência de hexágonos com Selva explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WORKSHOP_HELP">
-			<Text>Permite que [ICON_PRODUCTION]Produção seja movida desta cidade para outros pontos da sua civilização, via rotas comerciais.</Text>
+			<Text>Permite que [ICON_PRODUCTION] Produção seja movida desta cidade para outros pontos da sua civilização, via rotas comerciais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD_HELP">
-			<Text>Fornece 1 ponto de [ICON_GREAT_PEOPLE]Grande Personalidade para geração de um Grande Escritor. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Escritor (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
+			<Text>Fornece 1 ponto de [ICON_GREAT_PEOPLE] Grande Personalidade para geração de um Grande Escritor. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Escritor (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STADIUM_HELP">
-			<Text>Não pode fornecer mais [ICON_HAPPINESS_1]Felicidade que [ICON_CITIZEN]Cidadãos existentes em uma cidade. A cidade precisa possuir um Zoológico.</Text>
+			<Text>Não pode fornecer mais [ICON_HAPPINESS_1] Felicidade que [ICON_CITIZEN] Cidadãos existentes em uma cidade. A cidade precisa possuir um Zoológico.</Text>
 		</Row>
 		<!-- IMPROVEMENTS HELP -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
-			<Text>Um {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP} só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD]Ouro adicional. Após a tecnologia {TXT_KEY_TECH_ACOUSTICS_TITLE} ser descoberta, ele também fornece [ICON_CULTURE]Cultura extra.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP} só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD] Ouro adicional. Após a tecnologia {TXT_KEY_TECH_ACOUSTICS_TITLE} ser descoberta, ele também fornece [ICON_CULTURE] Cultura extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
 			<Text>Uma {TXT_KEY_IMPROVEMENT_FEITORIA} só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada recurso de luxo que a Cidade-Estado estiver conectada, independentemente do seu status com a Cidade-Estado. Porém, esta cópia do recurso não pode ser negociada. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_KASBAH} só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção e [ICON_GOLD]Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construída em território Marroquino.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_KASBAH} só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção e [ICON_GOLD] Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construída em território Marroquino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
-			<Text>Um {TXT_KEY_BUILDING_CHATEAU} deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro {TXT_KEY_BUILDING_CHATEAU}. Ele fornece o mesmo bônus de defesa que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construído em território Francês. Quando a tecnologia {TXT_KEY_TECH_FLIGHT_TITLE} for descoberta, sua geração de [ICON_CULTURE]Cultura aumenta em 1 e de [ICON_GOLD]Ouro em 2.</Text>
+			<Text>Um {TXT_KEY_BUILDING_CHATEAU} deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro {TXT_KEY_BUILDING_CHATEAU}. Ele fornece o mesmo bônus de defesa que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construído em território Francês. Quando a tecnologia {TXT_KEY_TECH_FLIGHT_TITLE} for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
 		</Row>
 		<!-- WONDERS HELP -->
 		<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
 			<Text>Deve ser construído em uma Cidade Santa. 3 {TXT_KEY_UNIT_MISSIONARY[2]} gratuitos aparecem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
-			<Text>Fornece um espaço adicional de rota comercial e um {TXT_KEY_UNIT_CARGO_SHIP} aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui {TXT_KEY_BUILDING_COLOSSUS} gerarão 2 de [ICON_GOLD]Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD]Ouro. A cidade de estar construída na costa.</Text>
+			<Text>Fornece um espaço adicional de rota comercial e um {TXT_KEY_UNIT_CARGO_SHIP} aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui {TXT_KEY_BUILDING_COLOSSUS} gerarão 2 de [ICON_GOLD] Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD] Ouro. A cidade de estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_RED_FORT_HELP">
 			<Text>Edificações defensivas em todas as cidades são 25% mais eficientes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_ORDER}. +50% de [ICON_PRODUCTION]Produção quando estiver construindo unidades blindadas. 1 Política Social gratuita.</Text>
+			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_ORDER}. +50% de [ICON_PRODUCTION] Produção quando estiver construindo unidades blindadas. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PARTHENON_HELP">
 			<Text>Contém uma Grande Obra de Arte pré-construída em um Espaço de Grande Obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>+1 de [ICON_FOOD]Alimento e +1 de [ICON_PRODUCTION]Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma {TXT_KEY_UNIT_CARAVAN} aparece na cidade. +6 de [ICON_CULTURE]Cultura assim que a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE} for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
+			<Text>+1 de [ICON_FOOD] Alimento e +1 de [ICON_PRODUCTION] Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma {TXT_KEY_UNIT_CARAVAN} aparece na cidade. +6 de [ICON_CULTURE] Cultura assim que a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE} for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1]Felicidade, o balneário {TXT_KEY_BUILDING_PRORA_RESORT} também fornece +1 de [ICON_HAPPINESS_1]Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
+			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1] Felicidade, o balneário {TXT_KEY_BUILDING_PRORA_RESORT} também fornece +1 de [ICON_HAPPINESS_1] Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_FREEDOM}. +1 de [ICON_PRODUCTION]Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
+			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_FREEDOM}. +1 de [ICON_PRODUCTION] Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TERRA_COTTA_ARMY_HELP">
 			<Text>Cria uma cópia de cada tipo de unidade militar terrestre controlada por você e a coloca próximo a cidade onde o {TXT_KEY_BUILDING_TERRACOTTA_ARMY} for construído.</Text>
@@ -687,16 +687,16 @@
 		</Row>
 		<!-- TECH HELP -->
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_GALLEASS}[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_HARBOR}[ENDCOLOR], que cria conexões marítimas entre as cidades e a capital, produzindo [ICON_GOLD]Ouro. Além disso, a geração de [ICON_GOLD]Ouro pelos {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} aumenta.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_GALLEASS}[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_HARBOR}[ENDCOLOR], que cria conexões marítimas entre as cidades e a capital, produzindo [ICON_GOLD] Ouro. Além disso, a geração de [ICON_GOLD] Ouro pelos {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} aumenta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BAZOOKA}[ENDCOLOR], a unidade de ataque a distância mais poderosa, e [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_ATOMIC_BOMB[2]}[ENDCOLOR], a primeira arma nuclear do jogo (atenção: antes, você precisa completar o Projeto Manhattan e possuir [ICON_RES_URANIUM]Urânio disponível). Também permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_NUCLEAR_PLANT}[ENDCOLOR], uma edificação que requer [ICON_RES_URANIUM]Urânio e aumenta a [ICON_PRODUCTION]Produção de uma cidade.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BAZOOKA}[ENDCOLOR], a unidade de ataque a distância mais poderosa, e [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_ATOMIC_BOMB[2]}[ENDCOLOR], a primeira arma nuclear do jogo (atenção: antes, você precisa completar o Projeto Manhattan e possuir [ICON_RES_URANIUM] Urânio disponível). Também permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_NUCLEAR_PLANT}[ENDCOLOR], uma edificação que requer [ICON_RES_URANIUM] Urânio e aumenta a [ICON_PRODUCTION] Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERNET_HELP">
-			<Text>{TXT_KEY_TECH_INTERNET_TITLE} automaticamente dobra a geração de [ICON_TOURISM]Turismo em todas as suas cidades, impulsionando o império rumo a uma [COLOR_POSITIVE_TEXT]Vitória Cultural[ENDCOLOR].</Text>
+			<Text>{TXT_KEY_TECH_INTERNET_TITLE} automaticamente dobra a geração de [ICON_TOURISM] Turismo em todas as suas cidades, impulsionando o império rumo a uma [COLOR_POSITIVE_TEXT]Vitória Cultural[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PRINTING_PRESS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Zoológico[ENDCOLOR], uma edificação que aumenta a [ICON_HAPPINESS_1]Felicidade no império e gera [ICON_GOLDEN_AGE]Eras Douradas com mais frequência. Além disso, desbloqueia a habilidade de fundar o Congresso Mundial.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Zoológico[ENDCOLOR], uma edificação que aumenta a [ICON_HAPPINESS_1] Felicidade no império e gera [ICON_GOLDEN_AGE] Eras Douradas com mais frequência. Além disso, desbloqueia a habilidade de fundar o Congresso Mundial.</Text>
 		</Row>
 		<!-- THEMING BONUS STRINGS-->
 		<Row Tag="TXT_KEY_SISTINE_CHAPEL_THEMING_BONUS_HELP">

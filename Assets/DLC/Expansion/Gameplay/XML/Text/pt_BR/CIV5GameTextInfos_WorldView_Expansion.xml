@@ -6,49 +6,49 @@
 			<Text>{1_Num} de Cidades-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
-			<Text>Quando você possuir [ICON_GOLD]Ouro ou [ICON_PEACE]Fé suficiente, compre uma unidade ou edificação imediatamente.</Text>
+			<Text>Quando você possuir [ICON_GOLD] Ouro ou [ICON_PEACE] Fé suficiente, compre uma unidade ou edificação imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TEXT">
-			<Text>Foco em [ICON_PEACE]Fé</Text>
+			<Text>Foco em [ICON_PEACE] Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TT">
-			<Text>Clique aqui para que esta cidade a geração de [ICON_PEACE]Fé.</Text>
+			<Text>Clique aqui para que esta cidade a geração de [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GG_STACKED">
 			<Text>Unidade empilhada com um Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_ACCUMULATED">
-			<Text>{1_Num} de [ICON_PEACE]Fé {1: plural 1?foi acumulado; other?foram acumulados;} por todo o Império.</Text>
+			<Text>{1_Num} de [ICON_PEACE] Fé {1: plural 1?foi acumulado; other?foram acumulados;} por todo o Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_FROM_CITIES">
-			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_FROM_MINORS">
-			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades-Estado.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_FROM_RELIGION">
-			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Crenças.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Crenças.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_RELIGIONS_LEFT">
 			<Text>Religiões que ainda podem ser fundadas: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PROPHET">
-			<Text>Ao menos {1_Num} de [ICON_PEACE]Fé {1: plural 1?é necessário; other?são necessários;} para você ter uma chance com um Novo Profeta.</Text>
+			<Text>Ao menos {1_Num} de [ICON_PEACE] Fé {1: plural 1?é necessário; other?são necessários;} para você ter uma chance com um Novo Profeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_GREAT_PERSON">
-			<Text>Você está qualificado a comprar, utilizando [ICON_PEACE]Fé, uma dessas Grandes Personalidades: </Text>
+			<Text>Você está qualificado a comprar, utilizando [ICON_PEACE] Fé, uma dessas Grandes Personalidades: </Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PANTHEON">
-			<Text>Ao menos {1_Num} de [ICON_PEACE]Fé {1: plural 1?é necessário; other?são necessários;} para fundar o próximo Panteão religioso. Se você deseja fundar um Panteão, você precisa fazê-lo antes que exista uma Religião aperfeiçoada no jogo (embora você sempre possa formar um desde que já não tenha sido criado o número máximo permitido de religiões).</Text>
+			<Text>Ao menos {1_Num} de [ICON_PEACE] Fé {1: plural 1?é necessário; other?são necessários;} para fundar o próximo Panteão religioso. Se você deseja fundar um Panteão, você precisa fazê-lo antes que exista uma Religião aperfeiçoada no jogo (embora você sempre possa formar um desde que já não tenha sido criado o número máximo permitido de religiões).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_PANTHEONS_LOCKED">
-			<Text>Uma religião foi aperfeiçoada e o número de panteões formados é pelo menos igual ao número máximo de religiões. Com essas condições, você não pode mais fundar um Panteão. Use sua [ICON_PEACE]Fé acumulada para comprar unidades e edificações religiosas se uma religião foi disseminada para uma de suas cidades. Ou, guarde-a para a Era Industrial, ou ainda mais tarde, visando obter Grandes Personalidades.</Text>
+			<Text>Uma religião foi aperfeiçoada e o número de panteões formados é pelo menos igual ao número máximo de religiões. Com essas condições, você não pode mais fundar um Panteão. Use sua [ICON_PEACE] Fé acumulada para comprar unidades e edificações religiosas se uma religião foi disseminada para uma de suas cidades. Ou, guarde-a para a Era Industrial, ou ainda mais tarde, visando obter Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FROM_RELIGION">
-			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de Religião.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FROM_GOLDEN_AGE">
-			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era Dourada.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era Dourada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_PANTHEON_DESCRIPTION">
 			<Text>adorando panteão com crença:</Text>
@@ -111,7 +111,7 @@
 			<Text>{1_Num} pela felicidade global por edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE]Era Dourada, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD]Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION]Produção e a [ICON_CULTURE]Cultura por todo o império é aumentada em 20%.</Text>
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era Dourada, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION] Produção e a [ICON_CULTURE] Cultura por todo o império é aumentada em 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_ADJACENT_TERRITORY">
 			<Text>{@1_ImprovementName} {@1: gender feminine?{@1: plural 2?devem ser construídas; other?deve ser construída;}; other?{@1: plural 2?devem ser construídos; other?deve ser construído;};} dentro ou adjacente ao seu território.</Text>
@@ -129,7 +129,7 @@
 			<Text>[COLOR_CYAN]Chance de Captura se afundar: {1_Percent}%[ENDCOLOR]</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE]Era Dourada, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD]Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION]Produção.</Text>
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era Dourada, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
 			<Text>[COLOR_YELLOW]Interceptação por avião ou[ENDCOLOR]</Text>

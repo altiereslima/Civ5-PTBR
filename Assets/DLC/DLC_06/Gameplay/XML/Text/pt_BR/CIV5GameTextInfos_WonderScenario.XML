@@ -43,7 +43,7 @@
 			<Text>Histórico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_STRATEGY">
-			<Text>A Corte do Sátrapa é a edificação exclusiva Persa. Ela substitui o Mercado. Como um Mercado, a Corte do Sátrapa aumenta a produção de riqueza da cidade. Além disso, a Corte do Sátrapa também aumenta a felicidade da civilização.</Text>
+			<Text>A Corte do Sátrapa é a Edificação Exclusiva dos Persas. Ela substitui o Mercado. Como um Mercado, a Corte do Sátrapa aumenta a produção de riqueza da cidade. Além disso, a Corte do Sátrapa também aumenta a felicidade da civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_HELP">
 			<Text>A Corte do Sátrapa aumenta significativamente a produção de Ouro da cidade, além de sua felicidade.</Text>
@@ -70,7 +70,7 @@
 			<Text>O Nilômetro era um dispositivo de medição Egípcio, destinado a referenciar os níveis de água do rio Nilo na época das cheias anuais. Os Egípcios utilizavam o Nilo para inundar as planícies ao redor todos os anos, visando depositar sedimentos para a fertilização, mas muita água iria destruir a infraestrutura de colheita, enquanto que pouca água poderia provocar uma fome generalizada. Os Egípcios usavam as leituras de inundação do Nilômetro para determinar o nível apropriado de impostos a serem aplicadas aos agricultores.[NEWLINE][NEWLINE]O Nilômetro em si tipicamente consistia ou de uma coluna em pé ou de um lance descendente de escadas que levava até um poço, que havia sido canalizado do rio. Ambas as configurações exibiam marcas incrementais para indicar a profundidade da água e os Egípcios mantiveram registros detalhados para comparações entre um ano e outro. Um dos exemplos sobreviventes mais antigos do Nilômetro está hoje na ilha de Roda, no Cairo, que se acredita ter sido construído no século IX, pelo astrônomo Persa Alfraganus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NILOMETER_STRATEGY">
-			<Text>O Nilômetro é a edificação exclusiva Egípcia, substituindo o Moinho d'Água. Ele aumenta a produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro da cidade e só pode ser construído se acidade estiver perto de um rio.</Text>
+			<Text>O Nilômetro é a Edificação Exclusiva dos Egípcios, substituindo o Moinho d'Água. Ele aumenta a produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro da cidade e só pode ser construído se acidade estiver perto de um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NILOMETER_HELP">
 			<Text>+15% de [ICON_FOOD]Alimento. Cada hexágono de Planícies Inundadas fornece +1 de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]A cidade deve ter sido construída próxima a um rio.</Text>
@@ -79,13 +79,13 @@
 			<Text>Um marco dos esforços de construção Suméria, Babilônica e Assíria, o Zigurate evoluiu a partir de desenhos de antigos templos, que foram construídos sobre plataformas elevadas (provavelmente para evitar inundações). O colossal Zigurate tipicamente possui grandes santuários no nível mais alto, para ser visto apenas por sacerdotes e outras figuras religiosas. Predominantemente caracterizado como parte de um grande complexo de templos em geral, a finalidade exata do Zigurate permanece um mistério até hoje.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ZIGGURAT_STRATEGY">
-			<Text>O Zigurate é a edificação exclusiva Suméria, substituindo o Templo. O Zigurate aumenta a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais pela civilização. O Zigurate também fornece um bônus de [ICON_RESEARCH]Ciência à cidade.</Text>
+			<Text>O Zigurate é a Edificação Exclusiva dos Sumérios, substituindo o Templo. O Zigurate aumenta a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais pela civilização. O Zigurate também fornece um bônus de [ICON_RESEARCH]Ciência à cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LIONS_GATE_TEXT">
 			<Text>Encontrado em Hattusa, a capital do Império Hitita, o Portão dos Leões foi uma grande passagem em forma de arco, construída por volta do século XIV a.C. Cada lado do portão possui uma grande figura em pedra de um leão, uma criatura de importância simbólica à sociedade Hitita, que era frequentemente encontrada em muitas das suas estruturas e monumentos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE_STRATEGY">
-			<Text>O Portão dos Leões é a edificação exclusiva dos Hititas, substituindo as Muralhas. O Portão dos Leões aumenta a Força de Defesa da cidade, tornando-a mais difícil de ser capturada. Além disso, o Portão dos Leões aumenta em 25% o crescimento das fronteiras da cidade e fornece +2 de [ICON_GOLD]Ouro.</Text>
+			<Text>O Portão dos Leões é a Edificação Exclusiva dos Hititas, substituindo as Muralhas. O Portão dos Leões aumenta a Força de Defesa da cidade, tornando-a mais difícil de ser capturada. Além disso, o Portão dos Leões aumenta em 25% o crescimento das fronteiras da cidade e fornece +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE_HELP">
 			<Text>O custo em [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro para aquisição de novos hexágonos é reduzido em 25% na cidade.</Text>

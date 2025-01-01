@@ -2,7 +2,7 @@
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_TOP_PANEL_GOLD">
-            <Text>[ICON_GOLD][COLOR:255:235:0:255]{1_TotalGold: number "##"} {2_GoldPerTurn: number "'(+'##')';'[COLOR:255:60:60:255](-'##')'"}[/COLOR]</Text>
+            <Text>[ICON_GOLD] [COLOR:255:235:0:255]{1_TotalGold: number "##"} {2_GoldPerTurn: number "'(+'##')';'[COLOR:255:60:60:255](-'##')'"}[/COLOR]</Text>
         </Row>        
         <!-- Military Overview -->
         <Row Tag="TXT_KEY_UNIT_STATUS_FORTIFIED">
@@ -274,7 +274,7 @@
             <Text>{1_NumPlayers} {1: plural 1?jogador completou; other?jogadores completaram;} o {2_apolloProgram}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_REMAINING">
-            <Text>{1_NumPlayers} {1: plural 1?jogador ainda está; other?jogadores ainda estão;} no controle de {1: plural 1?sua [ICON_CAPITAL]Capital; other?suas [ICON_CAPITAL]Capitais;}.</Text>
+            <Text>{1_NumPlayers} {1: plural 1?jogador ainda está; other?jogadores ainda estão;} no controle de {1: plural 1?sua [ICON_CAPITAL] Capital; other?suas [ICON_CAPITAL] Capitais;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_SOCIAL_POLICIES">
             <Text>{1_player} completou {2_completedNum} das {3_totalNum} ramificações das políticas sociais.</Text>
@@ -292,7 +292,7 @@
             <Text>Libertada</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE">
-            <Text>[ICON_CAPITAL]Libertada</Text>
+            <Text>[ICON_CAPITAL] Libertada</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_CIV_RANK">
             <Text>Classificação das Civilizações</Text>
@@ -405,7 +405,7 @@
             <Text>Abster-se</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_STATUS_TT">
-            <Text>A sua relação atual com {1_cityName} é de {2_statusType} : {3_curNumber}/{4_maxNumber} de [ICON_INFLUENCE]Influência.</Text>
+            <Text>A sua relação atual com {1_cityName} é de {2_statusType} : {3_curNumber}/{4_maxNumber} de [ICON_INFLUENCE] Influência.</Text>
         </Row>
         <Row Tag="TXT_KEY_YOUR_SCORE">
             <Text>Sua pontuação</Text>
@@ -430,7 +430,7 @@
 		</Row>
         <!-- Economic Overview -->
         <Row Tag="TXT_KEY_EO_GPT">
-            <Text>[ICON_GOLD]Ouro por turno</Text>
+            <Text>[ICON_GOLD] Ouro por turno</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_TOTAL_GOLD">
             <Text>Tesouro</Text>
@@ -457,10 +457,10 @@
             <Text>Cidades</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_CITIES">
-            <Text>[ICON_PLUS]Rendimento das cidades</Text>
+            <Text>[ICON_PLUS] Rendimento das cidades</Text>
         </Row>
 		<Row Tag="TXT_KEY_EO_INCOME_CITIES_COLLAPSE">
-			<Text>[ICON_MINUS]Receita da Cidade</Text>
+			<Text>[ICON_MINUS] Receita da Cidade</Text>
 		</Row>
         <Row Tag="TXT_KEY_EO_DIPLOMACY">
             <Text>Diplomacia</Text>
@@ -490,16 +490,16 @@
             <Text>Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_UNITS">
-			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD], que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
+			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD] , que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_EX_UNITS_NO_MAINT">
 			<Text>Você possui {1_Num} {1: plural 1?Míssil; other?Mísseis;} que não {1: plural 1?requer; other?requerem;} manutenção.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_BUILDINGS">
-            <Text>[ICON_PLUS]Edificações</Text>
+            <Text>[ICON_PLUS] Edificações</Text>
         </Row>
 		<Row Tag="TXT_KEY_EO_BUILDINGS_COLLAPSE">
-			<Text>[ICON_MINUS]Edificações</Text>
+			<Text>[ICON_MINUS] Edificações</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_BUILDINGS">
 			<Text>Custo total de manutenção das suas edificações.</Text>
@@ -553,28 +553,28 @@
 			<Text>Total</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS">
-			<Text>[ICON_PLUS]Recursos de Luxo</Text>
+			<Text>[ICON_PLUS] Recursos de Luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS_COLLAPSE">
-			<Text>[ICON_MINUS]Recursos de Luxo</Text>
+			<Text>[ICON_MINUS] Recursos de Luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
-			<Text>[ICON_PLUS]Edificações da cidade</Text>
+			<Text>[ICON_PLUS] Edificações da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
-			<Text>[ICON_MINUS]Edificações da cidade</Text>
+			<Text>[ICON_MINUS] Edificações da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_TRADE_ROUTES">
-			<Text>[ICON_PLUS]Rotas comerciais</Text>
+			<Text>[ICON_PLUS] Rotas comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_TRADE_ROUTES_COLLAPSE">
-			<Text>[ICON_MINUS]Rotas comerciais</Text>
+			<Text>[ICON_MINUS] Rotas comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_GARRISON">
-			<Text>[ICON_PLUS]Unidades alojadas</Text>
+			<Text>[ICON_PLUS] Unidades alojadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_GARRISON_COLLAPSE">
-			<Text>[ICON_MINUS]Unidades alojadas</Text>
+			<Text>[ICON_MINUS] Unidades alojadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LUXURY_VARIETY">
 			<Text>Variedade dos Recursos de Luxo</Text>
@@ -592,7 +592,7 @@
 			<Text># de cidades ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT">
-			<Text>Cada cidade (não ocupada) produz 3 de [ICON_HAPPINESS_4]Infelicidade</Text>
+			<Text>Cada cidade (não ocupada) produz 3 de [ICON_HAPPINESS_4] Infelicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NORMALLY">
 			<Text>(Normalmente)</Text>
@@ -604,7 +604,7 @@
 			<Text>Em razão do atual tamanho do mapa, elas produzem {1_Num}% menos que o normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_CAPITAL">
-			<Text>Em razão das suas políticas adotadas, os [ICON_CITIZEN]cidadãos em sua Capital produzem {1_Num}% da quantidade normal.</Text>
+			<Text>Em razão das suas políticas adotadas, os [ICON_CITIZEN] cidadãos em sua Capital produzem {1_Num}% da quantidade normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_TRAIT">
 			<Text>Em razão da característica da sua Civilização, elas produzem {1_Num}% da quantidade normal.</Text>
@@ -613,34 +613,34 @@
 			<Text>Em razão dos bônus que seu Império adquiriu, elas produzem {1_Num}% da quantidade normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_SPECIALIST">
-			<Text>Em razão dos bônus que se Império adquiriu, cidadãos Especialistas produzem metade da quantidade normal de [ICON_HAPPINESS_4]Infelicidade.</Text>
+			<Text>Em razão dos bônus que se Império adquiriu, cidadãos Especialistas produzem metade da quantidade normal de [ICON_HAPPINESS_4] Infelicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES">
 			<Text># de cidades ocupadas ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES_TT">
-			<Text>Cada cidade [ICON_OCCUPIED]Ocupada produz 5 de [ICON_HAPPINESS_4]Infelicidade</Text>
+			<Text>Cada cidade [ICON_OCCUPIED] Ocupada produz 5 de [ICON_HAPPINESS_4] Infelicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_UNHAPPINESS">
 			<Text>Cidadãos ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_UNHAPPINESS_TT">
-			<Text>Cada [ICON_CITIZEN]Cidadão em uma cidade (não ocupada) produz 1 de [ICON_HAPPINESS_4]Infelicidade</Text>
+			<Text>Cada [ICON_CITIZEN] Cidadão em uma cidade (não ocupada) produz 1 de [ICON_HAPPINESS_4] Infelicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS">
 			<Text>Cidadãos em cidades ocupadas ({1_Num})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS_TT">
-			<Text>Cada [ICON_CITIZEN]Cidadão em uma cidade [ICON_OCCUPIED]Ocupada produz 1.34 de [ICON_HAPPINESS_4]Infelicidade</Text>
+			<Text>Cada [ICON_CITIZEN] Cidadão em uma cidade [ICON_OCCUPIED] Ocupada produz 1.34 de [ICON_HAPPINESS_4] Infelicidade</Text>
         </Row>
 		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS">
-			<Text>[ICON_PLUS]Colapso da cidade</Text>
+			<Text>[ICON_PLUS] Colapso da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS_COLLAPSE">
-			<Text>[ICON_MINUS]Colapso da cidade</Text>
+			<Text>[ICON_MINUS] Colapso da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_IS_OCCUPIED">
-			<Text>Cidade está [ICON_OCCUPIED]ocupada!</Text>
+			<Text>Cidade está [ICON_OCCUPIED] ocupada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_RESOURCES_AVAILBLE">
 			<Text>Recursos disponíveis</Text>
@@ -1636,7 +1636,7 @@
             <Text>CONCLUÍDO:</Text>
         </Row>
         <Row Tag="TXT_KEY_ENABLE_PRODUCITON_CONVERSION">
-            <Text>Habilita a conversão de [ICON_PRODUCTION]Produção para {1_ResourceName:textkey}.</Text>
+            <Text>Habilita a conversão de [ICON_PRODUCTION] Produção para {1_ResourceName:textkey}.</Text>
         </Row>
         <Row Tag="TXT_KEY_FASTER_MOVEMENT">
             <Text>Movimento rápido em {1_TerrainName:textkey}</Text>
@@ -1823,13 +1823,13 @@
 			<Text>Pontuação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_PRODUCTIONPERTURN">
-			<Text>[ICON_PRODUCTION]Produção Por Turno</Text>
+			<Text>[ICON_PRODUCTION] Produção Por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALGOLD">
-			<Text>[ICON_GOLD]Ouro Total</Text>
+			<Text>[ICON_GOLD] Ouro Total</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDPERTURN">
-			<Text>[ICON_GOLD]Ouro Por Turno</Text>
+			<Text>[ICON_GOLD] Ouro Por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_CITYCOUNT">
 			<Text>Número de Cidades</Text>
@@ -1838,40 +1838,40 @@
 			<Text>Número de Tec. Pesquisadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_SCIENCEPERTURN">
-			<Text>[ICON_RESEARCH]Ciência Por Turno</Text>
+			<Text>[ICON_RESEARCH] Ciência Por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALCULTURE">
-			<Text>[ICON_CULTURE]Cultura Total</Text>
+			<Text>[ICON_CULTURE] Cultura Total</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_CULTUREPERTURN">
-			<Text>[ICON_CULTURE]Cultura Por Turno</Text>
+			<Text>[ICON_CULTURE] Cultura Por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_EXCESSHAPPINESS">
-			<Text>[ICON_HAPPINESS_1]Felicidade Excedente</Text>
+			<Text>[ICON_HAPPINESS_1] Felicidade Excedente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_HAPPINESS">
-			<Text>[ICON_HAPPINESS_1]Felicidade</Text>
+			<Text>[ICON_HAPPINESS_1] Felicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_UNHAPPINESS">
-			<Text>[ICON_HAPPINESS_3]Infelicidade</Text>
+			<Text>[ICON_HAPPINESS_3] Infelicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDAGETURNS">
-			<Text>Turnos de [ICON_GOLDEN_AGE]Era Dourada</Text>
+			<Text>Turnos de [ICON_GOLDEN_AGE] Era Dourada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALPOPULATION">
-			<Text>[ICON_CITIZEN]População</Text>
+			<Text>[ICON_CITIZEN] População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_FOODPERTURN">
-			<Text>[ICON_FOOD]Alimento Por Turno</Text>
+			<Text>[ICON_FOOD] Alimento Por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALLAND">
 			<Text>Território Total</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_GPTCITYCONNECTIONS">
-			<Text>[ICON_GOLD]Ouro/Turno - Conexões entre Cidades</Text>
+			<Text>[ICON_GOLD] Ouro/Turno - Conexões entre Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_GPTDEALS">
-			<Text>[ICON_GOLD]Ouro/Turno - Acordos</Text>
+			<Text>[ICON_GOLD] Ouro/Turno - Acordos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_UNITMAINTENANCE">
 			<Text>Manutenção de Unidades</Text>
@@ -1899,7 +1899,7 @@
 		</Row>
 		<!-- patch 674 -->
 		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT_NORMALLY">
-			<Text>Cada cidade (não ocupada) produz 3 [ICON_HAPPINESS_4]Infelicidade (Normalmente).</Text>
+			<Text>Cada cidade (não ocupada) produz 3 [ICON_HAPPINESS_4] Infelicidade (Normalmente).</Text>
 		</Row>		
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT" >
             <Text>Movimento rápido</Text>

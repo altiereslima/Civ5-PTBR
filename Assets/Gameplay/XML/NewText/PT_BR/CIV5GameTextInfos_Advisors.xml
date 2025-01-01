@@ -121,7 +121,7 @@
 			<Text>É preciso mais militares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
-			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4]infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
+			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4] infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
 			<Text>Seu povo não é mais feliz</Text>
@@ -130,7 +130,7 @@
 			<Text>Mostre o recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
-			<Text>Seu povo está muito [ICON_HAPPINESS_4]infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION]Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
+			<Text>Seu povo está muito [ICON_HAPPINESS_4] infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION] Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
 			<Text>Seu povo está irritado!</Text>
@@ -160,7 +160,7 @@
 			<Text>Mostre a Cidade-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
-			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colonizador[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD]Alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD]Alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colonizador para um local fértil e funde uma nova cidade.[/COLOR]</Text>
+			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colonizador[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD] Alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD] Alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colonizador para um local fértil e funde uma nova cidade.[/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
 			<Text>Onde fundar uma cidade</Text>
@@ -199,7 +199,7 @@
 			<Text>Uma unidade por hexágono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
-			<Text>Ter várias unidades militares retardará a [ICON_PRODUCTION]Produção de nossas cidades. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Pare a construção de novas unidades militares[/COLOR] até nossa infraestrutura melhorar.</Text>
+			<Text>Ter várias unidades militares retardará a [ICON_PRODUCTION] Produção de nossas cidades. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Pare a construção de novas unidades militares[/COLOR] até nossa infraestrutura melhorar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
 			<Text>Manutenção militar</Text>
@@ -214,7 +214,7 @@
 			<Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
-			<Text>Você pode atualizar suas unidades obsoletas, transformando-as em unidades mais poderosas, gastando seu [ICON_GOLD]Ouro. Para atualizar uma unidade, mova-a para dentro de seu território e o botão de atualização de unidade aparecerá. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Clique no botão Atualizar[/COLOR] para melhorar sua unidade obsoleta.</Text>
+			<Text>Você pode atualizar suas unidades obsoletas, transformando-as em unidades mais poderosas, gastando seu [ICON_GOLD] Ouro. Para atualizar uma unidade, mova-a para dentro de seu território e o botão de atualização de unidade aparecerá. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Clique no botão Atualizar[/COLOR] para melhorar sua unidade obsoleta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
 			<Text>Atualizando unidades</Text>
@@ -271,7 +271,7 @@
 			<Text>Botão direito para se movimentar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
-			<Text>Esta é a tela da cidade. Ela permite que você mude o que uma cidade está produzindo. Você também poderá gastar [ICON_GOLD]Ouro para comprar hexágonos ao redor da cidade, expandindo seu território, e dizer aos cidadãos da cidade em que hexágono trabalhar.</Text>
+			<Text>Esta é a tela da cidade. Ela permite que você mude o que uma cidade está produzindo. Você também poderá gastar [ICON_GOLD] Ouro para comprar hexágonos ao redor da cidade, expandindo seu território, e dizer aos cidadãos da cidade em que hexágono trabalhar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
 			<Text>Tela da cidade</Text>
@@ -385,13 +385,13 @@
 			<Text>Mostre o campo bárbaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
-			<Text>Manter seus cidadãos felizes é a chave para uma civilização produtiva. Cidadãos produzem [ICON_HAPPINESS_4]Infelicidade enquanto recursos de luxo e algumas edificações fornecem [ICON_HAPPINESS_1]Felicidade para balancear. Tente manter sua civilização feliz e a mantenha saudável!</Text>
+			<Text>Manter seus cidadãos felizes é a chave para uma civilização produtiva. Cidadãos produzem [ICON_HAPPINESS_4] Infelicidade enquanto recursos de luxo e algumas edificações fornecem [ICON_HAPPINESS_1] Felicidade para balancear. Tente manter sua civilização feliz e a mantenha saudável!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
 			<Text>Felicidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
-			<Text>Temos mais de um mesmo recurso de luxo produzido. Nossa civilização recebe [ICON_HAPPINESS_1]Felicidade para o primeiro, mas não para os outros. Podemos negociar os recursos de luxo adicionais com outras civilizações por seus luxos (ou outros recursos). Negocie seus recursos de luxo em excesso com uma nação amiga!</Text>
+			<Text>Temos mais de um mesmo recurso de luxo produzido. Nossa civilização recebe [ICON_HAPPINESS_1] Felicidade para o primeiro, mas não para os outros. Podemos negociar os recursos de luxo adicionais com outras civilizações por seus luxos (ou outros recursos). Negocie seus recursos de luxo em excesso com uma nação amiga!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
 			<Text>Negocie seus luxos</Text>
@@ -454,13 +454,13 @@
 			<Text>Batalha equilibrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
-			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD]Ouro! Sem [ICON_GOLD]Ouro nossas pesquisas param e ficamos atrasados em relação às outras civilizações.</Text>
+			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD] Ouro! Sem [ICON_GOLD] Ouro nossas pesquisas param e ficamos atrasados em relação às outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
 			<Text>Falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]infelizes.</Text>
+			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4] Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4] infelizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada precisa de Tribunal</Text>
@@ -469,7 +469,7 @@
 			<Text>Mostre a cidade ocupada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos está gerando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Construir um Tribunal naquela cidade irá cortar o seu descontentamento, mas nos falta uma tecnologia para fazê-lo. Pesquise Matemática, para que possamos construir o Tribunal e torná-los, assim, membros felizes da nossa civilização.</Text>
+			<Text>A cidade que recentemente ocupamos está gerando uma grande quantidade de [ICON_HAPPINESS_4] Infelicidade. Construir um Tribunal naquela cidade irá cortar o seu descontentamento, mas nos falta uma tecnologia para fazê-lo. Pesquise Matemática, para que possamos construir o Tribunal e torná-los, assim, membros felizes da nossa civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada está infeliz</Text>
@@ -478,7 +478,7 @@
 			<Text>Mostre a cidade ocupada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
-			<Text>Conseguimos [ICON_INFLUENCE]influência suficiente com uma Cidade-Estado para sermos amigos! Para ver o bônus que recebemos de presente, clique na Cidade-Estado. Nossa [ICON_INFLUENCE]influência diminuirá com o passar do tempo, então continue ajudando a Cidade-Estado ou dê presentes com o seu [ICON_GOLD]Ouro para mantermos o nível de amizade.</Text>
+			<Text>Conseguimos [ICON_INFLUENCE] influência suficiente com uma Cidade-Estado para sermos amigos! Para ver o bônus que recebemos de presente, clique na Cidade-Estado. Nossa [ICON_INFLUENCE] influência diminuirá com o passar do tempo, então continue ajudando a Cidade-Estado ou dê presentes com o seu [ICON_GOLD] Ouro para mantermos o nível de amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
 			<Text>Fazendo uma amizade!</Text>
@@ -526,7 +526,7 @@
 			<Text>Atacando cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
-			<Text>Para treinar [COLOR_UNIT_TEXT]Colonizadores[/COLOR] a [ICON_CITIZEN]população deve ser de pelo menos 2 cidadãos. Então, para acelerar sua jornada daremos a sua primeira cidade um [ICON_CITIZEN]Cidadão extra. Não se acostume com isso; cidades fundadas de agora em diante vão começar com apenas 1 de [ICON_CITIZEN]população.</Text>
+			<Text>Para treinar [COLOR_UNIT_TEXT]Colonizadores[/COLOR] a [ICON_CITIZEN] população deve ser de pelo menos 2 cidadãos. Então, para acelerar sua jornada daremos a sua primeira cidade um [ICON_CITIZEN] Cidadão extra. Não se acostume com isso; cidades fundadas de agora em diante vão começar com apenas 1 de [ICON_CITIZEN] população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
 			<Text>População extra</Text>
@@ -577,7 +577,7 @@
 			<Text>Lista de Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
-			<Text>A Visão Econômica fornece um olhar detalhado de todas as cidades. Você também pode analisar sua produção de [ICON_GOLD]Ouro e em quê você o está gastando.</Text>
+			<Text>A Visão Econômica fornece um olhar detalhado de todas as cidades. Você também pode analisar sua produção de [ICON_GOLD] Ouro e em quê você o está gastando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
 			<Text>Visão Econômica</Text>
@@ -601,7 +601,7 @@
 			<Text>Negociações Diplomáticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
-			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE]cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
+			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE] cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
 			<Text>Políticas Sociais</Text>
@@ -688,7 +688,7 @@
 			<Text>Criar Colonizadores e Fundar Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
-			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD]Ouro, melhorias para ajudar suas cidades a crescer mais rápido, levantar edificações e encontrar recursos para fazer seu povo feliz.</Text>
+			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD] Ouro, melhorias para ajudar suas cidades a crescer mais rápido, levantar edificações e encontrar recursos para fazer seu povo feliz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
 			<Text>Uso de Trabalhadores para a cidade</Text>
@@ -757,22 +757,22 @@
 			<Text>Construa melhorias em {1_Num} recursos. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento.</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD] Alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento. ({3_Num} {3_Num: plural 1?fazenda; other?fazendas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD] Alimento. ({3_Num} {3_Num: plural 1?fazenda; other?fazendas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]Alimento. Completo!</Text>
+			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD] Alimento. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. ({3_Num} {3_Num: plural 1?mina; other?minas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION] Produção. ({3_Num} {3_Num: plural 1?mina; other?minas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. Completo!</Text>
+			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION] Produção. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
 			<Text>Você completou o tutorial Melhorando Cidades! Belo trabalho!</Text>
@@ -802,10 +802,10 @@
 			<Text>Receba mármore de um acordo com uma grande civilização. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV">
-			<Text>Torne-se aliado de uma Cidade-Estado dando a ela [ICON_GOLD]Ouro e completando missões.</Text>
+			<Text>Torne-se aliado de uma Cidade-Estado dando a ela [ICON_GOLD] Ouro e completando missões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV_COMPLETE">
-			<Text>Torne-se aliado de uma Cidade-Estado dando a ela [ICON_GOLD]Ouro e completando missões. Completo!</Text>
+			<Text>Torne-se aliado de uma Cidade-Estado dando a ela [ICON_GOLD] Ouro e completando missões. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_5_COMPLETE">
 			<Text>Você completou o tutorial de Diplomacia Básica! Belo trabalho!</Text>
@@ -916,10 +916,10 @@
 		  <Text>Devemos nos concentrar no crescimento e melhorar o que temos ao invés de fundar novas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS">
-			<Text>A [ICON_HAPPINESS_1]Felicidade do nosso povo está se tornando uma preocupação. Precisamos conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
+			<Text>A [ICON_HAPPINESS_1] Felicidade do nosso povo está se tornando uma preocupação. Precisamos conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1] Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL">
-			<Text>Nosso povo está bastante infeliz! Precisamos, rapidamente, conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1]Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
+			<Text>Nosso povo está bastante infeliz! Precisamos, rapidamente, conectar recursos de luxo, construir maravilhas e edificações que gerem [ICON_HAPPINESS_1] Felicidade, além de adotar políticas que ajudem a tornar a nossa civilização feliz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH">
 			<Text>Temos muitas cidades litorâneas, por isso devemos focar em edificações que melhorem o rendimento de nossos hexágonos litorâneos.</Text>
@@ -931,25 +931,25 @@
 			<Text>Temos um [COLOR_UNIT_TEXT]Colonizador[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>Temos uma crise de [ICON_FOOD]Alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD]Alimentos que necessitamos.</Text>
+			<Text>Temos uma crise de [ICON_FOOD] Alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD] Alimentos que necessitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
-			<Text>Temos uma crise de [ICON_PRODUCTION]Produção! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_PRODUCTION]Produção que necessitamos.</Text>
+			<Text>Temos uma crise de [ICON_PRODUCTION] Produção! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_PRODUCTION] Produção que necessitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
 			<Text>Evite construir Ancoradouros, porque não podemos usá-los sem duas cidades litorâneas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
-			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de Ancoradouros. Construa Ancoradouros nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD]Ouro!</Text>
+			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de Ancoradouros. Construa Ancoradouros nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD] Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
-			<Text>Precisamos aumentar nossa geração de [ICON_GOLD]Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD]Ouro do hexágono e faça edificações que aumentem a nossa geração de [ICON_GOLD]Ouro.</Text>
+			<Text>Precisamos aumentar nossa geração de [ICON_GOLD] Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD] Ouro do hexágono e faça edificações que aumentem a nossa geração de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
 			<Text>Estamos trabalhando em uma Grande Pirâmide, então não precisamos construir {TXT_KEY_BUILDING_GRANARY[2]} em nossas outras cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
-			<Text>Nossa [ICON_PRODUCTION]Produção está diminuindo em razão do número de unidades que temos. Devemos dispensar quaisquer unidades desnecessárias para que nossa civilização possa operar em plena capacidade.</Text>
+			<Text>Nossa [ICON_PRODUCTION] Produção está diminuindo em razão do número de unidades que temos. Devemos dispensar quaisquer unidades desnecessárias para que nossa civilização possa operar em plena capacidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ISLAND_START">
 			<Text>Nossa pátria é um continente pequeno, sem muito espaço para expansão. Precisamos nos concentrar em tecnologias navais até que possamos embarcar unidades.</Text>
@@ -979,10 +979,10 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]Alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir fazendas nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD] Alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir fazendas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir minas nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION] Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir minas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edificações que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
@@ -1099,91 +1099,91 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está agressivamente minando a nossa relação com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_MAINTENANCE">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das unidades. Elimine todas as unidades que não são absolutamente necessárias!</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades. Elimine todas as unidades que não são absolutamente necessárias!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_SUPPLY">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades, ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine; resolver este problema financeiro é fundamental!</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades, ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine; resolver este problema financeiro é fundamental!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_BUILDING_MAINTENANCE">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_IMPROVEMENT_MAINTENANCE">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de melhorias. Não devemos criar mais melhorias do que precisamos. Destrua todas aquelas que não estão nos ajudando.</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção de melhorias. Não devemos criar mais melhorias do que precisamos. Destrua todas aquelas que não estão nos ajudando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_DIPLOMACY">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD]Ouro para nós ao invés de perdê-lo.</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD] Ouro para nós ao invés de perdê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN">
 			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para conseguirmos o nosso rendimento positivo e, assim, termos alguma esperança! Todo dinheiro que poderíamos obter a partir de meios diplomáticos certamente ajudaria no curto-prazo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_MAINTENANCE">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das unidades, então elimine todas as unidades que não são absolutamente necessárias para, assim, voltarmos aos bons tempos!</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades, então elimine todas as unidades que não são absolutamente necessárias para, assim, voltarmos aos bons tempos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_SUPPLY">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine.</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades ou pagamentos para unidades fora das nossas fronteiras. Mova as unidades de volta para as nossas fronteiras ou as elimine.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_BUILDING_MAINTENANCE">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_IMPROVEMENT_MAINTENANCE">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de melhorias. Devemos parar de construí-las e remover aquelas que são desnecessárias.</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção de melhorias. Devemos parar de construí-las e remover aquelas que são desnecessárias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_DIPLOMACY">
-			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD]Ouro para nós ao invés de perdê-lo.</Text>
+			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD] Ouro para nós ao invés de perdê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP">
 			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_MAINTENANCE">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias para evitar a falência.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção de unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias para evitar a falência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_SUPPLY">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades (pagamentos para unidades que estão fora de nossas fronteiras). Recomendo mover nossas unidades para dentro do nosso território ou eliminar as desnecessárias, evitando, assim, a falência.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades (pagamentos para unidades que estão fora de nossas fronteiras). Recomendo mover nossas unidades para dentro do nosso território ou eliminar as desnecessárias, evitando, assim, a falência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_BUILDING_MAINTENANCE">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_IMPROVEMENT_MAINTENANCE">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Recomendo que pare de fazer melhorias ou remova aquelas que não estão nos ajudando.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das melhorias. Recomendo que pare de fazer melhorias ou remova aquelas que não estão nos ajudando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_DIPLOMACY">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD]Ouro para nós ao invés de perdê-lo.</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD] Ouro para nós ao invés de perdê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE">
-			<Text>Com as nossas despesas correntes de [ICON_GOLD]Ouro, pediremos falência em alguns turnos. Precisamos nos concentrar em transformar nossa economia para evitar a vergonha de uma falência!</Text>
+			<Text>Com as nossas despesas correntes de [ICON_GOLD] Ouro, pediremos falência em alguns turnos. Precisamos nos concentrar em transformar nossa economia para evitar a vergonha de uma falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_MAINTENANCE">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias, para que possamos começar a ganhar dinheiro ao invés de perdê-lo!.</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias, para que possamos começar a ganhar dinheiro ao invés de perdê-lo!.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_SUPPLY">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento de unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento de unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_BUILDING_MAINTENANCE">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção de edificações.</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção de edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_IMPROVEMENT_MAINTENANCE">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Recomendo construir menos melhorias ou remover aquelas desnecessárias.</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das melhorias. Recomendo construir menos melhorias ou remover aquelas desnecessárias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_DIPLOMACY">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD]Ouro para nossa civilização!</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD] Ouro para nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY">
 			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Precisamos nos concentrar em transformar nossa economia para evitar a vergonha de uma falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias se você quiser ter um lucro maior ainda.</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias se você quiser ter um lucro maior ainda.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_SUPPLY">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é o abastecimento das unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das edificações.</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das melhorias. Melhore apenas os hexágonos que precisamos para crescer ou seu crescimento pode ficar fora de controle.</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das melhorias. Melhore apenas os hexágonos que precisamos para crescer ou seu crescimento pode ficar fora de controle.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_DIPLOMACY">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD]Ouro para nossa civilização!</Text>
+			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD] Ouro para nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY">
 			<Text>Estamos fazendo dinheiro!</Text>
@@ -1291,16 +1291,16 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH] ciência com {2_Num} de [ICON_CITIZEN] população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edificações que gerem pontos de ciência, como bibliotecas e universidades.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH] ciência com {2_Num} de [ICON_CITIZEN] população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edificações que gerem pontos de ciência, como bibliotecas e universidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Isso é que é eficiência!</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH] ciência com {2_Num} de [ICON_CITIZEN] população. Isso é que é eficiência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
-			<Text>Nossa pesquisa está sendo prejudicada pela nossa falta de [ICON_GOLD]Ouro. Sem fundos para pesquisa, vamos ficar irremediavelmente atrasados e seremos apenas uma nota pitoresca na história.</Text>
+			<Text>Nossa pesquisa está sendo prejudicada pela nossa falta de [ICON_GOLD] Ouro. Sem fundos para pesquisa, vamos ficar irremediavelmente atrasados e seremos apenas uma nota pitoresca na história.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_1">
 			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
@@ -1312,7 +1312,7 @@
 			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@4_BldgName}[/COLOR] em nossas cidades. É um monte de edificações que geram pontos de ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa da edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH]ciência e fazer progressos significativos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa da edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH] ciência e fazer progressos significativos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
 			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter um exército moderno é a chave para ataques seguros e eficazes.</Text>

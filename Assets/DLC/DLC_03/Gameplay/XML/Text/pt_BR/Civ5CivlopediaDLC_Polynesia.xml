@@ -138,7 +138,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP">
-			<Text>O {TXT_KEY_IMPROVEMENT_MOAI} só pode ser construído no litoral. Se construído próximo a outro {TXT_KEY_IMPROVEMENT_MOAI}, ele oferece [ICON_CULTURE]Cultura adicional. Após a pesquisa da tecnologia Voo, ele também oferece [ICON_GOLD]Ouro extra.</Text>
+			<Text>O {TXT_KEY_IMPROVEMENT_MOAI} só pode ser construído no litoral. Se construído próximo a outro {TXT_KEY_IMPROVEMENT_MOAI}, ele oferece [ICON_CULTURE] Cultura adicional. Após a pesquisa da tecnologia Voo, ele também oferece [ICON_GOLD] Ouro extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_TEXT">
 			<Text>Talvez mais conhecido como as "Estátuas da Ilha de Páscoa", os {TXT_KEY_IMPROVEMENT_MOAI[2]} são grandes figuras humanoides esculpidas, em sua grande maioria, em rocha vulcânica, como tufo. 887 dessas estátuas ponteiam a Ilha de Páscoa e acredita-se que foram criadas entre 1250 e 1500 d.C., aproximadamente. Quase metade continua na pedreira original, mas o resto foi transportado e levantado próximo à costa da ilha. Facilmente reconhecido por suas grandes cabeças e forma alongada, acredita-se que eles eram representações de ancestrais mortos e poderosos chefes.[NEWLINE][NEWLINE]Enquanto a maioria dos estudiosos concorde na razão e como as estátuas foram criadas, o método de transporte empregado continua um mistério. Pesando de 9 a 86 toneladas cada, eles teriam exigido uma habilidade de engenharia extraordinária para movê-los da mina até o local de descanso final.[NEWLINE][NEWLINE]Em 1994, às estátuas {TXT_KEY_IMPROVEMENT_MOAI} foi dada a proteção oficial da UNESCO, como Patrimônio Mundial.</Text>
@@ -147,10 +147,10 @@
 			<Text>Construir um [LINK=IMPROVEMENT_MOAI]{TXT_KEY_IMPROVEMENT_MOAI}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOAI_HELP">
-			<Text>Adiciona um {TXT_KEY_IMPROVEMENT_MOAI} (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de {TXT_KEY_IMPROVEMENT_MOAI[2]} ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
+			<Text>Adiciona um {TXT_KEY_IMPROVEMENT_MOAI} (+1 de [ICON_CULTURE] Cultura) ao hexágono. Crie uma linha de {TXT_KEY_IMPROVEMENT_MOAI[2]} ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD] Ouro, após o Voo ser pesquisado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOAI_REC">
-			<Text>Permitirá que o hexágono gere [ICON_CULTURE]Cultura (e [ICON_GOLD]Ouro após o Voo ser pesquisado).</Text>
+			<Text>Permitirá que o hexágono gere [ICON_CULTURE] Cultura (e [ICON_GOLD] Ouro após o Voo ser pesquisado).</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -222,7 +222,7 @@
 			<Text>O Salão Ceilidh é uma edificação da era Clássica exclusiva dos Celtas. Ele aumenta a [ICON_CULTURE]Cultura da cidade e a [ICON_HAPPINESS_1]Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FOR_SATRAPS_COURT_STRATEGY">
-			<Text>A Corte do Sátrapa é a edificação exclusiva dos Persas. A Corte do Sátrapa aumenta a produção de riqueza da cidade. No entanto, a Corte do Sátrapa também aumenta a [ICON_HAPPINESS_1]Felicidade da civilização. A cidade deve ter um Mercado antes que a Corte do Sátrapa possa ser construída.</Text>
+			<Text>A Corte do Sátrapa é a Edificação Exclusiva dos Persas. A Corte do Sátrapa aumenta a produção de riqueza da cidade. No entanto, a Corte do Sátrapa também aumenta a [ICON_HAPPINESS_1]Felicidade da civilização. A cidade deve ter um Mercado antes que a Corte do Sátrapa possa ser construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEAD_HALL_TEXT">
 			<Text>Nas regiões antigas escandinavas e germânicas, o Salão do Hidromel era uma edificação grande com uma única sala, que servia tanto como salão de festas do chefe quanto como centro da vida cultural e religiosa do povoado. Guardado pelos seguidores do chefe, também era o último refúgio das mulheres, crianças e idosos da tribo em tempos de crise. Construído em pedra e madeira, com 40 a 50 metros de comprimento, decorado com entalhes, geralmente era a edificação mais proeminente da cidade. A partir do século IV d.C., os Salões do Hidromel frequentemente eram fortificados também, sendo assim os precursoras dos donjons encontrados em castelos medievais.</Text>
