@@ -621,10 +621,10 @@
             <Text>[COLOR_NEGATIVE_TEXT]{1_Num} {2_IconString} após cidadãos[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_FOOD_PROGRESS">
-            <Text>Progresso: {1_Num}/{2_Num} [ICON_FOOD] </Text>
+            <Text>Progresso: {1_Num}/{2_Num} [ICON_FOOD]</Text>
         </Row>
         <Row Tag="TXT_KEY_FOOD_HELP_INFO">
-            <Text>[ICON_FOOD] Alimento é o que determina o quão rápido ocorre o crescimento da sua cidade e o aumento da população. [ICON_CITIZEN] Cidadãos trabalham nas terras e coletam [ICON_FOOD] , [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
+            <Text>[ICON_FOOD] Alimento é o que determina o quão rápido ocorre o crescimento da sua cidade e o aumento da população. [ICON_CITIZEN] Cidadãos trabalham nas terras e coletam [ICON_FOOD], [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_INFO">
             <Text>[ICON_PRODUCTION] Produção é o que determina o quão rápido a cidade treina suas unidades e constrói suas edificações etc. É coletada a partir de terrenos, edificações e muito mais.</Text>
@@ -686,7 +686,7 @@
             <Text>??? turnos</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_PROGRESS">
-            <Text>Progresso: {1_Num}/{2_Num} [ICON_PRODUCTION] </Text>
+            <Text>Progresso: {1_Num}/{2_Num} [ICON_PRODUCTION]</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_TEXT">
             <Text>{1_BuildItem:textkey} será construído em {2_NumTurnsString}.</Text>
@@ -709,7 +709,7 @@
         </Row>
         <!-- Production Modifiers -->
         <Row Tag="TXT_KEY_PRODMOD_FOOD_CONVERSION">
-            <Text>[NEWLINE][ICON_BULLET] Do excesso de [ICON_FOOD] Alimento: +{1_Num} [ICON_PRODUCTION] </Text>
+            <Text>[NEWLINE][ICON_BULLET] Do excesso de [ICON_FOOD] Alimento: +{1_Num} [ICON_PRODUCTION]</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_RAILROAD_CONNECTION">
             <Text>[NEWLINE][ICON_BULLET] Modificador pelas Conexões Ferroviárias: {1_Num}%</Text>
@@ -1258,10 +1258,10 @@
 		  <Text>[NEWLINE]Promoção grátis para as unidades adjacentes:[NEWLINE]{1_PromoteString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FIRST_FOUND_GOLD">
-		  <Text>[NEWLINE]Por ser o primeiro a encontrar esta maravilha, você ganhou {1_Num} de [ICON_GOLD] </Text>
+		  <Text>[NEWLINE]Por ser o primeiro a encontrar esta maravilha, você ganhou {1_Num} de [ICON_GOLD]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_SUBSEQUENT_FOUND_GOLD">
-			<Text>[NEWLINE]Por encontrar esta maravilha (após outra equipe), você ganhou {1_Num} de [ICON_GOLD] </Text>
+			<Text>[NEWLINE]Por encontrar esta maravilha (após outra equipe), você ganhou {1_Num} de [ICON_GOLD]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_YOUR_TEAM">
 		  <Text>Sua equipe</Text>

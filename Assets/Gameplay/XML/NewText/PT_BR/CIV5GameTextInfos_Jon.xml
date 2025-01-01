@@ -1673,16 +1673,16 @@
 			<Text>[COLOR_WARNING_TEXT]Inativo porque existem outras políticas que você escolheu que bloqueiam seus efeitos.[ENDCOLOR][NEWLINE]Clique para alterar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CURRENT_CULTURE_LABEL">
-			<Text>Cultura atual: {1_Num} [ICON_CULTURE] </Text>
+			<Text>Cultura atual: {1_Num} [ICON_CULTURE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_PER_TURN_LABEL">
-			<Text>Cultura por turno: {1_Num} [ICON_CULTURE] </Text>
+			<Text>Cultura por turno: {1_Num} [ICON_CULTURE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEXT_POLICY_TURN_LABEL">
 			<Text>Próxima política: {1_Num: number #} {1: plural 0?turno; 1?turno; other?turnos;}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEXT_POLICY_COST_LABEL">
-			<Text>Custo próxima política: {1_Num} [ICON_CULTURE] </Text>
+			<Text>Custo próxima política: {1_Num} [ICON_CULTURE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FREE_POLICIES_LABEL">
 			<Text># de políticas gratuitas: {1_Num}</Text>

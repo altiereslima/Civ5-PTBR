@@ -447,7 +447,7 @@
             <Text>Princípios Ideológicos</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICYSCREEN_TO_IDEOLOGY_BUTTON">
-            <Text>Para Ideologia[ICON_ARROW_RIGHT] </Text>
+            <Text>Para Ideologia[ICON_ARROW_RIGHT]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_TITLE">
             <Text>{2_IdeologyName} {1_CivAdjective[2]}</Text>

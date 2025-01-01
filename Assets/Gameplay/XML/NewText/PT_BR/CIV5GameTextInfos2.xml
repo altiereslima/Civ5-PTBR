@@ -1253,7 +1253,7 @@
             <Text>{1_GPName} nasceu no estrangeiro!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GREAT_PERSON">
-            <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE] </Text>
+            <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_IMP_DESTROYED">
             <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_UnitName} {@2_UnitName: gender masculine?{@3_civ_adjective[1]}; other?{@3_civ_adjective[2]};} que estava vagando pela área destruiu {@1: plural 1?{@1: gender masculine?um; feminine?uma;}; other?{@1: gender masculine?uns; other?umas;};} {@1_ImpName}.</Text>

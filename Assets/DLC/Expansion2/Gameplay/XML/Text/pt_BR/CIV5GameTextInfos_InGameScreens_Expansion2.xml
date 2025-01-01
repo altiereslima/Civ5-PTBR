@@ -316,7 +316,7 @@
             <Text>Rotas Comerciais Com Você</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_DOMAIN">
-            <Text>[ICON_INTERNATIONAL_TRADE] </Text>
+            <Text>[ICON_INTERNATIONAL_TRADE]</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_FROM_CITY">
             <Text>[ICON_ARROW_LEFT] Cidade</Text>
@@ -355,7 +355,7 @@
             <Text>[ICON_ARROW_RIGHT] [ICON_RESEARCH]</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_TURNS_REMAINING">
-            <Text>[ICON_TURNS_REMAINING] </Text>
+            <Text>[ICON_TURNS_REMAINING]</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_GPT_ENTRY">
             <Text>{1_Num: number #.#}</Text>
@@ -589,7 +589,7 @@
             <Text>[ICON_TOURISM] Turismo produzido por esta Cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER">
-            <Text>[ICON_GREAT_WORK] </Text>
+            <Text>[ICON_GREAT_WORK]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER_TT">
             <Text>[ICON_GREAT_WORK] Grandes Obras na cidade</Text>
@@ -655,7 +655,7 @@
             <Text>NÍVEL</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_PERCENT_HEADER">
-            <Text>[ICON_TOURISM] vs. [ICON_CULTURE] </Text>
+            <Text>[ICON_TOURISM] vs. [ICON_CULTURE]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_MODIFIERS_HEADER">
             <Text>+/- %</Text>
@@ -808,7 +808,7 @@
             <Text>[NEWLINE][NEWLINE]Ideologia Preferida é [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE1">
-            <Text>Opinião Pública está gerando {1_Num} de [ICON_HAPPINESS_4] </Text>
+            <Text>Opinião Pública está gerando {1_Num} de [ICON_HAPPINESS_4]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE2">
             <Text>[NEWLINE] Que é maior do que:</Text>
@@ -820,7 +820,7 @@
             <Text>[NEWLINE] 1 de [ICON_HAPPINESS_4] por {1_Num} de população</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER">
-            <Text>[ICON_HAPPINESS_4] </Text>
+            <Text>[ICON_HAPPINESS_4]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER_TT">
             <Text>[ICON_HAPPINESS_4] Infelicidade atual em razão da Opinião Pública.[NEWLINE][NEWLINE]Considere isto como o quanto o povo desta civilização aprova a Ideologia escolhida pelo seu líder.</Text>

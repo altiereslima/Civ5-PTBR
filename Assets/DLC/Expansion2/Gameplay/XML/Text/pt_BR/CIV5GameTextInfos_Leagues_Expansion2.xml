@@ -670,7 +670,7 @@
 			<Text>Estação Espacial Internacional</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_INTERNATIONAL_SPACE_STATION_HELP">
-			<Text>Inicia o projeto Estação Espacial Internacional. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD] : {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_1_HELP}[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Satélites.</Text>
+			<Text>Inicia o projeto Estação Espacial Internacional. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_1_HELP}[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Satélites.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_CULTURAL_HERITAGE_SITES">
 			<Text>Locais de Herança Cultural</Text>
@@ -688,13 +688,13 @@
 			<Text>Feira Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_WORLD_FAIR_HELP">
-			<Text>Inicia o projeto Feira Mundial. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_1_HELP}</Text>
+			<Text>Inicia o projeto Feira Mundial. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_1_HELP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_WORLD_GAMES">
 			<Text>Jogos Internacionais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_WORLD_GAMES_HELP">
-			<Text>Inicia o projeto Jogos Internacionais. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_1_HELP}[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Rádio.</Text>
+			<Text>Inicia o projeto Jogos Internacionais. Quando iniciado, as Civilizações podem contribuir com [ICON_PRODUCTION] Produção para a sua conclusão, selecionando-o na lista de produção da cidade. Quando concluído, as Civilizações recebem bônus proporcionais a sua contribuição.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_3_HELP}[NEWLINE][ICON_TROPHY_SILVER] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE] : {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_1_HELP}[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Rádio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION">
 			<Text>Não Proliferação Nuclear</Text>

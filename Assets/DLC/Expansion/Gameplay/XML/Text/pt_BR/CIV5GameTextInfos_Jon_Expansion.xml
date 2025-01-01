@@ -677,7 +677,7 @@
 			<Text>Esta ordem consumirá o Grande Almirante e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
-			<Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE] Era Dourada ([ICON_PRODUCTION] , [ICON_GOLD] e [ICON_CULTURE] extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
+			<Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE] Era Dourada ([ICON_PRODUCTION], [ICON_GOLD] e [ICON_CULTURE] extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_FAITH">
 			<Text>Você encontrou um antigo oráculo. Os sacerdotes abençoaram você com uma divina revelação. Você recebeu {1_Num} de [ICON_PEACE] Fé.</Text>

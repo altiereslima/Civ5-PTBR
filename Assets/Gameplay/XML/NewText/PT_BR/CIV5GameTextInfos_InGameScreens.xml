@@ -490,7 +490,7 @@
             <Text>Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_UNITS">
-			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD] , que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
+			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD], que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_EX_UNITS_NO_MAINT">
 			<Text>Você possui {1_Num} {1: plural 1?Míssil; other?Mísseis;} que não {1: plural 1?requer; other?requerem;} manutenção.</Text>

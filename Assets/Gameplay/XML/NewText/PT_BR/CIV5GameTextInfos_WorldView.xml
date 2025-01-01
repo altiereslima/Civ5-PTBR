@@ -91,10 +91,10 @@
 			<Text>FORÇA TOTAL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_YOUR_STRENGTH">
-			<Text>SUA FORÇA [ICON_STRENGTH] :</Text>
+			<Text>SUA FORÇA [ICON_STRENGTH]:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_STRENGTH">
-			<Text>: FORÇA DELES [ICON_STRENGTH] </Text>
+			<Text>: FORÇA DELES [ICON_STRENGTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_TERRAIN_MODIFIER">
 			<Text>Modificador de terreno</Text>
@@ -194,10 +194,10 @@
 			<Text>Água potável</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_REQUIRES_TECH_TO_USE">
-			<Text>[COLOR_WARNING_TEXT](Requer {@1_TechName} para usufruir)[ENDCOLOR] </Text>
+			<Text>[COLOR_WARNING_TEXT](Requer {@1_TechName} para usufruir)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_REQUIRES_TECH">
-			<Text>[COLOR_WARNING_TEXT](Requer {@1_TechName})[ENDCOLOR] </Text>
+			<Text>[COLOR_WARNING_TEXT](Requer {@1_TechName})[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_PILLAGED">
 			<Text>(Saqueado!)</Text>

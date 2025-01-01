@@ -54,7 +54,7 @@
 		  <Text>[NEWLINE]Cidade possui quantidade máxima de unidades aéreas.</Text>
 		</Row>		
         <Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
-            <Text>Você saqueou {1_Num} de [ICON_GOLD] , {2_Num} de [ICON_CULTURE] , e {3_Num} de [ICON_GREAT_WORK] na captura de {@4: gender *:noart?de; feminine?{@4: plural 2?das; other?da;}; masculine?{@4: plural 2?dos; other?do;}; other?de;} {@4_CityName}!!!</Text>
+            <Text>Você saqueou {1_Num} de [ICON_GOLD], {2_Num} de [ICON_CULTURE] , e {3_Num} de [ICON_GREAT_WORK] na captura de {@4: gender *:noart?de; feminine?{@4: plural 2?das; other?da;}; masculine?{@4: plural 2?dos; other?do;}; other?de;} {@4_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES">
             <Text>Desabilitar Congresso Mundial</Text>
