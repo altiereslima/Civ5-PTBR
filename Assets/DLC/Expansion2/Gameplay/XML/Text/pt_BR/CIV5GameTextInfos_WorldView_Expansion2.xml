@@ -54,7 +54,7 @@
 			<Text>Espaço Vazio para Grande Obra Musical</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_CITY_SAPPED">
-			<Text>Apoiada por {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER}</Text>
+			<Text>Apoiada por Torre de Cerco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_EMPIRE_VERY_UNHAPPY_PENALTY">
 			<Text>Império [ICON_HAPPINESS_4] Muito Infeliz</Text>

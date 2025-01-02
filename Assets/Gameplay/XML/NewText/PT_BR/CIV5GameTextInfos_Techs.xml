@@ -195,7 +195,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE">
-			<Text>{TXT_KEY_TECH_ANIMAL_HUSBANDRY}</Text>
+			<Text>Domesticação de Animais</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -255,7 +255,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
-			<Text>{TXT_KEY_TECH_CHIVALRY}</Text>
+			<Text>Cavalaria</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -350,7 +350,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
-			<Text>{TXT_KEY_TECH_HORSEBACK_RIDING}</Text>
+			<Text>Montaria</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

@@ -6,7 +6,7 @@
 			<Text>Sereníssima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
-			<Text>Não pode treinar {TXT_KEY_UNIT_SETTLER[2]} ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um {TXT_KEY_UNIT_VENETIAN_MERCHANT[1]} aparece após descobrir {TXT_KEY_TECH_OPTICS_TITLE}. Pode realizar compras em cidades fantoches.</Text>
+			<Text>Não pode treinar {TXT_KEY_UNIT_SETTLER[2]} ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um {TXT_KEY_UNIT_VENETIAN_MERCHANT[1]} aparece após descobrir Ótica. Pode realizar compras em cidades fantoches.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
 			<Text>Azagaia</Text>
@@ -66,7 +66,7 @@
 			<Text>Cidade da Luz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
-			<Text>Os bônus temáticos de {TXT_KEY_BUILDING_MUSEUM} e Maravilha Mundial são dobrados em sua Capital.</Text>
+			<Text>Os bônus temáticos de Museu e Maravilha Mundial são dobrados em sua Capital.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

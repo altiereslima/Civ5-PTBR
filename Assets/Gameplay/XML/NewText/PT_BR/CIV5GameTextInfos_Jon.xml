@@ -2003,7 +2003,7 @@
 			<Text>PACTO DEFENSIVO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_TECH">
-			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária ({TXT_KEY_TECH_CHIVALRY}) para negociar este item.</Text>
+			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária (Cavalaria) para negociar este item.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_EXISTS">
 			<Text>[NEWLINE][NEWLINE]Pacto defensivo já está em vigor!</Text>
@@ -2795,7 +2795,7 @@
 			<Text>Requer 1 de [ICON_RES_URANIUM] Urânio. A cidade não pode possuir uma Usina Solar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_HELP">
-			<Text>+50% de [ICON_PRODUCTION] Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM] Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY}.</Text>
+			<Text>+50% de [ICON_PRODUCTION] Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM] Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
 			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL] Petróleo e cada Oásis fornece +2 de [ICON_GOLD] Ouro.</Text>

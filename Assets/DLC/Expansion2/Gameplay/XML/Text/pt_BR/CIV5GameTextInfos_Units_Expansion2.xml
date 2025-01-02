@@ -104,10 +104,10 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MUSICIAN_TITLE">
-			<Text>Pontos de {TXT_KEY_UNIT_GREAT_MUSICIAN}:</Text>
+			<Text>Pontos de Grande Músico:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MUSICIAN_SLOTS">
-			<Text>Espaços de {TXT_KEY_SPECIALIST_MUSICIAN}:</Text>
+			<Text>Espaços de Músico:</Text>
 		</Row>
 		<!-- Great Writers -->
 		<Row Tag="TXT_KEY_UNIT_GREAT_WRITER">
@@ -121,10 +121,10 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_WRITER_TITLE">
-			<Text>Pontos de {TXT_KEY_UNIT_GREAT_WRITER}:</Text>
+			<Text>Pontos de Grande Escritor:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_WRITER_SLOTS">
-			<Text>Espaços de {TXT_KEY_SPECIALIST_WRITER}:</Text>
+			<Text>Espaços de Escritor:</Text>
 		</Row>
 		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_AESOP">

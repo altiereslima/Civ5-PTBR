@@ -346,7 +346,7 @@
 			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
-			<Text>Mostre o {TXT_KEY_UNIT_WORK_BOAT}</Text>
+			<Text>Mostre o Barco de Serviço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
 			<Text>Unidades de cerco são excelentes para abater cidades em outros territórios, mas são indefesas se forem atacadas por outras unidades, por isso sempre as defenda!</Text>
@@ -973,7 +973,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edificações como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um {TXT_KEY_UNIT_WORK_BOAT} para melhorar o recurso!</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um Barco de Serviço para melhorar o recurso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>

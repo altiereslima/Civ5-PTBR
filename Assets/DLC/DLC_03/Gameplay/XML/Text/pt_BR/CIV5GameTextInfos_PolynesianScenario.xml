@@ -127,7 +127,7 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], a unidade de guerra mais poderosa do cenário.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
-            <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
+            <Text>Permite a construção do Barco de Serviço, útil para colher recursos aquáticos como [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
             <Text>Esta tecnologia não fornece nenhum benefício. Ela deve ser pesquisada se você terminar o resto da árvore Medieval antes da chegada dos europeus no Pacífico. Ela representa a estagnação da tecnologia Polinésia antes do contato com civilizações mais avançadas. Ela será dada a cada civilização que entrar em contato com a expedição do Capitão James Cook.</Text>
@@ -136,7 +136,7 @@
             <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE] Cultura e [ICON_RESEARCH] Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4] Infelicidade de cidades [ICON_OCCUPIED] ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
-            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]Acampamentos[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles.</Text>
+            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lanceiro Montado[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]Acampamentos[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
             <Text>Aumenta a produção de pontos de [ICON_RESEARCH] Ciência desta cidade. Neste cenário, a cidade não precisa estar próximo a uma Montanha.</Text>

@@ -219,7 +219,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>Um {TXT_KEY_BUILDING_AMPHITHEATER} é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
+			<Text>Um Anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Santuários são monumentos sagrados, tipicamente construídos para comemorar ícones culturais reverenciados ou figuras religiosas. Representados em quase todas as denominações religiosas encontradas em todo o mundo, os santuários desempenham um papel importante nas cerimônias religiosas, tanto na adoração pública quanto na privada.</Text>
@@ -228,7 +228,7 @@
 			<Text>Um centro de reciclagem é um ponto de coleta para materiais recicláveis comumente usados em residências e empresas. Em muitas comunidades, os materiais recicláveis são coletados juntamente com o lixo e deixados no centro de reciclagem para triagem. Na maioria dos casos, os materiais são decompostos ou triturados, depois embalados e enviados para outros locais, para posterior processamento em uma variedade de novos produtos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BOMB_SHELTER_TEXT">
-			<Text>Como o nome indica, um {TXT_KEY_BUILDING_BOMB_SHELTER} é uma estrutura projetada para suportar danos causados por bombas e outras armas explosivas. Enquanto alguns abrigos anti-bomba foram feitos para proteção contra bombardeios aéreos, outros foram construídos no subsolo, na esperança de sobreviver a um ataque nuclear. Dependendo da finalidade do abrigo, vários materiais podem ser usados, com o componente mais comum sendo o concreto armado.</Text>
+			<Text>Como o nome indica, um Abrigo Antiaéreo é uma estrutura projetada para suportar danos causados por bombas e outras armas explosivas. Enquanto alguns abrigos anti-bomba foram feitos para proteção contra bombardeios aéreos, outros foram construídos no subsolo, na esperança de sobreviver a um ataque nuclear. Dependendo da finalidade do abrigo, vários materiais podem ser usados, com o componente mais comum sendo o concreto armado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CONSTABLE_TEXT">
 			<Text>Uma das primeiras descrições do papel de um Condestável vem de Bracton, um jurista inglês que entre 1220 e 1250, escreveu: "De qualquer maneira que eles venham e em qualquer dia, é dever do condestável registrar tudo em ordem, pois ele registra as coisas que vê, mas não pode julgar, porque não há julgamento na Torre, uma vez que falta o terceiro elemento de um processo judicial, ou seja, um juiz e uma jurisdição. Ele registra questões de fato, não de julgamento e lei."</Text>
@@ -272,25 +272,25 @@
 		</Row>
 		<!-- UNITS -->
 		<Row Tag="TXT_KEY_UNIT_FRIGATE_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_FRIGATE} é a primeira unidade naval desde a {TXT_KEY_UNIT_CARAVEL}. Seu Movimento, "Força de Combate" e "Força de Combate a Distância" são todos maiores que a os da antiga unidade naval. A {TXT_KEY_UNIT_FRIGATE} pode limpar dos mares qualquer {TXT_KEY_UNIT_CARAVEL}, {TXT_KEY_UNIT_TRIREME} ou unidades Bárbaras que ainda estiverem flutuando.</Text>
+			<Text>A Fragata é a primeira unidade naval desde a Caravela. Seu Movimento, "Força de Combate" e "Força de Combate a Distância" são todos maiores que a os da antiga unidade naval. A Fragata pode limpar dos mares qualquer Caravela, Trirreme ou unidades Bárbaras que ainda estiverem flutuando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_GERMAN_PANZER} é a unidade exclusiva alemã, substituindo o {TXT_KEY_UNIT_TANK}. É mais forte e rápida do que o {TXT_KEY_UNIT_TANK}. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e então atravessá-los antes que o inimigo possa recuperar a lacuna.</Text>
+			<Text>O Panzer é a unidade exclusiva alemã, substituindo o Tanque. É mais forte e rápida do que o Tanque. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e então atravessá-los antes que o inimigo possa recuperar a lacuna.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renascença que fica entre o {TXT_KEY_UNIT_KNIGHT} e a {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer aquelas antes poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode até mesmo derrotar a poderosa {TXT_KEY_UNIT_CAVALRY} depois que ela aparece.</Text>
+			<Text>O Lanceiro Montado é a unidade montada da Renascença que fica entre o Cavaleiro e a Cavalaria. É mais rápido e mais poderoso que o Cavaleiro, capaz de varrer aquelas antes poderosas unidades do mapa. O Lanceiro Montado pode até mesmo derrotar a poderosa Cavalaria depois que ela aparece.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_LONGSWORDSMAN} é a unidade padrão de combate de infantaria medieval. Ele é mais poderoso do que o {TXT_KEY_UNIT_KNIGHT}, mas muito mais lento. Ele também supera o {TXT_KEY_UNIT_PIKEMAN}, mas não recebe o bônus dessa unidade contra unidades montadas. Use Espadachins de Espada Longa e Catapultas para atacar cidades inimigas.</Text>
+			<Text>O Grande Espadachim é a unidade padrão de combate de infantaria medieval. Ele é mais poderoso do que o Cavaleiro, mas muito mais lento. Ele também supera o Piqueiro, mas não recebe o bônus dessa unidade contra unidades montadas. Use Espadachins de Espada Longa e Catapultas para atacar cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_MODERN_ARMOR} é como seu predecessor, o {TXT_KEY_UNIT_TANK}, apenas... "mais". É muito mais forte do que o {TXT_KEY_UNIT_TANK} e possui todas as suas habilidades, como mover-se após o ataque.</Text>
+			<Text>O Tanque Moderno é como seu predecessor, o Tanque, apenas... "mais". É muito mais forte do que o Tanque e possui todas as suas habilidades, como mover-se após o ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Essa é uma unidade exclusiva Songai, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor ao atacar cidades. O {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
+			<Text>Essa é uma unidade exclusiva Songai, substituindo o Cavaleiro. Essa unidade tem as mesmas estatísticas que o Cavaleiro, mas é significativamente melhor ao atacar cidades. O Cavalaria Mandekalu pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o Cavalaria Mandekalu atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_TANK} é uma unidade terrestre móvel extremamente poderosa. Pode se mover após atacar, o que o torna capaz de esburacar as linhas inimigas e então mover-se para os hexágonos agora vazios.</Text>
+			<Text>O Tanque é uma unidade terrestre móvel extremamente poderosa. Pode se mover após atacar, o que o torna capaz de esburacar as linhas inimigas e então mover-se para os hexágonos agora vazios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE">
 			<Text>Bônus contra Cidades (200)</Text>
@@ -383,11 +383,11 @@
 			<Text>Os Inquisidores agiram em toda a Europa como parte de um esforço árduo para eliminar os inimigos da Igreja Católica. Aqueles a quem a Inquisição declarava hereges costumavam ser torturados e executados pelos crimes que supostamente haviam cometido, pois não era fácil se defender da acusação de um Inquisidor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
+			<Text>O Helicóptero Armado é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE] Cultura.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"O que é o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
@@ -414,7 +414,7 @@
 			<Text>A arquitetura pode ser considerada tanto uma arte quanto uma ciência. Englobando tudo, desde o planejamento inicial e design de uma estrutura até o processo de construção propriamente dito, a arquitetura tem sido um elemento crucial do processo de construção desde os tempos antigos. Uma das primeiras discussões conhecidas sobre arquitetura e seus princípios, "De Architectura", foi escrita pelo arquiteto romano Vitrúvio no século I a.C. Um conjunto de dez volumes que compreende todos os detalhes mais intricados dos métodos de construção romana, o trabalho de Vitrúvio é amplamente reconhecido hoje como um desenvolvimento crucial na evolução do processo de design arquitetônico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Revela o [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_FACTORY}[ENDCOLOR], uma edificação que melhora muito a [ICON_PRODUCTION] Produção de uma cidade.</Text>
+			<Text>Revela o [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], uma edificação que melhora muito a [ICON_PRODUCTION] Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A industrialização baseada em maquinário, já referida como uma das características da nossa era, é apenas um aspecto da revolução que está sendo feita pela tecnologia."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
@@ -433,7 +433,7 @@
 			<Text>TEMP Description text: BALLISTICS</Text>
 		</Row> -->
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TANK}[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_AT_GUN}[ENDCOLOR], uma arma especializada em derrotar {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], uma arma especializada em derrotar {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A fonte do mal não é a construção de armas novas, e mais mortíferas. É o espírito de conquista."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
@@ -442,7 +442,7 @@
 			<Text>As armas combinadas são uma doutrina militar adotada pela primeira vez há mais de mil anos, que envolve a combinação de tipos diferentes, mas complementares, de unidades em um esforço para melhorar a eficiência geral da força como um todo. Nos tempos antigos, a tática de armas combinadas era utilizada por muitas das principais potências, particularmente os gregos e romanos, que coordenavam cuidadosamente a infantaria leve e pesada, a cavalaria e as armas de longo alcance para criar formações coesas que minimizassem os pontos fortes e fracos de cada um. Nos dias atuais, o aumento do armamento baseado em aeronaves levou a variações ainda mais complexas no conceito tradicional de armas combinadas. Aeronaves não-tripuladas, mísseis guiados por satélite e bombardeiros de alta altitude são apenas alguns exemplos do conjunto de ferramentas disponíveis para os comandantes militares modernos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_BOMB_SHELTER}[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino Nuclear[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]Abrigo Antiaéreo[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Quanto mais elaboramos nossas formas de comunicação, menos nos comunicamos."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
@@ -451,13 +451,13 @@
 			<Text>A telecomunicação permite a transmissão de dados e informações por longas distâncias, usando vários tipos de dispositivos de sinalização. As primeiras formas de comunicação primitiva à distância, incluindo o uso de bandeiras de fumaça e sinal, acabaram cedendo lugar aos telégrafos e, mais tarde, ao telefone. A pesquisa científica e a engenharia, particularmente nos últimos 30 anos, levaram a avanços em nossa capacidade de nos comunicar globalmente. Satélites em órbita agora fornecem um meio para a transmissão de dados até mesmo para as áreas mais remotas da Terra. Televisão, internet, telefones celulares e GPS estão agora totalmente integrados ao cotidiano de milhões de pessoas em todo o mundo por causa da pesquisa em telecomunicações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MECHANIZED_INFANTRY}[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Infantaria Mecanizada[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Todos podem ver essas táticas utilizadas onde eu conquiste, mas o que ninguém pode ver é a estratégia de que cada vitória evolui."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_DESC">
-			<Text>As {TXT_KEY_TECH_MOBILE_TACTICS} são estratégias implementadas pelas forças militares para permitir que unidades rápidas e altamente manobráveis entrem e saiam da batalha sem se envolverem em um engajamento contínuo. As {TXT_KEY_TECH_MOBILE_TACTICS} costumam ser usadas por unidades irregulares ou guerrilheiras que se especializam em ataques rápidos, com o objetivo de desorientar forças maiores.</Text>
+			<Text>As Táticas Móveis são estratégias implementadas pelas forças militares para permitir que unidades rápidas e altamente manobráveis entrem e saiam da batalha sem se envolverem em um engajamento contínuo. As Táticas Móveis costumam ser usadas por unidades irregulares ou guerrilheiras que se especializam em ataques rápidos, com o objetivo de desorientar forças maiores.</Text>
 		</Row>
 		<!--CITY-STATES-->
 		<Row Tag="TXT_KEY_CIV5_ANTWERP_TEXT">
@@ -619,10 +619,10 @@
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], a primeira edificação do jogo que fornece [ICON_PEACE] Fé.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Silo[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], a primeira edificação do jogo que fornece [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE] Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD] Alimento e [ICON_PRODUCTION] Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD] Ouro extra quando você conecta cidades à sua [ICON_CAPITAL] Capital.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Carruagem Arqueira[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE] Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD] Alimento e [ICON_PRODUCTION] Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD] Ouro extra quando você conecta cidades à sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
 			<Text>Permite construção de várias edificações que impulsionam a produção de [ICON_GOLD] Ouro, como a [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
@@ -634,10 +634,10 @@
 			<Text>Permite a construção de muitas maravilhas e edificações especializadas que aumentam sua produção de [ICON_PEACE] Fé e sua capacidade de criar novas [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Grande Espadachim[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH] Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
@@ -649,10 +649,10 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD] Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION] Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lanceiro Montado[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CAVALRY}[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Cavalaria[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
 			<Text>Revela o [ICON_RES_ALUMINUM] Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD] Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION] Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -700,7 +700,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM] Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssil Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
-			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis Guiados[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
+			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque Moderno[ENDCOLOR], uma Unidade Blindada incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Caça a Jato[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
@@ -718,7 +718,7 @@
 			<Text>As unidades de combate à distância (terrestres, navais ou mísseis) não podem capturar uma cidade, embora possam enfraquecê-la consideravelmente antes que uma unidade de combate corpo a entre nela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Tal como acontece com as unidades terrestres, há unidades navais militares e civis, bem como de combate à distância e combate corpo a corpo. Os Barcos de Serviço são destruídos quando são atacados por bárbaros e outras civilizações ou cidades-estado. Todas as unidades "embarcadas" são fracas, embora possam resistir a um ou dois ataques.[NEWLINE][NEWLINE]As unidades navais de combate a distância podem atacar outras unidades navais e a qualquer unidade terrestre que estiver ao seu alcance e que possa ver.[NEWLINE][NEWLINE]As unidades navais de combate corpo a corpo podem atacar diretamente outras unidades navais, além de cidades costeiras. No entanto, existem certas unidades navais das últimas eras que merecem atenção especial: o Porta-aviões, o Cruzador de Mísseis Guiados e o Submarino. Para mais detalhes, clique na guia "Unidades" da Civilopédia.</Text>
+			<Text>Tal como acontece com as unidades terrestres, há unidades navais militares e civis, bem como de combate à distância e combate corpo a corpo. Os Barcos de Serviço são destruídos quando são atacados por bárbaros e outras civilizações ou cidades-estado. Todas as unidades "embarcadas" são fracas, embora possam resistir a um ou dois ataques.[NEWLINE][NEWLINE]As unidades navais de combate a distância podem atacar outras unidades navais e a qualquer unidade terrestre que estiver ao seu alcance e que possa ver.[NEWLINE][NEWLINE]As unidades navais de combate corpo a corpo podem atacar diretamente outras unidades navais, além de cidades costeiras. No entanto, existem certas unidades navais das últimas eras que merecem atenção especial: o Porta-aviões, o Cruzador de Mísseis e o Submarino. Para mais detalhes, clique na guia "Unidades" da Civilopédia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_COMBATSTRENGTH_HEADING3_BODY">
 			<Text>A Força de Combate (FC) de uma unidade, determina o quão poderosa é em combate. O Guerreiro, a primeira unidade de combate disponível, tem 8 de FC. As unidades civis (aquelas que não são de combate, como os Colonos ou Trabalhadores) têm 0 (zero) de FC. Se alguma unidade militar atacá-las, serão derrotadas (capturadas ou destruídas).</Text>
@@ -802,7 +802,7 @@
 			<Text>Em geral, os hexágonos desérticos são realmente inúteis. Eles não fornecem benefícios para as cidades (a menos que o deserto possua um oásis ou recursos, é claro, ou tenha acesso à água fresca).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
+			<Text>As unidades montadas Cavalaria são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
 			<Text>As montanhas são intransitáveis, exceto para unidades aéreas e unidades cartaginesas (depois de ganhar um Grande General). Elas não oferecem nada para as cidades.</Text>

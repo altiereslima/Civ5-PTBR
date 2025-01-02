@@ -277,7 +277,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER">
-			<Text>Cruzador de Mísseis Guiados</Text>
+			<Text>Cruzador de Mísseis</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1363,7 +1363,7 @@
 			<Text>Funda novas cidades para expandir seu Império.[NEWLINE][NEWLINE]O [ICON_FOOD] crescimento da cidade é interrompido enquanto esta unidade está sendo produzida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
-			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH] Peixe. O {TXT_KEY_UNIT_WORK_BOAT} é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
+			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH] Peixe. O Barco de Serviço é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
 			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL] capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
@@ -1483,7 +1483,7 @@
 			<Text>Unidade Montada designada ao ataque, recebe uma penalidade de combate enquanto estiver em defesa. Boa para derrubar Unidades Montadas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
-			<Text>Unidade Montada designada ao ataque, recebe uma penalidade de combate enquanto estiver em defesa. Boa para derrubar Unidades Montadas inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e pode ver mais longe que o {TXT_KEY_UNIT_LANCER} que ela substitui.</Text>
+			<Text>Unidade Montada designada ao ataque, recebe uma penalidade de combate enquanto estiver em defesa. Boa para derrubar Unidades Montadas inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e pode ver mais longe que o Lanceiro Montado que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CANNON">
 			<Text>Poderosa unidade de cerco da Renascença. Deve ser preparada antes de atacar.</Text>
@@ -1504,7 +1504,7 @@
 			<Text>Poderosa unidade de infantaria da Era Medieval.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
-			<Text>Poderosa unidade de infantaria medieval. Apenas os Japoneses podem treiná-la. Esta unidade combate mais efetivamente e ajuda a produzir Grandes Generais mais rapidamente que o {TXT_KEY_UNIT_LONGSWORDSMAN}, que ela substitui.</Text>
+			<Text>Poderosa unidade de infantaria medieval. Apenas os Japoneses podem treiná-la. Esta unidade combate mais efetivamente e ajuda a produzir Grandes Generais mais rapidamente que o Grande Espadachim, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TREBUCHET">
 			<Text>Poderosa unidade de cerco da Era Medieval. Boa para reduzir as defesas das cidades inimigas. Deve ser preparada antes de atacar.</Text>
@@ -1513,10 +1513,10 @@
 			<Text>Poderosa unidade montada medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAMEL_ARCHER">
-			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
+			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do Cavaleiro que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
-			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_KNIGHT}, que ela substitui.</Text>
+			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH] Força de Combate maior que a do Cavaleiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
 			<Text>Poderosa unidade montada da Era Medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Songais podem treiná-la.</Text>
@@ -1534,7 +1534,7 @@
 			<Text>Unidade especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
-			<Text>Especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o {TXT_KEY_UNIT_PIKEMAN}, que ela substitui.</Text>
+			<Text>Especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o Piqueiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CATAPULT">
 			<Text>Primeira unidade de cerco do jogo. Causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar.</Text>
@@ -1546,34 +1546,34 @@
 			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
-			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH] Força de Combate maior que o {TXT_KEY_UNIT_HORSEMAN}, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH] Força de Combate maior que o Jinete, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOHAWK_WARRIOR">
-			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em florestas ou selvas, ao contrário do {TXT_KEY_UNIT_SWORDSMAN} que ela substitui.</Text>
+			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em florestas ou selvas, ao contrário do Espadachim que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ROMAN_LEGION">
-			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_SWORDSMAN}, que ela substitui.</Text>
+			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do Espadachim, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância, altamente efetiva em terreno aberto, mas significativamente prejudicada em terreno acidentado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
-			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE] Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE] Cavalos para ser treinada, ao contrário da Carruagem Arqueira, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
-			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH] Força de Combate e [ICON_STRENGTH] Força de Combate a Distância maiores que a da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH] Força de Combate e [ICON_STRENGTH] Força de Combate a Distância maiores que a da Carruagem Arqueira, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
 			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HOPLITE">
-			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a do Lanceiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IMMORTAL">
-			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior e se cura mais rápido que o Lanceiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHER">
 			<Text>Poderosa unidade de ataque a distância da Era Antiga que pode acabar com inimigos de longe.</Text>

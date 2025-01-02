@@ -24,7 +24,7 @@
 			<Text>O Fim de um Império</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_STATBOX">
-			<Text>[NEWLINE]        Líder: Pachacuti[NEWLINE]        Unidade Exclusiva: {TXT_KEY_UNIT_INCAN_SLINGER}[NEWLINE]        Melhoria Exclusiva: {TXT_KEY_IMPROVEMENT_TERRACE_FARM}[NEWLINE][NEWLINE]</Text>
+			<Text>[NEWLINE]        Líder: Pachacuti[NEWLINE]        Unidade Exclusiva: Fundeiro[NEWLINE]        Melhoria Exclusiva: {TXT_KEY_IMPROVEMENT_TERRACE_FARM}[NEWLINE][NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_TEXT_1">
 			<Text>O maior Império pré-colombiano nas Américas, o Império Inca se alastrava desde o Peru até o Chile, ao longo da Cordilheira dos Andes. Este grande império teve um início humilde em um pequeno reino, mas cresceu para dominar toda a América do Sul "civilizada". Embora o império tenha durado apenas um breve século, ele fez muito para unificar o povo e a cultura de diferentes tribos que viviam no topo das montanhas. Não obstante a aniquilação quase completa dos Incas, muitos artefatos e estruturas físicas permanecem em pé, como a famosa Machu Picchu, um testamento do poder uma vez exercido pelos reis Incas.</Text>
@@ -99,10 +99,10 @@
 			<Text>Os guerreiros Incas eram renomados {TXT_KEY_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Velho Testamento, um fundibulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_SLINGER_HELP">
-			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o {TXT_KEY_UNIT_ARCHER}. O {TXT_KEY_UNIT_INCAN_SLINGER} não é mais poderoso que um {TXT_KEY_UNIT_ARCHER} e é até mais frágil se submetido a um ataque corpo a corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo a corpo inimigo possa ocorrer.</Text>
+			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o Arqueiro. O Fundeiro não é mais poderoso que um Arqueiro e é até mais frágil se submetido a um ataque corpo a corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo a corpo inimigo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_SLINGER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_INCAN_SLINGER} é uma unidade de artilharia da Era Antiga que pode acertar alvos à distância. Esta unidade Inca exclusiva pode recuar ante a maioria dos ataques corpo a corpo: use isso para atormentar seus inimigos. Porém, o {TXT_KEY_UNIT_INCAN_SLINGER} pode ser facilmente derrotado se o inimigo o encurralar contra obstruções ou o perseguir com unidades rápidas.</Text>
+			<Text>O Fundeiro é uma unidade de artilharia da Era Antiga que pode acertar alvos à distância. Esta unidade Inca exclusiva pode recuar ante a maioria dos ataques corpo a corpo: use isso para atormentar seus inimigos. Porém, o Fundeiro pode ser facilmente derrotado se o inimigo o encurralar contra obstruções ou o perseguir com unidades rápidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM">
 			<Text>Fazenda em Terraços|Fazendas em Terraços</Text>

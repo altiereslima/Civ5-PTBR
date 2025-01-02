@@ -492,7 +492,7 @@
 			<Text>Como uma ruína antiga podem atualizar uma de suas unidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_WEAPONS_HEADING4_BODY">
-			<Text>A unidade que entra no hexágono é atualizada e convertida em uma unidade mais avançada (por exemplo, um Guerreiro pode se converter em um {TXT_KEY_UNIT_SWORDSMAN}).</Text>
+			<Text>A unidade que entra no hexágono é atualizada e convertida em uma unidade mais avançada (por exemplo, um Guerreiro pode se converter em um Espadachim).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_WEAPONS_HEADING4_TITLE">
 			<Text>Atualizar Armas</Text>
@@ -570,7 +570,7 @@
 			<Text>A Torre Eiffel proporciona uma grande quantidade de [ICON_HAPPINESS_1] Felicidade, bem como +1 de [ICON_CULTURE] Cultura e +2 pontos para o Grande Mercador. Esta maravilha é muito útil para se conseguir Eras Douradas na Era Moderna!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY_STRATEGY">
-			<Text>A {TXT_KEY_BUILDING_FACTORY} é uma edificação da Era Industrial que aumenta muito a [ICON_PRODUCTION] Produção de uma cidade, que deve possuir uma Oficina (ou Casa Grande). 1 recurso de [ICON_RES_COAL] Carvão é consumido quando uma {TXT_KEY_BUILDING_FACTORY} é criada.</Text>
+			<Text>A Fábrica é uma edificação da Era Industrial que aumenta muito a [ICON_PRODUCTION] Produção de uma cidade, que deve possuir uma Oficina (ou Casa Grande). 1 recurso de [ICON_RES_COAL] Carvão é consumido quando uma Fábrica é criada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_PEDIA">
 			<Text>O Jardim Flutuante é uma pequena ilha artificial construída em um lago de água doce para aumentar a terra cultivável. O lago irriga a ilha e proporciona material orgânico constantemente, resultando em um ambiente extremamente fértil para o cultivo. Os Astecas eram mestres neste tipo de agricultura, e os "Jardins Flutuantes de Xochimilco" são famosos até os dias de hoje.</Text>
@@ -588,7 +588,7 @@
 			<Text>O Jardim aumenta em 25% a velocidade que a cidade gera [ICON_GREAT_PEOPLE] Grandes Personalidades. Os Jardins só podem ser construídos em cidades próximas de um rio ou um lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_GRANARY} aumenta o fluxo de [ICON_FOOD] Alimento de uma cidade, acelerando o seu crescimento. É útil quando se quer criar uma grande cidade rapidamente.</Text>
+			<Text>O Silo aumenta o fluxo de [ICON_FOOD] Alimento de uma cidade, acelerando o seu crescimento. É útil quando se quer criar uma grande cidade rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY_STRATEGY">
 			<Text>A Grande Biblioteca proporciona uma tecnologia grátis, além de +1 em [ICON_CULTURE] Cultura e +1 ponto de Grande Cientista. Esta maravilha pode melhorar muito a tecnologia nas primeiras fases do jogo a um custo de [ICON_PRODUCTION] Produção relativamente baixo.</Text>
@@ -759,7 +759,7 @@
 			<Text>A Escola Pública é uma edificação do meio do jogo que aumenta a produção de [ICON_RESEARCH] Ciência da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID_STRATEGY">
-			<Text>As Pirâmides proporcionam um {TXT_KEY_BUILDING_GRANARY} grátis em cada cidade. Também fornece +1 para [ICON_CULTURE] Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD] Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
+			<Text>As Pirâmides proporcionam um Silo grátis em cada cidade. Também fornece +1 para [ICON_CULTURE] Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD] Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_PEDIA">
 			<Text>"Sátrapa" é o título de um governador provisório do Império Aquemênida da Pérsia. Os Sátrapas eram nomeados pelo rei, e geralmente eram membros da família real. O Sátrapa era uma figura poderosa, recolhia impostos e constituía a máxima autoridade judicial da província. Ele também era responsável pelo recrutamento e manutenção de um exército e, portanto, tinha que ser uma pessoa de grande confiança para o monarca. À medida que o poder central persa foi se enfraquecendo durante o século 5 a.C., os Sátrapas se tornaram mais independentes e, de fato, alguns foram mais poderosos que o rei a que serviam.[NEWLINE][NEWLINE]Alexander manteve a administração dos Sátrapas após a conquista da Pérsia, às vezes substituindo os Sátrapas por seus generais e outras vezes mantendo os governadores se mantivessem a paz e continuassem pagando seus impostos.</Text>
@@ -777,10 +777,10 @@
 			<Text>A Central de Energia Solar é uma edificação da fase avançada do jogo que aumenta significativamente a [ICON_PRODUCTION] Produção de uma cidade. Para poder construir esta edificação, a cidade deve ser construída em um hexágono no deserto ou adjacente a ela, além de possuir uma Fábrica já construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_STRATEGY">
-			<Text>A {TXT_KEY_BUILDING_SPACESHIP_FACTORY} aumenta a velocidade com que uma cidade constrói peças de espaçonaves. Esta edificação requer um recurso de [ICON_RES_ALUMINUM] Alumínio e a cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY} para poder construí-la.</Text>
+			<Text>A Fábrica Aeroespacial aumenta a velocidade com que uma cidade constrói peças de espaçonaves. Esta edificação requer um recurso de [ICON_RES_ALUMINUM] Alumínio e a cidade deve possuir uma Fábrica para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_STABLE} só pode ser construído em uma cidade que tenha nas proximidades uma fonte já explorada dos recursos [ICON_RES_HORSE] Cavalos, [ICON_RES_SHEEP] Ovelhas ou [ICON_RES_COW] Gado. Ele aumenta a velocidade de [ICON_PRODUCTION] Produção das unidades montadas.</Text>
+			<Text>O Estábulo só pode ser construído em uma cidade que tenha nas proximidades uma fonte já explorada dos recursos [ICON_RES_HORSE] Cavalos, [ICON_RES_SHEEP] Ovelhas ou [ICON_RES_COW] Gado. Ele aumenta a velocidade de [ICON_PRODUCTION] Produção das unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STADIUM_STRATEGY">
 			<Text>Um Estádio é uma edificação moderna que aumenta a [ICON_HAPPINESS_1] Felicidade de todo seu império, e não só a cidade onde está construído. A cidade deve possuir um Teatro antes de poder construir um Estádio.</Text>
@@ -1388,43 +1388,43 @@
 			<Text>A data exata da invenção da catapulta é incerta, mas os exércitos Gregos eram conhecidos por empregá-las no século 3 a.C. As catapultas usam a energia acumulada em uma corda retorcida ou madeira dobrada para lançar projéteis a uma grande distância. Elas são bastante imprecisas, mas podem ser mortais contra alvos grandes ou lentos - como as fortificações, por exemplo (que são muito grandes e se movem lentamente). Geralmente as catapultas eram transportadas em peças e depois montadas no campo de batalha. Ocasionalmente eram construídas no local por engenheiros. As últimas catapultas foram vistas durante a Primeira Guerra Mundial, os Franceses as usaram para lançar granadas nas trincheiras inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CHARIOTARCHER_HEADING">
-			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER}</Text>
+			<Text>Carruagem Arqueira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CHARIOTARCHER_TEXT">
 			<Text>Antes da invenção do estribo, era praticamente impossível combater a cavalo. Ao menor esforço poderia derrubar o cavaleiro, com resultados desastrosos. Os primeiros cavalos apareceram pela primeira vez em combate puxando carroças. Uma equipe de biga consistia em um ou dois cavalos, um condutor e um arqueiro. A mobilidade das bigas as fazia especialmente perigosas contra a infantaria: podiam correr até o alcance para disparar flechas e fugir antes que os soldados os alcançassem. Sua maior fraqueza consistia em sua incapacidade para manobrar e, terrenos acidentados. Nas planícies se converteram nos reis do campo de batalha, mas em colinas ou florestas ficavam com uma desvantagem significativa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_COMPANIONCAVALRY_HEADING">
-			<Text>{TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}</Text>
+			<Text>Heteros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_COMPANIONCAVALRY_TEXT">
-			<Text>Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}, ou Hetairoi, eram cavaleiros de elite que acompanhavam Alexandre, o Grande, em batalha. O termo "hetairoi" deriva do nome da aristocracia macedônica, e os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} provinham apenas das melhores famílias macedônicas (embora mais tarde isso tenha sido expandido para incluir a nobreza dos povos aliados e subjugados). Cada cavaleiro carregava um "xyston" (lança longa) e um "kopis" (espada curva), e usava uma couraça, ombreiras e capacete de bronze.[NEWLINE][NEWLINE]Em batalha, Alexandre geralmente segurava os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} até o inimigo estar totalmente envolvido com suas unidades de Falange. O próprio Alexandre então conduzia seus {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} contra o flanco ou retaguarda do inimigo, semeando confusão e desânimo no exército inimigo. As forças opostas nunca encontraram uma resposta satisfatória para essa combinação, e com ela Alexandre conquistou a maior parte do mundo conhecido.</Text>
+			<Text>Os Heteros, ou Hetairoi, eram cavaleiros de elite que acompanhavam Alexandre, o Grande, em batalha. O termo "hetairoi" deriva do nome da aristocracia macedônica, e os Heteros provinham apenas das melhores famílias macedônicas (embora mais tarde isso tenha sido expandido para incluir a nobreza dos povos aliados e subjugados). Cada cavaleiro carregava um "xyston" (lança longa) e um "kopis" (espada curva), e usava uma couraça, ombreiras e capacete de bronze.[NEWLINE][NEWLINE]Em batalha, Alexandre geralmente segurava os Heteros até o inimigo estar totalmente envolvido com suas unidades de Falange. O próprio Alexandre então conduzia seus Heteros contra o flanco ou retaguarda do inimigo, semeando confusão e desânimo no exército inimigo. As forças opostas nunca encontraram uma resposta satisfatória para essa combinação, e com ela Alexandre conquistou a maior parte do mundo conhecido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_GALLEY_HEADING">
-			<Text>{TXT_KEY_UNIT_GALLEY}</Text>
+			<Text>Galé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_HEADING">
-			<Text>{TXT_KEY_UNIT_GREEK_HOPLITE}</Text>
+			<Text>Hoplita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_TEXT">
-			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados {TXT_KEY_UNIT_GREEK_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O {TXT_KEY_UNIT_GREEK_HOPLITE} era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os {TXT_KEY_UNIT_GREEK_HOPLITE[2]} eram adversários extremamente difíceis.</Text>
+			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados {TXT_KEY_UNIT_GREEK_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O Hoplita era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os {TXT_KEY_UNIT_GREEK_HOPLITE[2]} eram adversários extremamente difíceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_HEADING">
-			<Text>{TXT_KEY_UNIT_HORSEMAN}</Text>
+			<Text>Jinete</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_TEXT">
-			<Text>A primeira vez que usaram os cavalos em combate de forma eficaz foi para puxar carroças. Os nômades do Centro da Ásia já montavam cavalos em 2000 a.C., talvez até antes. Embora os cavaleiros já estivessem sendo usados como mensageiros e explorados, eles não se converteram em armas de guerra eficazes até o desenvolvimento dos estribos duplos combinada com uma sela de montar sólida (para distribuir o peso do cavaleiro quando ficava de pé sobre os estribos). A primeira combinação efetiva de estribos e sela foi encontrada na China, em torno de 300 d.C., e durante os próximos quatro séculos, se espalhou através da Ásia e Europa.[NEWLINE][NEWLINE]Os primeiros cavaleiros combatiam com lanças e espadas. Com o avançar da tecnologia, foram criados cavalos maiores e mais fortes, e os cavaleiros equipavam armas mais potentes e armaduras mais pesadas, culminando no clássico {TXT_KEY_UNIT_KNIGHT} da Era Medieval, o rei do campo de batalha medieval.</Text>
+			<Text>A primeira vez que usaram os cavalos em combate de forma eficaz foi para puxar carroças. Os nômades do Centro da Ásia já montavam cavalos em 2000 a.C., talvez até antes. Embora os cavaleiros já estivessem sendo usados como mensageiros e explorados, eles não se converteram em armas de guerra eficazes até o desenvolvimento dos estribos duplos combinada com uma sela de montar sólida (para distribuir o peso do cavaleiro quando ficava de pé sobre os estribos). A primeira combinação efetiva de estribos e sela foi encontrada na China, em torno de 300 d.C., e durante os próximos quatro séculos, se espalhou através da Ásia e Europa.[NEWLINE][NEWLINE]Os primeiros cavaleiros combatiam com lanças e espadas. Com o avançar da tecnologia, foram criados cavalos maiores e mais fortes, e os cavaleiros equipavam armas mais potentes e armaduras mais pesadas, culminando no clássico Cavaleiro da Era Medieval, o rei do campo de batalha medieval.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_IMMORTAL_HEADING">
-			<Text>{TXT_KEY_UNIT_PERSIAN_IMMORTAL}</Text>
+			<Text>Imortal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_IMMORTAL_TEXT">
 			<Text>Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} Persas eram um unidade de elite infantaria pesada. Formavam o coração do exército Persa (Aquemênida) e sua força contava sempre com 10.000 homens. Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} lutaram sob as ordens de Ciro, o Grande, Cambises e Dário, o Grande; quando não estavam em combate, eles agiam como Guarda do Palácio Persa. Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} estavam armados com lanças curtas, espadas e arcos. Usavam escudos leves e armaduras de escamas. De acordo com Heródoto, "Todos os seus homens brilhavam pelo ouro que levavam em quantidade ilimitada. Eles eram acompanhados de muitas carroças e nelas suas concubinas e uma grande companhia de criados, todos muito bem acomodados. Seu alimento, separado do resto do exército, era trazido para eles..."</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_INDIANWARELEPHANT_HEADING">
-			<Text>{TXT_KEY_UNIT_INDIAN_WARELEPHANT} Indiano</Text>
+			<Text>Elefante de Guerra Indiano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_INDIANWARELEPHANT_TEXT">
-			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT}, uma visão aterradora no campo de batalha e que alguns o consideram a primeira arma de destruição massiva, era tão perigoso para o inimigo quanto para o dono. Os Indianos usaram os elefantes em guerra até que a invenção da pólvora os deixou obsoletos. Na batalha pré-pólvora, o {TXT_KEY_UNIT_INDIAN_WARELEPHANT} servia a dois propósitos. Primeiro, seu odor aterrorizava os cavalos inutilizando a cavalaria inimiga. Segundo, eles podiam romper as linhas de infantaria mais fortes esmagando muros de lanças que nenhum cavalo poderia superar. Os elefantes eram muito difíceis de matar e a história fala de elefantes que sobreviveram a mais de 60 flechas. O principal problema dos elefantes era sua tendência a enlouquecer com a dor ou a fúria, e nesse momento eles se tornavam impossíveis de se controlar. Os peões de elefante levavam um ferrão e um bastão para matar o animal caso ataque suas próprias tropas.</Text>
+			<Text>O Elefante de Guerra, uma visão aterradora no campo de batalha e que alguns o consideram a primeira arma de destruição massiva, era tão perigoso para o inimigo quanto para o dono. Os Indianos usaram os elefantes em guerra até que a invenção da pólvora os deixou obsoletos. Na batalha pré-pólvora, o Elefante de Guerra servia a dois propósitos. Primeiro, seu odor aterrorizava os cavalos inutilizando a cavalaria inimiga. Segundo, eles podiam romper as linhas de infantaria mais fortes esmagando muros de lanças que nenhum cavalo poderia superar. Os elefantes eram muito difíceis de matar e a história fala de elefantes que sobreviveram a mais de 60 flechas. O principal problema dos elefantes era sua tendência a enlouquecer com a dor ou a fúria, e nesse momento eles se tornavam impossíveis de se controlar. Os peões de elefante levavam um ferrão e um bastão para matar o animal caso ataque suas próprias tropas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_JAGUAR_HEADING">
 			<Text>Jaguar</Text>
@@ -1445,7 +1445,7 @@
 			<Text>Os Guerreiros Mohawk Iroqueses estão entre as melhores infantarias leves que o mundo já conheceu. Surpreendentemente rápidos e flexíveis lutadores, os guerreiros Iroqueses eram capazes de cobrir grandes distâncias em pouco tempo, surpreendendo e subjugando os inimigos europeus, melhor armados e mais lentos. Com uma força armada que "nunca passou de 3.000 homens", eles resistiram quase dois séculos ante os Franceses, Britânicos e Americanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_HEADING">
-			<Text>{TXT_KEY_UNIT_SCOUT}</Text>
+			<Text>Batedor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_TEXT">
 			<Text>Os {TXT_KEY_UNIT_SCOUT[2]} foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
@@ -1457,13 +1457,13 @@
 			<Text>Os pioneiros impulsionaram a civilização. Enquanto a maioria se sente satisfeito com sua situação e se contenta em sobreviver, em todas as culturas há indivíduos audazes dispostos a arriscar tudo em busca de uma vida melhor para ele e seus filhos. No passado, foram os bravos colonos que levaram a humanidade até a África, Ásia, o Pacífico e as Américas. No futuro eles podem liderar o caminho até a lua, Mate e mais além.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SPEARMAN_HEADING">
-			<Text>{TXT_KEY_UNIT_SPEARMAN}</Text>
+			<Text>Lanceiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SPEARMAN_TEXT">
 			<Text>As primeiras lanças eram peças longas de madeira com pontas afiadas grosseiramente, que rapidamente se quebravam ou perdiam o fio com o uso. A lança não se tornou uma arma confiável até que alguém descobriu que podia endurecer a ponta queimando-a levemente no fogo. Com o tempo, passaram a empregar pontas de pedra e, claro, de metal. As lanças são armas bem fáceis de manejar, e sua fabricação é rápida e barata, e por isso formavam a espinha dorsal dos exércitos de muitas das primeiras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SWORDSMAN_HEADING">
-			<Text>{TXT_KEY_UNIT_SWORDSMAN}</Text>
+			<Text>Espadachim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SWORDSMAN_TEXT">
 			<Text>As primeiras espadas, que não eram mais do que adagas muito largas, apareceram na Idade do Bronze. Até o descobrimento da fundição do ferro (aproximadamente a 1200 a.C. na Europa) as espadas não foram armas de combate viáveis. As primeiras espadas eram curtas e afiadas, projetadas para apunhalar. Posteriores avanços na fundição do ferro possibilitaram espadas maiores, e até a Idade Média, a monstruosamente longa e pesada espada de duas mãos podiam atravessar as armaduras mais pesadas.</Text>
@@ -1475,7 +1475,7 @@
 			<Text>O Trirreme era um barco de guerra usado nas armadas da antiguidade no Mediterrâneo. Embora equipado com uma vela, em combate era alimentado por três fileiras de remos. Quando alimentados por remadores e motivados, os Trirremes eram surpreendentemente rápidos e ágeis. Os Trirremes eram geralmente equipados com um aríete afiado na proa, já que sua tática principal consistia em afundar o navio inimigo. Alguns Trirremes transportavam arqueiros para o combate a distância, enquanto outros levavam multidões de infantaria. Esses barcos se colocavam ao lado dos barcos inimigos para que a infantaria pudessem abordá-los e capturá-los. Os Trirremes conservaram sua importância nos mares até que o canhão e os avanços na fabricação de barcos e aparelhos os deixaram obsoletos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WARCHARIOT_HEADING">
-			<Text>{TXT_KEY_UNIT_EGYPT_WARCHARIOT}</Text>
+			<Text>Biga Egípcia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WARCHARIOT_TEXT">
 			<Text>Os Egípcios foram os primeiros mestres das bigas, veículos temidos por seus oponentes. Os Faraós muitas vezes participavam da batalha montados em suas bigas. Amenofis II afirmou que alcançou quatro alvos separados por 30 metros de distância de sua biga em movimento com tanta potência que suas flechas penetraram 7 centímetros de cobre. Como outras unidades da cavalaria, as bigas de guerra eram mortais contra os inimigos em retirada. Quando o inimigo foge, seu escudo não o protege, é vulnerável a flechas e pode ser esmagado pelas rodas de uma biga em movimento.</Text>
@@ -1487,7 +1487,7 @@
 			<Text>Nas civilizações primitivas não existia o "soldado profissional". Uma civilização jovem não pode manter um exército permanente; em momentos de crise, todos os homens capazes de uma civilização formam uma milícia provisional, e voltam para suas fazendas e aldeias em tempos de paz. Esses guerreiros contam com muito pouco treinamento e são equipados com armas primitivas - clavas, ou com sorte, punhais de pedra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_HEADING">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT}</Text>
+			<Text>Barco de Serviço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_TEXT">
 			<Text>O mar pode fornecer muito para uma civilização. Isto pode variar na forma de pescado até a energia das baleias ou do petróleo. Por toda a história da humanidade, homens e mulheres corajosos se adentraram nos mares para recolher seus tesouros. Sem dúvida, eles continuarão a fazer isso até o final dos tempos, "quando o mar entregar seus mortos".</Text>
@@ -1681,7 +1681,7 @@
 			<Text>O Banco é uma edificação do Renascimento que aumenta a produção de [ICON_GOLD] Ouro da cidade. Uma cidade deve possuir um Mercado ou um Bazar para poder construir um Banco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BANK_TEXT">
-			<Text>O {TXT_KEY_BUILDING_BANK} é uma instituição onde os cidadãos podem colocar o seu dinheiro para mantê-lo seguro. O banqueiro recolhe os depósitos e os empresta para outras pessoas, que pagam o dinheiro que foi emprestado, acrescido de uma taxa adicional (ou "juros"). O banqueiro entrega parte dos lucros aos depositantes e reinveste o restante. Para ter sucesso, um sistema bancário precisa de liquidez e leis que assegurem que a maioria dos mutuários vão pagar seus empréstimos, se possível.[NEWLINE][NEWLINE]Os bancos são autênticos motores do progresso de uma civilização. Se uma cidade precisa de algo - por exemplo, um {TXT_KEY_BUILDING_GRANARY} novo - um único cidadão poderia não ser capaz de pagar para construí-lo. No entanto, desde que contenha as economias de muitos cidadãos diferentes, o banco pode emprestar dinheiro ao construtor. Quando o {TXT_KEY_BUILDING_GRANARY} estiver construído, o construtor poderá devolver o empréstimo ao banco com o lucro e os cidadãos se beneficiarão do novo {TXT_KEY_BUILDING_GRANARY} (bem como do juros que conseguiram com seus depósitos).[NEWLINE][NEWLINE]Nos últimos anos, os {TXT_KEY_BUILDING_BANK[2]} europeus e dos Estados Unidos conquistaram uma má reputação, mas isso geralmente é porque muitos deles se interessaram em esquemas de investimentos arriscados ou porque fizeram empréstimos a pessoas claramente inadequadas. Um {TXT_KEY_BUILDING_BANK} bem gerido é uma dádiva para a comunidade, especialmente se estiver pobre.</Text>
+			<Text>O Banco é uma instituição onde os cidadãos podem colocar o seu dinheiro para mantê-lo seguro. O banqueiro recolhe os depósitos e os empresta para outras pessoas, que pagam o dinheiro que foi emprestado, acrescido de uma taxa adicional (ou "juros"). O banqueiro entrega parte dos lucros aos depositantes e reinveste o restante. Para ter sucesso, um sistema bancário precisa de liquidez e leis que assegurem que a maioria dos mutuários vão pagar seus empréstimos, se possível.[NEWLINE][NEWLINE]Os bancos são autênticos motores do progresso de uma civilização. Se uma cidade precisa de algo - por exemplo, um Silo novo - um único cidadão poderia não ser capaz de pagar para construí-lo. No entanto, desde que contenha as economias de muitos cidadãos diferentes, o banco pode emprestar dinheiro ao construtor. Quando o Silo estiver construído, o construtor poderá devolver o empréstimo ao banco com o lucro e os cidadãos se beneficiarão do novo Silo (bem como do juros que conseguiram com seus depósitos).[NEWLINE][NEWLINE]Nos últimos anos, os {TXT_KEY_BUILDING_BANK[2]} europeus e dos Estados Unidos conquistaram uma má reputação, mas isso geralmente é porque muitos deles se interessaram em esquemas de investimentos arriscados ou porque fizeram empréstimos a pessoas claramente inadequadas. Um Banco bem gerido é uma dádiva para a comunidade, especialmente se estiver pobre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BARRACKS_HEADING">
 			<Text>Quartéis</Text>
@@ -1723,10 +1723,10 @@
 			<Text>O Coliseu é uma edificação ao ar livre onde o público pode desfrutar de espetáculos desportivos. Dependendo do momento e lugar, os espetáculos poderiam ser lutas de gladiadores, partidas de Futebol Americano ou Futebol. Dos três mencionados, pode-se dizer que as batalhas de gladiadores eram as mais exigentes entre os participantes e, sem dúvida, as mais perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FACTORY_HEADING">
-			<Text>{TXT_KEY_BUILDING_FACTORY}</Text>
+			<Text>Fábrica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FACTORY_TEXT">
-			<Text>A {TXT_KEY_BUILDING_FACTORY} é uma edificação que utiliza técnicas da Era Industrial para construir coisas - carros, espartilhos, vigas de aço, varas de pesca etc. As fábricas começaram a aparecer em grande escala nos séculos 17 e 18, ainda que menos humanitárias, sua produtividade superava a das pequenas oficinas ou indústrias caseiras. Contrariando a crença popular, Henry Ford não inventou a linha de montagem; que foi criada somente no século 19, nas indústrias dos Estados Unidos de empacotamento de carne do meio oeste. Um sistema de cintas transportadoras levava as carcaças bovinas de um posto a outro e cada trabalhador tinha um tempo limitado para cortar sua porção pré-determinada de carne antes que fosse transportada para outro posto. O trabalho em uma fábrica de embalagem de carne é um dos mais sujos e perigosos da história norte americana, e as histórias dessa época continuam aterrorizando até os dias de hoje.</Text>
+			<Text>A Fábrica é uma edificação que utiliza técnicas da Era Industrial para construir coisas - carros, espartilhos, vigas de aço, varas de pesca etc. As fábricas começaram a aparecer em grande escala nos séculos 17 e 18, ainda que menos humanitárias, sua produtividade superava a das pequenas oficinas ou indústrias caseiras. Contrariando a crença popular, Henry Ford não inventou a linha de montagem; que foi criada somente no século 19, nas indústrias dos Estados Unidos de empacotamento de carne do meio oeste. Um sistema de cintas transportadoras levava as carcaças bovinas de um posto a outro e cada trabalhador tinha um tempo limitado para cortar sua porção pré-determinada de carne antes que fosse transportada para outro posto. O trabalho em uma fábrica de embalagem de carne é um dos mais sujos e perigosos da história norte americana, e as histórias dessa época continuam aterrorizando até os dias de hoje.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FLOATINGGARDENS_HEADING">
 			<Text>Jardins Flutuantes</Text>
@@ -1744,10 +1744,10 @@
 			<Text>O jardim é o local onde as plantas são cultivadas, tanto para alimentação, abrigo ou energia, ou como lugar de descanso e recreação. O plano de jardim mais antigo que se conhece é egípcio e remonta a 1400 a.C., mas praticamente todas as culturas - tanto antigas como modernas - criaram e celebraram o seus jardins. Os Japoneses criaram os sutis e belos jardins quase desde o princípio de sua história. O Templo de Ryoan-ji em Quito é famoso por seu jardim Zen, composto de 15 pedras dispostas sobre um leito de cascalho branco e cercado por muros baixos. Apesar de simples - e austero, talvez para algumas pessoas - o jardim inspirou e impressionou pessoas por séculos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANARY_HEADING">
-			<Text>{TXT_KEY_BUILDING_GRANARY}</Text>
+			<Text>Silo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANARY_TEXT">
-			<Text>O {TXT_KEY_BUILDING_GRANARY} é uma edificação desenhada para armazenar cereais para consumo por humanos ou animal (ou ambos). Os {TXT_KEY_BUILDING_GRANARY[2]} mais antigos foram descobertos em um assentamento Neolítico do Vale da Jordânia e datam aproximadamente de 9500 a.C. Estes primeiros {TXT_KEY_BUILDING_GRANARY[2]} mediam cerca de 3 metros quadrados. Eles possuíam o solo elevado, o que permitia a circulação do ar e oferecia certa proteção para o grão frente a ratos e outras ameaças.</Text>
+			<Text>O Silo é uma edificação desenhada para armazenar cereais para consumo por humanos ou animal (ou ambos). Os {TXT_KEY_BUILDING_GRANARY[2]} mais antigos foram descobertos em um assentamento Neolítico do Vale da Jordânia e datam aproximadamente de 9500 a.C. Estes primeiros {TXT_KEY_BUILDING_GRANARY[2]} mediam cerca de 3 metros quadrados. Eles possuíam o solo elevado, o que permitia a circulação do ar e oferecia certa proteção para o grão frente a ratos e outras ameaças.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HARBOR_HEADING">
 			<Text>Ancoradouro</Text>
@@ -1888,10 +1888,10 @@
 			<Text>Fábrica de Naves</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STABLE_HEADING">
-			<Text>{TXT_KEY_BUILDING_STABLE}</Text>
+			<Text>Estábulo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STABLE_TEXT">
-			<Text>No Civilization V, um {TXT_KEY_BUILDING_STABLE} é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os {TXT_KEY_BUILDING_STABLE[2]} e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
+			<Text>No Civilization V, um Estábulo é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os {TXT_KEY_BUILDING_STABLE[2]} e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STADIUM_HEADING">
 			<Text>Estádio</Text>
@@ -2751,7 +2751,7 @@
 			<Text>Os "Grandes Mercadores" fornecem os bens e os serviços que as civilizações precisam para sobreviver. Eles importam alimentos, remédios e luxos, e eles exportam produtos manufaturados de uma civilização. Eles fornecem o financiamento necessário para grandes obras serem executadas. Eles criam a riqueza de uma civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREATPEOPLE_HEADING">
-			<Text>Grandes Personalidades</Text>
+			<Text>Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREATPEOPLE_TEXT">
 			<Text>Ao longo da história, houve extraordinários homens e mulheres que alteraram o destino de suas civilizações. Arquimedes, Copérnico, Marco Polo, Robert E. Lee: estes são os grandes artistas, cientistas, comerciantes, generais e engenheiros que mudaram o mundo - para o bem ou para o mal.</Text>
@@ -2998,7 +2998,7 @@
 			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
-			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}, você deve construir um {TXT_KEY_UNIT_WORK_BOAT} em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constroem {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}, você deve construir um Barco de Serviço em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constroem {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3364,7 +3364,7 @@
 			<Text>Esses tubos atiram projéteis no ar. Após chegarem a certa altura, os projéteis explodem, enviando uma bola de estilhaços mortais na aeronave inimiga. Armas Antiaéreas são bastante vulneráveis a ataques terrestres: se deixá-las desprotegidas, elas podem ser facilmente destruídas por uma infantaria inimiga ou unidade armada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ANTITANKGUN_HEADING">
-			<Text>{TXT_KEY_UNIT_AT_GUN}</Text>
+			<Text>Arma Antitanque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ANTITANKGUN_TEXT">
 			<Text>{TXT_KEY_UNIT_AT_GUN[2]} são, sem surpresa, unidades de artilharia especialmente destinadas a destruir tanques inimigos. Essas armas atendem à necessidade de mobilidade, seja auto impulsionadas ou facilmente carregadas por caminhões ou outro equipamento pesado. Elas atiram projéteis especiais, criados para penetrar a blindagem inimiga. {TXT_KEY_UNIT_AT_GUN[2]} são bastante vulneráveis a ataques de infantaria inimiga e, portanto, devem ser apoiadas por unidades anti-infantaria se o inimigo chegar muito próximo.</Text>
@@ -3448,10 +3448,10 @@
 			<Text>Submarinos pré-nucleares foram empregados principalmente como piratas de comércio, buscando afundar os navios mercantes do inimigo e cortar sua cadeia de suprimentos. Submarinos da Segunda Guerra Mundial eram geralmente equipados com tubos de torpedo na frente e na traseira e talvez uma pequena arma no convés, capaz de afundar um navio mercante - se ninguém estivesse atirando de volta.[NEWLINE][NEWLINE]Exceto em casos raros, submarinos não procuravam por navios de guerra inimigos. O trabalho do submarino era afundar embarcações mercantes e depois escapar antes que os navios de guerra inimigos ou aeronaves pudessem encontrá-lo. Em encontros com Contratorpedeiros, submarinos geralmente levavam o pior. Nas duas Guerras Mundiais, os "U-boats" Alemães chegaram perigosamente perto de fazerem o Reino Unido passar fome, afundando 11 milhões de toneladas de transporte na Primeira Guerra Mundial e 14 milhões de toneladas na Segunda Guerra Mundial, a um custo de cerca de 1.000 "U-boats" afundados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_TANK_HEADING">
-			<Text>{TXT_KEY_UNIT_TANK}</Text>
+			<Text>Tanque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_TANK_TEXT">
-			<Text>Um {TXT_KEY_UNIT_TANK} fornece o poder de parada da artilharia com a mobilidade da cavalaria. Os {TXT_KEY_UNIT_TANK[2]} apareceram pela primeira vez no final da Primeira Guerra Mundial, inventados para ultrapassar a superioridade da guerra defensiva da época: com metralhadoras, arame farpado e trincheiras, os ataques de infantaria de massa eram fracassos onerosos, e ataques de cavalaria não eram para qualquer um. Embora mal planejados e atormentados por problemas no motor e tripulantes inexperientes, os primeiros {TXT_KEY_UNIT_TANK[2]} mostraram grande potencial - pelo menos para aqueles que prestavam atenção. Na Segunda Guerra Mundial, os Alemães empregaram o "blitzkrieg" - assaltos-relâmpagos liderados por frotas de {TXT_KEY_UNIT_TANK[2]} - com efeito extraordinário, conquistando a França e levando o exército Britânico diretamente para fora do continente, antes que seus generais conseguissem descobrir uma resposta à nova e surpreendente tática. Embora os {TXT_KEY_UNIT_TANK[2]} permaneçam ainda hoje o componente mais importante da ofensiva de um exército terrestre, eles têm provado ser bastante vulneráveis a uma nova arma ainda mais rápida: o helicóptero.</Text>
+			<Text>Um Tanque fornece o poder de parada da artilharia com a mobilidade da cavalaria. Os {TXT_KEY_UNIT_TANK[2]} apareceram pela primeira vez no final da Primeira Guerra Mundial, inventados para ultrapassar a superioridade da guerra defensiva da época: com metralhadoras, arame farpado e trincheiras, os ataques de infantaria de massa eram fracassos onerosos, e ataques de cavalaria não eram para qualquer um. Embora mal planejados e atormentados por problemas no motor e tripulantes inexperientes, os primeiros {TXT_KEY_UNIT_TANK[2]} mostraram grande potencial - pelo menos para aqueles que prestavam atenção. Na Segunda Guerra Mundial, os Alemães empregaram o "blitzkrieg" - assaltos-relâmpagos liderados por frotas de {TXT_KEY_UNIT_TANK[2]} - com efeito extraordinário, conquistando a França e levando o exército Britânico diretamente para fora do continente, antes que seus generais conseguissem descobrir uma resposta à nova e surpreendente tática. Embora os {TXT_KEY_UNIT_TANK[2]} permaneçam ainda hoje o componente mais importante da ofensiva de um exército terrestre, eles têm provado ser bastante vulneráveis a uma nova arma ainda mais rápida: o helicóptero.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ZERO_HEADING">
 			<Text>Zero</Text>
@@ -4678,7 +4678,7 @@
 			<Text>Recursos são fontes de alimento, produtividade, cultura ou outros bônus especiais, todos úteis a uma civilização. Em uma análise mais ampla, a riqueza e o poder de sua civilização serão determinados pelo número e tipo de recursos que você controla. Para utilizar um recurso, ele deve estar dentro das fronteiras de sua civilização e você deve construir a "Melhoria" apropriada no hexágono (por exemplo: você deve construir a melhoria "Plantação" para receber os benefícios de um recurso "Banana"). Há três diferentes tipos de recursos: bônus, estratégicos e de luxo. Todos oferecem benefícios de rendimento às cidades próximas e recursos de luxo e estratégicos possuem benefícios adicionais importantes (veja abaixo). Embora você não tenha acesso a todo o tipo de recurso dentro de suas fronteiras, você pode negociá-los com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE1_TEXT">
-			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "{TXT_KEY_TECH_ANIMAL_HUSBANDRY}" e Ferro não aparece até que você aprenda a tecnologia "{TXT_KEY_TECH_IRON_WORKING}".</Text>
+			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "Domesticação de Animais" e Ferro não aparece até que você aprenda a tecnologia "Ferro".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE2_TEXT">
 			<Text>Há três tipos de recursos em Civilization V:</Text>
@@ -4690,7 +4690,7 @@
 			<Text>Recursos de Luxo aumentam a felicidade de sua civilização e oferecem um pequeno bônus à [ICON_PRODUCTION] Produção do hexágono. Apenas uma fonte de recurso de luxo específico fornece um bônus de felicidade. Múltiplas fontes do mesmo recurso não aumentam ainda mais a felicidade de uma civilização (entretanto, eles ainda são valiosos, já que podem ser negociados com outras civilizações). No entanto, você recebe mais bônus de felicidade para cada tipo de recurso de luxo que você possua. Em outras palavras, se sua civilização possui 1 ou 2 fontes de Seda, você recebe o mesmo bônus de felicidade, mas você dobraria o bônus se você negociar a segunda Seda com outra civilização em troca de açúcar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE5_TEXT">
-			<Text>Recursos Estratégicos permitem você produzir certas unidades e edificações. Quando você constrói uma Melhoria em um hexágono com Recurso Estratégico, ela fornece uma quantidade limitada daquele recurso e eles são consumidos quando você produz as unidades ou edificações associadas (por exemplo: você usa um recurso de Ferro para produzir um {TXT_KEY_UNIT_SWORDSMAN}. Se você não possuir Ferro disponível, você não poderá produzir a unidade). O recurso se torna disponível novamente se a unidade ou edificação for destruída. Você pode negociar Recursos Estratégicos com outras civilizações. Você também pode ver a quantidade de cada Recurso Estratégico que você tem disponível no topo da tela principal.</Text>
+			<Text>Recursos Estratégicos permitem você produzir certas unidades e edificações. Quando você constrói uma Melhoria em um hexágono com Recurso Estratégico, ela fornece uma quantidade limitada daquele recurso e eles são consumidos quando você produz as unidades ou edificações associadas (por exemplo: você usa um recurso de Ferro para produzir um Espadachim. Se você não possuir Ferro disponível, você não poderá produzir a unidade). O recurso se torna disponível novamente se a unidade ou edificação for destruída. Você pode negociar Recursos Estratégicos com outras civilizações. Você também pode ver a quantidade de cada Recurso Estratégico que você tem disponível no topo da tela principal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RIODEJANEIRO_TEXT">
 			<Text>Os primeiros exploradores chegaram ao Rio de Janeiro em 1502 d.C., que na época era habitado por quatro diferentes grupos de povos indígenas. Um pequeno povoado fortificado foi erguido no local, tanto para lidar com os nativos quanto para se defender de ataques de piratas Franceses. Em 1º de março de 1565, a cidade foi oficialmente fundada. A terra fértil em torno da cidade foi plantada com cana de açúcar e no início forneceu toda a renda da cidade. A pequena cidade cresceu para cerca de 8.000 pessoas em 1700, mas dois terços dessas eram provavelmente escravos.[NEWLINE][NEWLINE]Nesta época, minas de ouro e diamantes foram encontrados nos montes vizinhos, gerando um grande fluxo de riqueza e imigrantes. A cidade triplicou de tamanho e a capital da colônia foi transferida para o Rio de Janeiro em 1763. O Rio continuou a crescer descontroladamente e a cidade espalhou para além de suas muralhas. Grandes aquedutos romanos também foram construídos nessa época, cujas ruínas ainda estão na cidade. No entanto, no final do século, as minas começaram a secar e a América Central entrou na economia mundial com um mercado forte de açúcar próprio, sendo que ambos colocaram o Rio em uma posição precária. As exportações caíram em mais da metade do que eram em 1796.[NEWLINE][NEWLINE]O café salvou o dia para Rio de Janeiro. Em 1808, a família real Portuguesa ordenou a cultura do grão e recolonizaram o Brasil, trazendo uma nova prosperidade à colônia. A expansão das plantações de café deu origem a uma nova onda de melhorias na cidade, e casarões foram construídos, ruas foram pavimentadas e muitas escolas acadêmicas foram fundadas.[NEWLINE][NEWLINE]Em 1822, o príncipe Dom Pedro I proclamou a independência do Brasil e nomeou o Rio de Janeiro como a capital do novo império. Quando o país substituiu a monarquia pela república, em 1889, manteve o Rio como a capital. O Rio foi posteriormente transformado em uma cidade moderna, no início de 1900 suas ruas foram alargadas, condições de saúde de sua população foram melhoradas e os pântanos ao redor foram drenados e recuperados para estaleiros que seriam construídos futuramente. Em 1960, a capital foi transferida para a cidade recém-construída de Brasília e o crescimento do Rio finalmente começou a diminuir.[NEWLINE][NEWLINE]O Rio de Janeiro é famoso mundialmente por suas celebrações de carnaval, a invenção do samba, o Cristo Redentor (uma maravilha moderna do mundo) e suas praias. Infelizmente a cidade também é famosa por sua criminalidade e tem a honra duvidosa de ser uma das cidades mais violentas do mundo. Apesar disso, continua a atrair milhões de turistas todos os anos que vêm para provar do seu charme, beleza e espírito descontraído.</Text>
@@ -6466,10 +6466,10 @@
 			<Text>Câmara Criogênica Espacial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CAMELARCHER_HEADING">
-			<Text>{TXT_KEY_UNIT_ARABIAN_CAMELARCHER} (Arábia)</Text>
+			<Text>Arqueiro em Camelo (Arábia)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CAMELARCHER_TEXT">
-			<Text>Alguns cavaleiros muçulmanos montavam camelos para a batalha. Isso muitas vezes teve um efeito perturbador sobre europeus que utilizavam cavalos e que não haviam encontrado essas bestas incomuns. Como seria de esperar, os camelos são melhores adaptados ao terreno desértico que os cavalos. Geralmente, os arqueiros que ficam nos camelos empregam táticas de bater e correr contra o inimigo, mais parecido com arqueiros montados Mongóis que cavaleiros ou unidades de cavalaria pesadas. Uma unidade {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} bem treinada pode ser extremamente difícil para os cavaleiros lidarem, se esses cavaleiros não estiverem protegidos por arqueiros ou sua própria cavalaria leve.</Text>
+			<Text>Alguns cavaleiros muçulmanos montavam camelos para a batalha. Isso muitas vezes teve um efeito perturbador sobre europeus que utilizavam cavalos e que não haviam encontrado essas bestas incomuns. Como seria de esperar, os camelos são melhores adaptados ao terreno desértico que os cavalos. Geralmente, os arqueiros que ficam nos camelos empregam táticas de bater e correr contra o inimigo, mais parecido com arqueiros montados Mongóis que cavaleiros ou unidades de cavalaria pesadas. Uma unidade Arqueiro em Camelo bem treinada pode ser extremamente difícil para os cavaleiros lidarem, se esses cavaleiros não estiverem protegidos por arqueiros ou sua própria cavalaria leve.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CARAVEL_HEADING">
 			<Text>Caravela</Text>
@@ -6496,13 +6496,13 @@
 			<Text>Janízaros eram membros de um corpo de elite do exército do Império Otomano. Criados no final do século XIV, os Janízaros originais eram jovens cristãos (muitas vezes escravos dos Bálcãs) que se converteram ao Islã e, em seguida, convocados para o exército Otomano. Os Janízaros originais foram forçados a permanecerem celibatários (o que pode ajudar a explicar seu espírito de luta feroz), mas isto acabou por ser esquecido. Conforme os anos passaram, os Janízaros ganharam enorme influência política no Império, planejando frequentes golpes no palácio nos séculos XVII e XVIII. Mas, à medida que sua influência crescia, eles se tornaram teimosos, recusando-se a atualizar suas armas e táticas para manter o ritmo com o resto do mundo. Em 1826, eles foram forçados a se dissolver e foram substituídos pela tropa Otomana mais moderna.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_KNIGHT_HEADING">
-			<Text>{TXT_KEY_UNIT_KNIGHT}</Text>
+			<Text>Cavaleiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_KNIGHT_TEXT">
-			<Text>Quase sempre constituídos da nobreza de uma nação - as únicas pessoas que podiam arcar com os equipamentos, cavalos e treinamento extensivo requerido - os {TXT_KEY_UNIT_KNIGHT[2]} eram a cavalaria pesada do exército medieval. Durante grande parte da Idade Média {TXT_KEY_UNIT_KNIGHT[2]} dominaram o campo de batalha. Sua armadura superior dava uma boa proteção contra flechas e lanças e sua grande mobilidade fez deles capazes de explorar a fraqueza de um inimigo em qualquer lugar no campo de batalha. Apenas alguém com muita coragem encarava um {TXT_KEY_UNIT_KNIGHT}. Uma parede de {TXT_KEY_UNIT_PIKEMAN[2]} pode ser uma barreira para os {TXT_KEY_UNIT_KNIGHT[2]}, mas apenas se eles tivessem a disciplina e a coragem para ficarem parados. Se eles vacilassem, estariam mortos.</Text>
+			<Text>Quase sempre constituídos da nobreza de uma nação - as únicas pessoas que podiam arcar com os equipamentos, cavalos e treinamento extensivo requerido - os {TXT_KEY_UNIT_KNIGHT[2]} eram a cavalaria pesada do exército medieval. Durante grande parte da Idade Média {TXT_KEY_UNIT_KNIGHT[2]} dominaram o campo de batalha. Sua armadura superior dava uma boa proteção contra flechas e lanças e sua grande mobilidade fez deles capazes de explorar a fraqueza de um inimigo em qualquer lugar no campo de batalha. Apenas alguém com muita coragem encarava um Cavaleiro. Uma parede de {TXT_KEY_UNIT_PIKEMAN[2]} pode ser uma barreira para os {TXT_KEY_UNIT_KNIGHT[2]}, mas apenas se eles tivessem a disciplina e a coragem para ficarem parados. Se eles vacilassem, estariam mortos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LANDSKNECHT_HEADING">
-			<Text>{TXT_KEY_UNIT_GERMAN_LANDSKNECHT} (Alemanha)</Text>
+			<Text>Lansquenete (Alemanha)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LANDSKNECHT_TEXT">
 			<Text>Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} eram {TXT_KEY_UNIT_PIKEMAN[2]} mercenários Alemães do século XVI. Criados em imitação aos lendários {TXT_KEY_UNIT_PIKEMAN[2]} mercenários Suíços, os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} acabariam por superá-los como a melhor infantaria de mercenários disponíveis na Europa, lutando em quase todas as grandes batalhas no século XVI - muitas vezes em ambos os lados. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} batalhavam geralmente a uma lança de 20 pés de comprimento. Alguns também carregavam enormes espadas de duas mãos ou alabardas, que foram usadas para cortar as cabeças das lanças de seus oponentes.</Text>
@@ -6514,7 +6514,7 @@
 			<Text>O arco longo Inglês foi desenvolvido durante o século XII, à medida que os Ingleses estavam lutando para conquistar o País de Gales. O arco longo era feito de teixo ou olmo e era 5-7 pés de altura (dependendo da altura e da força do usuário). O arco longo era extremamente difícil de dominar, mas Arqueiros de Arco Longo Ingleses bem treinados podiam atirar mais longe, mais rápido e com mais precisão que os Besteiros da época. Mas isso exigia anos de treinamento. Como a população do país cresceu, as pradarias Inglesas foram transformadas em terras agrícolas. Oportunidades para a caça desapareceram e os pequenos proprietários rurais Ingleses se tornaram menos capazes com arco e flecha. Isso, mais até do que o advento da pólvora, levou ao declínio do arco longo Inglês.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGSWORDSMAN_HEADING">
-			<Text>{TXT_KEY_UNIT_LONGSWORDSMAN} (Inglaterra)</Text>
+			<Text>Grande Espadachim (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGSWORDSMAN_TEXT">
 			<Text>A espada longa era a arma mais versátil do campo de batalha Medieval/Renascentista. Era mais leve e mais fácil de transportar que um pique e ela poderia ser usada com uma ou duas mãos, tornando possível para o espadachim também carregar um escudo. Em ataques corpo a corpo contra os {TXT_KEY_UNIT_PIKEMAN[2]}, os {TXT_KEY_UNIT_LONGSWORDSMAN[2]} estavam em desvantagem significativa, sendo vítimas das armas de maior alcance. No entanto, as unidades de espada longa eram mais rápidas e mais manobráveis que {TXT_KEY_UNIT_PIKEMAN[2]} - e se eles conseguissem chegar aos seus oponentes pelos flancos, os {TXT_KEY_UNIT_PIKEMAN[2]} estariam perdidos.</Text>
@@ -6535,19 +6535,19 @@
 			<Text>Mosquete</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSKETMAN_TEXT">
-			<Text>O Mosquete é uma tipo de espingarda de pederneira, carregada pela boca, de cano longo, que é disparada a partir do ombro. Mosquetes eram mais leves e mais precisos que a arma de fogo militar anterior, o arcabuz, e por volta do século XVIII tinham aparecido na maioria dos campos de batalha europeus. Com a adição de uma baioneta, o Mosquete se tornou uma arma de combate de proximidade bem utilizada, tornando o {TXT_KEY_UNIT_PIKEMAN} obsoleto. O "Brown Bess" do exército Britânico foi o típico Mosquete, em serviço de 1722 até 1838; ele foi usado por ambos os lados na Revolução Americana.</Text>
+			<Text>O Mosquete é uma tipo de espingarda de pederneira, carregada pela boca, de cano longo, que é disparada a partir do ombro. Mosquetes eram mais leves e mais precisos que a arma de fogo militar anterior, o arcabuz, e por volta do século XVIII tinham aparecido na maioria dos campos de batalha europeus. Com a adição de uma baioneta, o Mosquete se tornou uma arma de combate de proximidade bem utilizada, tornando o Piqueiro obsoleto. O "Brown Bess" do exército Britânico foi o típico Mosquete, em serviço de 1722 até 1838; ele foi usado por ambos os lados na Revolução Americana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_HEADING">
-			<Text>{TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} (Songai)</Text>
+			<Text>Cavalaria Mandekalu (Songai)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_TEXT">
 			<Text>Como seus equivalentes do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos {TXT_KEY_UNIT_KNIGHT[2]} europeus. Como os europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários europeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_PIKEMAN_HEADING">
-			<Text>{TXT_KEY_UNIT_PIKEMAN}</Text>
+			<Text>Piqueiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_PIKEMAN_TEXT">
-			<Text>Um {TXT_KEY_UNIT_PIKEMAN} é um {TXT_KEY_UNIT_SPEARMAN} melhor armado e melhor treinado, com uma lança mais longa e afiada. Diferente da lança mais curta e leve, um pique é quase sempre usado com as duas mãos. Historicamente, o {TXT_KEY_UNIT_PIKEMAN} era mais efetivo no combate contra cavalaria e infantaria, mas como não possuía escudos era bem vulnerável aos arqueiros.</Text>
+			<Text>Um Piqueiro é um Lanceiro melhor armado e melhor treinado, com uma lança mais longa e afiada. Diferente da lança mais curta e leve, um pique é quase sempre usado com as duas mãos. Historicamente, o Piqueiro era mais efetivo no combate contra cavalaria e infantaria, mas como não possuía escudos era bem vulnerável aos arqueiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_SAMURAI_HEADING">
 			<Text>Samurai (Japão)</Text>
@@ -6556,7 +6556,7 @@
 			<Text>Os Samurais Japoneses eram indiscutivelmente os melhores guerreiros "pré-pólvora", desde as legiões Romanas. Emergentes no século XII, os Samurais eram uma classe guerreira que seguia um juramento chamado de código Bushido, que defendia a bravura, honra e lealdade acima da própria vida. Os Samurais geralmente usavam duas espadas, a katana, que possuía gume único, e o wakizashi, mais curto, este último usado no ritual "seppuku" (suicídio). Estas espadas eram muito superiores comparadas às espadas longas ocidentais, já que os Japoneses dominaram a arte de combinar o aço. Alguns também utilizaram arco ou lança e, depois, armas de fogo. Dependendo da época (e da riqueza e status do samurai), um samurai poderia usar pano acolchoado, envernizado ou armadura de metal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_SIAMESEWARELEPHANT_HEADING">
-			<Text>{TXT_KEY_UNIT_SIAMESE_WARELEPHANT} (Sião)</Text>
+			<Text>Elefante de Naresuan (Sião)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_SIAMESEWARELEPHANT_TEXT">
 			<Text>No Sudeste Asiático os elefantes continuaram a ser empregados na guerra até a Idade Média. Em Sião, particularmente, elefantes de guerra eram muito valorizados e os líderes muitas vezes lutavam sobre deles. Em 1593, uma guerra entre a Birmânia e o Sião terminou em uma vitória Siamesa, quando o rei Siamês Naresuan matou o Birmanês, o príncipe herdeiro Minchit Sra, em um único combate sobre elefantes.</Text>
@@ -6598,10 +6598,10 @@
 			<Text>Como a velocidade da batalha aumentou, com o advento de veículos blindados, artilharia e, claro, força aérea, a infantaria moderna também teve que ficar mais rápida e mais manobrável. Unidades de infantaria mais modernas são agora "mecanizadas", que se deslocam sobre o campo de batalha em veículos blindados. Estes veículos são geralmente equipados com uma ou mais metralhadoras e lançadores de granadas. Elas não são fortes o suficiente para resistir ao Tanque Moderno, mas elas possuem proteção contra balas e estilhaços e outras ameaças aos que estão dentro do campo de batalha. Dependendo da situação, os soldados podem lutar de dentro do veículo ou desmontar e prosseguir a pé, à maneira tradicional de soldados de infantaria desde o início da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MISSLECRUISER_HEADING">
-			<Text>Cruzador de Mísseis Guiados</Text>
+			<Text>Cruzador de Mísseis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MISSLECRUISER_TEXT">
-			<Text>Um Cruzador de Mísseis Guiados é, com exceção do Porta-Aviões e do Submarino Nuclear, a mais poderosa arma no estaleiro moderno. Projetado para transportar e posicionar os mísseis enormemente poderosos, precisos e de longo alcance, os Cruzadores de Mísseis muitas vezes podem atacar e destruir o inimigo em terra ou mar, muito antes de o inimigo sequer saber que o Cruzador estava posicionado. O Cruzador Americano da classe Ticonderoga é sem dúvida o mais poderoso navio a flutuar, armado com 122 tubos de lançamento que pode transportar uma grande variedade de mísseis terra-terra, terra-ar e até mesmo antissubmarino. Também é equipado com uma variedade de armas de fogo no estilo Gatling antiaeronaves, capaz de destruir mísseis inimigos e de aeronaves de curto alcance.</Text>
+			<Text>Um Cruzador de Mísseis é, com exceção do Porta-Aviões e do Submarino Nuclear, a mais poderosa arma no estaleiro moderno. Projetado para transportar e posicionar os mísseis enormemente poderosos, precisos e de longo alcance, os Cruzadores de Mísseis muitas vezes podem atacar e destruir o inimigo em terra ou mar, muito antes de o inimigo sequer saber que o Cruzador estava posicionado. O Cruzador Americano da classe Ticonderoga é sem dúvida o mais poderoso navio a flutuar, armado com 122 tubos de lançamento que pode transportar uma grande variedade de mísseis terra-terra, terra-ar e até mesmo antissubmarino. Também é equipado com uma variedade de armas de fogo no estilo Gatling antiaeronaves, capaz de destruir mísseis inimigos e de aeronaves de curto alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MOBILEROCKETARTILLERY_HEADING">
 			<Text>Artilharia Móvel de Foguetes</Text>
@@ -6646,13 +6646,13 @@
 			<Text>Um Canhão é uma grande arma tubular que usa pólvora ou outro explosivo para enviar um projétil a uma longa distância em alta velocidade. Originalmente inventado na China no século XII. Os Mongóis eram inicialmente os usuários únicos do canhão, usando-o com grande efeito na China e na Coreia. É bem provável que os Mongóis tenham introduzido o canhão para o mundo Islâmico, e que os europeus tenham aprendido com eles. Os primeiros canhões eram enormes, e muitas vezes perigosos, explodindo quando disparados, tornando-os uma ameaça para os seus usuários e alvos. Mas na Renascença a qualidade de fundição do metal tinha avançado o suficiente para criar armas menores e bem mais confiáveis, que poderiam ser levadas para a batalha por equipes de cavalos ou montadas a bordo de navios.[NEWLINE][NEWLINE]O rei Gustavus Adolphus, da Suécia, revolucionou o uso de artilharia de campo, empregando um grande número de peças menores e mais leves que as grandes e perigosas armas pesadas inimigas. Ele também foi pioneiro no uso da metralha contra a infantaria, pelas as quais soldados em todos os lugares, provavelmente, amaldiçoaram o seu nome.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CAVALRY_HEADING">
-			<Text>{TXT_KEY_UNIT_CAVALRY}</Text>
+			<Text>Cavalaria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CAVALRY_TEXT">
-			<Text>No final do século IX, cavaleiros europeus e americanos estavam armados com rifles de repetição de pequeno porte, armas confiáveis, carregando 5-15 projéteis que eram precisos até 500 metros, bem como pistolas e espadas. Por seu equipamento ser muito mais leve que os pesados {TXT_KEY_UNIT_LANCER[2]} e {TXT_KEY_UNIT_KNIGHT[2]}, eles foram muito mais rápido e poderia ir mais longe do que seus antecessores. Enquanto a carga da cavalaria ainda poderia ocorrer sob condições muito favoráveis, a maior precisão da infantaria e a taxa de disparo crescente fizeram as manobras desta unidade extremamente perigosas. Ao se deparar com unidades de infantaria, a {TXT_KEY_UNIT_CAVALRY} geralmente desmonta para lutar, com um soldado segurando quatro cavalos a distância enquanto seus três companheiros trocam tiros com o inimigo.</Text>
+			<Text>No final do século IX, cavaleiros europeus e americanos estavam armados com rifles de repetição de pequeno porte, armas confiáveis, carregando 5-15 projéteis que eram precisos até 500 metros, bem como pistolas e espadas. Por seu equipamento ser muito mais leve que os pesados {TXT_KEY_UNIT_LANCER[2]} e {TXT_KEY_UNIT_KNIGHT[2]}, eles foram muito mais rápido e poderia ir mais longe do que seus antecessores. Enquanto a carga da cavalaria ainda poderia ocorrer sob condições muito favoráveis, a maior precisão da infantaria e a taxa de disparo crescente fizeram as manobras desta unidade extremamente perigosas. Ao se deparar com unidades de infantaria, a Cavalaria geralmente desmonta para lutar, com um soldado segurando quatro cavalos a distância enquanto seus três companheiros trocam tiros com o inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COSSACK_HEADING">
-			<Text>{TXT_KEY_UNIT_RUSSIAN_COSSACK} (Rússia)</Text>
+			<Text>Cossaco (Rússia)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COSSACK_TEXT">
 			<Text>Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} eram comunidades militares que viviam nas florestas da Ucrânia e da Rússia. Originalmente, o termo se referia especificamente à tribo Tártara, mas até o final do século XV era também usado para se referir a um número de camponeses que haviam fugido da servidão na Polônia, Lituânia e Moscou e estabelecido casas em estado selvagem. Alguns dos maiores cavaleiros naturais desde os Mongóis, os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} serviram no exército Russo em troca de privilégios especiais para si e para suas comunidades. Os militares Russos empregaram a cavalaria Cossaca em todos os seus principais conflitos externos e internos até o éculo XX, e as unidades de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} lutaram em ambos os lados durante a Guerra Civil Russa. Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} foram todos eliminados, mas sob o Stalinismo, no entanto, alguns sobreviventes estão tentando recuperar o seu patrimônio na sequência do colapso da União Soviética.</Text>
@@ -6670,10 +6670,10 @@
 			<Text>Embora visionários tivessem sonhado com navios blindados de propulsão mecânica já em Leonardo da Vinci, os Couraçados foram usados primeiramente na guerra Civil Americana em meados do século IX. A primeira batalha entre Couraçados também foi na Guerra Civil Americana em 1862, entre o Monitor da União e o Virgínia da Confederação (também conhecido como o "Merrimac"). A batalha durou quatro horas, com canhões de ambos os navios "martelando" um para ao outro com pouco efeito, e a luta praticamente terminou em um empate. No entanto, o efeito da batalha no mundo foi profundo. Em uma única manhã de inconclusiva luta, esses vasos pesados e desajeitados - capazes de se moverem contra o vento e, principalmente, blindados contra os canhões de guerra - tornaram as marinhas das nações obsoletas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_LANCER_HEADING">
-			<Text>{TXT_KEY_UNIT_LANCER}</Text>
+			<Text>Lanceiro Montado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_LANCER_TEXT">
-			<Text>{TXT_KEY_UNIT_LANCER[2]} foram os cavaleiros da Renascença. Em uma época de crescente utilização de canhões e outras armas de pólvora, velocidade baseada em manobrabilidade estava cada vez mais inútil contra as armas de projéteis modernos, de modo que os {TXT_KEY_UNIT_LANCER[2]} abandonaram a maior parte de sua armadura de chapas grossas de seus antecessores cavaleiros, mantendo apenas o metal peitoral. Mesmo com armas melhoradas, a lança se tornou uma arma terrivelmente eficaz nas mãos dos cavaleiros treinados. Tão tarde quanto as Guerras Napoleônicas, os Franceses acreditavam que o {TXT_KEY_UNIT_LANCER} era uma arma de cavalaria superior à espada. No século IX os dois seriam suplantados pela espingarda a carabina.</Text>
+			<Text>{TXT_KEY_UNIT_LANCER[2]} foram os cavaleiros da Renascença. Em uma época de crescente utilização de canhões e outras armas de pólvora, velocidade baseada em manobrabilidade estava cada vez mais inútil contra as armas de projéteis modernos, de modo que os {TXT_KEY_UNIT_LANCER[2]} abandonaram a maior parte de sua armadura de chapas grossas de seus antecessores cavaleiros, mantendo apenas o metal peitoral. Mesmo com armas melhoradas, a lança se tornou uma arma terrivelmente eficaz nas mãos dos cavaleiros treinados. Tão tarde quanto as Guerras Napoleônicas, os Franceses acreditavam que o Lanceiro Montado era uma arma de cavalaria superior à espada. No século IX os dois seriam suplantados pela espingarda a carabina.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_RIFLEMEN_HEADING">
 			<Text>Fuzileiros</Text>
@@ -6682,13 +6682,13 @@
 			<Text>Um rifle é uma arma de fogo projetado para ser disparado do ombro. O interior do tambor tem ranhuras projetadas para girar o projétil, uma vez que é acionado, dando-lhe grande faixa e precisão do que um projétil sem ranhuras. As primeiras tentativas de frentes armadas com rifles na Europa ocorreram no século XV, mas as dificuldades na sua produção mantiveram seu uso restrito até o dia 19. Atiradores Britânicos e Americanos e escudeiros foram equipados com mosquetes raiados durante as Guerras Napoleônicas de 1812, mas o tempo das armas mais lento no carregamento manteve-os fora do alcance da infantaria regular por alguns anos ainda.[NEWLINE][NEWLINE]invenção da bala retroativa(munição) aumentou a velocidade do carregamento, na América os mosquetes da Guerra Civil já estavam em uso em por todos os exércitos europeus mais importantes. Ao final da Guerra Civil o Mosquete raiado foi tornado obsoleto pelo rifle de carregar pela culatra com repetição, que teve uma taxa de disparo de, talvez, um segundo, em comparação com o sistema de recarga pela frente com a taxa de disparo de talvez 20 a 30 segundos por tiro com um soldado bem treinado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SHIPOFTHELINE_HEADING">
-			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} (Inglaterra)</Text>
+			<Text>Navio de Linha (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SHIPOFTHELINE_TEXT">
 			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} são as maiores e mais poderosas embarcações à vela já construídas. Eles formaram a espinha dorsal das maiores marinhas da Europa dos séculos XVII ao XIX. {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} foram nomeados em razão da formação clássica em que esses navios lutavam. Em batalha, navios de cada lado abordariam o inimigo em uma linha e, à medida que os navios adversários passavam, cada linha lançaria um trovejante de fogo de canhão, fazendo horríveis danos às embarcações e para aqueles a bordo delas. A vitória costumava ir para o lado com os maiores canhões e marinheiros mais bem treinados. Os Ingleses eram mestres nesta forma de guerra e seus navios de linha dominaram os oceanos do mundo por mais de um século.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SIPAHI_HEADING">
-			<Text>{TXT_KEY_UNIT_OTTOMAN_SIPAHI} (Otomanos)</Text>
+			<Text>Sipahi (Otomanos)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SIPAHI_TEXT">
 			<Text>Os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} eram os {TXT_KEY_UNIT_LANCER[2]} do Império Otomano. Criados durante o reinado de Murad I (governou de 1362-1389), os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} foram retirados da aristocracia Turca. Eles eram altamente motivados e combatentes leais, além de guarda-costas pessoais do sultão. Os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} foram grandes rivais dos Janízaros (outra unidade Otomano especial), que foram retirados de soldados Turcos e não Turcos. Na verdade, os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} entusiasticamente assistiram à dissolução violenta dos Janízaros, em 1826, após uma revolta mal sucedida.</Text>
@@ -6988,7 +6988,7 @@
 			<Text>Como posso iniciar um ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGMELEE_HEADING3_BODY">
-			<Text>A unidade inicia o ataque corpo a corpo quando se move para o hexágono do inimigo. O atacante não pode iniciar o combate se não puder alcançar o hexágono do defensor. (Em outras palavras, um {TXT_KEY_UNIT_SPEARMAN} não pode entrar em combate corpo a corpo contra um barco, já que não pode entrar nesse espaço, exceto quando embarcaram)[NEWLINE][NEWLINE]Para ordenar a uma unidade ativa que ataque, clique com botão direito do mouse no alvo. A unidade ativa vai iniciar o combate.</Text>
+			<Text>A unidade inicia o ataque corpo a corpo quando se move para o hexágono do inimigo. O atacante não pode iniciar o combate se não puder alcançar o hexágono do defensor. (Em outras palavras, um Lanceiro não pode entrar em combate corpo a corpo contra um barco, já que não pode entrar nesse espaço, exceto quando embarcaram)[NEWLINE][NEWLINE]Para ordenar a uma unidade ativa que ataque, clique com botão direito do mouse no alvo. A unidade ativa vai iniciar o combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGMELEE_HEADING3_TITLE">
 			<Text>Iniciando o ataque corpo a corpo</Text>
@@ -7060,7 +7060,7 @@
 			<Text>Como funciona o combate naval?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Tal como acontece com unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e todas as unidades terrestres "embarcadas" são destruídas quando atacadas por Bárbaros e outras Civilizações ou Cidades-estados.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, o Cruzador de Mísseis Guiados e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
+			<Text>Tal como acontece com unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e todas as unidades terrestres "embarcadas" são destruídas quando atacadas por Bárbaros e outras Civilizações ou Cidades-estados.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, o Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE">
 			<Text>Combate naval</Text>
@@ -7252,7 +7252,7 @@
 			<Text>Como funciona o Pacto Defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_DEFENSIVEPACT_HEADING3_BODY">
-			<Text>Uma vez que você adquira a tecnologia {TXT_KEY_TECH_CHIVALRY}, você poderá se comprometer em um Pacto Defensivo. Pactos Defensivos são sempre mútuos. Se um parceiro de Pacto é atacado, o outro parceiro automaticamente entrará em guerra com o atacante.[NEWLINE][NEWLINE]Um Pacto Defensivo dura 30 turnos (na velocidade de jogo padrão). Quando o tempo acabar, o pacto também acaba, a menos que seja renegociado. Um Pacto Defensivo é anulado caso um dos participantes declarar guerra a qualquer um.</Text>
+			<Text>Uma vez que você adquira a tecnologia Cavalaria, você poderá se comprometer em um Pacto Defensivo. Pactos Defensivos são sempre mútuos. Se um parceiro de Pacto é atacado, o outro parceiro automaticamente entrará em guerra com o atacante.[NEWLINE][NEWLINE]Um Pacto Defensivo dura 30 turnos (na velocidade de jogo padrão). Quando o tempo acabar, o pacto também acaba, a menos que seja renegociado. Um Pacto Defensivo é anulado caso um dos participantes declarar guerra a qualquer um.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_DEFENSIVEPACT_HEADING3_TITLE">
 			<Text>Pacto Defensivo</Text>
@@ -8005,7 +8005,7 @@
 			<Text>Uma unidade deve estar em seu território para ser atualizada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_UPGRADE_UNITS_HEADING3_BODY">
-			<Text>Com o tempo, você aprenderá novas tecnologias que te permitirão criar unidades militares melhores que aquelas que você podia antes. Quando isso ocorrer, você terá a opção de "atualizar" as antigas unidades, transformando-as em unidades mais novas e mais poderosas. (Por exemplo, quando você aprender "Ferro", você poderá melhorar qualquer unidade Guerreiro que você possua em {TXT_KEY_UNIT_SWORDSMAN}.) Cada melhoria custa uma quantia de ouro - quanto mais poderosa a melhoria, mais caro ela será.[NEWLINE][NEWLINE]Uma unidade deve estar em seu território para ser atualizada. Quando uma atualização estiver disponível para uma unidade, o botão "Atualizar" irá aparecer na lista de ações da unidade.</Text>
+			<Text>Com o tempo, você aprenderá novas tecnologias que te permitirão criar unidades militares melhores que aquelas que você podia antes. Quando isso ocorrer, você terá a opção de "atualizar" as antigas unidades, transformando-as em unidades mais novas e mais poderosas. (Por exemplo, quando você aprender "Ferro", você poderá melhorar qualquer unidade Guerreiro que você possua em Espadachim.) Cada melhoria custa uma quantia de ouro - quanto mais poderosa a melhoria, mais caro ela será.[NEWLINE][NEWLINE]Uma unidade deve estar em seu território para ser atualizada. Quando uma atualização estiver disponível para uma unidade, o botão "Atualizar" irá aparecer na lista de ações da unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_UPGRADE_UNITS_HEADING3_TITLE">
 			<Text>Atualizando Unidades Obsoletas</Text>
@@ -8743,13 +8743,13 @@
 			<Text>O que são recursos estratégicos?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_BODY">
-			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender {TXT_KEY_TECH_ANIMAL_HUSBANDRY}, e ferro não aparece antes de se aprender a tecnologia {TXT_KEY_TECH_IRON_WORKING}.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edificações relacionadas ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade {TXT_KEY_UNIT_SWORDSMAN} criada. Se você não tem ferro disponível, não poderá construir o {TXT_KEY_UNIT_SWORDSMAN}. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
+			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender Domesticação de Animais, e ferro não aparece antes de se aprender a tecnologia Ferro.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edificações relacionadas ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade Espadachim criada. Se você não tem ferro disponível, não poderá construir o Espadachim. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_TITLE">
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio (Mina/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro (Mina/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
+			<Text>Alumínio (Mina/Eletricidade)[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/Domesticação de Animais)[NEWLINE]Ferro (Mina/Ferro)[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/Biologia)[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -9355,7 +9355,7 @@
 			<Text>Bronze é uma "liga" (mistura) de cobre e estanho. O material resultante é mais duro e forte que os metais originais e mais fácil de fundir e ser moldado (por exemplo, para fabricar moldes de pontas de lanças e outros itens). Provavelmente o cobre foi usado pela primeira vez no Egito antes de 5.000 a.C. A primeira evidência do bronze apareceu por volta de 1.300 anos depois na forma de um bastão de bronze, encontrado em uma pirâmide datada em 3.700 a.C. O bronze apareceu na Ásia muito depois, por volta de 1.500 a.C., e nas Américas ainda mais tarde, entre 100-200 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
-			<Text>Permite [COLOR_POSITIVE_TEXT]Desmatar Selva[ENDCOLOR], que limpa o terreno para que outras instalações possam ser construídas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPEARMAN}[ENDCOLOR], uma unidade militar poderosa contra inimigos montados.</Text>
+			<Text>Permite [COLOR_POSITIVE_TEXT]Desmatar Selva[ENDCOLOR], que limpa o terreno para que outras instalações possam ser construídas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Lanceiro[ENDCOLOR], uma unidade militar poderosa contra inimigos montados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"E entrou o guerreiro, Heitor, levando a forte lança de onze cúbitos em sua mão, com reluzente extremidade de bronze firmada por um círculo de ouro."[NEWLINE][TAB][TAB] - Homero[NEWLINE][TAB]</Text>
@@ -9406,10 +9406,10 @@
 			<Text>[NEWLINE][TAB][TAB]"Por todos os lados o trabalho dos químicos melhorou a situação da nossa civilização e aumentou a capacidade produtiva da nação."[NEWLINE][TAB][TAB] - Calvin Coolidge[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_DESC">
-			<Text>{TXT_KEY_TECH_CHIVALRY} descreve o comportamento honrado dos "{TXT_KEY_UNIT_KNIGHT[2]}" - os nobres armados de uma cultura. É um parente rude do "Bushido" (caminho do guerreiro), o código de conduta dos samurais. O código da cavalaria teve seu auge no século XII, alimentado pelas Cruzadas, quando os templários acreditavam que estavam fazendo o trabalho de Deus ao castigar os incrédulos no Oriente Médio. Para ganhar as bênçãos de Deus, um templário deveria agir de maneira divina; comportamento não honroso resultaria em derrota, morte ou condenação. Os cavaleiros Muslim, opositores dos Cristãos, tinham códigos parecidos e, de certo modo, mais "civilizados".[NEWLINE][NEWLINE]Algum tipo de código de cavalaria é crucial em uma civilização onde uma classe privilegiada possui acesso a armas que as classes menores não têm. De outro modo, as pessoas armadas poderiam controlar com muita força as classes mais baixas, resultando em opressão, agitação civil e, potencialmente, uma revolução devastadora.</Text>
+			<Text>Cavalaria descreve o comportamento honrado dos "{TXT_KEY_UNIT_KNIGHT[2]}" - os nobres armados de uma cultura. É um parente rude do "Bushido" (caminho do guerreiro), o código de conduta dos samurais. O código da cavalaria teve seu auge no século XII, alimentado pelas Cruzadas, quando os templários acreditavam que estavam fazendo o trabalho de Deus ao castigar os incrédulos no Oriente Médio. Para ganhar as bênçãos de Deus, um templário deveria agir de maneira divina; comportamento não honroso resultaria em derrota, morte ou condenação. Os cavaleiros Muslim, opositores dos Cristãos, tinham códigos parecidos e, de certo modo, mais "civilizados".[NEWLINE][NEWLINE]Algum tipo de código de cavalaria é crucial em uma civilização onde uma classe privilegiada possui acesso a armas que as classes menores não têm. De outro modo, as pessoas armadas poderiam controlar com muita força as classes mais baixas, resultando em opressão, agitação civil e, potencialmente, uma revolução devastadora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Quem retirar esta espada desta pedra será, por direito, o rei de todos habitantes da Inglaterra."[NEWLINE][TAB][TAB] - Sir Thomas Malory[NEWLINE][TAB]</Text>
@@ -9436,7 +9436,7 @@
 			<Text>O termo "cargo público" é geralmente utilizado para descrever as partes do governo nas quais indivíduos são empregados levando-se em conta seus méritos, ao invés de indicações políticas ou em razão da classe social ou, ainda, porque a pessoa tem amizades com o administrador. No governo federal dos Estados Unidos, os mais altos postos da administração são indicados pelo presidente. Eles são "indicações políticas" e normalmente serão trocados a cada novo governo. Posições subordinadas são preenchidas por "servidores públicos" permanentes, que geralmente mantêm seus empregos de administração para administração, não importando quem ganhe as eleições.[NEWLINE][NEWLINE]Um dos mais antigos exemplos de serviço público pode ser encontrado na Dinastia Qin da China (210 a.C.), onde o emprego na administração era baseado no mérito. Durante o passar dos tempos, este sistema foi gradualmente corrompido e o emprego no governo voltou a ser baseado na classe social no lugar do merecimento. Trezentos anos depois o sistema de mérito foi reaplicado (nas Dinastias Sui e Tang) e permaneceu assim durante alguns séculos.[NEWLINE][NEWLINE]Historicamente, muitas civilizações seguiram um padrão similar ao dos chineses: com o tempo, a burocracia tornava-se corrupta e ineficiente até que uma eventual reforma vigorosa era ordenada para melhorar a eficiência do governo. Isso tornava as coisas melhores durante algum tempo até que o padrão começasse a relaxar, em favor das famílias e conexões sociais, e o ciclo iniciasse tudo novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Fazendas[ENDCOLOR] próximas a rios e lagos produzem +1 de [ICON_FOOD] Alimento e bônus extremamente úteis. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_PIKEMAN}[ENDCOLOR], uma unidade mortal contra inimigos montados como o {TXT_KEY_UNIT_HORSEMAN} e o {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Fazendas[ENDCOLOR] próximas a rios e lagos produzem +1 de [ICON_FOOD] Alimento e bônus extremamente úteis. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Piqueiro[ENDCOLOR], uma unidade mortal contra inimigos montados como o Jinete e o Cavaleiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A única coisa que nos salva da burocracia é a sua ineficiência."[NEWLINE][TAB][TAB] - Eugene McCarthy[NEWLINE][TAB]</Text>
@@ -9628,10 +9628,10 @@
 			<Text>Tecnologia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_DESC">
-			<Text>A {TXT_KEY_TECH_HORSEBACK_RIDING} foi desenvolvida no segundo milênio a.C. (talvez antes), possivelmente pelos povos nômades da Ásia Central. O cavalo foi, então, domesticado após algum tempo, mas o animal original era muito pequeno. A montaria só se tornou prática a partir do ponto em que o animal se tornou grande o bastante. Um grupo de nômades antigos, os Citas, conseguiu, de forma particular, dominar a montaria; eles podem ter inventado a primeira sela e o primeiro estribo (apesar de eles terem, provavelmente, utilizado o estribo apenas para montar e desmontar o cavalo). De acordo com historiadores Gregos, os Citas foram os primeiros a castrar cavalos indomáveis, o que os tornam mais dóceis e controláveis.[NEWLINE][NEWLINE]Por volta de 1.500 a.C., muitas pessoas do Crescente Fértil - os Hititas, os Assírios e os Babilônios - lutavam sobre cavalos, ao mesmo tempo em que eram introduzidos no Egito. No tempo de Alexandre - O Grande, táticas de cavalaria eram muito avançadas, e os "Heteros" de Alexandre eram talvez a unidade militar mais efetiva e poderosa do mundo Mediterrâneo.</Text>
+			<Text>A Montaria foi desenvolvida no segundo milênio a.C. (talvez antes), possivelmente pelos povos nômades da Ásia Central. O cavalo foi, então, domesticado após algum tempo, mas o animal original era muito pequeno. A montaria só se tornou prática a partir do ponto em que o animal se tornou grande o bastante. Um grupo de nômades antigos, os Citas, conseguiu, de forma particular, dominar a montaria; eles podem ter inventado a primeira sela e o primeiro estribo (apesar de eles terem, provavelmente, utilizado o estribo apenas para montar e desmontar o cavalo). De acordo com historiadores Gregos, os Citas foram os primeiros a castrar cavalos indomáveis, o que os tornam mais dóceis e controláveis.[NEWLINE][NEWLINE]Por volta de 1.500 a.C., muitas pessoas do Crescente Fértil - os Hititas, os Assírios e os Babilônios - lutavam sobre cavalos, ao mesmo tempo em que eram introduzidos no Egito. No tempo de Alexandre - O Grande, táticas de cavalaria eram muito avançadas, e os "Heteros" de Alexandre eram talvez a unidade militar mais efetiva e poderosa do mundo Mediterrâneo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HORSEMAN}[ENDCOLOR], uma unidade montada rápida e poderosa.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Jinete[ENDCOLOR], uma unidade montada rápida e poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Um cavalo! Um cavalo!"[NEWLINE][TAB][TAB]Meu reino por um cavalo!"[NEWLINE][TAB][TAB] - Shakespeare (Ricardo III)[NEWLINE][TAB]</Text>
@@ -9649,7 +9649,7 @@
 			<Text>A Siderurgia é tão velha quanto à história. O primeiro ferro fundido provavelmente veio dos meteoritos; quando este útil material não podia ser encontrado, as pessoas primitivas provavelmente procuravam por substâncias similares. A fundição - a extração do metal do minério de ferro - parece ter sido descoberta no século XII a.C., na Cordilheira do Cáucaso, Ásia Menor, ou possivelmente na Índia. A produção de ferro fundido data de aproximadamente 1.000 anos a.C.[NEWLINE][NEWLINE]Os exemplos mais antigos de objetos feitos de ferro de meteoritos foram encontrados no Egito Antigo e na Suméria e datam de 4.000 anos a.C. O ferro era extremamente raro naquele tempo e historiadores especulavam que ele valia mais que ouro.[NEWLINE][NEWLINE]Por volto do século XII a.C., o ferro substituiu largamente o bronze como metal preferido para ferramentas e armas no Mediterrâneo Oriental. O ferro da época não era um metal muito melhor do que o bronze que ele substitui, mas era bem mais abundante e era encontrado em muitos lugares em que o cobre e o estanho não estavam disponíveis, tornando-se mais barato.[NEWLINE][NEWLINE]O aço "moderno" foi primeiramente produzido em eras pré-históricas, mas a tecnologia para produção em larga escala só foi desenvolvimento em meados do século XVII d.C. Assim que o aço tornou-se mais barato e comum, ele suplantou o ferro em muitos usos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
-			<Text>Revela [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Ferro[ENDCOLOR] e permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade poderosa de ataque corpo a corpo que requer o metal.</Text>
+			<Text>Revela [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Ferro[ENDCOLOR] e permite o treinamento do [COLOR_POSITIVE_TEXT]Espadachim[ENDCOLOR], uma unidade poderosa de ataque corpo a corpo que requer o metal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Não espere o ferro esfriar para bater; deixe-o quente batendo."[NEWLINE][TAB][TAB] - William Butler Yeats[NEWLINE][TAB]</Text>
@@ -9718,7 +9718,7 @@
 			<Text>Metalurgia é a ciência dos metais e das ligas metálicas. Em Civilization V a tecnologia "metalúrgica" abrange os avanços neste campo desde o século XIX, quando grandes progressos foram feitos em todas as facetas da metalurgia, da extração e criação de novas ligas metálicas até a produção de metais de alta qualidade.[NEWLINE][NEWLINE]O metal permanece no coração da civilização moderna. Grande parte do mundo é fabricada de ferro e o que não é, é feito de alumínio ou titânio. Nossas redes de comunicação são feitas de metal, como nossos veículos, armas, satélites e espaçonaves. Sem a metalurgia moderna, 90% da população da Terra iria morrer de fome em um ano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz, voltada à caça de outras unidades montadas.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lanceiro Montado[ENDCOLOR], uma unidade montada veloz, voltada à caça de outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Nunca houve uma boa faca feita de um ferro ruim."[NEWLINE][TAB][TAB] - Benjamin Franklin[NEWLINE][TAB]</Text>
@@ -9727,7 +9727,7 @@
 			<Text>Ciência Militar é o conhecimento na utilização de poder de guerra para alcançar certos objetivos políticos. Possui muitos ramos e áreas de especialização e, geralmente, é ensinada na Academia Militar. Por exemplo, qual a distância que um exército pode marchar em um dia e quantas calorias um soldado precisa para se manter em forma para o combate? Ou, como deve ser a luta contra uma revolta em nosso próprio país? Supondo que somos um exército ocupando outro país: como isso afeta a luta contra uma rebelião? Ou, qual é a taxa de sobrevivência esperada em uma guerra nuclear, se lançarmos a bomba primeiro?[NEWLINE][NEWLINE]"A Arte da Guerra", de Sun Tzu, é um livro clássico de ciência militar. Embora tenha sido publicado inicialmente no século VI a.C., o livro ainda é largamente estudado nos dias atuais (e permanece uma leitura extremamente divertida e informativa para qualquer historiador iniciante). "O Príncipe" de Nicolau Maquiavel, publicado em 1532 após sua morte, examina em detalhes a interação entre guerra e política. Em 1832, o General da Prússia Carl von Clausewitz publicou a obra "Da Guerra", na qual também estuda os efeitos políticos e econômicos na guerra.[NEWLINE][NEWLINE]Publicado em 1890, o brilhante trabalho de Alfred Thayer Mahan, "A Influência do Poder Naval na História, 1660-1783", afetou a decisão de muitos oficiais militares e políticos Americanos e foi amplamente responsável pela expansão da Marinha Americana no início do século XX. Sem este livro, os Estados Unidos poderiam ter se encontrado bem menos preparados para as Guerras Mundiais, com possíveis resultados desastrosos para aquele país e seus aliados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CAVALRY}[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Cavalaria[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Guerras podem ser travadas com armas, mas são ganhas por homens. É o espírito do homem que obedece e do que comanda que alcança a vitória."[NEWLINE][TAB][TAB] - George S. Patton[NEWLINE][TAB]</Text>
@@ -9859,7 +9859,7 @@
 			<Text>Olaria é uma das mais antigas e úteis de todas as artes. Nela, objetos são feitos da argila e, então, colocadas em um forno aquecido a altas temperaturas. O produto resultante é extremamente quebrável, mas é impermeável e quase que totalmente resistente à corrosão, oxidação, infestação e às outras forças destrutivas que poderiam atacar itens de metal, madeira ou tecido. Os objetos de olaria mais antigos incluíam jarros e recipientes para guardar líquidos ou grãos, assim como potes para cozimento, tigelas, pratos e copos.[NEWLINE][NEWLINE]O primeiro tipo de olaria descoberto era feito de barro, há 9.000 anos, e era um pouco poroso e geralmente coberto por um material mais resistente à água, ou era esmaltado. Louças de barro são extremamente duráveis e permanecem sendo usadas até hoje. Olaria em pedras era a que se cozinhavam as pedras a temperaturas extremamente altas até que a argila se "vitrificava" - era como vidro e era não era porosa. Este processo foi descoberto na China, por volta de 1.400 anos a.C. A porcelana foi inventada na China próximo ao sexto século d.C. É similar à olaria em pedras (de fato, a linha que as separa ainda é uma discussão aberta), mas produtos de porcelana geralmente são mais translúcidos e delicados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Silo[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Acaso o barro pode dizer ao oleiro: 'O que você está fazendo? '?"[NEWLINE][TAB][TAB] - A Bíblia, Isaías, 45:9[NEWLINE][TAB]</Text>
@@ -9937,7 +9937,7 @@
 			<Text>Partes Substituíveis é um tipo de processo de fabricação pelo qual muitas cópias de um item são fabricadas, cada uma idêntica à original. Este processo permitiu um tremendo crescimento na velocidade e rentabilidade da fabricação que, por sua vez, ajudou a incentivar a Revolução Industrial do século XIX.[NEWLINE][NEWLINE]Um dos maiores estímulos para a criação de peças de reposição foi o desejo de despachar armas aos soldados. Originalmente, mosquetes eram criados por artesões, e cada um era de alguma forma diferente do outro - um artesão poderia fazer seu rifle um pouco mais longo, enquanto outro poderia lhe dar um gatilho maior ou menor. Para uma peça única isso não era necessariamente um problema: se o mosquete quebrava, bastava mandá-lo ao artesão que o fez para reparos. Claro que isso não era praticável para um exército com milhares de mosquetes.[NEWLINE][NEWLINE]Contudo, se todos fossem idênticos, então uma parte de um mosquete quebrado poderia ser utilizada para reparar outro. Além disso, um soldado que tenha sido treinado com um mosquete poderia pegar qualquer outro e esperar que o funcionamento fosse praticamente o mesmo do primeiro, sem ter que se acostumar com as particularidades da nova arma.[NEWLINE][NEWLINE]Hoje, quase todos os bens fabricados no mundo, são construídos com Partes Substituíveis. Artesãos se tornaram artistas, e suas produções se tornaram muito caras para a maioria dos consumidores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_INFANTRY}[ENDCOLOR], uma unidade terrestre básica da Era Industrial, e a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_AT_GUN}[ENDCOLOR], especializada em destruir {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma unidade terrestre básica da Era Industrial, e a construção da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], especializada em destruir {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Nada é particularmente difícil se você dividir em trabalhos menores."[NEWLINE][TAB] - Henry Ford[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10036,7 +10036,7 @@
 			<Text>Aço é uma liga (mistura) de ferro e carvalho. Dependendo da quantidade de ferro, em relação ao carbono, o metal resultante pode ser mais forte, mais flexível, ou possuir uma grande habilidade de resistir à corrosão. O ferro foi trabalhado primeiramente nos anos 2000 a.C., e desde o início, pequenas quantidades de aço foram também produzidas. Geralmente o ferro era fabricado em duas formas: forjado e fundido, o primeiro sendo mais flexível e o segundo mais forte e mais quebradiço, porém bem mais barato de se fazer.[NEWLINE][NEWLINE]Em 1751, o inventor inglês Benjamin Huntsman fundou uma fábrica de materiais de aço em Sheffield, Inglaterra. A fábrica de Huntsman empregava o "processo crucial" para fazer aço e esta tecnologia rapidamente se alastrou pela Europa e os Estados Unidos e, eventualmente, para a Ásia e o resto do mundo. O próximo grande avanço feito dos Estados Unidos da América em 1855, quando o inventor americano Henry Bessemer apareceu com o chamado "processo Bessemer" de fazer aço. Com alguns aperfeiçoamentos, este processo permitiu um aumento drástico na produção de aço pelo mundo todo. No início do século XX, a produção de aço mundial bateu as 50 milhões de toneladas anuais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval mortífera.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Grande Espadachim[ENDCOLOR], uma unidade medieval mortífera.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]John Henry disse ao seu Capitão,[NEWLINE][TAB][TAB]"Um homem não é nada, senão um homem,[NEWLINE][TAB][TAB] E antes que eu deixe sua broca a vapor acabar comigo,[NEWLINE][TAB][TAB] Eu morrerei com um martelo em minha mão."[NEWLINE][TAB][TAB] - Anônimo: A balada de John Henry, O condutor de aço[NEWLINE][TAB]</Text>
@@ -10084,7 +10084,7 @@
 			<Text>A roda é um objeto redondo com um buraco ou eixo que atravessa seu centro. Pouco útil se considerada isoladamente, mas como parte de um sistema de transporte, incluindo estradas, é um valor incalculável para a civilização humana. A primeira representação de um veículo com rodas foi encontrada na Suméria, aproximadamente 3500 anos a.C. As primeiras rodas eram de madeira sólida; Rodas com raios apareceram primeiramente por volta de 2000 anos a.C., na Ásia Menor, onde eles utilizavam bigas puxadas por cavalos. Avanços posteriores incluíram um orifício central de ferro na roda, onde o eixo engraxado era encaixado, e a adição de molas ou algum outro tipo de amortecimento.[NEWLINE][NEWLINE]Contrariamente ao mito popular, a roda já era conhecida no Novo Mundo antes da chegada dos espanhóis. Entretanto, a América do Norte, Central e do Sul não possuíam animais de tração, então, quase tudo era transportado por pessoas. Humanos não são projetados para puxar coisas por longas distâncias: eles são mais eficientes carregando pesos em suas costas - em mochilas, por exemplo -, portanto, carroças não foram desenvolvidas. Assim que cavalos e outros animais de tração chegaram, os nativos americanos alegremente começaram a utilizar veículos com rodas, como todo mundo fazia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa, que requer [ICON_RES_HORSE] Cavalos. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que, por sua vez, possibilitam unidades se moverem mais rapidamente pelo Império e fornecem [ICON_GOLD] Ouro extra quando você conecta cidades a sua [ICON_CAPITAL] Capital.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Carruagem Arqueira[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa, que requer [ICON_RES_HORSE] Cavalos. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que, por sua vez, possibilitam unidades se moverem mais rapidamente pelo Império e fornecem [ICON_GOLD] Ouro extra quando você conecta cidades a sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Sabedoria e virtude são como as duas rodas de uma carroça."[NEWLINE][TAB][TAB] - Provérbio Japonês[NEWLINE][TAB]</Text>
@@ -10420,7 +10420,7 @@
 			<Text>Diplomacia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TOPIC_FOGOFWAR">
-			<Text>Névoa da Guerra</Text>
+			<Text>Névoa de Guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TOPIC_GOLD">
 			<Text>Ouro</Text>
@@ -10459,7 +10459,7 @@
 			<Text>Trabalhadores e Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_B17_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_AMERICAN_B17} é uma unidade americana única, que substitui o Bombardeiro. É similar ao Bombardeiro, mas é mais difícil para os aviões de combate e armas antiaéreas inimigas o acertarem. O B17 também recebe um bônus quando ataca cidades inimigas. Como o Bombardeiro, o alcance do B17 é 10. Veja as regras na seção sobre "Aeronaves" para mais detalhes.</Text>
+			<Text>O Bombardeiro B17 é uma unidade americana única, que substitui o Bombardeiro. É similar ao Bombardeiro, mas é mais difícil para os aviões de combate e armas antiaéreas inimigas o acertarem. O B17 também recebe um bônus quando ataca cidades inimigas. Como o Bombardeiro, o alcance do B17 é 10. Veja as regras na seção sobre "Aeronaves" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY">
 			<Text>O Miliciano é uma unidade americana única, que substitui o Mosquete. O Miliciano pode se mover por terrenos acidentados como se estivessem livres (todos os terrenos custam 1 ponto de movimento) e recebe um bônus quando lutam em terrenos acidentados.</Text>
@@ -10468,7 +10468,7 @@
 			<Text>Essas unidades de artilharia especializadas atacarão automaticamente qualquer unidade aérea que bombardear um alvo a dois hexágonos de distância (Elas podem interceptar uma unidade por turno). Elas são bastante fracas em contate contra unidades terrestres e devem ser protegidas por unidades mais fortes contra ataques do chão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade árabe exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é mais fraco que o {TXT_KEY_UNIT_KNIGHT} em ataque corpo a corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
+			<Text>O Arqueiro em Camelo é uma unidade árabe exclusiva, que substitui o Cavaleiro. O Arqueiro em Camelo é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O Arqueiro em Camelo é mais fraco que o Cavaleiro em ataque corpo a corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHER_STRATEGY">
 			<Text>Esta é a primeira unidade de ataque a distância. Ela pode atacar inimigos a 1 ou 2 hexágonos de distância e é extremamente importante no início do jogo, quando estiver atacando cidades. Entretanto, é bastante fraca quando atacada por outras unidades. Designe-a para fortalecer cidades ou a mantenha atrás de suas linhas, protegidas por unidades de ataque corpo a corpo.</Text>
@@ -10477,7 +10477,7 @@
 			<Text>Artilharia é uma arma de certo mortal, mais poderosa que o canhão e um grande alcance. Como o canhão, ela possui visibilidade limitada e deve ser preparada (1 pm) antes de atacar, mas sua força de "Combate a Distância" é tremenda. A Artilharia também possui a habilidade "foro indireto", que lhe permite atirar sobre alvos obstruídos, impossíveis de ela ver. Como outras armas de cerco, a Artilharia é vulnerável a um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AT_GUN_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_AT_GUN} é uma unidade de combate especializada, que é bastante potente contra {TXT_KEY_UNIT_TANK[2]} inimigos, mas fraca quando combatente com outras unidades. Use seus próprios {TXT_KEY_UNIT_TANK[2]} para protegê-la e artilharia para uma enérgica força de luta.</Text>
+			<Text>A Arma Antitanque é uma unidade de combate especializada, que é bastante potente contra {TXT_KEY_UNIT_TANK[2]} inimigos, mas fraca quando combatente com outras unidades. Use seus próprios {TXT_KEY_UNIT_TANK[2]} para protegê-la e artilharia para uma enérgica força de luta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB_STRATEGY">
 			<Text>Uma Bomba Atômica é uma unidade extremamente poderosa. A Bomba Atômica pode ser guardada em uma cidade aliada ou a bordo de um Porta-aviões. Ela pode se mover de uma base para outra ou atacar alvos a 10 hexágonos de distância. Quando detonada, uma Bomba Atômica causará dano, ou possivelmente destruirá unidades, e cidades serão severamente danificadas em um raio de 2 hexágonos da explosão. É automaticamente destruída quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
@@ -10507,10 +10507,10 @@
 			<Text>A Catapulta é uma arma de cerco, extremamente útil quando atacando cidades inimigas no início do jogo. É lenta e extremamente vulnerável aos ataques corpo a corpo dos inimigos; ela sempre deve estar amparada por outras unidades quando em campo. A Catapulta deve se preparar (1 ponto de movimento) antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>As unidades de {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades de ataque corpo a corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A {TXT_KEY_UNIT_CAVALRY} é bastante vulnerável ao destruidor de unidades montadas, o {TXT_KEY_UNIT_LANCER}.</Text>
+			<Text>As unidades de Cavalaria são devastadoras contra unidades de ataque corpo a corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A Cavalaria é bastante vulnerável ao destruidor de unidades montadas, o Lanceiro Montado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER_STRATEGY">
-			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Elas são um pouco mais poderosas que o {TXT_KEY_UNIT_ARCHER} e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas nelas). Como toda unidade montada, as {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Elas são um pouco mais poderosas que o Arqueiro e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas nelas). Como toda unidade montada, as {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao Lanceiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU_STRATEGY">
 			<Text>O Chu-Ko-Nu é a unidade chinesa única, que substitui o Besteiro. O Chu-Ko-Nu é um pouco menos poderoso que o Besteiro, mas ele pode atacar duas vezes durante um turno, dando grande vantagem ofensiva. Esta unidade é particularmente mortal quando fortificando uma cidade que esteja sendo atacada.</Text>
@@ -10522,13 +10522,13 @@
 			<Text>O Contratorpedeiro é preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades "embarcáveis", encouraçados e porta-aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Contratorpedeiro é surpreendentemente rápido e seu fogo indireto lhe permite bombardear alvos que ele não pode ver.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPTIAN_WARCHARIOT_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é uma unidade egípcia exclusiva, que substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}. É mais rápida que a {TXT_KEY_UNIT_CHARIOT_ARCHER} e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE] Cavalo. Sendo uma unidade montada, a {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é bastante vulnerável ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>A Biga Egípcia é uma unidade egípcia exclusiva, que substitui a Carruagem Arqueira. É mais rápida que a Carruagem Arqueira e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE] Cavalo. Sendo uma unidade montada, a Biga Egípcia é bastante vulnerável ao Lanceiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN_STRATEGY">
 			<Text>O Arqueiro de Arco Longo é a unidade inglesa única, que substitui o Besteiro. O Arqueiro de Arco Longo possui um maior alcance que o Besteiro, o que o torna capaz de atacar inimigos a três hexágonos de distância, muitas vezes os destruindo antes que eles possam atacar de volta. Como outras unidades de ataque a distância,o Arqueiro de Arco Longo é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE_STRATEGY">
-			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} é a unidade inglesa exclusiva, que substitui a {TXT_KEY_UNIT_FRIGATE}. O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE} e é mais barato para construir. Ele pode ver um hexágono a mais que a {TXT_KEY_UNIT_FRIGATE}, permitindo-lhe descobrir inimigos em uma porção significativamente grande do oceano.</Text>
+			<Text>Navio de Linha é a unidade inglesa exclusiva, que substitui a Fragata. O Navio de Linha tem uma força de combate à distância um pouco maior que a Fragata e é mais barato para construir. Ele pode ver um hexágono a mais que a Fragata, permitindo-lhe descobrir inimigos em uma porção significativamente grande do oceano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FIGHTER_STRATEGY">
 			<Text>O Avião de Combate é uma unidade aérea moderadamente poderosa. Ela pode ficar baseada em qualquer cidade aliada ou a bordo de um Porta-aviões. Pode mover-se de uma cidade a outra (ou Porta-aviões) e pode realizar missões em um raio de 8 hexágonos. Use Aviões de Combate para atacar aeronaves e unidades terrestres inimigas, para observar posições inimigas e para interceptar ataques aéreos inimigos. Aviões de Combate são especialmente efetivos contra helicópteros inimigos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
@@ -10549,7 +10549,7 @@
 			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Uma unidade de ataque a distância, a Galé pode importunar cidades e unidades próximas ao litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_GERMAN_LANDSKNECHT} é uma unidade alemã única. Esta unidade substitui o {TXT_KEY_UNIT_PIKEMAN}. O {TXT_KEY_UNIT_GERMAN_LANDSKNECHT} é tão poderoso quanto o {TXT_KEY_UNIT_PIKEMAN}, porém custa apenas a metade para ser treinado, permitindo ao jogador alemão construir um exército medieval um curto período de tempo. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} são mortais contra unidades montadas como o {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>O Lansquenete é uma unidade alemã única. Esta unidade substitui o Piqueiro. O Lansquenete é tão poderoso quanto o Piqueiro, porém custa apenas a metade para ser treinado, permitindo ao jogador alemão construir um exército medieval um curto período de tempo. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} são mortais contra unidades montadas como o Cavaleiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
 			<Text>O Panzer é a unidade alemã única, que substitui o Tanque. É tão forte e rápida quanto o Tanque. Como o Tanque, o Panzer recebe uma penalidade quando ataca cidades. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e, então, atravessá-las antes que o inimigo possa recuperar a lacuna.</Text>
@@ -10570,10 +10570,10 @@
 			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando trabalhada, produz muitos pontos de [ICON_RESEARCH] Ciência. Além disso, ele pode lhe dar imediatamente uma tecnologia disponível. Finalmente, o Grande Cientista pode iniciar a Era Dourada e é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY_STRATEGY">
-			<Text>Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} são unidades gregas exclusivas, que substituem o {TXT_KEY_UNIT_HORSEMAN}. São mais rápidas e mais poderosas que sua unidade predecessora, tornando-as a unidade montada mais perigosa até o aparecimento do {TXT_KEY_UNIT_KNIGHT}. Elas ajudam a gerar o Grande General mais rapidamente que outras unidades. Além disso, podem se mover após um ataque. Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} são unidades montadas e continuam sendo vulneráveis aos ataques do {TXT_KEY_UNIT_SPEARMAN} e do {TXT_KEY_UNIT_PIKEMAN}.</Text>
+			<Text>Os Heteros são unidades gregas exclusivas, que substituem o Jinete. São mais rápidas e mais poderosas que sua unidade predecessora, tornando-as a unidade montada mais perigosa até o aparecimento do Cavaleiro. Elas ajudam a gerar o Grande General mais rapidamente que outras unidades. Além disso, podem se mover após um ataque. Os Heteros são unidades montadas e continuam sendo vulneráveis aos ataques do Lanceiro e do Piqueiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREEK_HOPLITE_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_GREEK_HOPLITE} é uma unidade grega exclusiva, que substitui o {TXT_KEY_UNIT_SPEARMAN}. É muito mais poderosa que o {TXT_KEY_UNIT_SPEARMAN}. O {TXT_KEY_UNIT_GREEK_HOPLITE} é mortal contra oponentes montados.</Text>
+			<Text>O Hoplita é uma unidade grega exclusiva, que substitui o Lanceiro. É muito mais poderosa que o Lanceiro. O Hoplita é mortal contra oponentes montados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GUIDED_MISSILE_STRATEGY">
 			<Text>O Míssil Guiado é uma unidade de lançamento único que é destruída quando ataca um alvo inimigo. Pode ser baseado em uma cidade aliada ou a bordo de um Submarino Nuclear ou Cruzador. Podem se mover de uma base à outra ou atacar unidades inimigas que estejam a um alcance de "8". Veja as regras na seção "Mísseis" para mais informações.</Text>
@@ -10582,10 +10582,10 @@
 			<Text>O Helicóptero Armado é uma unidade aérea mortal que, para todos os efeitos, age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os Helicópteros Armados recebem um grande bônus de combate quando atacam Tanques.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo a corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
+			<Text>O Jinete é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo a corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do Lanceiro, Piqueiro e similares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana exclusiva, que substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderoso, embora mais lento, que a {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>O Elefante de Guerra é uma unidade indiana exclusiva, que substitui a Carruagem Arqueira. É bem mais poderoso, embora mais lento, que a Carruagem Arqueira e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do Lanceiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
 			<Text>A Infantaria é a unidade de combate básica da Era Industrial. É significativamente mais forte que seu predecessor, o Fuzileiro. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
@@ -10594,10 +10594,10 @@
 			<Text>Os Navios Blindados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. São mais difíceis de serem destruídas que qualquer outra embarcação, e sua "Força de Combate a Distância" é maior. Entretanto, Couraças não podem entrar em águas profundas do oceano. Use-as, principalmente, para defender seu litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR_STRATEGY">
-			<Text>O Guerreiro Mohawk é a unidade iroquesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor em terrenos limpos ou em colinas, o Guerreiro Mohawk recebe um bônus significativo de combate em Florestas e Selvas. Além disso, ao contrário do {TXT_KEY_UNIT_SWORDSMAN}, ela não requer [ICON_RES_IRON] Ferro para ser treinada.</Text>
+			<Text>O Guerreiro Mohawk é a unidade iroquesa única, que substitui o Espadachim. Tão poderoso quanto seu predecessor em terrenos limpos ou em colinas, o Guerreiro Mohawk recebe um bônus significativo de combate em Florestas e Selvas. Além disso, ao contrário do Espadachim, ela não requer [ICON_RES_IRON] Ferro para ser treinada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI_STRATEGY">
-			<Text>O Samurai é a unidade japonesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor, o Samurai automaticamente recebe a promoção "Choque I", dando a ele um bônus quando luta em terreno aberto. O sucesso ao combater com um Samurai aumenta as chances de gerar Grandes Generais.</Text>
+			<Text>O Samurai é a unidade japonesa única, que substitui o Espadachim. Tão poderoso quanto seu predecessor, o Samurai automaticamente recebe a promoção "Choque I", dando a ele um bônus quando luta em terreno aberto. O sucesso ao combater com um Samurai aumenta as chances de gerar Grandes Generais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO_STRATEGY">
 			<Text>O Zero é a unidade japonesa única, que substitui o Avião de Combate. É uma unidade aérea moderadamente poderosa. É parecida com o Avião de Combate comum, exceto que ele recebe um bônus significante quando combatendo outros Aviões de Combate. Pode se basear em qualquer cidade aliada ou a bordo de Porta-aviões. Pode se mover de uma cidade a outra (ou Porta-aviões) e realizar missões em um raio de 8 hexágonos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
@@ -10606,13 +10606,13 @@
 			<Text>O Caça a Jato é uma unidade aérea poderosa. Pode ser baseada em qualquer cidade aliada ou a borde de um Porta-aviões. Pode se mover de uma base à outra e realizar missões em um raio de "10". Use Caça a Jato para atacar aeronaves e unidades terrestres, para observar posições inimigas e defender de outros ataques aéreos. Caças a Jato são especialmente efetivos contra Helicópteros. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos será visível no início do turno. Veja as regras na seção "Aeronaves" para maiores detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_KNIGHT_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_KNIGHT} é uma unidade rápida e poderosa, o inegável rei dos campos de batalha medievais. Por ser uma unidade montada, é vulnerável ao {TXT_KEY_UNIT_PIKEMAN}, mas podem esmagar outros oponentes com relativa facilidade. O {TXT_KEY_UNIT_KNIGHT} pode mover-se após um ataque, o que o torna capaz de fazer buracos nas linhas inimigas e se posicionar bem atrás deles.</Text>
+			<Text>O Cavaleiro é uma unidade rápida e poderosa, o inegável rei dos campos de batalha medievais. Por ser uma unidade montada, é vulnerável ao Piqueiro, mas podem esmagar outros oponentes com relativa facilidade. O Cavaleiro pode mover-se após um ataque, o que o torna capaz de fazer buracos nas linhas inimigas e se posicionar bem atrás deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renascença que está entre o {TXT_KEY_UNIT_KNIGHT} e {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer essas todo-poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode lidar com a poderosa unidade {TXT_KEY_UNIT_CAVALRY} quando esta aparecer. Entretanto, é uma unidade somente para atacar: ela recebe uma penalidade de combate quando está se defendendo.</Text>
+			<Text>O Lanceiro Montado é a unidade montada da Renascença que está entre o Cavaleiro e Cavalaria. É mais rápido e mais poderoso que o Cavaleiro, capaz de varrer essas todo-poderosas unidades do mapa. O Lanceiro Montado pode lidar com a poderosa unidade Cavalaria quando esta aparecer. Entretanto, é uma unidade somente para atacar: ela recebe uma penalidade de combate quando está se defendendo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_LONGSWORDSMAN} é a unidade de combate medieval padrão. É quase tão poderosa quanto o {TXT_KEY_UNIT_KNIGHT}, mas bem mais lenta. É mais poderosa que o {TXT_KEY_UNIT_PIKEMAN}, mas não recebe o bônus de ataque dessa unidade contra montarias. Use o {TXT_KEY_UNIT_SWORDSMAN} e Catapultas para atacar cidades inimigas.</Text>
+			<Text>O Grande Espadachim é a unidade de combate medieval padrão. É quase tão poderosa quanto o Cavaleiro, mas bem mais lenta. É mais poderosa que o Piqueiro, mas não recebe o bônus de ataque dessa unidade contra montarias. Use o Espadachim e Catapultas para atacar cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MECH_STRATEGY">
 			<Text>O "Meca" é uma unidade Blindada Moderna cheia de esteroides. Possui uma "Força de Combate" extrema, permitindo que ele varra completamente qualquer unidade que atravesse seu caminho. Também pode se mover após atacar. O Grande Robô da Morte não se beneficia de nenhum dos bônus defensivos dos terrenos, mas francamente, quem se importa? É muito legal!</Text>
@@ -10621,7 +10621,7 @@
 			<Text>A Infantaria Mecanizada é mais forte e mais rápida que a Infantaria normal. Apesar de rápida, não pode ser mover após atacar, como os Tanques; sua responsabilidade principal é, como sempre, tomar e proteger a área.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER_STRATEGY">
-			<Text>O Cruzador de Mísseis Guiados é uma moderna embarcação de guerra. É rápida e forte, possui uma "Força de Ataque a Distância" média e é muito bom para interceptar aeronaves inimigas. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares, permitindo você transportar essas armas mortais diretamente ao litoral do inimigo. Combinados com Porta-aviões e Submarinos, cria-se uma armada perversa e muito poderosa.</Text>
+			<Text>O Cruzador de Mísseis é uma moderna embarcação de guerra. É rápida e forte, possui uma "Força de Ataque a Distância" média e é muito bom para interceptar aeronaves inimigas. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares, permitindo você transportar essas armas mortais diretamente ao litoral do inimigo. Combinados com Porta-aviões e Submarinos, cria-se uma armada perversa e muito poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM_STRATEGY">
 			<Text>As unidades de Baterias Antiaéreas Móveis terra-ar fornecem tropa avançada com defesa antiaérea. Podem interceptar e atirar contra aeronaves inimigas a 2 hexágonos de distância (mas somente uma unidade por turno). Estas unidades são muito vulneráveis a ataques não aéreos e devem ser acompanhadas de Infantarias e outras proteções.</Text>
@@ -10630,10 +10630,10 @@
 			<Text>O Tanque Moderno é como seu predecessor, o Tanque. É apenas... "mais" tanque. É mais forte, embora sofra com a mesma penalidade do Tanque quando ataca cidades. Os Tanques Modernos podem se mover após um ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MUSKETMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_MUSKETMAN} é a primeira unidade com arma de fogo no jogo e substitui todos os antigos tipos de soldados terrestres - {TXT_KEY_UNIT_CROSSBOWMAN}, {TXT_KEY_UNIT_SWORDSMAN}, {TXT_KEY_UNIT_PIKEMAN} e demais. Não é uma unidade de ataque a distância, entretanto, não pode atacar um inimigo que esteja a mais de 1 hexágono de distância.</Text>
+			<Text>O Mosquete é a primeira unidade com arma de fogo no jogo e substitui todos os antigos tipos de soldados terrestres - Besteiro, Espadachim, Piqueiro e demais. Não é uma unidade de ataque a distância, entretanto, não pode atacar um inimigo que esteja a mais de 1 hexágono de distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE_STRATEGY">
-			<Text>O Míssil Nuclear é uma Bomba Atômica melhorada e mais poderosa. Pode ser baseado em uma cidade aliada ou estar a bordo de um Submarino Nuclear ou Cruzador de Mísseis Guiados. Pode mover-se de uma base à outra ou atacar alvos que estejam a uma distância "12". Quando detonado, um Míssil Nuclear ira causar dano (e possivelmente aniquilar) cidades e destruir unidades dentro de um raio de 2 hexágonos da explosão. É automaticamente destruído quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
+			<Text>O Míssil Nuclear é uma Bomba Atômica melhorada e mais poderosa. Pode ser baseado em uma cidade aliada ou estar a bordo de um Submarino Nuclear ou Cruzador de Mísseis. Pode mover-se de uma base à outra ou atacar alvos que estejam a uma distância "12". Quando detonado, um Míssil Nuclear ira causar dano (e possivelmente aniquilar) cidades e destruir unidades dentro de um raio de 2 hexágonos da explosão. É automaticamente destruído quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY">
 			<Text>O Submarino Nuclear é mais forte e mais poderoso que o modelo da Era Industrial. Também é invisível a maioria das unidades e é capaz de ver outros Submarinos. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares. Como Submarinos, são vulneráveis a Contratorpedeiros e Submarinos inimigos, portanto, envie outras unidades a frente para garantir que o litoral está livre.</Text>
@@ -10642,16 +10642,16 @@
 			<Text>O Janízaro é uma unidade otomana única, que substitui o Mosquete. Recebe um bônus de combate significativo quando está em ataque. Além disso, automaticamente se curam de todo dano recebido quando destroem uma unidade não Bárbara. Isso pode dar ao exército Otomano uma vantagem crucial contra forças inimigas na defensiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_OTTOMAN_SIPAHI} é uma unidade otomana exclusiva, que substitui o {TXT_KEY_UNIT_LANCER}. É muito mais rápido e pode ver seis hexágonos a mais que o seu predecessor, porém compartilha as mesmas fraquezas defensivas. O {TXT_KEY_UNIT_OTTOMAN_SIPAHI} pode saquear melhorias inimigas sem nenhum custo adicional.</Text>
+			<Text>O Sipahi é uma unidade otomana exclusiva, que substitui o Lanceiro Montado. É muito mais rápido e pode ver seis hexágonos a mais que o seu predecessor, porém compartilha as mesmas fraquezas defensivas. O Sipahi pode saquear melhorias inimigas sem nenhum custo adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PARATROOPER_STRATEGY">
 			<Text>O Paraquedista é uma infantaria da fase avançada do jogo. É relativamente mais fraca que a Infantaria Mecanizada, porém, pode ser lançada até cinco hexágonos de distância (quando sair de um território aliado). Isso também permite ao Paraquedista literalmente pular sobre posições inimigas e destruir redes de estradas, saquear recursos vitais e daí em diante, realizando um massacre atrás das linhas inimigas. O Paraquedista corre um grande risco nessas missões, então, certifique-se que o alvo valha a pena.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PERSIAN_IMMORTAL_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_PERSIAN_IMMORTAL} é uma unidade persa exclusiva, que substitui o {TXT_KEY_UNIT_SPEARMAN}. É um pouco mais poderosa que o {TXT_KEY_UNIT_SPEARMAN} e se cura duas vezes mais rápido. É bem mortal contra unidades montadas.</Text>
+			<Text>O Imortal é uma unidade persa exclusiva, que substitui o Lanceiro. É um pouco mais poderosa que o Lanceiro e se cura duas vezes mais rápido. É bem mortal contra unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PIKEMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_PIKEMAN} é um {TXT_KEY_UNIT_SPEARMAN} mais poderoso. Recebe um bônus quando combate contra unidades montadas, o que praticamente o torna a única unidade que tem esperanças de se manter de pé contra um {TXT_KEY_UNIT_KNIGHT} violento. Um {TXT_KEY_UNIT_PIKEMAN} fortificado em um terreno defensivo é o pior pesadelo de um {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>O Piqueiro é um Lanceiro mais poderoso. Recebe um bônus quando combate contra unidades montadas, o que praticamente o torna a única unidade que tem esperanças de se manter de pé contra um Cavaleiro violento. Um Piqueiro fortificado em um terreno defensivo é o pior pesadelo de um Cavaleiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RIFLEMAN_STRATEGY">
 			<Text>O Fuzileiro é a unidade com arma de fogo que sucede o Mosquete. É significativamente mais poderoso que o Mosquete, dando ao exército uma grande vantagem sobre as civilizações que ainda não atualizaram suas novas unidades.</Text>
@@ -10663,10 +10663,10 @@
 			<Text>Unidade única romana, mais poderosa que a Catapulta, que substitui, a Balista é uma excelente arma de cerco. É extremamente útil contra cidades, mas é muito vulnerável a ataques. Certifique-se de proteger a Balista com outras unidades militares. A Balista deve primeiro se preparar (1 ponto de movimento) antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION_STRATEGY">
-			<Text>A Legião é a unidade romana única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. É mais poderosa que o seu predecessor, tornando-a a unidade de ataque corpo a corpo mais poderosa da Era Clássica. A Legião também pode construir estradas e é a única unidade militar capaz de fazê-lo.</Text>
+			<Text>A Legião é a unidade romana única, que substitui o Espadachim. É mais poderosa que o seu predecessor, tornando-a a unidade de ataque corpo a corpo mais poderosa da Era Clássica. A Legião também pode construir estradas e é a única unidade militar capaz de fazê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_RUSSIAN_COSSACK} é a unidade russa exclusiva, que substitui a {TXT_KEY_UNIT_CAVALRY}. Ele possui a mesma força que a {TXT_KEY_UNIT_CAVALRY} e podem se mover após atacar. Entretanto, recebem um forte bônus quando atacam unidades danificadas. Isso o torna excepcionalmente forte em contra-ataques - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
+			<Text>O Cossaco é a unidade russa exclusiva, que substitui a Cavalaria. Ele possui a mesma força que a Cavalaria e podem se mover após atacar. Entretanto, recebem um forte bônus quando atacam unidades danificadas. Isso o torna excepcionalmente forte em contra-ataques - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SCOUT_STRATEGY">
 			<Text>Esta unidade inicial pode atacar mas é fraca. Entretanto, ela pode se mover por terrenos difíceis como se estivessem limpos (qualquer hexágono custa 1 ponto de movimento). Use-a para exploração do mundo.</Text>
@@ -10675,13 +10675,13 @@
 			<Text>Use esta unidade para construir novas cidades. Ela não pode se defender, então a acompanhe com uma unidade de combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SIAMESE_WARELEPHANT_STRATEGY">
-			<Text>Esta é a unidade siamesa exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_SIAMESE_WARELEPHANT} é mais lento que o {TXT_KEY_UNIT_KNIGHT} mais é mais poderoso. Assim como o {TXT_KEY_UNIT_KNIGHT}, é capaz de se mover após atacar. Equipado com lanças, o {TXT_KEY_UNIT_SIAMESE_WARELEPHANT} ganha um bônus de combate significativo quando ataca outras unidades montadas.</Text>
+			<Text>Esta é a unidade siamesa exclusiva, que substitui o Cavaleiro. O Elefante de Naresuan é mais lento que o Cavaleiro mais é mais poderoso. Assim como o Cavaleiro, é capaz de se mover após atacar. Equipado com lanças, o Elefante de Naresuan ganha um bônus de combate significativo quando ataca outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Esta é a unidade Songai exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. Possui as mesmas características do {TXT_KEY_UNIT_KNIGHT}, mas ganha um significativo bônus quando ataca cidades. A {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover após atacar. Sua velocidade o torna uma unidade difícil para que o inimigo possa construir uma linha defensiva antes que ele alcance ao alvo.</Text>
+			<Text>Esta é a unidade Songai exclusiva, que substitui o Cavaleiro. Possui as mesmas características do Cavaleiro, mas ganha um significativo bônus quando ataca cidades. A Cavalaria Mandekalu pode se mover após atacar. Sua velocidade o torna uma unidade difícil para que o inimigo possa construir uma linha defensiva antes que ele alcance ao alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPEARMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SPEARMAN} é a primeira unidade de ataque à distância disponível depois do Guerreiro. Ela é um pouco mais poderosa que o Guerreiro, entretanto, recebe um bônus significativo contra as unidades montadas ({TXT_KEY_UNIT_CHARIOT_ARCHER}, {TXT_KEY_UNIT_HORSEMAN} e similares).</Text>
+			<Text>O Lanceiro é a primeira unidade de ataque à distância disponível depois do Guerreiro. Ela é um pouco mais poderosa que o Guerreiro, entretanto, recebe um bônus significativo contra as unidades montadas (Carruagem Arqueira, Jinete e similares).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_STEALTH_BOMBER_STRATEGY">
 			<Text>O Bombardeiro Furtivo é um Bombardeiro atualizado, possuindo um grande alcance, uma ótima "Força de Combate a Distância" e uma incrível habilidade de evitar armas antiaéreas e Aviões de Combate inimigos. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos de sua localização inicial ficará visível no início do turno. Note que Bombardeiros Furtivos não podem ser transportados por Porta-aviões. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
@@ -10690,10 +10690,10 @@
 			<Text>O Submarino é uma embarcação especializada em afundar outras embarcações. É invisível para a maioria das outras unidades - exceto aos Contratorpedeiros e a outros Submarinos - até que ela ataque ou fique adjacente a outra unidade. O Submarino por entrar em hexágonos com gelo. Use-o para patrulhar águas inimigas, destruir embarcações e guardar suas próprias embarcações de outros submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWORDSMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SWORDSMAN} é uma unidade padrão de ataque corpo a corpo poderosa da Era Clássica, sendo muito mais forte que o {TXT_KEY_UNIT_SPEARMAN} e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
+			<Text>O Espadachim é uma unidade padrão de ataque corpo a corpo poderosa da Era Clássica, sendo muito mais forte que o Lanceiro e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_TANK} é uma unidade terrestre móvel extremamente poderosa. Pode se mover após atacar, o que o torna capaz de fazer grandes furos nas linhas inimigas e, então, se preparar em novos hexágonos vazios. O {TXT_KEY_UNIT_TANK} recebe uma pequena penalidade quando ataca cidades inimigas, portanto, é uma boa ideia iniciar o ataque com um {TXT_KEY_UNIT_TANK} e terminar com o avanço da Artilharia ou Infantaria.</Text>
+			<Text>O Tanque é uma unidade terrestre móvel extremamente poderosa. Pode se mover após atacar, o que o torna capaz de fazer grandes furos nas linhas inimigas e, então, se preparar em novos hexágonos vazios. O Tanque recebe uma pequena penalidade quando ataca cidades inimigas, portanto, é uma boa ideia iniciar o ataque com um Tanque e terminar com o avanço da Artilharia ou Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TREBUCHET_STRATEGY">
 			<Text>O Trabuco é uma arma de cerco medieval, significativamente mais poderosa que sua unidade predecessora, a Catapulta. O Trabuco deve gastar 1 ponto de movimento para se preparar, mas assim que estiver em posição, pode causar sérios danos às cidades inimigas fortificadas. Defenda seus Trabucos com unidades de ataque corpo a corpo e a distância, para evitar que inimigos cheguem muito perto.</Text>
@@ -10705,7 +10705,7 @@
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORK_BOAT_STRATEGY">
-			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o {TXT_KEY_UNIT_WORK_BOAT} para explorar recursos aquáticos - [ICON_RES_FISH] Peixe, baleia, petróleo etc. O {TXT_KEY_UNIT_WORK_BOAT} é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
+			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o Barco de Serviço para explorar recursos aquáticos - [ICON_RES_FISH] Peixe, baleia, petróleo etc. O Barco de Serviço é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
 			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e minas. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
@@ -10753,7 +10753,7 @@
 			<Text>Como são construídas as unidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_CONSTRUCTING_HEADING2_BODY">
-			<Text>As unidades são construídas/treinadas em cidades. Cada unidade possui um "Custo de Produção/Treinamento" que determina quantas unidades de Produção uma cidade precisa gastar para produzir/treinar uma unidade. Para tanto, sua civilização também precisa ter conhecimento da tecnologia necessária (você precisa conhecer a tecnologia "Arco e Flecha", por exemplo, para treinar unidades Arqueiras). Algumas unidades também requerem que sua civilização tenha acesso a certos recursos para construí-las ou treiná-las ({TXT_KEY_UNIT_SWORDSMAN}, por exemplo, requer Ferro).</Text>
+			<Text>As unidades são construídas/treinadas em cidades. Cada unidade possui um "Custo de Produção/Treinamento" que determina quantas unidades de Produção uma cidade precisa gastar para produzir/treinar uma unidade. Para tanto, sua civilização também precisa ter conhecimento da tecnologia necessária (você precisa conhecer a tecnologia "Arco e Flecha", por exemplo, para treinar unidades Arqueiras). Algumas unidades também requerem que sua civilização tenha acesso a certos recursos para construí-las ou treiná-las (Espadachim, por exemplo, requer Ferro).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_CONSTRUCTING_HEADING2_TITLE">
 			<Text>Construindo/Treinando Unidades</Text>
@@ -10786,7 +10786,7 @@
 			<Text>O que são unidades nacionais?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NATIONAL_HEADING2_BODY">
-			<Text>Cada civilização em Civilization V possui um ou mais unidades nacionais especiais. Estas unidades são únicas daquela civilização e elas são de alguma forma superior às versões comuns daquela unidade. A civilização americana, por exemplo, possui o {TXT_KEY_UNIT_AMERICAN_MINUTEMAN}, que é superior ao {TXT_KEY_UNIT_MUSKETMAN}, disponível às demais civilizações. Também possuem o {TXT_KEY_UNIT_AMERICAN_B17}, que substitui a unidade {TXT_KEY_UNIT_BOMBER}. Os gregos possuem as unidades {TXT_KEY_UNIT_GREEK_HOPLITE} e {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}, que substituem o {TXT_KEY_UNIT_SPEARMAN} e o {TXT_KEY_UNIT_HORSEMAN} que outras civilizações recebem.[NEWLINE][NEWLINE]Veja o registro de cada civilização na Civilopédia para descobrir suas unidades especiais.</Text>
+			<Text>Cada civilização em Civilization V possui um ou mais unidades nacionais especiais. Estas unidades são únicas daquela civilização e elas são de alguma forma superior às versões comuns daquela unidade. A civilização americana, por exemplo, possui o Miliciano, que é superior ao Mosquete, disponível às demais civilizações. Também possuem o Bombardeiro B17, que substitui a unidade Bombardeiro. Os gregos possuem as unidades Hoplita e Heteros, que substituem o Lanceiro e o Jinete que outras civilizações recebem.[NEWLINE][NEWLINE]Veja o registro de cada civilização na Civilopédia para descobrir suas unidades especiais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NATIONAL_HEADING2_TITLE">
 			<Text>Unidades Nacionais</Text>
@@ -11392,7 +11392,7 @@
 			<Text>Poço de Petróleo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_BODY">
-			<Text>Requisitos Tecnológicos: {TXT_KEY_TECH_ANIMAL_HUSBANDRY}[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
+			<Text>Requisitos Tecnológicos: Domesticação de Animais[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_TITLE">
 			<Text>Pasto</Text>

@@ -10,7 +10,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_TITLE">
-			<Text>{TXT_KEY_TECH_ARCHITECTURE}</Text>
+			<Text>Arquitetura</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -20,7 +20,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
-			<Text>{TXT_KEY_TECH_GUILDS}</Text>
+			<Text>Guildas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -30,7 +30,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_TITLE">
-			<Text>{TXT_KEY_TECH_COMBINED_ARMS}</Text>
+			<Text>Armas Combinadas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -40,7 +40,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
-			<Text>{TXT_KEY_TECH_DRAMA}</Text>
+			<Text>Dramaturgia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -60,7 +60,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE">
-			<Text>{TXT_KEY_TECH_INDUSTRIALIZATION}</Text>
+			<Text>Industrialização</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -70,7 +70,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_TITLE">
-			<Text>{TXT_KEY_TECH_MOBILE_TACTICS}</Text>
+			<Text>Táticas Móveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -80,7 +80,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_TITLE">
-			<Text>{TXT_KEY_TECH_TELECOM}</Text>
+			<Text>Telecomunicações</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
