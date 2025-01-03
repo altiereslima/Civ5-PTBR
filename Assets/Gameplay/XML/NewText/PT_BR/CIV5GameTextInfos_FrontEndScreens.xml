@@ -507,7 +507,7 @@
 			<Text>Louco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_CRAZY_HELP">
-			<Text>Os recursos serão colocados em locais irracionais e haverá loucas quantidades de alguns tipos.</Text>
+			<Text>Os recursos serão colocados em locais irracionais e haverá quantidades loucas de alguns tipos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_PATTERN">
 			<Text>Padrão de montanhas</Text>
@@ -759,7 +759,7 @@
 			<Text>Posicionamento das equipes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TOP_VS_BOTTOM">
-			<Text>Superior vs enferior</Text>
+			<Text>Superior vs inferior</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LEFT_VS_RIGHT">
 			<Text>Esquerda vs direita</Text>
@@ -1350,7 +1350,7 @@
 			<Text>Conectar ao endereço IP</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_CONNECT_TO_IP_TT">
-			<Text>Conectar a um jogo pitboss em um endereço IP público específico.</Text>
+			<Text>Conectar a um jogo Pitboss em um endereço IP público específico.</Text>
 		</Row>  
 		<Row Tag="TXT_KEY_CONNECTED">
 			<Text>Conectado</Text>
