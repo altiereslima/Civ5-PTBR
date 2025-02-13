@@ -90,7 +90,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING">
-			<Text>Ferro</Text>
+			<Text>Trabalho em Ferro</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -355,7 +355,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_TITLE">
-			<Text>Ferro</Text>
+			<Text>Trabalho em Ferro</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
