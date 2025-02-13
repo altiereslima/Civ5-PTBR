@@ -19,8 +19,8 @@
             <Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS">
-            <Text>Siderúrgica</Text>
-            <Gender>feminine</Gender>
+            <Text>Trabalho em Ferro</Text>
+            <Gender>masculine</Gender>
             <Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD">
