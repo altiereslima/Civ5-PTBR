@@ -198,7 +198,7 @@
 			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
-			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE] Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
+			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE] Era de Ouro quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
 			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o Lanceiro Montado, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
@@ -216,10 +216,10 @@
 			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
-			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizado para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um Silo ou uma Oficina.</Text>
+			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizado para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um Celeiro ou uma Oficina.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVAN">
-			<Text>Estabelece Rotas Comerciais terrestres, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um Silo ou uma Oficina.</Text>
+			<Text>Estabelece Rotas Comerciais terrestres, que geram [ICON_GOLD] Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção dentro de suas próprias fronteiras, após construir um Celeiro ou uma Oficina.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_XCOM_SQUAD">
 			<Text>Unidade de infantaria futurística especializada em enfrentar o perigo em qualquer lugar do mundo. O Esquadrão XCOM pode se mover e saquear após aterrissar, mas não pode entrar em combate até o próximo turno.[NEWLINE][NEWLINE][COLOR_CYAN]Boa sorte, Comandante![ENDCOLOR]</Text>
@@ -312,7 +312,7 @@
 			<Text>Dizer a esse povo que eles são bárbaros. Várias vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_SETTLER">
-			<Text>Convencer a tribo perdida a se tornar um Colonizador de sua civilização.</Text>
+			<Text>Convencer a tribo perdida a se tornar um Colono de sua civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_SCOUT">
 			<Text>Convencer a tribo perdida a se tornar um Batedor de sua civilização.</Text>
@@ -367,10 +367,10 @@
 			<Text>+250% de Bônus vs Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS">
-			<Text>Era Dourada de Vitórias</Text>
+			<Text>Era de Ouro de Vitórias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS_HELP">
-			<Text>Obtém pontos para gerar uma Era Dourada para cada inimigo destruído.</Text>
+			<Text>Obtém pontos para gerar uma Era de Ouro para cada inimigo destruído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL_HELP">
 			<Text>+3 de [ICON_MOVES] Movimento.</Text>

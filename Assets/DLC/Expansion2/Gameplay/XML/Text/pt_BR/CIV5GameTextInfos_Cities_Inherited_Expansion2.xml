@@ -4,7 +4,7 @@
     <Language_pt_BR>
         <!-- ETHIOPIA -->
         <Row Tag="TXT_KEY_CITY_NAME_ADDISABABA">
-            <Text>Addis Ababa</Text>
+            <Text>Adis Abeba</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>

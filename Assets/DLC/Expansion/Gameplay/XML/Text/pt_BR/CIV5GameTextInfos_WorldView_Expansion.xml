@@ -48,7 +48,7 @@
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FROM_GOLDEN_AGE">
-			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era Dourada.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_PANTHEON_DESCRIPTION">
 			<Text>adorando panteão com crença:</Text>
@@ -111,7 +111,7 @@
 			<Text>{1_Num} pela felicidade global por edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era Dourada, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION] Produção e a [ICON_CULTURE] Cultura por todo o império é aumentada em 20%.</Text>
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era de Ouro, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION] Produção e a [ICON_CULTURE] Cultura por todo o império é aumentada em 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_ADJACENT_TERRITORY">
 			<Text>{@1_ImprovementName} {@1: gender feminine?{@1: plural 2?devem ser construídas; other?deve ser construída;}; other?{@1: plural 2?devem ser construídos; other?deve ser construído;};} dentro ou adjacente ao seu território.</Text>
@@ -129,7 +129,7 @@
 			<Text>[COLOR_CYAN]Chance de Captura se afundar: {1_Percent}%[ENDCOLOR]</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era Dourada, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era de Ouro, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
 			<Text>[COLOR_YELLOW]Interceptação por avião ou[ENDCOLOR]</Text>

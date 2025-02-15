@@ -89,7 +89,7 @@
             <Text>Florescimento das Artes</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Florescimento das Artes[ENDCOLOR][NEWLINE]A [ICON_CULTURE] Cultura aumenta em 33% em todas as cidades que tiverem construído uma Maravilha Mundial e o império entra imediatamente em uma [ICON_GOLDEN_AGE] Era Dourada.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Florescimento das Artes[ENDCOLOR][NEWLINE]A [ICON_CULTURE] Cultura aumenta em 33% em todas as cidades que tiverem construído uma Maravilha Mundial e o império entra imediatamente em uma [ICON_GOLDEN_AGE] Era de Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ETHICS">
             <Text>Intercâmbio Cultural</Text>
@@ -900,7 +900,7 @@
             <Text>Pare de escavar meus artefatos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Regra Coletiva[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonizadores[ENDCOLOR] em 50% na [ICON_CAPITAL] Capital e um Colonizador gratuito aparece próximo a [ICON_CAPITAL] Capital. (Veneza recebe um Mercador de Veneza ao invés de um Colonizador.)</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Regra Coletiva[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonos[ENDCOLOR] em 50% na [ICON_CAPITAL] Capital e um Colono gratuito aparece próximo a [ICON_CAPITAL] Capital. (Veneza recebe um Mercador de Veneza ao invés de um Colono.)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HEAL_DISABLED_HELP">
             <Text>Esta unidade não pode se curar fora de território amigo ou quando está embarcada.</Text>

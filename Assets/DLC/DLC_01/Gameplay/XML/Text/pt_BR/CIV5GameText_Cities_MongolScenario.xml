@@ -7,57 +7,93 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_KIEV">
 			<Text>Kiev</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_CONSTANTINOPLE">
 			<Text>Constantinopla</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_THESSALONICA">
-			<Text>Salônica</Text>
+			<Text>Tessalônica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_CAIRO">
 			<Text>Cairo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ALEPPO">
 			<Text>Alepo</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_URGENCH">
 			<Text>Urgench</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ISFAHAN">
 			<Text>Isfahan</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_NISHAPUR">
 			<Text>Nishapur</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_SAMARKAND">
-			<Text>Samarkand</Text>
+			<Text>Samarcanda</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_TABRIZ">
 			<Text>Tabriz</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_MULTAN">
 			<Text>Multan</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_TANZHOU">
 			<Text>Tanzhou</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIANGYANG">
 			<Text>Xiangyang</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_DAZAIFU">
 			<Text>Dazaifu</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_BEIJING">
 			<Text>Pequim</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_KAIFENG">
 			<Text>Kaifeng</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIAN">
 			<Text>Xian</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_LIAOYANG">
 			<Text>Liaoyang</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

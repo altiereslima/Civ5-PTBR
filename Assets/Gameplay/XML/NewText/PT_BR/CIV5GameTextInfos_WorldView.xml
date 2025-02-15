@@ -118,7 +118,7 @@
 			<Text>Bônus de defesa em {1_TerrainType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_GOLDEN_AGE">
-			<Text>Bônus de Era Dourada</Text>
+			<Text>Bônus de Era de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_CITY_STATE">
 			<Text>Bônus de Cidade-Estado</Text>
@@ -399,7 +399,7 @@
 			<Text>Sem ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLDEN_AGE_ANNOUNCE">
-			<Text>Era Dourada!</Text>
+			<Text>Era de Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_SCIENCE">
 			<Text>Um total de {1_Num} {1: plural 1?ponto; other?pontos;} de [ICON_RESEARCH] Ciência {1: plural 1?está; other?estão;} sendo {1: plural 1?produzido; other?produzidos;} em todo o Império para o projeto de pesquisa atual.</Text>
@@ -465,7 +465,7 @@
 			<Text>O nível de {1_Icon}Infelicidade do seu Império é {2_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4] infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4] infeliz! As cidades não crescem mais, os Colonizadores não podem ser treinados, a [ICON_PRODUCTION] Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4] infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4] infeliz! As cidades não crescem mais, os Colonos não podem ser treinados, a [ICON_PRODUCTION] Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
 			<Text>As cidades vão crescer apenas a 1/4 da velocidade normal enquanto o império estiver [ICON_HAPPINESS_3] Infeliz!</Text>
@@ -537,10 +537,10 @@
 			<Text>É necessário [ICON_HAPPINESS_1] Felicidade para fazer com que as suas cidades cresçam. Ela é usada para combater a [ICON_HAPPINESS_4] Infelicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_NOW">
-			<Text>O Império está em [ICON_GOLDEN_AGE] Era Dourada por mais {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
+			<Text>O Império está em [ICON_GOLDEN_AGE] Era de Ouro por mais {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_PROGRESS">
-			<Text>[ICON_BULLET] {1_NumCurrent}/{2_NumNeeded} de progresso até a próxima [ICON_GOLDEN_AGE] Era Dourada.</Text>
+			<Text>[ICON_BULLET] {1_NumCurrent}/{2_NumNeeded} de progresso até a próxima [ICON_GOLDEN_AGE] Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_ADDITION">
 			<Text>[ICON_BULLET] {1_Num} {1: plural 1?é; other?são;} {1: plural 1?adquirido; other?adquiridos;} por turno pelo excesso de [ICON_HAPPINESS_1] Felicidade.</Text>
@@ -549,7 +549,7 @@
 			<Text>[ICON_BULLET] {1_Num} {1: plural 1?é; other?são;} {1: plural 1?perdido; other?perdidos;} por turno pela [ICON_HAPPINESS_4] Infelicidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-			<Text>Enquanto estiver na [ICON_GOLDEN_AGE] Era Dourada, todos os hexágonos do seu Império que estiverem gerando pelo menos 1 de [ICON_GOLD] Ouro irão produzir 1 extra e as cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
+			<Text>Enquanto estiver na [ICON_GOLDEN_AGE] Era de Ouro, todos os hexágonos do seu Império que estiverem gerando pelo menos 1 de [ICON_GOLD] Ouro irão produzir 1 extra e as cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_ACCUMULATED">
 			<Text>Você acumulou {1_Num} de [ICON_CULTURE] Cultura em todo o Império.</Text>

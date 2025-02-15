@@ -8,7 +8,7 @@
 			<Text>Pirataria Avançada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
-			<Text>A "Era Dourada da Pirataria" abrangeu, aproximadamente, os anos de 1650 a 1730 d.C., enquanto figuras como Henry Morgan, Bartholomew Roberts e Calico Jack Rackham navegavam pela Rota Espanhola. Ela foi impulsionada tanto pelas riquezas incríveis sendo enviadas para a Europa do Novo Mundo quanto pelos avanços na construção naval, permitindo que navios velozes e ágeis como escunas, brigantinos e escunas maiores carregassem armamento mais pesado e tripulações maiores.</Text>
+			<Text>A "Era de Ouro da Pirataria" abrangeu, aproximadamente, os anos de 1650 a 1730 d.C., enquanto figuras como Henry Morgan, Bartholomew Roberts e Calico Jack Rackham navegavam pela Rota Espanhola. Ela foi impulsionada tanto pelas riquezas incríveis sendo enviadas para a Europa do Novo Mundo quanto pelos avanços na construção naval, permitindo que navios velozes e ágeis como escunas, brigantinos e escunas maiores carregassem armamento mais pesado e tripulações maiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
 			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Mendigo do Mar[ENDCOLOR], um navio pirata mais forte que pode se curar fora do seu território. Esta tecnologia também permite construir a edificação impulsionadora de [ICON_GOLD] Ouro, a [COLOR_POSITIVE_TEXT]Fábrica de Chocolate[ENDCOLOR].</Text>

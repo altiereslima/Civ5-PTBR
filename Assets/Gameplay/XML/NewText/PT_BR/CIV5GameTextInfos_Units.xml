@@ -102,9 +102,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU">
-			<Text>Chu-Ko-Nu</Text>
+			<Text>Chu Ko Nu|Chu Ko Nus</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
 			<Text>Besteiro|Besteiros</Text>
@@ -162,9 +162,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER">
-			<Text>Panzer</Text>
+			<Text>Panzer|Panzers</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
 			<Text>Grande Artista|Grandes Artistas</Text>
@@ -232,19 +232,19 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR">
-			<Text>Guerreiro Mohawk</Text>
+			<Text>Guerreiro Mohawk|Guerreiros Mohawk</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI">
-			<Text>Samurai</Text>
+			<Text>Samurai|Samurais</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
-			<Text>Zero</Text>
+			<Text>Zero|Zeros</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JET_FIGHTER">
 			<Text>Caça a Jato</Text>
@@ -307,9 +307,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JANISSARY">
-			<Text>Janízaro</Text>
+			<Text>Janízaro|Janízaros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI">
 			<Text>Sipahi|Sipahis</Text>
@@ -332,12 +332,12 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RIFLEMAN">
-			<Text>Fuzileiro</Text>
+			<Text>Fuzileiro|Fuzileiros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROCKET_ARTILLERY">
-			<Text>Artilharia de Foguete|Artilharias de Foguete</Text>
+			<Text>Artilharia de Foguetes|Artilharias de Foguetes</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -362,7 +362,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SETTLER">
-			<Text>Colonizador|Colonizadores</Text>
+			<Text>Colono|Colonos</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -1787,7 +1787,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_OF_SAVOY">
-			<Text>Eugene de Savoy</Text>
+			<Text>Eugênio de Saboia</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

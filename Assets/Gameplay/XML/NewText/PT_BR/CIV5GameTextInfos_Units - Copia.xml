@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_SPECIALUNIT_FIGHTER">
+			<Text>Caças</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALUNIT_MISSILE">
+			<Text>Mísseis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALUNIT_PEOPLE">
+			<Text>Exploradores, Missionários, Espiões, Grandes Personalidades</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_B17">
+			<Text>B-17|B-17s</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN">
+			<Text>Minuteman|Minutemen</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANTI_AIRCRAFT_GUN">
+			<Text>Canhão Antiaéreo|Canhões Antiaéreos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER">
+			<Text>Arqueiro em Camelo|Arqueiros em Camelo</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHER">
+			<Text>Arqueiro|Arqueiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARTILLERY">
+			<Text>Artilharia|Artilharias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AT_GUN">
+			<Text>Arma Antitanque|Armas Antitanque</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB">
+			<Text>Bomba Atômica|Bombas Atômicas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AZTEC_JAGUAR">
+			<Text>Guerreiro Jaguar|Guerreiros Jaguar</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATTLESHIP">
+			<Text>Encouraçado</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOMBER">
+			<Text>Bombardeiro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CANNON">
+			<Text>Canhão</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARAVEL">
+			<Text>Caravela|Caravelas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARRIER">
+			<Text>Porta-aviões</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CATAPULT">
+			<Text>Catapulta</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY">
+			<Text>Cavalaria|Cavalarias</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER">
+			<Text>Arqueiro de Biga|Arqueiros de Biga</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU">
+			<Text>Chu Ko Nu|Chu Ko Nus</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
+			<Text>Besteiro|Besteiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DESTROYER">
+			<Text>Contratorpedeiro|Contratorpedeiros</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EGYPT_WARCHARIOT">
+			<Text>Biga de Guerra Egípcia|Bigas de Guerra Egípcias</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN">
+			<Text>Arqueiro de Arco Longo|Arqueiros de Arco Longo</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE">
+			<Text>Navio de Linha|Navios de Linha</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIGHTER">
+			<Text>Avião de Combate</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION">
+			<Text>Legião Estrangeira|Legiões Estrangeiras</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_MUSKETEER">
+			<Text>Mosqueteiro|Mosqueteiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRIGATE">
+			<Text>Fragata|Fragatas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEY">
+			<Text>Galé|Galés</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT">
+			<Text>Lansquenete|Lansquenetes</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER">
+			<Text>Panzer|Panzers</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
+			<Text>Grande Artista|Grandes Artistas</Text>
+			<Gender>neuter:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER">
+			<Text>Grande Engenheiro</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL">
+			<Text>Grande General</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT">
+			<Text>Grande Mercador</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST">
+			<Text>Grande Cientista</Text>
+			<Gender>neuter:human</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY">
+			<Text>Companheiro de Cavalaria|Companheiros de Cavalaria</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREEK_HOPLITE">
+			<Text>Hoplita|Hoplitas</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GUIDED_MISSILE">
+			<Text>Míssil Guiado</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP">
+			<Text>Helicóptero de Combate|Helicópteros de Combate</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
+			<Text>Cavaleiro|Cavaleiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT">
+			<Text>Elefante de Guerra|Elefantes de Guerra</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INFANTRY">
+			<Text>Infantaria</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRONCLAD">
+			<Text>Encouraçado|Encouraçados</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR">
+			<Text>Guerreiro Mohawk|Guerreiros Mohawk</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI">
+			<Text>Samurai|Samurais</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
+			<Text>Zero|Zeros</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JET_FIGHTER">
+			<Text>Caça a Jato</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KNIGHT">
+			<Text>Cavaleiro|Cavaleiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANCER">
+			<Text>Lanceiro|Lanceiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN">
+			<Text>Espadachim Longo|Espadachins Longos</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MECH">
+			<Text>Robô Gigante da Morte|Robôs Gigantes da Morte</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MECHANIZED_INFANTRY">
+			<Text>Infantaria Mecanizada|Infantarias Mecanizadas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER">
+			<Text>Cruzador de Mísseis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM">
+			<Text>SAM Móvel|SAMs Móveis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR">
+			<Text>Blindado Moderno|Blindados Modernos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MUSKETMAN">
+			<Text>Mosqueteiro|Mosqueteiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
+			<Text>Míssil Nuclear</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE">
+			<Text>Submarino Nuclear</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JANISSARY">
+			<Text>Janízaro|Janízaros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI">
+			<Text>Sipahi|Sipahis</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PARATROOPER">
+			<Text>Paraquedista|Paraquedistas</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PERSIAN_IMMORTAL">
+			<Text>Imortal|Imortais</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIKEMAN">
+			<Text>Piqueiro|Piqueiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIFLEMAN">
+			<Text>Fuzileiro|Fuzileiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_ARTILLERY">
+			<Text>Artilharia de Foguetes|Artilharias de Foguetes</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROMAN_BALLISTA">
+			<Text>Balista|Balistas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION">
+			<Text>Legionário|Legionários</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK">
+			<Text>Cossaco|Cossacos</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCOUT">
+			<Text>Batedor|Batedores</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SETTLER">
+			<Text>Colono|Colonos</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIAMESE_WARELEPHANT">
+			<Text>Elefante de Guerra de Naresuan|Elefantes de Guerra de Naresuan</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag

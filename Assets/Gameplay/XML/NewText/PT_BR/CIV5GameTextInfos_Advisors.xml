@@ -7,22 +7,22 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
-			<Text>Este é um bom lugar para fundar uma cidade. Alimentos e recursos são abundantes aqui. Para fundar uma cidade, clique no botão [COLOR_ADVISOR_HIGHLIGHT_TEXT]Fundar cidade[/COLOR] do seu [COLOR_UNIT_TEXT]Colonizador[/COLOR], localizado no painel da unidade selecionada, no lado esquerdo da tela.</Text>
+			<Text>Este é um bom lugar para fundar uma cidade. Alimentos e recursos são abundantes aqui. Para fundar uma cidade, clique no botão [COLOR_ADVISOR_HIGHLIGHT_TEXT]Fundar cidade[/COLOR] do seu [COLOR_UNIT_TEXT]Colono[/COLOR], localizado no painel da unidade selecionada, no lado esquerdo da tela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
 			<Text>Funde uma cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
-			<Text>Mostre o Colonizador</Text>
+			<Text>Mostre o Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
-			<Text>Você precisa fundar uma cidade - e logo! Clique no botão [COLOR_ADVISOR_HIGHLIGHT_TEXT]Fundar cidade[/COLOR] do seu [COLOR_UNIT_TEXT]Colonizador[/COLOR] o mais rápido possível.</Text>
+			<Text>Você precisa fundar uma cidade - e logo! Clique no botão [COLOR_ADVISOR_HIGHLIGHT_TEXT]Fundar cidade[/COLOR] do seu [COLOR_UNIT_TEXT]Colono[/COLOR] o mais rápido possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
 			<Text>Funde uma cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
-			<Text>Mostre o Colonizador</Text>
+			<Text>Mostre o Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
 			<Text>Considere enviar seu [COLOR_UNIT_TEXT]Guerreiro[/COLOR] para [COLOR_ADVISOR_HIGHLIGHT_TEXT]explorar novos territórios[/COLOR]. Quando uma unidade é selecionada, clique com o botão direito do mouse para poder movimentá-la.</Text>
@@ -136,7 +136,7 @@
 			<Text>Seu povo está irritado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
-			<Text>Nossa capital tem crescido e se tornou uma cidade movimentada! Pode ser a hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT]treinar um Colonizador[/COLOR] para fundar outras cidades.</Text>
+			<Text>Nossa capital tem crescido e se tornou uma cidade movimentada! Pode ser a hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT]treinar um Colono[/COLOR] para fundar outras cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
 			<Text>Nova cidade?</Text>
@@ -160,22 +160,22 @@
 			<Text>Mostre a Cidade-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
-			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colonizador[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD] Alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD] Alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colonizador para um local fértil e funde uma nova cidade.[/COLOR]</Text>
+			<Text>Você pode fundar uma nova cidade com seu [COLOR_UNIT_TEXT]Colono[/COLOR]. Para crescer, uma cidade requer um número de hexágonos ricos em [ICON_FOOD] Alimentos por perto, então funde sua cidade perto de recursos com [ICON_FOOD] Alimentos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Colono para um local fértil e funde uma nova cidade.[/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
 			<Text>Onde fundar uma cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
-			<Text>Mostre o Colonizador</Text>
+			<Text>Mostre o Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
-			<Text>Seu [COLOR_UNIT_TEXT]Colonizador[/COLOR] está sozinho fora do seu território e pode ser capturado. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene uma unidade militar que o escolte e o proteja[/COLOR] de bárbaros e civilizações inimigas oportunistas.</Text>
+			<Text>Seu [COLOR_UNIT_TEXT]Colono[/COLOR] está sozinho fora do seu território e pode ser capturado. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene uma unidade militar que o escolte e o proteja[/COLOR] de bárbaros e civilizações inimigas oportunistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
-			<Text>Proteja seu Colonizador</Text>
+			<Text>Proteja seu Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
-			<Text>Mostre o Colonizador</Text>
+			<Text>Mostre o Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
 			<Text>Assim como as unidades militares, as cidades podem se defender contra ataques. Uma cidade só pode ser capturada quando sua força for reduzida a zero. Use as unidades militares para derrotar os sitiantes antes que sua cidade caia!</Text>
@@ -496,7 +496,7 @@
 		  <Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
-		  <Text>Parabéns! Uma Grande Personalidade nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era Dourada, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
+		  <Text>Parabéns! Uma Grande Personalidade nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era de Ouro, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
 		  <Text>Grande Personalidade</Text>
@@ -526,7 +526,7 @@
 			<Text>Atacando cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
-			<Text>Para treinar [COLOR_UNIT_TEXT]Colonizadores[/COLOR] a [ICON_CITIZEN] população deve ser de pelo menos 2 cidadãos. Então, para acelerar sua jornada daremos a sua primeira cidade um [ICON_CITIZEN] Cidadão extra. Não se acostume com isso; cidades fundadas de agora em diante vão começar com apenas 1 de [ICON_CITIZEN] população.</Text>
+			<Text>Para treinar [COLOR_UNIT_TEXT]Colonos[/COLOR] a [ICON_CITIZEN] população deve ser de pelo menos 2 cidadãos. Então, para acelerar sua jornada daremos a sua primeira cidade um [ICON_CITIZEN] Cidadão extra. Não se acostume com isso; cidades fundadas de agora em diante vão começar com apenas 1 de [ICON_CITIZEN] população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
 			<Text>População extra</Text>
@@ -685,7 +685,7 @@
 			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como as cidades funcionam, como fundar uma cidade e quais são os melhores lugares para fundá-las.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
-			<Text>Criar Colonizadores e Fundar Cidades</Text>
+			<Text>Criar Colonos e Fundar Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
 			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD] Ouro, melhorias para ajudar suas cidades a crescer mais rápido, levantar edificações e encontrar recursos para fazer seu povo feliz.</Text>
@@ -910,7 +910,7 @@
 			<Text>Exploramos com eficácia as águas litorâneas. Nós não precisamos enviar mais unidades para explorar os mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
-			<Text>Temos espaço para expandir, então vamos treinar um [COLOR_UNIT_TEXT]Colonizador[/COLOR] e fundar uma nova cidade!</Text>
+			<Text>Temos espaço para expandir, então vamos treinar um [COLOR_UNIT_TEXT]Colono[/COLOR] e fundar uma nova cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_EXPANSION">
 		  <Text>Devemos nos concentrar no crescimento e melhorar o que temos ao invés de fundar novas cidades.</Text>
@@ -928,7 +928,7 @@
 			<Text>Temos recursos marinhos que não estamos usando. Construa {TXT_KEY_UNIT_WORK_BOAT[2]} e use-os para ajudar a nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
-			<Text>Temos um [COLOR_UNIT_TEXT]Colonizador[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
+			<Text>Temos um [COLOR_UNIT_TEXT]Colono[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
 			<Text>Temos uma crise de [ICON_FOOD] Alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD] Alimentos que necessitamos.</Text>
@@ -988,7 +988,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edificações que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] está preparada e pronta para treinar um [COLOR_UNIT_TEXT]Colonizador[/COLOR] e expandir nosso império.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] está preparada e pronta para treinar um [COLOR_UNIT_TEXT]Colono[/COLOR] e expandir nosso império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_UNDER_THREAT">
 			<Text>Mantenha a guarda em volta de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], nossa Capital. Inimigos estão rondando a área e devemos estar preparados para um ataque.</Text>

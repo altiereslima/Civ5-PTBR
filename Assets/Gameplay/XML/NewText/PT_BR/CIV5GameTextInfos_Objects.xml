@@ -157,7 +157,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_HANDICAP_SETTLER">
-			<Text>Colonizador</Text>
+			<Text>Colono</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>

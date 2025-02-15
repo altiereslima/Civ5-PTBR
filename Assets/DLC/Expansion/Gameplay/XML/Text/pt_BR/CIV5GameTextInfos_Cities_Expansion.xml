@@ -282,7 +282,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALTARDESACRIFICIOS">
-			<Text>Altar de Sacrificios</Text>
+			<Text>Altar de Sacrifícios</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -494,7 +494,7 @@
 		</Row>
 		<!-- ETHIOPIA -->
 		<Row Tag="TXT_KEY_CITY_NAME_ADDISABABA">
-			<Text>Addis Ababa</Text>
+			<Text>Adis Abeba</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1107,7 +1107,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SELYMBRIA">
-			<Text>Selymbria</Text>
+			<Text>Selimbria</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1117,17 +1117,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHRYSOPOLIS">
-			<Text>Críssopo</Text>
+			<Text>Crisópolis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CORCYRUS">
-			<Text>Coríco</Text>
+			<Text>Corcira</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VODENA">
-			<Text>Vodena</Text>
+			<Text>Edessa</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1354,7 +1354,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LEON">
-			<Text>Leon</Text>
+			<Text>León</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1384,12 +1384,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAEN">
-			<Text>Jaen</Text>
+			<Text>Jaén</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LOGRONO">
-			<Text>Logrono</Text>
+			<Text>Logroño</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1399,7 +1399,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALMERIA">
-			<Text>Almeria</Text>
+			<Text>Almería</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1424,7 +1424,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CADIZ">
-			<Text>Cadiz</Text>
+			<Text>Cádis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1434,7 +1434,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALCORCON">
-			<Text>Alcorcon</Text>
+			<Text>Alcorcón</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1459,7 +1459,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAN_SEBASTIAN">
-			<Text>San Sebastian</Text>
+			<Text>San Sebastián</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1469,7 +1469,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MERIDA">
-			<Text>Merida</Text>
+			<Text>Mérida</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

@@ -1283,13 +1283,13 @@
             <Text>{1_PlyrName} se converteu para o [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS">
-            <Text>{1_PlyrName}: começou a Era Dourada</Text>
+            <Text>{1_PlyrName}: começou a Era de Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED">
-            <Text>{1_PlyrName}: a Era Dourada acabou...</Text>
+            <Text>{1_PlyrName}: a Era de Ouro acabou...</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_HAS_BEGUN">
-            <Text>{1_PlyrName}: a Era Dourada começou!!!</Text>
+            <Text>{1_PlyrName}: a Era de Ouro começou!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_PERMANENT_ALLIANCE">
             <Text>{1_PlyrName} fez uma aliança permanente com {2_TeamName}!</Text>
@@ -1550,7 +1550,7 @@
             <Text>Bombardear cultura</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE">
-            <Text>Iniciar uma Era Dourada</Text>
+            <Text>Iniciar uma Era de Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP">
             <Text>Adicionar à Espaçonave</Text>

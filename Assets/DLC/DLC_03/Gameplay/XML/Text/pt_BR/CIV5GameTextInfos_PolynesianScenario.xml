@@ -187,7 +187,7 @@
             <Text>Hula</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Hula[ENDCOLOR][NEWLINE]A quantidade de [ICON_HAPPINESS_1] Felicidade requerida para iniciar uma [ICON_GOLDEN_AGE] Era Dourada é reduzida em 25%.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Hula[ENDCOLOR][NEWLINE]A quantidade de [ICON_HAPPINESS_1] Felicidade requerida para iniciar uma [ICON_GOLDEN_AGE] Era de Ouro é reduzida em 25%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_DESC">
             <Text>A Hula é um tipo de dança tradicional Havaiana que é acompanhada por cânticos e instrumentos musicais. Há vários tipos de danças correlatas por toda a grande Polinésia. Desde o contato com o Ocidente, os instrumentos e cânticos utilizados na Hula incluíram novos elementos, como o canto polifônico e o ukelele. A Hula era realizada por uma variedade de razões, de importantes rituais a simples socialização. As mãos dos dançarinos da Hula são usadas para representar elementos na música, de ondulações das ondas do mar e árvores balançando ao vento até emoções dos personagens. Depois que a Hula quase de transformou em cultura Kitsch, um sério esforço para reviver estilos antigos da dança começou no Havaí.</Text>
@@ -369,7 +369,7 @@
             <Text>Em sua língua nativa, Hiva era chamada "A Terra dos Homens". O Arquipélago das Marquesas é parte da Polinésia Francesa, no extremo oriental da região.[NEWLINE][NEWLINE]Essas acidentadas ilhas vulcânicas são geologicamente jovens, feitas dos corações basálticos de extintos vulcões. O clima é temperado por todo o ano, com uma estação chuvosa, fazendo com que o autor desejasse estar lá neste exato momento.[NEWLINE][NEWLINE]As Marquesas provavelmente foram colonizadas por volta de 100 d.C. pelos Polinésios, sendo que evidências linguísticas e antropológicas mostram que os colonizadores vieram de Tonga e Samoa.[NEWLINE][NEWLINE]Hiva possui a honra dúbia de ter sido reclamada e anexada diversas vezes por poderes ocidentais. Ela foi primeiramente descoberta e reivindicada pelo explorador Espanhol Álvaro de Mendanha de Neira, em 1595 (ela nomeou as Ilhas Marquesas em honra a sua patrona), e depois Hiva foi numerosas vezes reclamada pelos Americanos (que a nomeou como Ilhas Washington) e pelos Franceses em 1870. Hiva sofreu a maior perda populacional, em razão de doenças introduzidas, que qualquer outro grupo das ilhas Polinésias.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS">
-            <Text>Recebe um Colonizador gratuitamente quando você pesquisar a Astronomia.</Text>
+            <Text>Recebe um Colono gratuitamente quando você pesquisar a Astronomia.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS_SHORT">
             <Text>Os Habitantes de Hotu Matua</Text>

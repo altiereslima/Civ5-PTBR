@@ -510,10 +510,10 @@
             <Text>[NEWLINE]Unidades Especiais não podem ser treinadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT">
-            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com pelo menos {1_Num} [ICON_CITIZEN] {1_Num: plural 1?cidadão; other?cidadãos;}.</Text>
+            <Text>[NEWLINE]Os Colonos só podem ser treinados em cidades com pelo menos {1_Num} [ICON_CITIZEN] {1_Num: plural 1?cidadão; other?cidadãos;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
-            <Text>[NEWLINE]Colonizadores só podem ser treinados em cidades com no mínimo 2 [ICON_CITIZEN] Cidadãos.</Text>
+            <Text>[NEWLINE]Os Colonos só podem ser treinados em cidades com no mínimo 2 [ICON_CITIZEN] Cidadãos.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_UNIT_REQUIRES_BUILDING">
             <Text>[NEWLINE]Requer a edificação {1_BuildingName:textkey} nesta cidade.</Text>
@@ -751,7 +751,7 @@
             <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades Militares: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_SETTLER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Colonizadores: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Colonos: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_RELIGION_PLAYER">
             <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Edificações Religiosas: {1_Num}%</Text>
@@ -834,10 +834,10 @@
             <Text>Votação das Nações Unidas</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
-            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou na Era Dourada!</Text>
+            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou na Era de Ouro!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_GOLDEN_AGE_BEGIN">
-            <Text>A Era Dourada raiou!</Text>
+            <Text>A Era de Ouro raiou!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RUINS_EXPLORED">
             <Text>Ruínas exploradas!</Text>
@@ -1243,10 +1243,10 @@
 		  <Text>[ICON_GOLD] Ouro: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_CAPITAL_SETTLER_PLAYER">
-		  <Text>[NEWLINE][ICON_BULLET] Modificador da Capital para Colonizadores: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador da Capital por Colonos: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_GOLDEN_AGE">
-		  <Text>[NEWLINE][ICON_BULLET] Modificador da Era Dourada: {1_Num}%</Text>
+		  <Text>[NEWLINE][ICON_BULLET] Modificador da Era de Ouro: {1_Num}%</Text>
 		</Row>
 		 <Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_TT">
 		  <Text>Parabéns! A descoberta {@1: gender feminine?{@1: plural 1?da; other?das;}; other?{@1: plural 1?do; other?dos;};} {@1_NWName} aumentou a [ICON_HAPPINESS_1] Felicidade no Império.[NEWLINE][NEWLINE]Rendimento se explorar: </Text>

@@ -853,16 +853,16 @@
 			<Text>Uma Civilização desconhecida iniciou a construção de {1: gender masculine?um; feminine?uma;} {1_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN">
-			<Text>Teve início a Era Dourada para a Civilização {1_LongCivName:textkey}.</Text>
+			<Text>Teve início a Era de Ouro para a Civilização {1_LongCivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
-			<Text>A Era dourada iniciou para você!</Text>
+			<Text>A Era de Ouro iniciou para você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED">
-			<Text>A Era Dourada para {1: gender *:noart? ; masculine?{1: plural 1?o; other?os;}; feminine?{1: plural 1?a; other?as;};} {1_LongCivName:textkey} terminou.</Text>
+			<Text>A Era de Ouro para {1: gender *:noart? ; masculine?{1: plural 1?o; other?os;}; feminine?{1: plural 1?a; other?as;};} {1_LongCivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
-			<Text>A sua Era Dourada terminou.</Text>
+			<Text>A sua Era de Ouro terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_UNIT_CAN_GET_PROMOTION">
 			<Text>Uma unidade adquiriu experiência suficiente para ser promovida.</Text>
@@ -1219,16 +1219,16 @@
 			<Text>Um jogador desconhecido iniciou a construção de {1_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN">
-			<Text>A Era Dourada {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} iniciou.</Text>
+			<Text>A Era de Ouro {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} iniciou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
-			<Text>Uma Era Dourada surgiu!</Text>
+			<Text>Uma Era de Ouro surgiu!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED">
-			<Text>A Era Dourada {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou.</Text>
+			<Text>A Era de Ouro {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
-			<Text>Sua Era Dourada terminou.</Text>
+			<Text>Sua Era de Ouro terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_LOST">
 			<Text>{1_CityName:textkey} foi capturada!</Text>
@@ -1343,7 +1343,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Racionalismo[ENDCOLOR] fornece maior habilidade em usar e gerar [ICON_RESEARCH] Ciência.[NEWLINE][NEWLINE]Adotando Racionalismo, a [ICON_RESERACH] Ciência de Acordos de Pesquisa aumentará em 50%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Racionalismo, será fornecido +1 de [ICON_GOLD] para cada edificação [ICON_RESEARCH] Científica.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Piedade.[ENCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para pequenos e focados Impérios. Em particular, fornece bônus para [ICON_GREAT_PEOPLE] Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE] Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE] Era Dourada aumentará em 50%.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia.[ENCOLOR]</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para pequenos e focados Impérios. Em particular, fornece bônus para [ICON_GREAT_PEOPLE] Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE] Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE] Era de Ouro aumentará em 50%.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia.[ENCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR] é melhor para grandes Civilizações, aumentando a força do Império, baseando-se na quantidade de cidades existentes.[NEWLINE][NEWLINE]Adotando Ordem, você irá aumentar [ICON_HAPPINESS_1] Felicidade em +1 para cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Ordem, você receberá +1 de [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção, [ICON_RESEARCH] Ciência, [ICON_GOLD] Ouro e [ICON_CULTURE] Cultura por cada cidade.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Autocracia.[ENDCOLOR]</Text>
@@ -1502,7 +1502,7 @@
 			<Text>Guerra Total</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonizadores[ENDCOLOR] em 50% na sua [ICON_CAPITAL] Capital e um Colonizador gratuito aparecerá próximo à sua [ICON_CAPITAL] Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonos[ENDCOLOR] em 50% na sua [ICON_CAPITAL] Capital e um Colono gratuito aparecerá próximo à sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITIZENSHIP_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Cidadania[ENDCOLOR][NEWLINE]A taxa de construção de melhorias aumenta em 25% e um Trabalhador aparecerá próximo à sua [ICON_CAPITAL] Capital.</Text>
@@ -1511,7 +1511,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]República[ENDCOLOR][NEWLINE]+1 de [ICON_PRODUCTION] Produção em todas as cidades e +5% de [ICON_PRODUCTION] Produção em cidades quando estiverem construindo Edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_REPRESENTATION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Representação[ENDCOLOR][NEWLINE]Cada cidade que você fundar aumentará o custo de [ICON_CULTURE] Cultura para aquisição de políticas em 33% menos que o normal. Além disso, inicia uma [ICON_GOLDEN_AGE] Era Dourada.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Representação[ENDCOLOR][NEWLINE]Cada cidade que você fundar aumentará o custo de [ICON_CULTURE] Cultura para aquisição de políticas em 33% menos que o normal. Além disso, inicia uma [ICON_GOLDEN_AGE] Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_MERITOCRACY_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Meritocracia[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1] Felicidade para cada cidade [ICON_CONNECTED] conectada à [ICON_CAPITAL] Capital e -5% de [ICON_HAPPINESS_4] Infelicidade de [ICON_CITIZEN] Cidadãos em cidades não [ICON_OCCUPIED] ocupadas.</Text>
@@ -1556,7 +1556,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD] Ouro das cidades em 10%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]A [ICON_CULTURE] Cultura aumenta em 33% em todas as cidades que tenham construído uma Maravilha Mundial e o Império entra imediatamente em uma [ICON_GOLDEN_AGE] Era Dourada.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]A [ICON_CULTURE] Cultura aumenta em 33% em todas as cidades que tenham construído uma Maravilha Mundial e o Império entra imediatamente em uma [ICON_GOLDEN_AGE] Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Liberdade Religiosa[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE] Cultura para cada Monumento, Templo e Monastério. Além disso, fornece 1 Política gratuita.</Text>
@@ -2543,7 +2543,7 @@
 			<Text>Destrói fortificações e reduz os recursos defensivos das cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_HELP">
-			<Text>Isto fará com que o [COLOR_UNIT_TEXT]Colonizador[ENDCOLOR] funde uma cidade nesta localidade. O [COLOR_UNIT_TEXT]Colonizador[ENDCOLOR] é consumido no processo.</Text>
+			<Text>Isto fará com que o [COLOR_UNIT_TEXT]Colono[ENDCOLOR] funde uma cidade nesta localidade. O [COLOR_UNIT_TEXT]Colono[ENDCOLOR] é consumido no processo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_DISABLED_HELP">
 			<Text>Não é possível fundar uma cidade tendo outra localizada a 4 hexágonos de distância.</Text>
@@ -2633,10 +2633,10 @@
 			<Text>A unidade deverá estar dentro ou próximo de um hexágono de sua propriedade, não podendo estar em território de outro jogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
-			<Text>Esta ordem consumirá a Grande Personalidade e dará início à [ICON_GOLDEN_AGE] Era Dourada ([ICON_PRODUCTION] e [ICON_GOLD] extras) por {1_Num} {1: plural 1?turno; other?turnos;}. Cada vez que uma Grande Personalidade inicia a Era Dourada, a duração de uma próxima diminuirá (para no mínimo 3 turnos).</Text>
+			<Text>Esta ordem consumirá a Grande Personalidade e dará início à [ICON_GOLDEN_AGE] Era de Ouro ([ICON_PRODUCTION] e [ICON_GOLD] extras) por {1_Num} {1: plural 1?turno; other?turnos;}. Cada vez que uma Grande Personalidade inicia a Era de Ouro, a duração de uma próxima diminuirá (para no mínimo 3 turnos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_DISABLED_HELP">
-			<Text>A unidade deverá estar em seu território para dar início à Era Dourada</Text>
+			<Text>A unidade deverá estar em seu território para dar início à Era de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_HELP">
 			<Text>Contribuir colocando uma parte na Espaçonave de Alpha Centauri.[NEWLINE][NEWLINE]A unidade será consumida.</Text>
@@ -2876,7 +2876,7 @@
 			<Text>+50% de [ICON_CULTURE] Cultura na cidade.[NEWLINE][NEWLINE]Você deve construir uma Casa de Ópera em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PYRAMIDS_HELP">
-			<Text>O Império entra na [ICON_GOLDEN_AGE] Era Dourada.</Text>
+			<Text>O Império entra na [ICON_GOLDEN_AGE] Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
 			<Text>1 tecnologia gratuita. Fornece uma Biblioteca gratuita na cidade onde ela for construída.</Text>
@@ -2924,7 +2924,7 @@
 			<Text>Um Grande Cientista surge próximo à cidade onde a Maravilha for construída. +50% de [ICON_RESEARCH] Ciência dos Acordos de Pesquisa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TAJ_MAHAL_HELP">
-			<Text>A duração da [ICON_GOLDEN_AGE] Era Dourada aumenta em 50%.</Text>
+			<Text>A duração da [ICON_GOLDEN_AGE] Era de Ouro aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
 			<Text>O custo em [ICON_GOLD] Ouro para aquisições em todas as cidades é reduzido em 15%.</Text>
@@ -3021,7 +3021,7 @@
 			<Text>Legado Aquemênido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES">
-			<Text>As [ICON_GOLDEN_AGE] Eras Douradas duram 50% mais. Durante a Era Dourada, unidades recebem +1 de [ICON_MOVES] Movimento e +10% em bônus de [ICON_STRENGTH] Força de Combate.</Text>
+			<Text>As [ICON_GOLDEN_AGE] Eras Douradas duram 50% mais. Durante a Era de Ouro, unidades recebem +1 de [ICON_MOVES] Movimento e +10% em bônus de [ICON_STRENGTH] Força de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT">
 			<Text>Destino Revelado</Text>

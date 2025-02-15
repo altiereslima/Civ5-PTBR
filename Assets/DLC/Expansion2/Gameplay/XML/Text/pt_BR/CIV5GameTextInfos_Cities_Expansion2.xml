@@ -14,7 +14,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_FES">
-            <Text>Fes</Text>
+            <Text>Fez</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -24,12 +24,12 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_TANGIER">
-            <Text>Tangier</Text>
+            <Text>Tânger</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SALE">
-            <Text>Sale</Text>
+            <Text>Salé</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -39,7 +39,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_MEKNES">
-            <Text>Meknes</Text>
+            <Text>Meknès</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -59,7 +59,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_TETOUAN">
-            <Text>Tetouan</Text>
+            <Text>Tetuão</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -84,7 +84,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_EL_AAIUN">
-            <Text>El Aaiun</Text>
+            <Text>El Aaiún</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -94,7 +94,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_EL_JADIA">
-            <Text>El Jadia</Text>
+            <Text>El Jadida</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -389,7 +389,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SAO_LUIS">
-            <Text>São Luis</Text>
+            <Text>São Luís</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -544,7 +544,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_EVORA">
-            <Text>Evora</Text>
+            <Text>Évora</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -579,7 +579,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_BRAGANZA">
-            <Text>Braganza</Text>
+            <Text>Bragança</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -614,7 +614,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SAO_TOME_AND_PRINCIPE">
-            <Text>São Tome e Príncipe</Text>
+            <Text>São Tomé e Príncipe</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -629,7 +629,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DILI">
-            <Text>Dili</Text>
+            <Text>Díli</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -649,7 +649,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_KRAKOW">
-            <Text>Krakow</Text>
+            <Text>Cracóvia</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -659,7 +659,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_WROCLAW">
-            <Text>Wroclaw</Text>
+            <Text>Breslávia</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -729,7 +729,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_KIELC">
-            <Text>Kielc</Text>
+            <Text>Kielce</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
