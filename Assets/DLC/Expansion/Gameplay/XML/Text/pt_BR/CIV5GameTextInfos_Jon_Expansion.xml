@@ -728,7 +728,7 @@
 			<Text>[NEWLINE][NEWLINE]Eles não possuem a tecnologia para estabelecer uma Embaixada (Escrita)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_NO_TECH">
-			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Cargos Públicos).</Text>
+			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Serviço Público).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_NEED_DOF_TT">
 			<Text>[NEWLINE][NEWLINE]Uma Declaração de Amizade é necessária para negociar esse item.</Text>

@@ -96,7 +96,7 @@
 			<Text>{TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_TEXT">
-			<Text>Os guerreiros Incas eram renomados {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Velho Testamento, um fundbulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
+			<Text>Os guerreiros Incas eram renomados {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Antigo Testamento, um fundibulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_HELP">
 			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o Arqueiro. O Fundeiro não é mais poderoso que um Arqueiro e é até mais frágil se submetido a um ataque corpo a corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo a corpo inimigo possa ocorrer.</Text>

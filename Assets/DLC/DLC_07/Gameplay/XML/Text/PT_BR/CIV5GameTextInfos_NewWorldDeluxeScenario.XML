@@ -137,7 +137,7 @@
 			<Text>Só os Maias podem criar esta unidade. É mais barata e disponível mais cedo do que o Arqueiro, o qual substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST_STRATEGY">
-			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arco e Flecha. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
+			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arqueria. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYAN_ATLATLIST_TEXT">
 			<Text>Os Atlatlistas eram unidades de combate superespecializadas que usavam um objeto de madeira longo, semelhante a uma lança, para disparar dardos em alta velocidade no alvo. Esta ferramenta, que se chamava "atlatl", tinha em uma extremidade uma pequena concavidade na qual o dardo apoiava e um sulco talhado ao longo para que o projétil deslizasse. Mediante o atlatl, o Atlatlista poderia lançar um dardo até 100m e a velocidades de quase 100km/h, muito mais longe e mais rápido do que um projétil lançado à mão. Os Atlatlistas maias eram capazes de devastar inimigos de longe, supondo que eles tivessem um visual claro com eles.[NEWLINE][NEWLINE]Alguns dos mais antigos atlatls remontam a 400.000 anos atrás e foram usados pelo extinto Homo Heidelbergensis. Acredita-se que o Homo Sapiens começou a usar as primeiras versões de atlatl no Paleolítico Superior, por volta de 15.500 a.C.</Text>

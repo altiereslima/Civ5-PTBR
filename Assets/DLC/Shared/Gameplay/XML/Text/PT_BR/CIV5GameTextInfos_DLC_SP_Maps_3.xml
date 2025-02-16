@@ -11,7 +11,7 @@
       <Text>Austrália</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DESC">
-      <Text>Um mapa da Austrália, com terreno aleatório e locais de início na costa.</Text>
+      <Text>Um mapa da Austrália, com terreno aleatório e localizações de início costeiras.</Text>
     </Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DUEL">
       <Text>Austrália - Duelo</Text>

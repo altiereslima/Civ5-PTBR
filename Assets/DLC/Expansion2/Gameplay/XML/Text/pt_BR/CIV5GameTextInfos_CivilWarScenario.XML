@@ -304,7 +304,7 @@
 			<Text>Ponte de Barcas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_HELP">
-			<Text>Permite que unidades terrestres atravessem este hexágono de Costa. Só pode ser construída em um hexágono de Costa com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_TEXT">
 			<Text>As Pontes de Barcas (ou "Flutuantes") foram usadas por ambos os lados durante a guerra para permitir a travessia rápida de rios por infantaria, artilharia e carroças; um design inovador e leve conhecido como Cumberland Pontoons foi especialmente crucial durante as campanhas da União no sul profundo.</Text>
@@ -313,7 +313,7 @@
 			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]Ponte de Barcas[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_HELP">
-			<Text>Permite que unidades terrestres atravessem este hexágono de Costa. Só pode ser construída em um hexágono de Costa com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_REC">
 			<Text>Isso permitirá que unidades terrestres atravessem este hexágono.</Text>

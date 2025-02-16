@@ -295,7 +295,7 @@
 			<Text>Somente os Maias podem treinar esta unidade. É mais barata e fica disponível antes do Arqueiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST_STRATEGY">
-			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arco e Flecha. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
+			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arqueria. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON_STRATEGY">
 			<Text>Somente os Bizantinos podem construir esta unidade. Ataca com o letal Fogo Grego, tornando-a a primeira unidade naval com um ataque a distância. Esta unidade combate com +50% de força contra outras unidades navais. Entretanto, ela não pode navegar em águas oceânicas fora dos limites da cidade.</Text>
@@ -827,7 +827,7 @@
 			<Text>Bônus ao atacar (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STEAM_POWERED">
-			<Text>Movimentos em dobro na Costa</Text>
+			<Text>Movimentos em dobro no Litoral</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY">
 			<Text>Cura 50 pontos de vida se eliminar uma unidade</Text>
@@ -1780,7 +1780,7 @@
 			<Text>Progresso do Grande Almirante</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_BODY">
-			<Text>Quando você ou outra civilização pesquisar a tecnologia Cargos Públicos, você pode realizar um acordo de Abertura de Fronteiras com qualquer civilização em que você tenha estabelecido uma Embaixada (Cidades-Estado não fazem acordos de Abertura de Fronteiras). Enquanto um acordo de Abertura de Fronteiras estiver ativo, as unidades da outra civilização podem entrar em seu território sem que automaticamente declarem guerra. Se o acordo é mútuo, as unidades de qualquer uma das civilizações poderão entrar no território da outra livremente; entretanto, o acordo não precisa ser recíproco: uma civilização pode concedê-lo à outra sem receber um automaticamente em troca. [NEWLINE][NEWLINE]Um acordo de Abertura de Fronteiras dura 20 turnos. Quando 20 turnos se passaram, o acordo deve ser renegociado ou ele acabará.</Text>
+			<Text>Quando você ou outra civilização pesquisar a tecnologia Serviço Público, você pode realizar um acordo de Abertura de Fronteiras com qualquer civilização em que você tenha estabelecido uma Embaixada (Cidades-Estado não fazem acordos de Abertura de Fronteiras). Enquanto um acordo de Abertura de Fronteiras estiver ativo, as unidades da outra civilização podem entrar em seu território sem que automaticamente declarem guerra. Se o acordo é mútuo, as unidades de qualquer uma das civilizações poderão entrar no território da outra livremente; entretanto, o acordo não precisa ser recíproco: uma civilização pode concedê-lo à outra sem receber um automaticamente em troca. [NEWLINE][NEWLINE]Um acordo de Abertura de Fronteiras dura 20 turnos. Quando 20 turnos se passaram, o acordo deve ser renegociado ou ele acabará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_BODY">
 			<Text>Geralmente, unidades se movem de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar no novo hexágono. Unidades estão sujeitas às limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. Note que unidades militares embarcadas, assim como Grandes Generais e Grandes Almirantes, são todas consideradas unidades não militares e podem ser empilhadas com uma unidade militar para proteção.[NEWLINE][NEWLINE]A maioria das unidades é limitada pelos lugares onde podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nas cidades portuárias). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>

@@ -20,7 +20,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING">
-			<Text>Bronze</Text>
+			<Text>Trabalho em Bronze</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -80,14 +80,14 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING">
-			<Text>Montaria</Text>
+			<Text>Equitação</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
 			<Text>Partes Substituíveis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING">
 			<Text>Trabalho em Ferro</Text>
@@ -115,7 +115,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING">
-			<Text>Fundição</Text>
+			<Text>Fundição de Metal</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -140,7 +140,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY">
-			<Text>Olaria</Text>
+			<Text>Cerâmica</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -155,9 +155,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING">
-			<Text>Velas</Text>
+			<Text>Navegação a Vela</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_METHOD">
 			<Text>Método Científico</Text>
@@ -205,8 +205,8 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHERY_TITLE">
-			<Text>Arco e Flecha</Text>
-			<Gender>masculine</Gender>
+			<Text>Arqueria</Text>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_TITLE">
@@ -235,14 +235,14 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_TITLE">
-			<Text>Bronze</Text>
+			<Text>Trabalho em Bronze</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALCULUS_TITLE">
-			<Text>Cálculos</Text>
+			<Text>Cálculo</Text>
 			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_TITLE">
 			<Text>Calendário</Text>
@@ -260,9 +260,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_TITLE">
-			<Text>Cargos Públicos</Text>
+			<Text>Serviço Público</Text>
 			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_TITLE">
 			<Text>Combustão</Text>
@@ -350,7 +350,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
-			<Text>Montaria</Text>
+			<Text>Equitação</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -375,9 +375,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASS_MEDIA_TITLE">
-			<Text>Meios de Comunicação</Text>
-			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+			<Text>Mídia para as Massas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MATHEMATICS_TITLE">
 			<Text>Matemática</Text>
@@ -385,7 +385,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING_TITLE">
-			<Text>Fundição</Text>
+			<Text>Fundição de Metal</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -460,7 +460,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_TITLE">
-			<Text>Olaria</Text>
+			<Text>Cerâmica</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -497,7 +497,7 @@
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE">
 			<Text>Partes Substituíveis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RIFLING_TITLE">
 			<Text>Estriamento</Text>
@@ -515,7 +515,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING_TITLE">
-			<Text>Vela</Text>
+			<Text>Navegação a Vela</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

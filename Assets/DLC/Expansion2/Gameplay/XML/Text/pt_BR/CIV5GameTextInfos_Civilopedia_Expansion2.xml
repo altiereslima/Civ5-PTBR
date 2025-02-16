@@ -1802,7 +1802,7 @@
 			<Text>Aumentando o alcance das rotas comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_HEADING2_BODY">
-			<Text>Você pode aumentar em 50% a distância de suas rotas comerciais terrestres construindo Caravançarais nas cidades de origem. Eles também produzem um adicional 2 de Ouro quando se conectam a outra civilização. Os Caravançarais são disponibilizados por meio da pesquisa da Montaria.[NEWLINE][NEWLINE]Além disso, os Portos aumentam em 50% a distância de suas rotas comerciais marítimas e geram mais 2 de Ouro quando essas rotas se conectam a outra civilização. Eles são desbloqueados, pesquisando a Bússola.</Text>
+			<Text>Você pode aumentar a distância de suas rotas comerciais terrestres em 50% construindo Caravançarais nas cidades de origem. Eles também produzem 2 de Ouro adicionais ao se conectar a outra civilização. Os Caravançarais são disponibilizados pesquisando Equitação.[NEWLINE][NEWLINE]Além disso, os Ancoradouros aumentam a distância de suas rotas comerciais marítimas em 50% e geram 2 de Ouro adicionais quando essas rotas se conectam a outra civilização. Eles são desbloqueados pesquisando a Bússola.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_ADV_QUEST">
 			<Text>Como faço para ampliar o alcance das minhas rotas comerciais?</Text>
@@ -2160,7 +2160,7 @@
 			<Text>Revolta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_COAST_HEADING3_BODY">
-			<Text>Hexágonos da costa são os hexágonos do oceano diretamente adjacentes à terra. Eles fornecem comida e ouro para uma cidade próxima. Se essa civilização tiver a tecnologia de Vela, haverá benefícios adicionais. Apenas unidades navais e unidades terrestres "embarcadas" podem entrar em hexágonos costeiros. Costa pode ser trabalhada sem Vela.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
+			<Text>Hexágonos de Litoral são os hexágonos de oceano diretamente adjacentes à terra. Eles fornecem comida e ouro para uma cidade próxima. Se essa civilização tiver a tecnologia de Navegação a Vela, haverá benefícios adicionais. Apenas unidades navais e unidades terrestres "embarcadas" podem entrar em hexágonos de litoral. O Litoral pode ser trabalhado sem Navegação a Vela.[NEWLINE][NEWLINE]Rendimento da Cidade: 1 de comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_BODY">
 			<Text>Os hexágonos oceânicos são hexágonos de águas profundas. Eles fornecem comida e ouro para uma cidade, uma vez que a cidade tem a tecnologia para acessá-los.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum.</Text>
