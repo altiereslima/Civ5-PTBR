@@ -9427,7 +9427,7 @@
 			<Text>Como você escolhe uma tecnologia para pesquisar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHOOSINGTECH_HEADING2_BODY">
-			<Text>Quando você tiver construído sua primeira cidade o menu "Escolher Pesquisa" irá aparecer e você deverá selecionar qual tecnologia deseja estudar. Eventualmente você ganhará pontos de pesquisa suficiente para aprender aquela tecnologia. Então, o menu "Escolher Pesquisa" reaparecerá e você irá decidir qual será a próxima tecnologia. Há mais de 70 tecnologias para pesquisar e se você estudar todas elas, você poderá trabalhar com as "Tecnologias do Futuro", que aumentarão seus pontos no jogo.</Text>
+			<Text>Quando você tiver construído sua primeira cidade, o menu "Escolher Pesquisa" aparece e você deve selecionar qual tecnologia deseja estudar. Eventualmente, você adquirirá conhecimento suficiente e aprenderá essa tecnologia, e o menu "Escolher Pesquisa" reaparecerá e você terá que decidir sobre a próxima tecnologia. Existem mais de 70 tecnologias para estudar e, se você conseguir todas, poderá começar com as "Futuras Tecnologias", que aumentam sua pontuação no jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHOOSINGTECH_HEADING2_TITLE">
 			<Text>Escolhendo uma Tec. para Pesquisar</Text>
