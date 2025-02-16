@@ -70,7 +70,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH">
-			<Text>Tecnologia do Futuro</Text>
+			<Text>Futura Tecnologia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -335,7 +335,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Tecnologia do Futuro</Text>
+			<Text>Futura Tecnologia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
