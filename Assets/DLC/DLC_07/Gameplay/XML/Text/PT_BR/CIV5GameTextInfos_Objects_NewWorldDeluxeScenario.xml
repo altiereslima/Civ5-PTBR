@@ -5,10 +5,10 @@
 	<Language_pt_BR>
 		<!-- Builds -->
 		<Row Tag="TXT_KEY_BUILD_TIPI_HELP">
-			<Text>Constrói um Tipi, que aumenta a quantidade de [ICON_FOOD] Comida, e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
+			<Text>Constrói um Tipi, que aumenta a quantidade de [ICON_FOOD] Comida e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI_REC">
-			<Text>Aumentará a quantidade de [ICON_FOOD] Comida, e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
+			<Text>Aumentará a quantidade de [ICON_FOOD] Comida e [ICON_PEACE] Fé fornecidas por este hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TIPI">
 			<Text>Construa um [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>
@@ -51,7 +51,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_MT_TLALOC_TEXT">
-			<Text>Com mais de 13.600 pés no México central, o Monte Tlaloc era reverenciado pelos astecas, que adoravam seu deus da chuva em um santuário no cume. Pesquisas arqueológicas indicam uma relação entre esse santuário e templos circundantes, possivelmente como uma maneira de marcar datas cerimoniais importantes, associadas ao plantio de milho na região.</Text>
+			<Text>Com mais de 4100 metros no México central, o Monte Tlaloc era reverenciado pelos astecas, que adoravam seu deus da chuva em um santuário no cume. Pesquisas arqueológicas indicam uma relação entre esse santuário e templos circundantes, possivelmente como uma maneira de marcar datas cerimoniais importantes, associadas ao plantio de milho na região.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_TSOODZIL">
 			<Text>Tsoodzil</Text>
@@ -59,7 +59,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURES_TSOODZIL_TEXT">
-			<Text>Para os Navajos, Tsoodzil, a "montanha turquesa", era um dos quatro picos sagrados que marcavam as direções cardeais (neste caso, sul) e limites de sua terra natal em Novo México. Um estratovulcão adormecido com mais de 4100 pés de altura, agora chamado em homenagem ao presidente Zachary Taylor, para os Navajos, Tsoodzil era lar do Deus Negro, do Garoto Turquesa e da Garota Turquesa.</Text>
+			<Text>Para os Navajos, Tsoodzil, a "montanha turquesa", era um dos quatro picos sagrados que marcavam as direções cardeais (neste caso, sul) e limites de sua terra natal em Novo México. Um estratovulcão adormecido com mais de 1250 metros de altura, agora chamado em homenagem ao presidente Zachary Taylor, para os Navajos, Tsoodzil era lar do Deus Negro, do Garoto Turquesa e da Garota Turquesa.</Text>
 		</Row>
 
 	</Language_pt_BR>

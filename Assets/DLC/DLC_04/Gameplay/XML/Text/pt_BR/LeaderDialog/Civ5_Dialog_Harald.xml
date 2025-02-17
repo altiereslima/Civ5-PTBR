@@ -8,7 +8,7 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_1">
-      <Text>Olá, estrangeiro! Sou Harald Bluetooth, governante dos Dinamarqueses. Gostastes do meu navio? Ele esmagou milhares de meus inimigos.</Text>
+      <Text>Olá, estrangeiro! Sou Harald Bluetooth, governante dos Dinamarqueses. Gostaste do meu navio? Ele esmagou milhares de meus inimigos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_2">
       <Text>Salve, pequeno líder! Tu te encontras na presença do grande Harald Bluetooth. Hmm... com que conto de bravura devo satisfazer-te hoje?</Text>
@@ -40,7 +40,7 @@
       <Text>Pelo martelo de Thor! Tu te mostrastes um adversário digno hoje. Eu saúdo-te!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_2">
-      <Text>Te me deste uma bela cicatriz para cuidar. Talvez um dia eu retribua o favor. </Text>
+      <Text>Te me deste uma bela cicatriz para cuidar. Talvez um dia eu retribua o favor.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_1">
@@ -63,7 +63,7 @@
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_1">
-      <Text>Até nosso próximo encontro</Text>
+      <Text>Até nosso próximo encontro.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_2">
       <Text>Adeus.</Text>
@@ -95,7 +95,7 @@
     </Row> 
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_NEUTRAL">
-      <Text>Ah, tu és uma pessoa bem engraçada. Não estava ciente que tínhamos substituído o bobo da corte.</Text>
+      <Text>Ah, tu és uma pessoa bem engraçada. Não estava ciente de que tínhamos substituído o bobo da corte.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_NEUTRAL">
@@ -121,7 +121,7 @@
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_1">
-      <Text>Vamos ouvir-te</Text>
+      <Text>Vamos ouvir-te.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_2">
       <Text>Prossiga.</Text>
@@ -140,7 +140,7 @@
       <Text>Adeus, amigo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_4">
-      <Text>Até mais</Text>
+      <Text>Até mais.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_HAPPY">
@@ -151,7 +151,7 @@
       <Text>Por mais que eu goste de ti, este tipo de oferta não irá nos satisfazer.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_2">
-      <Text>Isto é o melhor que podes fazer? Minha mãe negocia melhor que ti.</Text>
+      <Text>Isto é o melhor que podes fazer? Minha mãe negocia melhor que tu.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_3">
       <Text>Hum, quase...</Text>
@@ -166,7 +166,7 @@
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_HAPPY">
-      <Text>Ah, estás mal-humorado pequeno. Ainda assim, não.</Text>
+      <Text>Ah, estás mal-humorado, pequeno. Ainda assim, não.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_HAPPY">
@@ -233,7 +233,7 @@
     </Row>  
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_ANGRY">
-      <Text>Eu admiro teu espírito de luta, mas não creio que possas tão longe.</Text>
+      <Text>Eu admiro teu espírito de luta, mas não creio que possas ir tão longe.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_ANGRY">
@@ -259,7 +259,7 @@
       <Text>Isto é inaceitável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_7">
-      <Text>Pelos deuses homenzinho! Não!</Text>
+      <Text>Pelos deuses, homenzinho! Não!</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_5">
@@ -283,7 +283,7 @@
       <Text>O ratinho se imagina um leão atacando. Porém, mesmo leões podem ser feridos por minha lâmina. Venha experimentar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_3">
-      <Text>Tu mostrastes como faz um verdadeiro Viking! Pena que provavelmente terei que matar-te. </Text>
+      <Text>Tu mostrastes como faz um verdadeiro Viking! Pena que provavelmente terei que matar-te.</Text>
     </Row>
 
 

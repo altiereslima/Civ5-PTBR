@@ -5,10 +5,10 @@
 			<Text>1066: Ano do Destino Viking</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_DESC">
-			<Text>O Rei Eduardo - O Confessor - está morto. O trono da Inglaterra é de quem pegar. Você pode levar seus guerreiros à vitória derrotando os outros Vikings que buscam o trono?</Text>
+			<Text>O Rei Eduardo, o Confessor, está morto. O trono da Inglaterra é de quem o conquistar. Você pode levar seus guerreiros à vitória derrotando os outros Vikings que buscam o trono?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV5_DAWN_VIKING_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Salve, Grande Lorde Viking! O Rei Eduardo - O Confessor - da Inglaterra está morto. O saxão Haroldo Godwinson rapidamente tomou o trono. Mas o seu poder é tênue: William da Normandia, Haroldo Hardrada da Noruega e o Rei Sueno da Dinamarca estão na fila para conquistar o trono também. Vós podeis vestir o manto de um desses senhores Vikings e vos tornar o próximo grande rei da Inglaterra? A bordo de vossos navios, deveis provar ao mundo o vossos direito de ser o guerreiro escolhido de Odin.[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Vós deveis completar a maravilha nacional Livro do Juízo em Londres, antes de decorrido o tempo para ganhar o cenário. Deveis construir 6 edificações de Tribunais Distritais em cidades originalmente controladas pela Inglaterra anglo-saxônica antes de iniciar a maravilha nacional Livro do Juízo. Estes tribunais distritais só podem ser construídos em cidades com 8 ou mais hexágonos de distância de Londres.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as 4 grandes potências estão permanentemente envolvidas em guerra umas com as outras por todo o cenário. Os sistemas de Ciência, Política e Felicidade estão todos desativados. Não ganhareis nenhuma nova tecnologia ou política social durante o jogo. Todas as cidades que controlardes ou conquistardes poderão crescer sem controle, sem se preocuparem com a felicidade. Se vós ganhardes a aliança de uma Cidade-Estado, as unidades militares dela serão colocadas sob vosso controle, enquanto durar a aliança. Todas as unidades possuem a promoção Embarque Defensivo.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Salve, Grande Lorde Viking! O Rei Eduardo, o Confessor, da Inglaterra está morto. O saxão Haroldo Godwinson rapidamente tomou o trono. Mas o seu poder é tênue: William da Normandia, Haroldo Hardrada da Noruega e o Rei Sueno da Dinamarca também estão na fila para conquistar o trono. Vós podeis vestir o manto de um desses senhores Vikings e vos tornar o próximo grande rei da Inglaterra? A bordo de vossos navios, deveis provar ao mundo o vosso direito de ser o guerreiro escolhido de Odin.[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Vós deveis completar a maravilha nacional Livro do Juízo em Londres, antes de decorrido o tempo para ganhar o cenário. Deveis construir 6 edificações de Tribunais Distritais em cidades originalmente controladas pela Inglaterra anglo-saxônica antes de iniciar a maravilha nacional Livro do Juízo. Estes tribunais distritais só podem ser construídos em cidades com 8 ou mais hexágonos de distância de Londres.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as 4 grandes potências estão permanentemente envolvidas em guerra umas com as outras por todo o cenário. Os sistemas de Ciência, Política e Felicidade estão todos desativados. Não ganhareis nenhuma nova tecnologia ou política social durante o jogo. Todas as cidades que controlardes ou conquistardes poderão crescer sem controle, sem se preocuparem com a felicidade. Se vós ganhardes a aliança de uma Cidade-Estado, as unidades militares dela serão colocadas sob vosso controle, enquanto durar a aliança. Todas as unidades possuem a promoção Embarque Defensivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_TURNSREMAINING">
 			<Text>{1 plural 1?Turno restante; other?Turnos restantes}: {1_TurnsRemaining}</Text>
@@ -26,7 +26,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_TEXT_1">
-			<Text>Harald Sigurdsson, também conhecido como Harald "Hardrada" ou Harald o Líder Severo, foi rei da Noruega de 1047 a 1066. Hardrada é lembrado principalmente por sua invasão à Inglaterra e sua subsequente derrota na Batalha de Stamford Bridge, em setembro de 1066, que não oficialmente marca o fim da Era Viking.</Text>
+			<Text>Harald Sigurdsson, também conhecido como Harald "Hardrada" ou Harald, o Líder Severo, foi rei da Noruega de 1047 a 1066. Hardrada é lembrado principalmente por sua invasão à Inglaterra e sua subsequente derrota na Batalha de Stamford Bridge, em setembro de 1066, que, não oficialmente, marca o fim da Era Viking.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_NAME">
 			<Text>Haroldo Godwinson</Text>
@@ -41,7 +41,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_TEXT_1">
-			<Text>Haroldo Godwinson foi brevemente o rei da Inglaterra, governando de janeiro de 1066 até sua derrota na Batalha de Hastings, em outubro do mesmo ano, e foi o último dos reis anglo-saxões. Apesar de ter repelido com sucesso a invasão da Haroldo Hardrada no norte, Godwinson e seu exército foram destruídos em uma batalha de um dia inteiro, menos de um mês depois por William, o Conquistador. Godwinson, diz a lenda, caiu para uma flecha no olho.</Text>
+			<Text>Haroldo Godwinson foi brevemente o rei da Inglaterra, governando de janeiro de 1066 até sua derrota na Batalha de Hastings, em outubro do mesmo ano, e foi o último dos reis anglo-saxões. Apesar de ter repelido com sucesso a invasão de Haroldo Hardrada no norte, Godwinson e seu exército foram destruídos em uma batalha de um dia inteiro, menos de um mês depois, por William, o Conquistador. Godwinson, diz a lenda, caiu por uma flecha no olho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_NAME">
 			<Text>William, o Conquistador </Text>
@@ -77,19 +77,19 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_TEXT_1">
-			<Text>Com a morte de Edward - O Confessor, em 1065, o trono Inglês foi rapidamente atribuído a Haroldo Godwinson pelo conselho de nobres Ingleses conhecido como o "Witenagemot". Pouco tempo depois, as invasões do rei norueguês Haroldo Hardrada e mais importante, William, duque da Normandia, mudaria o cenário político da Inglaterra para sempre. Godwinson teve sucesso ao derrotar Hardrada na batalha de Stamford Bridge, em setembro de 1066, mas teve que se reagrupar rapidamente e ir para o sul, a fim de enfrentar William apenas algumas semanas depois. No entanto, os exércitos Normandos liderados por William derrotaram Godwinson na Batalha de Hastings, em 14 de outubro. Haroldo morreu em batalha. </Text>
+			<Text>Com a morte de Eduardo, o Confessor, em 1065, o trono inglês foi rapidamente atribuído a Haroldo Godwinson pelo conselho de nobres ingleses conhecido como "Witenagemot". Pouco tempo depois, as invasões do rei norueguês Haroldo Hardrada e, mais importante, William, duque da Normandia, mudariam o cenário político da Inglaterra para sempre. Godwinson teve sucesso ao derrotar Hardrada na batalha de Stamford Bridge, em setembro de 1066, mas teve que se reagrupar rapidamente e ir para o sul, a fim de enfrentar William apenas algumas semanas depois. No entanto, os exércitos normandos liderados por William derrotaram Godwinson na Batalha de Hastings, em 14 de outubro. Haroldo morreu em batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_TEXT_1">
-			<Text>O Ducado da Normandia, formado na região da França conhecida como Rouen, foi originalmente colonizado pelos Vikings da Escandinávia no final do século 9. Formalmente criado pela assinatura do Tratado de Saint-Clair-sur-Epte em 911, o rei Carlos III de França concederia o território para o líder Viking Rollo, criando as bases do que veio a ser conhecida como Normandia. William, o Conquistador, duque da Normandia, seria o seu líder mais famoso, capturando o trono da Inglaterra em 1066. </Text>
+			<Text>O Ducado da Normandia, formado na região da França conhecida como Rouen, foi originalmente colonizado pelos Vikings da Escandinávia no final do século 9. Formalmente criado pela assinatura do Tratado de Saint-Clair-sur-Epte em 911, o rei Carlos III de França concedeu o território para o líder Viking Rollo, criando as bases do que veio a ser conhecida como Normandia. William, o Conquistador, duque da Normandia, seria o seu líder mais famoso, capturando o trono da Inglaterra em 1066.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_TEXT_1">
-			<Text>A Noruega, sob o domínio do rei Harald "Líder Severo" Sigurdsson, iria embarcar em numerosas campanhas militares contra a Dinamarca, em uma tentativa de usurpar o trono dinamarquês durante o século 11. Após a morte de Magnus I, em 1047, Harald contestou a noção de que Sueno II era o governante legítimo da Dinamarca e os dois se tornaram rivais notórios. Apesar de várias tentativas, Harald nunca conseguiu conquistar Sueno e, em vez disso, mirou suas atenções para o trono Inglês. Em setembro de 1066, Harald invadiu a Inglaterra, só para ser morto na Batalha de Stamford Bridge pelos exércitos de Harold Godwinson.</Text>
+			<Text>A Noruega, sob o domínio do rei Harald "Líder Severo" Sigurdsson, iria embarcar em numerosas campanhas militares contra a Dinamarca, em uma tentativa de usurpar o trono dinamarquês durante o século 11. Após a morte de Magnus I, em 1047, Harald contestou a noção de que Sueno II era o governante legítimo da Dinamarca e os dois se tornaram rivais notórios. Apesar de várias tentativas, Harald nunca conseguiu conquistar Sueno e, em vez disso, mirou suas atenções para o trono inglês. Em setembro de 1066, Harald invadiu a Inglaterra, só para ser morto na Batalha de Stamford Bridge pelos exércitos de Harold Godwinson.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_HEADING_1">
 			<Text>História</Text>
@@ -131,7 +131,7 @@
 			<Text>Construa Tribunais Distritais para encomendar uma pesquisa deste condado da Inglaterra. Quando a construção estiver completa, você vai ganhar maiores receitas fiscais dos cidadãos desta região da Inglaterra. Quando você possuir 6 destes Tribunais concluídos, você estará pronto para construir o Livro do Juízo em Londres e completar a sua conquista da Inglaterra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_PEDIA">
-			<Text>O Tribunal Distrital, utilizado durante o reinado de William - O Conquistador, para efeitos de avaliação fiscal, foi uma assembleia de pessoas da cidade e senhores locais reunidos para a pesquisa do Livro do Juízo. O Tribunal Distrital era odiado pela população Inglesa, que relutantemente informou suas terras e explorações pecuárias aos oficiais da corte real.</Text>
+			<Text>O Tribunal Distrital, utilizado durante o reinado de William, o Conquistador, para efeitos de avaliação fiscal, foi uma assembleia de pessoas da cidade e senhores locais reunidos para a pesquisa do Livro do Juízo. O Tribunal Distrital era odiado pela população inglesa, que relutantemente informou suas terras e explorações pecuárias aos oficiais da corte real.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_HELP">
 			<Text>Ganhe o cenário com a construção deste, em Londres. Não pode ser construído até que você possua 6 Tribunais Distritais em seu Império.</Text>
@@ -140,7 +140,7 @@
 			<Text>A conclusão da maravilha O Livro do Juízo significa que você fez o grande levantamento da Inglaterra e se tornou mestre dessas terras. Construa-o para ganhar o cenário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_PEDIA">
-			<Text>O Livro do Juízo , que documentou o gado e as propriedades de terra do povo da Inglaterra durante o reinado de William - O Conquistador, foi criado durante o levantamento fiscal de 1085 d.C. Concebido por William como um meio para avaliar a impostos não pagos sob o reinado de Eduardo - O Confessor, o Livro do Juízo viria a ser conhecido como "O Livro de Julgamento", já que todos os registros feitos pelos oficiais reais no livro eram decisivos. </Text>
+			<Text>O Livro do Juízo, que documentou o gado e as propriedades de terra do povo da Inglaterra durante o reinado de William, o Conquistador, foi criado durante o levantamento fiscal de 1085 d.C. Concebido por William como um meio para avaliar a impostos não pagos sob o reinado de Eduardo, o Confessor, o Livro do Juízo viria a ser conhecido como "O Livro de Julgamento", já que todos os registros feitos pelos oficiais reais no livro eram decisivos. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_HADRIANS_WALL">
 			<Text>Muralhas de Adriano</Text>
@@ -185,7 +185,7 @@
 			<Text>Controle de Londres: {1_CivilizationName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_SHIRE_COURT_STATUS">
-			<Text>Tribunais Distritais {1: plural 1?construído; 0?construído; other?construídos;}: {1_NumBuildings}/6</Text>
+			<Text>Tribunais Distritais : {1_NumBuildings} de 6</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -43,7 +43,7 @@
         </Row>
         <Row Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC">
             <Text>Cartago</Text>
-            <Gender>neuter</Gender>
+            <Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">

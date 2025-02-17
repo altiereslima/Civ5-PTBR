@@ -511,16 +511,16 @@
 			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
 		</Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
-            <Text>Criar Melhoria Ponto de Referência</Text>
+            <Text>Criar Melhoria Marco Histórico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
-            <Text>Quando trabalhado, o Ponto de Referência fornece [ICON_CULTURE] Cultura baseada na sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior a atual Era da civilização. O Arqueologista será consumido.</Text>
+            <Text>Quando trabalhado, o Marco Histórico fornece [ICON_CULTURE] Cultura baseada na sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior a atual Era da civilização. O Arqueologista será consumido.</Text>
         </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
 		  <Text>Iniciar Renascença Cultural</Text>

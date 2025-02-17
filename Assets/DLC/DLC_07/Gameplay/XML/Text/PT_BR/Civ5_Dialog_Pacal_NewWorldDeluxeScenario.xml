@@ -234,7 +234,7 @@
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_ANGRY">
-            <Text>Que a ira dos meus ancestrais caia sobre você! Você enfureceu a os deuses com sua imprudência. Saia!</Text>
+            <Text>Que a ira dos meus ancestrais caia sobre você! Você enfureceu os deuses com sua imprudência. Saia!</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_ANGRY">

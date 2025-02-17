@@ -23,13 +23,13 @@
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_2">
       <Text>Tenha cuidado com ações ridículas, a menos que tenha se esquecido com quem você está lidando.</Text>
     </Row>
-    <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_3"> 
+    <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_3">
       <Text>Rezo para que você não me enfureça ainda mais - meus cães não caçam há algum tempo.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_WINWAR_1">
       <Text>Você não sabia que eu recebi meu nome da Deusa da Vitória? A vontade de Andraste está realizada.</Text>
-    </Row> 
+    </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_LOSEWAR_1">
       <Text>Aparentemente você é superior aos seus semelhantes. Eu não irei subestimar você novamente.</Text>
@@ -44,7 +44,7 @@
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_3">
       <Text>Eu fico um pouco satisfeita por ter sido você a superar o meu povo neste campo de batalha. Em outra situação, eu teria lhe chamado meu igual.</Text>
     </Row>
-    
+
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_1">
@@ -84,7 +84,7 @@
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL">
       <Text>Sim, você pode ter este pouquinho de riqueza. Mas esta indiscrição não será facilmente esquecida.</Text>
-    </Row> 
+    </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL">
       <Text>O que você acha que eu sou? Uma tola?</Text>
@@ -95,8 +95,8 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Nós estamos dispostos a ignorar suas ações questionáveis em retorno de uma justa compensação.</Text>
-    </Row>  
+      <Text>Estamos dispostos a ignorar suas ações questionáveis em retorno de uma justa compensação.</Text>
+    </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_1">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1}</Text>
@@ -118,7 +118,7 @@
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
     </Row>
-    
+
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_3">
@@ -140,7 +140,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Em tempos melhores, eu elegremente concordaria, mas eu receito que você precisará fazer um pouco melhor.</Text>
+      <Text>Em tempos melhores, eu alegremente concordaria, mas receio que você precisará fazer um pouco melhor.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_HAPPY_2">
       <Text>Por favor... você precisa melhorar sua oferta.</Text>
@@ -167,18 +167,18 @@
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_HAPPY">
       <Text>Vamos juntar forças e colher as recompensas.</Text>
-    </Row> 
+    </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_3}</Text>
-    </Row> 
+    </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_3">
       <Text>Receio que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4">
       <Text>Recusamos.</Text>
-    </Row> 
+    </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
@@ -186,7 +186,7 @@
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_4">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
     </Row>
-    
+
     <!--Angry -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_5">
@@ -205,7 +205,7 @@
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_ANGRY">
       <Text>Aceito.</Text>
-    </Row> 
+    </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_1">
       <Text>Mesmo o louco do Nero não aceitaria esta oferta. Melhore-a ou suma daqui.</Text>
@@ -216,11 +216,11 @@
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3}</Text>
     </Row>
-    
+
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY">
       <Text>Você pensa que sou tola? Saia daqui!</Text>
-    </Row>  
+    </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY">
       <Text>Vejo que seu desaforo não possui limites. Isto não será facilmente esquecido.</Text>
@@ -236,7 +236,7 @@
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_ANGRY">
       <Text>Embora eu deseje muito a sua destruição, acredito que possamos deixar as diferenças de lado por um breve período.</Text>
-    </Row> 
+    </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_4">
       <Text>Ugh, muito bem.</Text>
@@ -259,7 +259,7 @@
       <Text>Nossas bigas estão prontas e as tochas queimam forte. Minhas filhas provarão o gosto do seu sangue!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_2">
-      <Text>O Grande Caça ocorre novamente, mas desta vez nosso alvo não é uma lebre indefesa. Estou sendo bem mais que justa em lhe dar este aviso: corra!</Text>
+      <Text>A Grande Caça ocorre novamente, mas desta vez nosso alvo não é uma lebre indefesa. Estou sendo bem mais que justa em lhe dar este aviso: corra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_3">
       <Text>Você não maculará mais essa terra com sua pequenez! Às armas, meus compatriotas. À guerra!</Text>
@@ -268,7 +268,7 @@
       <Text>Homem traiçoeiro! O povo Celta não tolerará um abuso atrevido e calunioso como este. Eu terei a sua cabeça!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_2">
-      <Text>Como você se atreve?! Você se esqueceu do preço pago por Londinium? Suas ruas irão tremer os gritos de guerra do meu povo.</Text>
+      <Text>Como você se atreve?! Você se esqueceu do preço pago por Londinium? Suas ruas irão tremer com os gritos de guerra do meu povo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_3">
       <Text>Que traição é esta? Pelo poder de Andraste, o lamento do seu povo derrotado será um canto de ninar aos ouvidos das minhas filhas.</Text>

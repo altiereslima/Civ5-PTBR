@@ -7,7 +7,7 @@
 			<Text>Impérios dos Céus Fumegantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_DESC">
-			<Text>A chegada da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por recursos recém-encontrados e invenções brilhantes. Você consegue aproveitar o poder do vapor para levar seu povo à grandeza?</Text>
+			<Text>O advento da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por novos recursos e invenções brilhantes. Você pode aproveitar o poder do vapor para levar seu povo à grandeza?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RANDOM_MAP">
 			<Text>Mapa Aleatório</Text>
@@ -17,24 +17,24 @@
 		</Row>
 		<!-- Notifications-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_SUMMARY">
-			<Text>O país de {@1_CivName} adquire o título de {@2_TitleName}!</Text>
+			<Text>{@1_CivName} torna-se {@2_TitleName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_TT">
-			<Text>O país de {@1_CivName} obteve o Título Honorável de [COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR], dando a eles mais controle na Liga dos Impérios e os aproximando da vitória.</Text>
+			<Text>{@1_CivName} ganhou o Título Honorífico de [COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR], dando-lhes mais controle na Liga dos Impérios e aproximando-os da vitória.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TURNS_REMAINING">
-			<Text>{1_TokensOwned} de {2_TokensAvailable} {2: plural 1?título; other?títulos;}</Text>
+			<Text>{1_TokensOwned} de {2_TokensAvailable} Títulos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BRIEFING_BUTTON">
-			<Text>Resumo</Text>
+			<Text>Relatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VSCREEN_BUTTON">
 			<Text>Liga dos Impérios</Text>
 		</Row>
 		<!-- Victory Status UI-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_HELP">
-			<Text>A Liga dos Impérios se reúne anualmente para determinar os líderes mundiais mais dignos e conceder a eles Títulos Honoráveis. O primeiro líder a possuir {1_NumTokensNeededForVictory} ou mais Títulos por {2_NumTurnsNeededForVictory} Turnos controlará a Liga e vencerá o jogo.</Text>
+			<Text>A Liga dos Impérios se reúne anualmente para determinar os líderes mundiais mais dignos e conferir-lhes Títulos Honoríficos. O primeiro líder a deter {1_NumTokensNeededForVictory} ou mais Títulos por {2_NumTurnsNeededForVictory} Turnos controlará a Liga e vencerá o jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_POSSIBLE">
 			<Text>A partir do Ano {1_YearUpdated : number #}:</Text>
@@ -43,19 +43,19 @@
 			<Text>A vitória ainda não é possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_COUNTDOWN">
-			<Text>{1_NumTurnsUntilVictory} Turnos até que {@2_CivAboutToWin} vença!</Text>
+			<Text>{1_NumTurnsUntilVictory} Turnos até {@2_CivAboutToWin} vencer!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TURN_UNLOCK">
 			<Text>Disponível no Turno {1_UnlockTurn}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TECH_UNLOCK">
-			<Text>Disponível assim que qualquer jogador pesquisar a tecnologia {1_Technology:textkey}.</Text>
+			<Text>Disponível quando qualquer jogador pesquisar {1_Technology:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_VALUE_UNLOCK">
-			<Text>Disponível assim que qualquer jogador alcançar {1_UnlockValue} nesse campo.</Text>
+			<Text>Disponível quando qualquer jogador atingir {1_UnlockValue} neste campo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_UNLOCK_TT">
-			<Text>O Título de [COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR] fica disponível para todos os jogadores.</Text>
+			<Text>O Título de [COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR] torna-se disponível para todos os jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY">
 			<Text>Militar</Text>
@@ -64,10 +64,10 @@
 			<Text>Defensor do Progresso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_HELP">
-			<Text>Número dos Tanques e Dirigíveis mais novos</Text>
+			<Text>Número de Tanques e Dirigíveis Mais Recentes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TT">
-			<Text>Quando alguém constrói um modelo mais avançado, os modelos antigos ficam ultrapassados e não contam mais. No entanto, esses modelos antigos ainda podem ser atualizados para serem competitivos. Se outra pessoa estiver na liderança, você pode construir novas unidades, atualizar as antigas ou atacar o exército deles para reduzir o tamanho.[NEWLINE][NEWLINE]Último tipo de tanque: {@1_LandshipUnitType}[NEWLINE]Último tipo de dirigível: {@2_AirshipUnitType}</Text>
+			<Text>Quando alguém constrói um modelo mais avançado, os modelos mais antigos ficam desatualizados e não contam mais. Esses modelos mais antigos, no entanto, ainda podem ser melhorados para serem competitivos. Se outra pessoa estiver na liderança, você pode construir novas unidades, melhorar as antigas ou atacar o exército deles para diminuir seu tamanho.[NEWLINE][NEWLINE]Tipo de tanque mais recente: {@1_LandshipUnitType}[NEWLINE]Tipo de dirigível mais recente: {@2_AirshipUnitType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE">
 			<Text>Cultura</Text>
@@ -91,7 +91,7 @@
 			<Text>Cidade com Maior Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TT">
-			<Text>As cidades com a maior [ICON_PRODUCTION]Produção em cada império são comparadas, e o Título é dado ao dono da cidade mais produtiva.[NEWLINE][NEWLINE]Cidade mais produtiva do mundo: {@1_WorldBestCity}[NEWLINE]Sua cidade mais produtiva: {@2_YourBestCity}</Text>
+			<Text>As cidades com a maior [ICON_PRODUCTION] Produção em cada império individual são comparadas, e o Título é dado ao proprietário da cidade mais produtiva.[NEWLINE][NEWLINE]Cidade mais produtiva do mundo: {@1_WorldBestCity}[NEWLINE]Sua cidade mais produtiva: {@2_YourBestCity}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE">
 			<Text>Comércio</Text>
@@ -100,10 +100,10 @@
 			<Text>Mestre da Riqueza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_HELP">
-			<Text>Renda Bruta Total em Ouro</Text>
+			<Text>Renda Bruta Total de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TT">
-			<Text>A quantidade bruta de ouro adquirida ao longo do jogo. Somente a renda bruta de ouro é examinada, então manutenção e outras despesas não são subtraídas dessa pontuação.</Text>
+			<Text>A quantidade bruta de ouro adquirida ao longo do jogo. Apenas a renda bruta de ouro é examinada, portanto, a manutenção e outras despesas não são subtraídas desta pontuação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR">
 			<Text>Trabalho</Text>
@@ -122,7 +122,7 @@
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Saudações a você, renomado Capitão da ciência e indústria! O advento da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por novos recursos e invenções brilhantes. Grandes dirigíveis cruzam os céus, deixando rastros de fumaça negra. Civilizações estão sendo conduzidas a um futuro brilhante, mas a competição é acirrada. Os recursos são escassos, e os segredos tecnológicos são guardados com cuidado. Você e seus rivais devem expandir seus impérios pelo globo para atender às crescentes necessidades em nome do progresso. Você consegue aproveitar o poder da tecnologia a vapor e elevar seu povo à grandeza?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Impérios competem nos domínios Militar, Cultural, Industrial, Comercial e Trabalhista. Seja o melhor em um domínio para ganhar um Título Honorável. Para ver os detalhes de cada Título e monitorar seu progresso, verifique a tela da Liga dos Impérios. O primeiro império a obter três ou mais Títulos vence o jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Os jogadores começam com todas as tecnologias até a Energia a Vapor. A árvore tecnológica após a Energia a Vapor foi alterada significativamente, dando aos jogadores a capacidade de construir Dirigíveis, Tanques e novas edificações. Bárbaros ("Luditas") estão habilitados, mas não têm acesso a unidades avançadas. As Políticas Sociais foram reorganizadas. A religião foi desativada, assim como as Cidades-Estado religiosas e militares.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Saudações a você, renomado Capitão da ciência e indústria! O advento da energia a vapor revolucionou o mundo. É uma época de descobertas, impulsionada por novos recursos e invenções brilhantes. Grandes dirigíveis cruzam os céus, deixando rastros de fumaça negra. Civilizações estão sendo conduzidas a um futuro brilhante, mas a competição é acirrada. Os recursos são escassos, e os segredos tecnológicos são guardados com cuidado. Você e seus rivais devem expandir seus impérios pelo globo para atender às crescentes necessidades em nome do progresso. Você consegue aproveitar o poder da tecnologia a vapor e elevar seu povo à grandeza?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Impérios competem nos domínios Militar, Cultural, Industrial, Comercial e Trabalhista. Seja o melhor em um domínio para ganhar um Título Honorário. Para ver os detalhes de cada Título e monitorar seu progresso, verifique a tela da Liga dos Impérios. O primeiro império a obter três ou mais Títulos vence o jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Os jogadores começam com todas as tecnologias até a Energia a Vapor. A árvore tecnológica após a Energia a Vapor foi alterada significativamente, dando aos jogadores a capacidade de construir Dirigíveis, Tanques e novas edificações. Bárbaros ("Luditas") estão habilitados, mas não têm acesso a unidades avançadas. As Políticas Sociais foram reorganizadas. A religião foi desativada, assim como as Cidades-Estado religiosas e militares.</Text>
 		</Row>
 		<!-- <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_GERMANY_TEXT">
 			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>

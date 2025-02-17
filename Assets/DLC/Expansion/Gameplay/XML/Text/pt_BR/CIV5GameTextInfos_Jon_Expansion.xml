@@ -4,10 +4,10 @@
 	<Language_pt_BR>
 		<!-- === City-States ===-->
 		<Row Tag="TXT_KEY_CITY_STATE_ALLY_TT">
-			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 2?{1: gender masculine?são os atuais aliados; other?são as atuais aliadas;}; other?{1: gender masculine?é o atual aliado; other?é a atual aliada;};} deles. Você precisa de mais {2_NumInfluence} de [ICON_INFLUENCE] Influência para superar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1CivName:textkey} e se tornar aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 2?{1: gender masculine?são os atuais aliados; other?são as atuais aliadas;}; other?{1: gender masculine?é o atual aliado; other?é a atual aliada;};} deles. Você precisa de mais {2_NumInfluence} de [ICON_INFLUENCE] Influência para superar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} e se tornar aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_ALLY_ACTIVE_PLAYER_TT">
-			<Text>Você o atual aliado deles. Você está recebendo bônus extras, bem como qualquer recurso de luxo e estratégico que a Cidade-Estado tenha conectado.</Text>
+			<Text>Você é o atual aliado deles. Você está recebendo bônus extras, bem como qualquer recurso de luxo e estratégico que a Cidade-Estado tenha conectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_ALLY_UNKNOWN_TT">
 			<Text>Um jogador desconhecido é o atual aliado deles. Você precisa de mais {1_NumInfluence} de [ICON_INFLUENCE] Influência para superá-lo e se tornar o novo aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
@@ -19,7 +19,7 @@
 			<Text>Sua contínua proteção é um grande conforto para nós. O que podemos fazer por você?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_QUEST_MESSAGE">
-			<Text>Ótimo! Nossos mensageiros chegaram encontraram você a tempo. Nós temos um novo pedido que pode ser de seu interesse.</Text>
+			<Text>Ótimo! Nossos mensageiros chegaram e encontraram você a tempo. Nós temos um novo pedido que pode ser de seu interesse.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_MERCANTILE">
 			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] e possuímos muitos luxos que podem fazer nossos cidadãos felizes.</Text>
@@ -130,7 +130,7 @@
 			<Text>Ah, justamente o que estávamos procurando. Obrigado por seu apoio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_DIPLO_JUST_REVOKED_PROTECTION">
-			<Text>Muito bem... vire as costas para nós se você realmente precisas.</Text>
+			<Text>Muito bem... vire as costas para nós se você realmente precisa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GIFT_FAITH_FIRST">
 			<Text>Eles lhe deram seus estimados símbolos religiosos, recompensando você com [COLOR_POSITIVE_TEXT]{1_NumFaith} de [ICON_PEACE] Fé[ENDCOLOR].</Text>
@@ -217,7 +217,7 @@
 			<Text>Você destruiu com sucesso o Acampamento Bárbaro, como pedido {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_MinorCivName:textkey}! Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONNECT_RESOURCE">
-			<Text>Como pedido {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MinorCivName:textkey}, você conectou com sucesso o recurso {1_ResourceName} a sua rota comercial! Os mercadores deles estão satisfeitos e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
+			<Text>Como pedido {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MinorCivName:textkey}, você conectou com sucesso o recurso {1_ResourceName} à sua rota comercial! Os mercadores deles estão satisfeitos e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONSTRUCT_WONDER">
 			<Text>Como pedido {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MinorCivName:textkey}, você construiu {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_WonderName}! Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>

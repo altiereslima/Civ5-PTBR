@@ -88,7 +88,7 @@
 		<!-- Units-->
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
 			<Text>Jinete Comanche|Jinetes Comanches</Text>
-			<Gender>neuter:human</Gender>
+			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MYSTIC_WARRIOR">

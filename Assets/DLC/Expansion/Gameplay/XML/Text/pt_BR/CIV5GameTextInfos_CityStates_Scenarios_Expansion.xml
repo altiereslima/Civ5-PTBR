@@ -12,8 +12,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_ADJ">
-			<Text>Augsburguense|Augsburguense</Text>			
+			<Text>Augsburguês|Augsburguesa</Text>			
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE">
 			<Text>Colônia</Text>
@@ -23,6 +24,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_ADJ">
 			<Text>Coloniano|Coloniana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA">
 			<Text>Meca</Text>
@@ -32,6 +34,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_ADJ">
 			<Text>Mecano|Mecana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
 			<Text>Tunes</Text>
@@ -41,15 +44,17 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_ADJ">
 			<Text>Tunesiano|Tunesiana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES">
-			<Text>Nápolis</Text>
+			<Text>Nápoles</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_ADJ">
 			<Text>Napolitano|Napolitana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA">
 			<Text>Riga</Text>
@@ -59,6 +64,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_ADJ">
 			<Text>Rigano|Rigana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK">
 			<Text>Gdansk</Text>
@@ -68,6 +74,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_ADJ">
 			<Text>Gdanskiano|Gdanskiana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK">
 			<Text>Polotsk</Text>
@@ -77,6 +84,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_ADJ">
 			<Text>Polotskiano|Polotskiana</Text>
 			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -5,7 +5,7 @@
 			<Text>Qual é a frequência, Kenneth?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_2">
-			<Text>Tudo Bem.</Text>
+			<Text>Tudo bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_3">
 			<Text>Certamente.</Text>
@@ -80,7 +80,7 @@
 			<Text>Você não pode estar falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_8">
-			<Text>O que disse?</Text>
+			<Text>O quê?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_1">
 			<Text>Eu sou Nabucodonosor da Babilônia. Aqueles tolos dizem que eu sou um deus, mas isso parece improvável. Quem é você?</Text>
@@ -92,7 +92,7 @@
 			<Text>Eu sou Nabucodonosor. Você é real ou apenas um fantasma dos meus sentidos torturados?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_1">
-			<Text>Eu sinto a raiva subindo em mim. Você faria melhor se sumisse.</Text>
+			<Text>Eu sinto a raiva subindo em mim. É melhor você sumir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_2">
 			<Text>Adeus.</Text>
@@ -122,7 +122,7 @@
 			<Text>Oh, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_5">
-			<Text>Bem? Fale mais alto. Eu mal posso ouvi-lo com o excesso de sangue martelando meu cérebro.</Text>
+			<Text>Bem? Fale mais alto. Eu mal posso ouvi-lo com o excesso de sangue martelando em meu cérebro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_6">
 			<Text>O que você quer?</Text>
@@ -149,7 +149,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_8">
-			<Text>Continuar.</Text>
+			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LOSEWAR_1">
 			<Text>Tolo, tolo - permitindo-me viver. Você sempre deve destruir os galhos, tronco e raiz dos seus inimigos.</Text>
@@ -191,7 +191,7 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NO_ANGRY">
-			<Text>Eu tenho a concepção de um cego, quase não resisto a não gostar de você. A resposta é 'não.'</Text>
+			<Text>Eu tenho a concepção de um cego, quase não resisto a não gostar de você. A resposta é 'não'.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NO_HAPPY">
 			<Text>Sinto muito, mas as vozes me dizem que eu devo declinar a sua oferta.</Text>
@@ -200,7 +200,7 @@
 			<Text>Sua oferta foi recusada. Eu me sentiria insultado se eu me importasse com qualquer coisa sobre você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_YES_ANGRY">
-			<Text>Disseram-me que o caminho mais rápido para fazer você ir é concordar com seus termos.</Text>
+			<Text>Disseram-me que o caminho mais rápido para fazer você ir embora é concordar com seus termos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_YES_HAPPY">
 			<Text>Muito bem. Não que isso vá ajudar qualquer um de nós a longo prazo - todos nós morremos, você sabe. Excelente. Fique acordado.</Text>
@@ -209,7 +209,7 @@
 			<Text>Você é menos questionável do que muitos, eu concordo com seus termos.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADEREQUEST_ANGRY">
-			<Text>Você iria acalmar a miséria de todos os meus consumidores por concordar com o seguinte.</Text>
+			<Text>Você iria acalmar a miséria de todos os meus consumidores concordando com o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADEREQUEST_HAPPY">
 			<Text>Parece que você tem uma razão de ser: para fazer esse acordo comigo.</Text>
@@ -224,7 +224,7 @@
 			<Text>Vou lhe dar mil cantoras concubinas no outro mundo, mas neste mundo você não ganha nada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_NEUTRAL">
-			<Text>Tolo chacal! Faria bem pra você em ir para o Egito, onde pessoas como você são adoradas. Aqui, você não vai conseguir nada.</Text>
+			<Text>Tolo chacal! Faria bem para você ir para o Egito, onde pessoas como você são adoradas. Aqui, você não vai conseguir nada.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_ANGRY">
 			<Text>Seu hálito fétido sufoca a minha vida. Pegue o que você deseja e desapareça.</Text>
@@ -236,7 +236,7 @@
 			<Text>Concordo - se apenas para confundir meus conselheiros, que desejam me recusar.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_1">
-			<Text>Os tambores... os tambores! Eles libram em meu cérebro, abafando pensamentos de vingança.</Text>
+			<Text>Os tambores... os tambores! Eles vibram em meu cérebro, abafando pensamentos de vingança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_2">
 			<Text>Estou desapontado.</Text>
@@ -248,7 +248,7 @@
 			<Text>Da próxima vez não serei tão educado.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WINWAR_1">
-			<Text>Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
+			<Text>Isso foi refrescante. Se os demônios estão saciados, talvez eles nos deem uma pequena trégua agora.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

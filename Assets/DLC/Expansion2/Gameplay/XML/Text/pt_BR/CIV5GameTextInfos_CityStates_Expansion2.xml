@@ -25,7 +25,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_ADJ">
-            <Text>Antananarivo|Antananariva|Antananarivos|Antananarivas</Text>
+            <Text>de Antananarivo|de Antananarivo|de Antananarivo|de Antananarivo</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>
@@ -45,7 +45,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_ADJ">
-            <Text>Bratislavano|Bratislavana|Bratislavanos|Bratislavanas</Text>
+            <Text>Bratislavense|Bratislavense|Bratislavenses|Bratislavenses</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>
@@ -65,9 +65,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJ">
-            <Text>Giblita|Giblitas</Text>
-            <Gender>neuter|neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Bibliano|Bibliana|Biblianos|Biblianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_IFE">
             <Text>Ifé</Text>
@@ -125,7 +125,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJ">
-            <Text>Congolense|Consgolenses</Text>
+            <Text>Congolense|Congolenses</Text>
             <Gender>neuter|neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -155,7 +155,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJ">
-            <Text>de Ormus|de Ormus</Text>
+            <Text>de Ormuz|de Ormuz</Text>
             <Gender>neuter|neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>

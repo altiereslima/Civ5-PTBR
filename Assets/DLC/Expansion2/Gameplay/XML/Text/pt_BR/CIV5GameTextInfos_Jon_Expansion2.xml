@@ -215,7 +215,7 @@
             <Text>Nova Transação</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Pontos de Referência e Grandes Personalidades melhoram a produção em +4 de seu respectivo rendimento.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Marcos Históricos e Grandes Personalidades melhoram a produção em +4 de seu respectivo rendimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
             <Text>Arsenal da Democracia</Text>
@@ -702,10 +702,10 @@
             <Text>Fornece +2 de [ICON_TOURISM] Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
-            <Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Marco Histórico.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
-            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Marco Histórico.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
             <Text>Constrói um Acampamento de Pau-Brasil, que aumenta a quantidade de [ICON_GOLD] Ouro fornecido por este hexágono, mantendo a Selva intocada. Também fornece [ICON_CULTURE] Cultura assim que a Acústica for pesquisada.</Text>
@@ -735,10 +735,10 @@
             <Text>A unidade será consumida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Marco Histórico.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico Escondido pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. Sítios Arqueológicos Escondidos são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
+            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico Escondido pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Marco Histórico. Sítios Arqueológicos Escondidos são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
@@ -879,7 +879,7 @@
             <Text>[COLOR_NEGATIVE_TEXT]Eles pediram para você parar de escavar os artefatos deles e você os ignorou![ENDCOLOR]</Text>
         </Row>
 		<Row Tag="TXT_KEY_DIPLO_LANDMARKS_BUILT">
-		  <Text>[COLOR_POSITIVE_TEXT]Você construiu um Ponto de Referência no território deles.[ENDCOLOR]</Text>
+		  <Text>[COLOR_POSITIVE_TEXT]Você construiu um Marco Histórico no território deles.[ENDCOLOR]</Text>
 		</Row>		
         <Row Tag="TXT_KEY_DIPLO_PLUNDERING_OUR_TRADE_ROUTES">
             <Text>[COLOR_NEGATIVE_TEXT]Você saqueou rotas comerciais deles![ENDCOLOR]</Text>

@@ -16,7 +16,7 @@
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1">
-      <Text>Uma outra hora, talvez.</Text>
+      <Text>Em outra hora, talvez.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2">
       <Text>Cuidado onde você pisa, amigo.</Text>
@@ -88,7 +88,7 @@
     </Row> 
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_NEUTRAL">
-        <Text>Eu receio que eu não tenho nada a ver com isso. Você terá que ir de mãos vazias.</Text>
+        <Text>Eu receio que eu não tenha nada a ver com isso. Você terá que ir de mãos vazias.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_NEUTRAL">
@@ -266,7 +266,7 @@
       <Text>As Leis do Remo Rachado foram infringidas pela última vez. Como um pai disciplina seu filho, eu chorarei ao destruir você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_1">
-      <Text>Você oura ignorar as sagradas Leis do Remo Rachado? Nosso conflito me entristece muito, mas eu preciso proteger o meu povo.</Text>
+      <Text>Você ousa ignorar as sagradas Leis do Remo Rachado? Nosso conflito me entristece muito, mas eu preciso proteger o meu povo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_2">
       <Text>Agora vejo que eu fui enganado ao acreditar em você e compartilhar nossos bens e riqueza. Eu não deixarei que você faça o mesmo com outros.</Text>

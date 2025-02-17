@@ -25,9 +25,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY">
-			<Text>Fábrica de Lubórico</Text>
+			<Text>Fábrica de Lubórico|Fábricas de Lubórico</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
 			<Text>Dínamo Toroidal|Dínamos Toroidais</Text>
@@ -66,7 +66,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY">
-			<Text>Refinaria de Lubórico</Text>
+			<Text>Refinaria de Lubórico|Refinarias de Lubórico</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -144,12 +144,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHATEAU">
 			<Text>Château|Châteaux</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH">
 			<Text>Madraçal|Madraçais</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 	</Language_pt_BR>

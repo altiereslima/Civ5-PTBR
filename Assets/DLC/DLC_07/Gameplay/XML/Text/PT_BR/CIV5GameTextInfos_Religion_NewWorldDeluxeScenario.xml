@@ -15,13 +15,13 @@
 		</Row>
 		<!-- Pantheons-->
 		<Row Tag="TXT_KEY_BELIEF_APU">
-			<Text>+3 de [ICON_PEACE] Fé em cidades com uma [ICON_CONNECTED] Conexões entre Cidades, +1 de [ICON_GOLD] Ouro por Posto Comercial, e use [ICON_PEACE] Fé para adquirir Trabalhadores.</Text>
+			<Text>+3 de [ICON_PEACE] Fé em cidades com [ICON_CONNECTED] Conexões entre Cidades, +1 de [ICON_GOLD] Ouro por Posto Comercial, e use [ICON_PEACE] Fé para adquirir Trabalhadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_APU_SHORT">
 			<Text>Apu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
-			<Text>+2 de [ICON_PEACE] Fé por Pedreiras, +15% de [ICON_PRODUCTION] Produção por Maravilhas, e pode construir Oficinas com [ICON_PEACE] Fé.</Text>
+			<Text>+2 de [ICON_PEACE] Fé por Pedreiras, +15% de [ICON_PRODUCTION] Produção para Maravilhas, e pode construir Oficinas com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COQUIHANI_SHORT">
 			<Text>Coquihani</Text>
@@ -45,7 +45,7 @@
 			<Text>Inti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
-			<Text>Taxa de [ICON_FOOD] Crescimento 10% mais rápida, +3 de [ICON_PEACE] Fé por Jardins, e pode construir Moinho d'Água e Aquedutos com [ICON_PEACE] Fé.</Text>
+			<Text>Taxa de [ICON_FOOD] Crescimento 10% mais rápida, +3 de [ICON_PEACE] Fé por Jardins, e pode construir Moinhos d'Água e Aquedutos com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
 			<Text>Quetzalcoatl</Text>

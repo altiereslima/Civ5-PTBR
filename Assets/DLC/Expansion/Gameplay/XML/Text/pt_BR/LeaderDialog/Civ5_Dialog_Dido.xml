@@ -46,7 +46,7 @@
       <Text>Quando eu for finalmente enterrada, espero ser lembrada... mesmo enquanto minha pobre cidade é consumida pelo fogo e tormento.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3">
-      <Text>Uma pira adequada a uma deusa, eu presumo. Suas chamas beijarão as ondulações da água, dançando em conserto com as estrelas acima. A morte agora é minha convidada bem-vinda.</Text>
+      <Text>Uma pira adequada a uma deusa, eu presumo. Suas chamas beijarão as ondulações da água, dançando em concerto com as estrelas acima. A morte agora é minha convidada bem-vinda.</Text>
     </Row>
     
     <!--Neutral -->
@@ -175,14 +175,14 @@
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_5}</Text>
-    </Row> 
+    </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4">
       <Text>{TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4}</Text>
-    </Row> 
+    </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
@@ -209,7 +209,7 @@
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY">
       <Text>Tudo bem. Concordo.</Text>
-    </Row> 
+    </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_1">
       <Text>Eu realmente não entendo o que você quer com isso. Pare de confusão e faça uma oferta plausível.</Text>
@@ -226,7 +226,7 @@
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY">
       <Text>Você pensa ser melhor que eu? EU, que fui mais esperta que Pigmaleão e os lordes de Tiro? Hmmff... você me enoja.</Text>
-    </Row>  
+    </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY">
       <Text>No interesse de me concentrar em assuntos mais importantes neste momento, concordarei com esta ação ridícula.</Text>
@@ -262,7 +262,7 @@
       <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1">
-      <Text>Eu e a paz nos tornamos desconhecidos; Eu não posso mais compactuar os horrores causados por você nessas terras. Prepare-se, as Parcas virão esta noite por você.</Text>
+      <Text>Eu e a paz nos tornamos desconhecidos; Eu não posso mais compactuar com os horrores causados por você nessas terras. Prepare-se, as Parcas virão esta noite por você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2">
       <Text>Parece que a sorte acabou para você. Suas ações e zombarias atiçaram a ira de Cartago. Sua hora chegou.</Text>

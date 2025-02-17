@@ -47,7 +47,7 @@
 			<Text>Ritos de Fertilidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN_SHORT">
-			<Text>Deus do Artesão</Text>
+			<Text>Deus dos Artesãos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_SEA_SHORT">
 			<Text>Deus do Mar</Text>
@@ -101,7 +101,7 @@
 			<Text>Culto aos Ancestrais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_SHORT">
-			<Text>Folclore Solitário</Text>
+			<Text>Folclore do Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_SHORT">
 			<Text>Caminho Sagrado</Text>
@@ -140,7 +140,7 @@
 			<Text>Ritos de Iniciação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_JUST_WAR_SHORT">
-			<Text>Apenas Guerra</Text>
+			<Text>Guerra Justa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH_SHORT">
 			<Text>Defensor da Fé</Text>
@@ -176,7 +176,7 @@
 			<Text>Jardins da Paz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC_SHORT">
-			<Text>Música de Coral</Text>
+			<Text>Música Coral</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT">
 			<Text>Arte Religiosa</Text>
@@ -191,7 +191,7 @@
 			<Text>Centro Religioso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY_SHORT">
-			<Text>Supremacia Papal</Text>
+			<Text>Primazia Papal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_SHORT">
 			<Text>Dança da Aurora</Text>

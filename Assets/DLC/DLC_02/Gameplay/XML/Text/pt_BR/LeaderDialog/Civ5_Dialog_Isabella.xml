@@ -51,7 +51,7 @@
 			<Text>Meu amigo, acredito que os Céus gostariam que você nos desse o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
-			<Text>A Espanha precisa do seguinte para ajudar na sua batalha sem fim contra os pecadores.</Text>
+			<Text>A Espanha precisa do seguinte para ajudar em sua batalha sem fim contra os pecadores.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_1">
@@ -83,7 +83,7 @@
 			<Text>Que as graças dos Céus caiam sobre aqueles que as merecem! Eu sou Isabel da Espanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_3">
-			<Text>Eu sou Isabel, Rainha Ungida da Espanha. Você é um pagão, ou um cristão?</Text>
+			<Text>Eu sou Isabel, Rainha Ungida da Espanha. Você é um pagão ou um cristão?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_1">

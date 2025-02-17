@@ -37,8 +37,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
-            <Text>Honcongonês|Honcongonesa</Text>
-            <Gender>masculine|feminine</Gender>
+            <Text>Hongconguês|Hongcongonesa|Hongcongueses|Hongcongonesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
             <Text>Jerusalém</Text>
@@ -46,7 +47,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
-            <Text>Hierosolomita|Hierosolomitas</Text>
+            <Text>Hierosolimita|Hierosolimitas</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -126,7 +127,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
-            <Text>Vitemberguiano|Vitemberguiana|Vitemberguianos|Vitemberguianas</Text>
+            <Text>Vitemberguês|Vitemberguesa|Vitembergueses|Vitemberguesas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>
@@ -156,7 +157,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
-            <Text>Zuriquenho|Zuriquenha|Zuriquenhos|Zuriquenhas</Text>
+            <Text>Zuriquês|Zuriquesa|Zuriqueses|Zuriquesas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>

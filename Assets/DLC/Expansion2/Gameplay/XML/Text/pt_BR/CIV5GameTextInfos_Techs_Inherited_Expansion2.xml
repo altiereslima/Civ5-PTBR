@@ -35,22 +35,22 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA">
-			<Text>Dramaturgia</Text>
+			<Text>Dramaturgia e Poesia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
-			<Text>Dramaturgia</Text>
+			<Text>Dramaturgia e Poesia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS">
-			<Text>Hidroelétricas</Text>
+			<Text>Hidrelétricas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS_TITLE">
-			<Text>Hidroelétricas</Text>
+			<Text>Hidrelétricas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>

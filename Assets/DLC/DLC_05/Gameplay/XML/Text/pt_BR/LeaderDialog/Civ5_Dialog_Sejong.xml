@@ -30,7 +30,7 @@
 		  <Text>Tecnologia superior, planejamento e sabedoria triunfam mais uma vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_2">
-		  <Text>Você não pode vencer os veneráveis do Hall da Fama - as melhores mentes do meu país trabalhando juntos contra você.</Text>
+		  <Text>Você não pode vencer os veneráveis do Hall da Fama - as melhores mentes do meu país trabalhando juntas contra você.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_1">

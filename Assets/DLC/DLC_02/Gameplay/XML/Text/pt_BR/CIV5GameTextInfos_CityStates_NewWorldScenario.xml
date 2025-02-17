@@ -30,7 +30,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
-			<Text>lakota|lakota</Text>
+			<Text>lakota|lakotas</Text>
 			<Gender>neuter</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -155,7 +155,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
-			<Text>Terra dos Anasazis</Text>
+			<Text>Terra dos Anasazi</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

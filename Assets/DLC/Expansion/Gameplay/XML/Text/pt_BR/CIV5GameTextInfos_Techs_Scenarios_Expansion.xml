@@ -63,7 +63,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_TITLE">
-			<Text>Evangelho da Prosperidade</Text>
+			<Text>Evangelho da Riqueza</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -89,7 +89,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_TITLE">
 			<Text>Leviatã Terrestre</Text>
-			<Gender>feminine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_TITLE">
@@ -98,7 +98,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_TITLE">
-			<Text>Movimento Contínuo</Text>
+			<Text>Movimento Perpétuo</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>

@@ -29,7 +29,7 @@
 			<Text>Linha de Batalha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
-			<Text>Apesar de seu primeiro uso em batalha ser motivo de debate (variando de 1502 a 1652 d.C.), em 1675 a tática de "linha de batalha" era a formação mais comum usada pelas marinhas europeias. Em contraste com os combates navais usuais, na linha de batalha, cada navio de guerra podia disparar sua lateral sem atingir embarcações aliadas, permitindo um fogo concentrado e contínuo.</Text>
+			<Text>Apesar de seu primeiro uso em batalha ser motivo de debate (variando de 1502 a 1652 d.C.), em 1675 a tática de "linha de batalha" era a formação mais comum usada pelas marinhas europeias. Em contraste com os combates navais tradicionais, na linha de batalha, cada navio de guerra podia disparar sua lateral sem atingir embarcações aliadas, permitindo um fogo concentrado e contínuo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
 			<Text>Permite construir a edificação impulsionadora de [ICON_GOLD] Ouro, a [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], e construir o [COLOR_POSITIVE_TEXT]Navio de Linha[ENDCOLOR], a unidade mais forte e com o alcance mais distante.</Text>
@@ -41,7 +41,7 @@
 			<Text>Frota Mercante</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
-			<Text>Diante das depredações de bucaneiros e corsários, nos meados de 1500, espanhóis e portugueses adotaram uma forma inicial de comboios para seus navios mercantes que navegavam nas rotas comerciais do Atlântico. Enquanto as frotas de tesouro eram normalmente acompanhadas por navios de guerra, as frotas mercantes privadas não eram; assim, muitos dos galeões - carregados com tabaco, especiarias, madeira, açúcar, grãos, pérolas e outras mercadorias de luxo para os mercados europeus - eram armados com canhões e caronadas para afastar os pequenos navios piratas.</Text>
+			<Text>Diante das depredações de bucaneiros e corsários, em meados de 1500, espanhóis e portugueses adotaram uma forma inicial de comboios para seus navios mercantes que navegavam nas rotas comerciais do Atlântico. Enquanto as frotas de tesouro eram normalmente acompanhadas por navios de guerra, as frotas mercantes privadas não eram; assim, muitos dos galeões - carregados com tabaco, especiarias, madeira, açúcar, grãos, pérolas e outras mercadorias de luxo para os mercados europeus - eram armados com canhões e caronadas para afastar os pequenos navios piratas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
 			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Nau[ENDCOLOR], o navio mais rápido.</Text>

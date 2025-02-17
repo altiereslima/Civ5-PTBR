@@ -30,7 +30,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
-			<Text>Kiribatinense|Kiribatinense</Text>
+			<Text>Kiribatiano|Kiribatiana</Text>
 			<Gender>masculine|feminine</Gender> 
 			<Plurality>1|1</Plurality>			
 		</Row>
@@ -40,7 +40,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
-			<Text>Nauruanense|Nauruanense</Text>
+			<Text>Nauruano|Nauruana</Text>
 			<Gender>masculine|feminine</Gender> 
 			<Plurality>1|1</Plurality>			
 		</Row>
@@ -60,7 +60,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL_ADJ">
-			<Text>Guadalcanalano|Guadalcanalana</Text>
+			<Text>Guadalcanalense|Guadalcanalense</Text>
 			<Gender>masculine|feminine</Gender> 
 			<Plurality>1|1</Plurality>			
 		</Row>
@@ -70,7 +70,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
-			<Text>Pohnpeiense|Pohnpeiense</Text>
+			<Text>Ponapeano|Ponapeana</Text>
 			<Gender>masculine|feminine</Gender> 
 			<Plurality>1|1</Plurality>			
 		</Row>

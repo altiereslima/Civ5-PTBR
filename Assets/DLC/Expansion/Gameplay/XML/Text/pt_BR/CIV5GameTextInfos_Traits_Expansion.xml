@@ -15,19 +15,19 @@
 			<Text>Conhecimento Druídico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
-			<Text>Escolha uma Crença a mais quando você fundar uma Religião.</Text>
+			<Text>Escolha uma Crença adicional quando fundar uma Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
 			<Text>Patriarca de Constantinopla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
-			<Text>Ganhe 90 de [ICON_INFLUENCE] Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
+			<Text>Ganha 90 de [ICON_INFLUENCE] Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
 			<Text>Prêmio Nobel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-			<Text>Arrase cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
+			<Text>Arrasa cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicia com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
 			<Text>Flagelo de Deus</Text>
@@ -57,7 +57,7 @@
 			<Text>Espírito de Adua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
-			<Text>Receba o triplo de [ICON_GOLD] Ouro de Acampamentos Bárbaros e cidades saqueadas. Unidades terrestres ganham as promoções Canoas de Guerra e Anfíbio, fortalecendo-os quando estão embarcados.</Text>
+			<Text>Recebe o triplo de [ICON_GOLD] Ouro de Acampamentos Bárbaros e cidades saqueadas. Unidades terrestres ganham as promoções Canoas de Guerra e Anfíbio, fortalecendo-os quando estão embarcados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
 			<Text>Sete Cidades de Ouro</Text>

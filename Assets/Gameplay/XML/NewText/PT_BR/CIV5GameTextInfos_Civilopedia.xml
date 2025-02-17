@@ -3037,7 +3037,7 @@
 			<Text>Civilizações podem contratar Trabalhadores para a construção de "melhorias" - Fazendas, Minas, Pastos e assim por diante - em torno de suas cidades, para melhor explorar a terra, aumentando a oferta de alimentos, produtividade e recursos essenciais. Nem todos os recursos estão disponíveis para uma civilização no início do jogo: alguns exigem conhecimento de uma tecnologia específica. O hexágono deve estar dentro das fronteiras da sua civilização para que você seja capaz de construir uma melhoria sobre ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
-			<Text>Um Ponto de Referência é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um Ponto de Referência, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados Ponto de Referência: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
+			<Text>Um Marco Histórico é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um Marco Histórico, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados Marco Histórico: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL">
 			<Text>Serraria</Text>
@@ -7207,7 +7207,7 @@
 			<Text>Como a cultura é acumulada e o que ela te dá?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY">
-			<Text>Sua civilização adquire cultura em uma variedade de modos: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- Ruínas Antigas: Uma antiga ruína pode te dar uma boa dose de cultura. [NEWLINE]- Construções: Certas edificações produzem cultura. O Monumento e o Templo são dois exemplos do início do jogo. [NEWLINE]- Especialistas: Particularmente Artistas, geram cultura. [NEWLINE]- Maravilhas: Algumas maravilhas "jorram" cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que te dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: Certas Políticas Sociais irão aumentar sua produção de cultura. O ramo Religioso tem um número de políticas voltadas para a cultura. [NEWLINE]- Grandes Artistas: Um Grande Artista pode construir a melhoria "Ponto de Referência" em um hexágono. Se sua cidade explorar aquele espaço, ele gerará muita cultura. [NEWLINE]- Cidades-Estado: Algumas Cidades-Estado te dão cultura se seu relacionamento for amigável.</Text>
+			<Text>Sua civilização adquire cultura em uma variedade de modos: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- Ruínas Antigas: Uma antiga ruína pode te dar uma boa dose de cultura. [NEWLINE]- Construções: Certas edificações produzem cultura. O Monumento e o Templo são dois exemplos do início do jogo. [NEWLINE]- Especialistas: Particularmente Artistas, geram cultura. [NEWLINE]- Maravilhas: Algumas maravilhas "jorram" cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que te dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: Certas Políticas Sociais irão aumentar sua produção de cultura. O ramo Religioso tem um número de políticas voltadas para a cultura. [NEWLINE]- Grandes Artistas: Um Grande Artista pode construir a melhoria "Marco Histórico" em um hexágono. Se sua cidade explorar aquele espaço, ele gerará muita cultura. [NEWLINE]- Cidades-Estado: Algumas Cidades-Estado te dão cultura se seu relacionamento for amigável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_TITLE">
 			<Text>Obtendo Cultura</Text>
@@ -8035,7 +8035,7 @@
 			<Text>O que pode criar felicidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_CAUSES_HEADING2_BODY">
-			<Text>Os itens seguintes aumentam a felicidade de sua população:[NEWLINEW][NEWLINE] Maravilhas Naturais: cada Maravilha Natural que você descobrir aumenta permanentemente a felicidade de sua população.[NEWLINE][NEWLINE]Recursos de Luxo: explore esses recursos dentro do seu território ou os negocie com outras civilizações. Cada tipo de recursos melhora a felicidade de sua população (mas você não ganha felicidade extra por ter muitas fontes de um mesmo recurso). [NEWLINE][NELINE]Edificações: certas edificações aumentam a felicidade de sua população. Nessas incluem o Coliseu, o Circo, o Teatro e outros. Cada edificação construída em qualquer lugar em sua civilização aumenta sua felicidade geral (assim, dois Coliseus produzem o dobro de um único Coliseu, diferentemente dos Recursos de Luxo).[NEWLINE][NEWLINE]Maravilhas: certas Maravilhas, como Notre Dame e os Jardins Flutuantes podem te dar um grande bônus na felicidade.[NEWLINE][NEWLINE]Políticas Sociais: políticas do ramo Piedade oferecem bastante felicidade, como algumas outras políticas em outros ramos.[NEWLINE][NEWLINE]Tecnologias: por si só elas não oferecem felicidade, mas liberam edificações, maravilhas, recursos e políticas sociais que dão felicidade.</Text>
+			<Text>Os seguintes itens aumentam a felicidade de sua população:[NEWLINEW][NEWLINE] Maravilhas Naturais: cada Maravilha Natural que você descobrir aumenta permanentemente a felicidade de sua população.[NEWLINE][NEWLINE]Recursos de Luxo: explore esses recursos dentro do seu território ou os negocie com outras civilizações. Cada tipo de recursos melhora a felicidade de sua população (mas você não ganha felicidade extra por ter muitas fontes de um mesmo recurso). [NEWLINE][NELINE]Edificações: certas edificações aumentam a felicidade de sua população. Nessas incluem o Coliseu, o Circo, o Teatro e outros. Cada edificação construída em qualquer lugar em sua civilização aumenta sua felicidade geral (assim, dois Coliseus produzem o dobro de um único Coliseu, diferentemente dos Recursos de Luxo).[NEWLINE][NEWLINE]Maravilhas: certas Maravilhas, como Notre Dame e os Jardins Flutuantes podem te dar um grande bônus na felicidade.[NEWLINE][NEWLINE]Políticas Sociais: políticas do ramo Piedade oferecem bastante felicidade, como algumas outras políticas em outros ramos.[NEWLINE][NEWLINE]Tecnologias: por si só elas não oferecem felicidade, mas liberam edificações, maravilhas, recursos e políticas sociais que dão felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_CAUSES_HEADING2_TITLE">
 			<Text>O que causa Felicidade</Text>
@@ -9130,13 +9130,13 @@
 			<Text>Hab. Especial: Acelerar Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_ADV_QUEST">
-			<Text>O que a Melhoria Ponto de Referência faz?</Text>
+			<Text>O que a Melhoria Marco Histórico faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_BODY">
-			<Text>Uma Melhoria Ponto de Referência proporciona abundância de cultura para a cidade.</Text>
+			<Text>Uma Melhoria Marco Histórico proporciona abundância de cultura para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_TITLE">
-			<Text>Melhoria Esp.: Ponto de Referência</Text>
+			<Text>Melhoria Esp.: Marco Histórico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_ADV_QUEST">
 			<Text>O que a habilidade especial Descobrir Tecnologia faz?</Text>
@@ -10555,7 +10555,7 @@
 			<Text>O Panzer é a unidade alemã única, que substitui o Tanque. É tão forte e rápida quanto o Tanque. Como o Tanque, o Panzer recebe uma penalidade quando ataca cidades. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e, então, atravessá-las antes que o inimigo possa recuperar a lacuna.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Grandes Artistas podem construir a melhoria especial Ponto de Referência, que, quando trabalhada, fornece muita [ICON_CULTURE] Cultura para a cidade. Eles também podem "bombardear culturalmente" um hexágono dentro ou a 1 espaço do seu território, transformando este hexágono em seu território. Grandes Artistas também podem iniciar a Era de Ouro e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
+			<Text>Grandes Artistas podem construir a melhoria especial Marco Histórico, que, quando trabalhada, fornece muita [ICON_CULTURE] Cultura para a cidade. Eles também podem "bombardear culturalmente" um hexágono dentro ou a 1 espaço do seu território, transformando este hexágono em seu território. Grandes Artistas também podem iniciar a Era de Ouro e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
 			<Text>Grandes Engenheiros podem construir a melhoria especial Indústria, que, quando trabalhada, fornece uma grande quantidade de [ICON_PRODUCTION] Produção para a cidade. Eles também podem acelerar a [ICON_PRODUCTION] Produção de uma unidade, edificação ou Maravilha em uma cidade. O Grande Engenheiro também pode iniciar a Era de Ouro e são consumidos quando utilizados para qualquer um desses objetivos.</Text>

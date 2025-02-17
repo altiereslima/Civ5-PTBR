@@ -578,7 +578,7 @@
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marcos Históricos, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>

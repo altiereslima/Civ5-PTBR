@@ -135,13 +135,13 @@
 			<Text>Um espião {1_CivAdj[1]} foi morto!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY">
-			<Text>{2: gender feminine?Sua espiã; other?Seu espião;} {1_SpyRank} {2_SpyName} matou um espião {3_CivAdj[1]} {4: gender *:noart?em; feminine?{4: plural 2?nas; other?na;}; masculine?{4: plural 2?nos; other?no;}; other?em;} {4_CityName} enquanto eles tentavam roubar uma tecnologia!</Text>
+			<Text>{2: gender feminine?Sua espiã; other?Seu espião;} {1_SpyRank} {2_SpyName} matou um espião {3_CivAdj[1]} {4: gender *:noart?em; feminine?{4: plural 2?nas; other?na;}; masculine?{4: plural 2?nos; other?no;}; other?em;} {4_CityName} enquanto ele tentava roubar uma tecnologia!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED_S">
 			<Text>{1_SpyName} {1: gender feminine?morta; other?morto;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED">
-			<Text>{2: gender feminine?Sua espiã; other?Seu espião;} {1_SpyRank} {2_SpyName} foi {2: gender feminine?morta; other?morto;} por um contra espião {3_CivAdj[1]} enquanto tentava roubar uma tecnologia {4: gender *:noart?em; feminine?{4: plural 2?nas; other?na;}; masculine?{4: plural 2?nos; other?no;}; other?em;} {4_CityName}!</Text>
+			<Text>{2: gender feminine?Sua espiã; other?Seu espião;} {1_SpyRank} {2_SpyName} foi {2: gender feminine?morta; other?morto;} por um contraespião {3_CivAdj[1]} enquanto tentava roubar uma tecnologia {4: gender *:noart?em; feminine?{4: plural 2?nas; other?na;}; masculine?{4: plural 2?nos; other?no;}; other?em;} {4_CityName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED_S">
 			<Text>Um espião substituto foi recrutado.</Text>
@@ -183,7 +183,7 @@
 			<Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} descobriu que {3_PlayerName} prepara um exército para um ataque surpresa contra outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_INTRIGUE_BUILDING_ARMY">
-			<Text>{1_PlayerName} prepara um exército para um atacar surpresa contra outra civilização.</Text>
+			<Text>{1_PlayerName} prepara um exército para um ataque surpresa contra outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY_S">
 			<Text>{1_PlayerName} prepara um ataque naval surpresa!</Text>
@@ -243,7 +243,7 @@
 		  <Text>{1_PlayerName} iniciou um ataque surpresa contra outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
-		  <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} descobriu que um exército {3_CivAdj[1]} marcha neste momento para fazer um ataque surpresa contra uma civilização ainda desconhecida. Nós não sabemos qual civilização eles estão mirando.</Text>
+		  <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} descobriu que um exército {3_CivAdj[1]} marcha neste momento para fazer um ataque surpresa contra uma civilização ainda desconhecida. Não sabemos qual civilização eles estão mirando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
 		  <Text>{1_PlayerName} iniciou um ataque surpresa contra outra civilização.</Text>

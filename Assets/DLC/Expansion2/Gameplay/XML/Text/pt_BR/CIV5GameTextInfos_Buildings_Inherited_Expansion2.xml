@@ -15,7 +15,7 @@
             <Text>Requer Honra. Todas as unidades ganham +15% de [ICON_STRENGTH] Força de Combate quando atacam cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_DESC">
-            <Text>Com mais de 12 metros de altura, a Estátua de Zeus, encontrada no Templo de Zeus em Olímpia, Grécia, foi outra das Sete Maravilhas do Mundo Antigo. Conhecida por ter sido construída pelo escultor grego Fídias, em 440 a.C., mesmo com Zeus sentado em um trono de ouro, a enorme estátua mal podia ser contida pelo próprio templo. Imagina-se que a estátua tenha sido destruída o mais tardar em 425 d.C., quando o templo de Zeus foi queimado. Se a estátua ainda estava presente naquele momento, é assunto de muito debate.</Text>
+            <Text>Com mais de 12 metros de altura, a Estátua de Zeus, encontrada no Templo de Zeus em Olímpia, Grécia, foi outra das Sete Maravilhas do Mundo Antigo. Conhecida por ter sido construída pelo escultor grego Fídias, em 440 a.C., mesmo com Zeus sentado em um trono de ouro, a enorme estátua mal podia ser contida pelo próprio templo. Imagina-se que a estátua tenha sido destruída, no mais tardar, em 425 d.C., quando o templo de Zeus foi queimado. Se a estátua ainda estava presente naquele momento, é assunto de muito debate.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Ele falou, o filho de Cronos, e inclinou sua cabeça com as sobrancelhas negras, e os cabelos imortalmente ungidos do grande deus ondularam sobre sua fronte e todo o Olimpo tremeu."[NEWLINE][TAB][TAB] - A Ilíada[NEWLINE][TAB]</Text>
@@ -97,7 +97,7 @@
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
-            <Text>Centro de Reciclagem|Centros de Reciclagens</Text>
+            <Text>Centro de Reciclagem|Centros de Reciclagem</Text>
             <Gender>masculine|masculine</Gender>
             <Plurality>1|2</Plurality>
         </Row>

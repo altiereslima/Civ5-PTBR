@@ -32,7 +32,7 @@
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LOSEWAR_1">
-			<Text>Você se deu surpreendentemente bem. Claramente você andou me estudando atentamente.</Text>
+			<Text>Você se saiu surpreendentemente bem. Claramente você andou me estudando atentamente.</Text>
 		</Row>
 		<!--Defeated and removed from game -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_1">

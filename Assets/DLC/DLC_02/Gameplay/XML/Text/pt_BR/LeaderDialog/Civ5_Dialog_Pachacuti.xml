@@ -8,13 +8,13 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1">
-			<Text>Saudações. Eu sou Pachacuti, governante dos Incas, o mais nobre, forte e mais lindo povo do planeta. Eu sempre me alegro em conhecer Pachacutis de civilizações inferiores!</Text>
+			<Text>Saudações. Eu sou Pachacuti, governante dos Incas, o mais nobre, forte e belo povo do planeta. Eu sempre me alegro em conhecer Pachacutis de civilizações inferiores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_2">
 			<Text>Saudações, estrangeiro! Eu sou Pachacuti, Pachacuti dos Incas. Você deve estar muito honrado por nos conhecer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_3">
-			<Text>Saudações, estrangeiro! Eu sou Pachacuti, governante dos inigualáveis Incas. Se houver alguma forma de podermos ajudar sua civilização inferior, por favor não hesite em pedir.</Text>
+			<Text>Saudações, estrangeiro! Eu sou Pachacuti, governante dos inigualáveis Incas. Se houver alguma forma de podermos ajudar sua civilização inferior, por favor, não hesite em pedir.</Text>
 		</Row>
 		<!--Reacts to his bluff being called -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_1">
@@ -32,7 +32,7 @@
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_LOSEWAR_1">
-			<Text>Você se deu surpreendentemente bem. Claramente você andou me estudando atentamente.</Text>
+			<Text>Você se saiu surpreendentemente bem. Claramente, você andou me estudando atentamente.</Text>
 		</Row>
 		<!--Defeated and removed from game -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_1">
@@ -257,7 +257,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_1">
-			<Text>Seu povo continua atrasado e primitivo. Claramente uma mudança de regime é necessária. Prepare-se para a guerra!</Text>
+			<Text>Seu povo continua atrasado e primitivo. Claramente, uma mudança de regime é necessária. Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_2">
 			<Text>Eu vou fazer um favor ao seu povo primitivo e incorporá-los ao Império Inca. Prepare-se para a guerra!</Text>

@@ -31,7 +31,7 @@
       <Text>Lembre-se que isso poderia ter sido evitado. O seu povo não suportará por muito tempo suas repetidas tentativas de se autodestruir.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_WINWAR_2">
-      <Text>Espero que tenha aprendido a lição. Talvez eu deva libertá-lo de sua extravagância para assegurar que você lembrará.</Text>
+      <Text>Espero que tenha aprendido a lição. Talvez eu deva libertá-lo de sua extravagância para assegurar que você se lembrará.</Text>
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_LOSEWAR_1">
@@ -101,7 +101,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Hmmm... Sinto que minha pilha de tesouros não está crescendo a contendo. Você pode adicionar a sua parte agora ou eu posso pegar o que eu desejar depois.</Text>
+      <Text>Hmmm... Sinto que minha pilha de tesouros não está crescendo a contento. Você pode adicionar a sua parte agora ou eu posso pegar o que eu desejar depois.</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_1">
@@ -164,7 +164,7 @@
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_NO_HAPPY">
-      <Text>Meus recursos estão todos comprometidos no estrangeiro. Receito que você esteja por conta própria.</Text>
+      <Text>Meus recursos estão todos comprometidos no exterior. Receio que você esteja por conta própria.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_HAPPY">
@@ -251,7 +251,7 @@
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_5">
-      <Text>Vocês são loucos!</Text>
+      <Text>Vocês estão loucos!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_6">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
@@ -279,7 +279,7 @@
       <Text>Eu esperaria esta traição de Roma, não de você. Não importa... todos vocês sangram.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_3">
-      <Text>Pensei que você era um inútil, mas eu me enganei. Você se tornou um ótimo exemplo de como morrer.</Text>
+      <Text>Pensei que você fosse um inútil, mas eu me enganei. Você se tornou um ótimo exemplo de como morrer.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

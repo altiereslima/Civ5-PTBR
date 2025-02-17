@@ -103,7 +103,7 @@
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
 			<Text>Eruch</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
 			<Text>Eruco|Eruca|Erucos|Erucas</Text>
@@ -133,7 +133,7 @@
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
 			<Text>Pulias</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
 			<Text>Puliano|Puliana|Pulianos|Pulianas</Text>
@@ -148,7 +148,7 @@
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
 			<Text>Vedria</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
 			<Text>Vedriano|Vedriana|Vedrianos|Vedrianas</Text>
@@ -163,7 +163,7 @@
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
 			<Text>Dalmace</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
 			<Text>Dalmaciano|Dalmaciana|Dalmacianos|Dalmacianas</Text>
@@ -200,7 +200,7 @@
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_ADJECTIVE">
 			<Text>Aiúbida|Aiúbidas</Text>
 			<Gender>neuter</Gender>
-			<Plurality>1|1|2|2</Plurality>
+			<Plurality>1|2</Plurality> 
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
 			<Text>Almóadas</Text>

@@ -15,7 +15,7 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_DESC">
-			<Text>A lendária cidade de Troia, que presumem ter atingido seu auge no terceiro e segundo milênio a.C., era um próspero centro de comércio no Mar Egeu. Retratada predominantemente no poema épico de Homero a "Ilíada", imaginou-se por muito tempo que a cidade fosse puramente mitológica. No entanto, descobertas arqueológicas no século XIX relevaram restos na Turquia moderna, que acreditam ter sido a cidade de Troia.</Text>
+			<Text>A lendária cidade de Troia, que presume ter atingido seu auge no terceiro e segundo milênio a.C., era um próspero centro de comércio no Mar Egeu. Retratada predominantemente no poema épico de Homero, a "Ilíada", imaginou-se por muito tempo que a cidade fosse puramente mitológica. No entanto, descobertas arqueológicas no século XIX revelaram restos na Turquia moderna, que se acredita ter sido a cidade de Troia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS">
 			<Text>Cnossos</Text>
@@ -26,18 +26,18 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_DESC">
-			<Text>O assentamento de Cnossos, encontrado na ilha Grega de Creta, foi a casa dos Minoicos, uma civilização da Idade do Bronze. Influenciando a sociedade Grega durante o segundo milênio a.C., dizem que os Minoicos de Cnossos eram habilidosos artesãos que frequentemente negociavam com os Egípcios.</Text>
+			<Text>O assentamento de Cnossos, encontrado na ilha grega de Creta, foi a casa dos Minoicos, uma civilização da Idade do Bronze. Influenciando a sociedade grega durante o segundo milênio a.C., diz-se que os Minoicos de Cnossos eram habilidosos artesãos que frequentemente negociavam com os egípcios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS">
 			<Text>Biblos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_ADJ">
-			<Text>Biblense|Blibense|Blibenses|Blibenses</Text>
+			<Text>Biblense|Biblense|Biblenses|Biblenses</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_DESC">
-			<Text>Uma das mais antigas cidades do mundo, o assentamento Fenício de Biblos, localizado no atual Líbano, foi fundado em algum ponto do quinto milênio a.C. Originalmente conhecido como Gebal, o nome "Biblos" (do Grego "Bublos", pelo papiro) foi dado pelos Gregos em razão da cidade servir como principal importadora dos papiros Egípcios.</Text>
+			<Text>Uma das mais antigas cidades do mundo, o assentamento fenício de Biblos, localizado no atual Líbano, foi fundado em algum ponto do quinto milênio a.C. Originalmente conhecido como Gebal, o nome "Biblos" (do grego "Bublos", pelo papiro) foi dado pelos gregos em razão da cidade servir como principal importadora dos papiros egípcios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT">
 			<Text>Ugarit</Text>
@@ -48,7 +48,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_DESC">
-			<Text>A antiga cidade de Ugarit, localizada ao sudeste do Mar Mediterrâneo, é encontrada nos dias de hoje na moderna Síria. Fundada por volta do sexto milênio a.C., Ugarit se desenvolveu como uma cidade portuária de sucesso, negociando com os Egípcios e Gregos durante seu auge, no final do segundo milênio.</Text>
+			<Text>A antiga cidade de Ugarit, localizada ao sudeste do Mar Mediterrâneo, é encontrada nos dias de hoje na moderna Síria. Fundada por volta do sexto milênio a.C., Ugarit se desenvolveu como uma cidade portuária de sucesso, negociando com os egípcios e gregos durante seu auge, no final do segundo milênio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE">
 			<Text>Cirene</Text>
@@ -59,7 +59,7 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_DESC">
-			<Text>A antiga colônia Grega de Cirene, encontrada na atual Líbia, foi fundada em 630 a.C. pelos colonizadores Gregos da ilha de Santorini. Tornando-se o centro comercial na região, Cirene foi o eixo para várias rotas comerciais que conectavam as outras colônias Gregas da região.</Text>
+			<Text>A antiga colônia grega de Cirene, encontrada na atual Líbia, foi fundada em 630 a.C. pelos colonizadores gregos da ilha de Santorini. Tornando-se o centro comercial na região, Cirene foi o eixo para várias rotas comerciais que conectavam as outras colônias gregas da região.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI">
 			<Text>Stobi</Text>
@@ -70,7 +70,7 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_DESC">
-			<Text>A antiga cidade de Stobi foi, por certa vez, a capital Romana da província da "Macedonia Salutaris", a atual Macedônia. Um estratégico ponto central de comércio nos rios Crna e Axios, Stobi foi destruída por um terremoto, em 518 d.C.</Text>
+			<Text>A antiga cidade de Stobi foi, por certa vez, a capital romana da província da "Macedonia Salutaris", a atual Macedônia. Um estratégico ponto central de comércio nos rios Crna e Axios, Stobi foi destruída por um terremoto, em 518 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS">
 			<Text>Seutópolis</Text>
@@ -81,7 +81,7 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_DESC">
-			<Text>Fundada no quarto século a.C. pelo rei Trácio Seutes III, a cidade de Seutópolis serviu como a capital do reino Odrísio, antes que fosse saqueado pelos Celtas, em 281 a.C. As ruínas de Seutópolis são encontradas na atual Bulgária.</Text>
+			<Text>Fundada no quarto século a.C. pelo rei Trácio Seutes III, a cidade de Seutópolis serviu como a capital do reino odrísio, antes que fosse saqueada pelos celtas, em 281 a.C. As ruínas de Seutópolis são encontradas na atual Bulgária.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI">
 			<Text>Enkomi</Text>
@@ -92,7 +92,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_DESC">
-			<Text>A cidade de Enkomi serviu como um importante centro de comércio de cobre, durante o segundo milênio a.C. Situada na ilha de Chipre, Enkomi prosperou até o 1050 a.C., quando foi severamente danificada por um terremoto e, então, abandonada.</Text>
+			<Text>A cidade de Enkomi serviu como um importante centro de comércio de cobre, durante o segundo milênio a.C. Situada na ilha de Chipre, Enkomi prosperou até 1050 a.C., quando foi severamente danificada por um terremoto e, então, abandonada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM">
 			<Text>Elam</Text>
@@ -114,7 +114,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_DESC">
-			<Text>Englobando territórios na Armênia, Irã e Turquia, diz-se que a região sem litoral do Naquichevão foi colonizada há mais de 5000 anos. Por toda sua história a região seria envolvida em numerosas campanhas militares com os impérios Persas e os Macedônios. O Naquichevão ainda existe nos dias de hoje, como a região da República do Azerbaijão.</Text>
+			<Text>Englobando territórios na Armênia, Irã e Turquia, diz-se que a região sem litoral do Naquichevão foi colonizada há mais de 5000 anos. Por toda sua história, a região estaria envolvida em numerosas campanhas militares com os impérios persas e os macedônios. O Naquichevão ainda existe nos dias de hoje, como a região da República do Azerbaijão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI">
 			<Text>Washukanni</Text>
@@ -125,7 +125,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_DESC">
-			<Text>A cidade de Washukanni serviu como a capital do reino Hurrita do povo Mitanni durante o segundo milênio a.C. Embora sua exata localização seja desconhecida nos dias atuais, diz-se ter existido ao longo das barragens do Rio Khabur.</Text>
+			<Text>A cidade de Washukanni serviu como a capital do reino hurrita do povo Mitanni durante o segundo milênio a.C. Embora sua exata localização seja desconhecida nos dias atuais, diz-se ter existido ao longo das margens do Rio Khabur.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN">
 			<Text>Sharuhen</Text>
@@ -136,7 +136,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_DESC">
-			<Text>A antiga cidade de Sharuhen, encontrada no Deserto Negev ao sul de Israel, foi certa vez o refúgio para o povo Hicso, que foram expulsos do Egito, no século XVI a.C. O assentamento foi depois destruído pelo Faraó Egípcio Ahmose I.</Text>
+			<Text>A antiga cidade de Sharuhen, encontrada no Deserto Negev, ao sul de Israel, foi certa vez o refúgio para o povo Hicsos, que foram expulsos do Egito, no século XVI a.C. O assentamento foi, depois, destruído pelo faraó egípcio Ahmose I.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

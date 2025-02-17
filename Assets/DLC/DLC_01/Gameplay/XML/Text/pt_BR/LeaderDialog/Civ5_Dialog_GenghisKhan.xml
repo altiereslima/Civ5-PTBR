@@ -14,7 +14,7 @@
 			<Text>Sim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_1">
-			<Text>Você deve estar louco. Farei um favor ao mundo te destruindo.</Text>
+			<Text>Você deve estar louco. Farei um favor ao mundo destruindo você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_2">
 			<Text>Você pagará por sua insolência.</Text>
@@ -32,7 +32,7 @@
 			<Text>A hora chegou para sua destruição.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_1">
-			<Text>Você é mais forte que eu. Eu parabenizo-o.</Text>
+			<Text>Você é mais forte que eu. Eu o parabenizo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_2">
 			<Text>Eu falhei e devo pagar o preço. Aguardarei minha execução.</Text>
