@@ -7,30 +7,30 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1">
-            <Text>Eu sou Shaka! Governante do Reino Zulu! Por que você veio?</Text>
+            <Text>Eu sou Shaka! Governante do Reino Zulu! Por que esta visita?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2">
-            <Text>Estou diante de você como um guerreiro... você pode dizer o mesmo?</Text>
+            <Text>Apresento-me como guerreiro... poderia dizer o mesmo de sua pessoa?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3">
-            <Text>O poderoso Reino Zulu se aproxima... escolha as suas palavras com cuidado!</Text>
+            <Text>O poderoso Reino Zulu se aproxima... escolha suas palavras com cuidado!</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1">
-            <Text>Você está jogando perigosamente.</Text>
+            <Text>Está se arriscando perigosamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2">
-            <Text>Eu admiro a sua coragem.</Text>
+            <Text>Admiro sua coragem.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3">
-            <Text>Você pode viver para se arrepender disso.</Text>
+            <Text>Pode vir a se arrepender disso.</Text>
         </Row>
         <!--Gloats after winning a war -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1">
-            <Text>O fato de você ainda estar vivo é uma prova do meu controle.</Text>
+            <Text>O fato de ainda respirar é uma prova do meu controle.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2">
-            <Text>O fato de você ainda estar vivo é uma prova do meu controle.</Text>
+            <Text>O fato de ainda respirar é uma prova do meu controle.</Text>
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1">
@@ -44,18 +44,18 @@
             <Text>Meus guerreiros falharam e eu também falhei com eles.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2">
-            <Text>Você me superou, mas o meu povo vai sempre se lembrar do meu desejo.</Text>
+            <Text>Superou-me, mas meu povo sempre se lembrará do meu desejo.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3">
-            <Text>Hoje você é o vencedor, mas talvez um dia você não terá tanta sorte.</Text>
+            <Text>Hoje a vitória é sua, mas talvez um dia a sorte não esteja ao seu lado.</Text>
         </Row>
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_1">
-            <Text>Bem-vindo.</Text>
+            <Text>Boas-vindas.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_2">
-            <Text>Salve!</Text>
+            <Text>Saudações!</Text>
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1">
@@ -70,32 +70,32 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_1">
-            <Text>Você subestimou as nossas necessidades... você vai ter que fazer melhor.</Text>
+            <Text>Subestimou as nossas necessidades... terá que fazer melhor.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_2">
-            <Text>Você não pode fazer um pouco melhor?</Text>
+            <Text>Não pode apresentar algo um pouco melhor?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_3">
             <Text>Quase...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_4">
-            <Text>Isso não é bom o bastante.</Text>
+            <Text>Isso não é o bastante.</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL">
-            <Text>Sua oferta é tão fraca quanto você.</Text>
+            <Text>Sua oferta é tão fraca quanto sua liderança.</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL">
-            <Text>Vamos concordar, mas você pode vir a se arrepender da sua ganância.</Text>
+            <Text>Vamos concordar, mas pode vir a se arrepender de sua ganância.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL">
-            <Text>Eu não tenho tempo para as suas exigências tolas.</Text>
+            <Text>Eu não tenho tempo para suas exigências tolas.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL">
-            <Text>Você consideraria um acordo?</Text>
+            <Text>Consideraria um acordo?</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL">
@@ -120,7 +120,7 @@
             <Text>Vamos ouvir.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2">
-            <Text>Vá em frente.</Text>
+            <Text>Prossiga.</Text>
         </Row>
         <!--Happy -->
         <!--Greetings (subsequent meetings) -->
@@ -139,25 +139,25 @@
         </Row>
         <!--Trade offer from player - yes -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY">
-            <Text>Seria uma honra negociar com você.</Text>
+            <Text>Seria uma honra negociar com sua liderança.</Text>
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_1">
             <Text>Meu povo se rebelaria se eu aceitasse essa oferta...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_2">
-            <Text>Isso é o melhor que você pode fazer?</Text>
+            <Text>Isso é tudo que pode oferecer?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_3">
-            <Text>Você está quase lá...</Text>
+            <Text>Está quase lá...</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY">
-            <Text>Ainda que seja para um amigo, eu não posso aceitar.</Text>
+            <Text>Mesmo para um aliado, eu não posso aceitar.</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY">
-            <Text>Meu reino recebe com prazer a oportunidade de ajudar um amigo.</Text>
+            <Text>Meu reino recebe com prazer a oportunidade de ajudar um reino aliado.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY">
@@ -165,11 +165,11 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY">
-            <Text>Você ajudará o meu reino, meu amigo?</Text>
+            <Text>Ajudaria meu reino, como um gesto de camaradagem?</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY">
-            <Text>Você tem algo que eu preciso — talvez você possa ajudar, amigo?</Text>
+            <Text>Tem algo que preciso — talvez possa ajudar, camarada?</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3">
@@ -198,10 +198,10 @@
         <!--Angry -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_5">
-            <Text>O que você quer?</Text>
+            <Text>O que deseja?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_6">
-            <Text>O que você quer?</Text>
+            <Text>O que deseja?</Text>
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5">
@@ -212,17 +212,17 @@
         </Row>
         <!--Trade offer from player - yes -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY">
-            <Text>Se você insiste.</Text>
+            <Text>Se insiste.</Text>
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_1">
             <Text>Sua oferta me insulta.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_2">
-            <Text>Isso não será o bastante.</Text>
+            <Text>Isso não será suficiente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_3">
-            <Text>Você deve fazer melhor que isso.</Text>
+            <Text>Deve apresentar algo melhor.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_4">
             <Text>Que proposta ofensiva.</Text>
@@ -233,19 +233,19 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY">
-            <Text>Se devemos, então que assim seja. Você vai pagar por isso.</Text>
+            <Text>Se é necessário, então que assim seja. Irá pagar por isso.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY">
-            <Text>Você arrisca a sua vida me pedindo uma coisa dessas!</Text>
+            <Text>Arrisca sua vida ao me pedir tal coisa!</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY">
-            <Text>Eu não tenho escolha, senão oferecer-lhe um acordo.</Text>
+            <Text>Não tenho escolha, a não ser lhe oferecer um acordo.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY">
-            <Text>Dê-nos o que queremos ou você será o próximo da fila a cair.</Text>
+            <Text>Dê-nos o que queremos ou a próxima vítima será sua liderança.</Text>
         </Row>
         <!--Disagrees -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5">
@@ -255,14 +255,14 @@
             <Text>Isso é inaceitável.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7">
-            <Text>Você não pode estar falando sério!</Text>
+            <Text>Não pode estar falando a verdade!</Text>
         </Row>
         <!--Let's hear it -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5">
-            <Text>O que você estava dizendo?</Text>
+            <Text>O que estava dizendo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1">
-            <Text>Ninguém irá diminuir o nosso progresso, nem mesmo você! Prepare-se para a guerra!</Text>
+            <Text>Ninguém irá diminuir o nosso progresso, nem mesmo sua liderança! Prepare-se para a guerra!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2">
             <Text>Este mundo não é grande o bastante para nós dois e eu não vou a lugar nenhum!</Text>
@@ -271,13 +271,13 @@
             <Text>Nossas lanças estão secas e eu vou matar a sede delas com seu sangue!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1">
-            <Text>Sua arrogância só levará você para a derrota!</Text>
+            <Text>Sua arrogância só levará à derrota!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2">
             <Text>Sua traição não ficará impune!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3">
-            <Text>Uma escolha tola! Agora você deve sofrer as consequências.</Text>
+            <Text>Uma escolha tola! Agora deve sofrer as consequências.</Text>
         </Row>
     </Language_pt_BR>
 </GameData>

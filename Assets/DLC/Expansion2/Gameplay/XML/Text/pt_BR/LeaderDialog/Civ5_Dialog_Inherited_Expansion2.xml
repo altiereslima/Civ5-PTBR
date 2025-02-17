@@ -6,7 +6,7 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1">
-		 <Text>Mil saudações a nossa justa nação. Sou Haile Selassie, o Ras Tafari Makonnen e Imperador da Etiópia, seu humilde servo.</Text>
+		 <Text>Mil saudações à nossa justa nação. Sou Haile Selassie, o Ras Tafari Makonnen e Imperador da Etiópia, seu humilde servo.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2">
 		 <Text>A Etiópia acolhe aqueles que vêm em paz e amizade. Estou ansioso para um relacionamento longo e abundante.</Text>
@@ -29,14 +29,14 @@
 		  <Text>A guerra não é a única forma de parar a guerra em si - Eu espero que você possa ver isso agora. Por favor, volte para suas terras e pense sobre o que eu disse.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2">
-		 <Text>Hoje é o dia em que nós derrotamos o inimigo. No entanto, devemos nos alegra somente em nossos corações e em espírito dos céus.</Text>
+		 <Text>Hoje é o dia em que nós derrotamos o inimigo. No entanto, devemos nos alegrar somente em nossos corações e no espírito dos céus.</Text>
 	   </Row>
 	   <!-- Submissa depois de perder uma guerra -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1">
 		 <Text>Pessoas mal orientadas por vezes criam ideias erradas e, por sua vez, ações equivocadas. Não é tarde demais para você encontrar o caminho da verdade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2">
-		 <Text>Saiba que você está sendo vigiado por sua nação: se você continuar a fazer o mal, ela vai perder a esperança e confiança em você.</Text>
+		 <Text>Saiba que você está sendo vigiado por sua nação: se você continuar a fazer o mal, ela vai perder a esperança e a confiança em você.</Text>
 	   </Row>
 	   <!-- Derrotado e removido do jogo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1">
@@ -90,15 +90,15 @@
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL">
-		 <Text>Sinto muito, mas nós estamos presos em nossos próprios assuntos no momento. Você vai estar de nossos pensamentos, no entanto.</Text>
+		 <Text>Sinto muito, mas estamos ocupados com nossos próprios assuntos no momento. Você estará em nossos pensamentos, no entanto.</Text>
 	   </Row>
 	   <!-- Solicita um comércio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL">
-		 <Text>Eu peço que você considere esta oferta entre os nossos povos. Eu acredito que ela vai nos fazer bem.</Text>
+		 <Text>Peço que você considere esta oferta entre nossos povos. Acredito que ela nos fará bem.</Text>
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL">
-		 <Text>Venho buscando humildemente a sua generosidade em nosso tempo de necessidade. O mal está em nós e nós não estão equipados para lidar com isso por nós mesmos.</Text>
+		 <Text>Venho buscar humildemente a sua generosidade em nosso tempo de necessidade. O mal está sobre nós e não estamos equipados para lidar com isso sozinhos.</Text>
 	   </Row> 
 	   <!-- Concorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1">
@@ -142,7 +142,7 @@
 	   </Row>
 	   <!-- Oferta Comércio do jogador - adoçar o negócio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_1">
-		 <Text>Meu amigo, eu tenho certeza que você tem boas intenções, mas isso não serve. Podemos ser pessoas simples, mas não tire proveito disso.</Text>
+		 <Text>Meu amigo, tenho certeza de que você tem boas intenções, mas isso não serve. Podemos ser pessoas simples, mas não tire proveito disso.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_2">
 		 <Text>Isso é o melhor que você pode fazer?</Text>
@@ -160,15 +160,15 @@
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY">
-		 <Text>Mil desculpas, mas não podemos esperar fazer parte disso esta neste momento. Existe alguma outra coisa em que podemos ajudá-lo?</Text>
+		 <Text>Mil desculpas, mas não podemos fazer parte disso neste momento. Existe alguma outra coisa em que podemos ajudá-lo?</Text>
 	   </Row>
 	   <!-- Solicita um comércio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY">
-		 <Text>Vamos jantar juntos e discutir assuntos mundiais. Nós não somos pessoas materiais no coração, mas nós temos algumas coisas que podem interessá-lo.</Text>
+		 <Text>Vamos jantar juntos e discutir assuntos mundiais. Não somos pessoas materiais, mas temos algumas coisas que podem interessá-lo.</Text>
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY">
-		 <Text>Amigo, a Etiópia pede a você em sua hora de necessidade. Por favor, não nos deixe abatidos nas rochas da providência.</Text>
+		 <Text>Amigo, a Etiópia lhe pede ajuda em sua hora de necessidade. Por favor, não nos deixe abatidos nas rochas da providência.</Text>
 	   </Row>
 	   <!-- Concorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3">
@@ -209,7 +209,7 @@
 	   </Row>
 	   <!-- Oferta Comércio do jogador - adoçar o negócio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_1">
-		 <Text>Que crueldade e má vontade que você deseja transmitir ao meu povo? Raramente vi tal maldade.</Text>
+		 <Text>Que crueldade e má vontade você deseja transmitir ao meu povo? Raramente vi tal maldade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_2">
 		 <Text>Isso não é bom o suficiente.</Text>
@@ -222,7 +222,7 @@
 	   </Row>
 	   <!-- Oferta Comércio do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY">
-		 <Text>Este absurdo é uma afronta ao Senhor e seus povos. Vá embora e me deixe em paz.</Text>
+		 <Text>Este absurdo é uma afronta ao Senhor e aos seus povos. Vá embora e me deixe em paz.</Text>
 	   </Row> 
 	   <!-- A demanda por homenagem do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY">
@@ -238,11 +238,11 @@
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY">
-		 <Text>Os pobres, os doentes, os idosos que necessitam de ajuda. Será mesmo que você vai virar as costas para eles?</Text>
+		 <Text>Os pobres, os doentes, os idosos, que necessitam de ajuda. Será mesmo que você vai virar as costas para eles?</Text>
 	   </Row>
 	   <!-- Concorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4">
-		 <Text>Acho que eu devo.</Text>
+		 <Text>Acho que devo.</Text>
 	   </Row>
 	   <!-- Discorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5">
@@ -262,13 +262,13 @@
 		 <Text>Nós não optamos por devolver o mal com o mal, nem entrar nas atrocidades que você tende a favorecer. No entanto, eu não vou sentar de braços cruzados e deixar você fazer o que quiser.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2">
-		 <Text>Nós não tomamos esta decisão de ânimo leve, mas vamos lutar quando necessário. Vamos vencer, porque estamos confiantes na vitória do bem sobre o mal.</Text>
+		 <Text>Não tomamos esta decisão de ânimo leve, mas vamos lutar quando necessário. Vamos vencer, porque estamos confiantes na vitória do bem sobre o mal.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3">
 		 <Text>Eu tentei todas as outras vias, mas ainda assim você persiste nesta loucura. Espero que, por sua causa, seu fim seja rápido.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1">
-		 <Text>Como São Jorge matou o dragão, vamos levantar e ficar contra este dragão ímpio e cruel que surgiu para oprimir a humanidade.</Text>
+		 <Text>Como São Jorge matou o dragão, vamos nos levantar e ficar contra este dragão ímpio e cruel que surgiu para oprimir a humanidade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2">
 		 <Text>É o silêncio que permite que o mal triunfe. Não vamos ficar mudos e permitir que você continue nessa busca louca impunemente.</Text>
@@ -280,7 +280,7 @@
 		 <Text>Ao longo da história, tem sido a inatividade daqueles que poderiam ter agido, a indiferença daqueles que deveriam saber melhor, o silêncio da voz da justiça quando ela mais importava que tornou possível que o mal triunfasse.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_QUOTE_2">
-		 <Text>É muito mais fácil de mostrar compaixão para com animais. Eles nunca são ímpios.</Text>
+		 <Text>É muito mais fácil demonstrar compaixão pelos animais. Eles nunca são ímpios.</Text>
 	   </Row>
   </Language_pt_BR>
 </GameData>

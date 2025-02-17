@@ -77,7 +77,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AXMAN">
-			<Text>Machado de Mão|Machados de Mão</Text>
+			<Text>Homem com Machado|Homens com Machado</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -144,7 +144,7 @@
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_LUCIAN_SAMOSATA">
-			<Text>Luciano de Somósata</Text>
+			<Text>Luciano de Samósata</Text>
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_VYASA">
@@ -204,11 +204,11 @@
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_JOSE_HERNANDEZ">
-			<Text>José Hernandez</Text>
+			<Text>José Hernández</Text>
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_RUBEN_DARIO">
-			<Text>Ruben Dario</Text>
+			<Text>Rubén Darío</Text>
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_BERTRAND_DE_BAR_SUR_AUBE">
@@ -216,7 +216,7 @@
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCOIS_RABELAIS">
-			<Text>Francois Rabelais</Text>
+			<Text>François Rabelais</Text>
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_VOLTAIRE">

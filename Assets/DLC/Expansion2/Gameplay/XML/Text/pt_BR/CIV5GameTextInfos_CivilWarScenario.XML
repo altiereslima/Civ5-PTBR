@@ -7,7 +7,7 @@
 			<Text>Guerra Civil Americana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_DESC">
-			<Text>De 1861 a 1865, a América sofre através de uma sangrenta guerra civil com o peso da ação centrada entre as capitais de Washington e Richmond. Você pode levar uma dessas nações à vitória?</Text>
+			<Text>De 1861 a 1865, a América sofreu uma sangrenta guerra civil, com o peso da ação centrada entre as capitais de Washington e Richmond. Você pode levar uma dessas nações à vitória?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TURNS_REMAINING">
 			<Text>Turnos restantes: {1_TurnsRemaining}</Text>
@@ -49,7 +49,7 @@
 			<Text>Forte Sumter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_3">
-			<Text>Logo após a vitória de Lincoln, os primeiros sete estados a secessão, liderados pela Carolina do Sul, e logo seguidos por Alabama, Flórida, Geórgia, Louisiana, Mississippi e Texas, declararam sua soberania e formaram os Estados Confederados da América em 1861. Ao nomear Jefferson Davis como seu presidente eleito, os estados do sul cumpriram sua ameaça de secessão, e não demorou muito para que um dos conflitos mais devastadores da América, a Guerra Civil, começasse com um ataque confederado ao Forte Sumter em abril de 1861.
+			<Text>Logo após a vitória de Lincoln, os primeiros sete estados a se separar, liderados pela Carolina do Sul, e logo seguidos por Alabama, Flórida, Geórgia, Louisiana, Mississippi e Texas, declararam sua soberania e formaram os Estados Confederados da América em 1861. Ao nomear Jefferson Davis como seu presidente eleito, os estados do sul cumpriram sua ameaça de secessão, e não demorou muito para que um dos conflitos mais devastadores da América, a Guerra Civil, começasse com um ataque confederado ao Forte Sumter em abril de 1861.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_4">
@@ -70,8 +70,7 @@
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_6">
-			<Text>Após quase cinco anos de guerra, durante os quais mais de 500.000 americanos lutaram e morreram, a Guerra Civil terminou com a rendição do General Robert E. Lee em abril de 1865. Apenas cinco dias depois, enquanto assistia a uma peça de teatro no Teatro Ford em Washington D.C., Lincoln foi assassinado pelo simpatizante confederado John Wilkes Booth. Embora Lincoln não tenha sobrevivido para ver o resultado final de seus esforços para restabelecer a nação e abolir a escravidão, o legado de suas ações há muito tempo estabeleceu sua posição entre os maiores presidentes da América.
-			</Text>
+			<Text>Após quase cinco anos de guerra, durante os quais mais de 500.000 americanos lutaram e morreram, a Guerra Civil terminou com a rendição do General Robert E. Lee em abril de 1865. Apenas cinco dias depois, enquanto assistia a uma peça no Teatro Ford em Washington D.C., Lincoln foi assassinado pelo simpatizante confederado John Wilkes Booth. Embora Lincoln não tenha sobrevivido para ver o resultado final de seus esforços para restabelecer a nação e abolir a escravidão, o legado de suas ações há muito tempo estabeleceu sua posição entre os maiores presidentes da América.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_HEADING_1">
 			<Text>História</Text>
@@ -92,14 +91,14 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_1">
-			<Text>Jefferson Davis, nascido em 1808, foi um político e oficial militar americano eleito para liderar os Estados Confederados da América após a secessão dos estados do sul em 1861. Depois de frequentar a Academia Militar dos Estados Unidos em West Point e servir em Fort Crawford, Davis mudou-se para o Mississippi, onde operava uma plantação. Após servir brevemente na Guerra México-Americana, Jefferson Davis retornou ao Mississippi e foi nomeado pelo governador para servir no Senado dos Estados Unidos em 1848. Como proprietário de escravos e veterano militar, Davis era visto como a personificação dos valores do sul, um sentimento que o ajudaria em sua crescente carreira política.
+			<Text>Jefferson Davis, nascido em 1808, foi um político e oficial militar americano eleito para liderar os Estados Confederados da América após a secessão dos estados do sul em 1861. Depois de frequentar a Academia Militar dos Estados Unidos em West Point e servir em Fort Crawford, Davis mudou-se para o Mississippi, onde operava uma plantação. Após servir brevemente na Guerra Mexicano-Americana, Jefferson Davis retornou ao Mississippi e foi nomeado pelo governador para servir no Senado dos Estados Unidos em 1848. Como proprietário de escravos e veterano militar, Davis era visto como a personificação dos valores do sul, um sentimento que o ajudaria em sua crescente carreira política.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_2">
 			<Text>Secessão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_2">
-			<Text>Em 1853, Davis foi nomeado Secretário de Guerra sob o recém-eleito presidente Franklin Peirce. Após cumprir seu mandato, ele retornou ao Senado em 1857, onde instou à moderação contra os movimentos secessionistas que se desenvolviam nos estados do sul. No entanto, após a vitória de Lincoln na eleição presidencial de 1860, o Mississippi se juntou a outros seis estados na secessão da união, e Davis renunciou ao seu assento no senado para retornar para casa. Embora Davis tivesse previsto apenas servir no recém-formado Estados Confederados da América em um papel de liderança militar, ele foi selecionado por aclamação para servir como Presidente Provisório da Confederação em 1861.
+			<Text>Em 1853, Davis foi nomeado Secretário de Guerra sob o recém-eleito presidente Franklin Pierce. Após cumprir seu mandato, ele retornou ao Senado em 1857, onde instou à moderação contra os movimentos secessionistas que se desenvolviam nos estados do sul. No entanto, após a vitória de Lincoln na eleição presidencial de 1860, o Mississippi se juntou a outros seis estados na secessão da União, e Davis renunciou ao seu assento no senado para retornar para casa. Embora Davis tivesse previsto apenas servir no recém-formado Estados Confederados da América em um papel de liderança militar, ele foi selecionado por aclamação para servir como Presidente Provisório da Confederação em 1861.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_3">
@@ -141,14 +140,14 @@
 			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_8">
-			<Text>Jefferson Davis faleceu em 1889, aos 81 anos, depois de sofrer de uma doença desconhecida que o manteve acamado por vários meses. Após sua morte, numerosos memoriais foram construídos em sua homenagem, e seu legado ainda é altamente respeitado entre historiadores e descendentes daqueles que lutaram e morreram pela Confederação.
+			<Text>Jefferson Davis faleceu em 1889, aos 81 anos, após sofrer de uma doença desconhecida que o manteve acamado por vários meses. Após sua morte, numerosos memoriais foram construídos em sua homenagem, e seu legado ainda é muito respeitado entre historiadores e descendentes daqueles que lutaram e morreram pela Confederação.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_TEXT_1">
-			<Text>Os Estados Confederados da América, também conhecidos como Confederação, foram o nome escolhido pelos estados do sul que optaram por se separar dos Estados Unidos após a eleição de Abraham Lincoln para a presidência em 1860. Vendo as perspectivas de Lincoln sobre a escravidão como levando a uma violação dos direitos individuais de cada estado, incluindo o direito de quebrar a constituição e se separar, os estados do sul fizeram exatamente isso. [NEWLINE] [NEWLINE] O Presidente Confederado, Jefferson Davis, procurou supervisionar diretamente não apenas as questões logísticas do esforço de guerra, mas também as estratégias militares e nomeações dos exércitos do sul (assim como seu homólogo no Norte). A Confederação enfrentou uma guerra contra um oponente armado com equipamentos superiores, maior mão de obra e mais matéria-prima dedicada ao conflito. Essas preocupações pouco fizeram para diminuir o entusiasmo das forças do sul pela luta que se avizinhava, pois viam isso como uma batalha por seu modo de vida e pelos direitos individuais de cada estado em oposição ao governo federal.</Text>
+			<Text>Os Estados Confederados da América, também conhecidos como Confederação, foram o nome escolhido pelos estados do sul que optaram por se separar dos Estados Unidos após a eleição de Abraham Lincoln para a presidência em 1860. Vendo as perspectivas de Lincoln sobre a escravidão como levando a uma violação dos direitos individuais de cada estado, incluindo o direito de quebrar a constituição e se separar, os estados do sul fizeram exatamente isso. [NEWLINE] [NEWLINE] O Presidente Confederado, Jefferson Davis, procurou supervisionar diretamente não apenas as questões logísticas do esforço de guerra, mas também as estratégias militares e nomeações dos exércitos do sul (assim como seu homólogo no Norte). A Confederação enfrentou uma guerra contra um oponente armado com equipamentos superiores, maior mão de obra e mais matérias-primas dedicadas ao conflito. Essas preocupações pouco fizeram para diminuir o entusiasmo das forças do sul pela luta que se avizinhava, pois viam isso como uma batalha por seu modo de vida e pelos direitos individuais de cada estado em oposição ao governo federal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_TEXT">
 			<Text>Os Quebra-bloqueios confederados eram navios mercantes leves e rápidos comissionados para escapar ou superar os navios de guerra da União que tentavam fazer cumprir o Plano Anaconda, uma estratégia para privar o Sul de seu comércio de algodão com as nações europeias. Levar algodão para fora e suprimentos médicos e militares para dentro era um negócio lucrativo, se perigoso, para os capitães do Sul; até o final da guerra, a União havia capturado 1100 Quebra-bloqueios e destruído outros 355.</Text>
@@ -164,7 +163,7 @@
 			<Text>Uma divisão de infantaria geralmente era composta de duas a quatro brigadas, cada brigada entre 1200 e 2500 soldados. Comandada por um general, a divisão era a unidade básica de manobra durante a batalha; teoricamente, esses generais tinham a tarefa de guardar o poder de ataque de sua divisão até serem capazes de desferir um golpe forte em vez de uma série de golpes menores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_RIFLED_CANNON_TEXT">
-			<Text>O estriamento adiciona sulcos ao interior do cano do canhão para melhorar o alcance e a precisão da peça, com o custo de maior despesa na fabricação e a necessidade de um cano mais longo. Embora várias marcas de artilharia estriada tenham sido fornecidas aos exércitos da Guerra Civil, a mais famosa é o Canhão Parrott, usado por ambos os lados em diferentes tamanhos, desde os comuns de 10 libras para uso em campo até os de 300 libras em fortificações.</Text>
+			<Text>O processo de raiar (estriamento) adiciona ranhuras no interior do cano de um canhão para melhorar o alcance e a precisão da peça, ao custo de um aumento nas despesas de fabricação e da necessidade de um cano mais longo. Embora vários tipos de artilharia raiada tenham sido fornecidos aos exércitos da Guerra Civil, o mais famoso é o Canhão Parrott, usado por ambos os lados em diferentes tamanhos, desde os comuns de 10 libras para uso em campo até os de 300 libras, instalados em fortificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MILITARY_ENGINEER_TEXT">
 			<Text>Engenharia militar é definida de forma ampla como a arte de projetar e construir fortificações militares e manter as linhas de transporte e comunicação militares. Na Guerra Civil, com os avanços recentes na tecnologia, os engenheiros militares não eram apenas responsáveis pelas fortificações de campo e permanentes, pontes e bases, mas também pela construção e reparo das linhas de trem e telégrafo que mudaram tão dramaticamente a natureza da guerra.</Text>
@@ -200,7 +199,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Por que eles chamam de guerras civis quando sempre são extraordinariamente incivilizadas?"[NEWLINE][TAB][TAB] - Elizabeth Fitch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_DESC">
-			<Text>No início da Guerra Civil, havia várias academias militares dedicadas a educar jovens em ciência militar, sendo a mais notável a Academia Militar dos Estados Unidos em West Point. O Sul, por outro lado, ostentava mais e, possivelmente, melhores academias particulares que atendiam às tradições do Sul: as de Citadel, Virgínia e Porter na Carolina do Sul, St. Charles College no Mississippi e outras.</Text>
+			<Text>No início da Guerra Civil Americana, havia várias academias militares dedicadas a educar jovens em ciência militar, sendo a mais notável a Academia Militar dos Estados Unidos em West Point. O Sul, por outro lado, ostentava mais e, possivelmente, melhores academias particulares que atendiam às tradições sulistas: as de Citadel, Virgínia e Porter na Carolina do Sul, St. Charles College no Mississippi e outras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
 			<Text>Permite construir o [COLOR_POSITIVE_TEXT][TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]][ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
@@ -209,7 +208,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Deixe de pensar no que Bobby Lee vai fazer conosco e comece a pensar no que vamos fazer com ele."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_DESC">
-			<Text>Embora os engenheiros da União fossem abençoados com materiais e mão de obra abundantes, e os engenheiros do Sul com imaginação e necessidade, ambos foram desafiados pela tecnologia em constante evolução da guerra em massa: telegrafia, ferrovias, arame farpado, pontes de balseira, balões e outros.</Text>
+			<Text>Embora os engenheiros da União fossem abençoados com materiais e mão de obra abundantes, e os engenheiros do Sul com imaginação e necessidade, ambos foram desafiados pela tecnologia em constante evolução da guerra em massa: telegrafia, ferrovias, arame farpado, pontes de barcaça, balões e outros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_HELP">
 			<Text>Permite treinar a [COLOR_POSITIVE_TEXT]Cavalaria com Carabina[ENDCOLOR], uma evolução da Divisão de Cavalaria com o dobro da [ICON_STRENGTH]Força de Combate.</Text>
@@ -218,7 +217,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Nossos melhores oficiais estimam que um homem armado com uma Carabina Spencer é equivalente a três com qualquer outra arma."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
-			<Text>A Guerra Civil é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilha o mecanismo de disparo.</Text>
+			<Text>A Guerra Civil Americana é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilhava o mecanismo de disparo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
 			<Text>Permite construir [COLOR_POSITIVE_TEXT]Navios Blindados[ENDCOLOR], uma poderosa unidade naval que dominará as embarcações navais de madeira.</Text>
@@ -227,7 +226,7 @@
 			<Text>[NEWLINE][TAB][TAB]"As torres e outras partes do navio foram atingidas com força, mas os tiros não penetraram; a torre estava intacta e continuou a girar. Um olhar de confiança passou pelos rostos dos homens, e acreditamos que o Merrimac não repetiria o que havia realizado no dia anterior."[NEWLINE][TAB][TAB] - Samuel Dana Greene[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_DESC">
-			<Text>Na tentativa de quebrar o bloqueio da União, a Confederação foi a primeira na Guerra Civil a construir um navio blindado; em outubro de 1861, o CSS Manassas se tornou o primeiro navio blindado a entrar em combate, enfrentando navios de guerra da União na Batalha da Head of Passes - uma batalha que foi obscurecida pelo primeiro confronto entre navios blindados entre o CSS Merrimack e o USS Monitor no mês seguinte.</Text>
+			<Text>Na tentativa de quebrar o bloqueio da União, a Confederação foi a primeira na Guerra Civil Americana a construir um navio blindado; em outubro de 1861, o CSS Manassas se tornou o primeiro navio blindado a entrar em combate, enfrentando navios de guerra da União na Batalha da Head of Passes - uma batalha que foi obscurecida pelo primeiro confronto entre navios blindados entre o CSS Merrimack e o USS Monitor no mês seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_HELP">
 			<Text>Permite que unidades de cavalaria saqueiem os territórios inimigos. Antes de pesquisar esta tecnologia, nenhuma unidade pode saquear território inimigo.</Text>
@@ -245,7 +244,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Este conflito é uma coisa que tenho esperado. Estou bem, forte e jovem - jovem o suficiente para ir para a frente. Se não posso ser um soldado, vou ajudar os soldados."[NEWLINE][TAB][TAB] - Clara Barton[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_DESC">
-			<Text>Antes da Guerra Civil, os exércitos tendiam a ser pequenos, principalmente devido a questões logísticas e de mobilização. Mas os exércitos maiores e em movimento mais rápido, juntamente com a crescente letalidade das armas, trouxeram a demanda tanto dos civis quanto dos oficiais por um melhor método de tratamento dos feridos. No lado da União, após a Batalha de Bull Run, o General McClellan nomeou o cirurgião Charles Tipler como o primeiro diretor médico do Exército de Potomac; em 1862, William Hammond foi nomeado Cirurgião Geral dos Estados Unidos e lançou uma série de reformas nos procedimentos de evacuação, tratamento e recuperação dos feridos, incluindo hospitais de campanha integrados operando nas linhas de frente.</Text>
+			<Text>Antes da Guerra Civil Americana, os exércitos tendiam a ser pequenos, principalmente devido a questões logísticas e de mobilização. Mas os exércitos maiores e em movimento mais rápido, juntamente com a crescente letalidade das armas, trouxeram a demanda tanto dos civis quanto dos oficiais por um melhor método de tratamento dos feridos. No lado da União, após a Batalha de Bull Run, o General McClellan nomeou o cirurgião Charles Tipler como o primeiro diretor médico do Exército de Potomac; em 1862, William Hammond foi nomeado Cirurgião Geral dos Estados Unidos e lançou uma série de reformas nos procedimentos de evacuação, tratamento e recuperação dos feridos, incluindo hospitais de campanha integrados operando nas linhas de frente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_HELP">
 			<Text>Fornece visibilidade adicional para todos os Generais.</Text>
@@ -269,7 +268,7 @@
 			<Text>Permite construir [COLOR_POSITIVE_TEXT]Metralhadoras Gatling[ENDCOLOR], uma poderosa unidade com 1 de Alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Este ano trouxe muitas mudanças que no início teriam sido consideradas impossíveis."[NEWLINE][TAB][TAB] - Christian Fleetwood[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Este ano trouxe muitas mudanças que, no início, teriam sido consideradas impossíveis."[NEWLINE][TAB][TAB] - Christian Fleetwood[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_DESC">
 			<Text>Já industrializada, a União passou a guerra refinando e aperfeiçoando métodos de produção em massa e transporte de armas, roupas e suprimentos militares de todos os tipos em grandes quantidades. Por outro lado, os estados do Sul eram em grande parte agrários no início da guerra, importando a maioria dos produtos manufaturados do Norte ou da Europa.</Text>
@@ -393,7 +392,7 @@
 			<Text>EVENTO PRÓ-UNIÃO: Chamado para Voluntários[NEWLINE][NEWLINE]O apelo urgente de Abraham Lincoln por voluntários da União foi atendido. {1_Num} divisões de infantaria da União acabam de chegar via ferrovia do Nordeste.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_WESTERN_CRISIS">
-			<Text>EVENTO PRÓ-UNIÃO: Crise no Oeste[NEWLINE][NEWLINE]A vitória da União em Vicksburg deixou as forças Confederadas no Oeste em desordem. Reforços precisarão ser enviados para o Mississippi. A Mão de Obra Confederado diminui em {1_Num}.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Crise no Oeste[NEWLINE][NEWLINE]A vitória da União em Vicksburg deixou as forças Confederadas no Oeste em desordem. Reforços precisarão ser enviados para o Mississippi. A Mão de Obra Confederada diminui em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CSA_INFLATION">
 			<Text>EVENTO PRÓ-UNIÃO: Inflação Confederada[NEWLINE][NEWLINE]A moeda Confederada foi desvalorizada! O [ICON_GOLD]Ouro no tesouro Confederado diminuiu em {1_Num}%.</Text>

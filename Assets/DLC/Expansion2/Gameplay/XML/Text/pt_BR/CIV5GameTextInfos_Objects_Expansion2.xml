@@ -234,7 +234,7 @@
       <Text>Eneida</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_METAMORPHOSES">
-      <Text>Metamorfose</Text>
+      <Text>Metamorfoses</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_TRUE_STORY">
       <Text>Uma História Verdadeira</Text>
@@ -246,7 +246,7 @@
       <Text>Masnavi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_RAMAYAMA">
-      <Text>Ramayama</Text>
+      <Text>Ramayana</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_MAHABHARATA">
       <Text>Mahabharata</Text>
@@ -255,7 +255,7 @@
       <Text>Urubhanga (A Coxa Quebrada)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_ABHIJNANASAKUTALAM">
-      <Text>Abhijnanasakuntalam (de Shantukala)</Text>
+      <Text>Abhijnanasakuntalam (de Shakuntala)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CHU_CI">
       <Text>Chu Ci (Canções do Sul)</Text>
@@ -270,22 +270,22 @@
       <Text>Hong Lou Meng (Sonho da Câmara Vermelha)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_KOKIN_WAKASHU">
-      <Text>Kokin wakashu</Text>
+      <Text>Kokin Wakashu</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GENJI_MONOGATARI">
-      <Text>Genji monogatari (O Conto de Genji)</Text>
+      <Text>Genji Monogatari (O Conto de Genji)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_TSUREZUREGUSA">
-      <Text>Tsurezuregusa (Ensaio no Ócio)</Text>
+      <Text>Tsurezuregusa (Ensaios na Ociosidade)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SHINJUTEN_NO_AMIJIMA">
-      <Text>Shinjuten no Amijima (O Amor Suicida de Amijima)</Text>
+      <Text>Shinjuten no Amijima (Os Amores Suicidas de Amijima)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_UGETSU_MONOGATARI">
-      <Text>Ugetsu monogatari (Contos do Luar e da Chuva)</Text>
+      <Text>Ugetsu Monogatari (Contos de Chuva e Lua)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_WAGAHAI_WA_NEKO">
-      <Text>Wagahai wa neko de aru (Eu sou um Gato)</Text>
+      <Text>Wagahai wa Neko de Aru (Eu Sou um Gato)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EL_INGENIOSO">
       <Text>Dom Quixote</Text>
@@ -294,7 +294,7 @@
       <Text>Maria</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_MARTIN_FIERRO">
-      <Text>Martin Fierro</Text>
+      <Text>Martín Fierro</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_AZUL">
       <Text>Azul</Text>
@@ -303,7 +303,7 @@
       <Text>Girart de Vienne</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LA_VIE_DE_GARGANTUA">
-      <Text>A Vida de Gargantua e Pantagruel</Text>
+      <Text>A Vida de Gargântua e Pantagruel</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CANDIDE_OU_LOPTIMISME">
       <Text>Cândido, ou O Otimismo</Text>
@@ -354,7 +354,7 @@
       <Text>Os Baixos Fundos</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CANTERBURY_TALES">
-      <Text>Os Contos de Canterbury</Text>
+      <Text>Os Contos de Cantuária</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LE_MORTE_DARTHUR">
       <Text>A Morte de Arthur</Text>
@@ -390,7 +390,7 @@
       <Text>O Amante de Lady Chatterley</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_SKETCH_BOOK">
-      <Text>O Caderno de Rascunho de Geoffrey Crayon</Text>
+      <Text>O Caderno de Rascunhos de Geoffrey Crayon</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_LAST_OF_THE_MOHICANS">
       <Text>O Último dos Moicanos</Text>
@@ -408,7 +408,7 @@
       <Text>A Cabana do Pai Tomás</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_WALDEN">
-      <Text>A Vida nos Bosques</Text>
+      <Text>Walden, ou A Vida nos Bosques</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LEAVES_OF_GRASS">
       <Text>Folhas de Relva</Text>
@@ -420,17 +420,17 @@
       <Text>Poemas</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_RED_BADGE_OF_COURAGE">
-      <Text>A Glória de um Covarde</Text>
+      <Text>O Emblema Vermelho da Coragem</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_WONDERFUL_WIZARD_OF_OZ">
-      <Text>O Mágico de Oz</Text>
+      <Text>O Maravilhoso Mágico de Oz</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_GATSBY">
       <Text>O Grande Gatsby</Text>
     </Row>
     <!-- GREAT ART -->
     <Row Tag="TXT_KEY_GREAT_GIRL_WITH_PEARL_EARRING">
-      <Text>Garota com um Brinco de Pérola</Text>
+      <Text>Moça com Brinco de Pérola</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_HENRY_VIII">
       <Text>Henrique VIII</Text>
@@ -442,25 +442,25 @@
       <Text>As Senhoritas de Avignon</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LUNCHEON">
-      <Text>Almoço dos Remadores</Text>
+      <Text>O Almoço dos Barqueiros</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_MONA_LISA">
       <Text>Mona Lisa</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SUNDAY_AFTERNOON">
-      <Text>Tarde de Domingo na Ilha de Grande Jatte</Text>
+      <Text>Uma Tarde de Domingo na Ilha de Grande Jatte</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_VIEW_OF_TOLEDO">
       <Text>Vista de Toledo</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_WATER_LILIES">
-      <Text>Flor de Lótus</Text>
+      <Text>Nenúfares</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_STARRY_NIGHT">
-      <Text>Noite Estrelada</Text>
+      <Text>A Noite Estrelada</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BIRTH_OF_VENUS">
-      <Text>Nascimento de Vênus</Text>
+      <Text>O Nascimento de Vênus</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BINDO_ALTOVITI">
       <Text>Retrato de Bindo Altoviti</Text>
@@ -469,7 +469,7 @@
       <Text>São Jorge e o Dragão</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CREATION_OF_ADAM">
-      <Text>Criação de Adão</Text>
+      <Text>A Criação de Adão</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GALLERY_OF_THE_LOUVRE">
       <Text>Galeria do Louvre</Text>
@@ -481,22 +481,22 @@
       <Text>Arranjo em Cinza e Preto: A Mãe do Artista</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BREEZING_UP">
-      <Text>Ventando</Text>
+      <Text>Brisa Forte (Ventania)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_A_THOUSAND_LI">
       <Text>Mil Li de Rios e Montanhas</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DWELLING_IN_THE_FUCHUN">
-      <Text>Morada nas Montanhas Fuchun</Text>
+      <Text>Habitando nas Montanhas Fuchun</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_ALONG_THE_RIVER">
-      <Text>O Festival Qingming Junto ao Rio</Text>
+      <Text>Festival Qingming à Beira do Rio</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LEAF_2">
       <Text>Folha 2 (Pinturas de Garotas)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EMPEROR_TAIZONG">
-      <Text>Imperador Taizong Recebendo os Enviados Tibetanos</Text>
+      <Text>Imperador Taizong Recebendo o Emissário Tibetano</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SPRING_MORNING">
       <Text>Manhã de Primavera no Palácio Han</Text>
@@ -505,7 +505,7 @@
       <Text>A Grande Onda de Kanagawa</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EVENING_SHOWER">
-      <Text>Chuva à Tarde em Atake e A Grande Ponte</Text>
+      <Text>Chuva ao Entardecer em Atake e na Grande Ponte</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_L_ABSINTHE">
       <Text>O Absinto</Text>
@@ -514,37 +514,37 @@
       <Text>Upaupa Schneklud</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_A_BAR_AT_THE_FOLIES">
-      <Text>Um Bar em Folies-Bergère</Text>
+      <Text>Um Bar no Folies-Bergère</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BALL_AT_THE_MOULIN">
-      <Text>Bola em Moulin Rouge</Text>
+      <Text>Baile no Moulin de la Galette</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_KISS">
       <Text>O Beijo</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_AMERICAN_GOTHIC">
-      <Text>Gótica Americana</Text>
+      <Text>Gótico Americano</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SRI_SHANMUKAHA">
-      <Text>Sri Shanmukaha Subramania Swami</Text>
+      <Text>Sri Shanmukha Subramanya Swami</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DAUD_RECEIVES_A_ROBE">
-      <Text>Da'ud Recebe um Manto da Honra de Mun'im Khan</Text>
+      <Text>Da'ud Recebe um Manto de Honra de Mun'im Khan</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_YUSEF_AND_ZULEYKHA">
-      <Text>Yusef e Zuleykha</Text>
+      <Text>Yusuf e Zuleykha</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_ASCENT_OF_MUHAMMAD">
       <Text>A Ascensão de Maomé ao Paraíso</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LIBERTY_LEADING_THE_PEOPLE">
-      <Text>Liberdade Liderando o Povo</Text>
+      <Text>A Liberdade Guiando o Povo</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SAINT_JEROME_IN_HIS_STUDY">
-      <Text>São Jerônimo em Seus Estudos</Text>
+      <Text>São Jerônimo em Seu Estúdio</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_PARTHENON_FRIEZE">
-      <Text>Fídas mostrando o Frizo do Partenon aos seus Amigos (Lawrence Alma-Tadema)</Text>
+      <Text>Fídias mostrando o Friso do Partenon aos seus Amigos (Lawrence Alma-Tadema)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_RUE_DE_PARIS">
       <Text>Rua Parisiense; Dia Chuvoso</Text>
@@ -556,7 +556,7 @@
       <Text>A Morte de Marat</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_ETIENNE_CHEVALIER">
-      <Text>Etienne Chevalier com Santo Estêvão</Text>
+      <Text>Étienne Chevalier com Santo Estêvão</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SAINT_FRANCIS">
       <Text>São Francisco em Meditação</Text>
@@ -574,13 +574,13 @@
       <Text>Torre de Babel</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_YOUNG_LADY">
-      <Text>Retrato de uma Jovem Garota</Text>
+      <Text>Retrato de uma Jovem</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_KINDRED">
-      <Text>Espíritos Semelhantes</Text>
+      <Text>Espíritos Irmãos</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BLUE_BOY">
-      <Text>O Garoto Azul</Text>
+      <Text>O Menino Azul</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SECOND_OF_MAY">
       <Text>O Três de Maio de 1808 em Madri</Text>
@@ -589,13 +589,13 @@
       <Text>Os Últimos Cartuchos</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EARLY_AUTUMN">
-      <Text>Outono Prematuro</Text>
+      <Text>Outono Precoce</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_APPRECIATING_LOTUSES">
       <Text>Zhou Maoshu Apreciando Lótus</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EQUESTRIAN_PORTRAIT">
-      <Text>Retrato Equestre de Charles V</Text>
+      <Text>Retrato Equestre de Carlos V</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_ARMADA">
       <Text>O Retrato da Armada de Elizabeth I</Text>
@@ -604,7 +604,7 @@
       <Text>Francisco I da França</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SELF_PORTRAIT">
-      <Text>Auto Retrato</Text>
+      <Text>Autorretrato</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_VERTUMNUS">
       <Text>Vertumnus</Text>
@@ -643,7 +643,7 @@
       <Text>Jacques e Berthe Lipchitz</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DASH_FOR_TIMBER">
-      <Text>Um Traço Para a Madeira</Text>
+      <Text>Uma Corrida Para a Madeira</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GEORGE_WASHINGTON_PORTRAIT">
       <Text>George Washington</Text>
@@ -656,7 +656,7 @@
     </Row>
     <!-- Music -->
     <Row Tag="TXT_KEY_GREAT_WORK_NIN_ME_SCHARA">
-      <Text>Nin Me Schara</Text>
+      <Text>Nin Me Shara</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HYMN_TO_THE_MUSE">
       <Text>Hino às Musas</Text>
@@ -728,7 +728,7 @@
       <Text>Pace, pace mio Dio</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CONTRADANZAS_CUBANAS">
-      <Text>Contra-danças Cubanas</Text>
+      <Text>Contradanças Cubanas</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DIE_FLEDERMAUS">
       <Text>Die Fledermaus</Text>
@@ -837,7 +837,7 @@
       <Text>Agnus Dei</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_WATER_MUSIC">
-      <Text>Música aquática</Text>
+      <Text>Música Aquática</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
       <Text>Sinfonia Nº 93</Text>
@@ -886,13 +886,13 @@
       <Text>Fragmentos Linear B</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_PAPYRUS_ANI">
-      <Text>Papiros de Ani</Text>
+      <Text>Papiro de Ani</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_RUNESTONE">
       <Text>Pedra de Rök</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
-      <Text>Código de Hamurábi</Text>
+      <Text>Código de Hamurabi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
       <Text>Manuscrito Bakshali</Text>
@@ -932,10 +932,10 @@
       <Text>Paisagem com um Tamanduá-Bandeira</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_DUTCH_MEN_O_WAR">
-      <Text>Homens de guerra holandeses e outras embarcações em uma calmaria</Text>
+      <Text>Navios de Guerra Holandeses e outras embarcações em uma calmaria</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_HARBOR_IN_BALAKLAVA">
-      <Text>Embarcação de pessoas doentes no porto em Balaclava</Text>
+      <Text>Embarque de pessoas doentes no porto em Balaclava</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_PEACEMAKERS">
       <Text>Os Pacificadores</Text>
@@ -950,10 +950,10 @@
       <Text>Retrato de Nasser al-Din Shah Qajar</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_FIELD_WITH_SHEAFS">
-      <Text>Campo com gavelas</Text>
+      <Text>Campo com Feixes</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_AT_THE_EDGE_OF_THE_BROOK">
-      <Text>Na margem do riacho</Text>
+      <Text>Na Margem do Riacho</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_THE_KISS_ALT">
       <Text>O Beijo</Text>
@@ -974,13 +974,13 @@
 		<Text>Bisão</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
-		<Text>O Bisão Norte-Americano, que já cobriu grandes planícies em rebanhos maciços, foi a fonte primária para a carne, tendões, pele e osso necessário para a sobrevivência de muitas tribos nativas. Caçado à beira da extinção pelos Norte-Americanos no final ano de 1800, nas últimas décadas o búfalo fez um retorno devido a programas de vida selvagem Federais e Estaduais.</Text>
+		<Text>O Bisão Norte-Americano, que já cobriu as Grandes Planícies em rebanhos maciços, foi a fonte primária de carne, tendões, pele e osso, necessários para a sobrevivência de muitas tribos nativas. Caçado à beira da extinção pelos norte-americanos no final do ano de 1800, nas últimas décadas o bisão fez um retorno devido a programas de vida selvagem federais e estaduais.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
 		<Text>Cacau</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
-		<Text>O Cacau, um produto da árvore nativa Cacaueiro da América do Sul, era uma mercadoria importante na Mesoamérica pré-colombiana e destacou-se em culturas tribais. Introduzido pelos espanhóis para a Europa em meados dos anos 1700 era imensamente popular no preparo de bebidas, como ingrediente e até mesmo como medicamento.</Text>
+		<Text>O cacau, um produto da árvore nativa Cacaueiro da América do Sul, era uma mercadoria importante na Mesoamérica pré-colombiana e destacou-se em culturas tribais. Introduzido pelos espanhóis na Europa em meados dos anos 1700, era imensamente popular no preparo de bebidas, como ingrediente e até mesmo como medicamento.</Text>
 	</Row>	
   </Language_pt_BR>
 </GameData>

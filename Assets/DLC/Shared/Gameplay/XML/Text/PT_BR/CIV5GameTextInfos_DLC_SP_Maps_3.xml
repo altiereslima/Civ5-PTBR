@@ -5,7 +5,7 @@
       <Text>Nações Misturadas</Text>
 	</Row>
     <Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_DESC">
-      <Text>Pacote de Mapas Nações Misturadas</Text>
+      <Text>Pacote de Mapas: Nações Misturadas</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA">
       <Text>Austrália</Text>
@@ -194,10 +194,10 @@
       <Text>França - Duelo</Text>
     </Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_TINY">
-      <Text>França - Pequeno</Text>
+      <Text>França - Minúsculo</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_SMALL">
-      <Text>França - Reduzido</Text>
+      <Text>França - Pequeno</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_STANDARD">
       <Text>França - Padrão</Text>

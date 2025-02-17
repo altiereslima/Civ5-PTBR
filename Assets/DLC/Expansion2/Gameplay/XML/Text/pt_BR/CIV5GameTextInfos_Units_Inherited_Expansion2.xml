@@ -142,14 +142,14 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
-			<Text>Unid. naval de abordagem|Unid. naval de abordagem</Text>
+			<Text>Unid. naval de abordagem|Unid. navais de abordagem</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>2|2</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
-			<Text>Unid. naval a distância|Unid. naval a distância</Text>
+			<Text>Unid. naval à distância|Unid. navais à distância</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
 			<Text>Terço|Terços</Text>
@@ -193,7 +193,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_COMTE_DE_GRASSE">
-			<Text>Comte. de Grasse</Text>
+			<Text>Conde de Grasse</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -208,7 +208,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ALVARO_DE_BAZAN">
-			<Text>Alvaro de Bazan</Text>
+			<Text>Álvaro de Bazán</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -273,7 +273,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_THE_NAVIGATOR">
-			<Text>Henry, O Navegador</Text>
+			<Text>Henrique, o Navegador</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -288,7 +288,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PHORMIO">
-			<Text>Phormio</Text>
+			<Text>Fórmio</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -308,7 +308,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_CALONYMUS_OF_ALEXANDRIA">
-			<Text>Calonymus de Alexandria</Text>
+			<Text>Calônimo de Alexandria</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

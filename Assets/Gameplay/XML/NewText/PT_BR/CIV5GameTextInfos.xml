@@ -206,7 +206,7 @@
             <Text>CIDADE PODE ATACAR</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_RANGE_ATTACK_TT">
-            <Text>Execute um ataque à distância contra inimigos nas proximidades.</Text>
+            <Text>Executa um ataque à distância contra inimigos nas proximidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_VOTE">
             <Text>UM VOTO</Text>
@@ -314,7 +314,7 @@
             <Text>Movimento mais rápido em</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_YIELD_IMPRVD_STRING">
-            <Text>Melhoram o rendimento por</Text>
+            <Text>Melhora o rendimento por</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_NO_FRESH_WATER_STRING">
             <Text>Não há água fresca</Text>
@@ -413,7 +413,7 @@
             <Text>Seu Império pode suportar {1_Num} {1_Num: plural 1?unidade; other?unidades;}. Você excedeu o limite em {2_Num}, com isso diminui em {3_Num}% a [ICON_PRODUCTION] Produção em suas cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWITCH_POLICY_BRANCHES">
-            <Text>Você gostaria de adotar a política {1_NewBranchName:textkey}? Se o fizer, abandonará {2_OldBranches} e todos os benefícios oferecidos. Isso também fará que seu império entre em [COLOR_WARNING_TEXT]Anarquia[ENDCOLOR] por 1 turno, durante o qual não serão gerados [ICON_PRODUCTION] Produção, [ICON_RESEARCH] Ciência ou [ICON_GOLD] Ouro.</Text>
+            <Text>Você gostaria de adotar a política {1_NewBranchName:textkey}? Se o fizer, abandonará {2_OldBranches} e todos os benefícios oferecidos. Isso também fará com que seu império entre em [COLOR_WARNING_TEXT]Anarquia[ENDCOLOR] por 1 turno, durante o qual não serão gerados [ICON_PRODUCTION] Produção, [ICON_RESEARCH] Ciência ou [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_LIBERTY_TITLE">
             <Text>{1: gender masculine?Cônsul; feminine?Consulesa;} {1_PlayerName:textkey} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey}</Text>
@@ -603,7 +603,7 @@
             <Text>{1_Num} {2_IconString} dos Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_FROM_MISC">
-            <Text>{1_Num} {2_IconString} das outras fontes</Text>
+            <Text>{1_Num} {2_IconString} de outras fontes</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_FROM_POP">
             <Text>{1_Num} {2_IconString} da [ICON_CITIZEN] População</Text>
@@ -772,7 +772,7 @@
             <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas do Mundo: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_TEAM_WONDER_PLAYER">
-            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas do Time: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas da Equipe: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_NATIONAL_WONDER_PLAYER">
             <Text>[NEWLINE][ICON_BULLET] Modificador no Império por Maravilhas Nacionais: {1_Num}%</Text>
@@ -834,7 +834,7 @@
             <Text>Votação das Nações Unidas</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
-            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou na Era de Ouro!</Text>
+            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou em uma Era de Ouro!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_GOLDEN_AGE_BEGIN">
             <Text>A Era de Ouro raiou!</Text>
@@ -864,13 +864,13 @@
             <Text>Missão: derrote {1_Num} {1_Num: plural 1?unidade; other?unidades;} de {2_PlayerName}.[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_COMPLETE">
-            <Text>Missão Conectado com Estradas completa![NEWLINE]</Text>
+            <Text>Missão "Conectado com Estradas" completa![NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_ACTIVE">
             <Text>Missão: conecte com estradas para ganhar bônus de [ICON_INFLUENCE] Influência[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_GET_HAPPINESS">
-            <Text>+{1_Num} Felicidade(Civ. Favorita!)[NEWLINE]</Text>
+            <Text>+{1_Num} Felicidade (Civ. Favorita!)[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_GET_SCIENCE">
             <Text>+{1_Num} Ciência[NEWLINE]</Text>
@@ -1007,7 +1007,7 @@
             <Text>CIDADES</Text>
         </Row>
 		<Row Tag="TXT_KEY_ALWAYS_WAR_TT">
-			<Text>Todas as Civilizações estão em constante guerra uns com os outros.[NEWLINE]A Diplomacia deve ser a menor de suas preocupações.</Text>        
+			<Text>Todas as Civilizações estão em constante guerra umas com as outras.[NEWLINE]A Diplomacia deve ser a menor de suas preocupações.</Text>
 		</Row>
         <Row Tag="TXT_KEY_DIPLO_TO_TRADE_CITY_TT">
             <Text>Negocie uma cidade.</Text>
@@ -1022,7 +1022,7 @@
             <Text>Para todos:</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_TO_TEAM">
-            <Text>Para o time:</Text>
+            <Text>Para a equipe:</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_TO_PLAYER">
             <Text>Para {1_player}:</Text>
@@ -1372,7 +1372,7 @@
 		  <Text>Padrão</Text>
 		</Row>	
 		<Row Tag="TXT_KEY_DIPLO_CITIES_LIBERATED">
-		  <Text>[COLOR_POSITIVE_TEXT]Você libertou alguns da população deles![ENDCOLOR]</Text>
+		  <Text>[COLOR_POSITIVE_TEXT]Você libertou parte da população deles![ENDCOLOR]</Text>
 		</Row>		
 		  <!-- Turn Timer -->
 		  <Row Tag="TXT_KEY_TURN_TIMER_ACTIVE_TT">

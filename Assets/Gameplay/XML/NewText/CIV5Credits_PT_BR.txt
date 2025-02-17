@@ -29,9 +29,9 @@
 [2]EQUIPE DE PROGRAMADORES
 [3]Líder de Programação
 [4]Brian Wade
-[3]Lider de Sistemas
+[3]Líder de Sistemas
 [4]Tim Kipp
-[3]Lider de IA/Gameplay
+[3]Líder de IA/Gameplay
 [4]Ed Beach
 [3]Líder de Gráficos
 [4]Dan Baker
@@ -40,7 +40,7 @@
 [3]Líder do Multijogador
 [4]Justin Randall
 [4]Jonathan Tanner
-[3]Lider de Ferramentas
+[3]Líder de Ferramentas
 [4]Bart Muzzin
 [3]Programadores de IA
 [4]Scott Lewis
@@ -260,7 +260,7 @@
 [4]Josh Scanlan
 [3]Técnico de TI
 [4]Matt Baros
-[3]Progetos Especiais
+[3]Projetos Especiais
 [4]Susan Meier
 [3]SUPORTE TÉCNICO DA AMD
 [4]Steve Bell
@@ -291,7 +291,7 @@
 [4]VFX Provisionado por Fork Particle
 [3]Suporte Técnico da Microsoft
 [4]Chuck Walbourne
-[3]Aerial Photographer
+[3]Fotógrafo Aéreo
 [4]Steve Lowther
 [2]Agradecimentos Especiais
 [4]Joanne Miller
@@ -397,16 +397,16 @@
 [3]Gerente Associado por Parceiro de Marketing
 [4]Dawn Burnell
 [N]
-[2]2K GARANTIA DE QUALIDADE
+[2]GARANTIA DE QUALIDADE 2K
 [3]VP de Garantia de Qualidade 
 [4]Alex Plachowski
 [3]Gerente de Teste de Garantia de Qualidade (Projetos)
 [4]Grant Bryson
 [3]Gerente de Conformidade
 [4]Alexis Ladd
-[3]Lider de Teste
+[3]Líder de Teste
 [4]Griffin Funk
-[3]Lider de Teste (Equipe de Apoio)
+[3]Líder de Teste (Equipe de Apoio)
 [4]Sean Manzano
 [4]Andrew Webster
 [3]Testador Sênior
@@ -542,13 +542,13 @@
 [4]Zhang Xi Kun
 [3]Supervisor de GQ
 [4]Steve Manners
-[3]Lider de Projeto
+[3]Líder de Projeto
 [4]Li Sheng Qiang
 [3]Localização de Testadores
 [4]Qin Qi
 [4]Ning Xu
 [4]Lu Ting Ting
-[3]Lider Assistente de Projeto
+[3]Líder Assistente de Projeto
 [4]Zhu Jian
 [3]Testadores
 [4]Zheng Zhi
@@ -557,19 +557,19 @@
 [4]Wang Yi Min
 [N]
 [N]
-[3]Para ver a lista completa do crédito musical do Civilization V, por favor, visite: 
+[3]Para ver a lista completa dos créditos musicais do Civilization V, por favor, visite: 
 [4]www.civilization5.com/musiccredits
 [N]
 [N]
-[2]Gravação de Partitura Original
+[2]Gravação da Partitura Original
 [3]Filarmônica de Praga
 [3]Regente - Andy Brick
 [N]
-[4]Concertmasters - Rita Cepurcenko & Milos Jahoda
+[4]Maestros - Rita Cepurcenko & Milos Jahoda
 [4]Contratante de Música Orquestral e Produtor - Petr Pycha
 [4]Engenheiro de Som - Jan Kotzmann
 [4]Engenheiro Assistente - Cenda Kotzmann
-[4]Librarian - Tomas Kirschner
+[4]Bibliotecário - Tomas Kirschner
 [4]Mestre de Coro - Stanislav Mistr
 [N]
 [3]Primeiro Violino
@@ -646,7 +646,7 @@
 [4]Robert Heger
 [4]Martin Klimanek
 [N]
-[3]Falutim
+[3]Flautim
 [4]Jiri Skuhra
 [N]
 [3]Oboé
@@ -656,7 +656,7 @@
 [3]Trompa Inglesa
 [4]Monika Bouskova
 [N]
-[3]Clarineta
+[3]Clarinete
 [4]Jan Mach
 [4]Vlastimil Mares
 [N]
@@ -667,7 +667,7 @@
 [4]Svatopluk Cech
 [4]Lumir Vanek
 [N]
-[3]Duplo Fagote
+[3]Contra Fagote
 [4]Petr Nemecek
 [N]
 [3]Trompa
@@ -685,7 +685,7 @@
 [4]Jiri Novotony
 [4]Frantisek Zazvonil
 [N]
-[3]Basstrombone
+[3]Trombone Baixo
 [4]Petr Cihak
 [N]
 [3]Tuba
@@ -749,7 +749,7 @@
 [4]Assessor Cultural - Vanessa Aspillaga
 [4]Assessor Econômico - Nancy Linari
 [4]Assessor Militar - RF Daley
-[4]Assessor Científico - John Bentley 
+[4]Assessor Científico - John Bentley
 [4]Alexandre - Miró de Monteseppia
 [4]Askia - Mori Majid
 [4]César Augusto - Émile Khordoc
@@ -762,7 +762,7 @@
 [4]Montezuma - Alfredo Camacho
 [4]Napoleão - Greg Gobbi
 [4]Oda Nobunaga - Ryosuke Aoike
-[4]Bismark - Heinz Becker
+[4]Bismarck - Heinz Becker
 [4]Elizabeth - Julia Lenardon
 [4]Ramesses II - George Saad
 [4]Ramkhamhaeng - Thon Kongkaewpaisarn
@@ -788,8 +788,8 @@
 [3]Mixer de Diálogo Original, Melodia Pesada
 [4]Dave Fraser
 [3]Estúdios Fox
-[4]Rick Fox 
-[4]Michael Weber 
+[4]Rick Fox
+[4]Michael Weber
 [4]Tim Schmidt
 [4]Cal Halter
 [4]Keith Fox
@@ -798,7 +798,7 @@
 [3]AGRADECIMENTO ESPECIAL
 [4]Daniel Einzig
 [4]Christopher Fiumano
-[4]Jenn Kolbe 
+[4]Jenn Kolbe
 [4]David Boutry
 [4]Ryan Dixon
 [4]Michael Lightner
@@ -823,7 +823,7 @@
 [4]-Access Communications
 [4]KD&E
 [4]VG Market
-[4]Rokkan 
+[4]Rokkan
 [4]Art Machine
 [4]RDA
 [4]CivAnon.org
@@ -841,7 +841,7 @@
 [4]Yi Zheng
 [3]Artista Sênior
 [4]Li Ying Jun
-[3]Lider de Animação
+[3]Líder de Animação
 [4]Xu Jie
 [3]Animadores
 [4]Yin Ji

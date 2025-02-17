@@ -63,47 +63,47 @@
             <Text>Desabilita o sistema do Congresso Mundial. Nenhuma proposta ou sessão acontecerá e a Vitória Diplomática não será possível.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI">
-            <Text>Desabilitar Visão Cultural</Text>
+            <Text>Desabilitar Visão Geral Cultural</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP">
-            <Text>Desabilita a tela de Visão Cultural. Isso afeta apenas a tela e não altera nenhum dos mecanismos centrais do jogo.</Text>
+            <Text>Desabilita a tela de Visão Geral Cultural. Isso afeta apenas a tela e não altera nenhum dos mecanismos centrais do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_MOVE_SPY_INSTRUCTIONS">
-            <Text>Escolha uma cidade para enviar {2: gender feminine:a; other?o;} {1_SpyRank} {2_SpyName} para iniciar as operações.[NEWLINE][NEWLINE][NEWLINE]Quando você envia um espião para uma [ICON_CAPITAL] Capital de um oponente, você será capaz de designá-lo um diplomata.</Text>
+            <Text>Escolha uma cidade para enviar {2: gender feminine:a; other?o;} {1_SpyRank} {2_SpyName} para iniciar as operações.[NEWLINE][NEWLINE][NEWLINE]Quando você envia um espião para uma [ICON_CAPITAL] Capital de um oponente, você será capaz de designá-lo como diplomata.</Text>
         </Row>
         <Row Tag="TXT_KEY_SPY_BE_DIPLOMAT">
-            <Text>Você quer que este espião seja um diplomata? Um espião pode ser um diplomata se for colocado na capital de outra civilização com a qual você não esteja em guerra. (Se a guerra for declarada, seu espião fugirá da cidade) Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Se vocês possuírem diferentes ideologias, Diplomatas irão realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM] Turismo para aquela civilização.
+            <Text>Você quer que este espião seja um diplomata? Um espião pode ser um diplomata se for colocado na capital de outra civilização com a qual você não esteja em guerra. (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Se vocês possuírem diferentes ideologias, diplomatas irão realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM] Turismo para aquela civilização.
             </Text>
         </Row>
         <Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS">
             <Text>Apresentando-se</Text>
         </Row>
         <Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS_TT">
-            <Text>{2: gender feminine:A; other?O;} {1_RankName} {2_SpyName} está tentando conseguir as conexões certas {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como diplomata. Após as apresentações, {2: gender feminine?ela; other?ele;} poderá começar a fazer lóbi.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário.</Text>
+            <Text>{2: gender feminine:A; other:O;} {1_RankName} {2_SpyName} está tentando conseguir as conexões certas {3: gender *:noart:em; feminine:{3: plural 2:nas; other:na;}; masculine:{3: plural 2:nos; other:no;}; other:em;} {3_CityName} como diplomata. Após as apresentações, {2: gender feminine:ela; other:ele;} poderá começar a fazer lobby.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar a opinião deles sobre as propostas e negociar por apoio, se necessário.</Text>
         </Row>
         <Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING">
-            <Text>Fazendo Lóbi</Text>
+            <Text>Fazendo Lobby</Text>
         </Row>
         <Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING_TT">
-            <Text>{1_RankName} {2_SpyName} está fazendo lóbi {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como um diplomata.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Diplomatas também podem realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM] Turismo para aquela civilização.</Text>
+            <Text>{1_RankName} {2_SpyName} está fazendo lobby {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como um diplomata.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Diplomatas também podem realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM] Turismo para aquela civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_DIPLOMAT_WAIT_TT">
             <Text>Você não pode ver a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName}.[NEWLINE][NEWLINE]Você possui um diplomata nesta cidade, mas você precisa esperá-lo terminar de se apresentar antes que possa ver a tela da cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_DIPOLOMAT_TT">
-            <Text>Clique para ver a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName}.[NEWLINE][NEWLINE]Você pode ver a tela da cidade de outros jogadores se seu espião for um diplomata e estiver fazendo lóbi na [ICON_CAPITAL] Capital.</Text>
+            <Text>Clique para ver a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName}.[NEWLINE][NEWLINE]Você pode ver a tela da cidade de outros jogadores se seu espião for um diplomata e estiver fazendo lobby na [ICON_CAPITAL] Capital.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_PUBLIC_OPINION_UNHAPPINESS">
             <Text>Opinião Pública</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_REBELS">
-            <Text>Em razão do Império estar com pelo menos 10 de [ICON_HAPPINESS_4] Infelicidade, uma rebelião ocorreu em nosso território!</Text>
+            <Text>Devido ao Império estar com pelo menos 10 de [ICON_HAPPINESS_4] Infelicidade, uma rebelião ocorreu em nosso território!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT_SUMMARY">
-            <Text>Uma Cidade Se Revoltou!</Text>
+            <Text>Uma Cidade se Revoltou!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT">
-            <Text>Em razão do Império estar com pelo menos 20 de [ICON_HAPPINESS_4] Infelicidade e nossa opinião pública é Não Contente, a cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName} se {1: plural 2?revoltaram; other?revoltou;} e se {1: plural 2?juntaram; other?juntou;} {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CivName}!</Text>
+            <Text>Devido ao Império estar com pelo menos 20 de [ICON_HAPPINESS_4] Infelicidade e nossa opinião pública ser Não Contente, a cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName} se {1: plural 2?revoltaram; other?revoltou;} e se {1: plural 2?juntaram; other?juntou;} {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CivName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT">
             <Text>A cidade {1_CivAdjective[2]} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName} se {2: plural 2:revoltaram; other?revoltou;} e se {2: plural 2?juntaram; other?juntou;} {3: gender *:noart?a; feminine?{3: plural 2?às; other?à;}; masculine?{3: plural 2?aos; other?ao;}; other?a;} {3_CivName}!</Text>
@@ -112,7 +112,7 @@
             <Text>Cidade Preparando Revolta</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT">
-            <Text>Em razão do Império estar com pelo menos 20 de [ICON_HAPPINESS_4] Infelicidade e nossa opinião pública é Não Contente, uma cidade se revotará em {1_Turns} {1: plural 1:turno; other?turnos;}. Baseado nos níveis atuais de Infelicidade e pressão das ideologias próximas, a cidade mais propensa a se rebelar é {2_CityName} e ela se juntará {3: gender *:noart?a; feminine?{3: plural 2?às; other?à;}; masculine?{3: plural 2?aos; other?ao;}; other?a;} {3_CivName}. Tente melhorar o nível de Felicidade do seu Império o mais breve possível!</Text>
+            <Text>Devido ao Império estar com pelo menos 20 de [ICON_HAPPINESS_4] Infelicidade e nossa opinião pública ser Não Contente, uma cidade se revotará em {1_Turns} {1: plural 1:turno; other?turnos;}. Baseado nos níveis atuais de Infelicidade e pressão das ideologias próximas, a cidade mais propensa a se rebelar é {2_CityName} e ela se juntará {3: gender *:noart?a; feminine?{3: plural 2?às; other?à;}; masculine?{3: plural 2?aos; other?ao;}; other?a;} {3_CivName}. Tente melhorar o nível de Felicidade do seu Império o mais breve possível!</Text>
         </Row>
         <Row Tag="TXT_KEY_ERA_0_SHORT">
             <Text>Antiga</Text>

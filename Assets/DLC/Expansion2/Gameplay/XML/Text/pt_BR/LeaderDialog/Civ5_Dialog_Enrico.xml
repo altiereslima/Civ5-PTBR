@@ -6,20 +6,20 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_1">
-            <Text>Bem-vindo a Veneza! Sou Doge Enrico Dandolo... temos negócios em comum hoje?</Text>
+            <Text>Bem-vindo a Veneza! Sou o Doge Enrico Dandolo... temos negócios em comum hoje?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_2">
-            <Text>Bem-vindo viajante! Sou Enrico Dandolo de Veneza. O que o traz a minha justa cidade?</Text>
+            <Text>Bem-vindo, viajante! Sou Enrico Dandolo de Veneza. O que o traz à minha justa cidade?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_3">
-            <Text>Sou Doge Enrico Dandolo de Veneza... você veio comercializar?</Text>
+            <Text>Sou o Doge Enrico Dandolo de Veneza... você veio comercializar?</Text>
         </Row>
         <!-- Reage ao seu bluff sendo chamado -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_1">
             <Text>Tenho pouca preocupação com tal óbvia arrogância.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_2">
-            <Text>Minha experiência me diz que você não está tão confiante como aparece.</Text>
+            <Text>Minha experiência me diz que você não está tão confiante quanto aparenta.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_3">
             <Text>Você está jogando um jogo perigoso.</Text>
@@ -40,7 +40,7 @@
         </Row>
         <!-- Derrotado e removido do jogo -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEFEATED_1">
-            <Text>Um erro de cálculo da minha parte... não vai ser repetido.</Text>
+            <Text>Um erro de cálculo da minha parte... não vai se repetir.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEFEATED_2">
             <Text>Ocasionalmente minhas ambições tiram o melhor de mim.</Text>
@@ -82,7 +82,7 @@
         </Row>
         <!-- Oferta Comércio do jogador - no -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NO_NEUTRAL">
-            <Text>Isso não seria um dos meus melhores interesses.</Text>
+            <Text>Isso não seria do meu interesse.</Text>
         </Row>
         <!-- A demanda por homenagem do jogador - sim -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_YES_NEUTRAL">
@@ -94,7 +94,7 @@
         </Row>
         <!-- Solicita um comércio -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADEREQUEST_NEUTRAL">
-            <Text>Esta oferta não estará aberta muito tempo... pense nisso.</Text>
+            <Text>Esta oferta não estará aberta por muito tempo... pense nisso.</Text>
         </Row>
         <!-- Exige tributo -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEMANDTRIBUTE_NEUTRAL">
@@ -160,7 +160,7 @@
         </Row>
         <!-- A demanda por homenagem do jogador - no -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_NO_HAPPY">
-            <Text>Eu não posso dar ao luxo de ser tão generoso.</Text>
+            <Text>Eu não posso me dar ao luxo de ser tão generoso.</Text>
         </Row>
         <!-- Solicita um comércio -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADEREQUEST_HAPPY">
@@ -224,7 +224,7 @@
             <Text>Você deve fazer melhor que isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_ANGRY_4">
-            <Text>Sua proposta insulta.</Text>
+            <Text>Sua proposta é um insulto.</Text>
         </Row>
         <!-- Oferta Comércio do jogador - no -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NO_ANGRY">
@@ -258,13 +258,13 @@
         </Row>
         <!-- Vamos ouvi-lo -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_5">
-            <Text>O que estava dizendo?</Text>
+            <Text>O que você estava dizendo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_1">
-            <Text>Eu pesei minhas opções com cuidado... e guerra com você deve pagar muito bem!</Text>
+            <Text>Eu pesei minhas opções com cuidado... e a guerra com você deve render muito!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_2">
-            <Text>Eu tinha uma série de planos em mente, mas neste caso, a guerra é o meio mais simples para um fim.</Text>
+            <Text>Eu tinha uma série de planos em mente, mas, neste caso, a guerra é o meio mais simples para um fim.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_3">
             <Text>Com você extinto, há muito mais para mim!</Text>

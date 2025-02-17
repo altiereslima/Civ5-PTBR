@@ -6,7 +6,7 @@
 			<Text>Sereníssima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
-			<Text>Não pode treinar {TXT_KEY_UNIT_SETTLER[2]} ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um {TXT_KEY_UNIT_VENETIAN_MERCHANT[1]} aparece após descobrir Óptica. Pode realizar compras em cidades fantoches.</Text>
+			<Text>Não pode treinar {TXT_KEY_UNIT_SETTLER[2]} ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um {TXT_KEY_UNIT_VENETIAN_MERCHANT[1]} aparece após descobrir a Óptica. Pode realizar compras em cidades fantoches.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
 			<Text>Azagaia</Text>
@@ -18,13 +18,13 @@
 			<Text>Tesouros de Nínive</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT">
-			<Text>Quando uma cidade é conquistada, uma tecnologia já descoberta pelo seu antigo dono é obtida gratuitamente. Obter uma cidade por acordo não conta e só pode ocorrer uma vez por cidade inimiga.</Text>
+			<Text>Quando uma cidade é conquistada, uma tecnologia já descoberta pelo seu antigo dono é obtida gratuitamente. Obter uma cidade por acordo não conta, e só pode ocorrer uma vez por cidade inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT">
 			<Text>Solidariedade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY">
-			<Text>Uma Política Social gratuita é obtida quando avança para a próxima era.</Text>
+			<Text>Uma Política Social gratuita é obtida quando se avança para a próxima era.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CARNIVAL_SHORT">
 			<Text>Carnaval</Text>
@@ -51,7 +51,7 @@
 			<Text>Cidades fundadas iniciam com território adicional. Unidades recebem um bônus de combate quando estão lutando dentro do seu próprio território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT">
-			<Text>Passagem para África</Text>
+			<Text>Passagem para a África</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
 			<Text>Recebe +3 de [ICON_GOLD] Ouro e +1 de [ICON_CULTURE] Cultura por cada Rota Comercial com uma civilização ou Cidade-Estado diferentes. Os donos das Rotas Comerciais recebem +2 de [ICON_GOLD] Ouro por cada uma enviada ao Marrocos.</Text>

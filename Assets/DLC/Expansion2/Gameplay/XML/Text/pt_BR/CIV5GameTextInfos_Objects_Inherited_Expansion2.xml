@@ -48,7 +48,7 @@
 			<Text>Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_ADJECTIVE">
-			<Text>Mercante</Text>
+			<Text>Mercantil</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_RELIGIOUS_ADJECTIVE">
 			<Text>Religiosa</Text>
@@ -59,7 +59,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MT_SINAI">
-			<Text>Monte Sinai|Montes Sinais</Text>
+			<Text>Monte Sinai|Montes Sinai</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -91,7 +91,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_DOMAIN_HOVER">
-			<Text>Unidades Pairantes</Text>
+			<Text>Unidades Flutuantes</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

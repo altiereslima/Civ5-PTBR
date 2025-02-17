@@ -3,7 +3,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_TITLE">
-			<Text>Artilharia de Rifles</Text>
+			<Text>Artilharia de Canhões Raiados</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -43,7 +43,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_TITLE">
-			<Text>Ferrovia Militar</Text>
+			<Text>Ferrovias Militares</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -53,12 +53,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_TITLE">
-			<Text>Terra Seca</Text>
+			<Text>Terra Arrasada</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_TITLE">
-			<Text>Trincheira</Text>
+			<Text>Entrincheiramento</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

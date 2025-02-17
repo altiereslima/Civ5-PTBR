@@ -27,10 +27,10 @@
         </Row>
         <!-- Se alegra depois de vencer uma guerra -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_1">
-            <Text>É sempre o melhor interesse dos meus inimigos evitar conflitos.</Text>
+            <Text>É sempre do melhor interesse dos meus inimigos evitar conflitos.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_2">
-            <Text>É sempre o melhor interesse dos meus inimigos evitar conflitos.</Text>
+            <Text>É sempre do melhor interesse dos meus inimigos evitar conflitos.</Text>
         </Row>
         <!-- Submissa depois de perder uma guerra -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LOSEWAR_1">
@@ -47,7 +47,7 @@
             <Text>Estou impressionado com a sua vitória, mesmo conseguida às minhas custas.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_3">
-            <Text>Posso ter sido derrotado, mas o meu espírito não vai ser conquistado!</Text>
+            <Text>Posso ter sido derrotado, mas o meu espírito não será conquistado!</Text>
         </Row>
         <!-- Neutro -->
         <!-- Cumprimentos (reuniões subseqüentes) -->
@@ -83,7 +83,7 @@
         </Row>
         <!-- Oferta Comércio do jogador - no -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_NEUTRAL">
-            <Text>Isso não serve para mim.</Text>
+            <Text>Isso não me serve.</Text>
         </Row>
         <!-- A demanda por homenagem do jogador - sim -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_NEUTRAL">
@@ -143,7 +143,7 @@
         </Row>
         <!-- Oferta Comércio do jogador - adoçar o negócio -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_1">
-            <Text>Certamente você pode dar ao luxo de ser mais generoso em sua oferta.</Text>
+            <Text>Certamente você pode se dar ao luxo de ser mais generoso em sua oferta.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_2">
             <Text>Isso é o melhor que você pode fazer?</Text>
@@ -233,7 +233,7 @@
         </Row>
         <!-- A demanda por homenagem do jogador - sim -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_ANGRY">
-            <Text>Vou ceder, mas eu nunca vou esquecer este insulto.</Text>
+            <Text>Vou ceder, mas nunca esquecerei este insulto.</Text>
         </Row>
         <!-- A demanda por homenagem do jogador - no -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_ANGRY">
@@ -245,7 +245,7 @@
         </Row>
         <!-- Exige tributo -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_ANGRY">
-            <Text>Você vai nos dar o que precisamos... ou sofrer as consequências!</Text>
+            <Text>Você vai nos dar o que precisamos... ou sofrerá as consequências!</Text>
         </Row>
         <!--! Discorda -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_5">

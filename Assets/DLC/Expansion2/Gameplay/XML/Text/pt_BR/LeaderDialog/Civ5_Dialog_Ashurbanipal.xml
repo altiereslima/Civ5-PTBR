@@ -20,7 +20,7 @@
             <Text>Você está cheio de arrogância! Espero que você esteja preparado para o que está por vir.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WARBLUFF_2">
-            <Text>Admiro a sua audácia, embora a história nos diz que isso não é uma decisão sábia.</Text>
+            <Text>Admiro a sua audácia, embora a história nos diga que isso não é uma decisão sábia.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WARBLUFF_3">
             <Text>Você está jogando perigosamente.</Text>
@@ -47,7 +47,7 @@
             <Text>Os textos antigos não me prepararam para esse resultado...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEFEATED_3">
-            <Text>A história contará a sua vitória... embora seja apenas em um pequena referência.</Text>
+            <Text>A história contará a sua vitória... embora seja apenas em uma pequena referência.</Text>
         </Row>
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
@@ -120,7 +120,7 @@
             <Text>Vá em frente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_2">
-            <Text>Continuar.</Text>
+            <Text>Continue.</Text>
         </Row>
         <!--Happy -->
         <!--Greetings (subsequent meetings) -->
@@ -157,7 +157,7 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_YES_HAPPY">
-            <Text>Você receberá uma generosa recompensa... Eu tenho pouco tempo para negociações sem imporância.</Text>
+            <Text>Você receberá uma generosa recompensa... Eu tenho pouco tempo para negociações sem importância.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_NO_HAPPY">
@@ -233,19 +233,19 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_YES_ANGRY">
-            <Text>Se devemos, então que assim seja... mas você se arrependerá em me pedir uma coisa dessas.</Text>
+            <Text>Se devemos, então que assim seja... mas você se arrependerá de me pedir uma coisa dessas.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_NO_ANGRY">
-            <Text>Você está trilhando um caminho perigoso pedindo isso.</Text>
+            <Text>Você está trilhando um caminho perigoso ao pedir isso.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADEREQUEST_ANGRY">
-            <Text>Eu não tenho escolha, senão oferecer-lhe um acordo.</Text>
+            <Text>Não tenho escolha, a não ser lhe oferecer um acordo.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEMANDTRIBUTE_ANGRY">
-            <Text>Meu povo precisa disso e você deve se sentir obrigado a fornecê-lo!</Text>
+            <Text>Meu povo precisa disso e você deve se sentir obrigado a fornecer!</Text>
         </Row>
         <!--Disagrees -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_5">
@@ -262,10 +262,10 @@
             <Text>O que você estava dizendo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_1">
-            <Text>Temo que não há outra escolha a não ser removê-lo deste mundo.</Text>
+            <Text>Temo que não haja outra escolha a não ser removê-lo deste mundo.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_2">
-            <Text>Após uma cuidadosa reflexão, temo que você deva ir. Prepare-se para a guerra!</Text>
+            <Text>Após uma cuidadosa reflexão, temo que você deva partir. Prepare-se para a guerra!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_3">
             <Text>Não posso mais tolerar a sua presença, a única opção é a guerra!</Text>
@@ -277,7 +277,7 @@
             <Text>Uma escolha tola! Você deve estar mal informado.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_ATTACKED_3">
-            <Text>Que grande erro que você cometeu! Vou gostar de ver o resultado.</Text>
+            <Text>Que grande erro você cometeu! Vou gostar de ver o resultado.</Text>
         </Row>
     </Language_pt_BR>
 </GameData>

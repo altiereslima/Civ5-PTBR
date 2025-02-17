@@ -34,10 +34,10 @@
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_1">
-            <Text>Eu posso estar derrotado, mas eu certamente deixo meu povo em um estado melhor do que quando eu o encontrei!</Text>
+            <Text>Eu posso estar derrotado, mas certamente deixo meu povo em um estado melhor do que quando o encontrei!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_2">
-            <Text>Eu posso estar derrotado, mas eu certamente deixo meu povo em um estado melhor do que quando eu o encontrei!</Text>
+            <Text>Eu posso estar derrotado, mas certamente deixo meu povo em um estado melhor do que quando o encontrei!</Text>
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_1">
@@ -83,7 +83,7 @@
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_NEUTRAL">
-            <Text>Receio que esta oferta não é do nosso interesse.</Text>
+            <Text>Receio que esta oferta não seja do nosso interesse.</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_NEUTRAL">
@@ -166,7 +166,7 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_HAPPY">
-            <Text>Saudações amigo! A Polônia oferece isso a você num acordo.</Text>
+            <Text>Saudações, amigo! A Polônia oferece isso a você em um acordo.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_HAPPY">
@@ -235,7 +235,7 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_ANGRY">
-            <Text>Vejo que eu tenho pouca escolha a não ser concordar... dessa vez.</Text>
+            <Text>Vejo que tenho pouca escolha a não ser concordar... dessa vez.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_ANGRY">
@@ -276,7 +276,7 @@
             <Text>Meus exércitos apagarão da memória a sua existência!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_2">
-            <Text>Que traição é essa?! Eu pisarei em você como eu piso em uma formiga.</Text>
+            <Text>Que traição é essa?! Eu pisarei em você como eu piso em uma formiga!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_3">
             <Text>Vejo sua falta de sutileza na diplomacia! Talvez você aprenda a humildade com a derrota!</Text>

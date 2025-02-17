@@ -7,7 +7,7 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1">
-            <Text>Saudações de Marrocos! Eu sou Ahmad Al-Mansur. Como eu posso ser útil?</Text>
+            <Text>Saudações de Marrocos! Eu sou Ahmad Al-Mansur. Como posso ser útil?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2">
             <Text>Eu sou o Sultão Ahmad Al-Mansur de Marrocos, eu o recebo em nome do meu povo.</Text>
@@ -17,7 +17,7 @@
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_1">
-            <Text>Eu não posso levar a sério tais comentários.</Text>
+            <Text>Não posso levar a sério tais comentários.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_2">
             <Text>Você está jogando perigosamente.</Text>
@@ -88,7 +88,7 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_NEUTRAL">
-            <Text>Cabe-nos a todos ajudar aqueles em necessidade.</Text>
+            <Text>Cabe a todos nós ajudar aqueles em necessidade.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_NEUTRAL">
@@ -163,7 +163,7 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_HAPPY">
-            <Text>Você pede muito de mim amigo.</Text>
+            <Text>Você pede muito de mim, amigo.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_HAPPY">
@@ -215,7 +215,7 @@
         </Row>
         <!--Trade offer from player - yes -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_ANGRY">
-            <Text>Contra o meu melhor julgamento, vou concordar com este acordo.</Text>
+            <Text>Contra o meu bom senso, concordarei com este acordo.</Text>
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_1">
@@ -265,13 +265,13 @@
             <Text>O que você estava dizendo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_1">
-            <Text>Parece que a uma guerra total é a única solução para a nossa disputa.</Text>
+            <Text>Parece que uma guerra total é a única solução para a nossa disputa.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_2">
             <Text>...E assim vem a guerra... prepare-se!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_3">
-            <Text>Há um tempo para a diplomacia, e um tempo para a guerra... este é o segundo.</Text>
+            <Text>Há um tempo para a diplomacia e um tempo para a guerra... este é o segundo.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_1">
             <Text>É uma pena que você tenha que recorrer à violência sem sentido tão depressa.</Text>

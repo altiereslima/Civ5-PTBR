@@ -10,7 +10,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS">
 			<Text>Corpo de Infantaria USA|Corpos de Infantaria USA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>masculine:masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
@@ -43,22 +43,22 @@
     </Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION">
 			<Text>Divisão de Infantaria CSA|Divisões de Infantaria CSA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS">
 			<Text>Corpo de Infantaria CSA|Corpos de Infantaria CSA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY">
 			<Text>Cavalaria CSA|Cavalarias CSA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY">
 			<Text>Cavalaria com Carabina CSA|Cavalarias com Carabina CSA</Text>
-			<Gender>feminine:human</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON">
@@ -188,7 +188,7 @@
 			<Text>Unidade naval única Confederada, devastadora para as Fragatas da União.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_HELP">
-			<Text>Arma avançada arma antipessoal disponível no final da Guerra Civil.</Text>
+			<Text>Arma avançada, arma antipessoal disponível no final da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_HELP">
 			<Text>Unidade naval única da União, capaz de enfrentar os Navios Blindados Confederados.</Text>
@@ -285,10 +285,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Movimento dobrado em pradarias.[ENDCOLOR][NEWLINE][NEWLINE]"A Divisão Leve de Hill" era famosa por sua marcha de 17 milhas em um único dia de Harpers Ferry para salvar os Confederados em Sharpsburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Seus sul-carolinenses lutaram bem na Batalha do Crater, capturando 130 prisioneiros.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Seus sul-carolinenses lutaram bem na Batalha do Cratera, capturando 130 prisioneiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Candidatou-se à Presidência contra Lincoln em 1860. Sua divisão participou na repulsa ao ataque frontal da União em Cold Harbor.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Candidatou-se à Presidência contra Lincoln em 1860. Sua divisão participou da repulsão ao ataque frontal da União em Cold Harbor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL_HELP">
 			<Text>[COLOR_NEGATIVE_TEXT]Sem bônus de Grandes Generais.[ENDCOLOR][NEWLINE][NEWLINE]Um general talentoso cuja carreira foi prejudicada por suas frequentes disputas com seus superiores.</Text>
@@ -432,7 +432,7 @@
 			<Text>[COLOR_NEGATIVE_TEXT]Sem bônus de Grandes Generais.[ENDCOLOR][NEWLINE][NEWLINE]Concedido o comando do XI Corpo devido à sua popularidade entre os recrutas imigrantes alemães. Mantido em teatros secundários sempre que possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-1 de Alcance Visual.[ENDCOLOR][NEWLINE][NEWLINE]Totalmente superado e derrotado por Stonewall Jackson durante a campanha do Vale de Shenandoah de 1862.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-1 de Alcance Visual.[ENDCOLOR][NEWLINE][NEWLINE]Completamente superado e derrotado por Stonewall Jackson durante a campanha do Vale de Shenandoah de 1862.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Estimulou suas tropas a uma feroz defesa de Henry House Hill durante a 2ª Batalha de Bull Run.</Text>
@@ -465,7 +465,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Embora seja mais famoso por seu papel na invenção do beisebol, ele foi um comandante competente que se saiu admiravelmente em Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Organizou a defesa da União ao longo do Cemetery Ridge em Gettysburg após a morte de seu comandante de ala, John Reynolds.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Organizou a defesa da União ao longo de Cemetery Ridge em Gettysburg após a morte de seu comandante de ala, John Reynolds.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES_HELP">
 			<Text>[COLOR_NEGATIVE_TEXT]-15% para a defesa [ICON_STRENGTH] em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Avançou com seu corpo para o Pomar de Pêssegos em Gettysburg, deixando suas unidades perigosamente expostas a ataques de três lados.</Text>
@@ -477,7 +477,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar uma cidade.[ENDCOLOR][NEWLINE][NEWLINE]Embora apelidado de "Slow Come" por sua marcha hesitante, suas tropas capturaram Atlanta durante o ataque de Sherman àquela cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Definiu as defesas da União em Gettysburg, estendendo-se do Cemetery Ridge até o Little Round Top.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% para a defesa [ICON_STRENGTH] em terreno acidentado.[ENDCOLOR][NEWLINE][NEWLINE]Definiu as defesas da União em Gettysburg, estendendo-se de Cemetery Ridge até Little Round Top.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Unidades embarcadas defendem com o dobro de força.[ENDCOLOR][NEWLINE][NEWLINE]Planejou e executou com sucesso a operação anfíbia em Brown's Ferry durante a campanha de Chattanooga.</Text>
@@ -495,7 +495,7 @@
 			<Text>[COLOR_NEGATIVE_TEXT]-1 Movimento.[ENDCOLOR][NEWLINE][NEWLINE]Desligado do serviço imediatamente após a 1ª Bull Run, quando foi culpado por não deter o exército de Joe Johnston em Winchester.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em colina.[ENDCOLOR][NEWLINE][NEWLINE]Comandante do 20º Maine durante sua histórica defesa do Little Round Top durante o segundo dia em Gettysburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% para a defesa [ICON_STRENGTH] em colina.[ENDCOLOR][NEWLINE][NEWLINE]Comandante do 20º Maine durante sua histórica defesa de Little Round Top durante o segundo dia em Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH]Força de Combate contra Unidades Fortificadas.[ENDCOLOR][NEWLINE][NEWLINE]A divisão incluía o 48º da Pensilvânia, uma unidade de ex-mineiros de carvão especializados em escavação sob as linhas inimigas e plantio de explosivos.</Text>
@@ -559,7 +559,7 @@
       <Text>Richard Francis Burton</Text>
     </Row>
     <Row Tag="TXT_KEY_EXPLORER_CAILLIE">
-      <Text>Rene Caillie</Text>
+      <Text>René Caillié</Text>
     </Row>
     <Row Tag="TXT_KEY_EXPLORER_CAPELO">
       <Text>Hermenegildo Capelo</Text>
@@ -646,7 +646,7 @@
       <Text>Alexandre de Serpa Pinto</Text>
     </Row>
     <Row Tag="TXT_KEY_EXPLORER_SILVA_PORTO">
-      <Text>Antonio da Silva Porto</Text>
+      <Text>António da Silva Porto</Text>
     </Row>
     <Row Tag="TXT_KEY_EXPLORER_SPEKE">
       <Text>John Hanning Speke</Text>

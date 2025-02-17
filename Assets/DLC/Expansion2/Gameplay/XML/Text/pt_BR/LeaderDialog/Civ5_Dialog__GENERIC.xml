@@ -14,7 +14,7 @@
 			<Text>Chegou ao meu conhecimento que eu possa ter atacado {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Embora não fosse meu objetivo estar em desacordo com o seu império, este foi considerado um curso de ação necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
-			<Text>Fui informado que meu império iniciou um ataque contra {@1_MinorCivName}. Eu lhe asseguro que isso não foi de propósito e espero que isso não sirva para nos separar.</Text>
+			<Text>Fui informado de que meu império iniciou um ataque contra {@1_MinorCivName}. Eu lhe asseguro que isso não foi de propósito e espero que isso não sirva para nos separar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_1">
 			<Text>Deveríamos considerar uma troca de embaixadas, o que permitiria uma diplomacia mais avançada entre os nossos povos.</Text>
@@ -29,16 +29,16 @@
 			<Text>Eu ouvi falar sobre o que você fez com {@1_MinorCivName}. Você não percebeu que eles estão sob minha proteção? Não me provoque mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
-			<Text>Recentemente, exigimos tributos a {@1_MinorCivName} e eles deram. Você prometeu protegê-los contra tais coisas, mas nós dois sabemos que você não é capaz de fazer isso.</Text>
+			<Text>Recentemente, exigimos tributo a {@1_MinorCivName} e eles deram. Você prometeu protegê-los contra tais coisas, mas nós dois sabemos que você não é capaz de fazer isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
-			<Text>Sua amiguinha {@1_MinorCivName} é tão fácil de intimidar. Deram-nos as nossas exigências de tributo e eu não acredito que você esteja em posição de fazer qualquer coisa sobre isso.</Text>
+			<Text>Sua amiguinha {@1_MinorCivName} é tão fácil de intimidar. Deram-nos o que exigimos de tributo e eu não acredito que você esteja em posição de fazer qualquer coisa sobre isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_1">
 			<Text>Chegou ao meu conhecimento que eu possa ter intimidado {@1_MinorCivName}, que está sob sua proteção. Espero que você coloque as necessidades deles acima das minhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_2">
-			<Text>Fui informado que os meus exércitos exigiram tributos de {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Eu lhe asseguro que isso não foi de propósito e espero que isso não sirva para nos separar.</Text>
+			<Text>Fui informado de que os meus exércitos exigiram tributo de {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Eu lhe asseguro que isso não foi de propósito e espero que isso não sirva para nos separar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
 			<Text>Saudações calorosas, sábio líder! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_FREEDOM}. O mundo independente vai ser mais forte, com mais uma nação para nos ajudar na luta contra a opressão!</Text>
@@ -47,13 +47,13 @@
 			<Text>Saudações, camarada! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_ORDER}. Talvez possamos encontrar algumas oportunidades para ajudar uns aos outros durante o próximo Plano de 5 anos dos nossos impérios!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
-			<Text>Bem-vindo grande imperador! Tenho o prazer de ver que você também optou seguir o caminho da {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
+			<Text>Bem-vindo, grande imperador! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
 			<Text>Como é que um de seus sujos agentes de alguma forma roubou um dos nossos segredos tecnológicos básicos? Estas podem ser as últimas palavras que falamos em paz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
-			<Text>Estou disposto a esquecer de seu recente roubo de um dos meus segredos tecnológicos com a promessa solene de que isso não vai acontecer novamente.</Text>
+			<Text>Estou disposto a esquecer seu recente roubo de um dos meus segredos tecnológicos com a promessa solene de que isso não vai acontecer novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
 			<Text>Estou feliz que você concordou em parar com esses pequenos roubos.</Text>
@@ -74,7 +74,7 @@
 			<Text>Nossos espiões descobriram que {1_PlayerName} está tramando contra você. Esperamos que você compartilhe qualquer intriga que seus agentes descobrirem contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
-			<Text>Nossos espiões descobriram que {1_PlayerName} está em marchando com um exército para atacar sorrateiramente sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você compartilhe qualquer intriga que seus agentes descobrirem contra nós.</Text>
+			<Text>Nossos espiões descobriram que {1_PlayerName} está marchando com um exército para atacar sorrateiramente sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você compartilhe qualquer intriga que seus agentes descobrirem contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
 			<Text>Nossos espiões descobriram que {1_PlayerName} está marchando com um exército em seu caminho para um ataque furtivo. Esperamos que você compartilhe qualquer intriga que seus agentes descobrirem contra nós.</Text>
@@ -86,22 +86,22 @@
 			<Text>Nossos espiões descobriram que {1_PlayerName} embarcou um exército com escoltas navais para um ataque furtivo contra sua civilização. Esperamos que você compartilhe qualquer intriga que seus agentes descobrirem contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
-			<Text>Matamos seu espião, já vez que estava tentando roubar de nós. Da minha experiência, é muito menos perigoso ler um livro e tentar aprender alguma coisa sozinho.</Text>
+			<Text>Matamos seu espião, já que estava tentando roubar de nós. Pela minha experiência, é muito menos perigoso ler um livro e tentar aprender alguma coisa sozinho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
 			<Text>Lamento qualquer confusão causada pela atividade recente do nosso agente. Por favor, deixe qualquer sentimento hostil com o falecido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CONFRONT_YOU_KILLED_MY_SPY_1">
-			<Text>Olá! Você está aqui por causa aquele pequeno incidente de espionagem?</Text>
+			<Text>Olá! Você está aqui por causa daquele pequeno incidente de espionagem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_1">
-			<Text>Uma das minhas cidades recentemente foi assaltada e segredos tecnológicos foram roubados. Posso ter certeza de que você não teve nada a ver com isso?</Text>
+			<Text>Uma das minhas cidades foi recentemente assaltada e segredos tecnológicos foram roubados. Posso ter certeza de que você não teve nada a ver com isso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
 			<Text>Estou convencido de que você está espionando minha grande civilização. Você deve parar, antes que alguém se machuque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_STOP_CONVERSIONS_1">
-			<Text>Temos tomado conhecimento das conversões religiosas que vocês estão realizando dentro de nosso império. Pedimos que acabe com essa atividade imediatamente!</Text>
+			<Text>Tomamos conhecimento das conversões religiosas que vocês estão realizando dentro de nosso império. Pedimos que acabem com essa atividade imediatamente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
 			<Text>Eu entendo que algumas ações não podem ser perdoadas.</Text>
@@ -143,7 +143,7 @@
 			<Text>Eu achei a sua proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} muito preocupante. Certamente há uma maneira melhor de resolver nossas diferenças do que politicagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
-			<Text>Graças à ajuda de seus delegados, a nossa proposta recente {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi bem sucedida. Estamos ansiosos para o seu contínuo apoio, e tentaremos devolver o favor.</Text>
+			<Text>Graças à ajuda de seus delegados, a nossa recente proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi bem-sucedida. Estamos ansiosos para o seu contínuo apoio, e tentaremos devolver o favor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
 			<Text>Nossa proposta {1_LeagueName: gender masculine?ao; other?à;} {1_LeagueName} foi aprovada com o apoio de sua delegação. Juntos podemos realizar grandes coisas.</Text>
@@ -171,7 +171,7 @@
 			<Text>Muito bem. Eu vou acompanhar a situação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
-			<Text>{2_MajorCivName:textkey} {2: plural 1?anuncia; other?anunciam;} ao mundo que agora {2: plural 1?protege; other?protegem;} {1_MinorCivName:textkey}. Atacar a Cidade-Estado ou exigir tributo vai prejudicar gravemente as relações e pode levar à guerra.</Text>
+			<Text>{2_MajorCivName:textkey} {2: plural 1?anuncia; other?anunciam;} ao mundo que agora {2: plural 1?protege; other?protegem;} {1_MinorCivName:textkey}. Atacar a Cidade-Estado ou exigir tributo prejudicará gravemente as relações e pode levar à guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_1">
 			<Text>Não estamos dispostos a lhe oferecer o suficiente para fazer deste um acordo justo.</Text>
@@ -180,10 +180,10 @@
 			<Text>Qualquer acordo que sugerirmos resultaria em uma troca injusta para você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGINGX_1">
-			<Text>Nós percebemos que você está procurando artefatos culturais dentro das nossas fronteiras. Isso precisa parar.</Text>
+			<Text>Percebemos que você está procurando artefatos culturais dentro das nossas fronteiras. Isso precisa parar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGING_DISAGREE_1">
-			<Text>Desculpe, nossos planos são importantes demais para serem parados por uma bugiganga.</Text>
+			<Text>Desculpe, nossos planos são importantes demais para serem interrompidos por uma bugiganga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGING_AGREE_1">
 			<Text>Como quiser, vamos parar de procurar os artefatos dentro de suas fronteiras.</Text>
@@ -198,16 +198,16 @@
 			<Text>Eu vou escavar onde eu quiser.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_STOP_DIGGING">
-			<Text>Nós não pretendíamos ofender ao tentarmos roubar a sua herança cultural.</Text>
+			<Text>Nós não pretendíamos ofendê-lo ao tentarmos roubar a sua herança cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
 			<Text>O povo de minha nação tem sido ofendido por suas mensagens burguesas de liberdade e igualdade. Eles parecem acreditar que eles têm o direito de se manifestar nas ruas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
-			<Text>Sua conspiração ideológica tem nos amedrontado com uma revolução por Ordem em nossa terra. Será que essas greves de trabalhadores nunca acabam?</Text>
+			<Text>Sua conspiração ideológica tem nos amedrontado com uma revolução pela Ordem em nossa terra. Será que essas greves de trabalhadores nunca acabarão?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
-			<Text>Sua mensagem de força através de poder supremo tem ressoado em o nosso povo. Devemos imitar seu temido estado totalitário?</Text>
+			<Text>Sua mensagem de força através de poder supremo tem ressoado em nosso povo. Devemos imitar seu temido estado totalitário?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
 			<Text>Seus cidadãos clamam pelas liberdades humanas. Derrube este muro de opressão e adira à causa da liberdade e do progresso!</Text>
@@ -219,10 +219,10 @@
 			<Text>Seus cidadãos inquietos estão necessitando de uma liderança forte. Junte-se a nós para escrevermos a história, em vez de ficar sentado com as mãos cruzadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_FREEDOM_1">
-			<Text>Com celebração, nós saudamo-lo por se juntar a nós em nossa busca pela liberdade. Não pergunte o que podemos fazer individualmente, e sim o que podemos fazer juntos.</Text>
+			<Text>Com celebração, nós o saudamos por se juntar a nós em nossa busca pela liberdade. Não pergunte o que podemos fazer individualmente, e sim o que podemos fazer juntos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_ORDER_1">
-			<Text>Dê-nos uma criança por oito anos e ela vai ser um socialista para sempre. Sua classe trabalhadora já ouviu esta verdade, agora nós recebemo-lo à nossa luta revolucionária pela Ordem.</Text>
+			<Text>Dê-nos uma criança por oito anos e ela será uma socialista para sempre. Sua classe trabalhadora já ouviu esta verdade, agora nós o recebemos à nossa luta revolucionária pela Ordem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_AUTOCRACY_1">
 			<Text>Você não vai se arrepender de sua mudança para a {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Tudo dentro do Estado, nada fora do Estado, nada contra o Estado. Apenas os fortes líderes de Estados fortes podem levar juntos o mundo a uma nova era gloriosa.</Text>
@@ -231,7 +231,7 @@
 			<Text>Nossos cidadãos estão comprando seus jeans e ouvindo a sua música pop. Preocupa-me que o resto do mundo também vá sucumbir à influência de sua cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_INFLUENTIAL_ON_HUMAN_1">
-			<Text>Nós estamos contentes de ver que as vendas de nossas lembranças para turistas de suas terras atingiram níveis recordes. As incríveis obras de nossa civilização são verdadeiramente inspiradoras!</Text>
+			<Text>Estamos contentes de ver que as vendas de nossas lembranças para turistas de suas terras atingiram níveis recordes. As incríveis obras de nossa civilização são verdadeiramente inspiradoras!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

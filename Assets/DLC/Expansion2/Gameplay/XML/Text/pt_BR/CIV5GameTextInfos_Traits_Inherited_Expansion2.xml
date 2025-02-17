@@ -15,19 +15,19 @@
 			<Text>Conhecimento Druídico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
-			<Text>Escolha uma Crença a mais quando você fundar uma Religião.</Text>
+			<Text>Escolha uma Crença a mais quando fundar uma Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
 			<Text>Patriarca de Constantinopla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
-			<Text>Ganhe 90 de [ICON_INFLUENCE] Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
+			<Text>Ganha 90 de [ICON_INFLUENCE] Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
 			<Text>Prêmio Nobel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-			<Text>Arrase cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
+			<Text>Arrasa cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicia com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
 			<Text>Flagelo de Deus</Text>
@@ -36,7 +36,7 @@
 			<Text>Pode gastar [ICON_GOLD] Ouro para anexar ou transformar em fantoche uma Cidade-Estado que esteja aliada a você por 5 turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
-			<Text>Matrimônio diplomático</Text>
+			<Text>Matrimônio Diplomático</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
 			<Text>Todas as cidades costeiras ganham um Ancoradouro gratuito. As unidades podem se movimentar sobre montanhas após o primeiro Grande General ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a montanha.</Text>
@@ -54,10 +54,10 @@
 			<Text>Bônus de combate (+20%) quando está lutando contra civilizações com mais cidades que a Etiópia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT">
-			<Text>Espírito de Adua</Text>
+			<Text>Espírito de Adwa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
-			<Text>Receba o triplo de [ICON_GOLD] Ouro de Acampamentos Bárbaros e cidades saqueadas. Unidades terrestres ganham as promoções Canoas de Guerra e Anfíbio, fortalecendo-os quando estão embarcados.</Text>
+			<Text>Recebe o triplo de [ICON_GOLD] Ouro de Acampamentos Bárbaros e cidades saqueadas. Unidades terrestres ganham as promoções Canoas de Guerra e Anfíbio, fortalecendo-os quando estão embarcados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
 			<Text>Sete Cidades de Ouro</Text>

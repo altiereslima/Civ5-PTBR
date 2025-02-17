@@ -5,7 +5,7 @@
 			<Text>Exploradores</Text>
 		</Row>
     <Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_DESC">
-      <Text>Pacote de Mapa Exploradores</Text>
+      <Text>Pacote de Mapas: Exploradores</Text>
     </Row>
 	</Language_pt_BR>
 </GameData>

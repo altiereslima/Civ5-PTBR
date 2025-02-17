@@ -14,7 +14,7 @@
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_DAWN_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Os europeus haviam reivindicado a maioria das terras nativas em outros lugares, mas não o continente sombrio da África. Impulsionados pelo senso de aventura, desejo por riqueza e sede de conhecimento, exploradores e colonos invadiram a África a partir do norte e oeste. Lá, eles encontraram reinos perdidos, criaturas exóticas e impérios nativos que desafiaram seus sonhos de colonização. Você pode reivindicar as riquezas da África como europeu? Ou tentará repelir os intrusos?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Alcance uma alta pontuação após 100 turnos. Cada Maravilha natural encontrada concede +4 de [ICON_HAPPINESS_1]Felicidade. Os europeus (Bélgica, Inglaterra, França, Alemanha, Itália, Portugal) ganham Pontos de Vitória se forem os primeiros a descobrir uma Maravilha Natural e por recuperar Artefatos. Ganhar [ICON_GOLD]Ouro marca Pontos de Vitória para os Norte-Africanos (Egito, Marrocos, Otomanos); Sub-saarianos (Etiópia, Boers, Zulu) marcam por [ICON_CULTURE]Cultura. O controle do Canal de Suez e da linha ferroviária mais longa entre duas cidades também marca Pontos de Vitória. A terra vale o dobro.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O interior da África muda a cada vez que você joga. Apenas as civilizações europeias podem embarcar, construir ferrovias e escavar Artefatos, e elas não podem declarar guerra umas às outras. Da mesma forma, as civilizações norte-africanas também não podem declarar guerra umas às outras.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Os europeus haviam reivindicado a maioria das terras nativas em outros lugares, mas não o continente sombrio da África. Impulsionados pelo senso de aventura, desejo por riqueza e sede de conhecimento, exploradores e colonos invadiram a África a partir do norte e oeste. Lá, eles encontraram reinos perdidos, criaturas exóticas e impérios nativos que desafiaram seus sonhos de colonização. Você pode reivindicar as riquezas da África como europeu? Ou tentará repelir os intrusos?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Alcance uma alta pontuação após 100 turnos. Cada Maravilha Natural encontrada concede +4 de [ICON_HAPPINESS_1]Felicidade. Os europeus (Bélgica, Inglaterra, França, Alemanha, Itália, Portugal) ganham Pontos de Vitória se forem os primeiros a descobrir uma Maravilha Natural e por recuperar Artefatos. Ganhar [ICON_GOLD]Ouro marca Pontos de Vitória para os Norte-Africanos (Egito, Marrocos, Otomanos); Subsaarianos (Etiópia, Boers, Zulu) marcam por [ICON_CULTURE]Cultura. O controle do Canal de Suez e da linha ferroviária mais longa entre duas cidades também marca Pontos de Vitória. A terra vale o dobro.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O interior da África muda a cada vez que você joga. Apenas as civilizações europeias podem embarcar, construir ferrovias e escavar Artefatos, e elas não podem declarar guerra umas às outras. Da mesma forma, as civilizações norte-africanas também não podem declarar guerra umas às outras.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BRIEFING_BUTTON">
@@ -100,7 +100,7 @@
 			<Text>Bem-vindo ao Congo. O tempo é um dos nossos maiores recursos; espero que não desperdice o meu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_3">
-			<Text>O que o traz ao Congo, meu amigo? Sou Leopoldo, temos negócios para conduzir?</Text>
+			<Text>O que o traz ao Congo, meu amigo? Sou Leopoldo, temos negócios a conduzir?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_WINWAR_1">
 			<Text>Com orientação cuidadosa, a força do Congo brilha diante de todas as adversidades.</Text>
@@ -118,7 +118,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_TEXT_1">
-			<Text>O único monarca europeu a possuir pessoalmente uma colônia, Leopoldo II (governou de 1865 a 1909) adquiriu a vasta bacia do Congo por meio de tratados com diversos chefes tribais que transferiram suas terras para o seu controle pessoal. Eventualmente, sua administração provou ser tão implacável que a opinião internacional forçou o governo belga a assumir a administração do Congo como uma colônia.</Text>
+			<Text>O único monarca europeu a possuir pessoalmente uma colônia, Leopoldo II (governou de 1865 a 1909) adquiriu a vasta bacia do Congo por meio de tratados com diversos chefes tribais que transferiram suas terras para o seu controle pessoal. Sua administração provou ser tão implacável que a opinião internacional forçou o governo belga a assumir a administração do Congo como uma colônia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH}</Text>
@@ -139,22 +139,22 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_TEXT_1">
-			<Text>O longo reinado da Rainha Vitória (1837-1901) foi caracterizado pela expansão e consolidação das possessões africanas do Império, marcado por desastres militares e vitórias decisivas. A política britânica na África foi dominada pela preocupação de estabelecer uma linha contígua de colônias e estados clientes de Cairo a Cidade do Cabo, um objetivo que finalmente alcançou quando adquiriu as possessões alemãs na África Oriental no final da Primeira Guerra Mundial.</Text>
+			<Text>O longo reinado da Rainha Vitória (1837-1901) foi caracterizado pela expansão e consolidação das possessões africanas do Império, marcado por desastres militares e vitórias decisivas. A política britânica na África foi dominada pela preocupação de estabelecer uma linha contígua de colônias e estados clientes do Cairo à Cidade do Cabo, um objetivo que finalmente alcançou quando adquiriu as possessões alemãs na África Oriental no final da Primeira Guerra Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_1">
-			<Text>Bem-vindo. Sou Jules Grevy da França, amante de zebras.</Text>
+			<Text>Boas-vindas. Sou Jules Grévy da França, amante de zebras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_2">
-			<Text>Bem-vindo, Estranho! Sou Jules Grevy, Presidente da França! Sou leal aos meus amigos, morte aos meus inimigos. Qual você será?</Text>
+			<Text>Boas-vindas, Estranho! Sou Jules Grévy, Presidente da França! Sou leal aos meus amigos, morte aos meus inimigos. Qual você será?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_3">
-			<Text>Ah. Encontramo-nos finalmente. Sou Jules Grevy, Presidente da França. Venha: vamos discutir a divisão da África entre nossas duas grandes nações.</Text>
+			<Text>Ah. Encontramo-nos finalmente. Sou Jules Grévy, Presidente da França. Venha: vamos discutir a divisão da África entre nossas duas grandes nações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_4">
-			<Text>Saudações. Sou Jules Grevy da França. Tenho pouco tempo para amenidades ociosas; o que o traz aqui?</Text>
+			<Text>Saudações. Sou Jules Grévy da França. Tenho pouco tempo para amenidades ociosas; o que o traz aqui?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_SUBTITLE">
 			<Text>Presidente da França</Text>
@@ -166,7 +166,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_TEXT_1">
-			<Text>Presidente da Terceira República (1879-1887), Jules Grevy foi um nacionalista feroz que promoveu a expansão da França na África, começando com a aquisição da Tunísia em 1881. Antes de ser forçado a renunciar após um escândalo familiar, Grevy estabeleceu a política de mission civilisatrice da França, o princípio de que era o destino da Europa trazer civilização aos "ignorantes" povos nativos da África.</Text>
+			<Text>Presidente da Terceira República (1879-1887), Jules Grévy foi um nacionalista feroz que promoveu a expansão da França na África, começando com a aquisição da Tunísia em 1881. Antes de ser forçado a renunciar após um escândalo familiar, Grévy estabeleceu a política de *mission civilisatrice* da França, o princípio de que era o destino da Europa trazer civilização aos "ignorantes" povos nativos da África.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK}</Text>
@@ -181,7 +181,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_TEXT_1">
-			<Text>Embora o chanceler alemão Bismarck (serviu de 1871 a 1890) tenha visto o interesse alemão na África como distração, ele estava intensamente interessado e intimamente envolvido na corrida pela África por meio da Conferência de Berlim que ele organizou em 1884 para resolver formalmente várias reivindicações coloniais. Além de resolver várias disputas de fronteira, a Conferência de Berlim, sob a mediação de Bismarck, determinou que o Congo era propriedade privada de Leopoldo II, que as 14 nações signatárias teriam livre comércio em todo o Congo, que os rios Níger e Congo estavam abertos a todo tráfego, que a escravidão seria abolida nas terras islâmicas e formalizou os procedimentos internacionais para estabelecer uma reivindicação colonial.</Text>
+			<Text>Embora o chanceler alemão Bismarck (serviu de 1871 a 1890) tenha visto o interesse alemão na África como distração, ele estava intensamente interessado e intimamente envolvido na corrida pela África por meio da Conferência de Berlim, que ele organizou em 1884, para resolver formalmente várias reivindicações coloniais. Além de resolver várias disputas de fronteira, a Conferência de Berlim, sob a mediação de Bismarck, determinou que o Congo era propriedade privada de Leopoldo II, que as 14 nações signatárias teriam livre comércio em todo o Congo, que os rios Níger e Congo estavam abertos a todo tráfego, que a escravidão seria abolida nas terras islâmicas e formalizou os procedimentos internacionais para estabelecer uma reivindicação colonial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS}</Text>
@@ -217,7 +217,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_TEXT_1">
-			<Text>Um dos arquitetos da unificação italiana, Garibaldi (viveu de 1807 a 1882) foi general, político, estadista e fervoroso nacionalista. Como nacionalista, Garibaldi foi incisivo em seu apoio ao renascimento do mare nostrum, e em seus últimos anos emprestou seu nome e prestígio a vários movimentos políticos que agitavam pela participação italiana na corrida pela África, começando com a primeira tentativa fracassada da Itália de reivindicar a Tunísia, que foi frustrada pela França e Inglaterra em 1881.</Text>
+			<Text>Um dos arquitetos da unificação italiana, Garibaldi (viveu de 1807 a 1882) foi general, político, estadista e fervoroso nacionalista. Como nacionalista, Garibaldi foi incisivo em seu apoio ao renascimento do 'mare nostrum', e em seus últimos anos emprestou seu nome e prestígio a vários movimentos políticos que agitavam pela participação italiana na corrida pela África, começando com a primeira tentativa fracassada da Itália de reivindicar a Tunísia, que foi frustrada pela França e Inglaterra em 1881.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I}</Text>
@@ -247,7 +247,7 @@
 			<Text>Saudações. Sou Ismael Pasha, controlador do Canal de Suez, que conecta o Mediterrâneo ao Mar Vermelho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_SUBTITLE">
-			<Text>Caide do Egito e Sudão</Text>
+			<Text>Quediva do Egito e Sudão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_LIVED">
 			<Text>1830-1895 d.C.</Text>
@@ -256,7 +256,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_TEXT_1">
-			<Text>Conhecido como Ismael, o Magnífico, Ismael Pasha tornou-se Caide do Egito e do Sudão em 1867, quando a Sublime Porta Otomana concedeu um firman reconhecendo seu governo em troca de um aumento no tributo. Apesar de suas reformas e programas de urbanização, uma guerra custosa com a Etiópia (1875-1884) resultou na venda das ações de seu país no recém-inaugurado Canal de Suez, e Ismael Pasha foi deposto do poder em 1895 após uma investigação do governo britânico sobre as finanças do Egito forçar sua abdicação em favor de uma monarquia constitucional.</Text>
+			<Text>Conhecido como Ismael, o Magnífico, Ismael Pasha tornou-se Quediva do Egito e do Sudão em 1867, quando a Sublime Porta Otomana concedeu um firman reconhecendo seu governo em troca de um aumento no tributo. Apesar de suas reformas e programas de urbanização, uma guerra custosa com a Etiópia (1875-1884) resultou na venda das ações de seu país no recém-inaugurado Canal de Suez, e Ismael Pasha foi deposto do poder em 1895 após uma investigação do governo britânico sobre as finanças do Egito forçar sua abdicação em favor de uma monarquia constitucional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR}</Text>
@@ -277,7 +277,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_TEXT_1">
-			<Text>Entre os sultões mais bem-sucedidos da dinastia Alaouita, Mulay Hassan I (governou de 1873 a 1894) instituiu amplas reformas militares e administrativas para fortalecer o Marrocos em um momento em que grande parte do Norte da África estava caindo sob o controle europeu. Embora tanto a França quanto a Espanha estabelecessem enclaves e exigissem um status privilegiado, Hassan mostrou-se hábil em usar a posição estratégica do Marrocos para jogar as potências europeias uma contra a outra, garantindo a independência de sua nação até depois de sua morte.</Text>
+			<Text>Entre os sultões mais bem-sucedidos da dinastia Alauíta, Mulay Hassan I (governou de 1873 a 1894) instituiu amplas reformas militares e administrativas para fortalecer o Marrocos em um momento em que grande parte do Norte da África estava caindo sob o controle europeu. Embora tanto a França quanto a Espanha estabelecessem enclaves e exigissem um status privilegiado, Hassan mostrou-se hábil em usar a posição estratégica do Marrocos para jogar as potências europeias uma contra a outra, garantindo a independência de sua nação até depois de sua morte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN}</Text>
@@ -301,43 +301,43 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_TEXT_1">
-			<Text>Abdul Hamid II (governou de 1876 a 1909), Califa dos Fiéis, 34º sultão do Império Otomano, foi o último sultão a exercer controle efetivo sobre os territórios africanos do império. Após a vitória russa em 1878, o Congresso de Berlim forçou Abdul Hamid a "alugar" Chipre para a Grã-Bretanha e permitir que as forças britânicas ocupassem o Egito e o Sudão em 1882 para "restaurar a ordem" nessas contenciosas províncias otomanas, um papel que o Império Britânico não abdicou até 1922.</Text>
+			<Text>Abdul Hamid II (governou de 1876 a 1909), Califa dos Fiéis, 34º sultão do Império Otomano, foi o último sultão a exercer controle efetivo sobre os territórios africanos do império. Após a vitória russa em 1878, o Congresso de Berlim forçou Abdul Hamid a "alugar" Chipre para a Grã-Bretanha e permitir que as forças britânicas ocupassem o Egito e o Sudão em 1882 para "restaurar a ordem" nessas províncias otomanas contenciosas, um papel que o Império Britânico não abdicou até 1922.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DECLAREWAR_2">
-			<Text>O povo Boer falou. Sua agressão desenfreada não nos deixa escolha: prepare-se para a guerra!</Text>
+			<Text>O povo Bôer falou. Sua agressão desenfreada não nos deixa escolha: prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DEFEATED_3">
-			<Text>Você nos derrotou - por enquanto. Mas as Repúblicas Boers voltarão!</Text>
+			<Text>Você nos derrotou - por enquanto. Mas as Repúblicas Bôeres voltarão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_1">
-			<Text>O povo das Repúblicas Boers o recebe. Confio que você é um amigo da liberdade?</Text>
+			<Text>O povo das Repúblicas Bôeres o recebe. Confio que você é um amigo da liberdade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_2">
-			<Text>Em nome dos cidadãos das Repúblicas Boers, dou-lhe as boas-vindas.</Text>
+			<Text>Em nome dos cidadãos das Repúblicas Bôeres, dou-lhe as boas-vindas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_3">
-			<Text>Bem-vindo às Repúblicas Boers!</Text>
+			<Text>Boas-vindas às Repúblicas Bôeres!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Não acredito que o comércio, conforme está configurado atualmente, seja do melhor interesse das Repúblicas Boers. Você se importaria de melhorar sua oferta?</Text>
+			<Text>Não acredito que o comércio, conforme está configurado atualmente, seja do melhor interesse das Repúblicas Bôeres. Você se importaria de melhorar sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
-			<Text>Sua proposição é aceitável para as Repúblicas Boers.</Text>
+			<Text>Sua proposição é aceitável para as Repúblicas Bôeres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
-			<Text>Saudações. As Repúblicas Boers podem interessá-lo em um comércio?</Text>
+			<Text>Saudações. As Repúblicas Bôeres podem interessá-lo em um comércio?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_OPEN_BORDERS_EXCHANGE_1">
 			<Text>A abertura das fronteiras entre nossas duas nações ajudaria a cimentar ainda mais nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
-			<Text>Não posso dar nosso tesouro de maneira tão leviana, mesmo aos amigos. Não sou um tirano: devo prestar contas ao povo das Repúblicas Boers.</Text>
+			<Text>Não posso dar nosso tesouro de maneira tão leviana, mesmo aos amigos. Não sou um tirano: devo prestar contas ao povo das Repúblicas Bôeres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_WINWAR_1">
-			<Text>Espero que você tenha aprendido que as Repúblicas Boers não devem ser subestimadas!</Text>
+			<Text>Espero que você tenha aprendido que as Repúblicas Bôeres não devem ser subestimadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_SUBTITLE">
 			<Text>Presidente da República Sul-Africana</Text>
@@ -349,13 +349,13 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TEXT_1">
-			<Text>Afetuosamente conhecido como "Oom Paul," Stephanus Paulus Kruger foi presidente do Estado da República do Transvaal (1883-1900) e ganhou fama internacional como líder da resistência Boer ao imperialismo britânico na África do Sul. Um hábil comandante militar, Kruger também era habilidoso em negociações, como as que encerraram a Primeira Guerra Anglo-Boer em 1881. Servindo como presidente pela quarta vez, à medida que as forças britânicas se aproximavam da capital durante a Segunda Guerra Anglo-Boer, Kruger fugiu para o exílio, nunca mais voltando à África.</Text>
+			<Text>Afetuosamente conhecido como "Oom Paul," Stephanus Paulus Kruger foi presidente do Estado da República do Transvaal (1883-1900) e ganhou fama internacional como líder da resistência Bôer ao imperialismo britânico na África do Sul. Um hábil comandante militar, Kruger também era habilidoso em negociações, como as que encerraram a Primeira Guerra Anglo-Bôer em 1881. Servindo como presidente pela quarta vez, à medida que as forças britânicas se aproximavam da capital durante a Segunda Guerra Anglo-Bôer, Kruger fugiu para o exílio, nunca mais voltando à África.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_1">
-			<Text>Mil boas-vindas à nossa bela nação. Eu sou Menelik II, descendente da rainha de Sabá e Imperador da Etiópia, seu humilde servo.</Text>
+			<Text>Mil boas-vindas à nossa bela nação. Eu sou Menelik II, descendente da Rainha de Sabá e Imperador da Etiópia, seu humilde servo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_3">
 			<Text>Bem-vindo, amigo, às minhas terras de paz e prosperidade. Sou o Rei dos Reis, mas você pode me chamar de Menelik II.</Text>
@@ -394,7 +394,7 @@
 		<!-- Technologies-->
 		<!-- Improvements -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_AFRICA_TEXT">
-			<Text>Um {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG} só pode ser construído por um {TXT_KEY_UNIT_ARCHAEOLOGIST} em um {TXT_KEY_RESOURCE_ARTIFACTS}. As escavações da tumba de Tutancamon são um exemplo de um importante {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}. Ao construir a Escavação, seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobrirá que tipo de Artefato está enterrado nesse local. O artefato é então enviado para a Europa para pontos de vitória bônus.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG} só pode ser construída por um {TXT_KEY_UNIT_ARCHAEOLOGIST} em um {TXT_KEY_RESOURCE_ARTIFACTS}. As escavações da tumba de Tutancâmon são um exemplo de uma importante {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}. Ao construir a Escavação, seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobrirá que tipo de Artefato está enterrado nesse local. O artefato é então enviado para a Europa para pontos de vitória bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
 			<Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em um {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que envia o artefato para a Europa para pontos de vitória bônus.</Text>
@@ -414,10 +414,10 @@
 			<Text>O Museu Estatal é uma Edificação Exclusiva dos Boers que aumenta a produção de [ICON_CULTURE]Cultura da cidade (especialmente quando abriga Grandes Obras). Ele já vem com 1 Grande Obra pré-construída. Civilizações europeias que capturarem uma cidade com um Museu Estatal ganharão Pontos de Vitória por capturar artefato(s). Substitui o Museu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAATSMUSEUM_TEXT">
-			<Text>O primeiro Museu Estatal foi construído em 1892 d.C. em Pretória, com o propósito declarado de "melhorar e manter a consciência pública em relação aos aspectos culturais de valor", focando especificamente na história, etnografia, arqueologia e ciências naturais da região. Quando a Guerra Anglo-Boer estourou, os aspectos patrióticos do Museu Estatal se tornaram ainda mais pronunciados, já que os cidadãos nas comando Boer foram incentivados a doar objetos de memorabilia dos campos de batalha. Após a derrota dos Boers, os Museus Estatais não foram mais apoiados com fundos públicos; em vez disso, foram financiados por comitês privados em cidades de todo o Transvaal e Estado Livre de Orange.</Text>
+			<Text>O primeiro Museu Estatal foi construído em 1892 d.C. em Pretória, com o propósito declarado de "melhorar e manter a consciência pública em relação aos aspectos culturais de valor", focando especificamente na história, etnografia, arqueologia e ciências naturais da região. Quando a Guerra Anglo-Boer estourou, os aspectos patrióticos do Museu Estatal se tornaram ainda mais pronunciados, já que os cidadãos sob comando Boer foram incentivados a doar objetos e recordações dos campos de batalha. Após a derrota dos Boers, os Museus Estatais não foram mais apoiados com fundos públicos; em vez disso, foram financiados por comitês privados em cidades de todo o Transvaal e Estado Livre de Orange.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
-			<Text>O Banho Turco é uma Edificação Exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD]Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD]Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
+			<Text>O Banho Turco é uma Edificação Exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD] Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD] Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD] Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
 			<Text>A cidade deve ter um banco.</Text>
@@ -433,7 +433,7 @@
 			<Text>Substitui o Fuzileiro para os Belgas. Recebe a Promoção de Terreno Acidentado, que permite lutar melhor em terrenos difíceis. Esta unidade também possui uma promoção que aumenta sua força contra unidades feridas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FORCE_PUBLIQUE_TEXT">
-			<Text>A Força Pública serviu como uma gendarmaria e força militar no Congo Belga de 1908 a 1960, quando se tornou o núcleo do Exército Congolês após a independência. Composta por africanos de etnias mistas, principalmente do Haut-Congo, Zanzibar e outras colônias belgas, a Força Pública era comandada por brancos, veteranos do Exército Belga ou mercenários europeus. Espalhada pela região em pequenos destacamentos, a força atuava contra caçadores furtivos, traficantes de escravos árabes e tribos rebeldes, além de servir nas campanhas da África Oriental nas duas guerras mundiais.</Text>
+			<Text>A Força Pública serviu como uma gendarmaria e força militar no Congo Belga de 1908 a 1960, quando se tornou o núcleo do Exército Congolês após a independência. Composta por africanos de etnias mistas, principalmente do Alto-Congo, Zanzibar e outras colônias belgas, a Força Pública era comandada por brancos, veteranos do Exército Belga ou mercenários europeus. Espalhada pela região em pequenos destacamentos, a força atuava contra caçadores furtivos, traficantes de escravos árabes e tribos rebeldes, além de servir nas campanhas da África Oriental nas duas guerras mundiais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY2">
 			<Text>A Legião Estrangeira é a unidade francesa única, que substitui o Fuzileiro. Ela recebe um bônus de combate significativo quando opera fora de suas fronteiras, tornando-a uma excelente unidade para se lançar contra territórios inimigos. </Text>
@@ -484,13 +484,13 @@
 			<Text>Substituto europeu do {TXT_KEY_UNIT_ARCHAEOLOGIST}. Ele pode defender e atacar, ao contrário do {TXT_KEY_UNIT_ARCHAEOLOGIST}. Ele também pode mover-se através de terreno acidentado como se o terreno estivesse limpo. Ele não precisa de uma {TXT_KEY_BUILDING_UNIVERSITY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_EXPLORER_TEXT">
-			<Text>Embora as costas da África tenham sido exploradas por três séculos, só no início do século XIX d.C. é que as potências europeias iniciaram um esforço conjunto para explorar o interior do continente. Partindo de postos comerciais costeiros, missões e assentamentos coloniais, os exploradores ocidentais avançaram pelo interior em pequenas expedições em busca de maravilhas lendárias, civilizações nativas "perdidas" e conhecimento científico. Alguns, como David Livingston, eram missionários médicos; alguns, como Pietro di Brazza, buscavam aventura; e outros, como MacGregor Laird, eram comerciantes em busca de novas oportunidades de lucro. Seja qual for a motivação, os exploradores europeus desempenharam um papel importante na história da África.</Text>
+			<Text>Embora as costas da África tenham sido exploradas por três séculos, só no início do século XIX d.C. é que as potências europeias iniciaram um esforço conjunto para explorar o interior do continente. Partindo de postos comerciais costeiros, missões e assentamentos coloniais, os exploradores ocidentais avançaram pelo interior em pequenas expedições em busca de maravilhas lendárias, civilizações nativas "perdidas" e conhecimento científico. Alguns, como David Livingstone, eram missionários médicos; alguns, como Pietro di Brazza, buscavam aventura; e outros, como MacGregor Laird, eram comerciantes em busca de novas oportunidades de lucro. Seja qual for a motivação, os exploradores europeus desempenharam um papel importante na história da África.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RIFLED_CANNON_TEXT">
 			<Text>PLACEHOLDER</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RIFLED_CANNON_STRATEGY">
-			<Text>Uma unidade de cerco que fica entre um canhão e uma artilharia. Tem 3 de alcance, precisa se preparar e é mais forte que um canhão. Não consegue ver tão longe quanto outras unidades e deve ser protegida por outras unidades.</Text>
+			<Text>Uma unidade de cerco que fica entre o canhão e a artilharia. Tem 3 de alcance, precisa se preparar e é mais forte que um canhão. Não consegue ver tão longe quanto outras unidades e deve ser protegida por outras unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_RIFLED_CANNON">
 			<Text>Unidade de cerco entre Canhão e Artilharia.</Text>
@@ -549,10 +549,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Norte-Africanos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_GOLD]Ouro para cada unidade que você eliminar. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
-			<Text>Sub-Saarianos</Text>
+			<Text>Subsaarianos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Sub-Saarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_CULTURE]Cultura para cada unidade que você eliminar, exceto bárbaros. Permite as cidades construírem {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, e a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Subsaarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_CULTURE]Cultura para cada unidade que você eliminar, exceto bárbaros. Permite as cidades construírem {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, e a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
 			<Text>Táticas Avançadas de Cerco</Text>
@@ -673,19 +673,19 @@
 			<Text>Localizada acima de íngremes escarpas na confluência de dois rios na Nigéria, Sokoto foi a capital-fortaleza do Califado de Sokoto, que atingiu seu auge de poder e prestígio na década de 1820. Anteriormente, foi o centro de vários reinos islâmicos do Sudão pré-colonial, cujos registros históricos foram perdidos. Em 1827, o explorador Hugh Clapperton foi o primeiro europeu a descobrir a cidade. Após a conquista de Sokoto pelos ingleses em 1903, o califado foi desmantelado, com grande parte de seu território sendo adicionado à colônia britânica da Nigéria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUNKEYA_TEXT">
-			<Text>No final do século XIX, Msiri, filho de um comerciante do leste africano, estabeleceu a cidade de Bunkeya e construiu um império comercial. Sua tribo Bayeke dominou uma vasta parte da bacia do Congo oriental, negociando marfim, cobre, minério de ferro, sal e escravos com os árabes na costa em troca de armas e munições para manter seu reino. Preocupado quando os britânicos mostraram interesse na região, o rei Leopoldo III da Bélgica enviou três expedições para submeter Msiri. A terceira, lançada a partir de Zanzibar, forçou as forças Bayeke a recuarem de Bunkeya em 1891; Msiri foi morto pouco tempo depois.</Text>
+			<Text>No final do século XIX, Msiri, filho de um comerciante do leste africano, estabeleceu a cidade de Bunkeya e construiu um império comercial. Sua tribo Bayeke dominou uma vasta parte da bacia do Congo oriental, negociando marfim, cobre, minério de ferro, sal e escravos com os árabes na costa em troca de armas e munições para manter seu reino. Preocupado quando os britânicos mostraram interesse na região, o rei Leopoldo II da Bélgica enviou três expedições para submeter Msiri. A terceira, lançada a partir de Zanzibar, forçou as forças Bayeke a recuarem de Bunkeya em 1891; Msiri foi morto pouco tempo depois.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEGOU_TEXT">
 			<Text> Fundada pelo povo Soninke por volta do século XI d.C., a cidade-estado de Segou prosperou sob a liderança do rei Biton Coulibaly de 1712 a 1755. Principalmente um centro de comércio, teve relações econômicas próximas com Djenne, Tombuctu e Macina. Sob o governo de Mamary Coulibaly, a cidade se uniu a Djenne e Macina para formar o reino Bambara. Por volta de 1860, El Hadj Umar Tall conquistou Segou e converteu os habitantes ao Islã. Os franceses invadiram na década de 1890, ocupando o que era o antigo reino Bambara e tornando Segou o centro administrativo de seu Office du Niger.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BORNU_TEXT">
-			<Text>De 1380 a 1893, quando foi conquistado pelos sudaneses, o Império Bornu dominou a área que hoje é a Nigéria. Sucessor da dinastia Sayfawa, o rei de Kanem-Bornu, o habilidoso estadista Idris Alooma (1571-1603), levou o império ao seu auge de poder, extensão e prosperidade. As reformas administrativas e a genialidade militar de Alooma levaram Bornu até o final do século XVIII, mas a Jihad Fulani derrubou o reino na anarquia. Após a expulsão dos sudaneses islâmicos, Bornu foi absorvido pelo Império Britânico, formando a base para sua colônia na Nigéria.</Text>
+			<Text>De 1380 a 1893, quando foi conquistado pelos sudaneses, o Império Bornu dominou a área que hoje é a Nigéria. Sucessor da dinastia Sayfawa, o rei de Kanem-Bornu, o habilidoso estadista Idris Alooma (1571-1603), levou o império ao seu auge de poder, extensão e prosperidade. As reformas administrativas e a genialidade militar de Alooma levaram Bornu até o final do século XVIII, mas a Jihad Fulani derrubou o reino, levando-o à anarquia. Após a expulsão dos sudaneses islâmicos, Bornu foi absorvido pelo Império Britânico, formando a base para sua colônia na Nigéria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OUGADOUGOU_TEXT">
-			<Text>As tribos Ninsi do Alto Volta estiveram em conflito constante por séculos até 1441, quando o semi-lendário guerreiro Wurbi liderou sua tribo para a vitória, criando assim o Império Mossi com Wogodogo (em francês: Ouagadougou) como sua capital. Como centro de comércio, Ouagadougou atraiu comerciantes e caravanas de toda a região, tanto da costa leste quanto da costa oeste da África. Em 1896, um exército colonial francês sob o comando de Paul Voulet e Julien Chanoine, enviado para unificar todas as reivindicações francesas na África Ocidental, derrotou os Ninsi. Após a libertação, Ouagadougou se tornou a capital de Burkina Faso.</Text>
+			<Text>As tribos Ninsi do Alto Volta estiveram em conflito constante por séculos até 1441, quando o guerreiro semi-lendário Wurbi liderou sua tribo para a vitória, criando assim o Império Mossi com Wogodogo (em francês: Ouagadougou) como sua capital. Como centro de comércio, Ouagadougou atraiu comerciantes e caravanas de toda a região, tanto da costa leste quanto da costa oeste da África. Em 1896, um exército colonial francês sob o comando de Paul Voulet e Julien Chanoine, enviado para unificar todas as reivindicações francesas na África Ocidental, derrotou os Ninsi. Após a libertação, Ouagadougou se tornou a capital de Burkina Faso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_LUBA_TEXT">
-			<Text>Os Luba apareceram pela primeira vez como um povo por volta do século V d.C. na área ao redor da Depressão Upemba, no que é hoje o Congo. A partir dos anos 1580, os Luba expandiram rapidamente a partir de sua cidade sob a liderança de uma série de chefes capazes, dominando tribos vizinhas e garantindo suas minas de cobre, áreas de pesca e produção de óleo de palma. Sob pressão dos europeus que avançavam, os Luba entraram em declínio, sendo finalmente incorporados à força no Congo Belga em 1885. Os Luba se rebelaram em 1895, mas foram virtualmente aniquilados na repressão belga à revolta.</Text>
+			<Text>Os Luba apareceram pela primeira vez como um povo por volta do século V d.C. na área ao redor da Depressão Upemba, no que é hoje o Congo. A partir dos anos 1580, os Luba expandiram-se rapidamente a partir de sua cidade sob a liderança de uma série de chefes capazes, dominando tribos vizinhas e garantindo suas minas de cobre, áreas de pesca e produção de óleo de palma. Sob pressão dos europeus que avançavam, os Luba entraram em declínio, sendo finalmente incorporados à força no Congo Belga em 1885. Os Luba se rebelaram em 1895, mas foram virtualmente aniquilados na repressão belga à revolta.</Text>
 		</Row>
 		<!--National Wonders-->
 		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_HELP">

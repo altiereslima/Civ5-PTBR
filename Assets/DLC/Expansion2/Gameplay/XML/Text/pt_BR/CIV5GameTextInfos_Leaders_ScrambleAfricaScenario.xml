@@ -8,11 +8,11 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH">
-			<Text>Victoria</Text>
+			<Text>Vitória</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON">
-			<Text>Jules Grevy</Text>
+			<Text>Jules Grévy</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS">
@@ -28,7 +28,7 @@
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES">
-			<Text>Ismael Pasha</Text>
+			<Text>Ismail Paxá</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR">
