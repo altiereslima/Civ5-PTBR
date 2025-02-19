@@ -6,7 +6,7 @@
             <Text>Américas</Text>
         </Row>
 		<Row Tag="TXT_KEY_MAP_AMER_HELP">
-			<Text>Um mapa abrangendo desde o Peru, ao sul, até a América do Norte</Text>
+			<Text>Um mapa abrangendo desde o Peru, ao sul, até a América do Norte.</Text>
 		</Row>
     </Language_pt_BR>
 </GameData>

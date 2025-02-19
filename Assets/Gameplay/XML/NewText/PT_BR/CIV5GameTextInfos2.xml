@@ -25,10 +25,10 @@
             <Text>Lançar unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP">
-            <Text>Dentro de território amigável, esta unidade pode lançar unidades em outro hexágono. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
+            <Text>Dentro de território amigo, esta unidade pode lançar unidades em outro hexágono. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
         </Row>
 		<Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP_WITH_RANGE">
-            <Text>Dentro de território amigável, esta unidade pode lançar unidades até {1_NumTiles} à frente. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
+            <Text>Dentro de território amigo, esta unidade pode lançar unidades até {1_NumTiles} à frente. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
 		</Row>		
         <Row Tag="TXT_KEY_INTERFACEMODE_AIR_SWEEP">
             <Text>Varredura aérea</Text>
@@ -46,7 +46,7 @@
             <Text>Lançar unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PARADROP_HELP">
-            <Text>Lança unidades para um local específico. A missão é sujeita a interceptação.</Text>
+            <Text>Lança unidades para um local específico. A missão está sujeita a interceptação.</Text>
         </Row>
         <Row Tag="TXT_KEY_TURNS">
             <Text>Turnos</Text>
@@ -61,7 +61,7 @@
             <Text>Executar esta ação dentro de seu território fornecerá {1_Num} de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_TERRITORY">
-            <Text>Sua unidade precisa estar em território amigo regular para ser atualizada.</Text>
+            <Text>Sua unidade precisa estar em território amigo para ser atualizada.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_GOLD">
             <Text>Você não possui [ICON_GOLD] Ouro suficiente para atualizar esta unidade.</Text>
@@ -191,16 +191,16 @@
             <Text>Ferdinand de Lesseps</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_MAGELLAN">
-            <Text>Ferdinand Magellan</Text>
+            <Text>Fernão de Magalhães</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_BACON">
             <Text>Francis Bacon</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_FRANK_KAFKA">
-            <Text>Frank Kafka</Text>
+            <Text>Franz Kafka</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_GALILEO_GALILEI">
-            <Text>Galileo Galilei</Text>
+            <Text>Galileu Galilei</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_WASHINGTON_GOETHALS">
             <Text>George Washington Goethals</Text>
@@ -215,10 +215,10 @@
             <Text>Guglielmo Marconi</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HANNO">
-            <Text>Hanno</Text>
+            <Text>Hanão</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HARKUF">
-            <Text>Harkuf</Text>
+            <Text>Harkhuf</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HENRY_BESSEMER">
             <Text>Henry Bessemer</Text>
@@ -227,13 +227,13 @@
             <Text>Henry Ford</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HERON">
-            <Text>Heron</Text>
+            <Text>Herão</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HOMER">
             <Text>Homero</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HYPATIA">
-            <Text>Hypatia</Text>
+            <Text>Hipátia</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_IBN_BATTUTA">
             <Text>Ibn Battuta</Text>
@@ -302,10 +302,10 @@
             <Text>Johann Sebastian Bach</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_KALIDAS">
-            <Text>Kalidas</Text>
+            <Text>Kalidasa</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICKSON">
-            <Text>Leif Erickson</Text>
+            <Text>Leif Ericson</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_LEONARDO_DA_VINCI">
             <Text>Leonardo da Vinci</Text>
@@ -338,13 +338,13 @@
             <Text>Mark Twain</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_MERIT_PTAH">
-            <Text>Merit Ptah</Text>
+            <Text>Mérit Ptah</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_FARADAY">
             <Text>Michael Faraday</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_MICHAELANGELO">
-            <Text>Michaelangelo</Text>
+            <Text>Michelangelo</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_MICHIEL_DE_RUYTER">
             <Text>Michiel de Ruyter</Text>
@@ -368,7 +368,7 @@
             <Text>Nikola Tesla</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_NICOLAUS_COPERNICUS">
-            <Text>Nicolaus Copernicus</Text>
+            <Text>Nicolau Copérnico</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_NIELS_BOHR">
             <Text>Niels Bohr</Text>
@@ -437,7 +437,7 @@
             <Text>Tycho Brahe</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_VALMIKI">
-            <Text>Valmique</Text>
+            <Text>Valmiki</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_VASCO_DA_GAMA">
             <Text>Vasco da Gama</Text>
@@ -728,13 +728,13 @@
             <Text>Todas as Civilizações conduziram seus turnos ao mesmo tempo</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TAKEOVER_AI_HELP">
-            <Text>Os jogadores podem "tomar as rédeas" de uma IA de Civilização a qualquer momento.</Text>
+            <Text>Os jogadores podem "tomar as rédeas" de uma Civilização IA a qualquer momento.</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TURN_TIMER_HELP">
-            <Text>Os turnos são limitados por um temporizador que se adapta de acordo o tamanho da civilização.</Text>
+            <Text>Os turnos são limitados por um temporizador que se adapta de acordo com o tamanho da civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE">
-            <Text>Você está certo disso?</Text>
+            <Text>Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_GAME_DETAILS">
             <Text>Detalhes do jogo</Text>
@@ -755,7 +755,7 @@
             <Text>Você declarou guerra a {1_TeamName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PILLAGE_HELP">
-            <Text>Uma melhoria ou rota neste hexágono não poderá ser usada até ser reparada. Saquear uma melhoria ganhará [GOLD]Ouro e recuperará 25 pontos de vida de sua unidade.</Text>
+            <Text>Uma melhoria ou rota neste hexágono não poderá ser usada até ser reparada. Saquear uma melhoria renderá [GOLD]Ouro e recuperará 25 pontos de vida de sua unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_TERRAIN_COAST">
             <Text>Litoral</Text>
@@ -779,10 +779,10 @@
             <Text>{1_PlyrName} provou que a Terra é redonda!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_CIRC_GLOBE">
-            <Text>Seus mapas tem provado que a Terra é redonda! Seus navios receberam um bônus {1_Change} de movimento.</Text>
+            <Text>Seus mapas provaram que a Terra é redonda! Seus navios receberam um bônus de {1_Change} de movimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_QUICK_MOVES_HELP">
-            <Text>Todos os movimentos dos jogadores estão acelerados.</Text>
+            <Text>Todos os movimentos dos jogadores são acelerados.</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_AUTOMATE_BUILD">
             <Text>Construir melhorias (automatizado)</Text>
@@ -986,7 +986,7 @@
             <Text>Parar automatização</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_UPGRADE">
-            <Text>Atualiza-se para:</Text>
+            <Text>Atualizar unidade</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_WAKE">
             <Text>Acordar a unidade</Text>
@@ -1088,7 +1088,7 @@
             <Text>Você encontrou remédios entre as ruínas. Sua unidade os usou para curar seus ferimentos.</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_MAP">
-            <Text>Você descobriu um rústico mapa que descreve a área em volta!</Text>
+            <Text>Você descobriu um mapa rústico que descreve a área em volta!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_SCOUT">
             <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SCOUT[2]}!</Text>
@@ -1097,7 +1097,7 @@
             <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SETTLER[2]}!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_TECH">
-            <Text>Você descobriu segredos de uma avançada tecnologia nas ruínas!</Text>
+            <Text>Você descobriu segredos de uma tecnologia avançada nas ruínas!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WARRIOR">
             <Text>Você encontrou um grupo de guerreiros dispostos a se unir à sua Civilização!</Text>
@@ -1169,10 +1169,10 @@
             <Text>{@1_CityName} foi fundada</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_RAZED_BY">
-            <Text>{@2_CivName} ateou fogo em {@1_CityName}!!!</Text>
+            <Text>{@2_CivName} incendiou {@1_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_IS_FOUNDED">
-            <Text>{@1_CityName} está fundada</Text>
+            <Text>{@1_CityName} foi fundada.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_RAZED_BY">
             <Text>{@1_CityName} foi incendiada por {@2_LongCivName}!!!</Text>
@@ -1229,7 +1229,7 @@
             <Text>Um inimigo foi visto perto de {@1_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_ENEMY_UNIT_SURRENDER">
-            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_Adjective}} {2_EnUName} rendeu-se {3: gender masculine?ao seu; feminine?a sua;} {3_UnitName}!</Text>
+            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_Adjective}} {2_EnUName} rendeu-se {3: gender masculine?ao seu; feminine?à sua;} {3_UnitName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_ENEMY_UNIT_WITHDRAW">
             <Text>{@1: gender masculine?Um inimigo; feminine?Uma inimiga;} {@1_EnUName} ({2_Num} de dano) atacou {@3: gender masculine?seu; feminine?sua;} {@3_UnitName} ({4_Num} de dano)!</Text>
@@ -1241,7 +1241,7 @@
             <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_FeatName}} cresceu perto de {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_FIRST_TECH_CHOOSE_FREE">
-            <Text>Sua Civilização foi a primeira a descobrir a tecnologia [COLOR_TECH_TEXT]{@1_TechName}[ENDCOLOR]! Escolha um tecnologia de graça...</Text>
+            <Text>Sua Civilização foi a primeira a descobrir a tecnologia [COLOR_TECH_TEXT]{@1_TechName}[ENDCOLOR]! Escolha uma tecnologia de graça...</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GIFTED_UNIT_TO_YOU">
             <Text>{1_PlyrName} presenteou você com um grupo de {2_UnitName}!</Text>
@@ -1259,7 +1259,7 @@
             <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_UnitName} {@2_UnitName: gender masculine?{@3_civ_adjective[1]}; other?{@3_civ_adjective[2]};} que estava vagando pela área destruiu {@1: plural 1?{@1: gender masculine?um; feminine?uma;}; other?{@1: gender masculine?uns; other?umas;};} {@1_ImpName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED">
-            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION] Produção perdida será convertida em {3_NumGold}[ICON_GOLD] !</Text>
+            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION] Produção perdida será convertida em {3_NumGold}[ICON_GOLD]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_MELTDOWN_CITY">
             <Text>Um derretimento nuclear ocorreu em {@1_CityName}!!!</Text>
@@ -1283,7 +1283,7 @@
             <Text>{1_PlyrName} se converteu para o [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS">
-            <Text>{1_PlyrName}: começou a Era de Ouro</Text>
+            <Text>{1_PlyrName}: começou a Era de Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED">
             <Text>{1_PlyrName}: a Era de Ouro acabou...</Text>
@@ -1316,7 +1316,7 @@
             <Text>Você completou um majestoso Santuário em {@1_CityName} para honrar {@2_ReligionName}! Agora você pode treinar Missionários para espalhar a fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RELIGION_SPREAD">
-            <Text>[COLOR_HIGHLIGHT_TEXT]{1_RelName}[ENDCOLOR] espalhado em {@2_CityName}.</Text>
+            <Text>[COLOR_HIGHLIGHT_TEXT]{1_RelName}[ENDCOLOR] espalhou-se em {@2_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RESOURCE_DISCOVERED_CITY_DEMANDS">
             <Text>Você descobriu [COLOR_HIGHLIGHT_TEXT]{@1_ResourceName}[ENDCOLOR], que a cidade de {@2_CityName} procura!</Text>
@@ -1361,7 +1361,7 @@
             <Text>Uma Civilização distante fez a circum-navegação do Globo!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN_CREATED_UNIT">
-            <Text>[COLOR_UNIT_TEXT]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?foi; other?foram;} foi {1: gender masculine?criado; feminine?criada;} no estrangeiro!</Text>
+            <Text>[COLOR_UNIT_TEXT]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?foi; other?foram;} {1: gender masculine?criado; feminine?criada;} no estrangeiro!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN_FIRST_TO_TECH">
             <Text>Uma civilização distante foi a primeira a descobrir a tecnologia: {@1_TechName}!</Text>
@@ -1403,10 +1403,10 @@
       <Text>Você recapturou sua unidade {@1_UnitName}</Text>
     </Row>		
         <Row Tag="TXT_KEY_MISC_YOU_CITY_RANSOMED_BY_BARBARIANS">
-            <Text>Sua cidade de {@1_CityName} foi assaltada por Bárbaros e {2_Num} de Ouro {2: plural 1?foi roubado; other?foram roubados;} do cofre nacional!</Text>
+            <Text>Sua cidade de {@1_CityName} foi saqueada por Bárbaros e {2_Num} de Ouro {2: plural 1?foi roubado; other?foram roubados;} do tesouro nacional!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_CITY_WAS_CAPTURED">
-            <Text>Enquanto estava se defendendo, sua cidade de {@1_CityName} foi capturada por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@2_EnUName} {@3_owner_adjective}} ({4_Num} de dano)!</Text>
+            <Text>Enquanto se defendia, sua cidade de {@1_CityName} foi capturada por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@2_EnUName} {@3_owner_adjective}} ({4_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_DEFENSES_REDUCED_TO">
             <Text>Suas defesas em {@1_CityName} foram reduzidas a {2_Num}% por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_UnitName}}!</Text>
@@ -1421,10 +1421,10 @@
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} interceptou {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {4_owner_adjective}} {@2_EnUName}! ({3}% de dano)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT">
-            <Text>Enquanto estava se defendendo, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@5_owner_adjective}} {@4_EnUName}!</Text>
+            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@5_owner_adjective}} {@4_EnUName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT_CITY">
-            <Text>Enquanto estava se defendendo, sua cidade de {@1_CityName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@4_owner_adjective}} {3_EnUName}!</Text>
+            <Text>Enquanto se defendia, sua cidade de {@1_CityName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@4_owner_adjective}} {3_EnUName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_REDUCE_CITY_DEFENSES">
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} reduziu as defesas de {@2_CityName} para {3_NewVal}%!</Text>
@@ -1445,7 +1445,7 @@
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} morreu atacando a cidade inimiga de {@2_EnUName} ({3_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_RANSOM_KILL_BY_BARBARIANS">
-            <Text>Os bárbaros mataram {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} porque você se recusou a pagar seu resgate!</Text>
+            <Text>Os bárbaros mataram {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} porque você se recusou a pagar o resgate!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_SHOT_DOWN">
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} foi {@1: gender masculine?derrubado; feminine?derrubada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
@@ -1454,10 +1454,10 @@
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_EnUName} se rendeu a {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@2_Adjective}} {@3_UnitName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED">
-            <Text>Enquanto estava se defendendo, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@3_owner_adjective}} {@2_EnUName} ({4_Num} de dano)!</Text>
+            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@3_owner_adjective}} {@2_EnUName} ({4_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_UNKNOWN">
-            <Text>Enquanto estava se defendendo, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?disfarçado; feminine?disfarçada;} ({3_Num} de dano)!</Text>
+            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?disfarçado; feminine?disfarçada;} ({3_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_WITHDRAW">
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({2_Num} de dano) atacou {@3: gender masculine?um; feminine?uma;} {@3_EnUName} {@3: gender masculine?inimigo; feminine?inimiga;} ({4_Num} de dano)!</Text>
@@ -1523,7 +1523,7 @@
             <Text>Interceptar</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_JOIN_CITY">
-            <Text>Unir a cidade</Text>
+            <Text>Unir à cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_MOVE_TO">
             <Text>Mover</Text>
@@ -1598,7 +1598,7 @@
             <Text>Esperar no fim do turno</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_LEAVE_OLD_IMPS">
-            <Text>Trabalhadores automáticos deixam velhas melhorias</Text>
+            <Text>Trabalhadores automáticos deixam melhorias antigas</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_START_AUTO">
             <Text>Trabalhadores começam no automático</Text>
@@ -1610,7 +1610,7 @@
             <Text>Você está certo de que quer {@1_ActionName}?[NEWLINE]O hexágono atual será substituído.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD_WARN_TRADE_ROUTE">
-            <Text>Você está certo de que quer {@1_ActionName}?[NEWLINE]O hexágono atual será substituído e uma rota comercial poderá estar se desconectando.</Text>
+            <Text>Você está certo de que quer {@1_ActionName}?[NEWLINE]O hexágono atual será substituído e uma rota comercial poderá ser desconectada.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_RAZE">
             <Text>Você tem certeza que quer arrasar esta cidade? (Essa ação não pode ser desfeita)</Text>
@@ -1628,16 +1628,16 @@
             <Text>{@1_VoteName} (Requer {2_ReqNum} de {3_TotNum} votos totais)</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_LANDS_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] irá despertar GUERRA! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] irá deflagrar GUERRA! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_CITY_STATE_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] despertará a GUERRA! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] deflagrará GUERRA! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_MINOR_CIV_LANDS">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] é um ato nada amigável de intimidação! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] é um ato nada amigável de intimidação! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_WITH_OPEN_BORDERS">
-            <Text>(Você pode pacificamente entrar se assinar um Tratado de Fronteiras Abertas)</Text>
+            <Text>(Você pode entrar pacificamente se assinar um Tratado de Fronteiras Abertas)</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_GOLD_CITY_CAPTURE">
             <Text>Você saqueou {1_Num} de [ICON_GOLD] pela captura de {@2_CityName}!</Text>
@@ -1658,22 +1658,22 @@
             <Text>Anexar a cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_PUPPET_CAPTURED_CITY">
-            <Text>Criar fantoche</Text>
+            <Text>Criar estado fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_RAZE_CAPTURED_CITY">
             <Text>Arrasar a cidade!</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_DONT_ANNEX_CITY">
-            <Text>Deixar cidade como um fantoche</Text>
+            <Text>Deixar cidade como um estado fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO">
             <Text>Não</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ANNEX_PUPPET">
-            <Text>Você quer anexar o fantoche de {@1_CityName} ao seu Império? Isso permitirá a você escolher a produção, mas aumentará sua [ICON_HAPPINESS_4] Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
+            <Text>Você quer anexar o estado fantoche de {@1_CityName} ao seu Império? Isso permitirá que você escolha a produção, mas aumentará sua [ICON_HAPPINESS_4] Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO_PUPPET">
-            <Text>Não, converter em fantoche</Text>
+            <Text>Não, converter em estado fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_VOTES_FOR">
             <Text>{1_VtrName} vota em {2_PlyrName} ({3_Num} total)</Text>
@@ -1695,10 +1695,10 @@
             <Text>{1} promoção!</Text>
         </Row>
         <Row Tag="TXT_KEY_RELIGION_SPREAD_TO_CITY">
-            <Text>Você espalhou o {@1_ReligionName} em {@2_CityName}!</Text>
+            <Text>Você espalhou {@1_ReligionName} em {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_RELIGIOUS_BUILDING">
-            <Text>{@1_BuildingName} do {@2_ReligionName}</Text>
+            <Text>{@1_BuildingName} de {@2_ReligionName}</Text>
         </Row>
         <Row Tag="TXT_KEY_REPAIR_IMPROVEMENT">
             <Text>Reparar uma melhoria</Text>
@@ -1713,10 +1713,10 @@
             <Text>Remover uma estrada</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_REC">
-            <Text>Não é necessário conectar nossas cidades. E isso está custando a nós [ICON_GOLD] de manutenção.</Text>
+            <Text>Não é necessário conectar nossas cidades. E isso está nos custando [ICON_GOLD] de manutenção.</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_HELP">
-            <Text>Você pode remover uma estrada ou via férrea que foi construída em um hexágono.</Text>
+            <Text>Você pode remover uma estrada ou ferrovia que foi construída em um hexágono.</Text>
         </Row>
         <Row Tag="TXT_KEY_SEALEVEL_HIGH">
             <Text>Alto</Text>
@@ -1725,7 +1725,7 @@
             <Text>Baixo</Text>
         </Row>
         <Row Tag="TXT_KEY_SEALEVEL_MEDIUM">
-            <Text>Mediano</Text>
+            <Text>Médio</Text>
         </Row>
         <Row Tag="TXT_KEY_TIME_AD">
             <Text>{1_Date: number #} d.C.</Text>
@@ -1764,7 +1764,7 @@
             <Text>Para jogar na Internet, o jogo precisa ser iniciado com o Steam ativado e com uma conexão de Internet ativa.</Text>
         </Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
-			<Text>© 1991-2010 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilizations V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e os seus respectivos logos são todas marcas registradas da Take-Two Interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Usa Animação Granny. Copyright © 1999-2010 por RAD Game Tools, Inc. Usa Sistema de Som Miles. Copyright © 1991-2010 por RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Associação de Softwares de Entretenimento. Todas as outras marcas e marcas registradas são propriedades de seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste jogo é fictício e não é programado para representar ou descrever os registros atuais dos eventos, pessoas ou entidades nas opções de jogo.</Text>
+			<Text>© 1991-2010 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilizations V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são todas marcas registradas da Take-Two Interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Usa Animação Granny. Copyright © 1999-2010 por RAD Game Tools, Inc. Usa Sistema de Som Miles. Copyright © 1991-2010 por RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Associação de Softwares de Entretenimento. Todas as outras marcas e marcas registradas são propriedades de seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste jogo é fictício e não é programado para representar ou descrever os registros atuais dos eventos, pessoas ou entidades nas opções de jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_EARTH_TITLE">
 			<Text>Terra</Text>
@@ -1780,7 +1780,7 @@
 			<Text>Permitir salvar política</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_POLICY_SAVING_HELP">
-			<Text>Os jogadores podem escolher uma Política Social em momento posterior, ao invés de decidir por uma imediamente.</Text>
+			<Text>Os jogadores podem escolher uma Política Social em momento posterior, ao invés de decidir por uma imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING">
 			<Text>Permitir salvar promoção</Text>
@@ -1831,13 +1831,13 @@
             <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4] infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4] infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_PUPPET">
-			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4] Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Personalidades. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}.</Text>
+			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]não poderá escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4] Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Personalidades. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_RAZE">
 			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4] Infelicidade extra durante o arrasamento.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Arrasar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4] infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
-			<Text>Vá para a tela da cidade. Você não pode puder nada enquanto estiver dentro.</Text>
+			<Text>Vá para a tela da cidade. Você não poderá fazer nada enquanto estiver dentro.</Text>
          </Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY">
 			<Text>Exibir cidade</Text>
@@ -1871,7 +1871,7 @@
 			<Text>Leste dos Estados Unidos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_EUS_DESC">
-			<Text>Um mapa que contempla desde a ponta sul do Texas até todo caminho à extremidade da Nova Escócia.</Text>
+			<Text>Um mapa que contempla desde a ponta sul do Texas até toda a extremidade da Nova Escócia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_JAPAN_TITLE">
 			<Text>Ilha Japonesa</Text>
@@ -1963,35 +1963,35 @@
 			<Text>Seu turno acabou. Por favor, envie o arquivo salvo ao próximo jogador da fila. Você pode encontrar o jogo salvo em seu diretório saves/pbem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_AIR_UNIT_DESTROYED">
-		  <Text>Graças à interceptação da sua unidade {@1_UnitName}, {@3: gender *:art? ; masculine?{@3: plural 1?o; other?os;}; feminine?{@3: plural 1?a; other?as;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@4: gender *:art? ; masculine?{@4: plural 1?seu; other?seus;}; feminine?{@4: plural 1?sua; other?suas;};} {@4_DefUnitName} {@3: plural 1:foi; other?foram;} {@3: gender *:art?abatido; masculine?{@3: plural 1?abatido; other?abatidos;}; feminine?{@3: plural 1?abatida; other?abatidas;};}!</Text>
+			<Text>Graças à interceptação da sua unidade {@1_UnitName}, {@3: gender *:art? ; masculine?{@3: plural 1?o; other?os;}; feminine?{@3: plural 1?a; other?as;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@4: gender *:art? ; masculine?{@4: plural 1?seu; other?seus;}; feminine?{@4: plural 1?sua; other?suas;};} {@4_DefUnitName} {@3: plural 1?foi; other?foram;} {@3: gender *:art?abatido; masculine?{@3: plural 1?abatido; other?abatidos;}; feminine?{@3: plural 1?abatida; other?abatidas;};}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_AIR_UNIT_INTERCEPTED">
-		  <Text>Graças à interceptação da sua unidade {@1_UnitName}, causamos dano ({4_Num}) {@3: gender *:art?ao; masculine?{@3: plural 1?ao; other?aos;}; feminine?{@3: plural 1?à; other?às;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@5: gender *:art?seu; masculine?{@5: plural 1?seu; other?seus;}; feminine?{@5: plural 1?sua; other?suas;};} {@5_DefUnitName}.</Text>		
-		</Row>  
+			<Text>Graças à interceptação da sua unidade {@1_UnitName}, causamos dano ({4_Num}) {@3: gender *:art?ao; masculine?{@3: plural 1?ao; other?aos;}; feminine?{@3: plural 1?à; other?às;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@5: gender *:art?seu; masculine?{@5: plural 1?seu; other?seus;}; feminine?{@5: plural 1?sua; other?suas;};} {@5_DefUnitName}.</Text>		
+		</Row>
 		<Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_LIBERATE_RESURRECT">
-            <Text>Esta cidade pertencia a [COLOR_POSITIVE_TEXT]{@1_PlayerName}[ENDCOLOR]. Você tem a oportunidade de devolvê-la a eles. Fazer isso os deixará eternamente agradecidos.</Text>
-		</Row>		  
+			<Text>Esta cidade pertencia a [COLOR_POSITIVE_TEXT]{@1_PlayerName}[ENDCOLOR]. Você tem a oportunidade de devolvê-la a eles. Fazer isso os deixará eternamente agradecidos.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_MP_MAIN_MENU">
 			<Text>Menu Principal</Text>
 		</Row>
         <Row Tag="TXT_KEY_TOUCH_CONTROLS">
             <Text>Controles de Toque</Text>
-        </Row>              
+        </Row>
         <Row Tag="TXT_KEY_ZOOM_TITLE">
             <Text>Controles de Zoom</Text>
-        </Row>       
+        </Row>
         <Row Tag="TXT_KEY_ZOOM_DETAILS">
             <Text>ABRA 2 dedos na tela para diminuir o Zoom e JUNTE 2 dedos na tela para aumentar o Zoom.</Text>
-        </Row>       
+        </Row>
         <Row Tag="TXT_KEY_TOOL_TIPS_TITLE">
             <Text>Janelas Emergentes e Movimento</Text>
-        </Row>       
+        </Row>
         <Row Tag="TXT_KEY_TOOL_TIPS_DETAILS">
             <Text>ARRASTE 1 dedo sobre botões ou terreno para ver janelas emergentes.[NEWLINE]ARRASTE uma unidade para fora do seu hexágono para entrar no modo de movimento.</Text>
-        </Row>       
+        </Row>
         <Row Tag="TXT_KEY_SCROLLING_TITLE">
-            <Text>Rolando e Fixando a tela</Text>
-        </Row>       
+            <Text>Rolagem e Fixação da tela</Text>
+        </Row>
         <Row Tag="TXT_KEY_SCROLLING_DETAILS">
             <Text>ARRASTE 2 dedos na tela para fixar a câmera do jogo e mover as barras de rolagem dos menus.</Text>
         </Row>
@@ -1999,19 +1999,19 @@
             <Text>Movimentando Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_MOVE_DETAILS">
-            <Text>BATA DUAS VEZES 1 dedo na tela para dar ordens à unidade atual.</Text>
+            <Text>TOQUE DUAS VEZES com 1 dedo na tela para dar ordens à unidade atual.</Text>
         </Row>
         <Row Tag="TXT_KEY_EXIT_MOVE_TITLE">
             <Text>Sair do Modo de Movimento</Text>
         </Row>
         <Row Tag="TXT_KEY_EXIT_MOVE_DETAILS">
-            <Text>Para sair do modo de movimento sem dar ordens, bata o dedo uma segunda vez.</Text>
+            <Text>Para sair do modo de movimento sem dar ordens, toque com o dedo uma segunda vez.</Text>
         </Row>
         <Row Tag="TXT_KEY_ESCAPE_TITLE">
             <Text>Sair</Text>
         </Row>
         <Row Tag="TXT_KEY_ESCAPE_DETAILS">
-            <Text>BATA 3 dedos para fechar telas e abrir o menu do jogo.</Text>
+            <Text>TOQUE com 3 dedos para fechar telas e abrir o menu do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_TOUCH_HIDE">
             <Text>Exibir no início</Text>
@@ -2026,7 +2026,7 @@
             <Text>Aumentar Zoom</Text>
         </Row>
         <Row Tag="TXT_KEY_DRAG_SPEED">
-            <Text>Velocidade de Arrasto do Mapa: {1_Num}</Text>			
+            <Text>Velocidade de Arrasto do Mapa: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_DRAG_SPEED_TT">
             <Text>Acelera/Desacelera o movimento quando estiver arrastando o mapa.</Text>

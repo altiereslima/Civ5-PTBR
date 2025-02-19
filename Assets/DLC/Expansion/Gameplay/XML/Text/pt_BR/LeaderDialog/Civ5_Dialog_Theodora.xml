@@ -6,13 +6,13 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_1">
-      <Text>Hmmm... mas que surpresa agradável - como devo te chamar, ó misterioso estrangeiro? Eu sou Teodora, a amada de Bizâncio.</Text>
+      <Text>Hmmm... mas que surpresa agradável - como devo me dirigir a esta misteriosa figura estrangeira? Eu sou Teodora, a amada de Bizâncio.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_2">
-      <Text>Eu sou Teodora, ama de todas as belezas e maravilhas do mundo. Impressiona-me, estrangeiro, e eu acharei um lugar para ti em minha coleção.</Text>
+      <Text>Eu sou Teodora, apreciadora de todas as belezas e maravilhas do mundo. Impressione-me, figura estrangeira, e eu acharei um lugar para ti em minha coleção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_3">
-      <Text>Embora eu tenha muitos admiradores, tu és o meu convidado mais estimado. Podes me chamar de Teodora, Imperatriz favorita de Bizâncio.</Text>
+      <Text>Embora eu tenha muitos admiradores, tu és a pessoa convidada mais estimada. Podes me chamar de Teodora, Imperatriz favorita de Bizâncio.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_1">
@@ -22,28 +22,28 @@
       <Text>Eu te subestimei. Eu acho isso... excitante.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_3">
-      <Text>Esqueça... Tu não resistirás sempre o meu charme.</Text>
+      <Text>Esqueça... Tu não resistirás sempre ao meu charme.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_1">
-      <Text>Eu diria que foi bastante agradável, tu não concordas? Eu amo tanto a vitória.</Text>
+      <Text>Eu diria que foi bastante agradável, não concordas? Eu amo tanto a vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_2">
-      <Text>Espero que tu tenhas aprendido a lição. Eu não gostei de te punir tanto.</Text>
+      <Text>Espero que a lição tenha sido aprendida. Não gostei de ter que aplicar tal punição.</Text>
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_LOSEWAR_1">
-      <Text>Tu podes ter ganho esta série, mas eu imagino se tu realmente já entendeste o jogo...</Text>
+      <Text>A vitória nesta série pode ser sua, mas fica a dúvida se o jogo foi realmente compreendido...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_LOSEWAR_2">
-      <Text>Tsc... a vida é entediante se você sempre vence. Vamos ver o que tu farás com esta pequena oportunidade.</Text>
+      <Text>Tsc... a vida é entediante se a vitória é constante. Veremos o que será feito com esta pequena oportunidade.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_1">
-      <Text>Os ventos da mudança trazem o frio que mata a delicada flor. Tu destruíste o que esta nação possui de mais querido.</Text>
+      <Text>Os ventos da mudança trazem o frio que mata a delicada flor. O que esta nação tem de mais querido foi destruído.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_2">
-      <Text>Tu és como uma criança se divertindo com brinquedos. Meu povo nunca te amará, nem sofrer esta indignação educadamente.</Text>
+      <Text>Age como uma criança com seus brinquedos. Meu povo jamais demonstrará apreço por tal pessoa, nem suportará esta indignação de forma educada.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_3">
       <Text>Quando o sol nascer novamente, ele chorará pelo que vir. O sangue desta civilização corre dentro de mim... e eu não mais existirei.</Text>
@@ -51,7 +51,7 @@
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_1">
-      <Text>Saudações, querido.</Text>
+      <Text>Saudações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_2">
       <Text>Olá novamente.</Text>
@@ -69,10 +69,10 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Estou intrigada com tuas doces palavras, mas terei que ouvir mais.</Text>
+      <Text>Suas palavras são intrigantes, mas preciso ouvir mais.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_2">
-      <Text>Tu não podes fazer mais?</Text>
+      <Text>Não há nada mais a oferecer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3}</Text>
@@ -86,19 +86,19 @@
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_NEUTRAL">
-      <Text>Tu me divertes. Não vejo razão para te negar isto.</Text>
+      <Text>Acho divertido. Não vejo razão para negar.</Text>
     </Row> 
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_NEUTRAL">
-      <Text>Hmmm... tu pensas ser mais importante do que realmente és. Eu não.</Text>
+      <Text>Hmmm... parece haver uma superestimação da própria importância. Não concordo.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_NEUTRAL">
-      <Text>Eu ouvi dizer que tu és adepto a certo tipo de... interações. Mostra-me.</Text>
+      <Text>Ouvi dizer que há aptidão para certo tipo de... interação. Gostaria de ver.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>A os meus pretendentes e cortesãos é esperado honrar minha presença com presentes.</Text>
+      <Text>Espera-se que meus pretendentes e cortesãos honrem minha presença com presentes.</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_1">
@@ -125,17 +125,17 @@
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_3">
-      <Text>Sê bem-vindo novamente.</Text>
+      <Text>Seja bem-vinda a pessoa que retorna.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_4">
-      <Text>Querido!</Text>
+      <Text>Que bom que veio!</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_4">
-      <Text>Até breve, querido.</Text>
+      <Text>Até breve.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_HAPPY">
@@ -143,37 +143,37 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Hmm... Eu estava muito ocupada ouvindo tua melodiosa voz. Tenta novamente.</Text>
+      <Text>Hmm... Estava ocupada demais ouvindo a melodia da sua voz. Tente novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_2">
-      <Text>Isto é o melhor que podes fazer?</Text>
+      <Text>É o melhor que se pode fazer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_3">
-      <Text>Quase, bichano.</Text>
+      <Text>Quase.</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_HAPPY">
-      <Text>Obrigada, mas não desta vez.</Text>
+      <Text>Agradeço, mas não desta vez.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_HAPPY">
-      <Text>Hmm... não é que tu és bastante despachado? Talvez mereças ser recompensado.</Text>
+      <Text>Hmm... quanta ousadia. Talvez mereça uma recompensa.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_HAPPY">
-      <Text>Que pena! Eu não possuo nada deste tipo para te oferecer. Não aceitarias... outra coisa?</Text>
+      <Text>Que pena! Não possuo nada deste tipo para oferecer. Não aceitaria... outra coisa?</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_HAPPY">
-      <Text>Querido, onde está meu presente? Tu sempre trazes um quando me visita.</Text>
+      <Text>Onde está meu presente? Sempre se traz um presente em uma visita.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_HAPPY">
-      <Text>Talvez tu queiras compartilhar em outras atividades também.</Text>
+      <Text>Talvez haja interesse em compartilhar outras atividades também.</Text>
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_3">
-      <Text>Claro, querido.</Text>
+      <Text>Claro.</Text>
     </Row> 
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_3">
@@ -184,7 +184,7 @@
     </Row> 
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_3">
-      <Text>Sim, querido?</Text>
+      <Text>Sim?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_4">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
@@ -195,14 +195,14 @@
       <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_6">
-      <Text>O que tu queres?</Text>
+      <Text>O que deseja?</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_5">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_6">
-      <Text>Remove-te.</Text>
+      <Text>Retire-se.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_ANGRY">
@@ -210,36 +210,36 @@
     </Row> 
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_1">
-      <Text>Tsc... Eu acho tuas palhaçadas cansativas. Melhora tua oferta ou vai embora.</Text>
+      <Text>Tsc... Acho suas atitudes cansativas. Melhore a oferta ou vá embora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_3">
-      <Text>Tu precisas fazer melhor que isso.</Text>
+      <Text>É preciso mais do que isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_4">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_ANGRY">
-      <Text>Chega. Eu não vou mais tolerar tua presença.</Text>
+      <Text>Chega. Não vou mais tolerar sua presença.</Text>
     </Row>  
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_ANGRY">
-      <Text>Irrita-me ter que concordar com esta ridiculez.</Text>
+      <Text>Irrita-me ter que concordar com tamanha insensatez.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_ANGRY">
-      <Text>Tu esqueces que não és mais meu favorito. Mil vezes não.</Text>
+      <Text>Não há mais predileção por você. Mil vezes não.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_ANGRY">
-      <Text>Se eu tiver que me submeter as tuas tolices, espero que elas valham a pena.</Text>
+      <Text>Se tiver que me submeter a tolices, espero que valham a pena.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_ANGRY">
-      <Text>Espero que tu não concordes, assim poderei te oferecer algo mais pessoal.</Text>
+      <Text>Espero que não haja concordância, assim poderei lhe oferecer algo mais pessoal.</Text>
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_4">
@@ -253,29 +253,29 @@
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_7">
-      <Text>Tu não podes estar falando sério.</Text>
+      <Text>Só pode ser brincadeira.</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_5">
       <Text>Diga de uma vez.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_1">
-      <Text>Tu machucaste os meus sentimentos. Eu me afundarei em pesar, mas acho que encontrarei prazer maior em te destruir.</Text>
+      <Text>Meus sentimentos foram feridos. Afundar-me-ei em pesar, mas creio que encontrarei maior prazer em destruir quem me causou a dor.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_2">
-      <Text>É sempre uma pena ter que destruir algo belo. Felizmente tu não és assim.</Text>
+      <Text>É sempre uma pena ter que destruir algo belo. Felizmente, este não é o caso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_3">
-      <Text>Tu não respondes meus presentes e meus mensageiros voltam de mãos vazias. Eu terei o que é meu, pela força.</Text>
+      <Text>Meus presentes não são respondidos e pessoas mensageiras voltam de mãos vazias. Terei o que é meu, pela força.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_1">
-      <Text>Tuas intenções finalmente apareceram. O que tu pensas ser capaz de fazer comigo?</Text>
+      <Text>Suas intenções finalmente se revelaram. O que pensa ser capaz de fazer comigo?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_2">
-      <Text>Agora querido, fúria não é conveniente. Terei que te ensinar uma lição.</Text>
+      <Text>Fúria não é algo conveniente. Terei que ensinar uma lição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_3">
-      <Text>O quê? Tu pensas ser o único pretendente? Muitos virão ao meu socorro. Tu és apenas um.</Text>
+      <Text>O quê? Pensa ser a única pessoa pretendente? Muitos virão ao meu socorro. Trata-se de apenas um.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

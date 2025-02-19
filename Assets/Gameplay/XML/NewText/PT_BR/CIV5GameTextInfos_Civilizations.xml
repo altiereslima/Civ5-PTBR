@@ -92,17 +92,17 @@
 			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE">
-            <Text>Britânico|Britânica|Britânicos|Britânicas</Text>
+            <Text>Inglês|Inglesa|Ingleses|Inglesas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
 			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ENGLAND_DESC">
-            <Text>Império Britânico</Text>
+            <Text>Império Inglês</Text>
             <Gender>masculine</Gender>
 			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC">
-            <Text>Grã-Bretanha</Text>
+            <Text>Inglaterra</Text>
             <Gender>feminine</Gender>
 			<Plurality>1</Plurality>
         </Row>

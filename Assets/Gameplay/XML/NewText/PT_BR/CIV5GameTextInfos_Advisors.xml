@@ -67,7 +67,7 @@
 			<Text>Unidades militares para defesa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
-			<Text>As terras próximas a sua cidade pode ser mais produtiva. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Produza um Trabalhador[/COLOR] para melhorar seu território.</Text>
+			<Text>As terras próximas a sua cidade podem ser mais produtivas. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Produza um Trabalhador[/COLOR] para melhorar seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
 			<Text>Produza um Trabalhador!</Text>
@@ -91,7 +91,7 @@
 			<Text>Mostre o Trabalhador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
-			<Text>Nós temos um Trabalhador, mas não estão melhorando os hexágonos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa uma melhoria[/COLOR] em um hexágono próximo de suas cidades para obter um benefício econômico.</Text>
+			<Text>Nós temos um Trabalhador, mas ele não está melhorando os hexágonos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa uma melhoria[/COLOR] em um hexágono próximo de suas cidades para obter um benefício econômico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
 			<Text>Trabalhadores precisam trabalhar</Text>
@@ -121,16 +121,16 @@
 			<Text>É preciso mais militares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
-			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4] infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
+			<Text>Seu povo não está mais feliz. Uma população [ICON_HAPPINESS_4] infeliz não irá crescer tão rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
-			<Text>Seu povo não é mais feliz</Text>
+			<Text>Seu povo não está mais feliz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
 			<Text>Mostre o recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
-			<Text>Seu povo está muito [ICON_HAPPINESS_4] infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION] Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
+			<Text>Seu povo está muito [ICON_HAPPINESS_4] infeliz. Nossas cidades têm drasticamente reduzido a [ICON_PRODUCTION] Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
 			<Text>Seu povo está irritado!</Text>
@@ -322,7 +322,7 @@
 			<Text>Mostre a selva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
-			<Text>Movimentar-se sobre rios diminui os movimentos da unidade. Mover-se através de um rio cosumirá todos os pontos de movimentos da sua unidade e é extremamente difícil para as unidades atacarem quando atravessam um rio, então posicione suas unidades com cuidado.</Text>
+			<Text>Movimentar-se sobre rios diminui os movimentos da unidade. Mover-se através de um rio consumirá todos os pontos de movimentos da sua unidade e é extremamente difícil para as unidades atacarem quando atravessam um rio, então posicione suas unidades com cuidado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
 			<Text>Movimento: atravessando Rios</Text>
@@ -376,13 +376,13 @@
 			<Text>Mostre o invasor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
-			<Text>Campos bárbaros são vilas que devem ser erradicadas o mais rápido possível! Campos bárbaros geram mais bárbaros e quanto mais cedo destruí-los, menos problemas você terá.</Text>
+			<Text>Acampamentos bárbaros são vilas que devem ser erradicadas o mais rápido possível! Acampamentos bárbaros geram mais bárbaros e quanto mais cedo destruí-los, menos problemas você terá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
-			<Text>Campos bárbaros</Text>
+			<Text>Acampamentos bárbaros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
-			<Text>Mostre o campo bárbaro</Text>
+			<Text>Mostre o acampamento bárbaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
 			<Text>Manter seus cidadãos felizes é a chave para uma civilização produtiva. Cidadãos produzem [ICON_HAPPINESS_4] Infelicidade enquanto recursos de luxo e algumas edificações fornecem [ICON_HAPPINESS_1] Felicidade para balancear. Tente manter sua civilização feliz e a mantenha saudável!</Text>
@@ -424,7 +424,7 @@
 			<Text>Ataque inteligente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
-			<Text>Talvez seja uma boa ideia reconsiderar este ataque; você vai causar danos mínimos ao seu oponente e eles vão fazer estragos consideráveis a você.</Text>
+			<Text>Talvez seja uma boa ideia reconsiderar este ataque; você vai causar danos mínimos ao seu oponente e eles vão causar estragos consideráveis a você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
 			<Text>Este ataque pode não terminar bem</Text>
@@ -547,7 +547,7 @@
 			<Text>Escolher Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
-			<Text>Em Escolha uma Tecnologia você pode selecionar uma tecnologia para sua civilização pesquisar. Quando uma tecnologia for descoberta, você será questionado sobre o que deseja pesquisar em seguida.</Text>
+			<Text>Em "Escolha uma Tecnologia" você pode selecionar uma tecnologia para sua civilização pesquisar. Quando uma tecnologia for descoberta, você será questionado sobre o que deseja pesquisar em seguida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
 			<Text>Escolha uma Tecnologia</Text>
@@ -784,13 +784,13 @@
 			<Text>Conquiste a cidade inimiga. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS">
-			<Text>Destrua {1_Num} campos bárbaros.</Text>
+			<Text>Destrua {1_Num} acampamentos bárbaros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_PROGRESS">
-			<Text>Destrua {1_Num} campos bárbaros. ({2_Num} {2_Num: plural 1?destruído; other?destruídos;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Destrua {1_Num} acampamentos bárbaros. ({2_Num} {2_Num: plural 1?destruído; other?destruídos;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_COMPLETE">
-			<Text>Destrua {1_Num} campos bárbaros. Completo!</Text>
+			<Text>Destrua {1_Num} acampamentos bárbaros. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_4_COMPLETE">
 			<Text>Você completou o tutorial Combate e Conquista! Belo trabalho!</Text>
@@ -907,7 +907,7 @@
 			<Text>Precisamos continuar a explorar os mares para encontrar novos continentes para colonizar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON_SEA">
-			<Text>Exploramos com eficácia as águas litorâneas. Nós não precisamos enviar mais unidades para explorar os mares.</Text>
+			<Text>Exploramos com eficácia as águas litorâneas. Não precisamos enviar mais unidades para explorar os mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
 			<Text>Temos espaço para expandir, então vamos treinar um [COLOR_UNIT_TEXT]Colono[/COLOR] e fundar uma nova cidade!</Text>
@@ -955,13 +955,13 @@
 			<Text>Nossa pátria é um continente pequeno, sem muito espaço para expansão. Precisamos nos concentrar em tecnologias navais até que possamos embarcar unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] é muito pequena neste momento para realizar grandes edificações, como maravilhas. Foque em crescê-la para um tamanho maior antes de assumir grandes projetos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] é muito pequena neste momento para realizar grandes edificações, como maravilhas. Concentre-se em fazê-la crescer para um tamanho maior antes de assumir grandes projetos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não possui litoral, o que significa que não há acesso por águas. Então você terá que se preocupar mais com os ursos do que com os tubarões.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não possui litoral, o que significa que não há acesso por água. Então você terá que se preocupar mais com os ursos do que com os tubarões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_TILE_IMPROVERS">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] necessita de [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar os hexágonos das proximidades. Devemos treinar um Trabalhador em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] e ordená-lo que melhore as terras ao redor.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] necessita de [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar os hexágonos das proximidades. Devemos treinar um Trabalhador em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] e ordená-lo a melhorar as terras ao redor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_WANT_TILE_IMPROVERS">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] se beneficiaria muito se tivesse os hexágonos em volta melhorados. Considere treinar um Trabalhador para ajudá-la.</Text>
@@ -970,10 +970,10 @@
 			<Text>Acredito que, neste momento, [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não precisa treinar mais [COLOR_UNIT_TEXT]Trabalhadores[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edificações como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edificações como o Farol, que melhoram o rendimento desses hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um Barco de Serviço para melhorar o recurso!</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um Barco de Trabalho para melhorar o recurso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>
@@ -994,7 +994,7 @@
 			<Text>Mantenha a guarda em volta de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], nossa Capital. Inimigos estão rondando a área e devemos estar preparados para um ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_UNDER_BLOCKADE">
-			<Text>Os inimigos estão tentando bloquear [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR]! Use os ataques a distância da cidade e barcos próximos para eliminar os navios inimigos que estão no bloqueio.</Text>
+			<Text>Os inimigos estão tentando bloquear [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR]! Use os ataques à distância da cidade e barcos próximos para eliminar os navios inimigos que estão no bloqueio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS">
 			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para desbloquear um bônus {2_Adjective:textkey} exclusivo da nossa civilização!</Text>
@@ -1021,7 +1021,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem uma força militar muito mais forte que nós e seria insensato declarar guerra neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
-			<Text>Estamos tão forte quanto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; esta guerra irá testar a nossa coragem.</Text>
+			<Text>Estamos tão fortes quanto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; esta guerra irá testar a nossa coragem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
 			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está indo bem e temos uma força de combate mais forte que eles. Mantenha a pressão para conseguirmos a vitória!</Text>
@@ -1078,10 +1078,10 @@
 			<Text>O [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não possui uma força militar como a nossa, mas não devemos tirar sarro deles durante as reuniões diplomáticas; eles podem se sentir inseguros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui militares com a mesma força que o nós.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui militares com a mesma força que nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais forte que nós. Não devemos entrar em combate sem um planejamento cuidadoso e gastar um tempo crescendo e melhorando as nossas unidades de combate.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais forte que nós. Não devemos entrar em combate sem um planejamento cuidadoso e sem gastar um tempo crescendo e melhorando as nossas unidades de combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POWERFUL">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está para brincadeiras. Sua força militar é maior que a nossa. Devemos considerar atacar apenas se as circunstâncias forem terríveis.</Text>
@@ -1114,7 +1114,7 @@
 			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Não devemos renovar estes acordos quando for dada a escolha, ou aceite novas ofertas que gerem [ICON_GOLD] Ouro para nós ao invés de perdê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN">
-			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para conseguirmos o nosso rendimento positivo e, assim, termos alguma esperança! Todo dinheiro que poderíamos obter a partir de meios diplomáticos certamente ajudaria no curto-prazo.</Text>
+			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para conseguirmos o nosso rendimento positivo e, assim, termos alguma esperança! Todo dinheiro que poderíamos obter a partir de meios diplomáticos certamente ajudaria no curto prazo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_MAINTENANCE">
 			<Text>Estamos falidos, mas ainda estamos ganhando dinheiro. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades, então elimine todas as unidades que não são absolutamente necessárias para, assim, voltarmos aos bons tempos!</Text>
@@ -1168,31 +1168,31 @@
 			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD] Ouro para nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY">
-			<Text>Temos dinheiro, mas estamos gastando mais do que temos. Precisamos nos concentrar em transformar nossa economia para evitar a vergonha de uma falência!</Text>
+			<Text>Temos dinheiro, mas estamos gastando mais do que arrecadamos. Precisamos nos concentrar em transformar nossa economia para evitar a vergonha de uma falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias se você quiser ter um lucro maior ainda.</Text>
+			<Text>Estamos ganhando dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das unidades. Recomendo eliminar todas as unidades obsoletas ou desnecessárias se você quiser ter um lucro ainda maior.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_SUPPLY">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
+			<Text>Estamos ganhando dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é o abastecimento das unidades. Recomendo mover suas unidades para dentro do nosso território para reduzir o gasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
+			<Text>Estamos ganhando dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das melhorias. Melhore apenas os hexágonos que precisamos para crescer ou seu crescimento pode ficar fora de controle.</Text>
+			<Text>Estamos ganhando dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) é a manutenção das melhorias. Melhore apenas os hexágonos que precisamos para crescer, ou seu crescimento pode ficar fora de controle.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_DIPLOMACY">
-			<Text>Estamos fazendo dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes negócios no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD] Ouro para nossa civilização!</Text>
+			<Text>Estamos ganhando dinheiro! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD] Ouro por turno) são as ofertas diplomáticas. Considere diminuir estes acordos no futuro ou formar outras ofertas diplomáticas que tragam algum [ICON_GOLD] Ouro para nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY">
-			<Text>Estamos fazendo dinheiro!</Text>
+			<Text>Estamos ganhando dinheiro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Temos trabalhado muito para desenvolver esse relacionamento, seria triste perder um aliado devido à negligência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_WAR_WITH_MAJOR">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; Se declararmos guerra a essa civilização manteremos a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; Se declararmos guerra a essa civilização, manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_ROUTE">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos uma rota da nossa capital para a sua cidade; Se fizermos isso, manteremos a nossa aliança.</Text>
@@ -1201,7 +1201,7 @@
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
@@ -1279,7 +1279,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]! Por que eles querem isso? Soa cruel, mas eu tenho certeza que é por uma razão perfeitamente válida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que entremos em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR]. Se a encontramos em nossas explorações, ganharíamos uma influência facilmente.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que entremos em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR]. Se a encontrarmos em nossas explorações, ganharíamos uma influência facilmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
 			<Text>A descoberta de uma maravilha natural nos daria mais influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR].</Text>
@@ -1288,7 +1288,7 @@
 			<Text>Matar todos os bárbaros perto do território de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] nos dará alguma influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e a libertarmos, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
 			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH] ciência com {2_Num} de [ICON_CITIZEN] população.</Text>
@@ -1306,7 +1306,7 @@
 			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_2">
-			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] em nossas cidades. Nós colocaremos nossa pesquisa em um novo patamar!</Text>
+			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] em nossas cidades. Colocaremos nossa pesquisa em um novo patamar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_3">
 			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir as edificações [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@4_BldgName}[/COLOR] em nossas cidades. É um monte de edificações que geram pontos de ciência!</Text>
@@ -1318,7 +1318,7 @@
 			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter um exército moderno é a chave para ataques seguros e eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
-			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], a qual, quando construída, obterá promoções para as unidades construídas na cidade.</Text>
+			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], a qual, quando construída, concederá promoções para as unidades construídas na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
 			<Text>Não temos nenhum acesso ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] e há uma fonte próxima à cidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Envie um Trabalhador para melhorar o hexágono para que possamos nos beneficiar desse recurso.</Text>
@@ -1330,13 +1330,13 @@
 			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR], que não os possui. Devemos tentar fechar um acordo com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
-			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem, eventualmente, serem usadas contra nós.</Text>
+			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem, eventualmente, ser usadas contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
 			<Text>Por favor, me perdoe; Lamento por não ter conselhos muito úteis neste momento. Talvez você deva construir mais cidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_MILITARY">
-			<Text>Construa mais unidades! Ou não. Eu não tenho muitos conselhos neste momento. Eu posso pensar em alguma coisa se você perguntar depois.</Text>
+			<Text>Construa mais unidades! Ou não. Eu não tenho muitos conselhos neste momento. Posso pensar em alguma coisa se você perguntar depois.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_SCIENCE">
 			<Text>Este poço de sabedoria está seco no momento.</Text>

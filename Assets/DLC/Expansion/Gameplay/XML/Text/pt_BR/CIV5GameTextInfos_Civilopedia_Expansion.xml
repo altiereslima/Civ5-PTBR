@@ -1732,7 +1732,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Grande Espadachim[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]Planetário[ENDCOLOR], que fornece um significativo impulso na [ICON_RESEARCH] Ciência. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significativo impulso na [ICON_RESEARCH] Ciência. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD] Ouro produzido pela cidade, além do [COLOR_POSITIVE_TEXT]Condestável[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>

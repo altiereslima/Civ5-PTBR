@@ -95,7 +95,7 @@
       <Text>Unidades de ficção científica</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_3">
-      <Text>Ficção cientifica</Text>
+      <Text>Ficção científica</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_30">
       <Text>Unidades de fantasia</Text>
@@ -191,7 +191,7 @@
       <Text>Líderes</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_7">
-      <Text>Interface do usuário</Text>
+      <Text>Interface do Usuário</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_8">
       <Text>Skins</Text>
@@ -227,7 +227,7 @@
       <Text>Desativar</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOAD_AGREEMENT">
-      <Text>Você irá baixar um Mod ou pacote de software criado por um usuário. O uso de Mods traz alguns riscos.[NEWLINE][NEWLINE]A 2K Games e Firaxis Games não são os criadores deste Mod que pode conter um vírus ou qualquer outro conteúdo malicioso.[NEWLINE][NEWLINE]Ao baixar este arquivo você compreende e aceita estes riscos e exclui a 2K Games, Firaxis Games e suas afiliadas e agentes de toda responsabilidade relacionada com o uso deste arquivo.</Text>
+      <Text>Você irá baixar um Mod ou pacote de software criado por um usuário. O uso de Mods traz alguns riscos.[NEWLINE][NEWLINE]A 2K Games e a Firaxis Games não são os criadores deste Mod, que pode conter um vírus ou qualquer outro conteúdo malicioso.[NEWLINE][NEWLINE]Ao baixar este arquivo, você compreende e aceita estes riscos e exclui a 2K Games, a Firaxis Games e suas afiliadas e agentes de toda responsabilidade relacionada com o uso deste arquivo.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOADER_NOTINITIALIZED">
       <Text>Não se pode baixar porque não foi iniciado o Microsoft BITS.</Text>
@@ -278,7 +278,7 @@
       <Text>Houve um erro de conexão.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION_TIMEOUT">
-      <Text>O tempo da conexão expirou</Text>
+      <Text>O tempo da conexão expirou.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_ERROR_GENERIC">
       <Text>Ocorreu um erro</Text>
@@ -341,7 +341,7 @@
       <Text>Primeira página</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_DESCRIPTION">
-      <Text>Utilize este formulário para nos informar sobre um mod que viola os nossos Termos de Serviço. Por favor, veja as explicações sobre o conteúdo do relatório e escolha a razão mais adequada no menu acima. Para obter mais informações sobre o que é permitido, consulte os nossos Termos de serviço. Se for descoberto que um mod viola os Termos de Serviço, ele será eliminado. O envio deste formulário está sujeito aos Termos do Serviço 2KGames. O abuso desta forma (spam, assédio etc.) pode resultar em sanção permanente na sua conta. Todos os dados relacionados com o envio deste formulário serão gravados.</Text>
+      <Text>Utilize este formulário para nos informar sobre um mod que viola os nossos Termos de Serviço. Por favor, veja as explicações sobre o conteúdo do relatório e escolha a razão mais adequada no menu acima. Para obter mais informações sobre o que é permitido, consulte os nossos Termos de Serviço. Se for descoberto que um mod viola os Termos de Serviço, ele será eliminado. O envio deste formulário está sujeito aos Termos do Serviço 2KGames. O abuso desta forma (spam, assédio etc.) pode resultar em sanção permanente na sua conta. Todos os dados relacionados com o envio deste formulário serão gravados.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_MODERATION">
       <Text>Relatar</Text>
@@ -356,7 +356,7 @@
       <Text>Infringe um copyright ou marca comercial</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_REASON_2">
-      <Text>Malicioso (contém um vírus ou cavalo de troia)</Text>
+      <Text>Malicioso (contém um vírus ou cavalo de Troia)</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_REASON_3">
       <Text>Conteúdo ofensivo</Text>
@@ -431,7 +431,7 @@
       <Text>Classificação:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELSIZE">
-      <Text>Superfície:</Text>
+      <Text>Tamanho:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELSPECIALTHANKS">
       <Text>Agradecimentos especiais:</Text>
@@ -452,7 +452,7 @@
       <Text>Última atualização:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELUPLOADEDBY">
-      <Text>Transferida por:</Text>
+      <Text>Enviado por:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELVERSION">
       <Text>Versão:</Text>
@@ -521,7 +521,7 @@
       <Text>Página anterior</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_PRIVACYPOLICY">
-      <Text>Política de confidencialidade</Text>
+      <Text>Política de Privacidade</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_PROGRESSNA">
       <Text>n/a</Text>
@@ -629,7 +629,7 @@
       <Text>SEM PARTIDAS PERSONALIZADAS</Text>
     </Row>
     <Row Tag="TXT_KEY_SELECT_CUSTOM_GAME">
-      <Text>Seleciona uma partida personalizada</Text>
+      <Text>Selecionar um jogo personalizado</Text>
     </Row>
 	<!-- new text -->
 	<Row Tag="TXT_KEY_SELECT_SCENARIO">
@@ -673,25 +673,25 @@
 		<Text>Apagar</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_CONFIRM">
-		<Text>Tem certeza que deseja cancelar a inscrição deste mod? Isso removerá o mod do seu computador.</Text>
+		<Text>Tem certeza de que deseja cancelar a inscrição deste mod? Isso removerá o mod do seu computador.</Text>
 	</Row>
     <Row Tag="TXT_KEY_MODDING_NEXT">
       <Text>PRÓXIMO</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_WORKSHOP">
-      <Text>ENCONTRE MODS</Text>
+      <Text>ENCONTRAR MODS</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_WORKSHOP_TT">
       <Text>Clique para abrir o Steam e navegar por mods disponíveis.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_ENABLEINSTRUCTIONS">
-      <Text>Para habilitar um mod, clique no ícone da caixa de seleção à direta do mesmo.</Text>
+      <Text>Para habilitar um mod, clique no ícone da caixa de seleção à direita do mesmo.</Text>
     </Row>
 	<Row Tag="TXT_KEY_MODDING_OPTIONS">
 		<Text>Opções...</Text>
 	</Row>    
     <Row Tag="TXT_KEY_MODDING_AUTOUPDATEMODS">
-      <Text>Auto atualizar mods</Text>
+      <Text>Atualizar mods automaticamente</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_SHOWDLCMODS">
       <Text>Exibir mods DLC</Text>

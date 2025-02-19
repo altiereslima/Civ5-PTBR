@@ -12,7 +12,7 @@
             <Text>Embarcado</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_TITLE">
-            <Text>Unidade de suprimento</Text>
+            <Text>Suprimento das Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_HANDICAP_SUPPLY_TT">
             <Text>Fornecido pelo nível de dificuldade</Text>
@@ -54,10 +54,10 @@
             <Text>Há mais unidades que suprimentos</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT">
-            <Text>Fornecimento deficitário</Text>
+            <Text>Suprimento deficitário</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY_TT">
-            <Text>Penalidade pelo défice do fornecimento</Text>
+            <Text>Penalidade pelo déficit de suprimento</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY">
             <Text>Penalidade na produção</Text>
@@ -85,10 +85,10 @@
         </Row>
         <!-- End Game Screen -->
         <Row Tag="TXT_KEY_VICTORY_INFO">
-            <Text>INFORMAÇÃO</Text>
+            <Text>INFORMAÇÕES</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_TECHNOLOGY">
-            <Text>Você conseguiu a Vitória pelo domínio da Ciência! Você conquistou os mistérios da natureza e levou seu povo a uma viagem ao um Novo Mundo! Seu triunfo será lembrado para sempre, como as estrelas que brilham no céu à noite!</Text>
+            <Text>Você conseguiu a Vitória pelo domínio da Ciência! Você conquistou os mistérios da natureza e levou seu povo a uma viagem a um Novo Mundo! Seu triunfo será lembrado para sempre, como as estrelas que brilham no céu à noite!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_DOMINATION">
             <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
@@ -97,7 +97,7 @@
             <Text>Você conseguiu a Vitória através da sua incrível e poderosa Cultura. A grandeza da sua Civilização - monumentos magníficos e os poderes dos Artistas - surpreendeu todo o mundo! Poetas te honrarão enquanto a beleza trouxer alegria aos corações cansados.</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_DIPLOMACY">
-            <Text>Você triunfou perante seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria conquistaram grandes amigos - e dividiu semeando confusão entre seus inimigos! Você sempre será lembrado como o líder que trouxe a paz para um mundo fadigado!</Text>
+            <Text>Você triunfou perante seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria conquistaram grandes amigos - e dividiu semeando confusão entre seus inimigos! Você sempre será lembrado como o líder que trouxe a paz para um mundo fatigado!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_TIME">
             <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
@@ -106,7 +106,7 @@
             <Text>Você foi derrotado. Sua Civilização foi dominada pelos seus inimigos. Mas seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à vitória!</Text>
         </Row>
 		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DEMO">
-			<Text>Muitos anos se passaram desde a ascensão de sua grande e poderosa Civilização, mas infelizmente seu tempo chegou ao fim. Porem, o seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à Vitória!</Text>
+			<Text>Muitos anos se passaram desde a ascensão de sua grande e poderosa Civilização, mas infelizmente seu tempo chegou ao fim. Porém, o seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à Vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DEMO_BANG">
 			<Text>DEMONSTRAÇÃO COMPLETA!</Text>
@@ -195,7 +195,7 @@
             <Text>Terra</Text>
         </Row>
         <Row Tag="TXT_KEY_DEMOGRAPHICS_LAND_MEASURE">
-            <Text>Quilômetro quadrado</Text>
+            <Text>Quilômetros quadrados</Text>
         </Row>
         <Row Tag="TXT_KEY_DEMOGRAPHICS_ARMY">
             <Text>Soldados</Text>
@@ -302,7 +302,7 @@
             <Text>Nenhuma ação diplomática</Text>
         </Row>
         <Row Tag="TXT_KEY_PACT_OF_COOPERATION">
-            <Text>Pacto de cooperação</Text>
+            <Text>Pacto de Cooperação</Text>
         </Row>
         <Row Tag="TXT_KEY_PACT_OF_SECRECY">
             <Text>Pacto secreto com {1_ally} contra {2_enemy}</Text>
@@ -339,7 +339,7 @@
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_DO_OPEN_BORDERS">
-            <Text>Abrir fronteiras</Text>
+            <Text>Fronteiras Abertas</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_WORKING_WITH">
             <Text>Trabalhando com</Text>
@@ -378,7 +378,7 @@
             <Text>Duração do Acordo: {1_turn} {1: plural 1?turno; other?turnos;}</Text>
         </Row>		
         <Row Tag="TXT_KEY_DO_MAJORS">
-            <Text>Poderes Principais</Text>
+            <Text>Grandes Potencias</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_CITY_STATES">
             <Text>Cidades-Estado</Text>
@@ -442,7 +442,7 @@
             <Text>Pontos de ciência perdidos / turno</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_PENALTY_TT">
-            <Text>Penalidade por défice de ouro</Text>
+            <Text>Penalidade por déficit de ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_GROSS">
             <Text>[ICON_GOLD] bruto / turno</Text>
@@ -613,7 +613,7 @@
 			<Text>Em razão dos bônus que seu Império adquiriu, elas produzem {1_Num}% da quantidade normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_SPECIALIST">
-			<Text>Em razão dos bônus que se Império adquiriu, cidadãos Especialistas produzem metade da quantidade normal de [ICON_HAPPINESS_4] Infelicidade.</Text>
+			<Text>Em razão dos bônus que seu Império adquiriu, cidadãos Especialistas produzem metade da quantidade normal de [ICON_HAPPINESS_4] Infelicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES">
 			<Text># de cidades ocupadas ({1_Num})</Text>
@@ -695,37 +695,37 @@
             <Text>Nome da Civilização</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVILIZATION_SHORT_NAME">
-            <Text>Nome resumido da civilização</Text>
+            <Text>Nome Resumido da Civilização</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVILIZATION_ADJECTIVE">
-            <Text>Adjetivo-Pátrio da Civilização</Text>
+            <Text>Adjetivo Pátrio da Civilização</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TRAIT_NAME">
-            <Text>Característica única</Text>
+            <Text>Característica Única</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEUNIT_NAME">
-            <Text>Nome da unidade exclusiva</Text>
+            <Text>Nome da Unidade Exclusiva</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_NAME">
-            <Text>Nome da edificação exclusiva</Text>
+            <Text>Nome da Edificação Exclusiva</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEIMPR_NAME">
-            <Text>Nome da melhoria exclusiva</Text>
+            <Text>Nome da Melhoria Exclusiva</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_REPLACE_NAME">
-            <Text>Substituir o nome</Text>
+            <Text>Substituir o Nome</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_NAME">
-            <Text>Nome das melhorias</Text>
+            <Text>Nome das Melhorias</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_FEATURE_NAME">
-            <Text>Nome da característica</Text>
+            <Text>Nome da Característica</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_NAME">
-            <Text>Nome do terreno</Text>
+            <Text>Nome do Terreno</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_SECTION">
-            <Text>Seção de tecnologia</Text>
+            <Text>Seção de Tecnologia</Text>
         </Row>
         <Row Tag="TXT_KEY_SEARCH_BUTTON">
             <Text>Procurar</Text>
@@ -734,7 +734,7 @@
             <Text>O texto "{1_stringEntered}" não foi encontrado.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RESEARCH_LABEL">
-            <Text>Pesquisa científica</Text>
+            <Text>Pesquisa Científica</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_BLURB_TEXT">
             <Text>[NEWLINE][TAB][TAB]"Assim como um patriota orgulhoso, não importa por onde vagamos, o primeiro e melhor país será sempre o nosso."[NEWLINE][TAB][TAB]  - Oliver Goldsmith[NEWLINE][TAB]</Text>
@@ -743,10 +743,10 @@
             <Text>Você está jogando o Civilization V v.1.0.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_VERSION_LABEL">
-            <Text>Informação da versão</Text>
+            <Text>Informação da Versão</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_TEXT">
-            <Text>Bem-vindo à Civilopédia! Aqui você encontrará descrições mais detalhadas de todos os aspectos do jogo. Utilize o campo "Procurar" para encontrar artigos de qualquer assunto. Clicando em qualquer aba da borda superior da tela você será levado às principais seções da Civilopédia. A barra de navegação do lado esquerdo irá exibir várias entradas de uma seção. Clique nestas entradas para ir direto ao assunto.[NEWLINE][NEWLINE]Na parte superior esquerda da tela, você encontrará os botões de Avançar e Voltar, para ajudá-lo a navegar nas páginas exibidas. Clique no botão "X", na parte superior direita da tela, para voltar ao jogo.</Text>
+            <Text>Bem-vindo à Civilopédia! Aqui você encontrará descrições mais detalhadas de todos os aspectos do jogo. Utilize o campo "Procurar" para encontrar artigos de qualquer assunto. Clicando em qualquer aba da borda superior da tela, você será levado às principais seções da Civilopédia. A barra de navegação do lado esquerdo irá exibir várias entradas de uma seção. Clique nestas entradas para ir direto ao assunto.[NEWLINE][NEWLINE]Na parte superior esquerda da tela, você encontrará os botões de Avançar e Voltar, para ajudá-lo a navegar nas páginas exibidas. Clique no botão "X", na parte superior direita da tela, para voltar ao jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_LABEL">
             <Text>Civilopédia</Text>
@@ -755,40 +755,40 @@
             <Text>Página Inicial da Civilopédia</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL">
-            <Text>Página Inicial - Conceitos do jogo</Text>
+            <Text>Página Inicial - Conceitos do Jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
-            <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação a sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>
+            <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação à sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECHNOLOGIES_HELP_TEXT">
             <Text>A Tecnologia é extremamente importante para o sucesso ou fracasso de sua civilização. São 70 tecnologias no jogo, e cada uma oferece vantagens importantes. Algumas tecnologias permitirão construir novas edificações e maravilhas, outras aumentarão a produção dos seus terrenos e minas, outras permitirão a construção de ferrovias ou armamentos avançados.[NEWLINE][NEWLINE]É extremamente importante que sua civilização se mantenha competitiva na corrida tecnológica. Se ficar para trás um ou mais passos, poderá encarar o mesmo dilema dos Astecas que enfrentaram mosquetes e canhões espanhóis com espadas e estilingues. E como a própria história nos mostra, o aprimoramento avançado de tecnologias terá sempre sucesso nesses encontros.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNITS_HELP_TEXT">
-			<Text>As Unidades representam a parte móvel da sua Civilização, os trabalhadores em suas colheitas e mineração, os colonos que constroem cidades, as Grandes Personalidades que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
+			<Text>As Unidades representam a parte móvel da sua Civilização: os trabalhadores em suas colheitas e mineração, os colonos que constroem cidades, as Grandes Personalidades que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E, claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado, pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PROMOTIONS_HELP_TEXT">
             <Text>Suas unidades ganharão promoções através de combates e também quando são treinadas em cidades com Quartéis ou outras edificações militares. Estas promoções melhoram significativamente a capacidade de combate, aumentam a circulação ou a taxa de cura das suas unidades. Uma unidade que possui várias promoções é valiosíssima. Use-as com sabedoria nas batalhas e as atualize sempre que possível.</Text>
 		</Row>
         <Row Tag="TXT_KEY_PEDIA_BUILDINGS_HELP_TEXT">
-            <Text>Edificações podem melhorar significativamente a riqueza, população, defesa ou produtividade de uma cidade. Algumas melhoram a qualidade de algumas unidades militares construídas ali, enquanto outras permitirão que uma cidade costeira produza alimentos a partir do oceano.[NEWLINE][NEWLINE]É importante a construção de edificações. Se sua civilização está envolvido em alguma batalha, é natural que concentre toda sua produção em Unidades Militares, porém se insistir nesta ideia por muito tempo, suas cidades ficarão inferiores a outras de civilizações mais desenvolvidas, colocando você em grande desvantagem no decorrer do jogo.</Text>
+            <Text>Edificações podem melhorar significativamente a riqueza, população, defesa ou produtividade de uma cidade. Algumas melhoram a qualidade de algumas unidades militares construídas ali, enquanto outras permitirão que uma cidade costeira produza alimentos a partir do oceano.[NEWLINE][NEWLINE]É importante a construção de edificações. Se sua civilização está envolvida em alguma batalha, é natural que concentre toda sua produção em Unidades Militares, porém, se insistir nesta ideia por muito tempo, suas cidades ficarão inferiores a outras de civilizações mais desenvolvidas, colocando você em grande desvantagem no decorrer do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_WONDERS_HELP_TEXT">
-            <Text>Maravilhas são construções extraordinárias. Tão singulares que fazem uma Civilização ser lembrada por toda história. Maravilhas podem ocupar a mente e elevar o espírito.[NEWLINE][NEWLINE]As Pirâmides, Catedral de Notre Dame e Stonehenge são exemplos de Maravilhas. Maravilhas requerem bastante tempo e energia para serem construídas, porém uma vez concluídas, fornecem muitos benefícios a sua civilização.[NEWLINE][NEWLINE]Existem três tipos básicos de Maravilhas: do Mundo, Nacionais e Projeto de Maravilha. Somente uma cópia de uma Maravilha do Mundo poderá ser construída em qualquer lugar em um determinado jogo. Maravilhas Nacionais são menos exclusivas, podendo cada país construir uma (e apenas uma) cópia.</Text>
+            <Text>Maravilhas são construções extraordinárias. Tão singulares que fazem uma Civilização ser lembrada por toda história. Maravilhas podem ocupar a mente e elevar o espírito.[NEWLINE][NEWLINE]As Pirâmides, a Catedral de Notre Dame e Stonehenge são exemplos de Maravilhas. Maravilhas requerem bastante tempo e energia para serem construídas, porém, uma vez concluídas, fornecem muitos benefícios à sua civilização.[NEWLINE][NEWLINE]Existem três tipos básicos de Maravilhas: do Mundo, Nacionais e Projeto de Maravilha. Somente uma cópia de uma Maravilha do Mundo poderá ser construída em qualquer lugar em um determinado jogo. Maravilhas Nacionais são menos exclusivas, podendo cada país construir uma (e apenas uma) cópia.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SOCIAL_POL_HELP_TEXT">
             <Text>Políticas Sociais representam a forma pela qual você escolheu governar seu povo. Você será um governante autoritário, sacrificando um pouco da liberdade em favor da disciplina e aumento da produtividade? Você guiará sua civilização para ter um exército forte ou concentrará seus esforços na expansão cultural? Será um monarca ou um democrata?[NEWLINE][NEWLINE]As Políticas Sociais possuem efeitos concretos no jogo. Algumas poderão aumentar a produção das suas cidades, outras gerar mais riquezas ou ainda criar unidades militares mais eficazes.[NEWLINE][NEWLINE]Não há certo ou errado em suas escolhas nas Políticas Sociais. Uma política pode ser circunstancialmente melhor que a outra (suponhamos que se você estiver rodeado de civilizações agressivas, poderá tomar um caminho diferente se estivesse relativamente isolado), podendo se adequar melhor ao seu estilo de jogo. Experimente-as e veja.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-            <Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Personalidades".[NEWLINE][NEWLINE]Existem cinco tipos diferentes de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades por meio da construção de certos edificações e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Personalidades. Equilibrar a necessidade de alimentos e o desejo de Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
+            <Text>Por vezes, ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade os colocava acima dos demais. Neste jogo, esses visionários são chamados "Grandes Personalidades".[NEWLINE][NEWLINE]Existem cinco tipos diferentes de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades por meio da construção de certas edificações e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram, e muito, a chegada de Grandes Personalidades. Equilibrar a necessidade de alimentos e o desejo de Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVS_HELP_TEXT">
             <Text>Há uma grande variedade de civilizações e líderes a serem escolhidos no jogo. Cada qual possui suas próprias unidades especiais, edificações e/ou habilidades - a América tem o Miliciano e o Bombardeiro B17, Roma recebeu a Legião e a Balista, a Rússia o Cossaco e o Krepost. Aprender os pontos fortes e fracos de cada civilização torna o jogo mais divertido, tornando-o diferente a cada vez. Se você jogar com o Egito, utilizando a mesma estratégia de quando joga com a Índia, você pode não ter entendido muito bem o sentido do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
-            <Text>Cidades-Estado representam as pequenas civilizações que ocupam o mundo. Cidades-Estado são exatamente isso: Estados centralizados em uma cidade. Não podem criar Colonos e, portanto, não podem construir novas cidades (seu território pode ser expandido, porém não pode possuir mais que uma cidade). A exceção para isso é pela conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]A exceção para isso é a conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]Se você se tornar amigo de uma Cidade-Estado, ela poderá fornecer alimentos, cultura ou mesmo unidades militares. Caso você ataque uma Cidade-Estado, poderá capturá-la, adicionando-a em seu Império. (Mas tenha cautela, você poderá fazer com que as outras Cidades-Estado declarem guerra a sua Civilização.)</Text>
+            <Text>Cidades-Estado representam as pequenas civilizações que ocupam o mundo. Cidades-Estado são exatamente isso: Estados centralizados em uma cidade. Não podem criar Colonos e, portanto, não podem construir novas cidades (seu território pode ser expandido, porém não podem possuir mais que uma cidade). A exceção para isso é pela conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]A exceção para isso é a conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]Se você se tornar amigo de uma Cidade-Estado, ela poderá fornecer alimentos, cultura ou mesmo unidades militares. Caso você ataque uma Cidade-Estado, poderá capturá-la, adicionando-a em seu Império. (Mas tenha cautela, você poderá fazer com que as outras Cidades-Estado declarem guerra a sua Civilização.)</Text>
 		</Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
-            <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como as florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
+            <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas, assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT">
 			<Text>As Características são elementos do terreno ou da vegetação sobre o hexágono. (Exemplo: os hexágonos de pasto poderão conter florestas ou pântanos sobre eles). Modificando essas características, você poderá alterar a produtividade e os "pontos de movimentos" (MP) que uma unidade gasta para passar pelo hexágono. As Características poderão fornecer também bônus de combate defensivo ou sanções a unidades inimigas ocupantes daquele hexágono.</Text>
@@ -800,10 +800,10 @@
             <Text>Terreno</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RESOURCES_HELP_TEXT">
-            <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações os mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
+            <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações dos mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
-            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, pedreiras, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, pedreiras, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorias. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
             <Text>Página Inicial - Tecnologias</Text>
@@ -863,19 +863,19 @@
             <Text>[NEWLINE][TAB][TAB]"Honestidade é a melhor política."[NEWLINE][TAB][TAB]  - Miguel de Cervantes[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_PEOPLE">
-            <Text>[NEWLINE][TAB][TAB]"Não tenha medo da grandeza: alguns nascem grandes, outros conseguem a grandeza e alguns a tem lançada sobre eles. "[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"Não tenha medo da grandeza: alguns nascem grandes, outros conseguem a grandeza e alguns a têm lançada sobre eles. "[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CIVS">
             <Text>[NEWLINE][TAB][TAB]"O verdadeiro teste de uma civilização não é o censo, nem o tamanho das suas cidades, nem suas culturas, mas o tipo de homem que nasce naquele país."[NEWLINE][TAB][TAB]  - Ralph Waldo Emerson[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CITYSTATES">
-            <Text>[NEWLINE][TAB][TAB]"A cidade é a professora do homem."[NEWLINE][TAB][TAB]  - Simonides[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"A cidade é a professora do homem."[NEWLINE][TAB][TAB]  - Simónides[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TERRAIN">
             <Text>[NEWLINE][TAB][TAB]"Aguente firme. Não atire enquanto não atirarem, mas se quiserem guerra, iniciemos aqui"[NEWLINE][TAB][TAB]  - John Parker[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_RESOURCES">
-            <Text>[NEWLINE][TAB][TAB]"Não procure vida na imortalidade, mas desfrute ao máximo todos os recursos a sua volta"[NEWLINE][TAB][TAB]  - Pindar[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"Não procure vida na imortalidade, mas desfrute ao máximo todos os recursos a sua volta"[NEWLINE][TAB][TAB]  - Píndaro[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_IMPROVEMENTS">
             <Text>[NEWLINE][TAB][TAB]"Se eu puder de alguma forma contribuir com a diversão ou com a melhora do meu país, irei deixá-lo [...] com a secreta satisfação de não ter vivido em vão."[NEWLINE][TAB][TAB]  - Joseph Addison[NEWLINE][TAB]</Text>
@@ -1207,7 +1207,7 @@
             <Text>Felicidade</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_11">
-            <Text>Névoa da guerra</Text>
+            <Text>Névoa da Guerra</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_12">
             <Text>Políticas Sociais</Text>
@@ -1373,13 +1373,13 @@
             <Text>Encerrar automaticamente o turno no modo multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar a troca de turno automático em jogos multijogador.</Text>
+            <Text>Habilitar a troca de turno automática em jogos multijogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN">
             <Text>Encerrar automaticamente o turno no modo um jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar a troca de turno automático no modo um jogador.</Text>
+            <Text>Habilitar a troca de turno automática no modo um jogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_LENGTH">
             <Text>Duração para o fim de um turno: 10 segundos</Text>
@@ -1406,7 +1406,7 @@
             <Text>Máximo de salvam. automáticos:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
-            <Text>Número máximo de salvamentos automáticos mantidos até que o jogo comece apagar os antigos</Text>
+            <Text>Número máximo de salvamentos automáticos mantidos até que o jogo comece a apagar os antigos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI">
             <Text>Tamanho automático da interface</Text>
@@ -1574,7 +1574,7 @@
             <Text>Salva as opções e retorna para o Menu.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RESOLUTION_TIMER">
-            <Text>Você deseja manter esta resolução? (Será restaurado ao esgotar o tempo)</Text>
+            <Text>Você deseja manter esta resolução? (Será restaurada ao esgotar o tempo)</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
             <!--Text>Para alterar o idioma irá recarregar toda interface. De acordo? </Text-->
@@ -1752,7 +1752,7 @@
             <Text>Salvar</Text>
         </Row>
         <Row Tag="TXT_KEY_MENU_SAVE_MAP_DESC">
-            <Text>Salvar um mapa irá preservar os dados do terreno do jogo que você está jogando atualmente, podendo ser aberto pelo World Builder Tool. Permitirá você ter um modelo para trabalhar na criação de seu próprio mapa ou retornar a este mapa para próximos jogos.</Text>
+            <Text>Salvar um mapa irá preservar os dados do terreno do jogo que você está jogando atualmente, podendo ser aberto pelo World Builder Tool. Isso permitirá que você tenha um modelo para trabalhar na criação de seu próprio mapa ou retornar a este mapa para próximos jogos.</Text>
         </Row>
         <!-- Policies -->
         <Row Tag="TXT_KEY_ADVANCED_VIEW">
@@ -1862,7 +1862,7 @@
 			<Text>[ICON_CITIZEN] População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_FOODPERTURN">
-			<Text>[ICON_FOOD] Alimento Por Turno</Text>
+			<Text>[ICON_FOOD] Alimento por Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALLAND">
 			<Text>Território Total</Text>
@@ -1899,7 +1899,7 @@
 		</Row>
 		<!-- patch 674 -->
 		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT_NORMALLY">
-			<Text>Cada cidade (não ocupada) produz 3 [ICON_HAPPINESS_4] Infelicidade (Normalmente).</Text>
+			<Text>Cada cidade (não ocupada) produz 3 [ICON_HAPPINESS_4] de Infelicidade (Normalmente).</Text>
 		</Row>		
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT" >
             <Text>Movimento rápido</Text>
@@ -2085,7 +2085,7 @@
         <Text>Pitboss de Civilization 5</Text>
       </Row>
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_BODY_HEADER">
-        <Text>Olá!&lt;br&gt;&lt;br&gt;É a vez do seu turno no jogo "{1_GameName}".&lt;br&gt;&lt;br&gt;</Text>
+        <Text>Olá!&lt;br&gt;&lt;br&gt;É a sua vez no jogo "{1_GameName}".&lt;br&gt;&lt;br&gt;</Text>
       </Row>
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_STEAM_LINK">
         <Text>&lt;a href="{1_SteamURL}"&gt;Clique aqui para entrar no jogo.&lt;/a&gt;</Text>

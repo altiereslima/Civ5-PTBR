@@ -342,7 +342,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROMAN_BALLISTA">
-			<Text>Balista</Text>
+			<Text>Balista|Balistas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -447,7 +447,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_MOUNTED">
-			<Text>Montaria</Text>
+			<Text>Montada</Text>
 			<Gender>feminine:human</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -501,24 +501,24 @@
 			<Text>+25% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
-			<Text>Broca I</Text>
-			<Gender>feminine</Gender>
+			<Text>Treino I</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
 			<Text>+20% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
-			<Text>Broca II</Text>
-			<Gender>feminine</Gender>
+			<Text>Treino II</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
 			<Text>+20% de [ICON_STRENGTH] Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
-			<Text>Broca III</Text>
-			<Gender>feminine</Gender>
+			<Text>Treino III</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
@@ -781,24 +781,24 @@
 			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1">
-			<Text>Briga de Cães I</Text>
-			<Gender>feminine</Gender>
+			<Text>Combate Aéreo I</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
 			<Text>+25% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2">
-			<Text>Briga de Cães II</Text>
-			<Gender>feminine</Gender>
+			<Text>Combate Aéreo II</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
 			<Text>+25% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3">
-			<Text>Briga de Cães III</Text>
-			<Gender>feminine</Gender>
+			<Text>Combate Aéreo III</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
@@ -829,7 +829,7 @@
 			<Text>+25% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1">
-			<Text>Bombardeamento I</Text>
+			<Text>Bombardeio I</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -837,7 +837,7 @@
 			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2">
-			<Text>Bombardeamento II</Text>
+			<Text>Bombardeio II</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -845,7 +845,7 @@
 			<Text>+20% de [ICON_STRENGTH] Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3">
-			<Text>Bombardeamento III</Text>
+			<Text>Bombardeio III</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1055,7 +1055,7 @@
 			<Text>6 hexágonos em todas as direções sempre estarão visíveis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I">
-			<Text>Bônus vs montados (50)</Text>
+			<Text>Bônus vs. Montados (50)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1063,7 +1063,7 @@
 			<Text>50% de bônus contra Unidades Montadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II">
-			<Text>Bônus vs montados (100)</Text>
+			<Text>Bônus vs. Montados (100)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1071,7 +1071,7 @@
 			<Text>100% de bônus contra Unidades Montadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
-			<Text>Bônus vs cidades (20)</Text>
+			<Text>Bônus vs. Cidades (20)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1079,7 +1079,7 @@
 			<Text>20% de bônus contra cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
-			<Text>Bônus vs cidade (50)</Text>
+			<Text>Bônus vs. Cidade (50)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1087,17 +1087,17 @@
             <Text>30% de bônus contra cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY">
-			<Text>Penalidade na defesa</Text>
+			<Text>Penalidade na Defesa</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOUNTED_PENALTY">
-			<Text>Penalidade vs montados</Text>
+			<Text>Penalidade vs. Montados</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_PENALTY">
-			<Text>Penalidade ao atacar cidades (33)</Text>
+			<Text>Penalidade ao Atacar Cidades (33)</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1130,41 +1130,41 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP_HELP">
-			<Text>Pode fazer varredura aérea para eliminar unidades interceptativas</Text>
+			<Text>Pode fazer varredura aérea para eliminar unidades interceptadoras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED">
-			<Text>Penalidade no ataque a distância</Text>
+			<Text>Penalidade no Ataque a Distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED_HELP">
 			<Text>-50% de força ao usar ataques a distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR">
-			<Text>Bônus vs aeronaves (100)</Text>
+			<Text>Bônus vs. Aeronaves (100)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_HELICOPTER">
-			<Text>Bônus vs Helicópteros</Text>
+			<Text>Bônus vs. Helicópteros</Text>
         	<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
-			<Text>Bônus vs Aviões de Combate</Text>
+			<Text>Bônus vs. Aviões de Combate</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bônus vs submarinos (50)</Text>
+			<Text>Bônus vs. Submarinos (50)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
-			<Text>Bônus vs submarinos (100)</Text>
+			<Text>Bônus vs. Submarinos (100)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
-			<Text>Bônus vs tanques</Text>
+			<Text>Bônus vs. Tanques</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1179,7 +1179,7 @@
 			<Plurality>1</Plurality>>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_PENALTY">
-			<Text>Penalidade vs Unidades Navais</Text>
+			<Text>Penalidade vs. Unidades Navais</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1202,7 +1202,7 @@
 			<Text>Não pode entrar em florestas ou selvas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS">
-			<Text>Penalidade em terreno acidentado</Text>
+			<Text>Penalidade em Terreno Acidentado</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1210,7 +1210,7 @@
 			<Text>Ao entrar em terreno acidentado, todo o movimento será consumido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
-			<Text>Precisa-se de Astronomia</Text>
+			<Text>Necessita-se de Astronomia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP">
 			<Text>Não pode navegar o oceano sem Astronomia</Text>
@@ -1228,7 +1228,7 @@
 			<Text>Ignora o custo do terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT">
-			<Text>Unidade parada</Text>
+			<Text>Unidade Parada</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1248,7 +1248,7 @@
 			<Text>Não pode realizar ataques corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES">
-			<Text>Sem bônus terrestres defensivos</Text>
+			<Text>Sem bônus defensivos terrestres</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PARADROP">
 			<Text>Pode lançar paraquedistas</Text>
@@ -1343,7 +1343,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
-			<Text>Bônus de inimigo ferido/avariado</Text>
+			<Text>Bônus contra inimigo ferido/avariado</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1602,12 +1602,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_AYABHATA">
-			<Text>Ayabhata</Text>
+			<Text>Aryabhata</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTFREID_LEIBNIZ">
-			<Text>Gottfreid Leibniz</Text>
+			<Text>Gottfried Leibniz</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1642,7 +1642,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DA_LESSEPS">
-			<Text>Ferdinand da Lesseps</Text>
+			<Text>Ferdinand de Lesseps</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1687,7 +1687,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_VERCINGETORIX">
-			<Text>Vercingetorix</Text>
+			<Text>Vercingetórix</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1712,12 +1712,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_KHALED_IBN_AL_WALID">
-			<Text>Khaled Ibn Al Walid</Text>
+			<Text>Khalid ibn al-Walid</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_MARTEL">
-			<Text>Charles Martel</Text>
+			<Text>Carlos Martel</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1727,7 +1727,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_THE_CONQUEROR">
-			<Text>William - O Conquistador</Text>
+			<Text>Guilherme, o Conquistador</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1747,7 +1747,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_AUITZOTL">
-			<Text>Auítzotl</Text>
+			<Text>Ahuízotl</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1762,7 +1762,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_IVAN_THE_TERRIBLE">
-			<Text>Ivan - O Terrível</Text>
+			<Text>Ivan, o Terrível</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1777,7 +1777,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_MICHEL_DE_RUYTER">
-			<Text>Michel de Ruyter</Text>
+			<Text>Michiel de Ruyter</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1862,7 +1862,7 @@
 			<Text>25% de penalidade ao atacar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB">
-			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano às cidades e qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em Porta-Aviões.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
+			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano às cidades e a qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em Porta-Aviões.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -5,13 +5,13 @@
 <GameData>
   <Language_pt_BR>
     <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
-      <Text>Vitória por conquista</Text>
+      <Text>Vitória por Conquista</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
-      <Text>Você triunfou por meio da Conquista, derrotando todos os seus inimigos em campo de batalha! Você eliminou seus exércitos e capturou suas cidades! O povo se lembrará de sua vitória por muito tempo!</Text>
+      <Text>Você triunfou por meio da Conquista, derrotando todos os seus inimigos no campo de batalha! Você eliminou seus exércitos e capturou suas cidades! O povo se lembrará de sua vitória por muito tempo!</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
-      <Text>Vitória alternativa por conquista</Text>
+      <Text>Vitória Alternativa por Conquista</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
       <Text>O mundo esteve perturbado pela guerra. Muitas civilizações grandes e poderosas caíram, mas você sobreviveu - e se tornou vitorioso! O mundo sempre se lembrará de seu glorioso triunfo!</Text>
@@ -26,19 +26,19 @@
       <Text>Vitória Diplomática</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
-      <Text>Você triunfou sobre seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria te trouxeram muitos amigos - e dividiram seus inimigos lançando confusão sobre eles! Você será para sempre lembrado como o líder que trouxe paz a um mundo perturbado!</Text>
+      <Text>Você triunfou sobre seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria lhe trouxeram muitos amigos - e dividiram seus inimigos, lançando confusão sobre eles! Você será para sempre lembrado como o líder que trouxe paz a um mundo perturbado!</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
       <Text>Vitória Cultural</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
-      <Text>Você conquistou a vitória através do poder Cultural. A grandeza da sua Civilização, o esplendor dos seus monumentos e o poder dos seus artistas surpreenderam o mundo! Poetas honrarão você por trazer alegria aos corações perturbados!</Text>
+      <Text>Você conquistou a vitória através do poder Cultural. A grandeza da sua Civilização, o esplendor dos seus monumentos e o poder dos seus artistas surpreenderam o mundo! Poetas o honrarão por trazer alegria aos corações perturbados!</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
       <Text>Derrota</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
-      <Text>Você foi derrotado. Sua civilização foi dominada pelos seus muitos inimigos. Mas seu povo não se desesperou, pois sabem que um dia você há de voltar e os levará para uma grande vitória!</Text>
+      <Text>Você foi derrotado. Sua civilização foi dominada pelos seus muitos inimigos. Mas seu povo não se desespera, pois sabem que um dia você há de voltar e os levará para uma grande vitória!</Text>
     </Row>
 	<Row Tag="TXT_KEY_EXTENDED_GAME_YES">
 		<Text>Espere! Só mais um turno...</Text>

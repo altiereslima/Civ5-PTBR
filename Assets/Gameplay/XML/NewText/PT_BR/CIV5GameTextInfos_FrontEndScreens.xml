@@ -219,7 +219,7 @@
 			<Text>Médio e pequeno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_MEDIUM_AND_SMALL_HELP">
-			<Text>Um mundo grandes continentes e pequenas ilhas.</Text>
+			<Text>Um mundo com grandes continentes e pequenas ilhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_MIRROR">
 			<Text>Espelhado</Text>
@@ -336,13 +336,13 @@
 			<Text>Uma região semelhante à Sibéria no norte da Ásia, mas com elementos aleatórios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SOUTH_PACIFIC">
-			<Text>Pacífico sul</Text>
+			<Text>Pacífico Sul</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SOUTH_PACIFIC_HELP">
 			<Text>Uma região semelhante à área do Pacífico Sul, incluindo Austrália, sudeste da Ásia e várias ilhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ANCIENT_LAKES">
-			<Text>Lagos antigos</Text>
+			<Text>Lagos Antigos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ANCIENT_LAKES_HELP">
 			<Text>Uma região totalmente terrestre com um grande lago de cratera no meio.</Text>
@@ -354,7 +354,7 @@
 			<Text>Volte para a pasta anterior.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL">
-			<Text>Mapas adicionais</Text>
+			<Text>Mapas Adicionais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL_HELP">
 			<Text>Mapas adicionais disponíveis para o jogo.</Text>
@@ -387,7 +387,7 @@
 			<Text>Um mapa que abrange todo o planeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_WORLD_AGE">
-			<Text>Idade do mundo</Text>
+			<Text>Idade do Mundo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS">
 			<Text>3 bilhões de anos</Text>
@@ -411,7 +411,7 @@
 			<Text>Quente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RAINFALL">
-			<Text>Nível de chuva</Text>
+			<Text>Nível de Chuva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ARID">
 			<Text>Árido</Text>
@@ -420,7 +420,7 @@
 			<Text>Úmido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SEA_LEVEL">
-			<Text>Nível do mar</Text>
+			<Text>Nível do Mar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LOW">
 			<Text>Baixo</Text>
@@ -435,7 +435,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_WATER_SETTING">
-			<Text>Configuração da água</Text>
+			<Text>Configuração da Água</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SPARSE">
 			<Text>Escassos</Text>
@@ -444,16 +444,16 @@
 			<Text>Abundantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LEGENDARY_START">
-			<Text>Início lendário</Text>
+			<Text>Início Lendário</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE">
-			<Text>Balanço estratégico</Text>
+			<Text>Balanço Estratégico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NUM_CONTINENTS">
-			<Text>Número de continentes</Text>
+			<Text>Número de Continentes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_CONTINENT">
-			<Text>Um por continente</Text>
+			<Text>Um por Continente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_CONTINENT_HELP">
 			<Text>Um modelo de mapa será escolhido para fornecer um continente por equipe (máximo de seis, no entanto).</Text>
@@ -489,7 +489,7 @@
 			<Text>Um modelo de mapa será escolhido que inclua exatamente seis grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RESOURCE_APPEARANCE">
-			<Text>Aparição dos recursos</Text>
+			<Text>Aparição dos Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LOGICAL">
 			<Text>Lógico</Text>
@@ -510,10 +510,10 @@
 			<Text>Os recursos serão colocados em locais irracionais e haverá quantidades loucas de alguns tipos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_PATTERN">
-			<Text>Padrão de montanhas</Text>
+			<Text>Padrão de Montanhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES">
-			<Text>Falhas tectônicas</Text>
+			<Text>Falhas Tectônicas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES_HELP">
 			<Text>Cordilheiras de estilo tectônico, ao longo de falhas aleatórias.</Text>
@@ -537,7 +537,7 @@
 			<Text>Cordilheiras em estilo fractal: grandes aglomerados, mas em menor quantidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_DENSITY">
-			<Text>Densidade de montanhas</Text>
+			<Text>Densidade de Montanhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_DENSE">
 			<Text>Denso</Text>
@@ -549,16 +549,16 @@
 			<Text>Escasso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BODIES_OF_WATER">
-			<Text>Corpos d'água</Text>
+			<Text>Corpos d'Água</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SMALL_LAKES">
-			<Text>Pequenos lagos</Text>
+			<Text>Pequenos Lagos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SMALL_LAKES_HELP">
 			<Text>Numerosos e pequenos lagos, bem espalhados pelo mapa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES">
-			<Text>Grandes lagos</Text>
+			<Text>Grandes Lagos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP">
 			<Text>Lagos maiores e alguns oceanos minúsculos aparecerão.</Text>
@@ -570,7 +570,7 @@
 			<Text>Rios sinuosos fluem a partir da cordilheira central.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS">
-			<Text>Rios e mares</Text>
+			<Text>Rios e Mares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS_HELP">
 			<Text>Lagos grandes ou mares, com alguns rios também.</Text>
@@ -588,7 +588,7 @@
 			<Text>A maioria dos corpos d'água será de mares salgados de dimensão modesta, altamente aleatórios em forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BUFFER_ZONES">
-			<Text>Zonas intermediárias</Text>
+			<Text>Zonas Intermediárias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BUFFER_ZONES_HELP">
 			<Text>Escolha se deseja adicionar massas de terra menores entre as regiões criadas para cada civilização.</Text>
@@ -606,7 +606,7 @@
 			<Text>Adicione terra extra entre as civilizações. (Disponível apenas até um máximo de dez civilizações.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LAND_SHAPE">
-			<Text>Forma da terra</Text>
+			<Text>Forma da Terra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NATURAL">
 			<Text>Natural</Text>
@@ -627,64 +627,64 @@
 			<Text>A massa de terra de cada civilização será um bloco sólido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NEUTRAL_TERRITORY">
-			<Text>Território neutro</Text>
+			<Text>Território Neutro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_VARIED">
 			<Text>Variado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISTHMUS_WIDTH">
-			<Text>Largura do istmo</Text>
+			<Text>Largura do Istmo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LANDMASS_TYPE">
-			<Text>Tipo de massa de terra</Text>
+			<Text>Tipo de Massa Terrestre</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_PANGAEA">
 			<Text>Pangeia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_WIDE_CONTINENTS">
-			<Text>Continentes largos</Text>
+			<Text>Continentes Largos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NARROW_CONTINENTS">
-			<Text>Continentes estreitos</Text>
+			<Text>Continentes Estreitos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISLANDS">
 			<Text>Ilhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NUMBER_OF_MAIN_ISLANDS">
-			<Text>Número de ilhas principais</Text>
+			<Text>Número de Ilhas Principais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_PLAYER">
-			<Text>Uma por jogador</Text>
+			<Text>Uma por Jogador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_EXTRAS">
 			<Text>Extras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SEVERAL_EXTRAS">
-			<Text>Vários extras</Text>
+			<Text>Vários Extras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_AMOUNT_OF_TINY_ISLANDS">
-			<Text>Quantidade de ilhas minúsculas</Text>
+			<Text>Quantidade de Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NO_TINY_ISLANDS">
-			<Text>Sem ilhas pequenas</Text>
+			<Text>Sem Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FEW_TINY_ISLANDS">
-			<Text>Poucas ilhas pequenas</Text>
+			<Text>Poucas Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_VARIOUS_TINY_ISLANDS">
-			<Text>Várias ilhas pequenas</Text>
+			<Text>Várias Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MANY_TINY_ISLANDS">
-			<Text>Muitas ilhas pequenas</Text>
+			<Text>Muitas Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MAZE_WIDTH">
 			<Text>Largura do Labirinto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_ONE">
-			<Text>1 hexágono de largura</Text>
+			<Text>1 Hexágono de Largura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO">
-			<Text>2 hexágonos de largura</Text>
+			<Text>2 Hexágonos de Largura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO_HELP">
 			<Text>Pontes conectando subcontinentes terão 2 hexágonos de largura.</Text>
@@ -705,7 +705,7 @@
 			<Text>5 hexágonos de largura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MIRROR_TYPE">
-			<Text>Tipo de espelhamento</Text>
+			<Text>Tipo de Espelhamento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_REFLECTION">
 			<Text>Reflexão</Text>
@@ -720,28 +720,28 @@
 			<Text>Oposto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TEAM_SETTING">
-			<Text>Config. equipe</Text>
+			<Text>Config. Equipe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_START_TOGETHER">
-			<Text>Começar juntos</Text>
+			<Text>Começar Juntos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_START_SEPERATED">
-			<Text>Começar separados</Text>
+			<Text>Começar Separados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_START_ANYWHERE">
-			<Text>Começar em qualquer lugar</Text>
+			<Text>Começar em Qualquer Lugar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_WITHOUT_OCEANS">
-			<Text>Sem oceanos</Text>
+			<Text>Sem Oceanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ARCHIPELAGO">
 			<Text>Arquipélago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TINY_ISLANDS">
-			<Text>Ilhas pequenas</Text>
+			<Text>Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SEVERITY">
-			<Text>Severidade da região desértica</Text>
+			<Text>Severidade da Região Desértica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MILD">
 			<Text>Leve</Text>
@@ -756,49 +756,49 @@
 			<Text>Estéril</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TEAM_PLACEMENT">
-			<Text>Posicionamento das equipes</Text>
+			<Text>Posicionamento das Equipes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TOP_VS_BOTTOM">
-			<Text>Superior vs inferior</Text>
+			<Text>Superior vs. Inferior</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LEFT_VS_RIGHT">
-			<Text>Esquerda vs direita</Text>
+			<Text>Esquerda vs. Direita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FOUR_CORNERS">
-			<Text>Quatro cantos</Text>
+			<Text>Quatro Cantos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RING_WIDTH">
-			<Text>Largura do anel</Text>
+			<Text>Largura do Anel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SPOKE_WIDTH">
-			<Text>Largura dos raios</Text>
+			<Text>Largura dos Raios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_CONTINENTS_SIZE">
 			<Text>Tamanho dos Continentes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LARGE_CONTINENTS">
-			<Text>Continentes grandes</Text>
+			<Text>Continentes Grandes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SMALL_CONTINENTS">
-			<Text>Continentes pequenos</Text>
+			<Text>Continentes Pequenos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_SIZE">
-			<Text>Tamanho das ilhas</Text>
+			<Text>Tamanho das Ilhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LARGE_ISLANDS">
-			<Text>Ilhas grandes</Text>
+			<Text>Ilhas Grandes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SMALL_ISLANDS">
-			<Text>Ilhas pequenas</Text>
+			<Text>Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_OVERLAP">
-			<Text>Sobreposição de ilhas</Text>
+			<Text>Sobreposição de Ilhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISLAND_REGION_SEPARATE">
-			<Text>Região das ilhas separada</Text>
+			<Text>Região das Ilhas Separada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_MIXED_IN">
-			<Text>Ilhas misturadas</Text>
+			<Text>Ilhas Misturadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_CENTER_REGION">
 			<Text>Região Central</Text>
@@ -822,7 +822,7 @@
 			<Text>Selva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NO_JUNGLES">
-			<Text>Sem selvas</Text>
+			<Text>Sem Selvas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_WORLD_WRAP">
 			<Text>Contorno do Mundo</Text>
@@ -841,7 +841,7 @@
 			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_DOMINANT_TERRAIN">
-			<Text>Terreno dominante</Text>
+			<Text>Terreno Dominante</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BALANCED_RESOURCES">
 			<Text>Equilibrado</Text>
@@ -886,7 +886,7 @@
 			<Text>Tundra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP">
-			<Text>Uma paisagem fria com apenas pequenos bolsões de planícies mais férteis.</Text>
+			<Text>Uma paisagem fria com apenas pequenas áreas de planícies mais férteis.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS">
@@ -1053,7 +1053,7 @@
 			<Text>DLCs permitidas: </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATES_FORMAT">
-			<Text>Cid.-estado: {1_number}</Text>
+			<Text>Cid.-Estado: {1_number}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FILE_INFO_NOT_FOUND">
 			<Text>Informações do mapa não encontradas</Text>
@@ -1234,7 +1234,7 @@
 			<Text>Nível de dificuldade: {1_handicap}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_CITY_STATES">
-			<Text>Cid.-estado: {1_number}</Text>
+			<Text>Cid.-Estado: {1_number}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS">
 			<Text>Turnos máximos</Text>
@@ -1282,13 +1282,13 @@
 			<Text>Horas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_QUICK_COMBAT">
-			<Text>Combate rápido</Text>
+			<Text>Combate Rápido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_QUICK_COMBAT_HELP">
 			<Text>Nenhuma animação de combate é exibida quando as unidades atacam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_QUICK_MOVEMENT">
-			<Text>Movimento rápido</Text>
+			<Text>Movimento Rápido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_QUICK_MOVEMENT_HELP">
 			<Text>Nenhuma animação é exibida quando as unidades se movem.</Text>
@@ -1314,7 +1314,7 @@
 			<Text>Jogos encontrados:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_SERVER_NAME">
-			<Text>Nome do servidor</Text>
+			<Text>Nome do Servidor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_MEMBERS">
 			<Text>Membros</Text>
@@ -1530,7 +1530,7 @@
 			<Text>Estado: pronto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_READY_CHECK_UNAVAILABLE_DATA_HELP">
-			<Text>A opção "Pronto" no está disponível porque outro jogador está usando uma DLC que não está instalada em seu computador.</Text>
+			<Text>A opção "Pronto" não está disponível porque outro jogador está usando uma DLC que não está instalada em seu computador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_KICK_PLAYER">
 			<Text>Expulsar jogador</Text>
@@ -1713,21 +1713,21 @@
 		<!-- MAP SCIPT TEXT -->
 
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS">
-			<Text>Continentes plus</Text>
+			<Text>Continentes Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS_HELP">
-			<Text>Semelhante a Continentes, mas com scripts expandido para cadeias de ilhas e colocação de cidades-estados.</Text>
+			<Text>Semelhante a Continentes, mas com scripts expandidos para cadeias de ilhas e colocação de cidades-estados.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS">
-			<Text>Pangaea plus</Text>
+			<Text>Pangaea Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS_HELP">
-			<Text>Semelhante a Pangaea, mas com scripts expandido para cadeias de ilhas e colocação de cidades-estados.</Text>
+			<Text>Semelhante a Pangaea, mas com scripts expandidos para cadeias de ilhas e colocação de cidades-estados.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_SANDSTORM">
-			<Text>Tempestade de areia</Text>
+			<Text>Tempestade de Areia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SANDSTORM_HELP">
 			<Text>Um mundo hostil composto principalmente de deserto com pequenas áreas de planícies e pradarias.</Text>
@@ -1815,7 +1815,7 @@
 			<Text>AMIGOS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_FRIENDS_TT" >
-			<Text>Exibir o seu placar e dos seus amigos.</Text>
+			<Text>Exibir o seu placar e o dos seus amigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_PERSONAL" >
 			<Text>PESSOAL</Text>
@@ -1852,10 +1852,10 @@
 
 		<!-- Change smtp Password Screen -->
 		<Row Tag="TXT_KEY_MAIL_PASSWORD_USAGE_INFO">
-			<Text>O Civilization 5 não salva ou transmite sua senha de e-mail (SMTP) por razões de segurança. Por favor, reintroduza sua senha de e-mail.</Text>
+			<Text>O Civilization 5 não salva ou transmite sua senha de e-mail (SMTP) por razões de segurança. Por favor, digite novamente sua senha de e-mail.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NAME_REENTER_MAIL_PASSWORD">
-			<Text>Reintroduza sua senha de e-mail</Text>
+			<Text>Digite novamente sua senha de e-mail</Text>
 		</Row>
 		<!-- Change smtp Password Screen End -->
 

@@ -7,52 +7,52 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_1">
-            <Text>Eu sou Maria, Rainha de Portugal. Já nos conhecemos? Sua fisionomia parece familiar... ou talvez não.</Text>
+            <Text>Eu sou Maria, Rainha de Portugal. Já nos encontramos antes? Sua face me é familiar... ou talvez não.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_2">
-            <Text>Está perante a Rainha de Portugal, e ela se pergunta a razão de sua presença aqui.</Text>
+            <Text>Está diante da Rainha de Portugal, e ela gostaria de saber a razão de sua presença aqui.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_3">
-            <Text>Eu sou Maria. Quem é você? Por que está aqui? Quem lhe disse para vir?</Text>
+            <Text>Eu sou Maria. Quem é você? Por que está aqui? Quem lhe enviou?</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_1">
             <Text>Devo levar suas ameaças a sério?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_2">
-            <Text>Está se arriscando perigosamente.</Text>
+            <Text>Você está agindo de forma perigosa.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_3">
             <Text>Eu ouço muitas coisas... e sua vã ameaça simplesmente não é importante.</Text>
         </Row>
         <!--Gloats after winning a war -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_WINWAR_1">
-            <Text>Que dia glorioso! Talvez deva aprender a não subestimar o poder de uma rainha!</Text>
+            <Text>Que dia glorioso! Talvez você deva aprender a não subestimar o poder de uma rainha!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_WINWAR_2">
-            <Text>Que dia glorioso! Talvez deva aprender a não subestimar o poder de uma rainha!</Text>
+            <Text>Que dia glorioso! Talvez você deva aprender a não subestimar o poder de uma rainha!</Text>
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_LOSEWAR_1">
-            <Text>Estávamos em guerra? Não me lembro de qualquer conflito significativo. Vou ter que consultar meu regente. Tenha um bom dia!</Text>
+            <Text>Estávamos em guerra? Não me recordo de qualquer conflito significativo. Vou ter que consultar a regência. Tenha um bom dia!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_LOSEWAR_2">
-            <Text>Estávamos em guerra? Não me lembro de qualquer conflito significativo. Vou ter que consultar meu regente. Tenha um bom dia!</Text>
+            <Text>Estávamos em guerra? Não me recordo de qualquer conflito significativo. Vou ter que consultar a regência. Tenha um bom dia!</Text>
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_1">
-            <Text>Bem, eu certamente não esperava isso... talvez da próxima vez.</Text>
+            <Text>Bem, eu certamente não esperava por isso... talvez da próxima vez.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_2">
             <Text>Espero que trate meu povo com o respeito que ele merece.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_3">
-            <Text>Que terrível! Esses conflitos absolutamente não me caem bem!</Text>
+            <Text>Que terrível! Estes conflitos absolutamente não me agradam!</Text>
         </Row>
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_1">
-            <Text>Boas-vindas!</Text>
+            <Text>Seja bem-vinda a minha presença!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_2">
             <Text>Saudações!</Text>
@@ -70,16 +70,16 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_1">
-            <Text>Eu acho que sua oferta pode melhorar.</Text>
+            <Text>Creio que sua oferta pode melhorar.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_2">
-            <Text>Não pode fazer um pouco melhor?</Text>
+            <Text>Não pode fazer algo um pouco melhor?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_3">
             <Text>Quase...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_4">
-            <Text>Isso não é o bastante.</Text>
+            <Text>Isso não é satisfatório.</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NO_NEUTRAL">
@@ -87,19 +87,19 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_NEUTRAL">
-            <Text>Vou providenciar para sua pessoa. Apenas desta vez.</Text>
+            <Text>Vou providenciar. Apenas desta vez.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_NEUTRAL">
-            <Text>Tenho coisas melhores a fazer do que ouvir tal absurdo.</Text>
+            <Text>Tenho coisas melhores a fazer do que ouvir a este disparate.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_NEUTRAL">
-            <Text>Aceita essa oferta em consideração?</Text>
+            <Text>Aceita esta oferta em consideração?</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_NEUTRAL">
-            <Text>Eu acho que deveria me dar isso, mas a escolha é sua.</Text>
+            <Text>Creio que deveria me dar isso, mas a escolha é sua.</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_1">
@@ -110,7 +110,7 @@
         </Row>
         <!--Disagrees -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_1">
-            <Text>Eu devo recusar.</Text>
+            <Text>Devo recusar.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_2">
             <Text>Não, claro que não.</Text>
@@ -132,7 +132,7 @@
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_3">
-            <Text>Nossos negócios aqui estão feitos.</Text>
+            <Text>Nossos negócios aqui estão concluídos.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_4">
             <Text>Adeus.</Text>
@@ -157,15 +157,15 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_HAPPY">
-            <Text>O Reino de Portugal recebe com prazer a chance de ajudar.</Text>
+            <Text>O Reino de Portugal recebe com prazer a oportunidade de ajudar.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_HAPPY">
-            <Text>Eu duvido que meu regente aprovaria tal generosidade.</Text>
+            <Text>Duvido que a regência aprovaria tal generosidade.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_HAPPY">
-            <Text>Consideraria esse negócio para uma pessoa amiga?</Text>
+            <Text>Consideraria este negócio para uma amiga?</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_HAPPY">
@@ -180,3 +180,105 @@
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_5">
             <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_3">
+            <Text>Certamente não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_4">
+            <Text>Devemos rejeitar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_6">
+            <Text>Terminamos aqui.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_YES_ANGRY">
+            <Text>Se insiste.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Pensa que sou tola?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Não é o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Que proposta ofensiva.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NO_ANGRY">
+            <Text>Quem lhe enviou?! Por que está aqui?! Vá embora!</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_ANGRY">
+            <Text>Eu vou concordar com suas condenáveis exigências.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_ANGRY">
+            <Text>Ouviu alguma coisa? Eu certamente não ouvi ninguém me fazer exigências!</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_ANGRY">
+            <Text>Em que o mundo se tornou... ter que negociar com gente como você!</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_ANGRY">
+            <Text>Você! Eu exijo isso. Dê-me logo!</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_5">
+            <Text>Como é?!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_7">
+            <Text>Não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_5">
+            <Text>O que estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_1">
+            <Text>Temo que não posso permitir que seu reino continue existindo. Espero que não se importe.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_2">
+            <Text>Oh, uh, sim, eu pensei que deveria saber: vamos declarar guerra contra sua civilização agora.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_3">
+            <Text>Parece que nós não pensamos da mesma forma. Uma guerra então?</Text>
+		</Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_1">
+            <Text>Não pode estar falando sério! Bem... então eu vou ter que lidar com sua civilização!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_2">
+            <Text>Como ousa! Sabe com quem está falando?!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_3">
+            <Text>Está me atacando?! Não! Eu vou atacar você!</Text>
+        </Row>
+    </Language_pt_BR>
+</GameData>

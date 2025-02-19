@@ -6,37 +6,37 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1">
-      <Text>Seja bem-vindo aos protegidos portos de Cartago, estrangeiro. Eu sou conhecida como Dido, a viajante de Tiro.</Text>
+      <Text>Boas-vindas aos protegidos portos de Cartago, pessoa estrangeira. Sou conhecida como Dido, a viajante de Tiro.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2">
-      <Text>A Rainha de Cartago lhe dá as boas-vindas a sua agradável cidade. Embora muitos me conheçam como Elissa, você pode me chamar de Dido.</Text>
+      <Text>A Rainha de Cartago lhe dá as boas-vindas a esta agradável cidade. Embora muitos me conheçam como Elissa, pode me chamar de Dido.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3">
-      <Text>Os Fenícios lhe dão as boas-vindas sua agradável cidade. Eu sou Dido, Rainha de Cartago e de todos os seus pertences.</Text>
+      <Text>Os Fenícios dão as boas-vindas a esta agradável cidade. Eu sou Dido, Rainha de Cartago e de todos os seus pertences.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1">
-      <Text>Ugh. Eu esperava muito mais de você.</Text>
+      <Text>Ugh. Eu esperava muito mais de sua parte.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2">
       <Text>Uma boa jogada, mas talvez não o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3">
-      <Text>Quão tolo você é.</Text>
+      <Text>Quanta tolice a sua.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_DIDO_WINWAR_1">
-      <Text>Minha espada é leal e poderosa, assim como a de qualquer herói. Espero que você tenha aprendido a lição e que nunca mais volte a Cartago.</Text>
+      <Text>Minha espada é leal e poderosa, assim como a de qualquer herói. Espero que tenha aprendido a lição e que nunca mais volte a Cartago.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_WINWAR_2">
       <Text>Toquem os sinos, elevem nosso estandarte sobre Birsa. Minha adorável nação é adornada com a vitória - o que dizer da sua?</Text>
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1">
-      <Text>Que bruxaria você fez? Que tipo de encanto você jogou sobre meu exército? Serei mais cuidadosa com você na próxima vez.</Text>
+      <Text>Que bruxaria foi feita? Que tipo de encanto foi jogado sobre meu exército? Serei mais cuidadosa em uma próxima vez.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2">
-      <Text>Eu devo ter irritado as Parcas... é a única explicação. Ninguém como você poderia sequer sonhar em me derrotar, a não ser que tenha recebido ajuda do alto.</Text>
+      <Text>Eu devo ter irritado as Parcas... é a única explicação. Alguém como você poderia sequer sonhar em me derrotar, a não ser que tenha recebido ajuda do alto.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1">
@@ -46,7 +46,7 @@
       <Text>Quando eu for finalmente enterrada, espero ser lembrada... mesmo enquanto minha pobre cidade é consumida pelo fogo e tormento.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3">
-      <Text>Uma pira adequada a uma deusa, eu presumo. Suas chamas beijarão as ondulações da água, dançando em concerto com as estrelas acima. A morte agora é minha convidada bem-vinda.</Text>
+      <Text>Uma pira adequada a uma deusa, eu presumo. Suas chamas beijarão as ondulações da água, dançando em conserto com as estrelas acima. A morte agora é minha convidada bem-vinda.</Text>
     </Row>
     
     <!--Neutral -->
@@ -70,7 +70,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Eu elogio o que você está tentando fazer, mas você terá que fazer melhor que isso. Vamos, tente novamente.</Text>
+      <Text>Aprecio sua iniciativa, mas terá que melhorar a oferta. Vamos, tente de novo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2}</Text>
@@ -87,19 +87,19 @@
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL">
-      <Text>Aonde você quer chegar com isso? Estou intrigada com esta bizarra intenção e gostaria de ver onde vai dar.</Text>
-    </Row> 
+      <Text>Qual seu objetivo com isso? Sua intenção inusitada me intriga, quero ver onde isso vai dar.</Text>
+    </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL">
-      <Text>Que pessoa tola você é! Você nunca ganhará nada sem nada em troca... não nesta corte.</Text>
+      <Text>Que tolice! Não se ganha nada sem dar algo em troca... não nesta corte.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL">
-      <Text>Venha. Vamos jogar um jogo. Talvez eu até permita que você ganhe.</Text>
+      <Text>Venha. Participe de um jogo. Talvez eu até permita que vença.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Sim, eu acredito que o seu ouro deverá servir bem! Vamos, entregue-o!</Text>
+      <Text>Sim, acredito que seu ouro será útil! Entregue-o!</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1">
@@ -144,29 +144,29 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Por quê? Eu não atenderia uma oferta dessas nem do querido Eneias. Por que você não tenta novamente, hmm?</Text>
+      <Text>Ora... Eu não atenderia uma oferta dessas nem de Eneias. Que tal tentar novamente?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2">
-      <Text>Isso é o melhor que você pode fazer?</Text>
+      <Text>É o seu melhor?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_3">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3}</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY">
-      <Text>Obrigado, mas não.</Text>
+      <Text>Agradeço, mas não.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY">
-      <Text>Hmmm... bem, acredito que uma vez só não há problemas. Pegue logo, antes que meus assessores descubram.</Text>
+      <Text>Hmmm... Bem, acredito que por ora não há problema. Apanhe logo, antes que a equipe de assessoria descubra.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY">
-      <Text>Isso está completamente fora de questão. O que você andou bebendo hoje?</Text>
+      <Text>Isso está totalmente fora de questão. O que lhe serviram hoje?</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY">
-      <Text>Eu acabei de ter uma ótima ideia e penso que você também a apreciará.</Text>
+      <Text>Acabei de ter uma ótima ideia e penso que também irá apreciá-la.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY">
@@ -197,7 +197,7 @@
       <Text>E?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_6">
-      <Text>O que você quer agora?</Text>
+      <Text>O que deseja agora?</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5">
@@ -212,7 +212,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_1">
-      <Text>Eu realmente não entendo o que você quer com isso. Pare de confusão e faça uma oferta plausível.</Text>
+      <Text>Realmente não entendo seu objetivo. Pare de rodeios e faça uma oferta razoável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
@@ -225,27 +225,27 @@
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY">
-      <Text>Você pensa ser melhor que eu? EU, que fui mais esperta que Pigmaleão e os lordes de Tiro? Hmmff... você me enoja.</Text>
+      <Text>Pensa ser superior a mim? EU, que fui mais esperta que Pigmaleão e os lordes de Tiro? Hmmff... Causa-me repulsa.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY">
-      <Text>No interesse de me concentrar em assuntos mais importantes neste momento, concordarei com esta ação ridícula.</Text>
+      <Text>Para me concentrar em assuntos mais importantes neste momento, concordarei com este pedido ridículo.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY">
-      <Text>Você não é melhor do que Jarbas e, em muitos sentidos, é bem pior. Devo contá-los? Oh, espere... acredito que você achará isso educacional.</Text>
+      <Text>Não é diferente de Jarbas e, em muitos aspectos, é bem pior. Devo enumerá-los? Oh, espere... acredito que achará isso educativo.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY">
-      <Text>Um recado de um tolo com certeza, mas ao menos posso dizer que eu tentei - que é melhor do que fazem outras pessoas nesta sala.</Text>
+      <Text>Certamente é um trabalho para quem não tem o que fazer, mas ao menos posso dizer que tentei - o que é melhor do que outras pessoas nesta sala.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY">
-      <Text>Eu quero estas coisas e estou ficando cansada de ouvir suas patéticas tentativas de se esquivar.</Text>
+      <Text>Eu quero estas coisas e estou ficando cansada de ouvir suas tentativas patéticas de dissimular.</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4">
-      <Text>Suponho que eu deva aceitar.</Text>
+      <Text>Suponho que devo aceitar.</Text>
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5">
@@ -262,22 +262,22 @@
       <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1">
-      <Text>Eu e a paz nos tornamos desconhecidos; Eu não posso mais compactuar com os horrores causados por você nessas terras. Prepare-se, as Parcas virão esta noite por você.</Text>
+      <Text>Eu e a paz nos tornamos desconhecidos; Eu não posso mais compactuar com os horrores causados por sua presença nestas terras. Prepare-se, as Parcas virão esta noite.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2">
-      <Text>Parece que a sorte acabou para você. Suas ações e zombarias atiçaram a ira de Cartago. Sua hora chegou.</Text>
+      <Text>Parece que a sorte acabou. Suas ações e zombarias atiçaram a ira de Cartago. Sua hora chegou.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3">
-      <Text>Diga-me algo: você conhece o tamanho do meu exército, dos meus elefantes treinados ou da minha frota? Não? Então você descobrirá brevemente.</Text>
+      <Text>Diga-me algo: conhece o tamanho do meu exército, dos meus elefantes treinados ou da minha frota? Não? Então descobrirá em breve.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1">
-      <Text>Serpente traiçoeira! Nenhum arrependimento poderá recuperar minhas feridas - seus atos trarão consequências nefastas aos nossos povos para sempre.</Text>
+      <Text>Serpente traiçoeira! Nenhum arrependimento poderá recuperar minhas feridas - seus atos trarão consequências nefastas para nossos povos para sempre.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2">
-      <Text>O que você espera ganhar com um ato desprezível como este? Meus elefantes vão realinhar o seu senso de razão... de graça.</Text>
+      <Text>O que espera ganhar com um ato desprezível como este? Meus elefantes vão realinhar seu senso de razão... de graça.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3">
-      <Text>Com falsidade você vem até o meu porto, serpente hipócrita?! Os deuses serão testemunhas que você irá me pagar o seu débito com sangue e trabalho forçado.</Text>
+      <Text>Com falsidade vem até o meu porto, criatura hipócrita?! Os deuses serão testemunhas que você irá me pagar seu débito com sangue e trabalho forçado.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

@@ -337,9 +337,9 @@
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_ERROR_NAME_EMPTY">
 			<Text>O nome não pode estar vazio.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CHOOSE_RELIGION_ALREADY_FOUNDED">
-			<Text>O {1_ReligionName} já foi fundado {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_CivName}.</Text>
-		</Row>
+        <Row Tag="TXT_KEY_CHOOSE_RELIGION_ALREADY_FOUNDED">
+            <Text>{1: gender masculine?O; feminine?A;} {1_ReligionName} já foi {1: gender masculine?fundado; feminine?fundada;} {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?por;}; masculine?{2: plural 2?pelos; other?por;}; other?por;} {2_CivName}.</Text>
+        </Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_AVAILABLE_LATER">
 			<Text>Disponível posteriormente quando a Religião for aperfeiçoada.</Text>
 		</Row>

@@ -163,7 +163,7 @@
 			<Text>Força</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK">
-			<Text>Ataque a distancia</Text>
+			<Text>Ataque a distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_CURRENT_STATUS">
 			<Text>Situação Atual</Text>
@@ -273,7 +273,7 @@
 			<Text>O número de hexágonos em que esta unidade pode se movimentar por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT">
-			<Text>Distância</Text>
+			<Text>Alcance</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT_TT">
 			<Text>O número de hexágonos em que esta unidade pode sobrevoar por turno.</Text>
@@ -288,10 +288,10 @@
 			<Text>Isto indica a força de combate da unidade. Quanto maior este número, melhor a unidade irá atuar em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK">
-			<Text>Ataque a distância</Text>
+			<Text>Ataque à Distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK_TT">
-			<Text>Isto indica a força do combate a distância da unidade. Quanto maior esse número, melhor a unidade irá atuar em combate.</Text>
+			<Text>Isto indica a força do combate à distância da unidade. Quanto maior esse número, melhor a unidade irá atuar em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_MAY_MOVE">
 			<Text>A sua unidade pode mover mais {1_Num} {1: plural 1?hexágono; other?hexágonos;} neste turno.</Text>
@@ -417,7 +417,7 @@
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_RESEARCH] dos acordos de pesquisa com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_BUDGET_DEFICIT">
-			<Text>[ICON_BULLET] [COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do défice [ICON_GOLD] orçamentário![ENDCOLOR]</Text>
+			<Text>[ICON_BULLET] [COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do déficit [ICON_GOLD] orçamentário![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_AVAILABLE_GOLD">
 			<Text>Você possui um total de {1_Num} de [ICON_GOLD] Ouro disponível para gastar.</Text>
@@ -453,7 +453,7 @@
 			<Text>{1_Num} das outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_LOSING_SCIENCE_FROM_DEFICIT">
-			<Text>Despesas que não puderem ser pagas, serão descontadas dos seus pontos de Ciência!</Text>
+			<Text>Despesas que não puderem ser pagas serão descontadas dos seus pontos de Ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_EXPLANATION">
 			<Text>Com [ICON_GOLD] Ouro você pode comprar terrenos, unidades e edificações para suas cidades ou dar presentes a outras Cidades-Estado para que elas gostem mais de você.</Text>
@@ -534,7 +534,7 @@
 			<Text>{1_Num} pelas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_EXPLANATION">
-			<Text>É necessário [ICON_HAPPINESS_1] Felicidade para fazer com que as suas cidades cresçam. Ela é usada para combater a [ICON_HAPPINESS_4] Infelicidade.</Text>
+			<Text>É necessária [ICON_HAPPINESS_1] Felicidade para fazer com que as suas cidades cresçam. Ela é usada para combater a [ICON_HAPPINESS_4] Infelicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_NOW">
 			<Text>O Império está em [ICON_GOLDEN_AGE] Era de Ouro por mais {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
@@ -555,7 +555,7 @@
 			<Text>Você acumulou {1_Num} de [ICON_CULTURE] Cultura em todo o Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_NEXT_POLICY">
-			<Text>{1_NumNeeded} de [ICON_CULTURE] Cultura {1: plural 1?é; other?são;} {1: plural 1?é; other?necessários;} para adotar uma nova Política Social.</Text>
+			<Text>{1_NumNeeded} de [ICON_CULTURE] Cultura {1: plural 1?é; other?são;} {1: plural 1?necessário; other?necessários;} para adotar uma nova Política Social.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FOR_FREE">
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] grátis.</Text>
@@ -573,7 +573,7 @@
 			<Text>Cada cidade que você possui aumenta os custos para adoção de Políticas Sociais em {1_Num}%! Se você deseja jogar Culturalmente, não se expanda muito!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_NO_RESOURCES_DISCOVERED">
-			<Text>Ainda não foram descobertas recursos!</Text>
+			<Text>Ainda não foram descobertos recursos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_RESOURCE_NONE">
 			<Text>Nenhum recurso conectado</Text>
@@ -601,7 +601,7 @@
 			<Text>A cidade é um [ICON_PUPPET] Fantoche! Você não pode tomar decisões por ela enquanto esta situação perdurar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_OCCUPIED">
-			<Text>A cidade está [ICON_OCCUPIED] Ocupada! Isso irá produzir [ICON_HAPPINESS_4] Infelicidade extra enquanto não for construído um Tribunal.</Text>
+			<Text>A cidade está [ICON_OCCUPIED] Ocupada! Isso irá produzir [ICON_HAPPINESS_4] Infelicidade extra enquanto um Tribunal não for construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_ANNEX_TT">
 			<Text>Clique para anexar esta cidade.</Text>
@@ -786,7 +786,7 @@
 			<Text>Remover da fila de produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CITYINFO_TEXT">
-			<Text>Informação da cidade</Text>
+			<Text>Informações da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_TURNS_TILL_TILE_TEXT">
 			<Text>{1_Turns:number} {1_Turns: plural 1?turno; other?turnos;} até aumentar a fronteira</Text>
@@ -837,7 +837,7 @@
 			<Text>Quando você possuir [ICON_GOLD] Ouro suficiente, compre imediatamente uma unidade ou edificação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_BUTTON">
-			<Text>COMPRA</Text>
+			<Text>COMPRAR</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_OTHER">
 			<Text>OUTRA</Text>
@@ -897,7 +897,7 @@
 			<Text>Em {1_Num} {1: plural 1?turnos; other?turnos;} a sua cidade vai crescer e um cidadão adicional vai estar apto a arrecadar novos recursos de um hexágono perto da sua cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BUY_TILE_TT">
-			<Text>Gaste [ICON_GOLD] Ouro para financiar o estabelecimento dos seus cidadãos em um hexágono próximo a sua cidade.</Text>
+			<Text>Gaste [ICON_GOLD] Ouro para financiar o estabelecimento dos seus cidadãos em um hexágono próximo à sua cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BUY_TILE">
 			<Text>Comprar um hexágono</Text>
@@ -927,7 +927,7 @@
 			<Text>O seu Governador selecionou este hexágono para ser trabalhado. Clique aqui para alterar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_NUTHA_CITY_TILE">
-			<Text>Este hexágono está sendo trabalhado por outra cidade da sua Civilização. Você pode clicar aqui para trabalhar nele, mas a outra cidade não continuará trabalhando nela.</Text>
+			<Text>Este hexágono está sendo trabalhado por outra cidade da sua Civilização. Você pode clicar aqui para trabalhar nele, mas a outra cidade não continuará trabalhando nele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BLOCKADED_CITY_TILE">
 			<Text>Este hexágono foi bloqueado por um inimigo. Você não poderá trabalhar nele até que o bloqueio seja removido.</Text>
@@ -1003,7 +1003,7 @@
 			<Text>Próximo de Melhoria do Bônus de Combate</Text>
  		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GARRISONED_CITY_RANGE_BONUS">
-			<Text>Bônus de unidade alojadas</Text>
+			<Text>Bônus de unidade alojada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
 			<Text>Em razão da [ICON_HAPPINESS_4] infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
@@ -1021,7 +1021,7 @@
 			<Text>PRODUZIR</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERAL_INFORMATION">
-			<Text>Informação geral</Text>
+			<Text>Informações Gerais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_AND_RESOURCES">
 			<Text>Recursos &amp; Felicidade</Text>

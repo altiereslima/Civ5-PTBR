@@ -31,7 +31,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY">
 			<Text>Cavalaria</Text>
-			<Gender>masculine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS">
@@ -331,7 +331,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
 			<Text>Aeronáutica</Text>
-			<Gender>masculine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">

@@ -6,52 +6,52 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1">
-      <Text>Seja muito mais que bem-vindo a nossa bela nação. Eu sou Haile Selassie, o governador abissínio Tafari Makonnen e Imperador da Etiópia, seu humilde servo.</Text>
+      <Text>Que a sua pessoa seja muito bem-vinda a nossa bela nação. Eu sou Haile Selassie, o governante abissínio Tafari Makonnen e Imperador da Etiópia, a serviço de quem me visita.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2">
-      <Text>A Etiópia saúda aqueles que vêm em paz. Eu procuro uma longa e generosa relação diplomática.</Text>
+      <Text>A Etiópia saúda a quem vem em paz. Eu procuro uma longa e generosa relação diplomática.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3">
-      <Text>Seja bem-vindo as minhas prósperas e tranquilas terras, amigo. Eu sou o Leão Conquistador da tribo de Judá, o Senhor dos Senhores e Rei dos Reis, mas você pode me chamar de Haile Selassie.</Text>
+      <Text>Boas-vindas às minhas prósperas e tranquilas terras. Eu sou o Leão Conquistador da tribo de Judá, o Senhor dos Senhores e Rei dos Reis, mas pode me chamar de Haile Selassie.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1">
       <Text>Que triste desperdício.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2">
-      <Text>É uma vergonha ver você se comportando desta maneira.</Text>
+      <Text>É uma vergonha ver este comportamento.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3">
-      <Text>Quão pequena criança você é... incapaz de ver a pintura como um todo.</Text>
+      <Text>Que visão limitada... incapaz de ver a pintura como um todo.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1">
-      <Text>A guerra não é a única maneira de parar outra guerra. Espero que você consiga ver isso agora. Por favor, volte a sua terra e reflita sobre o que eu disse.</Text>
+      <Text>A guerra não é a única maneira de parar outra guerra. Espero que consiga ver isso agora. Por favor, retorne à sua terra e reflita sobre o que eu disse.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2">
       <Text>Hoje é o dia em que nós derrotamos o inimigo. Porém, devemos nos vangloriar apenas em nossos corações e em espírito.</Text>
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1">
-      <Text>Povos mal orientados às vezes criam ideias desviadas e, consequentemente, más ações. Não é tarde o bastante para você encontrar o caminho da verdade.</Text>
+      <Text>Pessoas mal orientadas às vezes criam ideias desviadas e, consequentemente, más ações. Não é tarde para encontrar o caminho da verdade.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2">
-      <Text>Saiba que você está sendo avaliado por sua nação. Se você continuar a fazer o mal, ela perderá a esperança e a confiança em você.</Text>
+      <Text>Saiba que a sua nação está avaliando suas ações. Se você continuar a fazer o mal, ela perderá a esperança e a confiança.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1">
-      <Text>Deus e a História se lembrarão de suas ações neste dia. Espero que você esteja pronto para o seu iminente julgamento.</Text>
+      <Text>Deus e a História se lembrarão de suas ações neste dia. Espero que esteja a postos para o julgamento iminente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2">
-      <Text>Fico entristecido em ver que o espírito do mal continua a lançar suas sombras neste mundo. Que você encontre sua própria paz, antes de levar o seu povo à destruição.</Text>
+      <Text>Fico entristecido em ver que o espírito do mal continua a lançar suas sombras neste mundo. Que você encontre sua própria paz, antes de levar seu povo à destruição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3">
-      <Text>Em geral, um homem governado por sua consciência irá cooperar com o seu próximo. Ele sabe de onde veio e para onde vai. Você sabe?</Text>
+      <Text>Em geral, uma pessoa governada por sua consciência irá cooperar com outras. Ela sabe de onde veio e para onde vai. E quanto a você?</Text>
     </Row>    
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1">
-      <Text>Seja muito bem-vindo.</Text>
+      <Text>Seja muito bem-vinda a pessoa que me visita.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
@@ -69,7 +69,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Sua oferta é muito interessante, mas definitivamente não é aceitável. Por favor, repense-a.</Text>
+      <Text>Sua oferta é muito interessante, mas definitivamente não é aceitável. Por favor, repense.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2}</Text>
@@ -86,7 +86,7 @@
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL">
-      <Text>Bastava você pedir. Entretanto, eu gostaria de sugerir que da próxima vez você peça mais educadamente.</Text>
+      <Text>Bastava ter pedido. Entretanto, eu gostaria de sugerir que da próxima vez o pedido seja feito mais educadamente.</Text>
     </Row> 
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL">
@@ -94,11 +94,11 @@
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL">
-      <Text>Eu peço que você considere este acordo entre nossos dois povos. Acredito que será benéfico para ambos.</Text>
+      <Text>Peço que considere este acordo entre nossos dois povos. Acredito que será benéfico para ambos.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Neste tempo de dificuldades para nós, venho humildemente procurar sua generosidade. O mal está sobre nós e não estamos equipados o suficiente para combatê-lo.</Text>
+      <Text>Neste tempo de dificuldades para nós, venho humildemente procurar sua generosidade. O mal está sobre nós e não estamos suficientemente equipados para combatê-lo.</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1">
@@ -128,7 +128,7 @@
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4">
-      <Text>Como você está, amigo?</Text>
+      <Text>Como vai?</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3">
@@ -143,7 +143,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Meu amigo, tenho certeza que sua intenção é boa, mas isso não dará certo. Podemos ser um povo simples, mas você não tirará vantagem disso.</Text>
+      <Text>Tenho certeza de que a intenção é boa, mas isso não dará certo. Podemos ser um povo simples, mas ninguém tirará vantagem disso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_2">
       <Text>{TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2}</Text>
@@ -157,7 +157,7 @@
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY">
-      <Text>Qualquer ajuda na luta contra o mal é gratuitamente dada àqueles que a pedem.</Text>
+      <Text>Qualquer ajuda na luta contra o mal é dada gratuitamente a quem pede.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY">
@@ -165,11 +165,11 @@
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY">
-      <Text>Vamos jantar juntos e discutir os assuntos mundiais. Não somos pessoas materialistas, mas possuímos algumas coisas que podem lhe interessar.</Text>
+      <Text>Vamos nos reunir e discutir os assuntos mundiais. Não somos pessoas materialistas, mas possuímos algumas coisas que podem ser de seu interesse.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY">
-      <Text>Amigo, a Etiópia lhe chama em sua hora de dificuldades. Por favor, não nos deixe ser açoitados nas rochas da providência.</Text>
+      <Text>Nesta hora de dificuldades, a Etiópia clama. Por favor, não nos deixe ser açoitados nas rochas da providência.</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3">
@@ -210,7 +210,7 @@
     </Row> 
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_1">
-      <Text>É este tipo de crueldade você deseja dar ao meu povo? Raras foram as vezes que vi tanta malícia.</Text>
+      <Text>É este tipo de crueldade que se deseja dar ao meu povo? Raras foram as vezes que vi tanta malícia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_2">
       <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
@@ -223,15 +223,15 @@
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY">
-      <Text>Isso é uma afronta absurda ao Senhor e ao seu povo. Vá e me deixe em paz.</Text>
+      <Text>Isso é uma afronta absurda ao Senhor e ao seu povo. Afaste-se e me deixe em paz.</Text>
     </Row>  
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY">
-      <Text>Eu não possuo os bens físicos para parar você nisso. Entretanto, isso nem sempre será verdade.</Text>
+      <Text>Eu não possuo os bens físicos para impedir tal ação. Entretanto, isso nem sempre será verdade.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY">
-      <Text>O que você quer de mim que você já não tenha? Você transformará essa terra em pó e cinzas.</Text>
+      <Text>O que você quer que eu já não tenha? Esta terra será transformada em pó e cinzas.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY">
@@ -239,7 +239,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY">
-      <Text>O povo, o doente, o sem-teto - eles precisam de ajuda. Até você viraria as costas a eles?</Text>
+      <Text>O povo, quem está doente, quem não tem teto - precisa de ajuda. Até nestas condições haveria uma recusa?</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4">
@@ -260,22 +260,22 @@
       <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1">
-      <Text>Nós não escolhemos retribuir ao mal com o mal, nem ser indulgentes às atrocidades que você parece apoiar. Porém, eu não vou ficar sentado e deixar você fazer o que desejar.</Text>
+      <Text>Nós não escolhemos retribuir ao mal com o mal, nem ser indulgentes às atrocidades que parecem ser apoiadas. Porém, eu não vou ficar em silêncio enquanto você faz o que deseja.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2">
       <Text>Nós não chegamos a esta decisão facilmente, mas iremos lutar quando necessário. Iremos triunfar, pois estamos confiantes na vitória do bem sobre o mal.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3">
-      <Text>Eu tentei todas as possibilidades, mas você continuou com esta loucura. Espero, para o seu próprio bem, que o seu fim seja rápido.</Text>
+      <Text>Eu tentei todas as possibilidades, mas você continuou com esta loucura. Espero, para o seu próprio bem, que o fim seja rápido.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1">
-      <Text>Como São Jorge matou o dragão, iremos nos levantar contra este dragão cruel e pagão que oprime a raça humana.</Text>
+      <Text>Como São Jorge matou o dragão, iremos nos levantar contra este dragão cruel e pagão que oprime a humanidade.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2">
-      <Text>É o silêncio que permiti ao mal triunfar. Nós não ficaremos mudos e não permitiremos que você continue impune com esta busca insana.</Text>
+      <Text>É o silêncio que permite ao mal triunfar. Nós não ficaremos em silêncio e não permitiremos que se continue impune com esta busca insana.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3">
-      <Text>Você vitima os fracos a sua volta, mesmo famintos, sem nunca se satisfazer. Depois de nós, quem será o próximo? Nós permaneceremos fortes e protegidos.</Text>
+      <Text>As pessoas mais fracas ao redor são as vítimas, mesmo famintas, sem nunca se satisfazer. Depois de nós, quem será? Nós permaneceremos fortes e protegidos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_QUOTE_1">
       <Text>Durante a história, foi a omissão daqueles que poderiam agir, a indiferença daqueles que deveriam procurar saber mais, o silêncio da justiça quando ela mais foi necessária, que permitiram ao mal triunfar.</Text>

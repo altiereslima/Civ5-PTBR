@@ -26,7 +26,7 @@
 			<Text>Agora vou destruir você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_2">
-			<Text>Você caiu na minha armadilha. Agora você irá pagar.</Text>
+			<Text>Você caiu na minha armadilha. Agora irá pagar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_3">
 			<Text>Você cometeu um erro - seu último erro. Eu vou enterrá-lo!</Text>
@@ -53,7 +53,7 @@
 			<Text>Dê-nos o que queremos ou te destruirei. Eu juro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_HAPPY">
-			<Text>Meu amigo, a França necessita do seguinte. Eu acredito que você não nos desapontará.</Text>
+			<Text>A França necessita do seguinte. Eu acredito que não nos desapontará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_NEUTRAL">
 			<Text>A França exige o seguinte. Sua sobrevivência será determinada pela sua resposta.</Text>
@@ -83,13 +83,13 @@
 			<Text>Bem-vindo. Eu sou Napoleão da França, a maior mente militar da história do mundo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_2">
-			<Text>Bem-vindo, estranho! Eu sou Napoleão, Imperador da França! Sou leal com meus amigos e mato meus inimigos. O que você vai ser?</Text>
+			<Text>Seja bem-vinda pessoa! Eu sou Napoleão, Imperador da França! Sou leal com quem é meu aliado e implacável com meus inimigos. Qual será seu caso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_3">
 			<Text>Ah! Enfim nos conhecemos. Eu sou Napoleão, Imperador da França. Venha! Vamos discutir a divisão do mundo entre as nossas duas grandes nações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_4">
-			<Text>Saudações! Eu sou Napoleão da França. Eu tenho pouco tempo para brincadeiras; o que o traz aqui?</Text>
+			<Text>Saudações! Eu sou Napoleão da França. Eu tenho pouco tempo para brincadeiras; o que traz você aqui?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_1">
 			<Text>Bom Dia.</Text>
@@ -176,7 +176,7 @@
 			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Meu querido amigo, como Imperador, devo colocar os sentimentos pessoais de lado e fazer o que é melhor para a França! É com pesar que eu peço para você melhorar sua oferta.</Text>
+			<Text>Como Imperador, devo colocar os sentimentos pessoais de lado e fazer o que é melhor para a França! É com pesar que peço para melhorar sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_2">
 			<Text>Isso é o melhor que você pode fazer?</Text>
@@ -200,7 +200,7 @@
 			<Text>Meu tempo é precioso. Não o desperdice com este absurdo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_HAPPY">
-			<Text>Deve haver algum engano. Tenho certeza de que você não insultou deliberadamente o grande povo francês com uma oferta tão ridícula.</Text>
+			<Text>Deve haver algum engano. Tenho certeza de que não houve a intenção deliberada de insultar o grande povo francês com uma oferta tão ridícula.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_NEUTRAL">
 			<Text>Sua oferta é um insulto para a pessoa do Imperador, ou seja, eu. Recuso sua oferta.</Text>
@@ -209,7 +209,7 @@
 			<Text>Eu aceito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_HAPPY">
-			<Text>Agradeço você pelo seu serviço para com a França!</Text>
+			<Text>Agradeço por seu serviço para com a França!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_NEUTRAL">
 			<Text>Sua utilidade tem sido observada. Obrigado.</Text>
@@ -218,16 +218,16 @@
 			<Text>Essa é a nossa oferta. É pegar ou largar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_HAPPY">
-			<Text>Meu querido amigo, eu confio que você vai encontrar esse acordo ao seu gosto.</Text>
+			<Text>Eu confio que este acordo será satisfatório.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_NEUTRAL">
 			<Text>A França te oferece este negócio excepcional. Exorto-te a aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY">
-			<Text>Você está louco? Como você ousa tentar extorquir tributos de mim!</Text>
+			<Text>Você está louco? Como ousa tentar extorquir tributos de mim!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_HAPPY">
-			<Text>Seus termos são um insulto para a França. Eu imploro: não pressione demais a nossa amizade.</Text>
+			<Text>Seus termos são um insulto para a França. Eu imploro: não force demais a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_NEUTRAL">
 			<Text>Você está exigindo tributos de mim? Não seja ridículo!</Text>
@@ -236,7 +236,7 @@
 			<Text>Devo concordar com seus termos - por enquanto. No entanto, você vai pagar por este insulto. Vou ver isso pessoalmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_HAPPY">
-			<Text>Certamente que sim. A generosidade do Imperador é lendária!</Text>
+			<Text>Certamente. A generosidade do Imperador é lendária!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_NEUTRAL">
 			<Text>Muito bem. Mas eu não vou esquecer este insulto. A França irá se vingar!</Text>
@@ -245,7 +245,7 @@
 			<Text>Você está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_2">
-			<Text>Muito bem. Da próxima vez não serei tão educado!</Text>
+			<Text>Muito bem. Da próxima vez não serei tão gentil!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_3">
 			<Text>Como é decepcionante.</Text>
@@ -260,7 +260,7 @@
 			<Text>Que tolice sua.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WINWAR_1">
-			<Text>Espero que tenham aprendido a lição... Eu sou invencível!</Text>
+			<Text>Espero que a lição tenha sido aprendida... Eu sou invencível!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -17,55 +17,55 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_6">
-			<Text>Acho que deve.</Text>
+			<Text>Acho que deve ser.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_1">
-			<Text>Pobre tolo! Agora vamos destruí-lo!</Text>
+			<Text>Que tolice! Agora vamos destruir seu povo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_2">
-			<Text>Seu bárbaro inútil! Você pagará por sua agressão brutal.</Text>
+			<Text>Pessoa bárbara e inútil! Você pagará por sua agressão brutal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_3">
-			<Text>Seu idiota inchado! Agora você deve ser destruído!</Text>
+			<Text>Idiota! Agora você será destruído!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_1">
-			<Text>É com relutância que beira a auto aversão que eu tenho que anunciar que eu pretendo limpar sua grande civilização da face do planeta.</Text>
+			<Text>É com relutância, que beira a autoaversão, que anuncio que pretendo eliminar sua grande civilização da face do planeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_2">
-			<Text>Com grande tristeza, eu concluí que este mundo não é grande o suficiente para comportar duas grandes civilizações. Você deve ser destruído.</Text>
+			<Text>Com grande tristeza, concluí que este mundo não é grande o suficiente para comportar duas grandes civilizações. Seu povo deve ser destruído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_3">
-			<Text>As exigências da procura pela sobrevivência exigiram que eu imediatamente conquistasse uma grande parte - possivelmente a totalidade - da sua civilização. Sinto muito.</Text>
+			<Text>As exigências da busca pela sobrevivência exigiram que eu imediatamente conquistasse uma grande parte - possivelmente a totalidade - da sua civilização. Sinto muito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_1">
-			<Text>Você é muito mais inteligente do que eu pensei. Quero parabenizá-lo.</Text>
+			<Text>Você é muito mais inteligente do que eu pensei. Meus parabéns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_2">
-			<Text>Você tem mostrado notável habilidade e audácia. Alguém poderia pensar que você era japonês!</Text>
+			<Text>Você tem mostrado notável habilidade e audácia.  Poderia se pensar que descende do povo japonês!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_3">
-			<Text>Bem jogado, meu adversário. Você me venceu.</Text>
+			<Text>Bem jogado. Você me venceu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_4">
-			<Text>Estou derrotado. Você está de parabéns.</Text>
+			<Text>Estou derrotado. Parabéns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_ANGRY">
-			<Text>Eu não posso pensar em uma maneira melhor para consolidarmos a nossa eterna amizade que você nos conceder esta insignificância.</Text>
+			<Text>Não consigo pensar em uma maneira melhor para consolidarmos nossa eterna amizade do que a concessão desta insignificância por sua parte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_HAPPY">
-			<Text>Pode o povo humilde e simpático japonês pedir um pequeno favor de seu grande amigo e aliado?</Text>
+			<Text>Poderia o humilde e simpático povo japonês pedir um pequeno favor a esta grande e aliada liderança?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Você teria a grande honra por compartilhar conosco uma insignificância da sua generosidade sem limites.</Text>
+			<Text>Terias a grande honra de compartilhar conosco uma insignificância da sua generosidade sem limites?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_1">
 			<Text>Sinto muito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_2">
-			<Text>Devo discordar humildemente.</Text>
+			<Text>Devo humildemente discordar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_3">
 			<Text>Com a mais profunda dor, lamento. Devo recusar.</Text>
@@ -77,13 +77,13 @@
 			<Text>Como...?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_1">
-			<Text>Estamos muito satisfeitos e honrados em encontrar um grande líder e guerreiro.</Text>
+			<Text>Estamos muito satisfeitos e honrados em encontrar uma grande liderança e combatente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_2">
-			<Text>Este soldado humilde cumprimenta o poderoso guerreiro e espera ardentemente por uma aliança justa e equitativa.</Text>
+			<Text>Este humilde soldado cumprimenta quem quer que seja e espera ardentemente por uma aliança justa e equitativa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_3">
-			<Text>Na verdade, os céus sorriram para nós para nos conduziram a sua presença. Como podemos ajudá-lo?</Text>
+			<Text>Na verdade, os céus sorriram para nós e nos conduziram à sua presença. Como podemos ajudar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_1">
 			<Text>Bom Dia.</Text>
@@ -125,10 +125,10 @@
 			<Text>Tudo bem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_7">
-			<Text>Como posso ajudá-lo?</Text>
+			<Text>Como posso ajudar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_1">
-			<Text>Vamos ouvi-lo.</Text>
+			<Text>Vamos ouvir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_2">
 			<Text>Vá em frente.</Text>
@@ -152,13 +152,13 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LOSEWAR_1">
-			<Text>Você é realmente o mais poderoso e mais valioso adversário que já encontrei. É uma honra ter lutado com você!</Text>
+			<Text>Você é realmente a pessoa mais poderosa e mais valiosa que já encontrei. É uma honra ter lutado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_QUOTE_1">
-			<Text>Imagawa tem 40.000 homens marchando em direção a este lugar? Eu não acredito nisso. Ele tem "só" 25 mil soldados. Sim, isso ainda é demais. Assim, Sado, você quer se render. E se a gente se entregar? Vocês estarão satisfeitos perder a suas vidas dessa maneira? Se mantiver como Katsuie quer? E se a gente ficar aqui neste castelo, trancá-lo e esperar até o Imagawa perder o apetite, parar o cerco e ir para casa? Queremos prolongar nossas vidas por 5 ou 10 dias e o que não pudermos defender permanecerá como tal. Estamos no fundo do poço, você sabe, e o nosso destino é interessante. Claro que a miséria é grande também. Mas é assim que eu vejo: é a chance de uma vida. Eu não posso dar ao luxo de perdê-la. Você realmente quer passar a vida inteira rezando para a longevidade? Nós nascemos para morrer! Quem está comigo, venha amanhã de manhã ao campo de batalha. Quem não é, fique onde está e me veja ganhar!</Text>
+			<Text>Imagawa tem 40.000 homens marchando em direção a este lugar? Eu não acredito nisso. Ele tem "só" 25 mil soldados. Sim, isso ainda é demais. Assim, Sado, você quer se render? E se a gente se entregar? Estarão satisfeitos em perder suas vidas dessa maneira? Se nos mantivermos como Katsuie quer? E se a gente ficar aqui neste castelo, trancá-lo e esperar até o Imagawa perder o apetite, parar o cerco e ir para casa? Queremos prolongar nossas vidas por 5 ou 10 dias e o que não pudermos defender permanecerá como tal. Estamos no fundo do poço, você sabe, e o nosso destino é interessante. Claro que a miséria é grande também. Mas é assim que eu vejo: é a chance de uma vida. Eu não posso dar ao luxo de perdê-la. Vocês realmente querem passar a vida inteira rezando para a longevidade? Nós nascemos para morrer! Quem está comigo, venha amanhã de manhã ao campo de batalha. Quem não é, fique onde está e me veja ganhar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Com grande vergonha e auto aversão, temos de sinceramente rejeitar sua oferta extremamente generosa. Humildemente peço que considere oportuno melhorar a sua oferta para com nossos indignos.</Text>
+			<Text>Com grande vergonha e autoaversão, temos de sinceramente rejeitar sua oferta extremamente generosa. Humildemente peço que considere oportuno melhorar sua oferta para com quem é indigno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é bom o suficiente.</Text>
@@ -170,7 +170,7 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Devemos recusar sua oferta muito generosa. Você não pode melhorá-la?</Text>
+			<Text>Devemos recusar sua oferta muito generosa. Não há como melhorar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_2">
 			<Text>É o melhor que você pode fazer?</Text>
@@ -194,7 +194,7 @@
 			<Text>Quase…</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_ANGRY">
-			<Text>Infelizmente, nosso grande amigo e aliado, não podemos concordar com a sua oferta justa e generosa, neste momento. Por favor, não recaia a destruição das nossas carcaças indignas na sua ira!</Text>
+			<Text>Infelizmente, grande e amigável liderança, não podemos concordar com a sua oferta justa e generosa, neste momento. Por favor, não use de sua ira para destruir quem é indigno!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY">
 			<Text>Infelizmente, não podemos concordar com a sua gentil e generosa oferta neste momento.</Text>
@@ -206,7 +206,7 @@
 			<Text>Nós rastejamos em admiração a sua beneficência e justiça.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY">
-			<Text>Estamos muito satisfeitos e honrados em concordar com a sua oferta.</Text>
+			<Text>Estamos muito satisfeitos e honrados em concordar com sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_NEUTRAL">
 			<Text>Estamos honrados em aceitar sua oferta justa.</Text>
@@ -215,7 +215,7 @@
 			<Text>Nós humildemente solicitamos que você olhe com bons olhos o nosso acordo comercial proposto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_HAPPY">
-			<Text>Meu amigo, você vai concordar com o seguinte acordo?</Text>
+			<Text>Meu amigo, você concordaria com o seguinte acordo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_NEUTRAL">
 			<Text>Você terá a honra de concordar com o seguinte?</Text>

@@ -131,7 +131,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HANGING_GARDEN">
-			<Text>Os Jardins Suspensos|Os Jardins Suspensos</Text>
+			<Text>Jardins Suspensos|Jardins Suspensos</Text>
 			<Gender>masculine:art|masculine:art</Gender>
 			<Plurality>2|2</Plurality>
 		</Row>
@@ -266,7 +266,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY">
-			<Text>Planetário|Planetários</Text>
+			<Text>Observatório|Observatórios</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

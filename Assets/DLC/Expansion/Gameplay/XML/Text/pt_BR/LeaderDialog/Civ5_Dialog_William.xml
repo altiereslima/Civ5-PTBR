@@ -7,13 +7,13 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_1">
-			<Text>Eu sou William de Orange, da Holanda. Você precisa de algo? Estou bem ocupado.</Text>
+			<Text>Eu sou William de Orange, dos Países Baixos. Precisa de algo? Estou bastante ocupado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_2">
-			<Text>Quais negócios você tem na Holanda? Eu sou William de Orange, seu soberano governante.</Text>
+			<Text>Quais negócios tem nos Países Baixos? Eu sou William de Orange, governante soberano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_3">
-			<Text>Seja bem-vindo à corte de William de Orange, pai da Holanda. Não fique aí parado... O que você quer?</Text>
+			<Text>Boas-vindas à corte de William de Orange, pai dos Países Baixos. Não fique aí... O que deseja?</Text>
 		</Row>
 		<!--Reacts to his bluff being called -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_1">
@@ -23,31 +23,31 @@
 			<Text>Isso é ridículo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_3">
-			<Text>Que tolice a sua.</Text>
+			<Text>Que tolice.</Text>
 		</Row>
 		<!--Gloats after winning a war -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_1">
-			<Text>Que isso sirva de lição para você... espero que ela seja lembrada.</Text>
+			<Text>Que isso sirva de lição... espero que seja lembrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_2">
-			<Text>Você não é melhor que um mercenário estrangeiro e deplorável. Você terá que fazer muito melhor para me derrotar.</Text>
+			<Text>Seu desempenho não é melhor que o de um mercenário estrangeiro e deplorável. Terá que fazer muito melhor para me derrotar.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_1">
-			<Text>...Inconcebível! Que tipo de artimanha você usou para me superar?</Text>
+			<Text>...Inconcebível! Que tipo de artimanha usou para me superar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_2">
-			<Text>Eu lembrarei disso. Escreva minhas palavras.</Text>
+			<Text>Eu lembrarei disso. Guarde minhas palavras.</Text>
 		</Row>
 		<!--Defeated and removed from game -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_1">
-			<Text>Meu Deus, tenha piedade de minha alma; Meu Deus, tenha piedade desse meu pobre povo.</Text>
+			<Text>Meu Deus, tenha piedade de minha alma; Meu Deus, tenha piedade deste meu pobre povo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_2">
-			<Text>Talvez seja melhor assim... ao menos agora não terei que testemunhar a destruição da minha amada nação por você.</Text>
+			<Text>Talvez seja melhor assim... ao menos agora não terei que testemunhar a destruição de minha amada nação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_3">
-			<Text>Maldito! Eu tinha esperança de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente eles continuarão a sofrer sob o seu julgo.</Text>
+			<Text>Maldito! Eu tinha esperança de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente ele continuará a sofrer sob seu julgo.</Text>
 		</Row>
 
 		<!--Neutral -->
@@ -71,10 +71,10 @@
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Eu continuo não entendendo por que isso seria do meu interesse.</Text>
+			<Text>Continuo sem entender por que isso seria do meu interesse.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Você pode fazer um pouco melhor?</Text>
+			<Text>Poderia melhorar um pouco?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
 			<Text>Isso não está bom o suficiente.</Text>
@@ -88,19 +88,19 @@
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
-			<Text>Esta será a última vez, eu te prometo.</Text>
+			<Text>Esta será a última vez, eu prometo.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
-			<Text>...Você fala sério?</Text>
+			<Text>...Está falando sério?</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
-			<Text>Venha, acredito ter algo que lhe interessará.</Text>
+			<Text>Venha, acredito ter algo que será de seu interesse.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Uma pequena amostra da sua gratidão seria apreciada neste momento crítico.</Text>
+			<Text>Uma pequena amostra de sua gratidão seria apreciada neste momento crítico.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_1">
@@ -145,13 +145,13 @@
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Eu não posso aceitar isto de consciência limpa, não ainda...</Text>
+			<Text>Não posso aceitar isto de consciência limpa, não ainda...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Isso é o melhor que você pode fazer?</Text>
+			<Text>Isso é o melhor que pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá...</Text>
+			<Text>Está quase lá...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_HAPPY">
@@ -159,7 +159,7 @@
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
-			<Text>Nós estamos sempre prontos para ajudar um aliado em dificuldade.</Text>
+			<Text>Estamos sempre prontos para ajudar um aliado em dificuldade.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
@@ -171,7 +171,7 @@
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
-			<Text>Sua assistência seria muito apreciada, amigo. Sua generosidade benevolente é renomada.</Text>
+			<Text>Sua assistência seria muito apreciada, pessoa amiga. Sua generosidade benevolente é renomada.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_3">
@@ -213,13 +213,13 @@
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Você está começando a me lembrar da minha segunda esposa, e ela era um tanto louca...</Text>
+			<Text>Está começando a me lembrar de minha segunda esposa, e ela era um tanto louca...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Você precisa fazer melhor que isso.</Text>
+			<Text>Precisa fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
 			<Text>Quase...</Text>
@@ -242,7 +242,7 @@
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
-			<Text>Eu permitirei que você continue em sua miserável existência, se você me agradar.</Text>
+			<Text>Permitirei que continue em sua miserável existência, se me agradar.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_4">
@@ -264,10 +264,10 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_1">
-			<Text>Você se provou um governante incapaz, e eu não posso mais suportar a lamúria do seu povo. Eles serão libertados de sua tirania.</Text>
+			<Text>Você se provou uma pessoa governante incapaz, e eu não posso mais suportar a lamúria do seu povo. Ele será libertado de sua tirania.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_2">
-			<Text>Você sabe o que você fez para nos trazer a isto... infeliz sequência de eventos.</Text>
+			<Text>Sabe o que fez para nos trazer a esta... infeliz sequência de eventos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_3">
 			<Text>Embora eu odeie guerras, considero purgar sua existência uma forma de serviço público.</Text>
@@ -280,7 +280,7 @@
 			<Text>...Que seja.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_3">
-			<Text>Você se diz um governante de homens, mas tudo que vejo é um bárbaro com roupas finas.</Text>
+			<Text>Você se diz governante, mas tudo que vejo é selvageria com roupas finas.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_QUOTE_1">

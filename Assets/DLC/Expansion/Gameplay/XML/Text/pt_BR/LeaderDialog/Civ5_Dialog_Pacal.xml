@@ -7,26 +7,26 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_1">
-            <Text>Saudações, indomável. Eu sou conhecido como Pacal. Você traz uma mensagem dos Deuses? Eu posso senti-los, seu hálito gelado em minha nuca.</Text>
+            <Text>Saudações, pessoa indomável. Sou conhecido como Pacal. Trazeis uma mensagem dos Deuses? Posso senti-los, seu hálito gelado em minha nuca.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_2">
-            <Text>Prazer, estrangeiro - você pode me chamar de Pacal, o Grande. Não que isso importe... acredito que não nos falaremos mais.</Text>
+            <Text>Satisfação em conhecê-la, pessoa estrangeira - pode me chamar de Pacal, o Grande. Não que isso importe... acredito que não nos falaremos mais.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_3">
-            <Text>Que escuridão e desespero você traz ao poderoso Pacal? Eu ofereceria um refresco, mas eu tenho um apocalipse para me preparar.</Text>
+            <Text>Que escuridão e desespero trazeis ao poderoso Pacal? Eu ofereceria um refresco, mas tenho um apocalipse para me preparar.</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_1">
-            <Text>Você traz destruição para si!</Text>
+            <Text>Trazeis destruição para si!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_2">
-            <Text>Como você é decepcionante...</Text>
+            <Text>Que decepção...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_3">
-            <Text>Você enfureceu a Morte. Ela acordou!</Text>
+            <Text>Enfureceste a Morte. Ela acordou!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_4">
-            <Text>Espere. As corujas da Morte virão por você em seguida.</Text>
+            <Text>Espere. As corujas da Morte virão em seguida.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_5">
             <Text>Eu sabia que isso era uma perda de tempo...</Text>
@@ -40,35 +40,35 @@
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_1">
-            <Text>Pegue o que você quiser - não faz mais diferença agora. Você não pode ver o que está no horizonte?</Text>
+            <Text>Pegue o que quiser - não faz mais diferença agora. Não pode ver o que está no horizonte?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_2">
-            <Text>Ha ha! Seu tolo patético! Aproveite seus espólios enquanto pode - eles irão pesar quando o chão se abrir sob os seus pés.</Text>
+            <Text>Ha ha! Pessoa tola e patética! Aproveite seus espólios enquanto pode - eles pesarão quando o chão se abrir sob seus pés.</Text>
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_1">
-            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Você está condenado a ver o mundo ser destruído, enquanto me salvou deste destino.</Text>
+            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Estás condenado a ver o mundo ser destruído, enquanto me salvaste deste destino.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_2">
             <Text>Aproveite o seu insignificante reino enquanto pode... nada mais importa. Eu não importo... você não importa... As corujas! Eu posso ouvir as corujas!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_3">
-            <Text>Quando os céus tiverem sido levados pela enchente, você também será levado pelas correntes. Você me fez um grande favor, não terei mais que testemunhar isso.</Text>
+            <Text>Quando os céus tiverem sido levados pela enchente, você também será levado pelas correntes. Fizeste-me um grande favor, não terei mais que testemunhar isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_4">
-            <Text>Você pode ter me derrotado, mas não pode parar o que já está em movimento. Nossos destinos estão prescritos em rocha - somente as lágrimas dos deuses podem remover seus entalhes.</Text>
+            <Text>Pode ter me derrotado, mas não pode parar o que já está em movimento. Nossos destinos estão prescritos em rocha - somente as lágrimas dos deuses podem remover seus entalhes.</Text>
         </Row>
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_1">
-            <Text>Um bom dia para você, espero.</Text>
+            <Text>Um bom dia, espero.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_2">
             <Text>Saudações.</Text>
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_1">
-            <Text>Eu duvido que nos encontremos novamente.</Text>
+            <Text>Duvido que nos encontremos novamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_2">
             <Text>Adeus.</Text>
@@ -79,10 +79,10 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
-            <Text>Por que você deseja me enganar quando resta tão pouco tempo?</Text>
+            <Text>Por que deseja me enganar quando resta tão pouco tempo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
-            <Text>Você pode fazer um pouco melhor?</Text>
+            <Text>Pode fazer um pouco melhor?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
             <Text>Isso não está bom o suficiente.</Text>
@@ -100,15 +100,15 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
-            <Text>Que coisa ridícula é esta? Você não tem sacrifícios a fazer? Seria um melhor uso do seu tempo.</Text>
+            <Text>Que coisa ridícula é esta? Não tens sacrifícios a fazer? Seria um melhor uso do seu tempo.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
-            <Text>Que a ira dos deuses desça sobre você, caso você não atenda minha proposta.</Text>
+            <Text>Que a ira dos deuses desça sobre ti, caso não atendas à minha proposta.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
-            <Text>Meus ancestrais dizem que preciso de mais riquezas para oferecer aos Deuses. Dê-me isso, para que nós dois possamos viver e ver o fim.</Text>
+            <Text>Meus ancestrais dizem que preciso de mais riquezas para oferecer aos Deuses. Entregue-me isso, para que ambos possamos viver e ver o fim.</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_1">
@@ -135,7 +135,7 @@
         <!--Happy -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_3">
-            <Text>Você vai passar o apocalipse comigo?</Text>
+            <Text>Vais passar o apocalipse comigo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_4">
             <Text>Olá novamente.</Text>
@@ -153,13 +153,13 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
-            <Text>Pode ser o fim do mundo, mas eu tenho aparências a manter. Melhor isso.</Text>
+            <Text>Pode ser o fim do mundo, mas eu tenho aparências a manter. Melhore isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
-            <Text>Isso é o melhor que você pode fazer?</Text>
+            <Text>Isso é o melhor que pode fazer?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
-            <Text>Você está quase lá...</Text>
+            <Text>Está quase lá...</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_HAPPY">
@@ -171,15 +171,15 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_HAPPY">
-            <Text>Por que você quer roubar de Pacal? Você não tem nada melhor para fazer com o seu tempo antes do mundo se esfarelar em pó?</Text>
+            <Text>Por que queres roubar de Pacal? Não tens nada melhor para fazer com o seu tempo antes do mundo se esfarelar em pó?</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_HAPPY">
-            <Text>Amigo, acredito ter encontrado uma forma de salvar nós todos! Veja... veja e aceite minha oferta!</Text>
+            <Text>Amigo, acredito ter encontrado uma forma de salvar a todos nós! Veja... veja e aceite minha oferta!</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
-            <Text>O céu... o céu exige sangue! Por favor, me ajude, senão Kizin e seus demônios poderão vir atrás de nós.</Text>
+            <Text>O céu... o céu exige sangue! Por favor, ajude-me, senão Kizin e seus demônios poderão vir atrás de nós.</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_3">
@@ -221,20 +221,20 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
-            <Text>A não ser que você queira ver seu sangue espalhado ao redor do meu altar, repense essa oferta.</Text>
+            <Text>A não ser que queira ver seu sangue espalhado ao redor do meu altar, repense essa oferta.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
             <Text>Isso não é bom o suficiente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
-            <Text>Você precisa fazer melhor que isso.</Text>
+            <Text>Precisa fazer melhor que isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
-            <Text>Quase, camponês...</Text>
+            <Text>Quase, pessoa do campo...</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_ANGRY">
-            <Text>Que a ira dos meus ancestrais caia sobre você! Você enfureceu a os deuses com sua imprudência. Saia!</Text>
+            <Text>Que a ira dos meus ancestrais caia sobre ti! Enfureceste os deuses com sua imprudência. Saia!</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_YES_ANGRY">
@@ -242,7 +242,7 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_ANGRY">
-            <Text>Não que isso vá importar em breve, mas eu nego sua exigência por puro despeito.</Text>
+            <Text>Não que isso vá importar em breve, mas nego sua exigência por puro despeito.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_ANGRY">
@@ -264,7 +264,7 @@
             <Text>Isso é inaceitável.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_7">
-            <Text>Você não pode estar falando sério!</Text>
+            <Text>Não podes estar falando sério!</Text>
         </Row>
         <!--Let's hear it -->
         <Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_5">
@@ -272,7 +272,7 @@
         </Row>
 
         <Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_1">
-            <Text>Somente um poderá viver para ver o fim do ciclo da Contagem Longa, e não será um descrente estúpido como você! Prepare-se para a destruição.</Text>
+            <Text>Somente um poderá viver para ver o fim do ciclo da Contagem Longa, e não será um, uma descrente estúpida como você! Prepare-se para a destruição.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_2">
             <Text>Uma esperança, uma esperança resta. Se eu derrotar você, talvez eu possa renovar a fé dos Deuses nos homens e parar a grande inundação da ruína.</Text>
@@ -287,10 +287,10 @@
             <Text>Porque se importar com esta farsa e essa dança portentosa? Nada disso importa mais... nada.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_3">
-            <Text>O ciclo está terminando... eu posso sentir. Isto é a penas o começo - você libertou o grito do fim dos tempos.</Text>
+            <Text>O ciclo está terminando... eu posso sentir. Isto é apenas o começo - libertaste o grito do fim dos tempos.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_4">
-            <Text>O que é isso? Você quer apressar o fim dos dias? Claro, vamos arrasar este mundo já condenado.</Text>
+            <Text>O que é isso? Quer apressar o fim dos dias? Claro, vamos arrasar este mundo já condenado.</Text>
         </Row>
     </Language_pt_BR>
 </GameData>

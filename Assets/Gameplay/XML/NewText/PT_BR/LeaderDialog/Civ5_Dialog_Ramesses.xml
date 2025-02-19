@@ -26,31 +26,31 @@
       <Text>Excelente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1">
-      <Text>Você é tão estúpido quanto perigoso! Lamentarás por este dia!</Text>
+      <Text>Demonstra ser tão imprudente quanto perigoso!  Este dia trará arrependimentos!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2">
-      <Text>Canalha! Prepare-se para enfrentar minha ira divina!</Text>
+      <Text>Prepare-se para enfrentar minha ira divina!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3">
-      <Text>Idiota! Você condenou a si próprio e a sua civilização</Text>
+      <Text>Que tolice! Condenou a si e a sua civilização</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1">
-      <Text>Você é uma praga sobre a terra. Prepare-se para morrer.</Text>
+      <Text>É uma praga sobre a terra. Prepare-se para morrer.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2">
-      <Text>Sua bárbara civilização me ofende. Prepare-se para a guerra.</Text>
+      <Text>Sua civilização bárbara me ofende. Prepare-se para a guerra.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3">
-      <Text>Está escrito nas estrelas. Devo destruí-lo.</Text>
+      <Text>Está escrito nas estrelas. Devo destruir você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1">
-      <Text>Idiota! Não se pode destruir um Deus! Meu poder divino o destruirá a qualquer momento! Sem dúvida!</Text>
+      <Text>Que tolice! Não se pode destruir um Deus! Meu poder divino irá destruir a qualquer momento! Sem dúvida!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2">
-      <Text>Não ganhou nada com isto. Meu espírito o arrastará para o mesmo abismo!</Text>
+      <Text>Não ganhou nada com isto. Meu espírito irá arrastar para o mesmo abismo!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3">
-      <Text>Interessante. Aparentemente, até mesmo os deuses podem cair derrotados. Quero te dar os parabéns pela sua vitória.</Text>
+      <Text>Interessante. Aparentemente, até mesmo os deuses podem cair derrotados. Quero parabenizar por sua vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY">
       <Text>Dê-nos o que queremos ou enfrentará nossa ira divina.</Text>
@@ -59,7 +59,7 @@
       <Text>O Egito aceita seu generoso tributo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Se você quiser sobreviver, faria bem em dar o seguinte.</Text>
+      <Text>Se quiser sobreviver, faria bem em dar o seguinte.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1">
       <Text>Não.</Text>
@@ -83,10 +83,10 @@
       <Text>Como...?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1">
-      <Text>Saudações. Sou Ramsés, governante do poderoso Egito. Também sou um Deus. Você demonstra um grande valor ao se dirigir a mim.</Text>
+      <Text>Saudações. Sou Ramsés, governante do poderoso Egito. Também sou um Deus. Demonstra grande valor ao se dirigir a mim.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
-      <Text>Dou-lhe as boas-vindas. Sou Ramsés do Egito. As estrelas haviam previsto a sua chegada.</Text>
+      <Text>Boas-vindas. Sou Ramsés do Egito. As estrelas haviam previsto a sua chegada.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
       <Text>Saudações. Sou o Deus Ramsés, personificação viva do Egito, pai e mãe de todas as civilizações.</Text>
@@ -113,7 +113,7 @@
       <Text>Isso era tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
-      <Text>Eu lhe dou as boas-vindas.</Text>
+      <Text>Dou-lhe as boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2">
       <Text>Olá.</Text>
@@ -155,10 +155,10 @@
       <Text>Continuar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1">
-      <Text>Eu poderia tê-lo destruído, você sabe, mas hoje me sinto especialmente generoso.</Text>
+      <Text>Eu poderia ter destruído você, mas hoje me sinto especialmente generoso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_1">
-      <Text>Esta é sua oferta? Homens foram destruídos com um raio por menos que isto. Faça melhor.</Text>
+      <Text>Esta é sua oferta? Pessoas foram destruídas com um raio por menos que isto. Faça melhor.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_2">
       <Text>Isto não basta.</Text>
@@ -167,7 +167,7 @@
       <Text>Precisa melhorar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Vamos! Esperava mais de você. Certamente você sabe que sua oferta não é justa. Pode melhorá-la?</Text>
+      <Text>Esperava mais. Certamente sabe que sua oferta não é justa. Pode melhorá-la?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_2">
       <Text>É sua melhor oferta?</Text>
@@ -188,13 +188,13 @@
       <Text>Quase...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY">
-      <Text>Por que eu iria negociar com você? Você é uma vergonha quando joga.</Text>
+      <Text>Por que eu iria negociar? É uma vergonha quando joga.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY">
-      <Text>Aprecio sua oferta, camarada, mas devo recusá-la. Os céus já nos dão tudo o que necessitamos.</Text>
+      <Text>Apreciamos sua oferta, mas devo recusá-la. Os céus já nos dão tudo o que necessitamos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL">
-      <Text>Sou um Deus. Por que eu necessitaria algo de você</Text>
+      <Text>Sou um Deus. Por que eu necessitaria algo de você?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY">
       <Text>Muito bem. Se for o que promete.</Text>
@@ -209,7 +209,7 @@
       <Text>O Egito propõe. Recuse e sofrerá as consequências.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY">
-      <Text>O omnisciente Ramsés sabe que esta proposta é de seu agrado.</Text>
+      <Text>O onisciente Ramsés sabe que esta proposta é de seu agrado.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL">
       <Text>O generoso Egito lhe oferece o seguinte trato.</Text>
@@ -218,19 +218,19 @@
       <Text>Desapareça antes que eu amaldiçoe sua família por nove gerações!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY">
-      <Text>Segundo as estrelas, hoje não é um dia propício para algo assim. Amanhã quem sabe...</Text>
+      <Text>Segundo as estrelas, hoje não é um dia propício para algo assim. Amanhã, quem sabe...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL">
-      <Text>Seu cão dos infernos! Como ousa insultar o poderoso Egito desta maneira?</Text>
+      <Text>Como ousa insultar o poderoso Egito desta maneira?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY">
-      <Text>Oh, muito bem. Um deus pode se dar ao luxo de ser generoso com as criaturas mais humildes.</Text>
+      <Text>Oh, muito bem. Um deus pode se dar ao luxo de ser generoso com criaturas mais humildes.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY">
-      <Text>Suas orações não serão negligenciadas, meu fiel amigo.</Text>
+      <Text>Suas orações não serão negligenciadas, representante fiel.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL">
-      <Text>Claro que sim! Ficamos felizes em recompensar os nossos súditos leais.</Text>
+      <Text>Claro que sim! Ficamos felizes em recompensar a lealdade.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1">
       <Text>Está jogando um jogo perigoso.</Text>
@@ -245,13 +245,13 @@
       <Text>Decepcionante.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5">
-      <Text>Ah, é? Acredito que você não viverá para lamentar sua falta de visão.</Text>
+      <Text>Ah, é? Acredito que não viverá para lamentar sua falta de visão.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6">
       <Text>Que estupidez a sua.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1">
-      <Text>Não tente isto outra vez! Suas patéticas súplicas de misericórdia não o salvarão da próxima vez.</Text>
+      <Text>Não tente isto outra vez! Súplicas patéticas de misericórdia não salvarão da próxima vez.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

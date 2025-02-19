@@ -6,7 +6,7 @@
             <Text>Mesopotâmia</Text>
         </Row>
 		<Row Tag="TXT_KEY_MAP_MESO_HELP">
-			<Text>Um mapa abrangendo o vale do Rio Nilo até o Oeste e estendendo-se até o Leste, região dos Rios Tigres e Eufrátes.</Text>
+			<Text>Um mapa abrangendo o vale do Rio Nilo, a oeste, e estendendo-se até a região dos Rios Tigre e Eufrates, a leste.</Text>
 		</Row>
     </Language_pt_BR>
 </GameData>

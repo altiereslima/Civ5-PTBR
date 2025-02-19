@@ -15,47 +15,47 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_1">
-			<Text>Você se atreve a me atacar! Pelos céus, eu castigarei você!</Text>
+			<Text>Você se atreve! Pelos céus, haverá punição!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_2">
-			<Text>Seu verme repugnante, você pagará!</Text>
+			<Text>Será feita justiça!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_3">
-			<Text>Com a ajuda dos céus, eu certamente aniquilarei você.</Text>
+			<Text>Com a ajuda dos céus, certamente haverá retaliação.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_1">
-			<Text>Como a espada celestial quebrará o escudo do mal, também eu aniquilarei você! Prepare-se para a guerra!</Text>
+			<Text>Como a espada celestial quebrará o escudo do mal, também haverá retaliação! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_2">
-			<Text>Os céus podem até perdoar você, eu não perdoarei! Prepare-se para a guerra!</Text>
+			<Text>Os céus podem até perdoar, eu não! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_3">
-			<Text>Eu rezarei por sua alma. Seu corpo, por outro lado, eu devo destruir. Prepare-se para a guerra!</Text>
+			<Text>Eu rezarei por sua alma. Seu corpo, por outro lado, será destruído. Prepare-se para a guerra!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_1">
-			<Text>Muito bem. Isso certamente é a vontade dos Céus; eu devo aceitar.</Text>
+			<Text>Muito bem. Certamente é a vontade dos Céus; devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_2">
-			<Text>Tudo está perdido. O mal triunfou - por enquanto. Mas esteja preparado, pois os Céus certamente serão vitoriosos no final!</Text>
+			<Text>Tudo está perdido. O mal triunfou - por enquanto. Mas esteja a postos, pois os Céus certamente serão vitoriosos no final!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_3">
 			<Text>{TXT_KEY_LEADER_ISABELLA_DEFEATED_2}</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">
-			<Text>Você poderia encurtar sua estadia no purgatório realizando atos de caridade enquanto está vivo.</Text>
+			<Text>Poderia encurtar sua estadia no purgatório realizando atos de caridade enquanto vive.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_HAPPY">
-			<Text>Meu amigo, acredito que os Céus gostariam que você nos desse o seguinte.</Text>
+			<Text>Acredito que os Céus gostariam que nos desse o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
 			<Text>A Espanha precisa do seguinte para ajudar na sua batalha sem fim contra os pecadores.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_1">
-			<Text>Diante dos Céus, eu não devo.</Text>
+			<Text>Diante dos Céus, não devo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_2">
 			<Text>Não.</Text>
@@ -73,21 +73,21 @@
 			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_7">
-			<Text>Você não pode estar falando sério!</Text>
+			<Text>Não é possível que esteja falando sério!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_1">
-			<Text>Pela graça do Todo-Poderoso Céu, eu sou Isabel, Rainha da Espanha. Você é um soberano justo?</Text>
+			<Text>Pela graça do Todo-Poderoso Céu, eu sou Isabel, Rainha da Espanha. Representa um governo justo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_2">
-			<Text>Que as graças dos Céus caiam sobre aqueles que as merecem! Eu sou Isabel da Espanha.</Text>
+			<Text>Que as graças dos Céus caiam sobre quem as merece! Eu sou Isabel da Espanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_3">
-			<Text>Eu sou Isabel, Rainha Ungida da Espanha. Você é um pagão, ou um cristão?</Text>
+			<Text>Eu sou Isabel, Rainha Ungida da Espanha. É uma pessoa pagã ou cristã?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_1">
-			<Text>Que os Céus abençoem você!</Text>
+			<Text>Que os Céus tragam bençãos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_2">
 			<Text>Adeus.</Text>
@@ -109,7 +109,7 @@
 			<Text>Bênçãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_2">
-			<Text>Abençoado seja você.</Text>
+			<Text>Receba bênçãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_3">
 			<Text>Saudações.</Text>
@@ -121,7 +121,7 @@
 			<Text>Então?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_6">
-			<Text>O que você quer?</Text>
+			<Text>O que deseja?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_1">
@@ -141,101 +141,101 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_LOSEWAR_1">
-			<Text>Os Céus certamente abençoarão você pela sua misericórdia a um inimigo derrotado.</Text>
+			<Text>Os Céus certamente abençoarão sua misericórdia para com o inimigo derrotado.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>A ganância é um pecado que leva à perdição eterna. Eu rezo para que você melhore sua oferta.</Text>
+			<Text>A ganância é um pecado que leva à perdição eterna. Peço que melhore sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_2">
-			<Text>Você precisa fazer melhor que isso.</Text>
+			<Text>Precisa melhorar isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso não é suficiente.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_1">
-			<Text>A avareza é um pecado. Você não melhoraria sua oferta?</Text>
+			<Text>A avareza é um pecado. Não poderia melhorar sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Isso é o melhor que você pode fazer?</Text>
+			<Text>Isso é o máximo que pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá...</Text>
+			<Text>Está quase lá...</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>A generosidade faz bem à alma. Você não pode melhorar sua oferta?</Text>
+			<Text>A generosidade faz bem à alma. Não pode melhorar sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso não é suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_3">
 		  <Text>Quase...</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_ANGRY">
-			<Text>Eu não vou dar ouvidos à sua língua de víbora. Sua oferta está recusada.</Text>
+			<Text>Não darei ouvidos à sua língua de víbora. Sua oferta está recusada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_HAPPY">
-			<Text>Se você olhar no fundo da sua alma, verá que sua oferta é injusta. Eu devo recusá-la.</Text>
+			<Text>Se olhar no fundo de sua alma, verá que sua oferta é injusta. Devo recusá-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_NEUTRAL">
-			<Text>Eu fui apontada pelos Céus para ser guardiã da riqueza do meu povo. Sua oferta é injusta e eu não posso concordar com ela.</Text>
+			<Text>Fui designada pelos Céus para ser guardiã da riqueza do meu povo. Sua oferta é injusta e não posso concordar com ela.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_ANGRY">
-			<Text>Nós aceitamos. Você pode ir.</Text>
+			<Text>Aceitamos. Pode ir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_HAPPY">
-			<Text>Você é mesmo um negociador justo e honesto. Nós aceitamos.</Text>
+			<Text>Vê-se que é uma pessoa justa e honesta em suas negociações. Aceitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_NEUTRAL">
-			<Text>Seus termos são justos. Nós aceitamos.</Text>
+			<Text>Seus termos são justos. Aceitamos.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_ANGRY">
-			<Text>Como soberana da Espanha, é meu dever às vezes tratar com pessoas que eu penso ser intragáveis. Agora é uma dessas vezes.</Text>
+			<Text>Como soberana da Espanha, é meu dever, às vezes, tratar com pessoas que considero intragáveis. Agora é uma dessas vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
-			<Text>Meu querido amigo, acredito que este acordo beneficiará ambos os lados e trará confusão aos nossos inimigos.</Text>
+			<Text>Acredito que este acordo beneficiará ambos os lados e trará confusão aos nossos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
-			<Text>Eu espero que este acordo receba suas bênçãos.</Text>
+			<Text>Espero que este acordo receba suas bênçãos.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_ANGRY">
-			<Text>Você se atreve? Estou surpresa por você não ter sido atingido por um raio por sua insolência!</Text>
+			<Text>Como ousa? Surpreende-me que não tenha sido atingido por um raio por sua insolência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_HAPPY">
-			<Text>Eu não posso dar o que você quer agora - mas eu prometo rezar por sua salvação.</Text>
+			<Text>Não posso dar o que quer agora - mas prometo rezar por sua salvação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_NEUTRAL">
-			<Text>Você não é merecedor de tanta generosidade.</Text>
+			<Text>Não merece tanta generosidade.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_ANGRY">
-			<Text>Eu rezo para que o seu coração pecador fique envergonhado por nossa generosidade.</Text>
+			<Text>Rezo para que seu coração pecador se envergonhe por nossa generosidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_HAPPY">
-			<Text>Claro: os justos devem ficar juntos contra os pagãos!</Text>
+			<Text>Claro: os justos devem se unir contra os pagãos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
-			<Text>Certamente: os Céus nos comandam a sermos generosos com quem precisa.</Text>
+			<Text>Certamente: os Céus nos comandam a sermos generosos com aqueles que precisam.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_1">
-			<Text>Os Céus estão muito desapontados com você.</Text>
+			<Text>Os Céus estão muito desapontados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_2">
-			<Text>Você está jogando um jogo perigoso.</Text>
+			<Text>Está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_3">
-			<Text>Muito bem. Na próxima vez eu não serei tão cortês!</Text>
+			<Text>Muito bem. Na próxima vez não serei tão cortês!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WINWAR_1">
-			<Text>Você é afortunado pelos Céus nos pedirem para sermos misericordiosos, senão eu destruiria você.</Text>
+			<Text>Tem sorte de os Céus nos pedirem para sermos misericordiosos, senão eu destruiria você.</Text>
 		</Row>
 
 	</Language_pt_BR>

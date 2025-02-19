@@ -4,6 +4,8 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_RELIGION_CATHOLICISM">
 			<Text>Catolicismo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- BELIEF DESCRIPTIONS -->
 		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS">
@@ -47,52 +49,84 @@
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SUN_GOD">
 			<Text>+1 de [ICON_FOOD] Alimento por cada recurso de {TXT_KEY_RESOURCE_BANANAS}, {TXT_KEY_RESOURCE_CITRUS} e {TXT_KEY_RESOURCE_WHEAT}</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- BELIEF NAMES -->
 		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT">
 			<Text>Missões de Caridade</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_EVANGELISM_SHORT">
 			<Text>Evangelismo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT">
 			<Text>Conversão de Pagãos</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT">
 			<Text>Educação Jesuíta</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT">
 			<Text>Fervor Religioso</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_SITES_SHORT">
 			<Text>Locais Sagrados</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT">
 			<Text>Para a Glória de Deus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT">
 			<Text>Seita Secreta</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT">
 			<Text>Unidade dos Profetas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS_SHORT">
 			<Text>Lágrimas dos Deuses</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
-		  <Text>Igreja Ortodoxa</Text>
+		  <Text>Ortodoxia Oriental</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
 		  <Text>Protestantismo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>    
 		<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER_SHORT">
 			<Text>Mãe Terra</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_KING_SHORT">
 			<Text>Rei Divino</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SUN_GOD_SHORT">
 			<Text>Deus Sol</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

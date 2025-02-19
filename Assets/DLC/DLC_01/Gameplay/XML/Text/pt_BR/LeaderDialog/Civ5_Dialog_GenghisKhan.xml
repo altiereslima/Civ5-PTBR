@@ -14,34 +14,34 @@
 			<Text>Sim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_1">
-			<Text>Você deve estar louco. Farei um favor ao mundo destruindo você.</Text>
+			<Text>Você deve estar em um estado de insanidade. Farei um favor ao mundo destruindo sua civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_2">
-			<Text>Você pagará por sua insolência.</Text>
+			<Text>A insolência será punida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_3">
-			<Text>Bom! Vamos cuidar disso como guerreiros!</Text>
+			<Text>Bom! Vamos cuidar disso como combatentes!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_1">
 			<Text>É inevitável que tenhamos que nos enfrentar e agora é uma boa hora... como qualquer outra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_2">
-			<Text>Você é fraco e vulnerável. Morra!</Text>
+			<Text>Sua civilização é fraca e vulnerável. Prepare-se para a morte!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_3">
 			<Text>A hora chegou para sua destruição.</Text>
-		</Row>    
+		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_1">
-			<Text>Você é mais forte que eu. Eu o parabenizo.</Text>
+			<Text>Sua força é superior. Reconheço sua vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_2">
-			<Text>Eu falhei e devo pagar o preço. Aguardarei minha execução.</Text>
+			<Text>Eu falhei e devo pagar o preço. Aguardarei meu destino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_3">
-			<Text>Com a minha destruição, nada mais estará em seu caminho. Lembre-se de mim enquanto esmaga seus inimigos e conquista o mundo!</Text>
+			<Text>Com a minha destruição, nada mais estará em seu caminho. Que minha memória sirva de lembrança enquanto esmaga seus inimigos e conquista o mundo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEMANDTRIBUTE_ANGRY">
-			<Text>Dê-nos o que queremos ou morra.</Text>
+			<Text>Entregue o que queremos ou a morte será seu destino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEMANDTRIBUTE_HAPPY">
 			<Text>A continuidade da nossa amizade tem um preço. Aqui está.</Text>
@@ -68,16 +68,16 @@
 			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_7">
-			<Text>Você não pode estar falando sério!</Text>
+			<Text>Está falando sério?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_1">
-			<Text>O guerreiro e orgulhoso povo Mongol o saúda. Trate-nos com respeito e você viverá para ver um novo amanhecer.</Text>
+			<Text>O guerreiro e orgulhoso povo Mongol saúda sua civilização. Trate-nos com respeito e a vida continuará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_2">
-			<Text>Eu sou Temujin, mestre das estepes e conquistador de cidades. Você pode rastejar de medo, se quiser.</Text>
+			<Text>Eu sou Temujin, mestre das estepes e conquistador de cidades. Pode se curvar em reverência, se quiser.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_3">
-			<Text>Saudações. Eu sou Temujin. Eu espero que você prove ser um amigo leal ou um valioso adversário.</Text>
+			<Text>Saudações. Eu sou Temujin. Espero que se prove uma liderança leal ou oponente de valor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_1">
 			<Text>Até logo.</Text>
@@ -98,7 +98,7 @@
 			<Text>Nossos negócios aqui acabaram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_1">
-			<Text>Bem-vindo.</Text>
+			<Text>Saudações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_2">
 			<Text>Olá.</Text>
@@ -113,7 +113,7 @@
 			<Text>Então?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_6">
-			<Text>O que você quer?</Text>
+			<Text>O que deseja?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_1">
 			<Text>Continuar.</Text>
@@ -131,31 +131,31 @@
 			<Text>Sim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_LOSEWAR_1">
-			<Text>Eu lhe subestimei. Não farei isso novamente.</Text>
+			<Text>Subestimei sua capacidade. Não farei isso novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Não desperdice meu tempo, cão. Melhore sua oferta ou suma daqui.</Text>
+			<Text>Não desperdice meu tempo. Melhore sua oferta ou suma daqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Você precisa fazer melhor que isso.</Text>
+			<Text>Precisa fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_4">
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Meus chefes tribais se rebelarão se me vir dando nossos tesouros por tão pouco. Você precisa fazer melhor.</Text>
+			<Text>Meus chefes tribais se rebelarão se me virem entregando nossos tesouros por tão pouco. É necessário melhorar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Isso é o melhor que você pode fazer?</Text>
+			<Text>Isso é o melhor que pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá...</Text>
+			<Text>Está quase lá...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Não me trate como idiota: eu tenho negociado cavalos por toda a minha vida. Você precisa fazer melhor.</Text>
+			<Text>Não me trate como se eu não entendesse de negociações: tenho negociado cavalos por toda a minha vida. É preciso melhorar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_2">
 			<Text>Pode melhorar um pouco mais?</Text>
@@ -170,13 +170,13 @@
 			<Text>Por que pagar por algo quando podemos simplesmente ir e tomá-lo? Não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_HAPPY">
-			<Text>Sua sorte é que somos amigos, senão eu estaria extremamente insultado com sua oferta ridícula.</Text>
+			<Text>Sua sorte é que a amizade nos une, senão eu estaria extremamente insultado com sua oferta ridícula.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_NEUTRAL">
-			<Text>Você deve estar louco em me insultar com uma oferta como esta. Nós recusamos.</Text>
+			<Text>Insultar-me com uma oferta como esta é um erro. Nós recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_ANGRY">
-			<Text>Por que não? Nós podemos sempre pegar de volta se mudarmos nosso entendimento.</Text>
+			<Text>Por que não? Podemos sempre retomar o que for preciso se mudarmos nosso entendimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_HAPPY">
 			<Text>Com prazer!</Text>
@@ -185,43 +185,43 @@
 			<Text>É razoável. Nós aceitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_ANGRY">
-			<Text>Faria bem a você em aceitar nossa justa e bem razoável oferta.</Text>
+			<Text>Faria bem em aceitar nossa justa e razoável oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_HAPPY">
 			<Text>Esta troca lhe interessa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_NEUTRAL">
-			<Text>Recomendo que você aceite esta troca. Raramente sou tão generoso.</Text>
+			<Text>Recomendo que aceite esta troca. Raramente sou tão generoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_ANGRY">
-			<Text>Você é um idiota suicida. Vá embora!</Text>
+			<Text>Sua proposta é suicida. Vá embora!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_HAPPY">
-			<Text>Você está tentando nos provocar à guerra? Continue assim: você está quase conseguindo.</Text>
+			<Text>Está tentando nos provocar à guerra? Continue: está quase conseguindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_NEUTRAL">
-			<Text>Eu até acho sua fanfarrice insana engraçada. Por isso não vou te matar por sua insolência. Desapareça.</Text>
+			<Text>Até acho sua audácia insana engraçada. Por isso não eliminarei sua civilização por sua insolência. Desapareça.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_ANGRY">
 			<Text>Muito bem - isso só fará sua completa destruição mais doce.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_HAPPY">
-			<Text>Eu te dou os parabéns. É preciso coragem para nos extorquir. Nós aceitamos suas demandas.</Text>
+			<Text>Dou os parabéns pela audácia em nos extorquir. Aceitamos suas demandas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_NEUTRAL">
-			<Text>Você nos pegou em desvantagem. Eu devo aceitar... por enquanto.</Text>
+			<Text>Sua civilização nos pegou em desvantagem. Devo aceitar... por enquanto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_1">
-			<Text>Eu te dou os parabéns por sua coragem.</Text>
+			<Text>Reconheço a coragem em suas ações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_2">
-			<Text>Seu idiota cego. Você se arrependerá disso.</Text>
+			<Text>Que tolice. O arrependimento virá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_3">
-			<Text>Quão idiota você é.</Text>
+			<Text>Quanta tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_WINWAR_1">
-			<Text>Considere-se com sorte por eu te deixar sobreviver.</Text>
+			<Text>Considere a sorte de ter a vida poupada.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

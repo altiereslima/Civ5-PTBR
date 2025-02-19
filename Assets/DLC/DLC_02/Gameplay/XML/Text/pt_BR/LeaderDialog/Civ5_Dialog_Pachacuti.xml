@@ -8,38 +8,38 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1">
-			<Text>Saudações. Eu sou Pachacuti, governante dos Incas, o mais nobre, forte e belo povo do planeta. Eu sempre me alegro em conhecer Pachacutis de civilizações inferiores!</Text>
+			<Text>Saudações. Eu sou Pachacuti, governante dos Incas, o povo mais nobre, forte e magnífico do planeta. É sempre um prazer conhecer representantes de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_2">
-			<Text>Saudações, estrangeiro! Eu sou Pachacuti, Pachacuti dos Incas. Você deve estar muito honrado por nos conhecer.</Text>
+			<Text>Saudações! Eu sou Pachacuti, dos Incas. Agradecemos sua visita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_3">
-			<Text>Saudações, estrangeiro! Eu sou Pachacuti, governante dos inigualáveis Incas. Se houver alguma forma de podermos ajudar sua civilização inferior, por favor, não hesite em pedir.</Text>
+			<Text>Saudações! Eu sou Pachacuti, governante dos inigualáveis Incas. Se houver alguma forma de podermos auxiliar sua civilização, por favor, não hesite em pedir.</Text>
 		</Row>
 		<!--Reacts to his bluff being called -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_1">
-			<Text>Muito bem. Nós seremos misericordiosos com você. Por enquanto.</Text>
+			<Text>Muito bem. Seremos misericordiosos. Por enquanto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_2">
-			<Text>Muito bem. Da próxima vez eu não serei tão cortês!</Text>
+			<Text>Muito bem. Da próxima vez, não serei tão cortês!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_3">
-			<Text>Mesmo? Eu confio que você não viverá para se arrepender da sua falta de visão.</Text>
+			<Text>Mesmo? Espero que não se arrependa de sua decisão.</Text>
 		</Row>
 		<!--Gloats after winning a war -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_WINWAR_1">
-			<Text>Você realmente pensou que poderia derrotar o poderoso Império Inca? Seu pobre tolo iludido... eu quase sinto pena de você.</Text>
+			<Text>Realmente pensou que poderia derrotar o poderoso Império Inca? Que ilusão... Quase sinto compaixão.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_LOSEWAR_1">
-			<Text>Você se saiu surpreendentemente bem. Claramente, você andou me estudando atentamente.</Text>
+			<Text>Você se saiu surpreendentemente bem. Claramente, estudou nossas táticas.</Text>
 		</Row>
 		<!--Defeated and removed from game -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_1">
-			<Text>Isso é inacreditável! Não pode estar acontecendo! Eu devo estar sonhando! Logo eu acordarei e este pesadelo terá acabado.</Text>
+			<Text>Isso é inacreditável! Não pode estar acontecendo! Devo estar sonhando! Logo acordarei e este pesadelo terá acabado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_2">
-			<Text>Eu fui derrotado? Mas como isso aconteceu? Certamente eu fui traído!</Text>
+			<Text>Fui derrotado? Mas como isso aconteceu? Certamente fui traído!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_3">
 			<Text>Isso não pode estar acontecendo. Minha grandeza, meu esplendor... tudo arruinado, por você? Alguém me deve uma explicação!</Text>
@@ -48,7 +48,7 @@
 		<!--Neutral -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_1">
-			<Text>Bem-vindo.</Text>
+			<Text>Boas-vindas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_2">
 			<Text>Olá.</Text>
@@ -62,36 +62,36 @@
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_NEUTRAL">
-			<Text>Certamente. Nós sempre ficamos contentes em negociar com civilizações inferiores.</Text>
+			<Text>Certamente. Sempre ficamos contentes em negociar com outras civilizações.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Você não está tentando nos enganar, está? Isso seria um erro muito grande. Você deve melhorar sua oferta.</Text>
+			<Text>Não está tentando nos enganar, está? Isso seria um erro. Melhore sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Você pode fazer um pouco melhor?</Text>
+			<Text>Poderia melhorar um pouco?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso não é suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_4">
 			<Text>Quase...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_NEUTRAL">
-			<Text>Você realmente acredita que sua civilização tem algo a nos oferecer?</Text>
+			<Text>Realmente acredita que sua civilização tem algo a nos oferecer?</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL">
-			<Text>Nós sempre ficamos felizes em ajudar civilizações inferiores!</Text>
+			<Text>Sempre ficamos felizes em ajudar outras civilizações!</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL">
-			<Text>Sua ganância só é superada por sua arrogância. Nós recusamos sua exigência ridícula.</Text>
+			<Text>Sua ganância só é superada por sua arrogância. Recusamos sua exigência ridícula.</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL">
-			<Text>O povo Inca está oferecendo a você esta proposta eminentemente justa.</Text>
+			<Text>O povo Inca está oferecendo esta proposta eminentemente justa.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL">
@@ -136,37 +136,37 @@
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_HAPPY">
-			<Text>Que ideia excelente! Você mostra grande promessa como líder.</Text>
+			<Text>Que ideia excelente! Sua liderança demonstra grande potencial.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Eu sei que alta matemática pode ser difícil, meu amigo, mas este acordo não é justo. Você deverá melhorar sua oferta.</Text>
+			<Text>Sei que matemática avançada pode ser difícil, mas este acordo não é justo.  Deverá melhorar sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Isso é o melhor que você pode fazer?</Text>
+			<Text>Isso é o melhor que pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_3">
-			<Text>Você está quase lá...</Text>
+			<Text>Está quase lá...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_HAPPY">
-			<Text>Temo que sua oferta não seja aceitável, meu amigo.</Text>
+			<Text>Temo que sua oferta não seja aceitável.</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY">
-			<Text>Certamente, meu amigo! Está claro que você não sobreviverá sem a nossa ajuda.</Text>
+			<Text>Certamente! Está claro que não sobreviverá sem a nossa ajuda.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY">
-			<Text>Lamentável! Eu temo que nós não possamos atender à sua solicitação. Você terá que se virar sem a nossa ajuda desta vez.</Text>
+			<Text>Lamentável! Temo que não possamos atender à sua solicitação. Terá que se virar sem a nossa ajuda desta vez.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY">
-			<Text>Meu amigo, por mais difícil que seja de acreditar, o povo Inca precisa da sua assistência. Eu confio que você não irá recusar?</Text>
+			<Text>Por mais difícil que seja de acreditar, o povo Inca precisa da sua assistência. Confio que não irá recusar?</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_HAPPY">
-			<Text>Meu amigo, eu acredito que este acordo será benéfico para ambos os nossos povos.</Text>
+			<Text>Acredito que este acordo será benéfico para ambos os nossos povos.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_3">
@@ -184,7 +184,7 @@
 			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_4">
-			<Text>Você estava dizendo...</Text>
+			<Text>Estava dizendo...</Text>
 		</Row>
 
 		<!--Angry -->
@@ -204,17 +204,17 @@
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_ANGRY">
-			<Text>Isso parece razoável. Estou surpreso que você tenha pensado nisso.</Text>
+			<Text>Isso parece razoável. Estou surpreso com sua proposta.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Você ao menos entende o conceito de "acordo justo"? Sua oferta é muito fraca: você deve melhorá-la.</Text>
+			<Text>Ao menos entende o conceito de "acordo justo"? Sua oferta é muito fraca: melhore-a.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Você deve fazer melhor que isso.</Text>
+			<Text>Deve fazer melhor que isso.</Text>
 		</Row>
 
 		<!--Trade offer from player - no -->
@@ -223,19 +223,19 @@
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY">
-			<Text>Muito bem. Eu espero que você se engasgue com isso!</Text>
+			<Text>Muito bem. Espero que se contente com isso!</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY">
-			<Text>Você está louco?</Text>
+			<Text>Está fora de si?</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY">
-			<Text>Dê-nos o que queremos e talvez sua civilização inculta sobreviva para aprender um pouco de sabedoria.</Text>
+			<Text>Dê-nos o que queremos e talvez sua civilização sobreviva para aprender um pouco de sabedoria.</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_ANGRY">
-			<Text>O povo Inca graciosamente oferece à sua atrasada civilização este acordo.</Text>
+			<Text>O povo Inca graciosamente oferece à sua civilização este acordo.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_4">
@@ -243,13 +243,13 @@
 		</Row>
 		<!--Disagrees -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_5">
-			<Text>Como é que é?</Text>
+			<Text>Como?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_6">
 			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_7">
-			<Text>Você não pode estar falando sério!</Text>
+			<Text>Não deve estar falando sério!</Text>
 		</Row>
 		<!--Let's hear it -->
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_5">
@@ -257,23 +257,23 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_1">
-			<Text>Seu povo continua atrasado e primitivo. Claramente, uma mudança de regime é necessária. Prepare-se para a guerra!</Text>
+			<Text>Seu povo continua atrasado e primitivo. Claramente uma mudança de regime é necessária. Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_2">
-			<Text>Eu vou fazer um favor ao seu povo primitivo e incorporá-los ao Império Inca. Prepare-se para a guerra!</Text>
+			<Text>Farei um favor ao seu povo e o incorporarei ao Império Inca. Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_3">
-			<Text>Resistência é inútil! Você não pode esperar ser capaz de resistir ao poderoso Império Inca. Se você não se render imediatamente, prepare-se para a guerra!</Text>
+			<Text>Resistência é inútil! Não pode esperar resistir ao poderoso Império Inca. Se não se render imediatamente, prepare-se para a guerra!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_1">
-			<Text>Eu não esperava nada melhor de você. Você não irá nos encontrar despreparados.</Text>
+			<Text>Não esperava nada melhor de você. Não irá nos encontrar despreparados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_2">
-			<Text>Declarar guerra contra mim?!? Você não pode, porque eu declaro guerra contra você primeiro!</Text>
+			<Text>Declarar guerra contra mim?!? Não pode, porque eu declaro guerra primeiro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_3">
-			<Text>Seu verme desesperado. Como você se atreve a desafiar o invencível Império Inca!</Text>
+			<Text>Como ousa desafiar o invencível Império Inca!</Text>
 		</Row>
 
 	</Language_pt_BR>
