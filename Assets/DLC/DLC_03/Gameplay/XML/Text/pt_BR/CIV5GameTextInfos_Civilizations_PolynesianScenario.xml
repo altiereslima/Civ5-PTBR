@@ -19,9 +19,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_ADJECTIVE">
-			<Text>Tonganense|Tonganenses</Text>
-			<Gender>neuter</Gender>
-			<Plurality>1|2</Plurality>
+			<Text>Tonganês|Tonganêsa|Tonganêses|Tonganêsas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_DESC">
 			<Text>Império Tonga</Text>

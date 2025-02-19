@@ -4,7 +4,7 @@
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
 	<Language_pt_BR>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
-            <Text>Hidrocultura</Text>
+            <Text>Aquicultura</Text>
             <Gender>feminine</Gender> 
 			<Plurality>1</Plurality>            
         </Row>

@@ -4,7 +4,7 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA">
 			<Text>Kamehameha</Text>
-      <Gender>masculine</Gender> 
+			<Gender>masculine</Gender> 
 			<Plurality>1</Plurality>			
 		</Row>
 	</Language_pt_BR>

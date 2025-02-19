@@ -7,7 +7,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_MONGOL_TATARS">
-			<Text>Tatar</Text>
+			<Text>Tártaro</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

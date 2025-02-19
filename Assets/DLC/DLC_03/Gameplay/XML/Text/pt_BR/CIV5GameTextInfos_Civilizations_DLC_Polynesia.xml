@@ -8,12 +8,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIV_POLYNESIA_DESC">
 			<Text>Império Polinésio</Text>
-      <Gender>masculine</Gender> 
+			<Gender>masculine</Gender> 
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC">
 			<Text>Polinésia</Text>
-      <Gender>feminine</Gender> 
+			<Gender>feminine</Gender> 
 			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>

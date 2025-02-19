@@ -39,10 +39,10 @@
             <Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_STRATEGY">
-            <Text>Cada Quartel fornece 1 de [ICON_RES_MANPOWER]Mão de Obra. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER]Mão de Obra.</Text>
+            <Text>Cada Quartel fornece 1 de [ICON_RES_MANPOWER] Mão de Obra. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER] Mão de Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_STRATEGY">
-            <Text>Cada Base Militar fornece 2 de [ICON_RES_MANPOWER]Mão de Obra. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER]Mão de Obra.</Text>
+            <Text>Cada Base Militar fornece 2 de [ICON_RES_MANPOWER] Mão de Obra. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER] Mão de Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_STRATEGY">
             <Text>Permite que unidades de Infantaria possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
@@ -57,10 +57,10 @@
             <Text>Permite que unidades montadas sejam construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_HELP">
-            <Text>Fornece 1 de [ICON_RES_MANPOWER]Mão de Obra.</Text>
+            <Text>Fornece 1 de [ICON_RES_MANPOWER] Mão de Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_HELP">
-            <Text>Fornece 2 de [ICON_RES_MANPOWER]Mão de Obra.</Text>
+            <Text>Fornece 2 de [ICON_RES_MANPOWER] Mão de Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_HELP">
             <Text>Permite que unidades de Infantaria possam ser construídas nesta cidade.</Text>

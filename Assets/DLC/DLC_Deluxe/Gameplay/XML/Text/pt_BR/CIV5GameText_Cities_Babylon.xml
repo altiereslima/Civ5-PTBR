@@ -31,7 +31,7 @@
 			<Text>Mari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SHUSHAN">
-			<Text>Shushan</Text>
+			<Text>Susa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ESHNUNNA">
 			<Text>Eshnunna</Text>
@@ -52,7 +52,7 @@
 			<Text>Neribtum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASHUR">
-			<Text>Ashur</Text>
+			<Text>Assur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NINEVEH">
 			<Text>Nínive</Text>
@@ -106,7 +106,7 @@
 			<Text>Hafriyat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NAGAR">
-			<Text>Nagat</Text>
+			<Text>Nagar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SHUBAT_ENLIL">
 			<Text>Shubat-Enlil</Text>

@@ -23,7 +23,7 @@
 			<Text>Batu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_OGEDEI">
-			<Text>Ogedei</Text>
+			<Text>Oguedai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GUYUK">
 			<Text>Guyuk</Text>
@@ -53,7 +53,7 @@
 			<Text>Esta unidade e todas as outras em hexágonos adjacentes se [COLOR_POSITIVE_TEXT]curam 2 de PV adicionais[ENDCOLOR] por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE">
-			<Text>Ganho Rápido</Text>
+			<Text>Aprendiz Rápido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
 			<Text>Recebe experiência, em busca de promoções, 50% mais rápido.</Text>
