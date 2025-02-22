@@ -605,10 +605,10 @@
             <Text>A unidade precisa estar dentro ou adjacente a uma cidade (não precisa ser uma cidade amiga).</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SPREAD_RELIGION_RESULT">
-            <Text>Após realizar esta ação [COLOR_POSITIVE_TEXT]{2_NumFollowers}[ENDCOLOR] {2: plural 1?cidadão; other?cidadãos;} seguirão o [COLOR_POSITIVE_TEXT]{1_ReligionName}[ENDCOLOR].</Text>
+            <Text>Após realizar esta ação, [COLOR_POSITIVE_TEXT]{2: plural 1?{2_NumFollowers} cidadão a mais passará a seguir; other?{2_NumFollowers} cidadãos a mais passarão a seguir;} [ENDCOLOR] [COLOR_POSITIVE_TEXT]{1: gender masculine?o; feminine?a;} {1_ReligionName}[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_MAJORITY_RELIGION">
-            <Text>A religião predominante para esta cidade será o [COLOR_POSITIVE_TEXT]{1_ReligionName}[ENDCOLOR].</Text>
+            <Text>A religião predominante desta cidade será {1: gender masculine?o; feminine?a;} [COLOR_POSITIVE_TEXT]{1_ReligionName}[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_MAJORITY_RELIGION_NONE">
             <Text>Não haverá religião predominante nesta cidade.</Text>

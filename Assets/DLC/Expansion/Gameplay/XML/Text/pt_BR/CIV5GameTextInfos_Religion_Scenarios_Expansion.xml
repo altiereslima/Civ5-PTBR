@@ -6,13 +6,19 @@
 		<!-- Religions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY">
 			<Text>Catolicismo Romano</Text>
-		</Row>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row> 
 		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
-			<Text>Ortodoxia Oriental</Text>
+		  <Text>Cristianismo Ortodoxo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
-			<Text>Protestantismo</Text>
-		</Row>
+		  <Text>Protestantismo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>  
 		<!-- Beliefs -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHURCH_PROPERTY_SHORT">
 			<Text>Patriarcado</Text>

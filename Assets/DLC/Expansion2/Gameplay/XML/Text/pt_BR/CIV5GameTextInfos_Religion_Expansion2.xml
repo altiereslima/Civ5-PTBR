@@ -104,8 +104,8 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
-		  <Text>Ortodoxia Oriental</Text>
-			<Gender>feminine</Gender>
+		  <Text>Cristianismo Ortodoxo</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">

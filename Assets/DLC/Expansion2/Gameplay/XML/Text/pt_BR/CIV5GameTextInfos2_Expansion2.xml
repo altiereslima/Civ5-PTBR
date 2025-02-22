@@ -279,7 +279,7 @@
 			<Text>A Religião é disseminada 25% mais rápido (50% com a tecnologia Imprensa)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE_WITH_TRADE">
-			<Text>{1_ReligionIcon} {2_NumFollowers} Devotos {3_PressureString} ({4_Num} Rotas Comerciais)</Text>
+			<Text>{1_ReligionIcon} Devotos: {2_NumFollowers} {3_PressureString} ({4_Num} Rotas Comerciais)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_WARRIOR">
 			<Text>Recrutar um Guerreiro da tribo perdida.</Text>
@@ -337,6 +337,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_ESTABLISH_TRADE_ROUTE_HELP">
 			<Text>Estabelecer uma Rota Comercial com esta unidade, desta cidade para outra cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT">
+			<Text>Mover para outro porto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT_HELP">
+			<Text>Move este Almirante para outra cidade portuária sob seu controle. Ele pode deixar o outro porto no próximo turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CHANGE_TRADE_UNIT_HOME_CITY">
 			<Text>Alterar Cidade de Origem</Text>
@@ -623,7 +629,7 @@
 			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma Companhia das Índias Orientais gerarão 4 de [ICON_GOLD] Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
-			<Text>Substituta Assíria única para a Biblioteca. +1 DE [ICON_RESEARCH] Ciência para cada 2 [ICON_CITIZEN] Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
+			<Text>Substituta Assíria única para a Biblioteca. +1 de [ICON_RESEARCH] Ciência para cada 2 [ICON_CITIZEN] Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
 			<Text>É preciso ter construído Hotel em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE] Cultura vinda de Maravilhas do Mundo, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 100%.</Text>
@@ -673,7 +679,7 @@
 			<Text>+1 de [ICON_FOOD] Alimento e +1 de [ICON_PRODUCTION] Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma Caravana aparece na cidade. +6 de [ICON_CULTURE] Cultura assim que a tecnologia Arqueologia for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1] Felicidade, o balneário Prora também fornece +1 de [ICON_HAPPINESS_1] Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
+			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1] Felicidade, o Resort Prora também fornece +1 de [ICON_HAPPINESS_1] Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
 			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_FREEDOM}. +1 de [ICON_PRODUCTION] Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
@@ -781,7 +787,7 @@
 			<Text>Centro para a Arte Musical {2_CivAdjective[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
-			<Text>© 1991-2013 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilizations V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e os seus respectivos logos são todas marcas registradas da Take-Two Interactive Software, Inc.  Fork Direitos autorais © 2010 Fork Particle, Inc. Rapid XML Direitos autorais © 2006-2010 Marcin Kalicinski. Lua Direitos autorais © 1994-2010 Lua.org, PUC-Rio. Usa Animação Granny. Direitos autorais © 1999-2010 por RAD Game Tools, Inc. Usa Sistema de Som Miles. Direitos autorais © 1991-2010 por RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Entertainment Software Association. Todas as outras marcas e marcas registradas são propriedades de seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste jogo é fictício e não é programado para representar ou descrever os registros atuais dos eventos, pessoas ou entidades nas opções de jogo.</Text>
+			<Text>© 1991-2013 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são todas marcas registradas da Take-Two interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Utiliza Granny Animation. Copyright © 1999-2010 RAD Game Tools, Inc. Utiliza Miles Sound System. Copyright © 1991-2010 RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Entertainment Software Association. Todas as outras marcas e marcas registradas são propriedade de seus respectivos donos. Todos os direitos reservados. O conteúdo deste videogame é ficcional e não tem a intenção de representar ou descrever um registro real dos eventos, pessoas ou entidades no cenário histórico do jogo.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -1566,13 +1566,13 @@
 			<Text>"Grandes Profetas" exploram as fronteiras da crença religiosa, transmitindo seu discernimento único para guiar a moral e a ética de uma civilização. Eles fundam religiões, espalham a palavra de Deus e alimentam a fé do povo. Eles trazem esperança às nações mesmo nos tempos mais difíceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE">
-			<Text>{1_ReligionIcon} {2_NumFollowers} Devotos {3_PressureString}</Text>
+			<Text>{1_ReligionIcon} Devotos: {2_NumFollowers} {3_PressureString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGIOUS_PRESSURE_STRING">
 			<Text>(+{1_Pressure} Pressionando)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOLY_CITY_TOOLTIP_LINE">
-			<Text>Cidade Santa do {1_ReligionIcon} {2_ReligionName}</Text>
+			<Text>Cidade Santa {2: gender masculine?do; feminine? da;} {2_ReligionName} {1_ReligionIcon}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_NO_FOLLOWERS">
 			<Text>Nenhum devoto religioso nesta cidade.</Text>
