@@ -1192,7 +1192,7 @@
         </Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON">
-		  <Text>ESCOLHER GDE. PERSONALIDADE</Text>
+		  <Text>SELEC. GDE. PERSONALIDADE</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON_TT">
 		  <Text>Você pode escolher uma Grande Personalidade gratuitamente para o seu Império!</Text>

@@ -1045,13 +1045,13 @@
 			<Text>Status favorecido com {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_INTRUSION">
-			<Text>Você transpassou as fronteiras {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?de; other?das;};} {1_CivName:textkey}!</Text>
+			<Text>Você invadiu {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LIBERATION">
 			<Text>{1_CivName:textkey} {1: gender masculine?{1: plural 1?libertado; other?libertados;}; feminine?{1: plural 1?libertada; other?libertadas;};}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LOST_BEST_RELATIONS_BONUS">
-			<Text>Status Favorecido com {1_CivName:textkey} foi perdido</Text>
+			<Text>Não somos mais os favoritos de {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_FRIENDS">
 			<Text>Sua [ICON_INFLUENCE] Influência sobre {1_CivName:textkey} caiu tanto ao ponto de não serem mais amigos!</Text>
