@@ -5,22 +5,22 @@
     <!-- American Civl War -->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION">
 			<Text>Divisão de Infantaria USA|Divisões de Infantaria USA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS">
 			<Text>Corpo de Infantaria USA|Corpos de Infantaria USA</Text>
-			<Gender>masculine:masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
 			<Text>Cavalaria USA|Cavalarias USA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY">
 			<Text>Cavalaria com Carabina USA|Cavalarias com Carabina USA</Text>
-			<Gender>feminine:feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON">
@@ -98,7 +98,7 @@
 			<Text>A unidade de combate corpo a corpo mais poderosa da Guerra Civil, disponível apenas ao atualizar uma Divisão de Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_STRATEGY">
-			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
+			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de Rifles de Repetição.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_STRATEGY">
 			<Text>A unidade montada mais poderosa da Guerra Civil.</Text>
@@ -116,7 +116,7 @@
 			<Text>A unidade corpo a corpo mais poderosa da Guerra Civil, disponível apenas ao atualizar uma Divisão de Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_STRATEGY">
-			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
+			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de Rifles de Repetição.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_STRATEGY">
 			<Text>A unidade montada mais poderosa da Guerra Civil.</Text>

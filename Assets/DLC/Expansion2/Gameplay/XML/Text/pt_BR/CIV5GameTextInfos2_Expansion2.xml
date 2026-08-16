@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -189,13 +189,13 @@
 			<Text>O substituto Bárbaro para a Carruagem Arqueira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
-			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de Trabalhador que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD] Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
+			<Text>Arqueólogos são um subtipo especial de Trabalhador que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo Marco Histórico ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em Museus, Palácios, Hermitages e Maravilhas específicas. Arqueólogos podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. Arqueólogos não podem ser comprados com [ICON_GOLD] Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
-			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
+			<Text>Especializados em derrotar Cavaleiros e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
-			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
+			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos Assírios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
 			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE] Era de Ouro quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
@@ -207,10 +207,10 @@
 			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES] Movimento que a Caravela, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD] Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
-			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. {TXT_KEY_UNIT_PARATROOPER[2]} também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
+			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. Paraquedistas também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PARATROOPER_STRATEGY">
-			<Text>O Paraquedista é uma unidade de infantaria da etapa final do jogo. É de certa forma mais fraca que uma Infantaria Mecanizada, entretanto, ela pode saltar e aterrissar em até 9 hexágonos adiante (quando partir de um território amigo). Isso permite aos {TXT_KEY_UNIT_PARATROOPER[2]} pular literalmente as posições inimigas e destruir redes de estradas, saquear recursos vitais etc., devastando o território atrás das linhas deles. O Paraquedista fica em grande risco nesses tipos de missões, então se certifique de que o alvo valha a pena!</Text>
+			<Text>O Paraquedista é uma unidade de infantaria da etapa final do jogo. É de certa forma mais fraca que uma Infantaria Mecanizada, entretanto, ela pode saltar e aterrissar em até 9 hexágonos adiante (quando partir de um território amigo). Isso permite aos Paraquedistas pular literalmente as posições inimigas e destruir redes de estradas, saquear recursos vitais etc., devastando o território atrás das linhas deles. O Paraquedista fica em grande risco nesses tipos de missões, então se certifique de que o alvo valha a pena!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BERBER_CAVALRY">
 			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
@@ -225,7 +225,7 @@
 			<Text>Unidade de infantaria futurística especializada em enfrentar o perigo em qualquer lugar do mundo. O Esquadrão XCOM pode se mover e saquear após aterrissar, mas não pode entrar em combate até o próximo turno.[NEWLINE][NEWLINE][COLOR_CYAN]Boa sorte, Comandante![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
-			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio {TXT_KEY_POLICY_VOLUNTEER_ARMY} da Ideologia Independência. Esta unidade possui um bônus de combate quando luta fora de território amigo, no mais é muito similar a Infantaria I Guerra.</Text>
+			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio Exército Voluntário da Ideologia Independência. Esta unidade possui um bônus de combate quando luta fora de território amigo, no mais é muito similar a Infantaria I Guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
 			<Text>Esta Grande Personalidade única de Veneza substitui o Grande Mercador. Além da habilidade de conduzir uma Missão Comercial, o Mercador de Veneza pode comprar Cidades-Estado, trazendo-as ao controle Veneziano como um Fantoche.</Text>
@@ -273,7 +273,7 @@
 			<Text>A unidade deve estar em território de uma Cidade-Estado contra a qual você não esteja em guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
-			<Text>Usar [ICON_PEACE] Fé para comprar {TXT_KEY_BUILDING_CATHEDRAL[2]} (+1 de [ICON_PEACE] Fé, +1 de [ICON_CULTURE] Cultura, +1 de [ICON_HAPPINESS_1] Felicidade, 1 espaço para Grande Obra de Arte)</Text>
+			<Text>Usar [ICON_PEACE] Fé para comprar Catedrais (+1 de [ICON_PEACE] Fé, +1 de [ICON_CULTURE] Cultura, +1 de [ICON_HAPPINESS_1] Felicidade, 1 espaço para Grande Obra de Arte)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
 			<Text>A Religião é disseminada 25% mais rápido (50% com a tecnologia Imprensa)</Text>
@@ -590,7 +590,7 @@
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL] Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD] Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD] Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD] Ouro adicional.</Text>
+			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL] Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD] Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um Bazar gerarão +2 de [ICON_GOLD] Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD] Ouro adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
 			<Text>Substituto Indonésio único para o Jardim. +25% de geração de [ICON_GREAT_PEOPLE] Grandes Personalidades nesta cidade e +2 de [ICON_PEACE] Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
@@ -614,7 +614,7 @@
 			<Text>Cria uma [ICON_CONNECTED] Conexão com a [ICON_CAPITAL] Capital pela a água (se já não estiverem [ICON_CONNECTED] conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD] Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
-			<Text>50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo dos Grandes Obras aumenta em 50%.</Text>
+			<Text>50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marco Histórico, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo dos Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
 			<Text>Substituta Zulu único para o Quartel. Concede promoções únicas para unidades de ataque corpo a corpo pré-pólvora.</Text>
@@ -626,16 +626,16 @@
 			<Text>Fornece 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para geração de um Grande Músico. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Músico (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
-			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma Companhia das Índias Orientais gerarão 4 de [ICON_GOLD] Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD] Ouro.</Text>
+			<Text>É preciso ter construído um Mercado em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma Companhia das Índias Orientais gerarão 4 de [ICON_GOLD] Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
 			<Text>Substituta Assíria única para a Biblioteca. +1 de [ICON_RESEARCH] Ciência para cada 2 [ICON_CITIZEN] Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
-			<Text>É preciso ter construído Hotel em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE] Cultura vinda de Maravilhas do Mundo, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 100%.</Text>
+			<Text>É preciso ter construído Hotel em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE] Cultura vinda de Maravilhas do Mundo, Maravilhas Naturais, e Melhorias (Marco Histórico, Moai, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 100%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
-			<Text>+2 de [ICON_RESEARCH] Ciência de hexágonos com Selva explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma Biblioteca.</Text>
+			<Text>+2 de [ICON_RESEARCH] Ciência de hexágonos com Selva explorados por esta cidade. Permite que Arqueólogos sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma Biblioteca.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WORKSHOP_HELP">
 			<Text>Permite que [ICON_PRODUCTION] Produção seja movida desta cidade para outros pontos da sua civilização, via rotas comerciais.</Text>
@@ -648,20 +648,20 @@
 		</Row>
 		<!-- IMPROVEMENTS HELP -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
-			<Text>Um {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP} só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD] Ouro adicional. Após a tecnologia Acústica ser descoberta, ele também fornece [ICON_CULTURE] Cultura extra.</Text>
+			<Text>Um Acampamento Pau-Brasil só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD] Ouro adicional. Após a tecnologia Acústica ser descoberta, ele também fornece [ICON_CULTURE] Cultura extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_FEITORIA} só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada recurso de luxo que a Cidade-Estado estiver conectada, independentemente do seu status com a Cidade-Estado. Porém, esta cópia do recurso não pode ser negociada. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Uma Feitoria só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada recurso de luxo que a Cidade-Estado estiver conectada, independentemente do seu status com a Cidade-Estado. Porém, esta cópia do recurso não pode ser negociada. Além disso, ela fornece o mesmo bônus de defesa de +50% que um Forte. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_KASBAH} só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção e [ICON_GOLD] Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construída em território Marroquino.</Text>
+			<Text>Uma Casbá só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção e [ICON_GOLD] Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um Forte. Deve ser construída em território Marroquino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
-			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construído em território Francês. Quando a tecnologia Aeronáutica for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
+			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa que um Forte. Deve ser construído em território Francês. Quando a tecnologia Aeronáutica for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
 		</Row>
 		<!-- WONDERS HELP -->
 		<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
-			<Text>Deve ser construído em uma Cidade Santa. 3 {TXT_KEY_UNIT_MISSIONARY[2]} gratuitos aparecem.</Text>
+			<Text>Deve ser construído em uma Cidade Santa. 3 Missionários gratuitos aparecem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
 			<Text>Fornece um espaço adicional de rota comercial e um Navio Cargueiro aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui O Colosso gerarão 2 de [ICON_GOLD] Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD] Ouro. A cidade de estar construída na costa.</Text>
@@ -670,19 +670,19 @@
 			<Text>Edificações defensivas em todas as cidades são 25% mais eficientes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_ORDER}. +50% de [ICON_PRODUCTION] Produção quando estiver construindo unidades blindadas. 1 Política Social gratuita.</Text>
+			<Text>Requer a política Ordem. +50% de [ICON_PRODUCTION] Produção quando estiver construindo unidades blindadas. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PARTHENON_HELP">
 			<Text>Contém uma Grande Obra de Arte pré-construída em um Espaço de Grande Obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>+1 de [ICON_FOOD] Alimento e +1 de [ICON_PRODUCTION] Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma Caravana aparece na cidade. +6 de [ICON_CULTURE] Cultura assim que a tecnologia Arqueologia for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
+			<Text>+1 de [ICON_FOOD] Alimento e +1 de [ICON_PRODUCTION] Produção de todos os hexágonos desérticos explorados por esta cidade (exceto Planícies Inundadas). Fornece um espaço adicional para rota comercial e uma Caravana aparece na cidade. +6 de [ICON_CULTURE] Cultura assim que a tecnologia Arqueologia for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1] Felicidade, o Resort Prora também fornece +1 de [ICON_HAPPINESS_1] Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
+			<Text>Requer a política Autocracia. Além dos +2 de [ICON_HAPPINESS_1] Felicidade, o Resort Prora também fornece +1 de [ICON_HAPPINESS_1] Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
-			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_FREEDOM}. +1 de [ICON_PRODUCTION] Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
+			<Text>Requer a política Independência. +1 de [ICON_PRODUCTION] Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TERRA_COTTA_ARMY_HELP">
 			<Text>Cria uma cópia de cada tipo de unidade militar terrestre controlada por você e a coloca próximo a cidade onde o Exército de Terracota for construído.</Text>
@@ -693,10 +693,10 @@
 		</Row>
 		<!-- TECH HELP -->
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria conexões marítimas entre as cidades e a capital, produzindo [ICON_GOLD] Ouro. Além disso, a geração de [ICON_GOLD] Ouro pelos {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} aumenta.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria conexões marítimas entre as cidades e a capital, produzindo [ICON_GOLD] Ouro. Além disso, a geração de [ICON_GOLD] Ouro pelos Barcos Pesqueiros aumenta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Bazuca[ENDCOLOR], a unidade de ataque a distância mais poderosa, e [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_ATOMIC_BOMB[2]}[ENDCOLOR], a primeira arma nuclear do jogo (atenção: antes, você precisa completar o Projeto Manhattan e possuir [ICON_RES_URANIUM] Urânio disponível). Também permite a construção da [COLOR_POSITIVE_TEXT]Usina Nuclear[ENDCOLOR], uma edificação que requer [ICON_RES_URANIUM] Urânio e aumenta a [ICON_PRODUCTION] Produção de uma cidade.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Bazuca[ENDCOLOR], a unidade de ataque a distância mais poderosa, e [COLOR_POSITIVE_TEXT]Bombas Atômicas[ENDCOLOR], a primeira arma nuclear do jogo (atenção: antes, você precisa completar o Projeto Manhattan e possuir [ICON_RES_URANIUM] Urânio disponível). Também permite a construção da [COLOR_POSITIVE_TEXT]Usina Nuclear[ENDCOLOR], uma edificação que requer [ICON_RES_URANIUM] Urânio e aumenta a [ICON_PRODUCTION] Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERNET_HELP">
 			<Text>A Internet automaticamente dobra a geração de [ICON_TOURISM] Turismo em todas as suas cidades, impulsionando o império rumo a uma [COLOR_POSITIVE_TEXT]Vitória Cultural[ENDCOLOR].</Text>

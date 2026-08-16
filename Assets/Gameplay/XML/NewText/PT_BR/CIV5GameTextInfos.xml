@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
@@ -21,7 +21,7 @@
             <Text>{2_number} {2_number: plural 1?turno; other?turnos;} - Era atual: {1_era}</Text>
         </Row>
         <Row Tag="TXT_KEY_SAVE_DATE_FORMAT_UTC">
-            <Text>{1_month} {2_day}, {3_year} {4_hour}:{5_minute} {6_amPm} UTC</Text>
+            <Text>{2_day} de {1_month} de {3_year}, {4_hour}:{5_minute} {6_amPm} UTC</Text>
         </Row>
         <Row Tag="TXT_KEY_MONTH1">
             <Text>Janeiro</Text>
@@ -64,7 +64,7 @@
         </Row>
         <Row Tag="TXT_KEY_UNMET_PLAYER">
             <Text>Jogador desconhecido</Text>	
-			<Gender>neutro</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CURRENTLY_SELECTED_UNIT">
@@ -206,7 +206,7 @@
             <Text>CIDADE PODE ATACAR</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_RANGE_ATTACK_TT">
-            <Text>Executa um ataque à distância contra inimigos nas proximidades.</Text>
+            <Text>Realizar um Ataque a Distância contra um inimigo próximo.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_VOTE">
             <Text>UM VOTO</Text>
@@ -329,7 +329,7 @@
             <Text>Permite que unidades embarquem para navegar em oceanos</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_OPEN_BORDER_STRING">
-            <Text>Permite realizar tratados para Abertura de Fronteiras</Text>
+            <Text>Permite tratados de Fronteiras Abertas</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_D_PACT_STRING">
             <Text>Permite realizar Pactos Defensivos</Text>
@@ -407,7 +407,7 @@
             <Text>{1_Player} fez uma contraproposta</Text>
         </Row>
         <Row Tag="TXT_KEY_UNIT_SUPPLY_REACHED">
-            <Text>[COLOR_WARNING_TEXT]Limite de abastecimento atingido![ENDCOLOR]</Text>
+            <Text>[COLOR_WARNING_TEXT]Limite de suprimento atingido![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_UNIT_SUPPLY_REACHED_TOOLTIP">
             <Text>Seu Império pode suportar {1_Num} {1_Num: plural 1?unidade; other?unidades;}. Você excedeu o limite em {2_Num}, com isso diminui em {3_Num}% a [ICON_PRODUCTION] Produção em suas cidades.</Text>
@@ -745,7 +745,7 @@
             <Text>[NEWLINE][ICON_BULLET] Modificador por Espaçonave: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_UNIT_SUPPLY">
-            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades de Suprimento: {1_Num}%</Text>
+            <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Suprimento de Unidades: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_MILITARY_PLAYER">
             <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Unidades Militares: {1_Num}%</Text>
@@ -768,7 +768,10 @@
         <Row Tag="TXT_KEY_PRODMOD_WONDER_POLICY">
             <Text>[NEWLINE][ICON_BULLET] Modificador das Políticas por Maravilhas: {1_Num}%</Text>
         </Row>
-        <Row Tag="TXT_KEY_PRODMOD_WORLD_WONDER_PLAYER">
+                <Row Tag="TXT_KEY_PRODMOD_BUILDING_POLICY">
+            <Text>[NEWLINE][ICON_BULLET] Modificador da Política para Edificações: {1_Num}%</Text>
+        </Row>
+<Row Tag="TXT_KEY_PRODMOD_WORLD_WONDER_PLAYER">
             <Text>[NEWLINE][ICON_BULLET] Modificador do Império por Maravilhas do Mundo: {1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODMOD_TEAM_WONDER_PLAYER">
@@ -864,7 +867,7 @@
             <Text>Missão: derrote {1_Num} {1_Num: plural 1?unidade; other?unidades;} de {2_PlayerName}.[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_COMPLETE">
-            <Text>Missão "Conectado com Estradas" completa![NEWLINE]</Text>
+            <Text>Missão concluída: conexão por estrada![NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_ACTIVE">
             <Text>Missão: conecte com estradas para ganhar bônus de [ICON_INFLUENCE] Influência[NEWLINE]</Text>
@@ -876,7 +879,7 @@
             <Text>+{1_Num} Ciência[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_GET_CULTURE">
-            <Text>+{1_Num} Cultura[NEWLINE]+ Abertura de Fronteiras[NEWLINE]</Text>
+            <Text>+{1_Num} de Cultura[NEWLINE]+ Fronteiras Abertas[NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND">
             <Text>Maravilha Natural encontrada!</Text>
@@ -989,7 +992,7 @@
             <Text>Fale com a Cidade-Estado</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_NUM_CSTATE_MET">
-            <Text>Encontre {1_Num} {1_Num: plural 1?Cidade; other?Cidades;}-Estado</Text>
+            <Text>{1_Num} {1_Num: plural 1?Cidade-Estado conhecida; other?Cidades-Estado conhecidas;}</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_WAR">
             <Text>[COLOR_WARNING_TEXT]GUERRA![ENDCOLOR]</Text>
@@ -1098,7 +1101,7 @@
             <Text>Próximo</Text>
         </Row>
         <Row Tag="TXT_KEY_CANCEL_BUTTON">
-            <Text>Cancela</Text>
+            <Text>Cancelar</Text>
         </Row>
         <Row Tag="TXT_KEY_REPORT_BUTTON">
             <Text>Relatório</Text>
@@ -1192,7 +1195,7 @@
         </Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON">
-		  <Text>SELEC. GDE. PERSONALIDADE</Text>
+		  <Text>ESCOLHER GRANDE PERSONALIDADE</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON_TT">
 		  <Text>Você pode escolher uma Grande Personalidade gratuitamente para o seu Império!</Text>
@@ -1234,7 +1237,7 @@
 		  <Text>Sua oferta para {1_Player} não é mais válida.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION_CHANGE">
-		  <Text>[ICON_PRODUCTION] Produção: {1_Num}</Text>
+		  <Text>[ICON_PRODUCTION] Produção: +{1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SCIENCE_CHANGE">
 		  <Text>[ICON_RESEARCH] Ciência: {1_Num}</Text>
@@ -1370,11 +1373,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_DEFAULT_BUTTON">
 		  <Text>Padrão</Text>
-		</Row>	
-		<Row Tag="TXT_KEY_DIPLO_CITIES_LIBERATED">
-		  <Text>[COLOR_POSITIVE_TEXT]Você libertou parte da população deles![ENDCOLOR]</Text>
-		</Row>		
-		  <!-- Turn Timer -->
+		</Row>
+<!-- Turn Timer -->
 		  <Row Tag="TXT_KEY_TURN_TIMER_ACTIVE_TT">
 			<Text>Tempo restante do seu turno.</Text>
 		  </Row><Row Tag="TXT_KEY_TURN_TIMER_WAITING_TT">

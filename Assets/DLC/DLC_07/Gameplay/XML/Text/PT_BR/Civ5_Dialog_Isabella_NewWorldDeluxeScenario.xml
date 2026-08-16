@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_1">
@@ -41,7 +41,7 @@
 			<Text>Tudo está perdido. O mal triunfou - por enquanto. Mas esteja preparado, pois os Céus certamente serão vitoriosos no final!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_3">
-			<Text>{TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_2}</Text>
+			<Text>Tudo está perdido. O mal triunfou - por enquanto. Mas esteja preparado, pois os Céus certamente serão vitoriosos no final!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <!-- Sid Meier's Civilization V -->
 <!-- Copyright Firaxis Games 2010 -->
@@ -37,7 +37,7 @@
             <Text>Mandar a unidade varrer uma área em busca de interceptadores aéreos e baseados em terra, limpando o caminho para futuros ataques aéreos.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_RANGE_ATTACK">
-            <Text>Ataque a distância</Text>
+            <Text>Ataque a Distância</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_RANGE_ATTACK_HELP">
             <Text>Mandar a unidade atacar o hexágono selecionado a distância.</Text>
@@ -55,7 +55,7 @@
             <Text>Atualizar a unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP">
-            <Text>Atualiza a unidade para {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_UnitName}}. Isto requer {2_Num} de [ICON_GOLD] Ouro.</Text>
+            <Text>Atualize a unidade para {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_UnitName}}. Isto requer {2_Num} de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_SCRAP_HELP">
             <Text>Executar esta ação dentro de seu território fornecerá {1_Num} de [ICON_GOLD] Ouro.</Text>
@@ -794,7 +794,7 @@
             <Text>Ativar todos os movimentos automáticos</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_BARE_MAP">
-            <Text>Ativar mapa revelado</Text>
+            <Text>Alternar mapa limpo</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_CENTER_SELECTION">
             <Text>Centralizar na seleção</Text>
@@ -923,7 +923,7 @@
             <Text>Satisfeito</Text>
         </Row>
         <Row Tag="TXT_KEY_CHAT_LOG">
-            <Text>Relatório de chat</Text>
+            <Text>Histórico do chat</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_RELIGION_TO_ADOPT">
             <Text>Por completar seu santuário imperial, você poderá agora adotar uma religião do Estado!</Text>
@@ -1091,10 +1091,10 @@
             <Text>Você descobriu um mapa rústico que descreve a área em volta!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_SCOUT">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SCOUT[2]}!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Batedores!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_SETTLER">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SETTLER[2]}!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Colonos!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_TECH">
             <Text>Você descobriu segredos de uma tecnologia avançada nas ruínas!</Text>
@@ -1103,7 +1103,7 @@
             <Text>Você encontrou um grupo de guerreiros dispostos a se unir à sua Civilização!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WORKER">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_WORKER[2]}!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Trabalhadores!</Text>
         </Row>
         <Row Tag="TXT_KEY_HURRY_GOLD">
             <Text>Pode gastar ouro para finalizar a produção em uma cidade.</Text>
@@ -1163,7 +1163,7 @@
             <Text>Você capturou {@1_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_CAPTURED_BY">
-            <Text>{@1_CityName} foi capturada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi capturada por {@2_ShortCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_FOUNDED">
             <Text>{@1_CityName} foi fundada</Text>
@@ -1175,10 +1175,10 @@
             <Text>{@1_CityName} foi fundada.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_RAZED_BY">
-            <Text>{@1_CityName} foi incendiada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi incendiada por {@2_ShortCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WAS_CAPTURED_BY">
-            <Text>{@1_CityName} foi capturada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi capturada por {@2_ShortCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WLTKD_ENDED_KNOWN_RESOURCE">
             <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora quer [COLOR_HIGHLIGHT_TEXT]{@2_ResourceName}[ENDCOLOR]!</Text>
@@ -1764,7 +1764,7 @@
             <Text>Para jogar na Internet, o jogo precisa ser iniciado com o Steam ativado e com uma conexão de Internet ativa.</Text>
         </Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
-			<Text>© 1991-2010 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilizations V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são todas marcas registradas da Take-Two Interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Usa Animação Granny. Copyright © 1999-2010 por RAD Game Tools, Inc. Usa Sistema de Som Miles. Copyright © 1991-2010 por RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Associação de Softwares de Entretenimento. Todas as outras marcas e marcas registradas são propriedades de seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste jogo é fictício e não é programado para representar ou descrever os registros atuais dos eventos, pessoas ou entidades nas opções de jogo.</Text>
+			<Text>© 1991-2010 Take-Two Interactive Software e suas subsidiárias. Desenvolvido pela Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são marcas comerciais da Take-Two Interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Usa Granny Animation. Copyright © 1999-2010 RAD Game Tools, Inc. Usa Miles Sound System. Copyright © 1991-2010 RAD Game Tools, Inc. O ícone de classificação é uma marca comercial da Entertainment Software Association. Todas as demais marcas e marcas comerciais pertencem a seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste videogame é fictício e não pretende representar nem retratar um registro real dos eventos, pessoas ou entidades do cenário histórico do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_EARTH_TITLE">
 			<Text>Terra</Text>
@@ -1780,13 +1780,13 @@
 			<Text>Permitir salvar política</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_POLICY_SAVING_HELP">
-			<Text>Os jogadores podem escolher uma Política Social em momento posterior, ao invés de decidir por uma imediatamente.</Text>
+			<Text>Os jogadores podem escolher uma Política Social mais tarde, em vez de precisar escolhê-la imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING">
 			<Text>Permitir salvar promoção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING_HELP">
-			<Text>Os jogadores podem realizar a promoção de uma unidade em momento posterior, ao invés de ter que fazê-la imediatamente.</Text>
+			<Text>Os jogadores podem promover uma unidade mais tarde, em vez de precisar promovê-la imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_SCIENCE">
 			<Text>Desabilitar pesquisa</Text>
@@ -1877,7 +1877,7 @@
 			<Text>Ilha Japonesa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_JAPAN_DESC">
-			<Text>Este mapa foca exclusivamente o Japão, sem nenhum país a sua volta.</Text>
+			<Text>Este mapa se concentra exclusivamente no Japão, sem países vizinhos em jogo.</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_MP_ENTER_PASSWORD">
@@ -1948,7 +1948,7 @@
 			<Text>+{1_Rate}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GPLIST_PROGRESS">
-			<Text>{1_Progress}/{2_Threshold}, {3_Turns} {3: plural 0?Turno Restante; 1?Turno Restante; other?Turnos Restantes;} </Text>
+			<Text>{1_Progress}/{2_Threshold}, {3_Turns} {3_Turns: plural 1?turno restante; other?turnos restantes;}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_GENERAL_PROGRESS">
 			<Text>{1_Progress}/{2_Threshold}</Text>

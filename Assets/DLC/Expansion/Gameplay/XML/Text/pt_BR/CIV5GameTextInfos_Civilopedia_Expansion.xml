@@ -35,7 +35,7 @@
 			<Text>Áustria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_FACTOID_TEXT">
 			<Text>O grande Palácio Schonbrunn em Viena, antigo lar dos soberanos da Dinastia Habsburgo, possui mais de 1.400 cômodos e é uma grande atração turística.[NEWLINE][NEWLINE]O doce popular conhecido por PEZ foi criado na Áustria em 1927 por Eduard Haas III. O nome PEZ vem da primeira, intermediária e última letras da palavra hortelã em alemão, "Pfefferminz".[NEWLINE][NEWLINE]Muitos dos maiores compositores clássicos do mundo eram austríacos, incluindo Wolfgang Amadeus Mozart, Joseph Haydn, e Franz Liszt.</Text>
@@ -65,7 +65,7 @@
 			<Text>Império Austro-Húngaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_9">
-			<Text>Iª Guerra Mundial</Text>
+			<Text>Primeira Guerra Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_10">
 			<Text>Primeira República da Áustria</Text>
@@ -122,7 +122,7 @@
 			<Text>Bizâncio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTIUM_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTIUM_FACTOID_TEXT">
 			<Text>O termo "Bizantino" é usado na linguagem para se referir a um conceito excessivamente complexo que vai além das expectativas razoáveis de compreensão, inferindo que pode não valer a pena tentar entender. Essa definição surgiu da crescente complexidade dos esquemas de gestão burocrática dos romanos durante as fases posteriores do império.[NEWLINE][NEWLINE]Embora comumente conhecido como "Fogo Grego", a infame arma incendiária foi na verdade usada com mais eficácia pelo Império Bizantino, especialmente pela marinha bizantina contra as frotas árabes durante as Guerras Bizantino-Árabes.[NEWLINE][NEWLINE]Foi escrito pelo historiador Procópio que o Imperador Justiniano arranjou para que ovos de bicho-da-seda fossem contrabandeados da China por monges usando cajados ocos, introduzindo a produção de seda no Império Romano pela primeira vez.[NEWLINE][NEWLINE]A música "Istambul (Não Constantinopla)", originalmente interpretada por The Four Lads em 1953, é ambientada na melodia de "Puttin' on the Ritz" e opina sobre as razões pelas quais os turcos mudaram o nome da cidade após conquistá-la.</Text>
@@ -197,7 +197,7 @@
 			<Text>Cartago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGE_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGE_FACTOID_TEXT">
 			<Text>O nome "Púnico" derivou do nome latino dado aos cartagineses pelos romanos, "Punici," que por sua vez veio de "Poenici," designando os fenícios.[NEWLINE][NEWLINE]O povo de Cartago adorava o deus Ba'al Hammon acima de todos os outros, e ele era representado pelo carneiro. Ba'al Hammon era o deus da fertilidade e do céu.[NEWLINE][NEWLINE]Durante sua marcha para a Itália, diz-se que Aníbal perdeu a visão de um de seus olhos depois que ele se infectou enquanto marchava por um pântano, mas isso aparentemente fez pouco para diminuir sua ambição.</Text>
@@ -272,7 +272,7 @@
 			<Text>Os Celtas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CELTS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CELTS_FACTOID_TEXT">
 			<Text>O "Nó Celta", um motivo artístico amplamente reconhecido e atribuído aos celtas, também foi encontrado em trabalhos romanos e cristãos posteriores. Consistindo de padrões de nós entrelaçados e muitas vezes infinitos, o estilo ainda hoje é amplamente reconhecido como uma marca da cultura celta.[NEWLINE][NEWLINE]Embora seja conhecido hoje como os "Celtas", é improvável que esse termo fosse o usado pelos antigos celtas para se descreverem. Referências históricas ao grego "Keltoi" e ao latim "Celtae" são as prováveis origens do nome moderno.[NEWLINE][NEWLINE]A cota de malha, predecessora de muitas formas europeias de armadura que se desenvolveram durante a Idade das Trevas e Idade Média, é uma invenção creditada aos celtas do século 3 a.C.</Text>
@@ -347,7 +347,7 @@
 			<Text>Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
 			<Text>O calendário usado na Etiópia, conhecido como Ge'ez, é baseado no Calendário Copta desenvolvido no antigo Egito. Graças ao Ge'ez, a Etiópia é a única nação do mundo com um 13º mês.[NEWLINE][NEWLINE]A lenda conta que os efeitos estimulantes do café foram descobertos pela primeira vez na Etiópia, quando um pastor chamado Kaldi observou suas cabras pulando loucamente depois de comerem os frutos de uma planta de café.[NEWLINE][NEWLINE]A capital da Etiópia, Adis Abeba, é uma das capitais mais altas do mundo, situada a uma altitude de quase 8000 pés (2400 metros) acima do nível do mar.</Text>
@@ -428,7 +428,7 @@
 			<Text>Os Hunos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUNS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUNS_FACTOID_TEXT">
 			<Text>O compositor italiano Giuseppe Verdi escreveu a ópera "Átila" em 1846, que oferece uma versão fictícia da morte de Átila pelas mãos de Odabella, uma mulher que ele estava perseguindo.[NEWLINE][NEWLINE]Os romanos apelidaram Átila de "Flagelo de Deus", sem dúvida por causa de sua busca implacável por conquista, principalmente à custa dos romanos.[NEWLINE][NEWLINE]Alguns historiadores suspeitam que os hunos praticavam o "enfaixamento de cabeça", um processo no qual amarravam a cabeça de um bebê com tecido ou outros materiais para mudar sua forma. Acredita-se que os hunos esperavam intimidar seus inimigos criando rostos largos e planos para seus homens.</Text>
@@ -485,7 +485,7 @@
 			<Text>Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_FACTOID_TEXT">
 			<Text>Dentro da sociedade Maia, os sacerdotes frequentemente tinham a tarefa de fornecer uma variedade de tratamentos medicinais para o povo, prescrevendo desde remédios à base de ervas até "banhos de suor", semelhantes a uma sauna moderna.[NEWLINE][NEWLINE]As mulheres maias modernas tradicionalmente vestem um tipo de blusa ou vestido conhecido como "Huipil", apresentando cores vibrantes e padrões distintos que são únicos para a vila de origem delas.[NEWLINE][NEWLINE]Acredita-se que os Maias sejam os criadores do antecessor ancestral do chocolate quente. Encontrados predominantemente no território Maia, os grãos de cacau eram secos e moídos, misturados com outros ingredientes locais em uma pasta e adicionados à água para criar uma bebida de chocolate.</Text>
@@ -566,7 +566,7 @@
 			<Text>Os Países Baixos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_FACTOID_TEXT">
 			<Text>Uma das maiores exportações da Holanda, as tulipas, são produzidas em massa por todo o país. Durante o auge do poder econômico holandês no século XVII, um evento conhecido como "Mania das Tulipas" gerou especulação generalizada e manipulação de preços no comércio de tulipas, elevando os preços das raças raras de tulipas a níveis astronômicos antes de eventualmente colapsar.[NEWLINE][NEWLINE]Consumida em todo o mundo, a cerveja Heineken, produzida pela primeira vez em Amsterdã em 1873, é amplamente reconhecida hoje como um produto emblemático dos Países Baixos, com sua distintiva rotulagem verde e vermelha.[NEWLINE][NEWLINE]O nome "Holanda" diz-se que derivou do termo holandês "holtland", que significa "Terra de Bosque" ou "Terra Arborizada".</Text>
@@ -665,7 +665,7 @@
 			<Text>Suécia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_FACTOID_TEXT">
 			<Text>O renomado químico sueco Alfred Nobel, criador do Prêmio Nobel, registrou mais de 300 patentes e foi responsável por inúmeras descobertas científicas, incluindo a invenção da dinamite.[NEWLINE][NEWLINE]Greta Garbo, estrela de cinema do século XX, nascida Greta Lovisa Gustafsson, nasceu em Estocolmo, na Suécia, em 1905. Imigrando para os Estados Unidos em 1925, é considerada uma das maiores estrelas do cinema feminino de todos os tempos.[NEWLINE][NEWLINE]A IKEA, varejista internacional de móveis fundada na Suécia, é conhecida por sua vasta gama de produtos prontos para montar, frequentemente acompanhados de vagas instruções de montagem pictográficas.</Text>
@@ -768,7 +768,7 @@
 			<Text>Marcha sobre a Itália</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_HEADING_7">
-			<Text>Veredicto Histórico</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TEXT_1">
 			<Text>Lendário líder de guerra e maior governante do Império Huno, Átila, o Huno, é lembrado pela história como a mente por trás do terror implacável na Europa que foram os Hunos. Conhecido pelos romanos como "O Flagelo de Deus", Átila uniu os Hunos tribais e embarcou em uma série de campanhas militares temíveis durante o século V d.C., continuamente antagonizando os romanos (entre outros) até sua morte abrupta em 453.</Text>
@@ -1038,7 +1038,7 @@
 			<Text>Deus Rastafári</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_8">
-			<Text>Julgamento Histórico</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_1">
 			<Text>Conhecido como o "Leão Conquistador da Tribo de Judá", "Rei dos Reis" e "Eleito de Deus", Haile Selassie governou a Etiópia como imperador por quase 40 anos no século XX. Nascido como Lij Tafari Makonnen em 1892, o homem que ficou conhecido como Haile Selassie passou a vida servindo aos interesses da Etiópia e levando sua nação ao destaque na política africana. Mais conhecido por reformar as antigas práticas feudais da Etiópia por meio de seus esforços para modernizar a nação, Haile Selassie trabalhou incansavelmente para obter reconhecimento internacional para a Etiópia no cenário mundial. Seu legado na política global foi superado apenas por seu papel como o messias da religião Rastafári, entre cujos seguidores ele é venerado como o deus que conduzirá os Rastafáris de volta à sua terra natal, a Etiópia.</Text>
@@ -1182,7 +1182,7 @@
 			<Text>À medida que o iconoclasmo se espalhava juntamente com as exibições públicas cada vez mais frequentes de culto protestante proibido, Filipe enviou o Duque de Alba, Fernando Álvarez de Toledo, conhecido como o "Duque de Ferro", para os Países Baixos para reprimir a revolta e lidar com os rebeldes. Ao chegar, o duque estabeleceu o Conselho de Problemas, posteriormente conhecido entre os protestantes como o "Conselho de Sangue", para supervisionar o julgamento e o castigo dos rebeldes e de sua liderança. Muitos dos convocados para o conselho se esconderam, incluindo o próprio Guilherme, mas cerca de mil ou mais protestantes teriam sido julgados e executados pelas mãos do Duque de Ferro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_5">
-			<Text>Enquanto financiava a revolta de sua casa em Nassau, Guilherme e os rebeldes estabeleceram vários exércitos para atacar os espanhóis em várias frentes. O grupo de exilados protestantes e nobres holandeses que resistiam aos espanhóis passou a ser conhecido como os "Geuzen", ou "Mendigos", sendo a força mais proeminente os "Watergeuzen" - os {TXT_KEY_UNIT_SEA_BEGGAR[2]}. Guilherme usou sua riqueza para financiar os {TXT_KEY_UNIT_SEA_BEGGAR[2]} e equipar suas embarcações, que eles usavam para atacar cidades costeiras em todo o território holandês, atuando como corsários.[NEWLINE][NEWLINE]O irmão de Guilherme, Luís de Nassau, liderou um exército de mercenários e huguenotes franceses (protestantes franceses) contra uma força espanhola comandada por Jean de Ligne, um nobre holandês leal a Filipe. No encontro da Batalha de Heiligerlee, na província holandesa do norte de Groningen, em 1568, Luís derrotou o exército espanhol e Jean de Ligne foi morto. Infelizmente, o segundo irmão de Guilherme e Luís, Adolfo, também foi morto enquanto liderava a cavalaria holandesa. Essa batalha histórica é considerada pelos historiadores como o início da Guerra dos Oitenta Anos, como ficou conhecido o grande conflito pela independência holandesa.[NEWLINE][NEWLINE]Na Batalha de Jemmingen, logo em seguida, o exército de Luís foi esmagado pelas forças espanholas ao tentar tomar a cidade de Groningen, forçando sua retirada. Guilherme assumiu o comando e liderou um exército de forças holandesas para várias vitórias, inspirando o povo holandês à medida que mais e mais cidades em todo o território holandês eram libertadas do controle espanhol. Apesar dos ganhos holandeses, capturando e controlando grande parte do território do norte ao longo da próxima década, os espanhóis continuaram a manter um firme controle sobre o sul dos Países Baixos.</Text>
+			<Text>Enquanto financiava a revolta de sua casa em Nassau, Guilherme e os rebeldes estabeleceram vários exércitos para atacar os espanhóis em várias frentes. O grupo de exilados protestantes e nobres holandeses que resistiam aos espanhóis passou a ser conhecido como os "Geuzen", ou "Mendigos", sendo a força mais proeminente os "Watergeuzen" - os Mendigos do Mar. Guilherme usou sua riqueza para financiar os Mendigos do Mar e equipar suas embarcações, que eles usavam para atacar cidades costeiras em todo o território holandês, atuando como corsários.[NEWLINE][NEWLINE]O irmão de Guilherme, Luís de Nassau, liderou um exército de mercenários e huguenotes franceses (protestantes franceses) contra uma força espanhola comandada por Jean de Ligne, um nobre holandês leal a Filipe. No encontro da Batalha de Heiligerlee, na província holandesa do norte de Groningen, em 1568, Luís derrotou o exército espanhol e Jean de Ligne foi morto. Infelizmente, o segundo irmão de Guilherme e Luís, Adolfo, também foi morto enquanto liderava a cavalaria holandesa. Essa batalha histórica é considerada pelos historiadores como o início da Guerra dos Oitenta Anos, como ficou conhecido o grande conflito pela independência holandesa.[NEWLINE][NEWLINE]Na Batalha de Jemmingen, logo em seguida, o exército de Luís foi esmagado pelas forças espanholas ao tentar tomar a cidade de Groningen, forçando sua retirada. Guilherme assumiu o comando e liderou um exército de forças holandesas para várias vitórias, inspirando o povo holandês à medida que mais e mais cidades em todo o território holandês eram libertadas do controle espanhol. Apesar dos ganhos holandeses, capturando e controlando grande parte do território do norte ao longo da próxima década, os espanhóis continuaram a manter um firme controle sobre o sul dos Países Baixos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_6">
 			<Text>Em 1573, a União de Utrecht foi assinada na cidade holandesa do norte que carrega o nome do documento, unindo as províncias do norte em oposição à Espanha. Embora ainda não completamente independente, a união marcou claramente um ponto de virada na rejeição do governo espanhol na região. Enquanto a Espanha ainda controlava os territórios do sul, em 1581, o Ato de Abjuração finalmente serviu como uma declaração formal da independência dos Países Baixos do domínio de Filipe. Infelizmente para Guilherme, ele não viveria para ver os Países Baixos livres do domínio da Espanha em sua totalidade.</Text>
@@ -1254,7 +1254,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>Um Anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
+			<Text>Um Anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os romanos antigos são particularmente conhecidos pelas centenas de Anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Santuários são monumentos sagrados, tipicamente construídos para comemorar ícones culturais reverenciados ou figuras religiosas. Representados em quase todas as denominações religiosas encontradas em todo o mundo, os santuários desempenham um papel importante nas cerimônias religiosas, tanto na adoração pública quanto na privada.</Text>
@@ -1361,7 +1361,7 @@
 			<Text>Bônus contra Caças (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bônus contra {TXT_KEY_INVISIBLE_SUBMARINE} (33)</Text>
+			<Text>Bônus contra Submarinos (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
 			<Text>Bônus contra Tanques (100)</Text>
@@ -1391,7 +1391,7 @@
 			<Text>A Dromunda, uma variante da galé tradicional, era uma parte essencial da marinha bizantina durante o auge de todo o seu império. Suas velas e remos faziam dela um navio ágil, manobrável e perigoso em combate. Graças ao fogo grego, o precursor do napalm moderno, os bizantinos tinham à sua disposição uma forma inicial de lança-chamas para incutir o medo nos corações de todos os que eles enfrentassem no mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTINE_CATAPHRACT_TEXT">
-			<Text>Entre as formas mais fortemente blindadas de cavalaria usadas ao longo da história, o Catafractário era um oponente formidável no campo de batalha. Com cavalos envoltos em cota de malha ou armaduras chapeadas, e o próprio cavaleiro em uma armadura igualmente impressionante, essas unidades montadas eram usadas principalmente para esmagar as linhas de infantaria inimigas que enfrentavam. O Império Bizantino era conhecido por ter feito uso extensivo de {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} ao longo de sua história, já que eles desempenharam um papel proeminente na defesa do império após o declínio de seus irmãos romanos no Ocidente.</Text>
+			<Text>Entre as formas mais fortemente blindadas de cavalaria usadas ao longo da história, o Catafractário era um oponente formidável no campo de batalha. Com cavalos envoltos em cota de malha ou armaduras chapeadas, e o próprio cavaleiro em uma armadura igualmente impressionante, essas unidades montadas eram usadas principalmente para esmagar as linhas de infantaria inimigas que enfrentavam. O Império Bizantino era conhecido por ter feito uso extensivo de Catafractários ao longo de sua história, já que eles desempenharam um papel proeminente na defesa do império após o declínio de seus irmãos romanos no Ocidente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGINIAN_FOREST_ELEPHANT_TEXT">
 			<Text>Usado frequentemente pelas forças de Cartago sob o lendário general Aníbal durante suas campanhas contra os romanos, o elefante era um valioso animal de carga, bem como uma arma perigosa. Utilizado durante as Guerras Púnicas, com graus variados de sucesso, os elefantes de guerra cartaginenses foram treinados para atacar as linhas inimigas carregando soldados nas gigantescas gôndolas nas costas. Apesar de seu tamanho intimidante, os elefantes eram suscetíveis aos avanços da infantaria móvel, e as exigências de cuidado e manutenção de um animal tão grande muitas vezes levavam à sua morte nas árduas marchas do exército cartaginense.</Text>
@@ -1400,7 +1400,7 @@
 			<Text>O famoso Quinquerreme, um navio fortemente armado, foi um dos muitos modelos de barco que Cartago usou contra Roma. Estes navios tinham esse nome devido ao uso de cinco fileiras horizontais de remadores em cada lado do barco. Embora a quantidade exata seja desconhecida, acredita-se que, entre o exército e tripulantes, estes navios pesados transportavam várias centenas de homens. A qualidade dos Quinquerremes Cartagineses era excelente; na verdade, é dito que seu projeto foi obra dos engenheiros navais no norte da África, e que os Romanos o copiaram mais tarde.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUN_HORSE_ARCHER_TEXT">
-			<Text>A temível cavalaria dos Hunos, renomada tanto por sua habilidade no arco-e-flecha quanto por seu domínio de equitação, era o flagelo da Europa durante as conquistas dos Hunos nos séculos IV e V d.C. Utilizando poderosos arcos compostos, os {TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} Hunos aperfeiçoaram suas habilidades enquanto caçavam na estepe da Ásia Central, e não tiveram problemas em transportar essas habilidades para a guerra. Acredita-se amplamente que o uso de {TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} pelos Hunos influenciou grandemente as futuras considerações militares dos reinos europeus e asiáticos, pois uma maior ênfase nas unidades de cavalaria surgiu após suas incursões.</Text>
+			<Text>A temível cavalaria dos Hunos, renomada tanto por sua habilidade no arco-e-flecha quanto por seu domínio de equitação, era o flagelo da Europa durante as conquistas dos Hunos nos séculos IV e V d.C. Utilizando poderosos arcos compostos, os Arqueiros Montados Hunos aperfeiçoaram suas habilidades enquanto caçavam na estepe da Ásia Central, e não tiveram problemas em transportar essas habilidades para a guerra. Acredita-se amplamente que o uso de Arqueiros Montados pelos Hunos influenciou grandemente as futuras considerações militares dos reinos europeus e asiáticos, pois uma maior ênfase nas unidades de cavalaria surgiu após suas incursões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIAN_HUSSAR_TEXT">
 			<Text>Os Hussardos, a temível cavalaria leve cujo nome deriva do termo latino "Cursarius", que significa "Incursor", serviu o Império de Habsburgo na Áustria durante os séculos XVII e XVIII. Os Hussardos, imitados pelas unidades de cavalaria de toda a Europa, compunham um regimento irregular de cavaleiros competentes que confiavam nas táticas de guerrilhas rápidas e imprevisíveis. Com o tempo, eles se tornaram uma unidade formal cujos recrutas deviam reunir certos requisitos que afetavam tanto o cavaleiro quanto sua montaria. Os regimentos de Hussardos foram muito usados durante as Guerras Napoleônicas, e mais tarde serviram em outros exércitos europeus e asiáticos no século XIX.</Text>
@@ -1439,10 +1439,10 @@
 			<Text>Os soldados usam armas automáticas poderosas, capazes de realizar um fogo intenso de supressão, emitindo várias centenas de balas por minuto. A Metralhadora Gatling, a antecessora de muitos modelos de metralhadoras atuais, foi inventada nos Estados Unidos durante o século XIX. Este design foi mais tarde desenvolvido e a metralhadora Maxim, a primeira automática, apareceu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDISH_CAROLEAN_TEXT">
-			<Text>Um exército de elite de soldados suecos, esses soldados serviram à coroa sueca por volta de 1660-1697. Indiscutivelmente os soldados mais efetivos de seu tempo, os {TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} eram um grupo pequeno, mas compensavam seus números menores com táticas inovadoras e firme disciplina. Os {TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} eram tropas estritamente ofensivas e nunca treinaram nem praticaram qualquer tipo de manobra de retirada. Eles atacavam as linhas inimigas, respondendo apenas com seu próprio fogo, uma vez que estivessem perto o suficiente para acertar. O furioso ataque total desmoralizou muitos exércitos, e os {TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} fizeram com que muitas linhas de tropas inimigas se quebrassem e fugissem.</Text>
+			<Text>Um exército de elite de soldados suecos, esses soldados serviram à coroa sueca por volta de 1660-1697. Indiscutivelmente os soldados mais efetivos de seu tempo, os Carolinos eram um grupo pequeno, mas compensavam seus números menores com táticas inovadoras e firme disciplina. Os Carolinos eram tropas estritamente ofensivas e nunca treinaram nem praticaram qualquer tipo de manobra de retirada. Eles atacavam as linhas inimigas, respondendo apenas com seu próprio fogo, uma vez que estivessem perto o suficiente para acertar. O furioso ataque total desmoralizou muitos exércitos, e os Carolinos fizeram com que muitas linhas de tropas inimigas se quebrassem e fugissem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDISH_HAKKAPELIITTA_TEXT">
-			<Text>O norte nevado é sua pátria; lá, seu coração crepita na praia tempestuosa. Os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} eram uma divisão de cavaleiros finlandeses empregados pelo rei Gustavo Adolfo da Suécia durante a Guerra dos Trinta Anos. Eles eram altamente treinados e destacavam-se em ataques, espionagem, ataques relâmpago e, mais especialmente, em investidas. Atacando a todo galope, os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} disparavam tiros de pistola enquanto se aproximavam das linhas inimigas, desembainhando a espada quando o cavalo fazia contato. Os cavalos pequenos, robustos e poderosos montados pelos Hakkapeliitta foram alguns dos membros fundadores da moderna raça Finnhorse, o cavalo nacional da Finlândia.</Text>
+			<Text>O norte nevado é sua pátria; lá, seu coração crepita na praia tempestuosa. Os Hakkapeliittas eram uma divisão de cavaleiros finlandeses empregados pelo rei Gustavo Adolfo da Suécia durante a Guerra dos Trinta Anos. Eles eram altamente treinados e destacavam-se em ataques, espionagem, ataques relâmpago e, mais especialmente, em investidas. Atacando a todo galope, os Hakkapeliittas disparavam tiros de pistola enquanto se aproximavam das linhas inimigas, desembainhando a espada quando o cavalo fazia contato. Os cavalos pequenos, robustos e poderosos montados pelos Hakkapeliitta foram alguns dos membros fundadores da moderna raça Finnhorse, o cavalo nacional da Finlândia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUN_BATTERING_RAM_TEXT">
 			<Text>O Aríete foi uma arma de cerco que foi usada principalmente durante a Antiguidade. Os Aríetes, projetados com um objetivo específico em mente, foram usados para destruir os portões de madeira desta época. Embora existam diferentes formas e tamanhos, todos os Aríetes compartilhavam o mesmo princípio geral: eram montados em um carro ou em outra plataforma com rodas e um tronco ou poste pesado era fixado com correntes ou cordas. Os soldados que manejavam o Aríete puxavam o tronco e depois o soltavam com força suficiente para quebrar a porta inimiga. Embora poucos detalhes concretos tenham surgido sobre a implementação da arma de cerco dos Hunos, sabe-se que eles a usaram com sucesso na conquista de várias cidades europeias. </Text>
@@ -1451,7 +1451,7 @@
 			<Text>Em tempos de guerra, as cartas de corso davam aos capitães corsários liberdade para atacar navios mercantes estrangeiros. As principais potências coloniais dos séculos XVI a XIX, especialmente a Grã-Bretanha e a Espanha, recorreram aos corsários. Como as coroas não podiam pagar os capitães nem a tripulação desses navios, eles ficavam com parte dos saques capturados das frotas inimigas, criando uma distinção entre esses corsários e os simples piratas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEA_BEGGAR_TEXT">
-			<Text>Os "{TXT_KEY_UNIT_SEA_BEGGAR[2]}", ou Watergeuzen, eram um grupo de corsários que se opunham ao controle espanhol dos Países Baixos durante a Guerra dos Oitenta Anos. O nome vem de um grupo de nobres holandeses que vieram ao Palácio da Duquesa de Parma com uma lista de queixas e pedidos. Os conselheiros da duquesa se referiam a eles como "mendigos" e eles permaneceram com esse nome. Os conselheiros da Duquesa se referiam a eles como "mendigos" e eles mantiveram esse nome.[NEWLINE][NEWLINE]Em 1569, Guilherme de Orange entregou permissões oficiais para os mendigos e um total de 84 navios foram equipados. No início, esses {TXT_KEY_UNIT_SEA_BEGGAR[2]} estavam limitados a saques básicos, mas impulsionados pelo desespero, eles atacaram uma cidade espanhola apesar de sua guarnição. Inspirados por sua vitória, eles começaram uma campanha mais ousada e capturaram outras cidades costeiras. O sucesso dos {TXT_KEY_UNIT_SEA_BEGGAR[2]} foi inspirador para o resto da Holanda, que começou a se rebelar. Hoje considera-se que a tomada da guarnição espanhola de Brielle pelos Mendigos do Mar foi o início da guerra de independência holandesa.</Text>
+			<Text>Os "Mendigos do Mar", ou Watergeuzen, eram um grupo de corsários que se opunham ao controle espanhol dos Países Baixos durante a Guerra dos Oitenta Anos. O nome vem de um grupo de nobres holandeses que vieram ao Palácio da Duquesa de Parma com uma lista de queixas e pedidos. Os conselheiros da duquesa se referiam a eles como "mendigos" e eles permaneceram com esse nome. Os conselheiros da Duquesa se referiam a eles como "mendigos" e eles mantiveram esse nome.[NEWLINE][NEWLINE]Em 1569, Guilherme de Orange entregou permissões oficiais para os mendigos e um total de 84 navios foram equipados. No início, esses Mendigos do Mar estavam limitados a saques básicos, mas impulsionados pelo desespero, eles atacaram uma cidade espanhola apesar de sua guarnição. Inspirados por sua vitória, eles começaram uma campanha mais ousada e capturaram outras cidades costeiras. O sucesso dos Mendigos do Mar foi inspirador para o resto da Holanda, que começou a se rebelar. Hoje considera-se que a tomada da guarnição espanhola de Brielle pelos Mendigos do Mar foi o início da guerra de independência holandesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREAT_ADMIRAL_TEXT">
 			<Text>Os "Grandes Almirantes" oferecem a liderança necessária para dirigir e alcançar a vitória em mar aberto com suas poderosas armadas. Planejam, implementam e executam manobras complexas que lhes permitem manter sua superioridade naval, e fornecem a segurança costeira que todas as civilizações precisam. </Text>
@@ -1460,7 +1460,7 @@
 			<Text>Os Inquisidores agiram em toda a Europa como parte de um esforço árduo para eliminar os inimigos da Igreja Católica. Aqueles a quem a Inquisição declarava hereges costumavam ser torturados e executados pelos crimes que supostamente haviam cometido, pois não era fácil se defender da acusação de um Inquisidor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>O Helicóptero Armado é uma unidade aérea mortal que, para todos os efeitos, age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas deve "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
+			<Text>O Helicóptero Armado é uma unidade aérea mortal que, para todos os efeitos, age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo Montanhas, mas deve "embarcar" para atravessar a água. Os Helicópteros Armados recebem um grande bônus de combate quando batalham contra Tanques.</Text>
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
@@ -1473,7 +1473,7 @@
 			<Text>A dramaturgia e a poesia são formas de expressão artística, a primeira expressa pelo uso da performance visual, a segunda pela palavra escrita. O drama é mais comumente associado a performances teatrais - peças teatrais, musicais e óperas -, embora nos tempos modernos essas formas tradicionais tenham sido superadas pelas produções televisivas e cinematográficas. A poesia concentra-se no uso da linguagem escrita para expressar tanto um significado literal quanto uma mensagem subjacente instigante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
-			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST}[ENDCOLOR], que aumenta a produção de [ICON_GOLD] Ouro. Além disso, permite às suas cidades converter a [ICON_PRODUCTION] Produção em [ICON_GOLD] Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edificações.</Text>
+			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD] Ouro. Além disso, permite às suas cidades converter a [ICON_PRODUCTION] Produção em [ICON_GOLD] Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os mercadores e negociantes chegaram; seus lucros são pré-estabelecidos..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
@@ -1510,7 +1510,7 @@
 			<Text>TEMP Description text: BALLISTICS</Text>
 		</Row> -->
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], uma arma especializada em derrotar {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], uma arma especializada em derrotar Tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A fonte do mal não é a construção de armas novas, e mais mortíferas. É o espírito de conquista."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
@@ -1693,7 +1693,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH] Ciência nas Cidades.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade no Império, o que, por sua vez, ajuda sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE] Era de Ouro mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST[2]}, aumentando sua [ICON_PRODUCTION] Produção.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade no Império, o que, por sua vez, ajuda sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE] Era de Ouro mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com Florestas, aumentando sua [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE] Fé de uma cidade.</Text>
@@ -1702,7 +1702,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH] Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH] Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR], que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], a primeira edificação do jogo que fornece [ICON_PEACE] Fé.</Text>
@@ -1723,7 +1723,7 @@
 			<Text>Permite a construção de muitas maravilhas e edificações especializadas que aumentam sua produção de [ICON_PEACE] Fé e sua capacidade de criar novas [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais com a [ICON_CAPITAL] Capital pela água, produzindo [ICON_GOLD] Ouro. Além disso, o [ICON_GOLD] Ouro produzido por [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}[ENDCOLOR] aumenta.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais com a [ICON_CAPITAL] Capital pela água, produzindo [ICON_GOLD] Ouro. Além disso, o [ICON_GOLD] Ouro produzido por [COLOR_POSITIVE_TEXT]Barcos Pesqueiros[ENDCOLOR] aumenta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
@@ -1732,7 +1732,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Grande Espadachim[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significativo impulso na [ICON_RESEARCH] Ciência. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os Oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significativo impulso na [ICON_RESEARCH] Ciência. Também permite que unidades terrestres embarcadas cruzem os Oceanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD] Ouro produzido pela cidade, além do [COLOR_POSITIVE_TEXT]Condestável[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -1753,7 +1753,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Blindado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Contratorpedeiros e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1] Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]Barcos de Serviço[ENDCOLOR] construam Plataformas Costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE] Cultura de uma cidade.</Text>
@@ -1771,7 +1771,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Porta-aviões[ENDCOLOR], uma embarcação capaz de transportar aeronaves, e do [COLOR_POSITIVE_TEXT]Encouraçado[ENDCOLOR], uma Unidade Naval com ataque a distância da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma incrivelmente poderosa Unidade blindada que pode se mover após atacar. Também permite a construção do [COLOR_POSITIVE_TEXT]Contratorpedeiro[ENDCOLOR], uma embarcação rápida capaz de caçar {TXT_KEY_UNIT_SUBMARINE[2]}.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma incrivelmente poderosa Unidade blindada que pode se mover após atacar. Também permite a construção do [COLOR_POSITIVE_TEXT]Contratorpedeiro[ENDCOLOR], uma embarcação rápida capaz de caçar Submarinos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PENICILIN_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Fuzileiro Naval[ENDCOLOR], uma unidade especializada em ataques anfíbios. Também permite a construção do [COLOR_POSITIVE_TEXT]Laboratório Médico[ENDCOLOR], uma edificação que aumenta o aparecimento de [ICON_FOOD] nas cidades.</Text>
@@ -1780,19 +1780,19 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no {TXT_KEY_TERRAIN_DESERT} ou próximo a ele, e que aumenta a [ICON_PRODUCTION] Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM] Alumínio.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no Deserto ou próximo a ele, e que aumenta a [ICON_PRODUCTION] Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM] Alumínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
 			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Bateria Antiaérea Móvel[ENDCOLOR], uma unidade rápida e especializada em frustrar ataques de aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR], uma unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR], uma unidade especializada em combater Tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM] Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssil Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
-			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
+			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque Moderno[ENDCOLOR], uma Unidade Blindada incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Caça a Jato[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
@@ -1801,7 +1801,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro Furtivo[ENDCOLOR], a Unidade de Ataque a Distância mais poderosa do jogo.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_BODY">
-			<Text>Existem sete tipos de Grandes Personalidades: Grandes Artistas, Grandes Engenheiros, Grandes Mercadores, Grandes Cientistas, Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, e Grandes Profetas. Os quatro primeiros são bem similares em funcionalidade, cada um tendo habilidades relacionadas à sua especialidade, enquanto os Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, e Grandes Profetas são bem diferentes: eles são gerados de outra forma e têm efeitos diferentes no jogo. Grandes generais e {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} proporcionam bônus relacionados ao combate terrestre e naval, e Grandes Profetas permitem a fundação de uma religião.</Text>
+			<Text>Existem sete tipos de Grandes Personalidades: Grandes Artistas, Grandes Engenheiros, Grandes Mercadores, Grandes Cientistas, Grandes Generais, Grandes Almirantes, e Grandes Profetas. Os quatro primeiros são bem similares em funcionalidade, cada um tendo habilidades relacionadas à sua especialidade, enquanto os Grandes Generais, Grandes Almirantes, e Grandes Profetas são bem diferentes: eles são gerados de outra forma e têm efeitos diferentes no jogo. Grandes generais e Grandes Almirantes proporcionam bônus relacionados ao combate terrestre e naval, e Grandes Profetas permitem a fundação de uma religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_BODY">
 			<Text>As unidades recebem um bônus de ataque "por flanco" de 15% para cada unidade adjacente ao alvo. Algumas promoções e políticas sociais concedem à unidade atacante bônus adicionais, além do bônus de flanco básico. Esses bônus podem ser incrivelmente fortes quando participam muitas unidades. Normalmente, quanto mais unidades são "agrupadas" contra o alvo, melhor!</Text>
@@ -1837,7 +1837,7 @@
 			<Text>O Forte Mughal é uma edificação da Era Medieval que aumenta em 7 a Força de Defesa de uma cidade e em 25 seus Pontos de Vida, e fornece um pouco de [ICON_CULTURE] Cultura a cada turno. É uma Edificação Exclusiva Indiana e substitui o Castelo. Após aprender a tecnologia Voo, também concede à cidade um bônus de [ICON_GOLD] Ouro. A cidade deve construir a Muralha para poder construir o Forte Mughal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_CITADEL} é uma poderosa fortificação que só pode ser construída por um Grande General, normalmente próxima de uma cidade ou em um pedaço particularmente defensável de terreno. A Acrópole, em Atenas, Grécia, é um exemplo de uma poderosa Cidadela. Tais estruturas eram quase impossíveis de serem tomadas por um ataque direto, e elas eram capazes de resistir a cercos prolongados antes de cair. Você pode construir uma Cidadela em qualquer lugar dentro do seu território ou diretamente adjacente a ele. Ao construir a Cidadela, suas fronteiras de cultura também se expandirão para cercar a cidadela de todos os lados por um hexágono. Se a nova fronteira da cultura reivindicar hexágonos já pertencentes a outra civilização, você incorrerá em uma penalidade diplomática como resultado. Qualquer unidade estacionada dentro de uma cidadela recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 30 pontos de dano (dano não acumulado com outras Cidadelas).</Text>
+			<Text>Uma Cidadela é uma poderosa fortificação que só pode ser construída por um Grande General, normalmente próxima de uma cidade ou em um pedaço particularmente defensável de terreno. A Acrópole, em Atenas, Grécia, é um exemplo de uma poderosa Cidadela. Tais estruturas eram quase impossíveis de serem tomadas por um ataque direto, e elas eram capazes de resistir a cercos prolongados antes de cair. Você pode construir uma Cidadela em qualquer lugar dentro do seu território ou diretamente adjacente a ele. Ao construir a Cidadela, suas fronteiras de cultura também se expandirão para cercar a cidadela de todos os lados por um hexágono. Se a nova fronteira da cultura reivindicar hexágonos já pertencentes a outra civilização, você incorrerá em uma penalidade diplomática como resultado. Qualquer unidade estacionada dentro de uma cidadela recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 30 pontos de dano (dano não acumulado com outras Cidadelas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_NAVALUNITS_HEADING3_BODY">
 			<Text>Os acampamentos bárbaros costeiros podem criar unidades navais (mais uma vez, iguais às da civilização mais avançada em tecnologia). Essas unidades ameaçarão seu litoral, destruirão as melhorias navais e atacarão as unidades terrestres que estiverem perto do litoral. É importante manter um estaleiro para mantê-los longe, embora a melhor maneira de deter esses ataques seja destruir os acampamentos costeiros nas proximidades.</Text>
@@ -1903,19 +1903,19 @@
 			<Text>Dar um presente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT">
-			<Text>As {TXT_KEY_TERRAIN_HILL[2]} proporcionam um aumento na produtividade de uma cidade próxima. Também oferecem um bônus de combate importante às unidades estacionadas nas {TXT_KEY_TERRAIN_HILL[2]}.</Text>
+			<Text>As Colinas proporcionam um aumento na produtividade de uma cidade próxima. Também oferecem um bônus de combate importante às unidades estacionadas nas Colinas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT">
-			<Text>Geralmente, as {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer tipo de terreno. Cidades construídas perto de {TXT_KEY_TERRAIN_GRASS[2]} tenderão a crescer mais rapidamente que as construídas em outros lugares.</Text>
+			<Text>Geralmente, as Pradarias produzem mais alimento que qualquer tipo de terreno. Cidades construídas perto de Pradarias tenderão a crescer mais rapidamente que as construídas em outros lugares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT">
-			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável)</Text>
+			<Text>Em geral, os hexágonos de Deserto são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o Deserto contenha um oásis ou recursos, é claro, ou tenha acesso à água potável)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>As unidades montadas Cavalaria são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
+			<Text>As unidades montadas Cavalaria são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir Mosquetes e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
-			<Text>As {TXT_KEY_TERRAIN_MOUNTAIN[2]} são intransitáveis, exceto para unidades aéreas e unidades cartaginesas (depois de ganhar um Grande General). Elas não oferecem nada para as cidades.</Text>
+			<Text>As Montanhas são intransitáveis, exceto para unidades aéreas e unidades cartaginesas (depois de ganhar um Grande General). Elas não oferecem nada para as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_DEFENSE_HITPOINTS">
 			<Text>+{1_DefenseHP} PV</Text>

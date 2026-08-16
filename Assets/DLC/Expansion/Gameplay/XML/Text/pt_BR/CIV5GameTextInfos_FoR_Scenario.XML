@@ -165,13 +165,13 @@
 			<Text>Bônus de Combate (+50%) ao lutar contra uma civilização com mais cidades. Trata florestas em território amigo como estradas. Unidades embarcadas têm +1 de [ICON_MOVES]Movimento e gastam 1 ponto de movimento para passar do mar para a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CLIBANARII_TEXT">
-			<Text>Os {TXT_KEY_UNIT_CLIBANARII[2]} são os equivalentes Sassânidas aos {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} Bizantinos, embora mais fortemente blindados. Tanto os cavalos como os cavaleiros são totalmente revestidos de malha de ferro, e eram usados em batalhas em cunhas para quebrar as formações de infantaria e de arqueiros inimigos. Os Sassânidas empregaram os {TXT_KEY_UNIT_CLIBANARII[2]} primariamente nos seus exércitos ocidentais, principalmente contra as forças do Império Romano Oriental que eram mais afeitas a engajar em batalhas de campo do que as tribos bárbaras ao longo das fronteiras setentrional e oriental.</Text>
+			<Text>Os Clibanários são os equivalentes Sassânidas aos Catafractários Bizantinos, embora mais fortemente blindados. Tanto os cavalos como os cavaleiros são totalmente revestidos de malha de ferro, e eram usados em batalhas em cunhas para quebrar as formações de infantaria e de arqueiros inimigos. Os Sassânidas empregaram os Clibanários primariamente nos seus exércitos ocidentais, principalmente contra as forças do Império Romano Oriental que eram mais afeitas a engajar em batalhas de campo do que as tribos bárbaras ao longo das fronteiras setentrional e oriental.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CLIBANARII_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_CLIBANARII} é a unidade exclusiva Sassânida e substitui o {TXT_KEY_UNIT_HORSEMAN}. Embora sua Força de Combate, Defesa e eficiência contra cidades sejam mais altas que as do {TXT_KEY_UNIT_HORSEMAN}, ele não pode se deslocar tanto. Como uma Unidade Montada ela é vulnerável a ataques de {TXT_KEY_UNIT_SPEARMAN[2]}, {TXT_KEY_UNIT_PIKEMAN[2]} e semelhantes. Ele começa com a promoção Blitz, permitindo-o atacar duas vezes no mesmo turno, e como outras unidades montadas, ele pode se mover depois de atacar.</Text>
+			<Text>O Clibanário é a unidade exclusiva Sassânida e substitui o Jinete. Embora sua Força de Combate, Defesa e eficiência contra cidades sejam mais altas que as do Jinete, ele não pode se deslocar tanto. Como uma Unidade Montada ela é vulnerável a ataques de Lanceiros, Piqueiros e semelhantes. Ele começa com a promoção Blitz, permitindo-o atacar duas vezes no mesmo turno, e como outras unidades montadas, ele pode se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CLIBANARII_HELP">
-			<Text>Unidade Montada rápida e poderosa. Apenas os Sassânidas podem treiná-la. Esta Unidade tem um [ICON_STRENGTH]Força de Combate maior, defende-se melhor, e ataca cidades mais efetivamente que o {TXT_KEY_UNIT_HORSEMAN}, que ele substitui. Inicia com a promoção Blitz.</Text>
+			<Text>Unidade Montada rápida e poderosa. Apenas os Sassânidas podem treiná-la. Esta Unidade tem um [ICON_STRENGTH]Força de Combate maior, defende-se melhor, e ataca cidades mais efetivamente que o Jinete, que ele substitui. Inicia com a promoção Blitz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FRANK_SEAXMAN_TEXT">
 			<Text>O saxo é uma faca grande ou espada curta e curvada com uma lâmina dentada, favorecida por muitos guerreiros das tribos celtas e francas. Igualmente útil como ferramenta e arma, o saxo era particularmente eficaz em combates corpo a corpo de curta distância. Ao longo das décadas das migrações bárbaras, várias versões foram desenvolvidas, incluindo o schmalsax (saxo estreito) e o breitsax (saxo largo), bem como versões longas e curtas de cada um. No poema épico Beowulf, o herói usa um saxo para cortar um dragão ao meio, e a mãe de Grendel usa um ao lutar contra Beowulf.</Text>
@@ -246,7 +246,7 @@
 			<Text>Somente os celtas podem treinar esta unidade. Ela tem um bônus de combate fora do território amistoso e pode pilhar as melhorias inimigas sem custo adicional de movimento. Também recebe um bônus de 50% em ataques de flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_CELT_PICTISH_WARRIOR_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} é a unidade exclusiva celta. Ideal para as investidas iniciais, um {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} pode arrasar as terras de um oponente, pilhando e movendo-se rapidamente no mesmo turno. Eles são melhores quando lutam em grupos por causa de sua promoção {TXT_KEY_PROMOTION_FLANK}, o que lhes dá um bônus de 50% em ataques de flanco.</Text>
+			<Text>O Guerreiro Picto é a unidade exclusiva celta. Ideal para as investidas iniciais, um Guerreiro Picto pode arrasar as terras de um oponente, pilhando e movendo-se rapidamente no mesmo turno. Eles são melhores quando lutam em grupos por causa de sua promoção Irmãos de Armas, o que lhes dá um bônus de 50% em ataques de flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_TECH">
 			<Text>Controle da Cidade Imperial</Text>

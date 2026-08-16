@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_SPECIALUNIT_FIGHTER">
@@ -964,7 +964,7 @@
 			<Text>+33% de [ICON_STRENGTH] Força de Combate em território amigo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY">
-			<Text>Equipe</Text>
+			<Text>Oligarquia</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1510,16 +1510,16 @@
 			<Text>Poderosa unidade de cerco da Era Medieval. Boa para reduzir as defesas das cidades inimigas. Deve ser preparada antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_KNIGHT">
-			<Text>Poderosa unidade montada medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
+			<Text>Poderosa unidade montada medieval. Fraca contra Piqueiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAMEL_ARCHER">
-			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do Cavaleiro que ela substitui.</Text>
+			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra Piqueiros. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do Cavaleiro que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
-			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH] Força de Combate maior que a do Cavaleiro, que ela substitui.</Text>
+			<Text>Poderosa unidade montada medieval, fraca contra Piqueiros. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH] Força de Combate maior que a do Cavaleiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa unidade montada da Era Medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Songais podem treiná-la.</Text>
+			<Text>Poderosa unidade montada da Era Medieval. Fraca contra Piqueiros. Apenas os Songais podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CROSSBOWMAN">
 			<Text>Unidade medieval de ataque a distância.</Text>
@@ -1531,10 +1531,10 @@
 			<Text>Unidade medieval de ataque a distância. Apenas os Ingleses podem treiná-la. Esta unidade ganha 1 ponto adicional de alcance comparada ao Besteiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PIKEMAN">
-			<Text>Unidade especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas.</Text>
+			<Text>Unidade especializada em combater Cavaleiros e outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
-			<Text>Especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o Piqueiro, que ela substitui.</Text>
+			<Text>Especializada em combater Cavaleiros e outras unidades montadas. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o Piqueiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CATAPULT">
 			<Text>Primeira unidade de cerco do jogo. Causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar.</Text>
@@ -1543,10 +1543,10 @@
 			<Text>Unidade de cerco que causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar. Apenas os Romanos podem construí-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate a Distância maior que a Catapulta, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HORSEMAN">
-			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra Lanceiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
-			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH] Força de Combate maior que o Jinete, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra Lanceiros. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH] Força de Combate maior que o Jinete, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>

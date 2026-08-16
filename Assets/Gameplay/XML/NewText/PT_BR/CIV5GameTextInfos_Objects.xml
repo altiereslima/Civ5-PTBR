@@ -152,7 +152,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_HANDICAP_CHIEFTAIN">
-			<Text>Chefe</Text>
+			<Text>Chefe Tribal</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -160,6 +160,9 @@
 			<Text>Colono</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_AI_DEFAULT">
+			<Text>IA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
 			<Text>Campo de Caça|Campos de Caça</Text>

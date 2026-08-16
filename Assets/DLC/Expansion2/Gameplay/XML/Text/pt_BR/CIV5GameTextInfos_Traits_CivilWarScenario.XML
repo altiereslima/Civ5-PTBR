@@ -6,7 +6,7 @@
 			<Text>Plano Anaconda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN">
-			<Text>Apenas {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[2]} e unidades terrestres da União podem embarcar neste cenário.</Text>
+			<Text>Apenas Engenheiros Militares e unidades terrestres da União podem embarcar neste cenário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL_SHORT">
 			<Text>Grito Rebelde</Text>

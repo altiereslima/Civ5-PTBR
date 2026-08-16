@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
     <!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
@@ -31,7 +31,7 @@
             <Text>A mais forte unidade de combate na Polinésia (antes da chegada da arma de fogo).</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
-            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH] Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
+            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH] Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e Lanceiros com facilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>
@@ -58,7 +58,7 @@
 			<Text>Aquicultura é o cultivo de plantas e animais aquáticos, da mesma forma que plantas e animais terrestres são cultivados pela agricultura. A aquicultura é principalmente uma fonte de alimento para pessoas que vivem perto de corpos d'água, mas a aquicultura também inclui o cultivo de itens de luxo, como pérolas e peixes ornamentais. A pesca em larga escala na natureza não é considerada aquicultura, nem o digno hobby da pesca esportiva. A aquicultura é frequentemente usada por povos marítimos como uma forma de fornecer um suprimento mais confiável de vida marinha para alimentação, geralmente complementando vários meios de coleta na natureza.[NEWLINE][NEWLINE]A aquicultura foi descoberta independentemente várias vezes ao longo da história da humanidade. A evidência arqueológica mais antiga de aquicultura pode ser do povo indígena Gunditjmara da Austrália, que capturava e criava enguias. Os polinésios criaram viveiros de peixes com paredes de pedra ao longo das costas das ilhas, capturando peixes que entravam por comportas. Embora a aquicultura nunca tenha suplantado a agricultura como fonte de alimento, o conhecimento das práticas aquícolas, como a captura de peixes adultos selvagens, a coleta de ovos, a criação de alevinos e o cultivo de mariscos, espalhou-se amplamente pelo mundo. A aquicultura também levou à introdução de muitas espécies em novos ambientes, às vezes para consternação dos animais e plantas que já estavam lá.[NEWLINE][NEWLINE]Desde a Era Industrial, tem havido um interesse crescente nas possibilidades comerciais da aquicultura. À medida que a pesca comercial esgota os estoques selvagens, a aquicultura de peixes e mariscos populares para alimentação garantiu um suprimento confiável para a mesa do mundo, onde o molho de manteiga e o limão aguardam.</Text>
 		</Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_HELP">
-            <Text>Melhora a geração de [ICON_GOLD] Ouro dos {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}. Também permite a construção do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR] no litoral das cidades, aumentando a [ICON_PRODUCTION] Produção vinda dos recursos aquáticos.</Text>
+            <Text>Melhora a geração de [ICON_GOLD] Ouro dos Barcos Pesqueiros. Também permite a construção do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR] no litoral das cidades, aumentando a [ICON_PRODUCTION] Produção vinda dos recursos aquáticos.</Text>
         </Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A aquicultura é um negócio arriscado. Você não entra na aquicultura pelo dinheiro. Você faz isso porque ama."[NEWLINE][TAB][TAB] - Michael Matthews[NEWLINE][TAB]</Text>
@@ -311,7 +311,7 @@
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA">
             <Text>Tonga</Text>
-            <Gender>neutral</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_HEADING_1">
             <Text>História</Text>
@@ -327,7 +327,7 @@
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA">
             <Text>Samoa</Text>
-            <Gender>neutral</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_HEADING_1">
             <Text>História</Text>
@@ -352,14 +352,14 @@
             <Text>O Taiti é a maior ínsula do arquipélago Ilha Sociedade e hoje é indiscutivelmente o centro da antiga Polinésia Francesa. O Taiti é considerado, há tempos, uma das culturas mais amigáveis e abertas da Polinésia.[NEWLINE][NEWLINE]O Taiti é formado por duas ilhas, Taiti Nui (Grande Taiti) e Taiti Iti (Pequeno Taiti). O tamanho relativo dessas duas ilhas é, portanto, facilmente deduzido. O Taiti possui um clima é temperado e suave durante todo o ano e se localiza próximo à extremidade oriental da Polinésia.[NEWLINE][NEWLINE]Por ser uma das ilhas mais ao Oriente da Polinésia, o Taiti só foi colonizado depois - algo entre 300 e 800 d.C. - pelos Polinésios, muito depois do declínio da civilização Lapitan.[NEWLINE][NEWLINE]Os primeiros a visitarem o Taiti foram os Ingleses, em 1767, que ficaram imediatamente impressionados com a maneira relaxada, aberta e generosa dos ilhéus. As doenças que foram introduzidas quase acabaram com os Taitianos e missionários desencorajavam a prática da cultura tradicional local, embora eles tenham documentado e preservado o dialeto nativo. Charles Darwin visitou o Taiti, como parte de sua viagem no HMS Beagle. Os Franceses anexaram o Taiti em 1847, mas aos Taitianos não foi dada a cidadania Francesa completa até 1946. O Francês continua sendo o idioma oficial do Taiti nos dias atuais.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION">
-            <Text>Todas as unidades militares, terrestres e navais, (incluindo {TXT_KEY_UNIT_SCOUT[2]}) ganham +1 de visão.</Text>
+            <Text>Todas as unidades militares, terrestres e navais, (incluindo Batedores) ganham +1 de visão.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION_SHORT">
             <Text>Navegação de Tupaia</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA">
             <Text>Hiva</Text>
-            <Gender>neutral</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_HEADING_1">
             <Text>História</Text>

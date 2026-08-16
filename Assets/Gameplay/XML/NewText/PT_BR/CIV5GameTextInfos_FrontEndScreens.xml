@@ -18,7 +18,7 @@
 			<Text>O jogo escolherá qualquer tipo de mapa (exceto Terra).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANDOM_MAP_SIZE">
-			<Text>Aleatório</Text>
+			<Text>Tamanho de Mapa Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANDOM_MAP_SIZE_HELP">
 			<Text>O jogo escolherá aleatoriamente um dos tamanhos de mapa para você jogar. Você não saberá qual deles foi escolhido.</Text>
@@ -82,7 +82,7 @@
 			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ADV_SETUP">
-			<Text>Config. avançada</Text>
+			<Text>Configurações Avançadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_START_GAME">
 			<Text>Iniciar o jogo</Text>
@@ -93,7 +93,7 @@
 		<!-- Custom Map Options -->
 
 		<Row Tag="TXT_KEY_RANDOM_MAP_SCRIPT">
-			<Text>Aleatório</Text>
+			<Text>Tipo de Mapa Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ANY_MAP_SCRIPT">
 			<Text>Qualquer tipo de mapa</Text>
@@ -237,7 +237,7 @@
 			<Text>Oval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OVAL_HELP">
-			<Text>Um pangeia em forma oval, com baías aleatórias cortando suas laterais.</Text>
+			<Text>Uma pangeia em forma oval, com baías aleatórias cortando suas laterais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_RAINFOREST">
 			<Text>Floresta tropical</Text>
@@ -411,7 +411,7 @@
 			<Text>Quente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RAINFALL">
-			<Text>Nível de Chuva</Text>
+			<Text>Precipitação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ARID">
 			<Text>Árido</Text>
@@ -447,7 +447,7 @@
 			<Text>Início Lendário</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE">
-			<Text>Balanço Estratégico</Text>
+			<Text>Equilíbrio Estratégico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NUM_CONTINENTS">
 			<Text>Número de Continentes</Text>
@@ -489,7 +489,7 @@
 			<Text>Um modelo de mapa será escolhido que inclua exatamente seis grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RESOURCE_APPEARANCE">
-			<Text>Aparição dos Recursos</Text>
+			<Text>Distribuição de Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_LOGICAL">
 			<Text>Lógico</Text>
@@ -501,13 +501,13 @@
 			<Text>Irracional</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_IRRATIONAL_HELP">
-			<Text>Os recursos serão colocados em locais irracionais, como bananas na neve.</Text>
+			<Text>Os recursos serão colocados em locais improváveis, como Bananas na neve.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_CRAZY">
 			<Text>Louco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_CRAZY_HELP">
-			<Text>Os recursos serão colocados em locais irracionais e haverá quantidades loucas de alguns tipos.</Text>
+			<Text>Os recursos serão colocados em locais improváveis, e haverá quantidades absurdas de alguns tipos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_PATTERN">
 			<Text>Padrão de Montanhas</Text>
@@ -600,7 +600,7 @@
 			<Text>Escolha não adicionar nenhuma terra extra entre as civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX">
-			<Text>Sim (Máx. 10 civilizações)</Text>
+			<Text>Sim (máximo de 10 civilizações)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX_HELP">
 			<Text>Adicione terra extra entre as civilizações. (Disponível apenas até um máximo de dez civilizações.)</Text>
@@ -666,16 +666,16 @@
 			<Text>Quantidade de Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_NO_TINY_ISLANDS">
-			<Text>Sem Ilhas Pequenas</Text>
+			<Text>Sem Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FEW_TINY_ISLANDS">
-			<Text>Poucas Ilhas Pequenas</Text>
+			<Text>Poucas Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_VARIOUS_TINY_ISLANDS">
 			<Text>Várias Ilhas Pequenas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MANY_TINY_ISLANDS">
-			<Text>Muitas Ilhas Pequenas</Text>
+			<Text>Muitas Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MAZE_WIDTH">
 			<Text>Largura do Labirinto</Text>
@@ -720,7 +720,7 @@
 			<Text>Oposto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TEAM_SETTING">
-			<Text>Config. Equipe</Text>
+			<Text>Configuração da Equipe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_START_TOGETHER">
 			<Text>Começar Juntos</Text>
@@ -738,10 +738,10 @@
 			<Text>Arquipélago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TINY_ISLANDS">
-			<Text>Ilhas Pequenas</Text>
+			<Text>Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SEVERITY">
-			<Text>Severidade da Região Desértica</Text>
+			<Text>Intensidade da Região Desértica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MILD">
 			<Text>Leve</Text>
@@ -915,10 +915,10 @@
 			<Text>Jogar com as opções mais recentes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SETUP_GAME">
-			<Text>CONFIGURAR JOGO</Text>
+			<Text>CONFIGURAR PARTIDA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SETUP_GAME_TT">
-			<Text>Modificar as configurações do jogo</Text>
+			<Text>Modificar as configurações da partida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCENARIOS">
 			<Text>CENÁRIOS</Text>
@@ -963,7 +963,7 @@
 			<Text>A seguinte DLC é requerida para este jogo salvo:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LOAD_MENU_REQUIRED_MODS">
-			<Text>Os seguintes "Mods" são requeridos para este jogo salvo:</Text>
+			<Text>Os seguintes mods são necessários para este jogo salvo:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MODS_TT">
 			<Text>Acessar "mods" criados por usuários</Text>
@@ -1053,7 +1053,7 @@
 			<Text>DLCs permitidas: </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATES_FORMAT">
-			<Text>Cid.-Estado: {1_number}</Text>
+			<Text>Cidades-Estado: {1_number}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FILE_INFO_NOT_FOUND">
 			<Text>Informações do mapa não encontradas</Text>
@@ -1116,7 +1116,7 @@
 			<Text>Selecione o nível de dificuldade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PGSCREEN_CHIEFTAN">
-			<Text>Chefe</Text>
+			<Text>Chefe Tribal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PGSCREEN_EMPEROR">
 			<Text>Imperador</Text>
@@ -1198,7 +1198,7 @@
 			<Text>Selecione o tamanho do mapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAP_SIZE">
-			<Text>Tamanho: mapa</Text>
+			<Text>Tamanho do Mapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_MAP_SIZE_SETTING">
 			<Text>Tamanho do mapa: {1_mapSize}</Text>
@@ -1207,7 +1207,7 @@
 			<Text>Mapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAP_TYPE">
-			<Text>Tipo: mapa</Text>
+			<Text>Tipo de Mapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_MAP_TYPE_SETTING">
 			<Text>Tipo de mapa: {1_mapType}</Text>
@@ -1234,7 +1234,7 @@
 			<Text>Nível de dificuldade: {1_handicap}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_CITY_STATES">
-			<Text>Cid.-Estado: {1_number}</Text>
+			<Text>Cidades-Estado: {1_number}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS">
 			<Text>Turnos máximos</Text>
@@ -1258,10 +1258,10 @@
 			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_ADVANCED_SETUP">
-			<Text>Config. avançada</Text>
+			<Text>Configurações Avançadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_SELECTION_SCREEN">
-			<Text>CONFIGURAR JOGO</Text>
+			<Text>CONFIGURAR PARTIDA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLAYER_TYPE_HUMAN">
 			<Text>Humano</Text>
@@ -1332,7 +1332,7 @@
 			<Text>JOGOS POR PITBOSS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOD_INTERNET_LOBBY">
-			<Text>JOGOS NA INTERNET COM "MODS"</Text>
+			<Text>PARTIDAS NA INTERNET COM MODS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_REFRESH_GAME_LIST">
 			<Text>Atualizar</Text>
@@ -1365,25 +1365,25 @@
 			<Text>Foi expulso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_JOIN_GAME">
-			<Text>Entrar no jogo</Text>
+			<Text>Entrar na partida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_LAN_LOBBY">
 			<Text>JOGOS EM REDE LOCAL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOD_LAN_LOBBY">
-			<Text>JOGOS EM REDE LOCAL COM "MODS"</Text>
+			<Text>PARTIDAS EM REDE LOCAL COM MODS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_SELECT_MULTIPLAYER_TYPE">
 			<Text>Multijogador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MODS_SELECT_MULTIPLAYER_TYPE">
-			<Text>"Mods" multijogador</Text>
+			<Text>Mods multijogador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_STANDARD_GAME">
 			<Text>Padrão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_STANDARD_GAME_TT">
-			<Text>Jogue um jogo multijogador onde os jogadores alternam turnos continuamente entre si.</Text>
+			<Text>Jogue uma partida multijogador em que os jogadores se alternam continuamente em seus turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_GAME">
 			<Text>Internet</Text>
@@ -1401,22 +1401,22 @@
 			<Text>Rodízio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOTSEAT_GAME_TT">
-			<Text>Jogue uma partida multijogador onde os jogadores alternam turnos nesta máquina.</Text>
+			<Text>Jogue uma partida multijogador em que os jogadores se alternam em seus turnos nesta máquina.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_GAME">
 			<Text>Pitboss</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_GAME_TT">
-			<Text>Jogue uma partida multijogador onde um servidor dedicado controla o jogo por um longo período de tempo.</Text>
+			<Text>Jogue uma partida multijogador em que um servidor dedicado controla a partida por um longo período.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_RECONNECT">
-			<Text>Reconectar ao último jogo</Text>
+			<Text>Reconectar à última partida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_GAME_SETUP_HEADER">
-			<Text>CONFIGURAR JOGO MULTIJOGADOR</Text>
+			<Text>CONFIGURAR PARTIDA MULTIJOGADOR</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOD_MP_GAME_SETUP_HEADER">
-			<Text>CONFIGURAR JOGO MULTIJOGADOR COM "MODS"</Text>
+			<Text>CONFIGURAR PARTIDA MULTIJOGADOR COM MODS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_BROWSE_GAMES">
 			<Text>Procurar jogos</Text>
@@ -1425,7 +1425,7 @@
 			<Text>Carregando jogo salvo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_IN_PROGRESS">
-			<Text>Jogo em andamento</Text>
+			<Text>Partida em andamento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_JOINING_GAME_IN_PROGRESS">
 			<Text>Entrando em um jogo em andamento</Text>
@@ -1464,16 +1464,16 @@
 			<Text>Hospedar jogo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOST_GAME_TT">
-			<Text>Inicie um novo jogo multijogador.</Text>
+			<Text>Inicie uma nova partida multijogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOST_PRIVATE_GAME">
-			<Text>Hospedar jogo privado</Text>
+			<Text>Hospedar partida privada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_PRIVATE_GAME">
-			<Text>Jogo privado</Text>
+			<Text>Partida privada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ACTIVE_MODS">
-			<Text>"Mods" ativos</Text>
+			<Text>Mods ativos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM_HEADER_PLAYER">
 			<Text>Jogadores</Text>
@@ -1563,7 +1563,7 @@
 			<Text>Cancelar carregamento de um jogo salvo multijogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_DESC">
-			<Text>Selecione o tipo de jogo que deseja jogar e o sistema o combinará com jogadores que procuram o mesmo tipo de jogo. Para hospedar um jogo onde você pode convidar amigos para o seu jogo e não ser juntado por jogadores aleatórios, marque "Hospedar jogo privado."</Text>
+			<Text>Selecione o tipo de partida que deseja jogar e o sistema encontrará jogadores procurando o mesmo tipo. Para hospedar uma partida em que você possa convidar amigos sem permitir a entrada de jogadores aleatórios, marque "Hospedar partida privada".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_INVITE">
 			<Text>Convidar</Text>
@@ -1611,7 +1611,7 @@
 			<Text>Hospedar um jogo em rede local</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN_DESC">
-			<Text>Selecione as opções do jogo e depois hospede um jogo. Isso criará um jogo que jogadores na sua rede local verão na sala e poderão se juntar.</Text>
+			<Text>Selecione as opções da partida e depois hospede uma. Isso criará uma partida que os jogadores da sua rede local verão na sala e poderão acessar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_JOIN_FAILED">
 			<Text>Erro ao entrar na sessão multijogador.</Text>
@@ -1716,14 +1716,14 @@
 			<Text>Continentes Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS_HELP">
-			<Text>Semelhante a Continentes, mas com scripts expandidos para cadeias de ilhas e colocação de cidades-estados.</Text>
+			<Text>Semelhante a Continentes, mas com geração ampliada de cadeias de ilhas e posicionamento de Cidades-Estado.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS">
-			<Text>Pangaea Plus</Text>
+			<Text>Pangeia Plus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_PANGAEA_PLUS_HELP">
-			<Text>Semelhante a Pangaea, mas com scripts expandidos para cadeias de ilhas e colocação de cidades-estados.</Text>
+			<Text>Semelhante a Pangeia, mas com geração ampliada de cadeias de ilhas e posicionamento de Cidades-Estado.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_SANDSTORM">

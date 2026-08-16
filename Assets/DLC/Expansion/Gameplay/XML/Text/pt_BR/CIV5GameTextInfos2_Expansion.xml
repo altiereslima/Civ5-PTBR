@@ -200,7 +200,7 @@
 		</Row>		
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-			<Text>O Anfiteatro aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. A cidade precisa possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma Estela) para poder construir um Anfiteatro.</Text>
+			<Text>O Anfiteatro aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. A cidade precisa possuir um Monumento (ou uma Estela) para poder construir um Anfiteatro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
 			<Text>O Santuário é a primeira edificação que aumenta a [ICON_PEACE] Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
@@ -212,7 +212,7 @@
 			<Text>Fornece 2 de [ICON_RES_ALUMINUM] Alumínio. Pode haver no máximo 5 dessa edificação em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_STRATEGY">
-			<Text>{TXT_KEY_BUILDING_BOMB_SHELTER[2]} reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
+			<Text>Abrigos Antiaéreos reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_HELP">
 			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
@@ -304,16 +304,16 @@
 			<Text>Unidade naval da Era Antiga, usada para dominar os mares até a Era Clássica com seu ataque a distância. Somente os Bizantinos podem construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT_STRATEGY">
-			<Text>O Catafractário é a unidade exclusiva dos Bizantinos e substitui o Jinete. {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} são mais lentos, mas mais poderosos que a unidade Jinete, tornando-os uma das unidades de cavalaria mais perigosas até a chegada do Cavaleiro. Eles podem se movimentar após atacarem, além de poderem obter bônus defensivos, ao contrário do Jinete. Além disso, sua penalidade ao atacar cidades não é tão severa.</Text>
+			<Text>O Catafractário é a unidade exclusiva dos Bizantinos e substitui o Jinete. Catafractários são mais lentos, mas mais poderosos que a unidade Jinete, tornando-os uma das unidades de cavalaria mais perigosas até a chegada do Cavaleiro. Eles podem se movimentar após atacarem, além de poderem obter bônus defensivos, ao contrário do Jinete. Além disso, sua penalidade ao atacar cidades não é tão severa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BYZANTINE_CATAPHRACT">
-			<Text>Unidade Montada rápida e poderosa do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Somente os Bizantinos podem treiná-la. Esta unidade possui uma maior [ICON_STRENGTH] Força de Combate, uma melhor defesa e ataca cidades com maior eficiência que o Jinete, unidade que ela substitui.</Text>
+			<Text>Unidade Montada rápida e poderosa do início do jogo. Fraca contra Lanceiros. Somente os Bizantinos podem treiná-la. Esta unidade possui uma maior [ICON_STRENGTH] Força de Combate, uma melhor defesa e ataca cidades com maior eficiência que o Jinete, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_FOREST_ELEPHANT_STRATEGY">
 			<Text>O Elefante de Guerra Africano é a unidade exclusiva dos Cartagineses e substitui o Jinete. Esta unidade é mais lenta, mas mais poderosa que o Jinete. Ela pode se movimentar após atacar. Além disso, ela causa medo em unidades inimigas próximas, impondo-lhes um modificador negativo de combate. O sucesso no combate com um Elefante de Guerra Africano possui uma chance maior de gerar Grandes Generais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARTHAGINIAN_FOREST_ELEPHANT">
-			<Text>Unidade Montada poderosa do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Somente os Cartagineses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a da unidade que ela substitui, o Jinete. Além disso, ela causa medo nas unidades inimigas próximas e ajuda a produzir Grandes Generais com maior rapidez.</Text>
+			<Text>Unidade Montada poderosa do início do jogo. Fraca contra Lanceiros. Somente os Cartagineses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH] Força de Combate maior que a da unidade que ela substitui, o Jinete. Além disso, ela causa medo nas unidades inimigas próximas e ajuda a produzir Grandes Generais com maior rapidez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME_STRATEGY">
 			<Text>Somente os Cartagineses podem construir esta unidade. Ela é a versão mais forte do Trirreme, inclusive na [ICON_STRENGTH] Força de Combate. Como o Trirreme, é uma unidade de ataque corpo a corpo que ataca unidades no mar ou cidades (mas não possui ataque a distância). O Quinquerreme não pode navegar em águas oceânicas fora do limite da cidade.</Text>
@@ -322,7 +322,7 @@
 			<Text>Forte unidade naval da Era Antiga, usada para dominar os mares por meio de ataques corpo a corpo contra unidades navais e cidades. Somente os Cartagineses podem construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER_STRATEGY">
-			<Text>{TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em terreno aberto. São ligeiramente mais fortes em defesa que a Carruagem Arqueira e não possuem sua penalidade no movimento ao se moverem por terreno acidentado. Eles também começam com a promoção de Precisão I. Sendo unidades montadas, os {TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} são vulneráveis ao Lanceiro. Entretanto, diferentemente da Carruagem Arqueira, não necessitam do recurso [ICON_RES_HORSE] Cavalo.</Text>
+			<Text>Arqueiros Montados são rápidas unidades de ataque a distância, mortais em terreno aberto. São ligeiramente mais fortes em defesa que a Carruagem Arqueira e não possuem sua penalidade no movimento ao se moverem por terreno acidentado. Eles também começam com a promoção de Precisão I. Sendo unidades montadas, os Arqueiros Montados são vulneráveis ao Lanceiro. Entretanto, diferentemente da Carruagem Arqueira, não necessitam do recurso [ICON_RES_HORSE] Cavalo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HUN_HORSE_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância, especialmente útil em táticas do tipo "ataque e recue". Somente os Hunos podem treiná-la.</Text>
@@ -334,7 +334,7 @@
 			<Text>Uma unidade de cerco mortal em ataques corpo a corpo contra as cidades. Somente os hunos podem construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AUSTRIAN_HUSSAR_STRATEGY">
-			<Text>{TXT_KEY_UNIT_AUSTRIAN_HUSSAR[2]} são ótimos batedores e combatentes de flancos. São um pouco mais rápidos do que a Cavalaria que substituem. Eles começam com Promoções que lhes dão +1 de Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
+			<Text>Hussardos são ótimos batedores e combatentes de flancos. São um pouco mais rápidos do que a Cavalaria que substituem. Eles começam com Promoções que lhes dão +1 de Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_AUSTRIAN_HUSSAR">
 			<Text>Uma rápida unidade montada, usada para patrulha e ataques do tipo "ataque-e-fuga". É especialmente mortal em ataques de flanco. Somente os Austríacos podem treiná-la.</Text>
@@ -346,13 +346,13 @@
 			<Text>Forte unidade de infantaria, especializada no combate em terreno acidentado e na defesa da capital Etíope. Somente a civilização da Etiópia pode treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN_STRATEGY">
-			<Text>{TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} eram a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
+			<Text>Carolinos eram a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWEDISH_CAROLEAN">
 			<Text>Forte unidade de infantaria, especializada em longas marchas, mesmo distantes do território Sueco. Somente a Suécia pode treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA_STRATEGY">
-			<Text>{TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} são as unidades montadas de elite do exército Sueco no final da Era Renascentista. Empilhe um Grande General com eles, se possível. O Grande General recebe os benefícios de movimentos dos {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} quando iniciam o turno empilhados. Em contrapartida, os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} recebem um bônus de combate de 15% quando empilhados com um Grande General.</Text>
+			<Text>Hakkapeliittas são as unidades montadas de elite do exército Sueco no final da Era Renascentista. Empilhe um Grande General com eles, se possível. O Grande General recebe os benefícios de movimentos dos Hakkapeliittas quando iniciam o turno empilhados. Em contrapartida, os Hakkapeliittas recebem um bônus de combate de 15% quando empilhados com um Grande General.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWEDISH_HAKKAPELIITTA">
 			<Text>Unidade montada de elite, especializada em trabalho conjunto com Grandes Generais. Somente os Suecos podem treiná-la.</Text>
@@ -475,7 +475,7 @@
 			<Text>Unidade Montada especializada em derrotar Unidades Montadas inimigas. Só pode ser treinada pelos Otomanos. Esta Unidade é mais rápida e enxerga mais longe que o Lanceiro Montado, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa Unidade Montada da Era Medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Songais podem treiná-la. Esta Unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>
+			<Text>Poderosa Unidade Montada da Era Medieval. Fraca contra Piqueiros. Apenas os Songais podem treiná-la. Esta Unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>
@@ -1450,7 +1450,7 @@
 			<Text>+1 de [ICON_PRODUCTION] Produção em cidades com população superior a 3</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
-			<Text>+1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
+			<Text>+1 de [ICON_PRODUCTION] Produção de Barcos Pesqueiros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
 			<Text>+1 de [ICON_CULTURE] Cultura por Pastos</Text>
@@ -1582,7 +1582,7 @@
 			<Text>Hermitage fornece +8 de [ICON_CULTURE] Cultura na cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-			<Text>{TXT_KEY_BUILDING_AMPHITHEATER[2]} fornecem +1 de [ICON_PEACE] Fé em cidades com 3 devotos</Text>
+			<Text>Anfiteatros fornecem +1 de [ICON_PEACE] Fé em cidades com 3 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
 			<Text>Santuários fornecem +1 de [ICON_HAPPINESS_1] Felicidade em cidades com 3 devotos</Text>
@@ -1765,7 +1765,7 @@
 			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há seis tipos de unidades não combatentes: Colonos, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Personalidades, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há seis tipos de unidades não combatentes: Colonos, Trabalhadores, Barcos de Serviço, Grandes Personalidades, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_NARROW_CONTINENTS_HELP">
 			<Text>O mundo é formado por continentes grandes e estreitos.</Text>

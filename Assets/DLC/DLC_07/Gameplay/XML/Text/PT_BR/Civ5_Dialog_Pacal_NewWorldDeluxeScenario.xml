@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 
@@ -281,7 +281,7 @@
             <Text>Sim! Um sacrifício como nenhum outro deve ser feito! Estancarei as lágrimas dos Deuses com o sangue de todo o seu povo!</Text>
         </Row>
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_1">
-            <Text>{TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3}</Text>
+            <Text>Sim! Um sacrifício como nenhum outro deve ser feito! Estancarei as lágrimas dos Deuses com o sangue de todo o seu povo!</Text>
         </Row>
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_2">
             <Text>Porque se importar com esta farsa e essa dança portentosa? Nada disso importa mais... nada.</Text>

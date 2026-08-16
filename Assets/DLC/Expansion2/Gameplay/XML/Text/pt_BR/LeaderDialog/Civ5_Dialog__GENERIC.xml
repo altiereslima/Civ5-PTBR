@@ -41,13 +41,13 @@
 			<Text>Fui informado de que os meus exércitos exigiram tributo de {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Eu lhe asseguro que isso não foi de propósito e espero que isso não sirva para nos separar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
-			<Text>Saudações calorosas, sábio líder! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_FREEDOM}. O mundo independente vai ser mais forte, com mais uma nação para nos ajudar na luta contra a opressão!</Text>
+			<Text>Saudações calorosas, sábio líder! Tenho o prazer de ver que você também optou por seguir o caminho da Independência. O mundo independente vai ser mais forte, com mais uma nação para nos ajudar na luta contra a opressão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_1">
-			<Text>Saudações, camarada! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_ORDER}. Talvez possamos encontrar algumas oportunidades para ajudar uns aos outros durante o próximo Plano de 5 anos dos nossos impérios!</Text>
+			<Text>Saudações, camarada! Tenho o prazer de ver que você também optou por seguir o caminho da Ordem. Talvez possamos encontrar algumas oportunidades para ajudar uns aos outros durante o próximo Plano de 5 anos dos nossos impérios!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
-			<Text>Bem-vindo, grande imperador! Tenho o prazer de ver que você também optou por seguir o caminho da {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
+			<Text>Bem-vindo, grande imperador! Tenho o prazer de ver que você também optou por seguir o caminho da Autocracia. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
 			<Text>Como é que um de seus sujos agentes de alguma forma roubou um dos nossos segredos tecnológicos básicos? Estas podem ser as últimas palavras que falamos em paz.</Text>
@@ -225,7 +225,7 @@
 			<Text>Dê-nos uma criança por oito anos e ela será uma socialista para sempre. Sua classe trabalhadora já ouviu esta verdade, agora nós o recebemos à nossa luta revolucionária pela Ordem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_AUTOCRACY_1">
-			<Text>Você não vai se arrepender de sua mudança para a {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Tudo dentro do Estado, nada fora do Estado, nada contra o Estado. Apenas os fortes líderes de Estados fortes podem levar juntos o mundo a uma nova era gloriosa.</Text>
+			<Text>Você não vai se arrepender de sua mudança para a Autocracia. Tudo dentro do Estado, nada fora do Estado, nada contra o Estado. Apenas os fortes líderes de Estados fortes podem levar juntos o mundo a uma nova era gloriosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_INFLUENTIAL_ON_AI_1">
 			<Text>Nossos cidadãos estão comprando seus jeans e ouvindo a sua música pop. Preocupa-me que o resto do mundo também vá sucumbir à influência de sua cultura.</Text>

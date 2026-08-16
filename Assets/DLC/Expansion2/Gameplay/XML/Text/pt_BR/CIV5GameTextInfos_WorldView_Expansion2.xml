@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -27,7 +27,7 @@
 			<Text>Cada cidade ou [ICON_PUPPET] cidade fantoche que você possuir aumentará o custo para pesquisar uma Tecnologia em {1_Num}%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CARNIVAL_EFFECT">
-			<Text>Em razão do seu bônus único de Carnaval, a geração de Turismo está atualmente em +100% com todas as civilizações e você está gerando Grandes Escritores, {TXT_KEY_CIV5_GREATARTISTS_HEADING} e Grandes Músicos 50% mais rápido.</Text>
+			<Text>Em razão do seu bônus único de Carnaval, a geração de Turismo está atualmente em +100% com todas as civilizações e você está gerando Grandes Escritores, Grandes Artistas e Grandes Músicos 50% mais rápido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_FROM_CITY_CONNECTIONS">
 			<Text>{1_Num} de [ICON_CONNECTED] Conexões entre suas cidades e sua [ICON_CAPITAL] Capital.</Text>

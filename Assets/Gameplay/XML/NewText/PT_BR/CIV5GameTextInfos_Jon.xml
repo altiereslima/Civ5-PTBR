@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -163,7 +163,7 @@
 			<Text>Mais um pedido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_PLEDGE_RESPONSE">
-			<Text>Nós apreciamos sua dedicação. Esperamos que suas promessas não sejam em vão.</Text>
+			<Text>Agradecemos sua dedicação. Esperamos que sua promessa acabe não sendo necessária.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_PLEDGE_RESPONSE_HOSTILE">
 			<Text>Se for isso o que deseja se ocupar, não impediremos. Sabemos cuidar de nós mesmos.</Text>
@@ -175,7 +175,7 @@
 			<Text>Parar a criação da unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TT">
-			<Text>Comprometendo-se em proteger uma Cidade-Estado, você informará aos Grandes Impérios que sua Civilização a protegerá se for atacada. Isto deterá os ataques de outros jogadores que não querem entrar em conflito com você.</Text>
+			<Text>Prometer proteção a uma Cidade-Estado informa às outras grandes potências que você a defenderá caso seja atacada. Isso pode dissuadir jogadores que não queiram arriscar um conflito com você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_CSTATE_STOP_UNITS_TT">
 			<Text>Clicando aqui, você informará a Cidade-Estado militarista que pare ou continue disponibilizando unidades para você.</Text>
@@ -211,7 +211,7 @@
 			<Text>Parar a criação de unidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MEETING">
-			<Text>Você conheceu a Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}.[NEWLINE][NEWLINE]{2_GiftString}[NEWLINE][NEWLINE]{3_SpeakAgainString}</Text>
+			<Text>Você conheceu a Cidade-Estado de {1_CivName:textkey}.[NEWLINE][NEWLINE]{2_GiftString}[NEWLINE][NEWLINE]{3_SpeakAgainString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_NOBODY">
 			<Text>Ninguém</Text>
@@ -220,7 +220,7 @@
 			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Cultural[ENDCOLOR] irá fornecer presentes de [ICON_CULTURE] Cultura, permitindo que você obtenha Políticas Sociais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
-			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] irá fornecer ocasionalmente unidades avançadas como presente. Eles também solicitarão favores militares, naturalmente (exemplo: destruir um acampamento bárbaro ou capturar uma Cidade-Estado vizinha).</Text>
+			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga lhe dará ocasionalmente unidades militares avançadas. Ela também fará pedidos de natureza mais militar, como destruir um Acampamento Bárbaro ou capturar uma Cidade-Estado vizinha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MARITIME_TT">
 			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Marítima[ENDCOLOR] impulsionará o [ICON_FOOD] Alimento da sua [ICON_CAPITAL] Capital, quando amigos, e em todas as suas cidades, quando aliados.</Text>
@@ -232,13 +232,13 @@
 			<Text>Cidades-Estado [COLOR_POSITIVE_TEXT]Neutras[ENDCOLOR] são imparciais nos seus negócios e tendem a cuidar de seus próprios assuntos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE_TT">
-			<Text>A [ICON_INFLUENCE] Influência sobre uma Cidade-Estado [COLOR_POSITIVE_TEXT]Hostil[ENDCOLOR] cairá mais rápido que o normal. Eles irão também fazer solicitações para capturar Cidades-Estado vizinhas com mais frequência.</Text>
+			<Text>A [ICON_INFLUENCE] Influência com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Hostil[ENDCOLOR] diminui mais rapidamente que o normal. Ela também fará pedidos para capturar Cidades-Estado vizinhas com mais frequência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL_TT">
 			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Irracional[ENDCOLOR] é mais aleatória em suas requisições, comparada a outras Cidades-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_ALLY_TT">
-			<Text>Se um jogador se tornar aliado de uma Cidade-Estado, ele passará a receber os mesmos bônus extras que ela possui por sua característica única, além de ganhar todos os recursos de luxo e estratégicos que a Cidade-Estado estiver conectada.</Text>
+			<Text>Se um jogador se tornar aliado de uma Cidade-Estado, receberá bônus adicionais relacionados à característica dela, além de todos os Recursos de Luxo e Estratégicos que a Cidade-Estado tiver conectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_RESOURCES_TT">
 			<Text>Se um jogador se tornar [COLOR_POSITIVE_TEXT]Aliado[ENDCOLOR] desta Cidade-Estado, os recursos nas proximidades dela serão ofertados assim que forem conectados.</Text>
@@ -274,7 +274,7 @@
 			<Text>Amizade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FRIENDS_CSTATE_TT">
-			<Text>Você é [COLOR_POSITIVE_TEXT]Amigo[ENDCOLOR] de {1_CityStateName:textkey}. A cada turno, a sua [ICON_INFLUENCE] Influência mudará em {2_Num}.</Text>
+			<Text>Você mantém uma relação de [COLOR_POSITIVE_TEXT]amizade[ENDCOLOR] com {1_CityStateName:textkey}. A cada turno, sua [ICON_INFLUENCE] Influência com ela mudará em {2_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CSTATE_OPEN_BORDERS_FRIENDS">
 			<Text>Como vocês são pelo menos [COLOR_POSITIVE_TEXT]Amigos[ENDCOLOR], você está autorizado a passar livremente pelas fronteiras deles.</Text>
@@ -322,10 +322,10 @@
 			<Text>Irritação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ANGRY_CSTATE_TT">
-			<Text>Você fez algo que irritou {1_CityStateName:textkey}. Talvez atravessado suas fronteiras ou ido à guerra recentemente. [NEWLINE][NEWLINE]Sua [ICON_INFLUENCE] Influência sobre eles é recuperada em {2_Num} por turno. Você pode presenteá-los com [ICON_GOLD] Ouro para acelerar isso.</Text>
+			<Text>Você fez algo que irritou {1_CityStateName:textkey}, como atravessar suas fronteiras ou entrar em guerra recentemente.[NEWLINE][NEWLINE]Sua [ICON_INFLUENCE] Influência com ela se recupera em {2_Num} por turno. Você pode oferecer um presente em [ICON_GOLD] Ouro para acelerar a recuperação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEUTRAL_CSTATE_TT">
-			<Text>{1_CityStateName:textkey} nem gosta, nem deixa de gostar de você. Se você tem bastante [ICON_GOLD] Ouro, poderá presenteá-la para aumentar sua [ICON_INFLUENCE] Influência.</Text>
+			<Text>{1_CityStateName:textkey} não gosta nem desgosta de você. Se tiver [ICON_GOLD] Ouro suficiente, você poderá oferecer um presente para aumentar sua [ICON_INFLUENCE] Influência.</Text>
 		</Row>
 		<!-- Notifications -->
 		<Row Tag="TXT_KEY_NTFN_CITY_STARVING">
@@ -386,7 +386,7 @@
 			<Text>{1_CityName:textkey} tem {2_ResourceName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_CAN_SHOOT">
-			<Text>A cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName:textkey} pode atacar um inimigo próximo!</Text>
+			<Text>A cidade de {1_CityName:textkey} pode atacar um inimigo próximo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_CAN_SHOOT">
 			<Text>{1_CityName:textkey} pode disparar contra um inimigo!</Text>
@@ -431,13 +431,13 @@
 			<Text>O acordo de pacto defensivo que {1_CivName:textkey} tinha conosco terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_FROM_US">
-			<Text>O acordo que tínhamos com {1_CivName:textkey}, onde fornecíamos [ICON_GOLD] Ouro a cada turno, terminou.</Text>
+			<Text>O acordo com {1_CivName:textkey}, em que fornecíamos [ICON_GOLD] Ouro a cada turno, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_TO_US">
-			<Text>O acordo que tínhamos com {1_CivName:textkey}, onde ganhávamos [ICON_GOLD] Ouro a cada turno, terminou.</Text>
+			<Text>O acordo com {1_CivName:textkey}, em que {1_CivName:textkey} nos fornecia [ICON_GOLD] Ouro a cada turno, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
-			<Text>O acordo que liberava o acesso às nossas fronteiras para {1_CivName:textkey} terminou.</Text>
+			<Text>O acordo em que fornecíamos Fronteiras Abertas a {1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
 			<Text>O acordo com {1_CivName:textkey}, que nos forneceu livre acesso às suas fronteiras, terminou.</Text>
@@ -513,7 +513,7 @@
 			<Text>Bárbaros foram mortos nas proximidades de {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MET_MINOR_CIV">
-			<Text>Você encontrou a Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
+			<Text>Você encontrou a Cidade-Estado de {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_INTRUSION">
 			<Text>Você está nas terras de {1_CivName:textkey}! Enquanto suas unidades permanecerem neste território, sua [ICON_INFLUENCE] Influência sobre eles irá diminuir!</Text>
@@ -568,7 +568,7 @@
 			<Text>A guerra de {1_CivName:textkey} está completa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
-			<Text>{1_CivName:textkey} está procurando assistência contra {2_CivName:textkey}. Embora eles prefiram uma participação ativa na guerra, você poderá ajudá-los secretamente, dando-lhes unidades militares. (Clique nesta cidade para fazer isso).</Text>
+			<Text>{1_CivName:textkey} está procurando ajuda contra {2_CivName:textkey}. Embora prefira sua participação ativa na guerra, você também pode ajudar secretamente doando unidades militares. (Clique na cidade para fazer isso.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
 			<Text>{1_CivName:textkey} requer unidades.</Text>
@@ -658,7 +658,7 @@
 			<Text>{2_CivName:textkey} {2: plural 1?quer; other?querem;} {1_TargetName:textkey} eliminada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE">
-			<Text>Para a alegria de {2_CivName:textkey}, você eliminou {1_TargetName:textkey}! Eles estão extremamente gratos por sua assistência neste assunto.</Text>
+			<Text>Para grande satisfação de {2_CivName:textkey}, você eliminou {1_TargetName:textkey}! A Cidade-Estado está extremamente grata por sua ajuda.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CITY_STATE">
 			<Text>{1_TargetName:textkey} foi eliminada por {2_CivName:textkey}!</Text>
@@ -804,7 +804,7 @@
 			<Text>eles tiraram o Sábio deles de suas terras... (O bônus de [ICON_RESEARCH] Ciência foi perdido)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_NONE">
-			<Text>Enquanto você mantiver este Status, eles lhe darão [COLOR_POSITIVE_TEXT]Recursos Estratégicos e de Luxo[ENDCOLOR] no futuro.</Text>
+			<Text>Enquanto você mantiver esse status, a Cidade-Estado concederá ao seu império todos os [COLOR_POSITIVE_TEXT]Recursos Estratégicos e de Luxo[ENDCOLOR] que vier a conectar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_SOME">
 			<Text>Contanto que mantenha seu Status atual, darão a você {1: gender *:noart? ; masculine?{1: plural 1?o; other?os;}; feminine?{1: plural 1?a; other?as;};} [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR] deles e todos os recursos futuros que vierem a se conectar.</Text>
@@ -838,7 +838,7 @@
 			<Text>{@1_CivName} {1: plural 1?recuperou; other?recuperaram;} sua [ICON_CAPITAL] Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_LOST_CAPITAL">
-			<Text>Uma Civilização desconhecida perdeu sua [ICON_CAPITAL] Capital! {1_NumPlayers} {1: plural 1?Civilização continua; other?Civilizações continuam;}; feminine?{1: plural 1?a; other?as;};} em posse {1: plural 1?da sua [ICON_CAPITAL] Capital; other?das suas [ICON_CAPITAL] Capitais;}.</Text>
+			<Text>Uma civilização desconhecida perdeu sua [ICON_CAPITAL] Capital! {1_NumPlayers} {1_NumPlayers: plural 1?civilização ainda controla sua [ICON_CAPITAL] Capital; other?civilizações ainda controlam suas [ICON_CAPITAL] Capitais;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_RECOVERED_CAPITAL">
 			<Text>Uma Civilização desconhecida recuperou sua [ICON_CAPITAL] Capital!</Text>
@@ -904,7 +904,7 @@
 			<Text>{1_CivName:textkey} {1: plural 1?ganhou; other?ganharam;} o jogo por meio da Vitória {2_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL">
-			<Text>Você perdeu sua [ICON_CAPITAL] Capital! {1_NumPlayers} {1: plural 1?continua em posse da sua [ICON_CAPITAL] Capital; other?continuam em posse das suas [ICON_CAPITAL] Capitais;}.</Text>
+			<Text>Você perdeu sua [ICON_CAPITAL] Capital! {1_NumPlayers} {1_NumPlayers: plural 1?outro jogador ainda controla sua [ICON_CAPITAL] Capital; other?outros jogadores ainda controlam suas [ICON_CAPITAL] Capitais;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_RECOVERED_CAPITAL">
 			<Text>Você recuperou sua [ICON_CAPITAL] Capital!</Text>
@@ -1036,7 +1036,7 @@
 			<Text>Agora somos aliados de {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_LOST">
-			<Text>Já não somos amigos aliados {@1: plural 2?{@1: gender masculine?de ; feminine?da ;};}{1_CivName:textkey}.</Text>
+			<Text>A aliança com {1_CivName:textkey} terminou!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_PASSED">
 			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} agora {1: gender masculine?{1: plural 1?é aliado; other?são aliados;}; feminine?{1: plural 1?é aliada; other?são aliadas;};} {2: gender *:noart?de; masculine?{2: plural 1?do; other?dos;}; feminine?{2: plural 1?da; other?das;};} {2_MinorCivName:textkey}!</Text>
@@ -1246,10 +1246,10 @@
 			<Text>{1_CivName:textkey} {1: plural 1?usou; other?usaram;} um Grande Artista para roubar algum terreno seu!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
-			<Text>[ICON_CONNECTED] Rota comercial estabilizada!</Text>
+			<Text>[ICON_CONNECTED] Rota Comercial estabelecida!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED">
-			<Text>Uma [ICON_CONNECTED] Rota comercial entre {1_CityName:textkey} e sua Capital, {2_CityName:textkey}, foi estabilizada!</Text>
+			<Text>Uma [ICON_CONNECTED] Rota Comercial entre {1_CityName:textkey} e sua Capital, {2_CityName:textkey}, foi estabelecida!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN">
 			<Text>[ICON_CONNECTED] Rota comercial rompida!</Text>
@@ -1274,7 +1274,7 @@
 			<Text>Piedade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE">
-			<Text>Patronato</Text>
+			<Text>Mecenato</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE">
 			<Text>Comércio</Text>
@@ -1304,7 +1304,7 @@
 			<Text>PIEDADE</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_CAP">
-			<Text>PATRONATO</Text>
+			<Text>MECENATO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_CAP">
 			<Text>COMÉRCIO</Text>
@@ -1322,7 +1322,7 @@
 			<Text>AUTOCRACIA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Liberdade[ENDCOLOR] é melhor para Civilizações que desejam se expandir mais rapidamente.[NEWLINE][NEWLINE]Ao adotar Liberdade você ganhará 1 ponto de [ICON_CULTURE] Cultura em cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Liberdade, um Grande General a sua escolha aparecerá próximo a sua [ICON_CAPITAL] Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Liberdade[ENDCOLOR] é melhor para civilizações que desejam se expandir rapidamente.[NEWLINE][NEWLINE]Adotar Liberdade concede 1 de [ICON_CULTURE] Cultura em cada cidade.[NEWLINE][NEWLINE]Adotar todas as políticas do ramo Liberdade concede uma Grande Personalidade gratuita à sua escolha próximo à [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Tradição[ENDCOLOR] é melhor para pequenos Impérios.[NEWLINE][NEWLINE]A adoção de Tradição irá acelerar a taxa de crescimento das fronteiras das suas cidades e fornecer 3 pontos de [ICON_CULTURE] Cultura na [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Tradição, serão fornecidos +15% de [ICON_FOOD] Crescimento e +2 de [ICON_FOOD] Alimento em cada cidade.</Text>
@@ -1334,7 +1334,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_CULTURE] Cultura do Império.[NEWLINE][NEWLINE]Adotando Piedade, você diminuirá em 15% o tempo necessário para se construir edificações [ICON_CULTURE] Culturais.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, você reduzirá em 10% o custo [ICON_CULTURE] Cultural para a adoção de novas Políticas.[NEWLINE][NEWLINE]Este ramo não pode ser adotado em conjunto com Racionalismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Patronato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE][ICON_INFLUENCE] A influência com as Cidades-Estado degrada 25% mais lentamente do que o normal.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Patronato, a [ICON_INFLUENCE] Influência dos outros jogadores com Cidades-Estado diminuirá 33% mais rápido que o normal.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Mecenato[ENDCOLOR] aumenta os benefícios da amizade com Cidades-Estado.[NEWLINE][NEWLINE]A [ICON_INFLUENCE] Influência com Cidades-Estado diminui 25% mais lentamente que o normal.[NEWLINE][NEWLINE]Adotar todas as políticas do ramo Mecenato fará com que a [ICON_INFLUENCE] Influência dos outros jogadores com Cidades-Estado diminua 33% a mais por turno que o normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para o Império naval e aqueles focados no [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD] Ouro na sua [ICON_CAPITAL] Capital em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD] Ouro para cada Especialista.</Text>
@@ -1496,7 +1496,7 @@
 			<Text>Fascismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_POLICE_STATE">
-			<Text>Estado Administrativo</Text>
+			<Text>Estado Policial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_TOTAL_WAR">
 			<Text>Guerra Total</Text>
@@ -1625,7 +1625,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Frente Unida[ENDCOLOR][NEWLINE]Cidades-Estado militaristas fornecem unidades a uma taxa duas vezes maior quando você estiver em guerra contra um inimigo comum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_SOCIALISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Socialismo[ENDCOLOR][NEWLINE]Gasto em [ICON_GOLD] Ouro com manutenção de construções é reduzido em 15%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Socialismo[ENDCOLOR][NEWLINE]Os custos de manutenção em [ICON_GOLD] Ouro das Edificações são reduzidos em 15%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NATIONALISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Nacionalismo[ENDCOLOR][NEWLINE]15% de bônus de ataque nas batalhas dentro de território amigo.</Text>
@@ -1646,7 +1646,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Fascismo[ENDCOLOR][NEWLINE]Quantidade de recursos estratégicos produzidos em todo Império é aumentada em 100%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_POLICE_STATE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Estado Administrativo[ENDCOLOR][NEWLINE]+3 de [ICON_HAPPINESS_1] Felicidade de cada Tribunal. Construa Tribunais na metade do tempo normal.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Estado Policial[ENDCOLOR][NEWLINE]+3 de [ICON_HAPPINESS_1] Felicidade por Tribunal. Tribunais são construídos na metade do tempo normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_TOTAL_WAR_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Guerra Total[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION] Produção quando estiver construindo/treinando unidades militares e novas unidades militares começam com +15 pontos de experiência.</Text>
@@ -1679,7 +1679,7 @@
 			<Text>Cultura por turno: {1_Num} [ICON_CULTURE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEXT_POLICY_TURN_LABEL">
-			<Text>Próxima política: {1_Num: number #} {1: plural 0?turno; 1?turno; other?turnos;}</Text>
+			<Text>Próxima política: {1_Num: number #} {1_Num: plural 1?turno; other?turnos;}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEXT_POLICY_COST_LABEL">
 			<Text>Custo próxima política: {1_Num} [ICON_CULTURE]</Text>
@@ -1982,7 +1982,7 @@
 			<Text>[ICON_GOLD] Ouro POR TURNO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS">
-			<Text>ABERTURA DAS FRONTEIRAS</Text>
+			<Text>FRONTEIRAS ABERTAS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_TT">
 			<Text>Permite que as unidades militares ou civis de um jogador passem pelo território do outro (por {1_Num} {1: plural 1?turno; other?turnos;})[NEWLINE][NEWLINE]Nota: unidades pertencentes a jogadores diferentes não poderão ocupar o mesmo hexágono.</Text>
@@ -1991,10 +1991,10 @@
 			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária (Escrita) para negociar este item.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_HAVE">
-			<Text>[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Nós já estamos permitindo a abertura das nossas fronteiras![ENDCOLOR]</Text>
+			<Text>[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Já estamos permitindo Fronteiras Abertas![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_THEY_HAVE">
-			<Text>[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Eles já estão permitindo a abertura das suas fronteiras![ENDCOLOR]</Text>
+			<Text>[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Eles já estão permitindo Fronteiras Abertas![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_TT">
 			<Text>Se este jogador for atacado, o outro irá imediatamente e automaticamente declarar guerra aos seus inimigos (por {1_Num} {1: plural 1?turno; other?turnos;}). NOTA: Se algum dos jogadores declarar guerra, o acordo é cancelado.</Text>
@@ -2335,7 +2335,7 @@
 			<Text>Irá aumentar a quantidade de [ICON_FOOD] Alimento por hexágono, acelerando o nascimento de novos [ICON_CITIZEN] cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FISHING_BOATS">
-			<Text>Criar [LINK=IMPROVEMENT_FISHING_BOATS]{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}[\LINK]</Text>
+			<Text>Criar [LINK=IMPROVEMENT_FISHING_BOATS]Barcos Pesqueiros[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FISHING_BOATS_REC">
 			<Text>Isto irá ligar os recursos marinhos deste hexágono a nossa rede comercial e melhorará sua produtividade quando explorados por uma cidade próxima.</Text>
@@ -2386,10 +2386,10 @@
 			<Text>Construir [LINK=CONCEPT_MOVEMENT]Ferrovia[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_RAILROAD_REC">
-			<Text>Permitirá que suas unidades se movam mais rapidamente pelo terreno e conectará outras cidades a sua [ICON_CAPITAL] Capital, tendo um ganho adicional de [ICON_PRODUCTION] Produção!</Text>
+			<Text>Permite que as unidades se movam mais rapidamente pelo terreno, e conectar outras cidades à sua [ICON_CAPITAL] Capital concederá a elas [ICON_PRODUCTION] Produção adicional!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_RAILROAD_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]Custa[ENDCOLOR] 2 de [ICON_GOLD] Ouro por turno para mantê-la.[NEWLINE][NEWLINE]Uma rede férrea ininterrupta permitirá um movimento extremamente rápido pelos hexágonos.[NEWLINE][NEWLINE]Conectar suas cidades a sua Capital com Ferrovias as proporcionará um bônus de 25% de [ICON_PRODUCTION] Produção.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Custa[ENDCOLOR] 2 de [ICON_GOLD] Ouro por turno em manutenção.[NEWLINE][NEWLINE]Uma rede ininterrupta de Ferrovias permite que as unidades se movam extremamente rápido pelos hexágonos.[NEWLINE][NEWLINE]Conectar cidades à sua Capital por Ferrovia concederá a elas um bônus de 25% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_FOREST">
 			<Text>Derrubar [LINK=FEATURE_FOREST]Floresta[\LINK]</Text>
@@ -2407,10 +2407,10 @@
 			<Text>Construir [LINK=CONCEPT_MOVEMENT]Estrada[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ROAD_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]Custará[ENDCOLOR] 1 de [ICON_GOLD] Ouro por turno para mantê-la.[NEWLINE][NEWLINE]Uma rede ininterrupta de estradas permitirá as unidades um movimento mais rápido no mapa.[NEWLINE][NEWLINE]Conectar cidades a sua Capital fornecerá uma grande quantidade de [ICON_GOLD] Ouro por turno.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Custa[ENDCOLOR] 1 de [ICON_GOLD] Ouro por turno em manutenção.[NEWLINE][NEWLINE]Uma rede ininterrupta de Estradas permite que as unidades se movam mais rapidamente pelo mapa.[NEWLINE][NEWLINE]Conectar cidades à sua Capital fornecerá uma grande quantidade de [ICON_GOLD] Ouro por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ROAD_REC">
-			<Text>Permitirá que unidades se movam mais rápido pelo terreno. Conectando outras cidades a sua [ICON_CAPITAL] Capital, proporcionará uma produção adicional de [ICON_GOLD] Ouro!</Text>
+			<Text>Permite que as unidades se movam mais rapidamente pelo terreno, e conectar outras cidades à sua [ICON_CAPITAL] Capital produzirá [ICON_GOLD] Ouro adicional!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TRADING_POST">
 			<Text>Construir [LINK=IMPROVEMENT_TRADING_POST]Posto Comercial[\LINK]</Text>
@@ -2443,7 +2443,7 @@
 			<Text>Construir Alfândega</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MANUFACTORY">
-			<Text>Construir {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
+			<Text>Construir Manufatura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL">
 			<Text>Construir Cidadela</Text>
@@ -2462,7 +2462,7 @@
 			<Text>Cancelará todas as ordens dadas à unidade selecionada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMMAND_CANCEL_HELP">
-			<Text>Cancelará a última ordem da fila da unidade. Esse recurso é útil quando uma ordem errada é dada à unidade.</Text>
+			<Text>Isto cancelará a última ordem da fila de missões da unidade. É muito útil caso você tenha colocado a ordem errada na fila por engano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMMAND_DELETE_HELP">
 			<Text>Clique aqui para remover a unidade do jogo.</Text>
@@ -2474,7 +2474,7 @@
 			<Text>Permite atribuir uma tecla de atalho para esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMMAND_STOP_AUTOMATION_HELP">
-			<Text>Isto cancelará a ordem para que a unidade haja automaticamente. Ela então aguardará as suas ordens.</Text>
+			<Text>Isto cancelará a automatização da unidade. A partir daí, ela aguardará suas ordens.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMMAND_WAKE_HELP">
 			<Text>Isto despertará a unidade para receber ordens. Despertar uma unidade não elimina o bônus de fortificação.</Text>
@@ -2603,7 +2603,7 @@
 			<Text>Esta ordem fará com que aumente os esforços de produção da cidade. Isso consumirá a Grande Personalidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_INTERCEPT_HELP">
-			<Text>Isto fará que a unidade aérea tente interceptar qualquer ataque aéreo.</Text>
+			<Text>Esta ordem fará com que a unidade aérea tente interceptar qualquer ataque aéreo recebido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_JOIN_CITY_HELP">
 			<Text>Isto ordenará a Grande Personalidade que se junte a cidade tornando um super especialista. Isto irá consumi-la.</Text>
@@ -2642,7 +2642,7 @@
 			<Text>Contribuir colocando uma parte na Espaçonave de Alpha Centauri.[NEWLINE][NEWLINE]A unidade será consumida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_DISABLED_HELP">
-			<Text>Unidade deve está em sua Capital.</Text>
+			<Text>A unidade deve estar em sua Capital.</Text>
 		</Row>
 		<!-- Some Front-End Help text -->
 		<Row Tag="TXT_KEY_HANDICAP_DEITY_HELP">
@@ -2843,7 +2843,7 @@
 			<Text>+33% de [ICON_CULTURE] Cultura na cidade.[NEWLINE][NEWLINE]A cidade deve possuir um Museu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GARDEN_HELP">
-			<Text>+25% na geração de uma [ICON_GREAT_PEOPLE] Grande Personalidade na cidade.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Lago ou Rio.</Text>
+			<Text>+25% na geração de [ICON_GREAT_PEOPLE] Grandes Personalidades nesta cidade.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Rio ou Lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEDICAL_LAB_HELP">
 			<Text>25% de [ICON_FOOD] Alimento são produzidos após cada nascimento de um novo [ICON_CITIZEN] Cidadão (efeito acumula com o do Aqueduto).</Text>
@@ -2985,7 +2985,7 @@
 			<Text>Liga Helênica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP">
-			<Text>[ICON_INFLUENCE] Influência sobre Cidades-Estado diminui apenas à metade da taxa normal e se recupera no dobro velocidade.</Text>
+			<Text>A [ICON_INFLUENCE] Influência com Cidades-Estado diminui à metade da taxa normal e se recupera ao dobro da taxa normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT">
 			<Text>Bushido</Text>
@@ -3126,7 +3126,7 @@
 			<Text>Rota cancelada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_ROUTE_TO_CANCELLED">
-			<Text>Seu Trabalhador, que foi recebeu ordens para construir uma rota a um destino, foi bloqueado e sua ordem foi cancelada.</Text>
+			<Text>Seu Trabalhador, que recebeu ordens para construir uma rota até um destino, foi bloqueado e teve a ordem cancelada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_ALL_TECHS_RESEARCHED">
 		  <Text>[NEWLINE][NEWLINE]Um ou mais desses jogadores já pesquisaram todas as tecnologias.</Text>
@@ -3366,7 +3366,10 @@
 		<Row Tag="TXT_KEY_DIPLO_RESURRECTED">
 		  <Text>[COLOR_POSITIVE_TEXT]Você restaurou a civilização deles após eles serem aniquilados![ENDCOLOR]</Text>
 		</Row>		
-		<Row Tag="TXT_KEY_BUILDING_WAT_HELP">
+		        <Row Tag="TXT_KEY_DIPLO_CITIES_LIBERATED">
+            <Text>[COLOR_POSITIVE_TEXT]Você libertou parte da população deles![ENDCOLOR]</Text>
+        </Row>
+<Row Tag="TXT_KEY_BUILDING_WAT_HELP">
 			<Text>+2 de [ICON_RESEARCH] Ciência de hexágonos com Selva que estejam sendo trabalhados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_DIPLO_DECLARATION_OF_FRIENDSHIP">

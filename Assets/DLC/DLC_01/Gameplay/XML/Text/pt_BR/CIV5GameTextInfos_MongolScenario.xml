@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
 	<Language_pt_BR>
@@ -27,16 +27,16 @@
 			<Text>Com a ajuda de outra potência, mais uma grande civilização caiu. Nós conseguimos saquear uma moderada riqueza de ({1_NumGold} de Ouro) do tesouro deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
-			<Text>A Cidade-Estado de Almati caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado de Almati caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Jinetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
-			<Text>A Cidade-Estado de Dali caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_PIKEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado de Dali caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Piqueiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_KOREA_FALLEN">
-			<Text>A Cidade-Estado da Coreia caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_CROSSBOWMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado da Coreia caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Besteiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
-			<Text>A Cidade-Estado de Xia Ocidental caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade à sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
+			<Text>A Cidade-Estado de Xia Ocidental caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Jinetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade à sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
 			<Text>Tecnologia gratuita por conquistar grande civilização</Text>

@@ -400,7 +400,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALTARDESACRIFICIOS">
 			<Text>Altar de Sacrifícios</Text>
-			<Gender>nasculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEIBAL">
@@ -897,7 +897,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZAMORA">
-			<Text>Samora</Text>
+			<Text>Zamora</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

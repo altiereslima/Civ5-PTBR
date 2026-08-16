@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 
@@ -57,14 +57,14 @@
       <Text>Bom dia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
+      <Text>Saudações.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
+      <Text>Até nos vermos novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_NEUTRAL">
@@ -75,17 +75,17 @@
       <Text>Isso não alimentará meus guerreiros nem meus cavalos. Melhore sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2}</Text>
+      <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+      <Text>Isso não está suficientemente bom.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_NEUTRAL">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_NEUTRAL}</Text>
+      <Text>Não tenho interesse.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_YES_NEUTRAL">
@@ -105,40 +105,40 @@
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1}</Text>
+      <Text>Tudo bem.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+      <Text>Muito bem.</Text>
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1}</Text>
+      <Text>Devo recusar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_2}</Text>
+      <Text>Não, claro que não.</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_1}</Text>
+      <Text>Vamos ouvir...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+      <Text>Continue.</Text>
     </Row>
     
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
+      <Text>Saudações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3}</Text>
+      <Text>Boas-vindas!</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
+      <Text>Até nos vermos novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_4}</Text>
+      <Text>Até logo, pessoa amiga!</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_HAPPY">
@@ -152,11 +152,11 @@
       <Text>Certeza de que não pode fazer um pouco melhor?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3}</Text>
+      <Text>Está quase lá...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_HAPPY">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_HAPPY}</Text>
+      <Text>Obrigado, mas não desta vez.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_YES_HAPPY">
@@ -176,21 +176,21 @@
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_3}</Text>
+      <Text>Certamente.</Text>
     </Row> 
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3}</Text>
+      <Text>Certamente que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+      <Text>Isso é inaceitável.</Text>
     </Row> 
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+      <Text>Continue.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
+      <Text>Estou ouvindo.</Text>
     </Row>
     
     <!--Angry -->
@@ -199,31 +199,31 @@
       <Text>Ah, é você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_6}</Text>
+      <Text>O que você quer?</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_5">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5}</Text>
+      <Text>Isso é tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_6}</Text>
+      <Text>Vá embora.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_ANGRY">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_ANGRY}</Text>
+      <Text>Combinado.</Text>
     </Row> 
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_1">
       <Text>Eu sinto a fúria crescer dentro de mim, mas permitirei que melhore a sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
+      <Text>Isso não é suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3}</Text>
+      <Text>Precisa melhorar isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_ANGRY">
@@ -254,10 +254,10 @@
       <Text>Vocês estão em delírio!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+      <Text>Isso é inaceitável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_7">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_7}</Text>
+      <Text>Você não pode estar falando sério!</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_5">

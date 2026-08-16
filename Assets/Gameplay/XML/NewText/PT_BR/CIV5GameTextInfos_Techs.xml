@@ -435,7 +435,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PATRONAGE_TITLE">
-			<Text>Patrocínio</Text>
+			<Text>Mecenato</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

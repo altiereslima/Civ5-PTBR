@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -72,7 +72,7 @@
 			<Text>O que são as bases aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_BODY">
-			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os Caças e alguns Bombardeiros também podem ter como base Porta-Aviões. As unidades de Mísseis podem ter como base cidades, submarinos nucleares e cruzadores porta-mísseis. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - Porta-aviões, Cruzadores ou Submarinos Nucleares.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas movem-se pelo mapa como as demais unidades e podem embarcar.</Text>
+			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os Caças e alguns Bombardeiros também podem ter como base Porta-Aviões. As unidades de Mísseis podem ter como base cidades, submarinos nucleares e cruzadores de mísseis. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - Porta-aviões, Cruzadores ou Submarinos Nucleares.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas movem-se pelo mapa como as demais unidades e podem embarcar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_TITLE">
 			<Text>Bases Aéreas</Text>
@@ -195,13 +195,13 @@
 			<Text>Porta-aviões</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_ADV_QUEST">
-			<Text>Que unidades aéreas podem ter como base um cruzador porta-mísseis?</Text>
+			<Text>Que unidades aéreas podem ter como base um cruzador de mísseis?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_HEADING4_BODY">
-			<Text>Um cruzador porta-mísseis pode levar até três mísseis de qualquer tipo.</Text>
+			<Text>Um cruzador de mísseis pode levar até três mísseis de qualquer tipo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_HEADING4_TITLE">
-			<Text>Cruzador Porta-mísseis</Text>
+			<Text>Cruzador de Mísseis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_FIGHTERS_ADV_QUEST">
 			<Text>Em que base é possível ter caças e aviões de combate?</Text>
@@ -411,7 +411,7 @@
 			<Text>Como uma ruína antiga te ajudar a explorar o mapa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_MAP_HEADING4_BODY">
-			<Text>A ruína proporciona um mapa da área em volta (dissipará a névoa da guerra até certo número de hexágonos).</Text>
+			<Text>A ruína proporciona um mapa da área em volta (dissipará a névoa de guerra até certo número de hexágonos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_MAP_HEADING4_TITLE">
 			<Text>Mapa</Text>
@@ -759,7 +759,7 @@
 			<Text>A Escola Pública é uma edificação do meio do jogo que aumenta a produção de [ICON_RESEARCH] Ciência da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID_STRATEGY">
-			<Text>As Pirâmides proporcionam um Celeiro grátis em cada cidade. Também fornece +1 para [ICON_CULTURE] Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD] Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
+			<Text>As Pirâmides proporcionam um Celeiro grátis em cada cidade. Também fornece +1 para [ICON_CULTURE] Cultura e +1 ponto de Grande Engenheiro. Os Celeiros aumentam em +2 o fluxo de [ICON_FOOD] Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_PEDIA">
 			<Text>"Sátrapa" é o título de um governador provisório do Império Aquemênida da Pérsia. Os Sátrapas eram nomeados pelo rei, e geralmente eram membros da família real. O Sátrapa era uma figura poderosa, recolhia impostos e constituía a máxima autoridade judicial da província. Ele também era responsável pelo recrutamento e manutenção de um exército e, portanto, tinha que ser uma pessoa de grande confiança para o monarca. À medida que o poder central persa foi se enfraquecendo durante o século 5 a.C., os Sátrapas se tornaram mais independentes e, de fato, alguns foram mais poderosos que o rei a que serviam.[NEWLINE][NEWLINE]Alexander manteve a administração dos Sátrapas após a conquista da Pérsia, às vezes substituindo os Sátrapas por seus generais e outras vezes mantendo os governadores se mantivessem a paz e continuassem pagando seus impostos.</Text>
@@ -846,7 +846,7 @@
 			<Text>Cidades capturadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_HEADING1_BODY">
-			<Text>Uma cidade é mais do que um monte de casas. Ela contém {TXT_KEY_BUILDING_PUBLIC_SCHOOL[2]} e {TXT_KEY_BUILDING_LIBRARY[2]}, {TXT_KEY_BUILDING_MARKET[2]} e {TXT_KEY_BUILDING_GRANARY[2]}, {TXT_KEY_BUILDING_BANK[2]} e {TXT_KEY_BUILDING_BARRACKS[2]}. As edificações representam as melhorias e modificações que faz na cidade. As edificações podem aumentar a taxa de crescimento da cidade, a velocidade de produção, aumentar sua ciência, melhorar suas defesas e muitas outras coisas. Consulte a seção sobre Construção da Civilopédia para obter mais detalhes.[NEWLINE][NEWLINE]Uma cidade que não possui edificações é muito fraca e primitiva e, provavelmente, continuará muito pequena, enquanto que uma cidade com muitas edificações pode vir a dominar o mundo.</Text>
+			<Text>Uma cidade é mais do que um monte de casas. Ela contém Escolas Públicas e Bibliotecas, Mercados e Celeiros, Bancos e Quartéis. As edificações representam as melhorias e modificações que faz na cidade. As edificações podem aumentar a taxa de crescimento da cidade, a velocidade de produção, aumentar sua ciência, melhorar suas defesas e muitas outras coisas. Consulte a seção sobre Construção da Civilopédia para obter mais detalhes.[NEWLINE][NEWLINE]Uma cidade que não possui edificações é muito fraca e primitiva e, provavelmente, continuará muito pequena, enquanto que uma cidade com muitas edificações pode vir a dominar o mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_HEADING1_TITLE">
 			<Text>Edificações</Text>
@@ -1400,13 +1400,13 @@
 			<Text>Os Heteros, ou Hetairoi, eram cavaleiros de elite que acompanhavam Alexandre, o Grande, em batalha. O termo "hetairoi" deriva do nome da aristocracia macedônica, e os Heteros provinham apenas das melhores famílias macedônicas (embora mais tarde isso tenha sido expandido para incluir a nobreza dos povos aliados e subjugados). Cada cavaleiro carregava um "xyston" (lança longa) e um "kopis" (espada curva), e usava uma couraça, ombreiras e capacete de bronze.[NEWLINE][NEWLINE]Em batalha, Alexandre geralmente segurava os Heteros até o inimigo estar totalmente envolvido com suas unidades de Falange. O próprio Alexandre então conduzia seus Heteros contra o flanco ou retaguarda do inimigo, semeando confusão e desânimo no exército inimigo. As forças opostas nunca encontraram uma resposta satisfatória para essa combinação, e com ela Alexandre conquistou a maior parte do mundo conhecido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_GALLEY_HEADING">
-			<Text>Galé</Text>
+			<Text>Hoplita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_HEADING">
 			<Text>Hoplita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_TEXT">
-			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados {TXT_KEY_UNIT_GREEK_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O Hoplita era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os {TXT_KEY_UNIT_GREEK_HOPLITE[2]} eram adversários extremamente difíceis.</Text>
+			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados Hoplitas altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O Hoplita era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os Hoplitas eram adversários extremamente difíceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_HEADING">
 			<Text>Jinete</Text>
@@ -1418,7 +1418,7 @@
 			<Text>Imortal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_IMMORTAL_TEXT">
-			<Text>Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} Persas eram um unidade de elite infantaria pesada. Formavam o coração do exército Persa (Aquemênida) e sua força contava sempre com 10.000 homens. Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} lutaram sob as ordens de Ciro, o Grande, Cambises e Dário, o Grande; quando não estavam em combate, eles agiam como Guarda do Palácio Persa. Os {TXT_KEY_UNIT_PERSIAN_IMMORTAL[2]} estavam armados com lanças curtas, espadas e arcos. Usavam escudos leves e armaduras de escamas. De acordo com Heródoto, "Todos os seus homens brilhavam pelo ouro que levavam em quantidade ilimitada. Eles eram acompanhados de muitas carroças e nelas suas concubinas e uma grande companhia de criados, todos muito bem acomodados. Seu alimento, separado do resto do exército, era trazido para eles..."</Text>
+			<Text>Os Imortais Persas eram um unidade de elite infantaria pesada. Formavam o coração do exército Persa (Aquemênida) e sua força contava sempre com 10.000 homens. Os Imortais lutaram sob as ordens de Ciro, o Grande, Cambises e Dário, o Grande; quando não estavam em combate, eles agiam como Guarda do Palácio Persa. Os Imortais estavam armados com lanças curtas, espadas e arcos. Usavam escudos leves e armaduras de escamas. De acordo com Heródoto, "Todos os seus homens brilhavam pelo ouro que levavam em quantidade ilimitada. Eles eram acompanhados de muitas carroças e nelas suas concubinas e uma grande companhia de criados, todos muito bem acomodados. Seu alimento, separado do resto do exército, era trazido para eles..."</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_INDIANWARELEPHANT_HEADING">
 			<Text>Elefante de Guerra Indiano</Text>
@@ -1448,7 +1448,7 @@
 			<Text>Batedor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_TEXT">
-			<Text>Os {TXT_KEY_UNIT_SCOUT[2]} foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
+			<Text>Os Batedores foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SETTLER_HEADING">
 			<Text>Colono</Text>
@@ -1681,7 +1681,7 @@
 			<Text>O Banco é uma edificação do Renascimento que aumenta a produção de [ICON_GOLD] Ouro da cidade. Uma cidade deve possuir um Mercado ou um Bazar para poder construir um Banco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BANK_TEXT">
-			<Text>O Banco é uma instituição onde os cidadãos podem colocar o seu dinheiro para mantê-lo seguro. O banqueiro recolhe os depósitos e os empresta para outras pessoas, que pagam o dinheiro que foi emprestado, acrescido de uma taxa adicional (ou "juros"). O banqueiro entrega parte dos lucros aos depositantes e reinveste o restante. Para ter sucesso, um sistema bancário precisa de liquidez e leis que assegurem que a maioria dos mutuários vão pagar seus empréstimos, se possível.[NEWLINE][NEWLINE]Os bancos são autênticos motores do progresso de uma civilização. Se uma cidade precisa de algo - por exemplo, um Celeiro novo - um único cidadão poderia não ser capaz de pagar para construí-lo. No entanto, desde que contenha as economias de muitos cidadãos diferentes, o banco pode emprestar dinheiro ao construtor. Quando o Celeiro estiver construído, o construtor poderá devolver o empréstimo ao banco com o lucro e os cidadãos se beneficiarão do novo Celeiro (bem como do juros que conseguiram com seus depósitos).[NEWLINE][NEWLINE]Nos últimos anos, os {TXT_KEY_BUILDING_BANK[2]} europeus e dos Estados Unidos conquistaram uma má reputação, mas isso geralmente é porque muitos deles se interessaram em esquemas de investimentos arriscados ou porque fizeram empréstimos a pessoas claramente inadequadas. Um Banco bem gerido é uma dádiva para a comunidade, especialmente se estiver pobre.</Text>
+			<Text>O Banco é uma instituição onde os cidadãos podem colocar o seu dinheiro para mantê-lo seguro. O banqueiro recolhe os depósitos e os empresta para outras pessoas, que pagam o dinheiro que foi emprestado, acrescido de uma taxa adicional (ou "juros"). O banqueiro entrega parte dos lucros aos depositantes e reinveste o restante. Para ter sucesso, um sistema bancário precisa de liquidez e leis que assegurem que a maioria dos mutuários vão pagar seus empréstimos, se possível.[NEWLINE][NEWLINE]Os bancos são autênticos motores do progresso de uma civilização. Se uma cidade precisa de algo - por exemplo, um Celeiro novo - um único cidadão poderia não ser capaz de pagar para construí-lo. No entanto, desde que contenha as economias de muitos cidadãos diferentes, o banco pode emprestar dinheiro ao construtor. Quando o Celeiro estiver construído, o construtor poderá devolver o empréstimo ao banco com o lucro e os cidadãos se beneficiarão do novo Celeiro (bem como do juros que conseguiram com seus depósitos).[NEWLINE][NEWLINE]Nos últimos anos, os Bancos europeus e dos Estados Unidos conquistaram uma má reputação, mas isso geralmente é porque muitos deles se interessaram em esquemas de investimentos arriscados ou porque fizeram empréstimos a pessoas claramente inadequadas. Um Banco bem gerido é uma dádiva para a comunidade, especialmente se estiver pobre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BARRACKS_HEADING">
 			<Text>Quartéis</Text>
@@ -1747,7 +1747,7 @@
 			<Text>Celeiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANARY_TEXT">
-			<Text>O Celeiro é uma edificação desenhada para armazenar cereais para consumo por humanos ou animal (ou ambos). Os {TXT_KEY_BUILDING_GRANARY[2]} mais antigos foram descobertos em um assentamento Neolítico do Vale da Jordânia e datam aproximadamente de 9500 a.C. Estes primeiros {TXT_KEY_BUILDING_GRANARY[2]} mediam cerca de 3 metros quadrados. Eles possuíam o solo elevado, o que permitia a circulação do ar e oferecia certa proteção para o grão frente a ratos e outras ameaças.</Text>
+			<Text>O Celeiro é uma edificação desenhada para armazenar cereais para consumo por humanos ou animal (ou ambos). Os Celeiros mais antigos foram descobertos em um assentamento Neolítico do Vale da Jordânia e datam aproximadamente de 9500 a.C. Estes primeiros Celeiros mediam cerca de 3 metros quadrados. Eles possuíam o solo elevado, o que permitia a circulação do ar e oferecia certa proteção para o grão frente a ratos e outras ameaças.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HARBOR_HEADING">
 			<Text>Ancoradouro</Text>
@@ -1891,7 +1891,7 @@
 			<Text>Estábulo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STABLE_TEXT">
-			<Text>No Civilization V, um Estábulo é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os {TXT_KEY_BUILDING_STABLE[2]} e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
+			<Text>No Civilization V, um Estábulo é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os Estábulos e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STADIUM_HEADING">
 			<Text>Estádio</Text>
@@ -2301,10 +2301,10 @@
           <Text>Modificador de Rendimento da Cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_FEATURES_ATOLL_TITLE2">
-          <Text>Efeitos no Combate</Text>
+          <Text>Efeito no Combate</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_FEATURES_ATOLL_TITLE3">
-          <Text>Custo do Movimento</Text>
+          <Text>Custo de Movimento</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_FEATURES_ATOLL_TITLE4">
           <Text>Efeito Especial</Text>
@@ -2331,7 +2331,7 @@
 			<Text>Efeito no Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FLOODPLAINS_TITLE3">
-			<Text>Custo do Movimento</Text>
+			<Text>Custo de Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FLOODPLAINS_TITLE4">
 			<Text>Efeito Especial</Text>
@@ -2352,7 +2352,7 @@
 			<Text>Efeito no Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FOREST_TITLE3">
-			<Text>Custo do Movimento</Text>
+			<Text>Custo de Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FOREST_TITLE4">
 			<Text>Efeito Especial</Text>
@@ -2751,7 +2751,7 @@
 			<Text>Os "Grandes Mercadores" fornecem os bens e os serviços que as civilizações precisam para sobreviver. Eles importam alimentos, remédios e luxos, e eles exportam produtos manufaturados de uma civilização. Eles fornecem o financiamento necessário para grandes obras serem executadas. Eles criam a riqueza de uma civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREATPEOPLE_HEADING">
-			<Text>Grande Personalidade</Text>
+			<Text>Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREATPEOPLE_TEXT">
 			<Text>Ao longo da história, houve extraordinários homens e mulheres que alteraram o destino de suas civilizações. Arquimedes, Copérnico, Marco Polo, Robert E. Lee: estes são os grandes artistas, cientistas, comerciantes, generais e engenheiros que mudaram o mundo - para o bem ou para o mal.</Text>
@@ -2962,7 +2962,7 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FALLOUT">
-			<Text>Poeira Radioativa</Text>
+			<Text>Chuva Radioativa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FALLOUT_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -2995,10 +2995,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS">
-			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
+			<Text>Barcos Pesqueiros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
-			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}, você deve construir um Barco de Serviço em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constroem {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}.</Text>
+			<Text>Barcos Pesqueiros permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de Barcos Pesqueiros, você deve construir um Barco de Serviço em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). Barcos de Serviço são consumidos quando se constroem Barcos Pesqueiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3007,7 +3007,7 @@
 			<Text>Onde podem Ser Construídos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE3">
-			<Text>Efeitos no Rendimento</Text>
+			<Text>Efeito no Rendimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE4">
 			<Text>Acesso ao Recurso</Text>
@@ -3058,7 +3058,7 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MANUFACTORY_TEXT">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} é uma instalação composta por uma ou mais edificações, nas quais as coisas são construídas. As edificações podem ser fundições, fábricas, linhas de montagem e assim por diante, e geralmente trabalham com ciclo completo de produção de um item - a fundição cria o aço, que a fábrica utiliza para criar rolos de folhas de aço, que os trabalhadores na linha de montagem utilizam para fazer latas, e assim por diante. Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} bem administrada pode ser extremamente produtiva.</Text>
+			<Text>Uma Manufatura é uma instalação composta por uma ou mais edificações, nas quais as coisas são construídas. As edificações podem ser fundições, fábricas, linhas de montagem e assim por diante, e geralmente trabalham com ciclo completo de produção de um item - a fundição cria o aço, que a fábrica utiliza para criar rolos de folhas de aço, que os trabalhadores na linha de montagem utilizam para fazer latas, e assim por diante. Uma Manufatura bem administrada pode ser extremamente produtiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MINE">
 			<Text>Mina</Text>
@@ -3082,7 +3082,7 @@
 			<Text>Plataforma Costeira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TEXT">
-			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constrói uma plataforma costeira.</Text>
+			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). Barcos de Serviço são consumidos quando se constrói uma plataforma costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3214,7 +3214,7 @@
 			<Text>Para reparar uma melhoria saqueada, mova um trabalhador para o hexágono e utilize o botão de ação "Reparar Melhoria". Os reparos podem levar vários turnos, mas menos do que construir uma nova melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE6_TEXT">
-			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por {TXT_KEY_UNIT_WORK_BOAT[2]} e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando constroem uma melhoria, então você precisa construir múltiplos {TXT_KEY_UNIT_WORK_BOAT[2]} para construir múltiplas melhorias.</Text>
+			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por Barcos de Serviço e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, Barcos de Serviço são consumidos quando constroem uma melhoria, então você precisa construir múltiplos Barcos de Serviço para construir múltiplas melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADING_POST_TEXT">
 			<Text>Postos Comerciais são locais onde os comerciantes e caçadores podem vender seus produtos para os civis em troca de comida, armas, uísque, [ICON_GOLD] Ouro e todas as outras armadilhas da sociedade. Eles podem gerar muita riqueza para uma sociedade.</Text>
@@ -3367,7 +3367,7 @@
 			<Text>Arma Antitanque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ANTITANKGUN_TEXT">
-			<Text>{TXT_KEY_UNIT_AT_GUN[2]} são, sem surpresa, unidades de artilharia especialmente destinadas a destruir tanques inimigos. Essas armas atendem à necessidade de mobilidade, seja auto impulsionadas ou facilmente carregadas por caminhões ou outro equipamento pesado. Elas atiram projéteis especiais, criados para penetrar a blindagem inimiga. {TXT_KEY_UNIT_AT_GUN[2]} são bastante vulneráveis a ataques de infantaria inimiga e, portanto, devem ser apoiadas por unidades anti-infantaria se o inimigo chegar muito próximo.</Text>
+			<Text>Armas Antitanque são, sem surpresa, unidades de artilharia especialmente destinadas a destruir tanques inimigos. Essas armas atendem à necessidade de mobilidade, seja auto impulsionadas ou facilmente carregadas por caminhões ou outro equipamento pesado. Elas atiram projéteis especiais, criados para penetrar a blindagem inimiga. Armas Antitanque são bastante vulneráveis a ataques de infantaria inimiga e, portanto, devem ser apoiadas por unidades anti-infantaria se o inimigo chegar muito próximo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ARTILLERY_HEADING">
 			<Text>Artilharia</Text>
@@ -3400,7 +3400,7 @@
 			<Text>Um Bombardeiro é uma aeronave projetada para lançar a destruição sobre as tropas, blindados e infraestrutura do inimigo. Bombardeiros geralmente têm um alcance muito longo, o que lhes permite voar em território inimigo e deixar cair as suas mortíferas cargas. Embora eles pudessem possuir metralhadoras ou armas de combate, Bombardeiros são basicamente impotentes contra caças inimigos e exigem uma escolta de caças amigos para protegê-los contra o poder aéreo hostil.[NEWLINE][NEWLINE]Todas as grandes potências utilizaram Bombardeiros na Segunda Guerra Mundial. A "blitz" Alemã procurou destruir indústrias Britânicas (para não mencionar Londres e outras cidades) a partir do ar e os Bombardeiros aliados retribuíram, jogando toneladas de explosivos em cidades, fábricas, ferrovias e outras infraestruturas Alemãs. No Pacífico, Bombardeiros Japoneses atacaram cidades aliadas e instalações militares; o ataque a Pearl Harbor sendo um sucesso notável. À medida que ganharam domínio aéreo, as forças aéreas aliadas fizeram estragos em cidades Japonesas e as suas forças armadas. Bombardeiros (e seus primos, os mísseis balísticos) ainda são as armas mais mortais nos estaleiros modernos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_CARRIER_HEADING">
-			<Text>Porta-Aviões</Text>
+			<Text>Porta-aviões</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_CARRIER_TEXT">
 			<Text>O primeiro voo de uma aeronave de um navio Americano ocorreu em 1910. Enquanto alguns tradicionalistas lutavam contra o desenvolvimento de porta-aviões, afirmando que o encouraçado era e seria sempre a espinha dorsal de uma marinha moderna, porta-aviões estavam em produção nas marinhas em todo o mundo na década de 1920. Em dezembro de 1941, a marinha Japonesa provou a força dos porta-aviões sem sombra de dúvida, destruindo grande parte da frota Americana do Pacífico (incluindo a maioria de seus encouraçado) em um ataque surpresa brilhante a Pearl Harbor. Por um extraordinário golpe de sorte, os porta-aviões norte-americanos não estavam no porto quando o ataque ocorreu e estes foram capazes de retardar o avanço Japonês até que o enorme esforço de produção de porta-aviões dos EUA começou a dar frutos, o que resultou em esmagadora superioridade naval (e aérea) Americana, e uma derrota esmagadora para o Japão.</Text>
@@ -3451,7 +3451,7 @@
 			<Text>Tanque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_TANK_TEXT">
-			<Text>Um Tanque fornece o poder de parada da artilharia com a mobilidade da cavalaria. Os {TXT_KEY_UNIT_TANK[2]} apareceram pela primeira vez no final da Primeira Guerra Mundial, inventados para ultrapassar a superioridade da guerra defensiva da época: com metralhadoras, arame farpado e trincheiras, os ataques de infantaria de massa eram fracassos onerosos, e ataques de cavalaria não eram para qualquer um. Embora mal planejados e atormentados por problemas no motor e tripulantes inexperientes, os primeiros {TXT_KEY_UNIT_TANK[2]} mostraram grande potencial - pelo menos para aqueles que prestavam atenção. Na Segunda Guerra Mundial, os Alemães empregaram o "blitzkrieg" - assaltos-relâmpagos liderados por frotas de {TXT_KEY_UNIT_TANK[2]} - com efeito extraordinário, conquistando a França e levando o exército Britânico diretamente para fora do continente, antes que seus generais conseguissem descobrir uma resposta à nova e surpreendente tática. Embora os {TXT_KEY_UNIT_TANK[2]} permaneçam ainda hoje o componente mais importante da ofensiva de um exército terrestre, eles têm provado ser bastante vulneráveis a uma nova arma ainda mais rápida: o helicóptero.</Text>
+			<Text>Um Tanque fornece o poder de parada da artilharia com a mobilidade da cavalaria. Os Tanques apareceram pela primeira vez no final da Primeira Guerra Mundial, inventados para ultrapassar a superioridade da guerra defensiva da época: com metralhadoras, arame farpado e trincheiras, os ataques de infantaria de massa eram fracassos onerosos, e ataques de cavalaria não eram para qualquer um. Embora mal planejados e atormentados por problemas no motor e tripulantes inexperientes, os primeiros Tanques mostraram grande potencial - pelo menos para aqueles que prestavam atenção. Na Segunda Guerra Mundial, os Alemães empregaram o "blitzkrieg" - assaltos-relâmpagos liderados por frotas de Tanques - com efeito extraordinário, conquistando a França e levando o exército Britânico diretamente para fora do continente, antes que seus generais conseguissem descobrir uma resposta à nova e surpreendente tática. Embora os Tanques permaneçam ainda hoje o componente mais importante da ofensiva de um exército terrestre, eles têm provado ser bastante vulneráveis a uma nova arma ainda mais rápida: o helicóptero.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ZERO_HEADING">
 			<Text>Zero</Text>
@@ -3663,7 +3663,7 @@
 			<Text>Lassa é um das cidades mais altas do mundo, localizada a quase 3.600 metros acima do nível do mar. Lassa literalmente significa "local dos deuses", um nome que substitui Rasa, no início do século XVII (que significava "casa do capricórnio"). A história registrada da cidade começa por volta deste período, quando Songstan Gampo se tornou o líder do Império Tibetano e transferiu a capital para Lassa, em 637 d.C. Gampo logo se converteu ao Budismo (cujos ensinamentos ele aprendeu com suas esposas) e começou a construção de estátuas e templos Budistas. Apesar de o poder político da cidade lentamente ter diminuído pelos séculos (a monarquia foi dissolvida no século IX), Lassa continuou a crescer em importância como centro religioso. Neste período, o primeiro Dalai Lama, o líder espiritual dos Budistas Tibetanos, chegou ao poder, em 1391.[NEWLINE][NEWLINE]Em 1642, o quinto Dalai Lama, Lobsang Gyatso, começou a se investir de verdadeiro poder político, adicionalmente a sua autoridade espiritual, e unificou as soltas tribos Tibetanas em um único país. Lassa foi nomeada a capital espiritual e política do novo país. No período em que o Ocidente começou a enviar exploradores à cidade, no início do século XX, praticamente metade da população de Lassa era de monges praticantes do Budismo.[NEWLINE][NEWLINE]Em 1950, a China invadiu o Tibete e muitas pessoas fugiram da cidade, incluindo o 14º Dalai Lama, e procuraram refúgio em exílio na Índia. O ataque é classificado pelos Chineses como uma "liberação pacífica", mas os Tibetanos, o Congresso dos EUA e outras notáveis figuras políticas e militares o consideraram uma invasão não provocada. Muitos dos monges e monjas que sobraram na cidade se revoltaram e fizeram demonstrações pacíficas contra os opressores Chineses, que impuseram restrições aos monastérios. Programas de reeducação foram instituídos na tentativa de realinhar o Budismo à visão do Comunismo, enquanto era exigido que os protestantes denunciassem o Dalai Lama e a independência do Tibete. Muitos monges e monjas se recusaram a cooperar e foram enviados à prisão; aqueles que escaparam, fugiram para a Índia.[NEWLINE][NEWLINE]A questão da independência Tibetana ainda permanece a principal fonte de controvérsia em Lassa e no resto do mundo, com muitos líderes mundiais ainda condenando o tratamento dos Chineses ao povo Tibetano. Diálogos entre o atual Dalai Lama, em exílio, e o governo Chinês começaram em maio de 2008 para discutir a independência do Tibete e o governo soberano, mas pouca coisa mudou até então.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_LHASA_TITLE">
-			<Text>Lassa</Text>
+			<Text>Lhasa</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -3744,7 +3744,7 @@
 			<Text>O Império Otomano é nomeado por causa de Osman I (1259-1326). Osman foi um príncipe da Bitínia, uma pequena província na Anatólia (Turquia), estrategicamente localizada ribeirinha ao Mar Negro, Bósforo e o Mar de Mármara. Bitínia era até recentemente, uma parte do Sultanato de Rum Seljuk, um império Islâmico que governou grande parte da Anatólia por mais de dois séculos. Como o Sultanato declinou no poder (após as invasões Mongóis), os vizinhos Bizâncios procuraram se expandir em Anatólia. Eles foram totalmente incapazes de unificar a região, e Osman aproveitou a fraqueza Bizantina para se empurrar em direção dos Bizâncios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_TEXT_4">
-			<Text>No século 14, o poder Bizâncio estava enfraquecendo rapidamente. O herdeiro do leste para o Império Romano, o Império Bizâncio chegou a possuir enormes posses na Itália, Europa Oriental, Anatólia, o Oriente Médio e Norte da África, mas por volta de 1300 seu domínio foi reduzido a partes da Grécia, Bálcãs e na Anatólia ocidental. Ao longo do século seguinte, o Império Otomano importunou constantemente no decadente império, primeiro na Anatólia, então nos Bálcãs. Quando os Otomanos capturaram a capital Búlgara de Nicópolis, localizada no estratégico rio Danúbio, o rei Búlgaro apelou para a Europa Cristã por assistência contra a crescente ameaça Muçulmana. Em 1396, um exército de cavaleiros da Hungria, da Borgonha, Veneza, os Cavaleiros da Ordem de Malta e Bulgária se juntaram para derrotar os Otomanos.[NEWLINE][NEWLINE]A Batalha de Nicópolis é frequentemente chamada de "Cruzada de Nicópolis". O número de combatentes envolvidos é desconhecido, com estimativas variando de cerca de 10.000 cavaleiros, homens de infantaria e arqueiros de ambos os lados, até 200.000 em ambos os lados. (Os últimos números são geralmente tomados pelos historiadores modernos como sendo absurdamente altos.) De acordo com historiadores antigos, um lado da batalha era menor em número por pelo menos dois para um, embora eles tendessem a discordar veementemente qual lado seria esse. Em qualquer caso, os cruzados invasores marcharam para o sul da Hungria e sitiaram Nicópolis.[NEWLINE][NEWLINE]De todas as formas, os cruzados sofriam com o comando dividido e o grave excesso de confiança, um problema não era incomum entre os exércitos mistos da época. O cerco foi desleixado e os cruzados não usaram sentinelas. No entanto, um líder da Borgonha, o experiente veterano Enguerrand VII, Senhor de Coucy, desobedeceu ordens e enviou uma força de reconhecimento que encontrou os Otomanos se aproximando, poupando os cruzados de uma surpresa extremamente ruim.[NEWLINE][NEWLINE]Na manhã do dia da batalha, as forças Otomanas, sob o comando do Sultão Bajazeto I, foram reunidas numa colina à beira da cidade de Nicópolis. Os cruzados foram alinhados em oposição aos Muçulmanos, na frente de Nicópolis, de costas para o Danúbio.[NEWLINE][NEWLINE]Um dos líderes Cruzados observou que a primeira linha das tropas Otomanas era de milícia, destreinada e mal equipada, concebidas para enfraquecer a força de um atacante antes de ele encontrasse a infantaria Otomana principal. Ele recomendou que a infantaria liderasse o ataque contra essas tropas e que os cavaleiros cruzados se posicionassem nos flancos, dando apoio à infantaria e envolvendo os perigosos {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} Otomanos (cavalaria). O cavaleiro Francês Philippe d'Eu não gostou deste plano, alegando que era desonroso e exigiu que os cavaleiros tivessem a honra de liderar o ataque contra o inimigo. O plano foi adaptado.[NEWLINE][NEWLINE]Os otomanos tinham colocado um muro de estacas afiadas em suas linhas de frente, destinado a matar cavalos que avançassem, parando uma determinada quantidade de cavalaria. Embora os cavaleiros cruzados tenham esmagado a milícia Otomana, muitos foram derrubados no assalto, e o ataque tornou-se bastante desorganizado. A infantaria Otomana recuou e os cavaleiros Cristãos seguiram triunfantes, sem se reagrupar, acreditando que haviam esmagado o inimigo covarde.[NEWLINE][NEWLINE]No entanto, os Otomanos mantiveram uma força de {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} na reserva, e Bajazeto os libertou neste momento. Uma grande força de cavalaria fresca enfrentou os cavaleiros exaustos e desorganizados. Ao mesmo tempo, outras tropas Otomanas começaram a flanquear as posições Cruzadas expostas. Mal organizada em cada ponto, a força Cruzada entrou em colapso e se rendeu. Muitos dos nobres europeus foram resgatados por uma boa quantia de tesouro, enquanto um monte de soldados comuns foi massacrado, em retaliação ao comportamento europeu semelhante no início da campanha.[NEWLINE][NEWLINE]A captura de Nicópolis garantiu a participação Otomana nos Bálcãs durante algum tempo. Agora tudo o que restava do outrora poderoso Império Bizantino foi a cidade de Constantinopla.</Text>
+			<Text>No século 14, o poder Bizâncio estava enfraquecendo rapidamente. O herdeiro do leste para o Império Romano, o Império Bizâncio chegou a possuir enormes posses na Itália, Europa Oriental, Anatólia, o Oriente Médio e Norte da África, mas por volta de 1300 seu domínio foi reduzido a partes da Grécia, Bálcãs e na Anatólia ocidental. Ao longo do século seguinte, o Império Otomano importunou constantemente no decadente império, primeiro na Anatólia, então nos Bálcãs. Quando os Otomanos capturaram a capital Búlgara de Nicópolis, localizada no estratégico rio Danúbio, o rei Búlgaro apelou para a Europa Cristã por assistência contra a crescente ameaça Muçulmana. Em 1396, um exército de cavaleiros da Hungria, da Borgonha, Veneza, os Cavaleiros da Ordem de Malta e Bulgária se juntaram para derrotar os Otomanos.[NEWLINE][NEWLINE]A Batalha de Nicópolis é frequentemente chamada de "Cruzada de Nicópolis". O número de combatentes envolvidos é desconhecido, com estimativas variando de cerca de 10.000 cavaleiros, homens de infantaria e arqueiros de ambos os lados, até 200.000 em ambos os lados. (Os últimos números são geralmente tomados pelos historiadores modernos como sendo absurdamente altos.) De acordo com historiadores antigos, um lado da batalha era menor em número por pelo menos dois para um, embora eles tendessem a discordar veementemente qual lado seria esse. Em qualquer caso, os cruzados invasores marcharam para o sul da Hungria e sitiaram Nicópolis.[NEWLINE][NEWLINE]De todas as formas, os cruzados sofriam com o comando dividido e o grave excesso de confiança, um problema não era incomum entre os exércitos mistos da época. O cerco foi desleixado e os cruzados não usaram sentinelas. No entanto, um líder da Borgonha, o experiente veterano Enguerrand VII, Senhor de Coucy, desobedeceu ordens e enviou uma força de reconhecimento que encontrou os Otomanos se aproximando, poupando os cruzados de uma surpresa extremamente ruim.[NEWLINE][NEWLINE]Na manhã do dia da batalha, as forças Otomanas, sob o comando do Sultão Bajazeto I, foram reunidas numa colina à beira da cidade de Nicópolis. Os cruzados foram alinhados em oposição aos Muçulmanos, na frente de Nicópolis, de costas para o Danúbio.[NEWLINE][NEWLINE]Um dos líderes Cruzados observou que a primeira linha das tropas Otomanas era de milícia, destreinada e mal equipada, concebidas para enfraquecer a força de um atacante antes de ele encontrasse a infantaria Otomana principal. Ele recomendou que a infantaria liderasse o ataque contra essas tropas e que os cavaleiros cruzados se posicionassem nos flancos, dando apoio à infantaria e envolvendo os perigosos Sipahis Otomanos (cavalaria). O cavaleiro Francês Philippe d'Eu não gostou deste plano, alegando que era desonroso e exigiu que os cavaleiros tivessem a honra de liderar o ataque contra o inimigo. O plano foi adaptado.[NEWLINE][NEWLINE]Os otomanos tinham colocado um muro de estacas afiadas em suas linhas de frente, destinado a matar cavalos que avançassem, parando uma determinada quantidade de cavalaria. Embora os cavaleiros cruzados tenham esmagado a milícia Otomana, muitos foram derrubados no assalto, e o ataque tornou-se bastante desorganizado. A infantaria Otomana recuou e os cavaleiros Cristãos seguiram triunfantes, sem se reagrupar, acreditando que haviam esmagado o inimigo covarde.[NEWLINE][NEWLINE]No entanto, os Otomanos mantiveram uma força de Sipahis na reserva, e Bajazeto os libertou neste momento. Uma grande força de cavalaria fresca enfrentou os cavaleiros exaustos e desorganizados. Ao mesmo tempo, outras tropas Otomanas começaram a flanquear as posições Cruzadas expostas. Mal organizada em cada ponto, a força Cruzada entrou em colapso e se rendeu. Muitos dos nobres europeus foram resgatados por uma boa quantia de tesouro, enquanto um monte de soldados comuns foi massacrado, em retaliação ao comportamento europeu semelhante no início da campanha.[NEWLINE][NEWLINE]A captura de Nicópolis garantiu a participação Otomana nos Bálcãs durante algum tempo. Agora tudo o que restava do outrora poderoso Império Bizantino foi a cidade de Constantinopla.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_TEXT_5">
 			<Text>Em 1399, o líder Mongol Tamerlão (Timur) declarou guerra ao Império Otomano, interrompendo a campanha europeia de Bajazeto I. Tamerlão era descendente de conquistadores Mongóis que lideraram as suas tropas em triunfo através da Pérsia, Índia, Ásia central e Anatólia. Em 1402, as tropas de Bajazeto conheceram o exército de Tamerlão na batalha de Ancara.[NEWLINE][NEWLINE]Mais uma vez é quase impossível determinar o número de forças envolvidas na batalha, com números que variam de um milhão de cada lado para tão poucos como 140 mil para Tamerlão e 80.000 para Bajazeto. Seja qual for o número, é geralmente aceito que o exército de Tamerlão possuía menor número que Bajazeto.[NEWLINE][NEWLINE]A batalha começou com um grande ataque dos Otomanos, que foi interrompido por precisas flechas de fogo dos arqueiros montados inimigos, que causaram danos significativos os atacantes. Enquanto a batalha progrediu, uma parcela significativa das tropas de Bajazeto desertou e se juntou ao exército de Tamerlão. Então, desfalcado e exausto, o exército de Bajazeto foi derrotado e ele foi capturado pouco tempo depois, morrendo no cativeiro. Tendo assegurado o seu flanco contra os Otomanos, Tamerlão deixou Anatólia e retornou à Índia para continuar a expansão do seu próprio império.[NEWLINE][NEWLINE]Após a morte de Bajazeto, a guerra civil eclodiu no Império, à medida que seus quatro filhos lutaram pela coroa. O chamado "Interregno Otomano" durou cerca de 11 anos, até 1413, quando Mehmed Celebi, o último irmão sobrevivente, assumiu o título de sultão.[NEWLINE][NEWLINE]O Sultão Mehmed I e seu filho Murad II passaram anos restaurando o poder central no Império, reparando os danos causados durante o Interregno.</Text>
@@ -3951,7 +3951,7 @@
 			<Text>Religião Organizada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_PATRONAGE_HEADING">
-			<Text>Patronato</Text>
+			<Text>Mecenato</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_PHILANTHROPY_HEADING">
 			<Text>Filantropia</Text>
@@ -5103,7 +5103,7 @@
 			<Text>Penalidade ofensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_RIVERS_TITLE4">
-			<Text>Efeito na Movimentação</Text>
+			<Text>Efeito no Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_SNOW">
 			<Text>Neve</Text>
@@ -5129,7 +5129,7 @@
 			<Text>Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_COAST_TITLE2">
-			<Text>Movimentação</Text>
+			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_COAST_TITLE3">
 			<Text>Características</Text>
@@ -5153,7 +5153,7 @@
 			<Text>Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TITLE2">
-			<Text>Movimentação</Text>
+			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TITLE3">
 			<Text>Características</Text>
@@ -5177,7 +5177,7 @@
 			<Text>Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TITLE2">
-			<Text>Movimentação</Text>
+			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TITLE3">
 			<Text>Características</Text>
@@ -5204,7 +5204,7 @@
 			<Text>Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_OCEAN_TITLE2">
-			<Text>Movimentação</Text>
+			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_OCEAN_TITLE3">
 			<Text>Características</Text>
@@ -5228,7 +5228,7 @@
 			<Text>Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TITLE2">
-			<Text>Movimentação</Text>
+			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TITLE3">
 			<Text>Características</Text>
@@ -5237,7 +5237,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TITLE5">
-			<Text>Modificadores de Combate</Text>
+			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW">
 			<Text>Neve</Text>
@@ -5261,7 +5261,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TITLE5">
-			<Text>Modificadores de Combate</Text>
+			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA">
 			<Text>Tundra</Text>
@@ -5282,7 +5282,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA_TITLE5">
-			<Text>Modificadores de Combate</Text>
+			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TYRE_TEXT">
 			<Text>Tiro é uma antiga cidade Fenícia localizada na porção Sul do Líbano, cerca de 20 quilômetros ao Norte da fronteira Libanesa com Israel. Tiro foi construída no continente e próxima a uma ilha costeira. Fundada há aproximadamente 2700 a.C. por colonizadores da cidade de Sídon, a cidade cresceu rapidamente para disputar e, eventualmente, superar sua cidade irmã, como o centro mercantil e da pesca da Fenícia. No século IX a.C., colonizadores de Tiro fundaram a cidade de Cartago, no Norte de África.[NEWLINE][NEWLINE]Como Sídon, Tiro é frequentemente mencionada na Bíblia. As relações entre Israel e Tiro foram, em geral, cordiais; na verdade, foi Hirão, rei de Tiro, quem forneceu os materiais de construção para o Templo de Salomão, em Jerusalém.[NEWLINE][NEWLINE]Por causa de sua riqueza e localização estratégica, Tiro foi alvo de repetidos ataques por todos os povos que se firmaram na região. Nos séculos VIII e VII a.C., ela estava sobre o domínio Assírio. No século VI, resistiu a um longo cerco do rei Nabucodonosor II da Babilônia, mas foi capturada logo depois pelos Persas. Em seguida, no terceiro século a.C., Alexandre da Macedônia cercou a cidade com o seu exército.[NEWLINE][NEWLINE]O cerco de Alexandre a Tiro durou cerca de sete meses. Para derrotar os defensores da cidade, Alexandre destruiu completamente a cidade continental e usou o entulho para a construção de uma passagem para a ilha. Depois de capturar a cidade, o Grande Alexandre mostrou o seu apreço pela coragem dos cidadãos, matando 10.000 deles e vendendo 30.000 outros como escravos. Embora tenha revivido um pouco mais tarde, sob o governo Egípcio e Romano, Tiro nunca recuperou totalmente a sua exuberância de antes de Alexandre.[NEWLINE][NEWLINE]Hoje, Tiro é uma cidade de aproximadamente 120.000 habitantes. Devido a sua proximidade com Israel, tende a sofrer com a violência ao longo da fronteira libanesa-israelense, o que parece acontecer com muita frequência, com bombas, balas e mísseis de todos os lados fazendo as antigas ruínas ficarem mais arruinadas. Ainda assim, Tiro sobreviveu a coisas piores do que isso - muito piores - e, com sorte, ela viverá para ver a paz e a prosperidade mais uma vez.</Text>
@@ -6499,13 +6499,13 @@
 			<Text>Cavaleiro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_KNIGHT_TEXT">
-			<Text>Quase sempre constituídos da nobreza de uma nação - as únicas pessoas que podiam arcar com os equipamentos, cavalos e treinamento extensivo requerido - os {TXT_KEY_UNIT_KNIGHT[2]} eram a cavalaria pesada do exército medieval. Durante grande parte da Idade Média {TXT_KEY_UNIT_KNIGHT[2]} dominaram o campo de batalha. Sua armadura superior dava uma boa proteção contra flechas e lanças e sua grande mobilidade fez deles capazes de explorar a fraqueza de um inimigo em qualquer lugar no campo de batalha. Apenas alguém com muita coragem encarava um Cavaleiro. Uma parede de {TXT_KEY_UNIT_PIKEMAN[2]} pode ser uma barreira para os {TXT_KEY_UNIT_KNIGHT[2]}, mas apenas se eles tivessem a disciplina e a coragem para ficarem parados. Se eles vacilassem, estariam mortos.</Text>
+			<Text>Quase sempre constituídos da nobreza de uma nação - as únicas pessoas que podiam arcar com os equipamentos, cavalos e treinamento extensivo requerido - os Cavaleiros eram a cavalaria pesada do exército medieval. Durante grande parte da Idade Média Cavaleiros dominaram o campo de batalha. Sua armadura superior dava uma boa proteção contra flechas e lanças e sua grande mobilidade fez deles capazes de explorar a fraqueza de um inimigo em qualquer lugar no campo de batalha. Apenas alguém com muita coragem encarava um Cavaleiro. Uma parede de Piqueiros pode ser uma barreira para os Cavaleiros, mas apenas se eles tivessem a disciplina e a coragem para ficarem parados. Se eles vacilassem, estariam mortos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LANDSKNECHT_HEADING">
 			<Text>Lansquenete (Alemanha)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LANDSKNECHT_TEXT">
-			<Text>Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} eram {TXT_KEY_UNIT_PIKEMAN[2]} mercenários Alemães do século XVI. Criados em imitação aos lendários {TXT_KEY_UNIT_PIKEMAN[2]} mercenários Suíços, os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} acabariam por superá-los como a melhor infantaria de mercenários disponíveis na Europa, lutando em quase todas as grandes batalhas no século XVI - muitas vezes em ambos os lados. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} batalhavam geralmente a uma lança de 20 pés de comprimento. Alguns também carregavam enormes espadas de duas mãos ou alabardas, que foram usadas para cortar as cabeças das lanças de seus oponentes.</Text>
+			<Text>Os Lansquenetes eram Piqueiros mercenários Alemães do século XVI. Criados em imitação aos lendários Piqueiros mercenários Suíços, os Lansquenetes acabariam por superá-los como a melhor infantaria de mercenários disponíveis na Europa, lutando em quase todas as grandes batalhas no século XVI - muitas vezes em ambos os lados. Os Lansquenetes batalhavam geralmente a uma lança de 20 pés de comprimento. Alguns também carregavam enormes espadas de duas mãos ou alabardas, que foram usadas para cortar as cabeças das lanças de seus oponentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGBOWMAN_HEADING">
 			<Text>Arqueiro de Arco Longo (Inglaterra)</Text>
@@ -6517,7 +6517,7 @@
 			<Text>Grande Espadachim (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGSWORDSMAN_TEXT">
-			<Text>A espada longa era a arma mais versátil do campo de batalha Medieval/Renascentista. Era mais leve e mais fácil de transportar que um pique e ela poderia ser usada com uma ou duas mãos, tornando possível para o espadachim também carregar um escudo. Em ataques corpo a corpo contra os {TXT_KEY_UNIT_PIKEMAN[2]}, os {TXT_KEY_UNIT_LONGSWORDSMAN[2]} estavam em desvantagem significativa, sendo vítimas das armas de maior alcance. No entanto, as unidades de espada longa eram mais rápidas e mais manobráveis que {TXT_KEY_UNIT_PIKEMAN[2]} - e se eles conseguissem chegar aos seus oponentes pelos flancos, os {TXT_KEY_UNIT_PIKEMAN[2]} estariam perdidos.</Text>
+			<Text>A espada longa era a arma mais versátil do campo de batalha Medieval/Renascentista. Era mais leve e mais fácil de transportar que um pique e ela poderia ser usada com uma ou duas mãos, tornando possível para o espadachim também carregar um escudo. Em ataques corpo a corpo contra os Piqueiros, os Grandes Espadachins estavam em desvantagem significativa, sendo vítimas das armas de maior alcance. No entanto, as unidades de espada longa eram mais rápidas e mais manobráveis que Piqueiros - e se eles conseguissem chegar aos seus oponentes pelos flancos, os Piqueiros estariam perdidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MINUTEMAN_HEADING">
 			<Text>Miliciano (Estados Unidos)</Text>
@@ -6541,7 +6541,7 @@
 			<Text>Cavalaria Mandekalu (Songai)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_TEXT">
-			<Text>Como seus equivalentes do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos {TXT_KEY_UNIT_KNIGHT[2]} europeus. Como os europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários europeus.</Text>
+			<Text>Como seus equivalentes do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos Cavaleiros europeus. Como os europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários europeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_PIKEMAN_HEADING">
 			<Text>Piqueiro</Text>
@@ -6649,13 +6649,13 @@
 			<Text>Cavalaria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CAVALRY_TEXT">
-			<Text>No final do século IX, cavaleiros europeus e americanos estavam armados com rifles de repetição de pequeno porte, armas confiáveis, carregando 5-15 projéteis que eram precisos até 500 metros, bem como pistolas e espadas. Por seu equipamento ser muito mais leve que os pesados {TXT_KEY_UNIT_LANCER[2]} e {TXT_KEY_UNIT_KNIGHT[2]}, eles foram muito mais rápido e poderia ir mais longe do que seus antecessores. Enquanto a carga da cavalaria ainda poderia ocorrer sob condições muito favoráveis, a maior precisão da infantaria e a taxa de disparo crescente fizeram as manobras desta unidade extremamente perigosas. Ao se deparar com unidades de infantaria, a Cavalaria geralmente desmonta para lutar, com um soldado segurando quatro cavalos a distância enquanto seus três companheiros trocam tiros com o inimigo.</Text>
+			<Text>No final do século IX, cavaleiros europeus e americanos estavam armados com rifles de repetição de pequeno porte, armas confiáveis, carregando 5-15 projéteis que eram precisos até 500 metros, bem como pistolas e espadas. Por seu equipamento ser muito mais leve que os pesados Lanceiros Montados e Cavaleiros, eles foram muito mais rápido e poderia ir mais longe do que seus antecessores. Enquanto a carga da cavalaria ainda poderia ocorrer sob condições muito favoráveis, a maior precisão da infantaria e a taxa de disparo crescente fizeram as manobras desta unidade extremamente perigosas. Ao se deparar com unidades de infantaria, a Cavalaria geralmente desmonta para lutar, com um soldado segurando quatro cavalos a distância enquanto seus três companheiros trocam tiros com o inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COSSACK_HEADING">
 			<Text>Cossaco (Rússia)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COSSACK_TEXT">
-			<Text>Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} eram comunidades militares que viviam nas florestas da Ucrânia e da Rússia. Originalmente, o termo se referia especificamente à tribo Tártara, mas até o final do século XV era também usado para se referir a um número de camponeses que haviam fugido da servidão na Polônia, Lituânia e Moscou e estabelecido casas em estado selvagem. Alguns dos maiores cavaleiros naturais desde os Mongóis, os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} serviram no exército Russo em troca de privilégios especiais para si e para suas comunidades. Os militares Russos empregaram a cavalaria Cossaca em todos os seus principais conflitos externos e internos até o éculo XX, e as unidades de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} lutaram em ambos os lados durante a Guerra Civil Russa. Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} foram todos eliminados, mas sob o Stalinismo, no entanto, alguns sobreviventes estão tentando recuperar o seu patrimônio na sequência do colapso da União Soviética.</Text>
+			<Text>Os Cossacos eram comunidades militares que viviam nas florestas da Ucrânia e da Rússia. Originalmente, o termo se referia especificamente à tribo Tártara, mas até o final do século XV era também usado para se referir a um número de camponeses que haviam fugido da servidão na Polônia, Lituânia e Moscou e estabelecido casas em estado selvagem. Alguns dos maiores cavaleiros naturais desde os Mongóis, os Cossacos serviram no exército Russo em troca de privilégios especiais para si e para suas comunidades. Os militares Russos empregaram a cavalaria Cossaca em todos os seus principais conflitos externos e internos até o éculo XX, e as unidades de Cossacos lutaram em ambos os lados durante a Guerra Civil Russa. Os Cossacos foram todos eliminados, mas sob o Stalinismo, no entanto, alguns sobreviventes estão tentando recuperar o seu patrimônio na sequência do colapso da União Soviética.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FRIGATE_HEADING">
 			<Text>Fragata</Text>
@@ -6673,7 +6673,7 @@
 			<Text>Lanceiro Montado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_LANCER_TEXT">
-			<Text>{TXT_KEY_UNIT_LANCER[2]} foram os cavaleiros da Renascença. Em uma época de crescente utilização de canhões e outras armas de pólvora, velocidade baseada em manobrabilidade estava cada vez mais inútil contra as armas de projéteis modernos, de modo que os {TXT_KEY_UNIT_LANCER[2]} abandonaram a maior parte de sua armadura de chapas grossas de seus antecessores cavaleiros, mantendo apenas o metal peitoral. Mesmo com armas melhoradas, a lança se tornou uma arma terrivelmente eficaz nas mãos dos cavaleiros treinados. Tão tarde quanto as Guerras Napoleônicas, os Franceses acreditavam que o Lanceiro Montado era uma arma de cavalaria superior à espada. No século IX os dois seriam suplantados pela espingarda a carabina.</Text>
+			<Text>Lanceiros Montados foram os cavaleiros da Renascença. Em uma época de crescente utilização de canhões e outras armas de pólvora, velocidade baseada em manobrabilidade estava cada vez mais inútil contra as armas de projéteis modernos, de modo que os Lanceiros Montados abandonaram a maior parte de sua armadura de chapas grossas de seus antecessores cavaleiros, mantendo apenas o metal peitoral. Mesmo com armas melhoradas, a lança se tornou uma arma terrivelmente eficaz nas mãos dos cavaleiros treinados. Tão tarde quanto as Guerras Napoleônicas, os Franceses acreditavam que o Lanceiro Montado era uma arma de cavalaria superior à espada. No século IX os dois seriam suplantados pela espingarda a carabina.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_RIFLEMEN_HEADING">
 			<Text>Fuzileiros</Text>
@@ -6685,13 +6685,13 @@
 			<Text>Navio de Linha (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SHIPOFTHELINE_TEXT">
-			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} são as maiores e mais poderosas embarcações à vela já construídas. Eles formaram a espinha dorsal das maiores marinhas da Europa dos séculos XVII ao XIX. {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} foram nomeados em razão da formação clássica em que esses navios lutavam. Em batalha, navios de cada lado abordariam o inimigo em uma linha e, à medida que os navios adversários passavam, cada linha lançaria um trovejante de fogo de canhão, fazendo horríveis danos às embarcações e para aqueles a bordo delas. A vitória costumava ir para o lado com os maiores canhões e marinheiros mais bem treinados. Os Ingleses eram mestres nesta forma de guerra e seus navios de linha dominaram os oceanos do mundo por mais de um século.</Text>
+			<Text>Navios de Linha são as maiores e mais poderosas embarcações à vela já construídas. Eles formaram a espinha dorsal das maiores marinhas da Europa dos séculos XVII ao XIX. Navios de Linha foram nomeados em razão da formação clássica em que esses navios lutavam. Em batalha, navios de cada lado abordariam o inimigo em uma linha e, à medida que os navios adversários passavam, cada linha lançaria um trovejante de fogo de canhão, fazendo horríveis danos às embarcações e para aqueles a bordo delas. A vitória costumava ir para o lado com os maiores canhões e marinheiros mais bem treinados. Os Ingleses eram mestres nesta forma de guerra e seus navios de linha dominaram os oceanos do mundo por mais de um século.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SIPAHI_HEADING">
 			<Text>Sipahi (Otomanos)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SIPAHI_TEXT">
-			<Text>Os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} eram os {TXT_KEY_UNIT_LANCER[2]} do Império Otomano. Criados durante o reinado de Murad I (governou de 1362-1389), os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} foram retirados da aristocracia Turca. Eles eram altamente motivados e combatentes leais, além de guarda-costas pessoais do sultão. Os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} foram grandes rivais dos Janízaros (outra unidade Otomano especial), que foram retirados de soldados Turcos e não Turcos. Na verdade, os {TXT_KEY_UNIT_OTTOMAN_SIPAHI[2]} entusiasticamente assistiram à dissolução violenta dos Janízaros, em 1826, após uma revolta mal sucedida.</Text>
+			<Text>Os Sipahis eram os Lanceiros Montados do Império Otomano. Criados durante o reinado de Murad I (governou de 1362-1389), os Sipahis foram retirados da aristocracia Turca. Eles eram altamente motivados e combatentes leais, além de guarda-costas pessoais do sultão. Os Sipahis foram grandes rivais dos Janízaros (outra unidade Otomano especial), que foram retirados de soldados Turcos e não Turcos. Na verdade, os Sipahis entusiasticamente assistiram à dissolução violenta dos Janízaros, em 1826, após uma revolta mal sucedida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ACQUIRINGXP_ADV_QUEST">
 			<Text>Como a experiência é acumulada durante o combate?</Text>
@@ -7024,7 +7024,7 @@
 			<Text>Como termina o ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_BODY">
-			<Text>Quando duas unidades entram em combate corpo a corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo a corpo quando elas são atacadas, enquanto ocupam florestas ou montanhas ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica ({TXT_KEY_UNIT_SPEARMAN[2]} ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo a corpo durante o seu turno.</Text>
+			<Text>Quando duas unidades entram em combate corpo a corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo a corpo quando elas são atacadas, enquanto ocupam florestas ou montanhas ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica (Lanceiros ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo a corpo durante o seu turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_TITLE">
 			<Text>Terminando o ataque corpo a corpo</Text>
@@ -7060,7 +7060,7 @@
 			<Text>Como funciona o combate naval?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Tal como acontece com unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e todas as unidades terrestres "embarcadas" são destruídas quando atacadas por Bárbaros e outras Civilizações ou Cidades-estados.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, o Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
+			<Text>Tal como acontece com unidades terrestres, há unidades navais não militares. Barcos de Serviço e todas as unidades terrestres "embarcadas" são destruídas quando atacadas por Bárbaros e outras Civilizações ou Cidades-estados.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, o Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE">
 			<Text>Combate naval</Text>
@@ -7177,7 +7177,7 @@
 			<Text>Quais unidades podem lutar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_BODY">
-			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonos e as Grandes Personalidades não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonos são capturados (Colonos capturados viram Trabalhadores) e as Grandes Personalidades e {TXT_KEY_UNIT_WORK_BOAT[2]} são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
+			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonos e as Grandes Personalidades não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonos são capturados (Colonos capturados viram Trabalhadores) e as Grandes Personalidades e Barcos de Serviço são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_TITLE">
 			<Text>Unidades que podem atacar</Text>
@@ -7543,22 +7543,22 @@
 			<Text>O gelo é intransitável, exceto para unidades aéreas e submarinos. Ele não oferece nada às cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_ADV_QUEST">
-			<Text>O que é a neblina de guerra?</Text>
+			<Text>O que é a névoa de guerra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_FOG_ADV_QUEST">
-			<Text>O que quer dizer quando um espaço está sobre a neblina de guerra?</Text>
+			<Text>O que quer dizer quando um espaço está sobre a névoa de guerra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_FOG_HEADING3_BODY">
 			<Text>Espaços sob as nuvens das neblinas de guerra são totalmente desconhecidas para você. Você não sabe que tipo de terreno eles são, o que os ocupa, ou nada mais. Tudo que você sabe é que eles podem estar cheios de ouro ou patrulhados por dinossauros ninjas. É melhor você conseguir alguém para explorá-los o mais rápido possível!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_FOG_HEADING3_TITLE">
-			<Text>Neblina de Guerra num espaço</Text>
+			<Text>Névoa de Guerra num espaço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_HEADING1_BODY">
-			<Text>O mundo é um grande lugar, e você nem sempre sabe o que está acontecendo em todo lugar. Civilizações antigas certamente não tinham ideia de como eram as pessoas do outro lado das montanhas até que eles enviassem exploradores; a menos que eles enviassem patrulhas, eles poderiam não saber que um inimigo estava reunindo um exército gigante justamente fora de suas próprias fronteiras. Em Civilization V, até que você explore o mundo, ele estará escondido na "Neblina de Guerra". [NEWLINEW][NEWLINE]A neblina de guerra é representada pelas nuvens brancas que cobrem boa parte do mundo ao começo do jogo. Conforme você move as unidades, a neblina de guerra irá recuando, revelando mais do mundo. Uma vez que você descobriu um espaço da neblina de guerra, ela não volta. Entretanto, se uma unidade se move e você não mais pode ver um espaço, você não saberá de nada que está acontecendo lá.</Text>
+			<Text>O mundo é um grande lugar, e você nem sempre sabe o que está acontecendo em todo lugar. Civilizações antigas certamente não tinham ideia de como eram as pessoas do outro lado das montanhas até que eles enviassem exploradores; a menos que eles enviassem patrulhas, eles poderiam não saber que um inimigo estava reunindo um exército gigante justamente fora de suas próprias fronteiras. Em Civilization V, até que você explore o mundo, ele estará escondido na "Névoa de Guerra". [NEWLINEW][NEWLINE]A névoa de guerra é representada pelas nuvens brancas que cobrem boa parte do mundo ao começo do jogo. Conforme você move as unidades, a névoa de guerra irá recuando, revelando mais do mundo. Uma vez que você descobriu um espaço da névoa de guerra, ela não volta. Entretanto, se uma unidade se move e você não mais pode ver um espaço, você não saberá de nada que está acontecendo lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_HEADING1_TITLE">
-			<Text>Neblina de Guerra</Text>
+			<Text>Névoa de Guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_INDIRECTFIRE_ADV_QUEST">
 			<Text>O que é fogo indireto?</Text>
@@ -7582,7 +7582,7 @@
 			<Text>O que quer dizer quando um espaço é revelado?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_REVEALED_HEADING3_BODY">
-			<Text>Se você limpou a neblina de guerra de um hexágono, mas não pode vê-lo no momento (por exemplo, porque a unidade de exploração se moveu), o espaço é levemente escurecido. Você ainda pode ver o terreno no hexágono, mas você não verá nenhuma unidade lá. Você não poderá ver nenhuma melhoria, cidades recém-construídas, e assim por diante. Basicamente, sua informação sobre aquele espaço pode bem ser desatualizada.</Text>
+			<Text>Se você limpou a névoa de guerra de um hexágono, mas não pode vê-lo no momento (por exemplo, porque a unidade de exploração se moveu), o espaço é levemente escurecido. Você ainda pode ver o terreno no hexágono, mas você não verá nenhuma unidade lá. Você não poderá ver nenhuma melhoria, cidades recém-construídas, e assim por diante. Basicamente, sua informação sobre aquele espaço pode bem ser desatualizada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_REVEALED_HEADING3_TITLE">
 			<Text>Revelado</Text>
@@ -7600,7 +7600,7 @@
 			<Text>Quais são os estados de visibilidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_THREESTATES_HEADING2_BODY">
-			<Text>Os três estados de visibilidade de espaços são: visível, revelado e neblina de guerra.</Text>
+			<Text>Os três estados de visibilidade de espaços são: visível, revelado e névoa de guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_THREESTATES_HEADING2_TITLE">
 			<Text>Os Três Estados de Visibilidade</Text>
@@ -8572,7 +8572,7 @@
 			<Text>{TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PATRONAGE_TEXT">
-			<Text>Patronagem é a política onde os ricos e poderosos - geralmente a nobreza - apoiam aos artistas talentosos em uma sociedade. Em muitas das sociedades antigas, a riqueza concentrou-se em alguns poucos indivíduos: a Família Real, por exemplo, ou os príncipes mercantes. Pintores, escultores, músicos e outros artistas talentosos trabalharam para a elite, que eram os únicos que tinham recursos para pagá-los. Embora talvez injusto para com os plebeus, este sistema produziu obras brilhantes pelas mãos de nomes como Leonardo da Vinci, Ben Johnson e Mozart. Este sistema está desfrutando de uma espécie de renascimento atualmente, com o papel de patrono sendo tomado por mega corporações, ao invés de indivíduos.</Text>
+			<Text>Mecenato é a política onde os ricos e poderosos - geralmente a nobreza - apoiam aos artistas talentosos em uma sociedade. Em muitas das sociedades antigas, a riqueza concentrou-se em alguns poucos indivíduos: a Família Real, por exemplo, ou os príncipes mercantes. Pintores, escultores, músicos e outros artistas talentosos trabalharam para a elite, que eram os únicos que tinham recursos para pagá-los. Embora talvez injusto para com os plebeus, este sistema produziu obras brilhantes pelas mãos de nomes como Leonardo da Vinci, Ben Johnson e Mozart. Este sistema está desfrutando de uma espécie de renascimento atualmente, com o papel de patrono sendo tomado por mega corporações, ao invés de indivíduos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PHILANTHROPY_TEXT">
 			<Text>Filantropia é a política onde os cidadãos mais ricos de uma nação dão uma parte de sua riqueza de volta para as outras pessoas, muitas vezes na forma de bibliotecas, museus, hospitais ou até bolsas de estudo. Ao contrário do Mecenato, onde o cidadão está pagando para a criação de arte para si mesmo e outros de sua classe social, a filantropia tende a beneficiar os membros mais pobres da sociedade. O Escocês-Americano Andrew Carnegie foi um dos grandes filantropos da história. Durante a maior parte de sua vida Carnegie foi um empresário absolutamente cruel, criando a US Steel Company (Companhia de Aço dos EUA) e gerando a segunda maior fortuna da história, boa parte dela sobre as costas dos homens que escravizou em suas minas e fundições. Após vender seus negócios em 1901, Carnegie dedicou os últimos 19 anos de sua vida à construção de bibliotecas em cidades pobres, fornecendo financiamento para cerca de 3.000 delas nos EUA, Canadá, Reino Unido, Irlanda, Austrália, Nova Zelândia e alguns outros países por todo o mundo.</Text>
@@ -8701,7 +8701,7 @@
 			<Text>Recursos bônus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_BODY">
-			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Trigo (Fazenda)</Text>
+			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe (Barcos Pesqueiros)[NEWLINE]Trigo (Fazenda)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_TITLE">
 			<Text>Bônus (Melhoria Necessária)</Text>
@@ -8734,7 +8734,7 @@
 			<Text>Recursos de luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_BODY">
-			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Pedreira)[NEWLINE]Pérolas ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias ({TXT_KEY_IMPROVEMENT_FISHING_BOATS}[2])[NEWLINE]Vinho (Plantação)</Text>
+			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Pedreira)[NEWLINE]Pérolas (Barcos Pesqueiros)[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias (Barco Pesqueiro[2])[NEWLINE]Vinho (Plantação)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_TITLE">
 			<Text>Luxos (Melhoria Necessária)</Text>
@@ -8749,7 +8749,7 @@
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio (Mina/Eletricidade)[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/Domesticação de Animais)[NEWLINE]Ferro (Mina/Ferro)[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/Biologia)[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
+			<Text>Alumínio (Mina/Eletricidade)[NEWLINE]Carvão (Mina/Teoria Científica)[NEWLINE]Cavalos (Pasto/Domesticação de Animais)[NEWLINE]Ferro (Mina/Ferro)[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/Biologia)[NEWLINE]Urânio (Mina/Teoria Atômica)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -8899,13 +8899,13 @@
 			<Text>Ordem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_PATRONAGE_ADV_QUEST">
-			<Text>Como é o ramo político Patronagem?</Text>
+			<Text>Como é o ramo político Mecenato?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_PATRONAGE_HEADING3_BODY">
-			<Text>Patronagem aumenta os benefícios de uma amizade com Cidades-Estado. Influência com Cidades-Estado diminui 25% mais lento que o normal. Patronagem fica disponível para exploração assim que você entrar na Era Medieval.</Text>
+			<Text>Mecenato aumenta os benefícios de uma amizade com Cidades-Estado. Influência com Cidades-Estado diminui 25% mais lento que o normal. Mecenato fica disponível para exploração assim que você entrar na Era Medieval.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_PATRONAGE_HEADING3_TITLE">
-			<Text>Patronagem</Text>
+			<Text>Mecenato</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_PIETY_ADV_QUEST">
 			<Text>Como é o ramo político Piedade?</Text>
@@ -9100,7 +9100,7 @@
 			<Text>O que são as Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_BODY">
-			<Text>Existem cinco tipos de Grande Personalidade: grandes artistas, grandes engenheiros, grandes mercadores, grandes cientistas e grandes generais. Os quatro primeiros tipos são bastante semelhantes em termos de funcionalidade, enquanto que grandes generais são diferentes: eles são gerados de forma diferente e têm efeitos diferentes sobre o jogo. Grandes Generais serão discutidos em detalhes abaixo; Mas antes, vamos examinar os outros quatro tipos de Grandes Personalidades.</Text>
+			<Text>Existem cinco tipos de Grandes Personalidades: grandes artistas, grandes engenheiros, grandes mercadores, grandes cientistas e grandes generais. Os quatro primeiros tipos são bastante semelhantes em termos de funcionalidade, enquanto que grandes generais são diferentes: eles são gerados de forma diferente e têm efeitos diferentes sobre o jogo. Grandes Generais serão discutidos em detalhes abaixo; Mas antes, vamos examinar os outros quatro tipos de Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_TITLE">
 			<Text>Grandes Personalidades</Text>
@@ -9148,13 +9148,13 @@
 			<Text>Hab. Especial: Tecnologia Grátis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_ADV_QUEST">
-			<Text>O que a melhoria especial {TXT_KEY_IMPROVEMENT_MANUFACTORY} faz?</Text>
+			<Text>O que a melhoria especial Manufatura faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_HEADING4_BODY">
-			<Text>Você pode consumir um Engenheiro para criar uma {TXT_KEY_IMPROVEMENT_MANUFACTORY}. Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} fornece grande quantidade de produção (martelos) para a cidade, se forem trabalhados.</Text>
+			<Text>Você pode consumir um Engenheiro para criar uma Manufatura. Uma Manufatura fornece grande quantidade de produção (martelos) para a cidade, se forem trabalhados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_HEADING4_TITLE">
-			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
+			<Text>Melhoria Especial: Manufatura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MERCHANT_ADV_QUEST">
 			<Text>O que o especialista Mercador faz?</Text>
@@ -9406,7 +9406,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Por todos os lados o trabalho dos químicos melhorou a situação da nossa civilização e aumentou a capacidade produtiva da nação."[NEWLINE][TAB][TAB] - Calvin Coolidge[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_DESC">
-			<Text>Cavalaria descreve o comportamento honrado dos "{TXT_KEY_UNIT_KNIGHT[2]}" - os nobres armados de uma cultura. É um parente rude do "Bushido" (caminho do guerreiro), o código de conduta dos samurais. O código da cavalaria teve seu auge no século XII, alimentado pelas Cruzadas, quando os templários acreditavam que estavam fazendo o trabalho de Deus ao castigar os incrédulos no Oriente Médio. Para ganhar as bênçãos de Deus, um templário deveria agir de maneira divina; comportamento não honroso resultaria em derrota, morte ou condenação. Os cavaleiros Muslim, opositores dos Cristãos, tinham códigos parecidos e, de certo modo, mais "civilizados".[NEWLINE][NEWLINE]Algum tipo de código de cavalaria é crucial em uma civilização onde uma classe privilegiada possui acesso a armas que as classes menores não têm. De outro modo, as pessoas armadas poderiam controlar com muita força as classes mais baixas, resultando em opressão, agitação civil e, potencialmente, uma revolução devastadora.</Text>
+			<Text>Cavalaria descreve o comportamento honrado dos "Cavaleiros" - os nobres armados de uma cultura. É um parente rude do "Bushido" (caminho do guerreiro), o código de conduta dos samurais. O código da cavalaria teve seu auge no século XII, alimentado pelas Cruzadas, quando os templários acreditavam que estavam fazendo o trabalho de Deus ao castigar os incrédulos no Oriente Médio. Para ganhar as bênçãos de Deus, um templário deveria agir de maneira divina; comportamento não honroso resultaria em derrota, morte ou condenação. Os cavaleiros Muslim, opositores dos Cristãos, tinham códigos parecidos e, de certo modo, mais "civilizados".[NEWLINE][NEWLINE]Algum tipo de código de cavalaria é crucial em uma civilização onde uma classe privilegiada possui acesso a armas que as classes menores não têm. De outro modo, as pessoas armadas poderiam controlar com muita força as classes mais baixas, resultando em opressão, agitação civil e, potencialmente, uma revolução devastadora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH] Defesa de suas cidades.</Text>
@@ -9808,7 +9808,7 @@
 			<Text>Física de Partículas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PATRONAGE_DESC">
-			<Text>Patrocínio, ou mais formalmente, "patronagem das artes", acontece em civilizações ricas, onde os administradores e cidadãos da elite são ambos prósperos e dispostos a gastar uma porção de suas riquezas em aventuras culturais e artísticas. Através da história, artistas (músicos, pintores, escultores, poetas e atores) eram funcionários, quando não propriedades, da nobreza. Os ricos encomendavam o trabalho e os artistas o faziam. Não havia uma "Orquestra Sinfônica de Londres", embora o Rei da Inglaterra pudesse ter uma em sua corte. O compositor da corte real poderia escrever trabalhos para aquela orquestra; se o Rei não gostasse da música dele, ele poderia ser trocado por um que soubesse escrever músicas ao gosto de Vossa Majestade.[NEWLINE][NEWLINE]Na Europa, o sistema de patrocínio alcançou seu auge na Renascença, particularmente na Itália. Cidades como Veneza, Milão e Roma estavam nadando em ouro e as grandes famílias ricas da época competiam entre si, com grande entusiasmo, para adornarem suas majestosas casas com as mais belas pinturas, estátuas e músicas. Muitos das grandes obras artísticos da história do Ocidente vieram deste período - grande parte dos trabalhos de Michelangelo, incluindo a "Estátua de Davi" e a pintura da Capela Sistina, foram feitos por patrocínio, como foi a "Sala de Assinatura" de Rafael.[NEWLINE][NEWLINE]Muitas cortes asiáticas seguiram os mesmos padrões. A brilhante artista Chinesa do século XII, Ma Yuan, foi pintora da corte dos Imperadores Guangzong e Ningzong, sendo seu pai e avô também possuíam postos similares nos impérios anteriores.</Text>
+			<Text>Mecenato, ou, mais formalmente, "mecenato das artes", acontece em civilizações ricas, onde os administradores e cidadãos da elite são ambos prósperos e dispostos a gastar uma porção de suas riquezas em aventuras culturais e artísticas. Através da história, artistas (músicos, pintores, escultores, poetas e atores) eram funcionários, quando não propriedades, da nobreza. Os ricos encomendavam o trabalho e os artistas o faziam. Não havia uma "Orquestra Sinfônica de Londres", embora o Rei da Inglaterra pudesse ter uma em sua corte. O compositor da corte real poderia escrever trabalhos para aquela orquestra; se o Rei não gostasse da música dele, ele poderia ser trocado por um que soubesse escrever músicas ao gosto de Vossa Majestade.[NEWLINE][NEWLINE]Na Europa, o sistema de mecenato alcançou seu auge na Renascença, particularmente na Itália. Cidades como Veneza, Milão e Roma estavam nadando em ouro e as grandes famílias ricas da época competiam entre si, com grande entusiasmo, para adornarem suas majestosas casas com as mais belas pinturas, estátuas e músicas. Muitos das grandes obras artísticos da história do Ocidente vieram deste período - grande parte dos trabalhos de Michelangelo, incluindo a "Estátua de Davi" e a pintura da Capela Sistina, foram realizados sob mecenato, como foi a "Sala de Assinatura" de Rafael.[NEWLINE][NEWLINE]Muitas cortes asiáticas seguiram os mesmos padrões. A brilhante artista Chinesa do século XII, Ma Yuan, foi pintora da corte dos Imperadores Guangzong e Ningzong, sendo seu pai e avô também possuíam postos similares nos impérios anteriores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PATRONAGE_HELP">
 			<Text>TEMP</Text>
@@ -9925,7 +9925,7 @@
 			<Text>Refrigeração</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_DESC">
-			<Text>Refrigeração é o processo de remover calor de um espaço fechado ou de uma substância. O objetivo primário da refrigeração sempre foi o dia preservar a comida, com o ar condicionado tendo um papel importante em nações desenvolvidas nas últimas décadas do século XX.[NEWLINE][NEWLINE]Antes de métodos mecânicos serem inventados, muitas culturas prósperas refrigeravam seus estoques de comida em {TXT_KEY_BUILDING_GRANARY[2]} isolados com palhas, usando gelo trazido dos topos das montanhas. A Índia e Egito da antiguidade usavam refrigeração por vapor, na qual grandes bandejas rasas eram preenchidas com água. À medida que a água evaporava, a água restante na bandeja resfriava rapidamente. De fato, um sistema evaporador bem planejado poderia ser utilizado para produzir gelo, mesmo nos mais quentes climas.[NEWLINE][NEWLINE]A refrigeração mecânica baseia-se no efeito da rápida expansão do gás, geralmente freon ou alguma outra substância inerte. O primeiro refrigerador artificial conhecido foi demonstrado em 1748 na Escócia, por William Cullen, mais de um século antes de um americano, Alexander C. Twinning, criar o primeira aplicação prática de um refrigerador comercial, em 1856. Muitos anos depois, refrigeradores foram introduzidos em indústrias alimentícias e de bebidas, e por volta de 1914, seu uso era comum. Na metade do século XX, caminhões de refrigeração mecânica substituíram os antigos veículos que carregavam gelo. O uso doméstico de refrigeradores foi introduzido nos anos 20 e, em 1950, "caixas de gelo" estavam praticamente extintas.[NEWLINE][NEWLINE]Os modernos aparelhos de ar condicionado foram inventados em 1902 por Willis Carrier, em Buffalo, Nova Iorque. Originalmente utilizado para manter o ar a uma temperatura específica em fábricas, onde o processo delicado de fabricação era realizado, lá pelos anos 20 o tamanho e preço das unidades caíram significativamente, ao ponto deles começarem a ser instalados em muitas salas de cinema. Unidades de janela apareceram nas casas americanas ao final da Segunda Guerra Mundial, e nos anos 50 mais de um milhão de unidades estavam instaladas em todo o país.[NEWLINE][NEWLINE]Muitas vezes considerado um privilégio, a refrigeração é uma das inovações tecnológicas mais importantes na história humana, e muito da vida moderna seria impossível, ou pelo menos mais suada, sem ela.</Text>
+			<Text>Refrigeração é o processo de remover calor de um espaço fechado ou de uma substância. O objetivo primário da refrigeração sempre foi o dia preservar a comida, com o ar condicionado tendo um papel importante em nações desenvolvidas nas últimas décadas do século XX.[NEWLINE][NEWLINE]Antes de métodos mecânicos serem inventados, muitas culturas prósperas refrigeravam seus estoques de comida em Celeiros isolados com palhas, usando gelo trazido dos topos das montanhas. A Índia e Egito da antiguidade usavam refrigeração por vapor, na qual grandes bandejas rasas eram preenchidas com água. À medida que a água evaporava, a água restante na bandeja resfriava rapidamente. De fato, um sistema evaporador bem planejado poderia ser utilizado para produzir gelo, mesmo nos mais quentes climas.[NEWLINE][NEWLINE]A refrigeração mecânica baseia-se no efeito da rápida expansão do gás, geralmente freon ou alguma outra substância inerte. O primeiro refrigerador artificial conhecido foi demonstrado em 1748 na Escócia, por William Cullen, mais de um século antes de um americano, Alexander C. Twinning, criar o primeira aplicação prática de um refrigerador comercial, em 1856. Muitos anos depois, refrigeradores foram introduzidos em indústrias alimentícias e de bebidas, e por volta de 1914, seu uso era comum. Na metade do século XX, caminhões de refrigeração mecânica substituíram os antigos veículos que carregavam gelo. O uso doméstico de refrigeradores foi introduzido nos anos 20 e, em 1950, "caixas de gelo" estavam praticamente extintas.[NEWLINE][NEWLINE]Os modernos aparelhos de ar condicionado foram inventados em 1902 por Willis Carrier, em Buffalo, Nova Iorque. Originalmente utilizado para manter o ar a uma temperatura específica em fábricas, onde o processo delicado de fabricação era realizado, lá pelos anos 20 o tamanho e preço das unidades caíram significativamente, ao ponto deles começarem a ser instalados em muitas salas de cinema. Unidades de janela apareceram nas casas americanas ao final da Segunda Guerra Mundial, e nos anos 50 mais de um milhão de unidades estavam instaladas em todo o país.[NEWLINE][NEWLINE]Muitas vezes considerado um privilégio, a refrigeração é uma das inovações tecnológicas mais importantes na história humana, e muito da vida moderna seria impossível, ou pelo menos mais suada, sem ela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades, exceto aos Contratorpedeiros e a outros Submarinos.</Text>
@@ -9937,7 +9937,7 @@
 			<Text>Partes Substituíveis é um tipo de processo de fabricação pelo qual muitas cópias de um item são fabricadas, cada uma idêntica à original. Este processo permitiu um tremendo crescimento na velocidade e rentabilidade da fabricação que, por sua vez, ajudou a incentivar a Revolução Industrial do século XIX.[NEWLINE][NEWLINE]Um dos maiores estímulos para a criação de peças de reposição foi o desejo de despachar armas aos soldados. Originalmente, mosquetes eram criados por artesões, e cada um era de alguma forma diferente do outro - um artesão poderia fazer seu rifle um pouco mais longo, enquanto outro poderia lhe dar um gatilho maior ou menor. Para uma peça única isso não era necessariamente um problema: se o mosquete quebrava, bastava mandá-lo ao artesão que o fez para reparos. Claro que isso não era praticável para um exército com milhares de mosquetes.[NEWLINE][NEWLINE]Contudo, se todos fossem idênticos, então uma parte de um mosquete quebrado poderia ser utilizada para reparar outro. Além disso, um soldado que tenha sido treinado com um mosquete poderia pegar qualquer outro e esperar que o funcionamento fosse praticamente o mesmo do primeiro, sem ter que se acostumar com as particularidades da nova arma.[NEWLINE][NEWLINE]Hoje, quase todos os bens fabricados no mundo, são construídos com Partes Substituíveis. Artesãos se tornaram artistas, e suas produções se tornaram muito caras para a maioria dos consumidores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma unidade terrestre básica da Era Industrial, e a construção da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], especializada em destruir {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma unidade terrestre básica da Era Industrial, e a construção da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], especializada em destruir Tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Nada é particularmente difícil se você dividir em trabalhos menores."[NEWLINE][TAB] - Henry Ford[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10141,7 +10141,7 @@
 			<Text>Rios dão +1 de ouro aos terrenos adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_CITYYIELDMODIFIER_HEADING3_TITLE">
-			<Text>Modificador de produção da cidade</Text>
+			<Text>Modificador de Rendimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_COAST_ADV_QUEST">
 			<Text>O que você pode me dizer sobre o litoral?</Text>
@@ -10177,7 +10177,7 @@
 			<Text>A chuva radioativa é um "recurso" especial (na verdade, está mais para uma antirrecurso) que aparece depois que armas nucleares começam a ser lançadas. A chuva radioativa reduz drasticamente a produção de um terreno até que ele seja limpo por um trabalhador.[NEWLINE][NEWLINE]Rendimento: -3 alimento, -3 produção, -3 ouro[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 15% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FALLOUT_HEADING3_TITLE">
-			<Text>Chuva radioativa</Text>
+			<Text>Chuva Radioativa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FEATURES_ADV_QUEST">
 			<Text>O que são as características do terreno?</Text>
@@ -10282,7 +10282,7 @@
 			<Text>Uma unidade utiliza todos os seus pontos de movimento quando atravessa um rio. Não há custo adicional se ao atravessá-lo uma estrada passar sobre ele e se sua civilização possuir a tecnologia "Engenharia".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOVEMENTEFFECT_HEADING3_TITLE">
-			<Text>Efeitos nos movimentos</Text>
+			<Text>Efeito no Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_NATURALWONDERS_ADV_QUEST">
 			<Text>O que são Maravilhas Naturais?</Text>
@@ -10468,7 +10468,7 @@
 			<Text>Essas unidades de artilharia especializadas atacarão automaticamente qualquer unidade aérea que bombardear um alvo a dois hexágonos de distância (Elas podem interceptar uma unidade por turno). Elas são bastante fracas em contate contra unidades terrestres e devem ser protegidas por unidades mais fortes contra ataques do chão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER_STRATEGY">
-			<Text>O Arqueiro em Camelo é uma unidade árabe exclusiva, que substitui o Cavaleiro. O Arqueiro em Camelo é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O Arqueiro em Camelo é mais fraco que o Cavaleiro em ataque corpo a corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
+			<Text>O Arqueiro em Camelo é uma unidade árabe exclusiva, que substitui o Cavaleiro. O Arqueiro em Camelo é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O Arqueiro em Camelo é mais fraco que o Cavaleiro em ataque corpo a corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos Piqueiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHER_STRATEGY">
 			<Text>Esta é a primeira unidade de ataque a distância. Ela pode atacar inimigos a 1 ou 2 hexágonos de distância e é extremamente importante no início do jogo, quando estiver atacando cidades. Entretanto, é bastante fraca quando atacada por outras unidades. Designe-a para fortalecer cidades ou a mantenha atrás de suas linhas, protegidas por unidades de ataque corpo a corpo.</Text>
@@ -10477,7 +10477,7 @@
 			<Text>Artilharia é uma arma de certo mortal, mais poderosa que o canhão e um grande alcance. Como o canhão, ela possui visibilidade limitada e deve ser preparada (1 pm) antes de atacar, mas sua força de "Combate a Distância" é tremenda. A Artilharia também possui a habilidade "foro indireto", que lhe permite atirar sobre alvos obstruídos, impossíveis de ela ver. Como outras armas de cerco, a Artilharia é vulnerável a um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AT_GUN_STRATEGY">
-			<Text>A Arma Antitanque é uma unidade de combate especializada, que é bastante potente contra {TXT_KEY_UNIT_TANK[2]} inimigos, mas fraca quando combatente com outras unidades. Use seus próprios {TXT_KEY_UNIT_TANK[2]} para protegê-la e artilharia para uma enérgica força de luta.</Text>
+			<Text>A Arma Antitanque é uma unidade de combate especializada, que é bastante potente contra Tanques inimigos, mas fraca quando combatente com outras unidades. Use seus próprios Tanques para protegê-la e artilharia para uma enérgica força de luta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB_STRATEGY">
 			<Text>Uma Bomba Atômica é uma unidade extremamente poderosa. A Bomba Atômica pode ser guardada em uma cidade aliada ou a bordo de um Porta-aviões. Ela pode se mover de uma base para outra ou atacar alvos a 10 hexágonos de distância. Quando detonada, uma Bomba Atômica causará dano, ou possivelmente destruirá unidades, e cidades serão severamente danificadas em um raio de 2 hexágonos da explosão. É automaticamente destruída quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
@@ -10510,7 +10510,7 @@
 			<Text>As unidades de Cavalaria são devastadoras contra unidades de ataque corpo a corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A Cavalaria é bastante vulnerável ao destruidor de unidades montadas, o Lanceiro Montado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER_STRATEGY">
-			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Elas são um pouco mais poderosas que o Arqueiro e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas nelas). Como toda unidade montada, as {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao Lanceiro.</Text>
+			<Text>Carruagens Arqueiras são rápidas unidades de ataque a distância, mortais em campo aberto. Elas são um pouco mais poderosas que o Arqueiro e podem se mover a distâncias duas vezes maiores. Entretanto, Carruagens Arqueiras sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas nelas). Como toda unidade montada, as Carruagens Arqueiras são vulneráveis ao Lanceiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU_STRATEGY">
 			<Text>O Chu-Ko-Nu é a unidade chinesa única, que substitui o Besteiro. O Chu-Ko-Nu é um pouco menos poderoso que o Besteiro, mas ele pode atacar duas vezes durante um turno, dando grande vantagem ofensiva. Esta unidade é particularmente mortal quando fortificando uma cidade que esteja sendo atacada.</Text>
@@ -10549,7 +10549,7 @@
 			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Uma unidade de ataque a distância, a Galé pode importunar cidades e unidades próximas ao litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT_STRATEGY">
-			<Text>O Lansquenete é uma unidade alemã única. Esta unidade substitui o Piqueiro. O Lansquenete é tão poderoso quanto o Piqueiro, porém custa apenas a metade para ser treinado, permitindo ao jogador alemão construir um exército medieval um curto período de tempo. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} são mortais contra unidades montadas como o Cavaleiro.</Text>
+			<Text>O Lansquenete é uma unidade alemã única. Esta unidade substitui o Piqueiro. O Lansquenete é tão poderoso quanto o Piqueiro, porém custa apenas a metade para ser treinado, permitindo ao jogador alemão construir um exército medieval um curto período de tempo. Os Lansquenetes são mortais contra unidades montadas como o Cavaleiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
 			<Text>O Panzer é a unidade alemã única, que substitui o Tanque. É tão forte e rápida quanto o Tanque. Como o Tanque, o Panzer recebe uma penalidade quando ataca cidades. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e, então, atravessá-las antes que o inimigo possa recuperar a lacuna.</Text>
@@ -10666,7 +10666,7 @@
 			<Text>A Legião é a unidade romana única, que substitui o Espadachim. É mais poderosa que o seu predecessor, tornando-a a unidade de ataque corpo a corpo mais poderosa da Era Clássica. A Legião também pode construir estradas e é a única unidade militar capaz de fazê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK_STRATEGY">
-			<Text>O Cossaco é a unidade russa exclusiva, que substitui a Cavalaria. Ele possui a mesma força que a Cavalaria e podem se mover após atacar. Entretanto, recebem um forte bônus quando atacam unidades danificadas. Isso o torna excepcionalmente forte em contra-ataques - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
+			<Text>O Cossaco é a unidade russa exclusiva, que substitui a Cavalaria. Ele possui a mesma força que a Cavalaria e podem se mover após atacar. Entretanto, recebem um forte bônus quando atacam unidades danificadas. Isso o torna excepcionalmente forte em contra-ataques - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de Cossacos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SCOUT_STRATEGY">
 			<Text>Esta unidade inicial pode atacar mas é fraca. Entretanto, ela pode se mover por terrenos difíceis como se estivessem limpos (qualquer hexágono custa 1 ponto de movimento). Use-a para exploração do mundo.</Text>
@@ -10705,7 +10705,7 @@
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORK_BOAT_STRATEGY">
-			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o Barco de Serviço para explorar recursos aquáticos - [ICON_RES_FISH] Peixe, baleia, petróleo etc. O Barco de Serviço é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
+			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o Barco de Serviço para explorar recursos aquáticos - [ICON_RES_FISH] Peixe, baleia, petróleo etc. O Barco de Serviço é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. Barcos de Serviço não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
 			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e minas. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
@@ -10804,7 +10804,7 @@
 			<Text>Quais unidades não são combatentes?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há cinco tipos de unidades não combatentes: Colonos, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Personalidades e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há cinco tipos de unidades não combatentes: Colonos, Trabalhadores, Barcos de Serviço, Grandes Personalidades e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_TITLE">
 			<Text>Unidades não combatentes</Text>
@@ -11110,7 +11110,7 @@
 			<Text>Castelo Himeji é um extraordinário castelo Japonês e uma das mais belas estruturas do mundo. Primeiro construído no século XIV e massivamente reconstruído e ampliado no final do ano 16 - Inicio do ano 17 por Kuroda Yoshitaka e Ikeda Terumasa, O Castelo Himeji é uma estrutura grande, imponente, e cheia de histórias, construída de madeira e pedras, e apresenta um exterior branco brilhante, e uma série de belas telhas curvas. É também conhecido como "White Heron Castle"(Castelo Garça Branca).[NEWLINE][NEWLINE]O Castelo Himeji é cercado por um confuso labirinto de caminhos que conduzem à fortaleza principal. As muralhas e portões foram feitos para forçar um exército invasor a andar por uma série de círculos concêntricos , com vários becos sem saída antes de chegar ao portão principal. Isso obrigava os atacantes a se separarem e permitia os defensores atirar na vanguarda várias vezes durante a aproximação. O engenhoso sistema não foi posto a prova, pois o castelo nunca foi atacado na Era Medieval.[NEWLINE][NEWLINE]Embora a área que o cercava tenha sido altamente danificada por bombas dos Aliados durante a Segunda Guerra Mundial, o castelo permaneceu totalmente ileso. Ele está recebendo atualmente importantes obras de restauração, e continua sendo uma das mais populares atrações turísticas do Japão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HIMEJICASTLE_HEADING">
-			<Text>Castelo Himeji</Text>
+			<Text>Castelo de Himeji</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HIMEJICASTLE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Bushido é realizado na presença da morte. Isso significa escolher a morte mesmo quando há escolha entre a vida e a morte. Não há outra razão."[NEWLINE][TAB][TAB] - Yamamoto Tsunetomo[NEWLINE][TAB]</Text>
@@ -11467,7 +11467,7 @@
 			<Text>Os Postos Comerciais aumentam a produção de ouro do hexágono por 1. Eles não dão acesso a Recursos[NEWLINE]Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Podem ser construídos em: Qualquer hexágono de terra exceto Gelo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADINGPOST_HEADING3_TITLE">
-			<Text>Feitoria</Text>
+			<Text>Posto Comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_ADV_QUEST">
 			<Text>Onde as Melhorias podem ser construídas?</Text>
@@ -11479,13 +11479,13 @@
 			<Text>Onde Construir Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_ADV_QUEST">
-			<Text>Como funcionam os {TXT_KEY_UNIT_WORK_BOAT[2]}?</Text>
+			<Text>Como funcionam os Barcos de Serviço?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_BODY">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e melhorias de Plataforma Costeira na água. Ao contrário dos Trabalhadores da terra, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando eles criam uma melhoria.</Text>
+			<Text>Barcos de Serviço são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e melhorias de Plataforma Costeira na água. Ao contrário dos Trabalhadores da terra, Barcos de Serviço são consumidos quando eles criam uma melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_TITLE">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
+			<Text>Barcos de Serviço</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_BUILDING_AQUEDUCT_STRATEGY">

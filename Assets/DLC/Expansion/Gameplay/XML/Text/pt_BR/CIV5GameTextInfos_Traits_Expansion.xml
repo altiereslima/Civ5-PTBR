@@ -27,7 +27,7 @@
 			<Text>Prêmio Nobel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-			<Text>Arrasa cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicia com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
+			<Text>Arrasa cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicia com a tecnologia Domesticação de Animais. +1 de [ICON_PRODUCTION] Produção de Pastos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
 			<Text>Flagelo de Deus</Text>

@@ -202,7 +202,7 @@
 			<Text>No início da Guerra Civil Americana, havia várias academias militares dedicadas a educar jovens em ciência militar, sendo a mais notável a Academia Militar dos Estados Unidos em West Point. O Sul, por outro lado, ostentava mais e, possivelmente, melhores academias particulares que atendiam às tradições sulistas: as de Citadel, Virgínia e Porter na Carolina do Sul, St. Charles College no Mississippi e outras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
-			<Text>Permite construir o [COLOR_POSITIVE_TEXT][TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]][ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
+			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Engenheiro Militar[ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Deixe de pensar no que Bobby Lee vai fazer conosco e comece a pensar no que vamos fazer com ele."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
@@ -217,7 +217,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Nossos melhores oficiais estimam que um homem armado com uma Carabina Spencer é equivalente a três com qualquer outra arma."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
-			<Text>A Guerra Civil Americana é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilhava o mecanismo de disparo.</Text>
+			<Text>A Guerra Civil Americana é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os Rifles de Repetição, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilhava o mecanismo de disparo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
 			<Text>Permite construir [COLOR_POSITIVE_TEXT]Navios Blindados[ENDCOLOR], uma poderosa unidade naval que dominará as embarcações navais de madeira.</Text>
@@ -303,7 +303,7 @@
 			<Text>Ponte de Barcas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_HELP">
-			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um Engenheiro Militar embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_TEXT">
 			<Text>As Pontes de Barcas (ou "Flutuantes") foram usadas por ambos os lados durante a guerra para permitir a travessia rápida de rios por infantaria, artilharia e carroças; um design inovador e leve conhecido como Cumberland Pontoons foi especialmente crucial durante as campanhas da União no sul profundo.</Text>
@@ -312,7 +312,7 @@
 			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]Ponte de Barcas[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_HELP">
-			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]} embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
+			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um Engenheiro Militar embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_REC">
 			<Text>Isso permitirá que unidades terrestres atravessem este hexágono.</Text>

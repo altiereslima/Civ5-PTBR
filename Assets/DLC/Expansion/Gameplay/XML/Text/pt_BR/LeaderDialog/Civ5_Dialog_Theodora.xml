@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
@@ -58,10 +58,10 @@
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_NEUTRAL">
@@ -75,10 +75,10 @@
       <Text>Não há nada mais a oferecer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+      <Text>Isso não está suficientemente bom.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_NEUTRAL">
@@ -109,7 +109,7 @@
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1}</Text>
+      <Text>Devo recusar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_2">
       <Text>Infelizmente, não.</Text>
@@ -132,14 +132,14 @@
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
+      <Text>Até nos vermos novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_4">
       <Text>Até breve.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_HAPPY">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY}</Text>
+      <Text>Concordo!</Text>
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_1">
@@ -177,29 +177,29 @@
     </Row> 
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3}</Text>
+      <Text>Certamente que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+      <Text>Isso é inaceitável.</Text>
     </Row> 
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_3">
       <Text>Sim?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
+      <Text>Estou ouvindo.</Text>
     </Row>    
     <!--Angry -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_5">
-      <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
+      <Text>E?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_6">
       <Text>O que deseja?</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_5">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5}</Text>
+      <Text>Isso é tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_6">
       <Text>Retire-se.</Text>
@@ -213,13 +213,13 @@
       <Text>Tsc... Acho suas atitudes cansativas. Melhore a oferta ou vá embora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
+      <Text>Isso não é suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_3">
       <Text>É preciso mais do que isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_ANGRY">
@@ -243,14 +243,14 @@
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+      <Text>Muito bem.</Text>
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_5">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_5}</Text>
+      <Text>É claro que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+      <Text>Isso é inaceitável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_7">
       <Text>Só pode ser brincadeira.</Text>

@@ -12,7 +12,7 @@
             <Text>Embarcado</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_TITLE">
-            <Text>Suprimento das Unidades</Text>
+            <Text>Suprimento de Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_HANDICAP_SUPPLY_TT">
             <Text>Fornecido pelo nível de dificuldade</Text>
@@ -88,25 +88,25 @@
             <Text>INFORMAÇÕES</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_TECHNOLOGY">
-            <Text>Você conseguiu a Vitória pelo domínio da Ciência! Você conquistou os mistérios da natureza e levou seu povo a uma viagem a um Novo Mundo! Seu triunfo será lembrado para sempre, como as estrelas que brilham no céu à noite!</Text>
+            <Text>Você conquistou a vitória graças ao domínio da Ciência! Desvendou os mistérios da natureza e conduziu seu povo em uma viagem rumo a um admirável mundo novo! Seu triunfo será lembrado enquanto as estrelas brilharem no céu noturno!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_DOMINATION">
-            <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
+            <Text>O mundo foi convulsionado pela guerra. Muitas civilizações grandes e poderosas caíram, mas você sobreviveu — e emergiu vitorioso! O mundo se lembrará por muito tempo de seu glorioso triunfo!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_CULTURE">
-            <Text>Você conseguiu a Vitória através da sua incrível e poderosa Cultura. A grandeza da sua Civilização - monumentos magníficos e os poderes dos Artistas - surpreendeu todo o mundo! Poetas te honrarão enquanto a beleza trouxer alegria aos corações cansados.</Text>
+            <Text>Você conquistou a vitória graças ao extraordinário poder de sua Cultura. A grandeza da sua civilização — o esplendor de seus monumentos e o poder de seus artistas — assombrou o mundo! Os poetas o honrarão enquanto a beleza levar alegria a um coração cansado.</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_DIPLOMACY">
-            <Text>Você triunfou perante seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria conquistaram grandes amigos - e dividiu semeando confusão entre seus inimigos! Você sempre será lembrado como o líder que trouxe a paz para um mundo fatigado!</Text>
+            <Text>Você triunfou sobre seus inimigos por meio da arte da Diplomacia! Sua astúcia e sabedoria lhe renderam grandes amigos — e dividiram seus inimigos, semeando a confusão entre eles! Você será lembrado para sempre como o líder que trouxe paz a um mundo cansado!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_TIME">
-            <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
+            <Text>O mundo foi convulsionado pela guerra. Muitas civilizações grandes e poderosas caíram, mas você sobreviveu — e emergiu vitorioso! O mundo se lembrará por muito tempo de seu glorioso triunfo!</Text>
         </Row>
         <Row Tag="TXT_KEY_VICTORY_FLAVOR_LOSS">
-            <Text>Você foi derrotado. Sua Civilização foi dominada pelos seus inimigos. Mas seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à vitória!</Text>
+            <Text>Você foi derrotado. Sua civilização foi subjugada por seus muitos inimigos. Mas seu povo não se desespera, pois sabe que um dia você retornará — e o conduzirá novamente à vitória!</Text>
         </Row>
 		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DEMO">
-			<Text>Muitos anos se passaram desde a ascensão de sua grande e poderosa Civilização, mas infelizmente seu tempo chegou ao fim. Porém, o seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à Vitória!</Text>
+			<Text>Muitos anos se passaram desde a ascensão de sua grande e poderosa civilização. Infelizmente, seu tempo chegou ao fim, mas seu povo não se desespera, pois sabe que um dia você retornará — e o conduzirá à vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DEMO_BANG">
 			<Text>DEMONSTRAÇÃO COMPLETA!</Text>
@@ -274,7 +274,7 @@
             <Text>{1_NumPlayers} {1: plural 1?jogador completou; other?jogadores completaram;} o {2_apolloProgram}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_REMAINING">
-            <Text>{1_NumPlayers} {1: plural 1?jogador ainda está; other?jogadores ainda estão;} no controle de {1: plural 1?sua [ICON_CAPITAL] Capital; other?suas [ICON_CAPITAL] Capitais;}.</Text>
+            <Text>{1_NumPlayers} {1_NumPlayers: plural 1?jogador ainda controla sua [ICON_CAPITAL] Capital; other?jogadores ainda controlam suas [ICON_CAPITAL] Capitais;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_SOCIAL_POLICIES">
             <Text>{1_player} completou {2_completedNum} das {3_totalNum} ramificações das políticas sociais.</Text>
@@ -372,7 +372,7 @@
             <Text>Acordo iniciado no turno {1_turn}</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_DEAL_LASTED">
-            <Text>Acordo durou {1} {1: plural 1?turno; other?turnos;}</Text>
+            <Text>Acordo durou {1_turn} {1_turn: plural 1?turno; other?turnos;}</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_DEAL_DURATION">
             <Text>Duração do Acordo: {1_turn} {1: plural 1?turno; other?turnos;}</Text>
@@ -405,7 +405,7 @@
             <Text>Abster-se</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_STATUS_TT">
-            <Text>A sua relação atual com {1_cityName} é de {2_statusType} : {3_curNumber}/{4_maxNumber} de [ICON_INFLUENCE] Influência.</Text>
+            <Text>{1_cityName} está atualmente {2_statusType}: {3_curNumber}/{4_maxNumber} [ICON_INFLUENCE]</Text>
         </Row>
         <Row Tag="TXT_KEY_YOUR_SCORE">
             <Text>Sua pontuação</Text>
@@ -472,7 +472,7 @@
             <Text>Rendimentos diplomáticos</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_TRADE">
-            <Text>Rotas comerciais</Text>
+            <Text>Rotas Comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_TRADE">
             <Text>Rendimento das rotas comerciais</Text>
@@ -493,7 +493,7 @@
 			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD], que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_EX_UNITS_NO_MAINT">
-			<Text>Você possui {1_Num} {1: plural 1?Míssil; other?Mísseis;} que não {1: plural 1?requer; other?requerem;} manutenção.</Text>
+			<Text>Você possui {1_NumUnits} {1_NumUnits: plural 1?unidade; other?unidades;} que não {1_NumUnits: plural 1?requer; other?requerem;} manutenção.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_BUILDINGS">
             <Text>[ICON_PLUS] Edificações</Text>
@@ -514,7 +514,7 @@
             <Text>Melhorias nos hexágonos</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_IMPROVEMENTS">
-            <Text>Despesas com melhorias nos hexágonos</Text>
+            <Text>Custo total de manutenção das Estradas e Ferrovias que você construiu ou pelas quais é responsável. Estradas custam 1 de [ICON_GOLD] Ouro por turno, e Ferrovias custam 2 de [ICON_GOLD] Ouro por turno.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_DIPLOMACY">
             <Text>Despesas diplomáticas</Text>
@@ -734,7 +734,7 @@
             <Text>O texto "{1_stringEntered}" não foi encontrado.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RESEARCH_LABEL">
-            <Text>Pesquisa Científica</Text>
+            <Text>Pesquisa</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_BLURB_TEXT">
             <Text>[NEWLINE][TAB][TAB]"Assim como um patriota orgulhoso, não importa por onde vagamos, o primeiro e melhor país será sempre o nosso."[NEWLINE][TAB][TAB]  - Oliver Goldsmith[NEWLINE][TAB]</Text>
@@ -773,7 +773,7 @@
             <Text>Edificações podem melhorar significativamente a riqueza, população, defesa ou produtividade de uma cidade. Algumas melhoram a qualidade de algumas unidades militares construídas ali, enquanto outras permitirão que uma cidade costeira produza alimentos a partir do oceano.[NEWLINE][NEWLINE]É importante a construção de edificações. Se sua civilização está envolvida em alguma batalha, é natural que concentre toda sua produção em Unidades Militares, porém, se insistir nesta ideia por muito tempo, suas cidades ficarão inferiores a outras de civilizações mais desenvolvidas, colocando você em grande desvantagem no decorrer do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_WONDERS_HELP_TEXT">
-            <Text>Maravilhas são construções extraordinárias. Tão singulares que fazem uma Civilização ser lembrada por toda história. Maravilhas podem ocupar a mente e elevar o espírito.[NEWLINE][NEWLINE]As Pirâmides, a Catedral de Notre Dame e Stonehenge são exemplos de Maravilhas. Maravilhas requerem bastante tempo e energia para serem construídas, porém, uma vez concluídas, fornecem muitos benefícios à sua civilização.[NEWLINE][NEWLINE]Existem três tipos básicos de Maravilhas: do Mundo, Nacionais e Projeto de Maravilha. Somente uma cópia de uma Maravilha do Mundo poderá ser construída em qualquer lugar em um determinado jogo. Maravilhas Nacionais são menos exclusivas, podendo cada país construir uma (e apenas uma) cópia.</Text>
+            <Text>Maravilhas são edificações extraordinárias. Tão singulares que fazem uma Civilização ser lembrada por toda história. Maravilhas podem ocupar a mente e elevar o espírito.[NEWLINE][NEWLINE]As Pirâmides, a Catedral de Notre Dame e Stonehenge são exemplos de Maravilhas. Maravilhas requerem bastante tempo e energia para serem construídas, porém, uma vez concluídas, fornecem muitos benefícios à sua civilização.[NEWLINE][NEWLINE]Existem três tipos básicos de Maravilhas: do Mundo, Nacionais e Projeto de Maravilha. Somente uma cópia de uma Maravilha do Mundo poderá ser construída em qualquer lugar em um determinado jogo. Maravilhas Nacionais são menos exclusivas, podendo cada país construir uma (e apenas uma) cópia.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SOCIAL_POL_HELP_TEXT">
             <Text>Políticas Sociais representam a forma pela qual você escolheu governar seu povo. Você será um governante autoritário, sacrificando um pouco da liberdade em favor da disciplina e aumento da produtividade? Você guiará sua civilização para ter um exército forte ou concentrará seus esforços na expansão cultural? Será um monarca ou um democrata?[NEWLINE][NEWLINE]As Políticas Sociais possuem efeitos concretos no jogo. Algumas poderão aumentar a produção das suas cidades, outras gerar mais riquezas ou ainda criar unidades militares mais eficazes.[NEWLINE][NEWLINE]Não há certo ou errado em suas escolhas nas Políticas Sociais. Uma política pode ser circunstancialmente melhor que a outra (suponhamos que se você estiver rodeado de civilizações agressivas, poderá tomar um caminho diferente se estivesse relativamente isolado), podendo se adequar melhor ao seu estilo de jogo. Experimente-as e veja.</Text>
@@ -785,7 +785,7 @@
             <Text>Há uma grande variedade de civilizações e líderes a serem escolhidos no jogo. Cada qual possui suas próprias unidades especiais, edificações e/ou habilidades - a América tem o Miliciano e o Bombardeiro B17, Roma recebeu a Legião e a Balista, a Rússia o Cossaco e o Krepost. Aprender os pontos fortes e fracos de cada civilização torna o jogo mais divertido, tornando-o diferente a cada vez. Se você jogar com o Egito, utilizando a mesma estratégia de quando joga com a Índia, você pode não ter entendido muito bem o sentido do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
-            <Text>Cidades-Estado representam as pequenas civilizações que ocupam o mundo. Cidades-Estado são exatamente isso: Estados centralizados em uma cidade. Não podem criar Colonos e, portanto, não podem construir novas cidades (seu território pode ser expandido, porém não podem possuir mais que uma cidade). A exceção para isso é pela conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]A exceção para isso é a conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]Se você se tornar amigo de uma Cidade-Estado, ela poderá fornecer alimentos, cultura ou mesmo unidades militares. Caso você ataque uma Cidade-Estado, poderá capturá-la, adicionando-a em seu Império. (Mas tenha cautela, você poderá fazer com que as outras Cidades-Estado declarem guerra a sua Civilização.)</Text>
+            <Text>Cidades-Estado representam as muitas civilizações menores que ocupam o mundo. São exatamente isso: Estados centrados em uma única cidade. Não podem criar Colonos e, portanto, não podem fundar novas cidades (seu território pode se expandir, mas nunca conterá mais de uma cidade). A exceção é a conquista: Cidades-Estado em guerra podem capturar cidades inimigas.[NEWLINE][NEWLINE]Se você fizer amizade com uma Cidade-Estado, ela poderá fornecer Alimento, Cultura ou até unidades militares. Se atacar uma Cidade-Estado, poderá capturá-la e incorporá-la ao seu império. (Isso pode fazer com que outras Cidades-Estado declarem guerra a você, portanto aja com cautela.)</Text>
 		</Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
             <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas, assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
@@ -912,7 +912,7 @@
             <Text>Políticas Sociais</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_9_LABEL">
-            <Text>Especialistas e Grandes Person.</Text>
+            <Text>Especialistas e Grandes Personalidades</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_10_LABEL">
             <Text>Civilizações e Líderes</Text>
@@ -969,7 +969,7 @@
             <Text>Movimento:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PREREQ_ERA_LABEL">
-            <Text>Somente na:</Text>
+            <Text>Era necessária:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_LEADERS_LABEL">
             <Text>Líderes:</Text>
@@ -1062,7 +1062,7 @@
             <Text>Produção:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GP_LABEL">
-            <Text>Grande Personalidade:</Text>
+            <Text>Grandes Personalidades:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_COMBATTYPE_LABEL">
             <Text>Tipo de combate:</Text>
@@ -1125,7 +1125,7 @@
             <Text>Notas do designer:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_MOVECOST_LABEL">
-            <Text>Custo de movimentação:</Text>
+            <Text>Custo de Movimento:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RELATED_IMAGES_LABEL">
             <Text>Imagens relacionadas:</Text>
@@ -1143,7 +1143,7 @@
             <Text>Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_PEOPLE_SECTION_2">
-            <Text>Grande Personalidade</Text>
+            <Text>Grandes Personalidades</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_1">
             <Text>Civilizações</Text>
@@ -1207,7 +1207,7 @@
             <Text>Felicidade</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_11">
-            <Text>Névoa da Guerra</Text>
+            <Text>Névoa de Guerra</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_12">
             <Text>Políticas Sociais</Text>
@@ -1219,13 +1219,13 @@
             <Text>Assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_15">
-            <Text>Grandes Person. e Especialistas</Text>
+            <Text>Grandes Personalidades e Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_16">
             <Text>Cidades-Estado</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_17">
-            <Text>Movimentação da unidade</Text>
+            <Text>Movimento das Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_18">
             <Text>Regras de unidades aéreas</Text>
@@ -1277,7 +1277,7 @@
             <Text>OPÇÕES DE JOGO</Text>
         </Row>
         <Row Tag="TXT_KEY_AUTO_UNIT_CYCLE">
-            <Text>Percorrer automaticamente unidades</Text>
+            <Text>Alternar unidades automaticamente</Text>
         </Row>
         <Row Tag="TXT_KEY_AUTO_UNIT_CYCLE_TT">
             <Text>Selecionar automaticamente a próxima unidade após ordens serem dadas.</Text>
@@ -1313,7 +1313,7 @@
             <Text>Combate rápido</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_COMBAT_TT">
-            <Text>Combate sem animações</Text>
+            <Text>Resolver combate sem animações</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL">
             <Text>Nível Assessores</Text>
@@ -1370,7 +1370,7 @@
             <Text>Condensar muitas dicas em uma única informação, retirando ajuda explicativa.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN">
-            <Text>Encerrar automaticamente o turno no modo multijogador</Text>
+            <Text>Encerrar turno automaticamente no multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
             <Text>Habilitar a troca de turno automática em jogos multijogador.</Text>
@@ -1418,7 +1418,7 @@
             <Text>Usar escala menor na interface</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI_TT">
-            <Text>Força o game a usar uma versão menor de interface.</Text>
+            <Text>Força o jogo a usar a versão menor da interface.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI">
             <Text>Atualizar interface</Text>
@@ -1514,7 +1514,7 @@
             <Text>Qualidade da sombra</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FOW_QUALITY">
-            <Text>Qualidade da névoa</Text>
+            <Text>Qualidade da Névoa de Guerra</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_DETAIL_LEVEL">
             <Text>Detalhes do terreno</Text>
@@ -1660,7 +1660,7 @@
             <Text>Permite unidades embarcadas se movimentarem em oceanos.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_OPEN_BORDERS">
-            <Text>Permite realizar Tratados de Abertura de Fronteiras.</Text>
+            <Text>Permite tratados de Fronteiras Abertas.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_DEFENSIVE_PACTS">
             <Text>Permite realizar Pactos Defensivos.</Text>
@@ -1709,7 +1709,7 @@
             <Text>Exibir névoa de guerra</Text>
         </Row>
         <Row Tag="TXT_KEY_STRAT_MAP_OPTIONS_TT">
-            <Text>Liga/Desliga o menu de opções do mapa</Text>
+            <Text>Alternar menu de opções do mapa</Text>
         </Row>
         <!--In Game Menu Buttons -->
         <Row Tag="TXT_KEY_MENU_QUICK_SAVE_BUTTON">
@@ -1740,10 +1740,10 @@
             <Text>RETORNAR AO JOGO</Text>
         </Row>
         <Row Tag="TXT_KEY_MENU_RETURN_MM_WARN">
-            <Text>Isto sairá para o Menu Principal sem salvar o jogo. Tem certeza disso?</Text>
+            <Text>Isto retornará ao Menu Principal sem salvar a partida. Tem certeza de que deseja fazer isso?</Text>
         </Row>
         <Row Tag="TXT_KEY_MENU_RETURN_EXIT_WARN">
-            <Text>Isto fechará o Civilization V sem salvar o jogo. Tem certeza disso?</Text>
+            <Text>Isto fechará Civilization V sem salvar a partida. Tem certeza de que deseja fazer isso?</Text>
         </Row>
         <Row Tag="TXT_KEY_MENU_EXIT_WARN">
             <Text>Isto fechará o Civilization V. Tem certeza disso?</Text>
@@ -1752,7 +1752,7 @@
             <Text>Salvar</Text>
         </Row>
         <Row Tag="TXT_KEY_MENU_SAVE_MAP_DESC">
-            <Text>Salvar um mapa irá preservar os dados do terreno do jogo que você está jogando atualmente, podendo ser aberto pelo World Builder Tool. Isso permitirá que você tenha um modelo para trabalhar na criação de seu próprio mapa ou retornar a este mapa para próximos jogos.</Text>
+            <Text>Salvar um mapa preservará os dados de terreno da partida atual em um formato que pode ser aberto pela ferramenta de criação de mundos. Isso permite usar o mapa como modelo para criar seu próprio mapa ou reutilizar exatamente este layout em partidas futuras.</Text>
         </Row>
         <!-- Policies -->
         <Row Tag="TXT_KEY_ADVANCED_VIEW">
@@ -1793,7 +1793,7 @@
 		<!-- 348 -->
 		<!-- Replay Viewer  -->
 		<Row Tag="TXT_KEY_REPLAY_TITLE">
-			<Text>REPLAY</Text>
+			<Text>REPETIÇÃO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_PLAYPAUSE">
 			<Text>Executar/Pausar</Text>

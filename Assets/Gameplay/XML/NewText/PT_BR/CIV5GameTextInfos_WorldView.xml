@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -163,7 +163,7 @@
 			<Text>Força</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK">
-			<Text>Ataque a distância</Text>
+			<Text>Ataque a Distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_CURRENT_STATUS">
 			<Text>Situação Atual</Text>
@@ -176,7 +176,7 @@
 			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH] , {4_Num} PV {5_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV">
-			<Text>{@2_UnitName} {@2: gender masculine?{@2: plural 1?{@1[1]}; other?{@1[3]};}; feminine?{@2: plural 1?{@1[2]}; other?{@1[4]};};}</Text>
+			<Text>{@2_UnitName} {@2: gender masculine?{@2: plural 1?{@1_CivAdjective[1]}; other?{@1_CivAdjective[3]};}; feminine?{@2: plural 1?{@1_CivAdjective[2]}; other?{@1_CivAdjective[4]};};}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_PLAYER">
 			<Text>{1_PlayerName}: {2_UnitName}</Text>
@@ -185,7 +185,7 @@
 			<Text>{1_Num} PV</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
-			<Text>Hexágono adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
+			<Text>Hexágono pertencente a {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_PLAYER">
 			<Text>Hexágono adquirido por {1_PlayerName}</Text>
@@ -230,7 +230,7 @@
 			<Text>Melhoria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_OF">
-			<Text>A cidade {2: gender other?{@1[2]};} de {2_CityName}</Text>
+			<Text>A cidade {@1_CivAdjective[2]} de {2_CityName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_BARB_QUEST_SHORT">
 			<Text>Missão de Cidade-Estado</Text>
@@ -252,7 +252,7 @@
 			<Text>Reparar Hexágono (3)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED">
-			<Text>PROMOÇÃO</Text>
+			<Text>UNIDADE PROMOVIDA!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED_TT">
 			<Text>Revela promoções que a sua unidade pode selecionar.</Text>
@@ -288,10 +288,10 @@
 			<Text>Isto indica a força de combate da unidade. Quanto maior este número, melhor a unidade irá atuar em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK">
-			<Text>Ataque à Distância</Text>
+			<Text>Ataque a Distância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK_TT">
-			<Text>Isto indica a força do combate à distância da unidade. Quanto maior esse número, melhor a unidade irá atuar em combate.</Text>
+			<Text>Isto indica a Força de Ataque a Distância da unidade. Quanto maior esse número, melhor será o desempenho da unidade em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_MAY_MOVE">
 			<Text>A sua unidade pode mover mais {1_Num} {1: plural 1?hexágono; other?hexágonos;} neste turno.</Text>
@@ -334,7 +334,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SV_OVERLAY_TRADE_ROUTES">
-			<Text>Rotas comerciais</Text>
+			<Text>Rotas Comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SV_ICONS_ALL">
 			<Text>Todos</Text>
@@ -393,7 +393,7 @@
 			<Text>Menu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_TOOLTIP">
-			<Text>Abre o menu onde você pode salvar o jogo, sair para o menu principal etc.</Text>
+			<Text>Abre o menu em que você pode salvar a partida, retornar ao Menu Principal e acessar outras opções.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_SCIENCE">
 			<Text>Sem ciência!</Text>
@@ -444,7 +444,7 @@
 			<Text>{1_Num} na manutenção das unidades fora do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_BUILDING_MAINT">
-			<Text>{1_Num} na manutenção das construções.</Text>
+			<Text>{1_Num} gastos na manutenção das Edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_TILE_MAINT">
 			<Text>{1_Num} na manutenção das melhorias dos hexágonos.</Text>
@@ -498,7 +498,7 @@
 			<Text>{1_Num} das unidades alojadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_CONNECTED_CITIES">
-			<Text>{1_Num} por cidades [ICON_CONNECTED] conectadas com a [ICON_CAPITAL] Capital.</Text>
+			<Text>{1_Num} por cidades [ICON_CONNECTED] conectadas à [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_STATE_RELIGION">
 			<Text>{1_Num} pelas crenças religiosas.</Text>
@@ -592,7 +592,7 @@
 			<Text>A cidade está [ICON_BLOCKADED] Bloqueada por uma unidade inimiga!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_BURNING">
-			<Text>A cidade vai ser [ICON_RAZING] Eliminada em {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
+			<Text>A cidade será [ICON_RAZING] arrasada em {1_Num} {1_Num: plural 1?turno; other?turnos;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_RESISTANCE">
 			<Text>A cidade está em [ICON_RESISTANCE] Resistência por {1_Num} {1: plural 1?turno; other?turnos;}! Enquanto estiver nesta situação, a cidade não pode fazer nada de útil.</Text>
@@ -613,7 +613,7 @@
 			<Text>{1_CityName} [COLOR_WARNING_TEXT]está morrendo de fome![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_WILL_GROW_TT">
-			<Text>{1_CityName} vai crescer de [COLOR_YELLOW]{2_Num}[ENDCOLOR] para [COLOR_YELLOW]{3_Num}[ENDCOLOR] em [COLOR_GREEN]{4_Num}[ENDCOLOR] {4: plural 1?turno; other?turnos;}.</Text>
+			<Text>{1_CityName} crescerá do tamanho [COLOR_YELLOW]{2_Num}[ENDCOLOR] para o tamanho [COLOR_YELLOW]{3_Num}[ENDCOLOR] em [COLOR_GREEN]{4_NumTurns}[ENDCOLOR] {4_NumTurns: plural 1?turno; other?turnos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NOT_PRODUCING">
 			<Text>{1_CityName} não está produzindo nada neste momento.</Text>
@@ -789,7 +789,7 @@
 			<Text>Informações da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_TURNS_TILL_TILE_TEXT">
-			<Text>{1_Turns:number} {1_Turns: plural 1?turno; other?turnos;} até aumentar a fronteira</Text>
+			<Text>{1_NumTurns:number} {1_NumTurns: plural 1?turno; other?turnos;} até a expansão das fronteiras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_STARVATION_TEXT">
 			<Text>[COLOR_WARNING_TEXT]FOME[ENDCOLOR]</Text>
@@ -855,7 +855,7 @@
 			<Text>Quando você possuir [ICON_GOLD] Ouro suficiente, poderá comprar um dos hexágonos em destaque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_SPECIALISTCONTROL_TT">
-			<Text>Alternar entre manual e automático o controle dos especialistas de construções</Text>
+			<Text>Alternar entre o controle manual e o controle da IA sobre os Especialistas das Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_MAINTENANCE">
 			<Text>Manutenção</Text>
@@ -882,7 +882,7 @@
 			<Text>Comprar parcela de texto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BUILDING_LIST">
-			<Text>Lista de construções</Text>
+			<Text>Lista de Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_MANUAL_SPEC_CONTROL">
 			<Text>Controle manual de especialistas</Text>

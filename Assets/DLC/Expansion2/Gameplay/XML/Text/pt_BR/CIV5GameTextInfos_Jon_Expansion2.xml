@@ -71,7 +71,7 @@
             <Text>Centros Culturais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Construa Monumentos, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, Casas de Ópera, Museus e Torres de Transmissão 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Construa Monumentos, Anfiteatros, Casas de Ópera, Museus e Torres de Transmissão 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FINE_ARTS">
             <Text>Belas Artes</Text>
@@ -116,7 +116,7 @@
             <Text>Exército Mercenário</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Exército Mercenário[ENDCOLOR][NEWLINE]Permite a compra de {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]}.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Exército Mercenário[ENDCOLOR][NEWLINE]Permite a compra de Lansquenetes.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_CAP">
             <Text>EXPLORAÇÃO</Text>
@@ -696,7 +696,7 @@
             <Text>Esta ordem permitirá à unidade se reposicionar em um hexágono terrestre em ou adjacente a uma cidade amiga com um Aeroporto. O hexágono alvo não pode estar ocupado por uma unidade inimiga, nem estar adjacente a uma.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-            <Text>O Anfiteatro aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma Estela) antes de o Anfiteatro poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>
+            <Text>O Anfiteatro aumenta a [ICON_CULTURE] Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um Monumento (ou uma Estela) antes de o Anfiteatro poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
             <Text>Fornece +2 de [ICON_TOURISM] Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>

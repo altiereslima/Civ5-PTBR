@@ -146,7 +146,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HIMEJI_CASTLE">
-			<Text>Castelo Himeji|Castelos Himeji</Text>
+			<Text>Castelo de Himeji|Castelos de Himeji</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

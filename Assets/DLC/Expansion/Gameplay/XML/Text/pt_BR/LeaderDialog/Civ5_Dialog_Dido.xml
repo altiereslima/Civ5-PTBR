@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
@@ -52,38 +52,38 @@
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
+      <Text>Saudações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
+      <Text>Saudações.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
+      <Text>Até nos vermos novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+      <Text>Muito bem.</Text>
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_1">
       <Text>Aprecio sua iniciativa, mas terá que melhorar a oferta. Vamos, tente de novo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2}</Text>
+      <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+      <Text>Isso não está suficientemente bom.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_NEUTRAL}</Text>
+      <Text>Não tenho interesse.</Text>
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL">
@@ -103,44 +103,44 @@
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1}</Text>
+      <Text>Tudo bem.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+      <Text>Muito bem.</Text>
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1}</Text>
+      <Text>Devo recusar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_2}</Text>
+      <Text>Não, claro que não.</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_1}</Text>
+      <Text>Vamos ouvir...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+      <Text>Continue.</Text>
     </Row>
     
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3}</Text>
+      <Text>Boas-vindas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_4">
-      <Text>{TXT_KEY_LEADER_BOUDICCA_GREETING_4}</Text>
+      <Text>Ah! É bom revê-la.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+      <Text>Adeus.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY}</Text>
+      <Text>Concordo!</Text>
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_1">
@@ -150,7 +150,7 @@
       <Text>É o seu melhor?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3}</Text>
+      <Text>Está quase lá...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY">
@@ -170,25 +170,25 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY">
-      <Text>{TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY}</Text>
+      <Text>Acabei de ter uma ótima ideia e penso que também irá apreciá-la.</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_5}</Text>
+      <Text>Excelente.</Text>
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3}</Text>
+      <Text>Certamente que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4">
-      <Text>{TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4}</Text>
+      <Text>Recusamos.</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+      <Text>Continue.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
+      <Text>Estou ouvindo.</Text>
     </Row>
     
     <!--Angry -->
@@ -201,10 +201,10 @@
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5}</Text>
+      <Text>Isso é tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_6}</Text>
+      <Text>Vá embora.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY">
@@ -215,13 +215,13 @@
       <Text>Realmente não entendo seu objetivo. Pare de rodeios e faça uma oferta razoável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_2">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
+      <Text>Isso não é suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_3">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3}</Text>
+      <Text>Precisa melhorar isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_4">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+      <Text>Quase...</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY">
@@ -252,14 +252,14 @@
       <Text>Como é?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+      <Text>Isso é inaceitável.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7">
-      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_7}</Text>
+      <Text>Você não pode estar falando sério!</Text>
     </Row>
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5">
-      <Text>{TXT_KEY_LEADER_DIDO_GREETING_5}</Text>
+      <Text>E?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1">
       <Text>Eu e a paz nos tornamos desconhecidos; Eu não posso mais compactuar com os horrores causados por sua presença nestas terras. Prepare-se, as Parcas virão esta noite.</Text>

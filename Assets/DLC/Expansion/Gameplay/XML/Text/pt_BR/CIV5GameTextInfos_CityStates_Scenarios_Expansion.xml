@@ -37,7 +37,7 @@
 			<Plurality>1|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
-			<Text>Tunes</Text>
+			<Text>Túnis</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

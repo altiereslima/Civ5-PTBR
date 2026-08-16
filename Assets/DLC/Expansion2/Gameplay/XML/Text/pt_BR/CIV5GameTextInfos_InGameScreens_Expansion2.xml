@@ -532,10 +532,10 @@
 		  <Text>Artefato Literário</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CULTURE_OVERVIEW">
-            <Text>Visão Cultural</Text>
+            <Text>Visão Geral da Cultura</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_OVERVIEW_TT">
-            <Text>Visão Cultural</Text>
+            <Text>Visão Geral da Cultura</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_TAB_YOUR_CULTURE">
             <Text>Sua Cultura</Text>

@@ -80,7 +80,7 @@
 			<Text>Keshik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_TEXT">
-			<Text>No século XII, os Mongóis estavam em ebulição na Ásia Central, conquistando a maior parte do continente, a Europa Oriental e uma grande porção do Oriente Médio em um século. A principal arma dos Mongóis eram seus incomparáveis arqueiros montados, os {TXT_KEY_UNIT_MONGOL_KESHIK[2]}. Os Mongóis eram tribos nômades e suas crianças eram praticamente "criadas sobre a sela". Cavalgando em seus pequenos e fortes pôneis, os protegidos e armados mongóis podiam cobrir um enorme espaço de terra em um dia, ultrapassando em muito a capacidade de patrulhamento de infantarias e cavalarias pesadas da Europa.[NEWLINE][NEWLINE]Em batalha, os {TXT_KEY_UNIT_MONGOL_KESHIK[2]} Mongóis atiravam da montaria com precisão mortal, desorganizando e desmoralizando as formações inimigas. Assim que o oponente estava adequadamente enfraquecido, as unidades de cavalaria pesada mongóis se encarregavam de dar o golpe de misericórdia. Quando enfrentavam {TXT_KEY_UNIT_KNIGHT[2]} europeus com armaduras, os Mongóis simplesmente atiravam em seus cavalos e, então, ignoravam ou destruíam o inimigo desmontado quando queriam.</Text>
+			<Text>No século XII, os Mongóis estavam em ebulição na Ásia Central, conquistando a maior parte do continente, a Europa Oriental e uma grande porção do Oriente Médio em um século. A principal arma dos Mongóis eram seus incomparáveis arqueiros montados, os Keshiks. Os Mongóis eram tribos nômades e suas crianças eram praticamente "criadas sobre a sela". Cavalgando em seus pequenos e fortes pôneis, os protegidos e armados mongóis podiam cobrir um enorme espaço de terra em um dia, ultrapassando em muito a capacidade de patrulhamento de infantarias e cavalarias pesadas da Europa.[NEWLINE][NEWLINE]Em batalha, os Keshiks Mongóis atiravam da montaria com precisão mortal, desorganizando e desmoralizando as formações inimigas. Assim que o oponente estava adequadamente enfraquecido, as unidades de cavalaria pesada mongóis se encarregavam de dar o golpe de misericórdia. Quando enfrentavam Cavaleiros europeus com armaduras, os Mongóis simplesmente atiravam em seus cavalos e, então, ignoravam ou destruíam o inimigo desmontado quando queriam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_HEADING">
 			<Text>Khan Mongol</Text>
@@ -161,7 +161,7 @@
 			<Text>Esta Grande Personalidade Mongol exclusiva substitui o Grande General. Apesar de fornecer os mesmos bônus de combate que um Grande General comum, o Khan se move mais e pode curar unidades adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_INFO">
-			<Text>O Khan é a Grande Personalidade exclusiva disponível aos Mongóis, fornecendo maior poder de cura às unidades próximas. Para poder acompanhar as unidades montadas Mongóis, {TXT_KEY_UNIT_MONGOL_KHAN[2]} também possuem um número maior de pontos de movimento.</Text>
+			<Text>O Khan é a Grande Personalidade exclusiva disponível aos Mongóis, fornecendo maior poder de cura às unidades próximas. Para poder acompanhar as unidades montadas Mongóis, Khans também possuem um número maior de pontos de movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
 			<Text>O Khan é a Grande Personalidade exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o Khan se move na mesma taxa que o Keshik (5 pontos por turno) e pode curar unidades adjacentes (2 de PV extra por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>

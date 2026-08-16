@@ -177,7 +177,7 @@
 			<Text>Todas as unidades de combate terrestre têm +1 de [ICON_MOVES]Movimento e a promoção de Marcha, permitindo-lhes curar a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_SEVEN_CITIES">
-			<Text>Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, pode enviar até três {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para obter Pontos de Vitória do Novo Mundo e [ICON_GOLD]Ouro adicionais.</Text>
+			<Text>Depois de pesquisar Exploração, pode enviar até três Conquistadores para a borda ocidental do mapa para obter Pontos de Vitória do Novo Mundo e [ICON_GOLD]Ouro adicionais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAND_TRADE_GOLD">
 			<Text>+2 de [ICON_GOLD]Ouro de cada [ICON_CONNECTED]Rota Comercial.</Text>
@@ -380,34 +380,34 @@
 		</Row>
 		<!-- Unique units and buildings -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa Unidade Montada Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Aiúbidas podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
+			<Text>Poderosa Unidade Montada Medieval, fraca contra Piqueiros. Apenas os Aiúbidas podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do Cavaleiro que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. A {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de a {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
+			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o Cavaleiro. Essa unidade tem as mesmas estatísticas que o Cavaleiro, mas é significativamente melhor atacando cidades. A Mameluco pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de a Mameluco atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} é uma unidade exclusiva celta, substituindo o {TXT_KEY_UNIT_CROSSBOWMAN}. O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} tem um alcance maior do que o {TXT_KEY_UNIT_CROSSBOWMAN}, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
+			<Text>O Arqueiro Galês é uma unidade exclusiva celta, substituindo o Besteiro. O Arqueiro Galês tem um alcance maior do que o Besteiro, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_CARAVEL_STRATEGY">
 			<Text>Neste cenário, construir uma Caravela representa o financiamento de uma grande viagem de exploração do Novo Mundo. Uma vez construída, navegue com a Caravela até a borda ocidental do mapa, onde ela desaparecerá (mas lhe renderá Pontos de Vitória).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_AUSTRIAN_HUSSAR_STRATEGY">
-			<Text>{TXT_KEY_UNIT_AUSTRIAN_HUSSAR[2]} são ótimos batedores e combatentes de flancos. São um pouco mais fortes e rápidos que o {TXT_KEY_UNIT_LANCER} que substituem. Eles começam com Promoções que lhes dão +1 Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
+			<Text>Hussardos são ótimos batedores e combatentes de flancos. São um pouco mais fortes e rápidos que o Lanceiro Montado que substituem. Eles começam com Promoções que lhes dão +1 Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_RUSSIAN_COSSACK_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_RUSSIAN_COSSACK} é um unidade exclusiva russa, substituindo o {TXT_KEY_UNIT_LANCER}. Eles são mais fortes que os {TXT_KEY_UNIT_LANCER[2]} e ganham um forte bônus de combate quando batalhando com unidades feridas. Isso faz os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} excepcionalmente fortes no contra-ataque - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
+			<Text>O Cossaco é um unidade exclusiva russa, substituindo o Lanceiro Montado. Eles são mais fortes que os Lanceiros Montados e ganham um forte bônus de combate quando batalhando com unidades feridas. Isso faz os Cossacos excepcionalmente fortes no contra-ataque - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de Cossacos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
 			<Text>Unidade de exploração naval do Renascimento. Mova-as para a borda ocidental do mapa para ganhar Pontos de Vitória. Luta como uma unidade naval de combate corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
-			<Text>Unidade da Era Medieval especializada em exploração e colonização no além-mar. Somente a Espanha pode treiná-lo. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, eles podem enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro. Substitui o {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>Unidade da Era Medieval especializada em exploração e colonização no além-mar. Somente a Espanha pode treiná-lo. Depois de pesquisar Exploração, eles podem enviar 3 Conquistadores para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro. Substitui o Cavaleiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o {TXT_KEY_UNIT_KNIGHT}, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, a Espanha pode enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro.</Text>
+			<Text>O Conquistador é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o Cavaleiro, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do Cavaleiro. Depois de pesquisar Exploração, a Espanha pode enviar 3 Conquistadores para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
-			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao {TXT_KEY_UNIT_CROSSBOWMAN}, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
+			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao Besteiro, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
 			<Text>A Igreja de Madeira aumenta a [ICON_PEACE]Fé de uma cidade, acelerando a velocidade com que você pode fundar e espalhar religiões. A cidade deve conter um Santuário antes que a Igreja de Madeira possa ser construída. A Igreja de Madeira não tem custo de manutenção e leva metade do tempo para ser construída em comparação com o Templo, que ela substitui.</Text>

@@ -442,7 +442,7 @@
             <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} não pode tentar um golpe de Estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} ainda, porque {2: gender feminine?ela; other?ele;} não completou a avaliação do local.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_NO_ALLY_TT">
-            <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} não pode tentar um golpe de Estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} porque esta Cidade-Estado não está aliada a ninguém.</Text>
+            <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} não pode tentar um golpe de Estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} porque nenhuma civilização está atualmente aliada a {4_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_YOU_ALLY_TT">
             <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} não pode tentar um golpe de Estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} porque você está atualmente aliado com ela!</Text>

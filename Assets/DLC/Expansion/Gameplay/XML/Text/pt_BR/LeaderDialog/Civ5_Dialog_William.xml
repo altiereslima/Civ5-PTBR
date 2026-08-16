@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 
@@ -155,7 +155,7 @@
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_HAPPY">
-			<Text>{TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_2}</Text>
+			<Text>...Não.</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">

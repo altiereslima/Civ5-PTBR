@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_TITLE">
@@ -44,7 +44,7 @@
 			<Text>Haroldo Godwinson foi brevemente o rei da Inglaterra, governando de janeiro de 1066 até sua derrota na Batalha de Hastings, em outubro do mesmo ano, e foi o último dos reis anglo-saxões. Apesar de ter repelido com sucesso a invasão de Haroldo Hardrada no norte, Godwinson e seu exército foram destruídos em uma batalha de um dia inteiro, menos de um mês depois, por William, o Conquistador. Godwinson, diz a lenda, caiu por uma flecha no olho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_NAME">
-			<Text>William, o Conquistador </Text>
+			<Text>Guilherme, o Conquistador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_SUBTITLE">
 			<Text>Duque da Normandia </Text>
@@ -104,10 +104,10 @@
 			<Text>Construtores de Castelos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS">
-			<Text>{TXT_KEY_UNIT_SWORDSMAN[2]} podem construir a melhoria exclusiva Motte e Bailey no mesmo tempo que um trabalhador leva para construir um Forte.</Text>
+			<Text>Espadachins podem construir a melhoria exclusiva Motte e Bailey no mesmo tempo que um trabalhador leva para construir um Forte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SAXON_HUSCARL_TEXT">
-			<Text>Os {TXT_KEY_UNIT_SAXON_HUSCARL[2]} anglo-saxões, o equivalente medieval da guarda moderna, foram profissionalmente treinados e soldados bem remunerados que serviram ao rei e à nobreza. Equipados com casacos de cota de malha, conhecidos como "Byrnies" e, normalmente, armados com machados de guerra, os {TXT_KEY_UNIT_SAXON_HUSCARL[2]} foram uma Força de Defesa intimidadora ao longo dos séculos XI e XII.</Text>
+			<Text>Os Huscarls anglo-saxões, o equivalente medieval da guarda moderna, foram profissionalmente treinados e soldados bem remunerados que serviram ao rei e à nobreza. Equipados com casacos de cota de malha, conhecidos como "Byrnies" e, normalmente, armados com machados de guerra, os Huscarls foram uma Força de Defesa intimidadora ao longo dos séculos XI e XII.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL_STRATEGY">
 			<Text>O Huscarl é a unidade exclusiva da Inglaterra anglo-saxã, que substitui o Grande Espadachim. Esta unidade ganha as promoções Cobertura I e Bônus contra Montaria (50) por sua capacidade de criar muros de defesa, quando atacado.</Text>
@@ -116,13 +116,13 @@
 			<Text>Poderosa unidade medieval de ataque corpo a corpo. Fortes contra unidades montadas e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o Grande Espadachim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
-			<Text>Os {TXT_KEY_UNIT_KNIGHT[2]} do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os {TXT_KEY_UNIT_NORMAN_KNIGHT[2]} foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo a corpo.</Text>
+			<Text>Os Cavaleiros do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os Cavaleiros Normandos foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
 			<Text>O Cavaleiro Normando é a unidade exclusiva normanda, substituindo o Cavaleiro padrão. Esta unidade é o Cavaleiro padrão com a adição da promoção Blitz, permitindo-lhe atacar mais de uma vez por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NORMAN_KNIGHT">
-			<Text>Poderosa Unidade Montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Possui a promoção Blitz. Apenas os normandos pode treiná-la. Substitui o Cavaleiro padrão.</Text>
+			<Text>Poderosa Unidade Montada medieval, fraca contra Piqueiros. Possui a promoção Blitz. Apenas os normandos pode treiná-la. Substitui o Cavaleiro padrão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_HELP">
 			<Text>Fornece 5 de [ICON_GOLD] Ouro por turno. Seis destas edificações devem ser construídas para que o Livro do Juízo possa ser construído em Londres. Só pode ser construído em uma cidade originalmente controlada pela Inglaterra anglo-saxã e com 8 ou mais hexágonos de distância de Londres.</Text>
@@ -155,7 +155,7 @@
 			<Text>Um projeto primeiramente atribuído aos normandos, no século 10, o Motte e Bailey era um tipo de castelo elevado construído em cima de um monte terraplanado. O "Motte" era formado por escavações de trincheiras ao redor do local prospectado para o castelo. As porções de terra retiradas eram então utilizadas para a construção de uma colina ou monte artificiais, sobre os quais o castelo era construído. O "Bailey" se refere ao pátio inferior, normalmente cercado por um muro grande, contendo um quartel, ala dos serviçais e edificações de armazenamento. Qualquer unidade estacionada dentro de um Motte e Bailey recebe um bônus de 100% de Força de Defesa. Além disso, qualquer unidade inimiga que terminar o turno próxima a um Motte e Bailey recebe 3 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP">
-			<Text>Construído por {TXT_KEY_UNIT_SWORDSMAN[2]} normandos, o Motte e Bailey fornece 100% de [ICON_STRENGTH] Força de Defesa para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano.</Text>
+			<Text>Construído por Espadachins normandos, o Motte e Bailey fornece 100% de [ICON_STRENGTH] Força de Defesa para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY">
 			<Text>Construir um Motte e Bailey </Text>
