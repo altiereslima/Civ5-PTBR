@@ -87,7 +87,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY">
 			<Text>Fábrica|Fábricas</Text>
-			<Gender>feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORBIDDEN_PALACE">
@@ -102,7 +102,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY">
 			<Text>Celeiro|Celeiros</Text>
-			<Gender>masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY">
@@ -286,13 +286,13 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY">
-			<Text>Fábrica Aeroespacial|Fábricas Aeroespaciais</Text>
-			<Gender>feminine</Gender>
+			<Text>Fábrica de Espaçonaves|Fábricas de Espaçonaves</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE">
 			<Text>Estábulo|Estábulos</Text>
-			<Gender>masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STATUE_OF_LIBERTY">

@@ -27,7 +27,7 @@
 			<Text>Com a ajuda de outra potência, mais uma grande civilização caiu. Nós conseguimos saquear uma moderada riqueza de ({1_NumGold} de Ouro) do tesouro deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
-			<Text>A Cidade-Estado de Almati caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Jinetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado de Almati caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Ginetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
 			<Text>A Cidade-Estado de Dali caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Piqueiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
@@ -36,7 +36,7 @@
 			<Text>A Cidade-Estado da Coreia caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Besteiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
-			<Text>A Cidade-Estado de Xia Ocidental caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Jinetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade à sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
+			<Text>A Cidade-Estado de Xia Ocidental caiu frente às nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Ginetes para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade à sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
 			<Text>Tecnologia gratuita por conquistar grande civilização</Text>
@@ -65,7 +65,7 @@
 			<Text>Seja bem-vindo, forasteiro! Eu sou Miguel VIII, restaurador do Império Bizâncio. Damos-lhe saudações à nossa terra, recentemente recuperada dos cavaleiros da Quarta Cruzada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_UIGHUR_TEXT">
-			<Text>Fundado em 742 d.C., a Era de Ouro do Império Uigur rapidamente começou e se prolongou até o final do século VIII. Entretanto, o jovem e fraco Império foi conquistado pelos Quirguizes em 840, e se dividiu em três reinos: Gansu, Turfã e Caracânida. Este cenário trata do Uigur em Turfã, um reino tribal bem-sucedido que se manteve até a invasão Mongol de 1389. Os Mongóis eventualmente adotaram o sistema de escrita Uigur após se tornarem seus vassalos.</Text>
+			<Text>Fundado em 742 d.C., a Era de Ouro do Império Uigur rapidamente começou e se prolongou até o final do século VIII. Entretanto, o jovem e fraco Império foi conquistado pelos Quirguizes em 840, e se dividiu em três reinos: Gansu, Turfã e Caracânida. Este cenário trata do Uigur em Turfã, um reino tribal bem-sucedido que se manteve até a invasão Mongol de 1389. Os Mongóis por fim adotaram o sistema de escrita Uigur após se tornarem seus vassalos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GEORGIA_TEXT">
 			<Text>Habitada desde o início da Era da Pedra, a unificação completa da área só ocorreu no século XI d.C., pelo Rei Bagrat V. O novo reino da Geórgia rapidamente floresceu e chegou ao seu apogeu apenas um pequeno século depois. Essa Renascença Georgiana trouxe uma grande quantidade de avanços à área, incluindo descobertas em filosofia, a escrita de épicas poesias e a construção de catedrais extraordinárias. Apesar de seu rápido e bem-sucedido desenvolvimento, a Era de Ouro Georgiana chegou ao fim com a invasão Mongol, em 1236; o reino entrou totalmente em colapso no final do século XV.</Text>
@@ -77,7 +77,7 @@
 			<Text>O Período de Ouro de Dai Viet, no Vietnã, começou com a fundação da dinastia Ly em 1009 d.C. Foi nessa época que o país adotou uma visão estratégica formal e passou a focar mais na construção de uma economia forte e na conclusão de projetos de obras civis. Ao perceberem um tesouro valioso perto de suas fronteiras, os Mongóis tentaram invadir Dai Viet em 1257, 1284 e 1288, todas sem sucesso. Dai Viet fez o que a maioria das outras nações da época não conseguiu: evitaram as forças superiores dos Mongóis em campo aberto e lutaram contra a cavalaria apenas onde tinham vantagem, garantindo assim a independência de sua nação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DALI_TEXT">
-			<Text>Localizado na moderna Província Iunã da China, o reino de Dali foi fundado em 937 d.C., após um período de pequenas dinastias turbulentas. O território do reino naturalmente fornecia proteção e dizia-se que apenas alguns poucos homens poderiam proteger o vale durante anos. Isso parecia ser verdade, já que os Mongóis tentaram invadir o reino várias vezes, todas sem sucesso. Registros mostram que o exército Mongol eventualmente encontrou um traidor em Dali para levá-los por uma passagem secreta sobre as montanhas, dando-lhes finalmente os meios para sobrepujar as defesas impenetráveis. Em 1253, os Mongóis completaram sua invasão do Estado, criando a Província de Iunã, em 1274.</Text>
+			<Text>Localizado na moderna Província Iunã da China, o reino de Dali foi fundado em 937 d.C., após um período de pequenas dinastias turbulentas. O território do reino naturalmente fornecia proteção e dizia-se que apenas alguns poucos homens poderiam proteger o vale durante anos. Isso parecia ser verdade, já que os Mongóis tentaram invadir o reino várias vezes, todas sem sucesso. Registros mostram que o exército Mongol por fim encontrou um traidor em Dali para levá-los por uma passagem secreta sobre as montanhas, dando-lhes finalmente os meios para sobrepujar as defesas impenetráveis. Em 1253, os Mongóis completaram sua invasão do Estado, criando a Província de Iunã, em 1274.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_ABBASIDS_TEXT">
 			<Text>O terceiro dos califados Islâmicos, a Dinastia Abbasid governou o reino da capital Bagdá. O califado foi fundado por descendentes do profeta Maomé, em 750 d.C. e floresceu por muitas centenas de anos. Os Abbasids continuaram no poder por séculos, mas seu domínio sobre as províncias locais foi diminuindo com o tempo. Em 1258, os Mongóis invadiram o califado e saquearam Bagdá, removendo os Abbasids do poder político. O Califado foi formalmente desestabilizado com os Abbasids conseguindo controlar apenas uma pequena parte da autoridade religiosa.</Text>

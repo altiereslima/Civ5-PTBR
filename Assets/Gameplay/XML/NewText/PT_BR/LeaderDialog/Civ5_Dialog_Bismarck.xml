@@ -2,7 +2,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1">
-			<Text>Muito Bem.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2">
 			<Text>Tudo certo.</Text>
@@ -17,49 +17,49 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6">
-			<Text>Suponho que devo.</Text>
+			<Text>Suponho que devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1">
-			<Text>Excelente! Sua estratégia finalmente falhou!</Text>
+			<Text>Excelente! Finalmente caiu na minha armadilha!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2">
-			<Text>Que decisão extremamente estúpida. A consequência virá.</Text>
+			<Text>Que decisão extraordinariamente idiota. Pagará por essa tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3">
-			<Text>Combatente desprezível! Vamos acabar com sua ameaça!</Text>
+			<Text>Criatura vil! Vamos enterrar você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1">
-			<Text>Concluí que seu Império significa uma ameaça real para os interesses da grande nação Alemã. Decidi, com muita relutância, posso assegurar - que vou destruir seu império.</Text>
+			<Text>Concluí que seu país representa uma ameaça aos interesses nacionais vitais da Alemanha. Por isso decidi — com grande relutância, asseguro — destruir você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2">
 			<Text>Parece-me inevitável que nossas civilizações acabem se enfrentando. Prefiro não esperar até sua nação se tornar mais poderosa, então prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3">
-			<Text>Sua existência sugere uma ameaça para os interesses da Alemanha. Prepare-se para a guerra.</Text>
+			<Text>Sua existência contínua representa uma ameaça aos interesses alemães. Prepare-se para a guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1">
 			<Text>A Alemanha foi destruída - Eu choro pelas gerações futuras!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2">
-			<Text>Parabenizo por sua grande vitória. As forças da história devem estar ao seu lado.</Text>
+			<Text>Parabéns pela vitória. As forças da história realmente devem estar do seu lado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3">
 			<Text>Inconcebível! Eu, Otto Von Bismarck - Duque de Lauenburg, Primeiro-Ministro da Prússia e primeiro Chanceler da Alemanha... fui derrotado por ALGUÉM COMO VOCÊ?!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4">
-			<Text>Parabenizo por sua vitória. Que seu império se mantenha por milhares de anos!</Text>
+			<Text>Parabéns pela vitória. Que seu grande Império perdure por mil vezes mil anos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY">
 			<Text>Dê-nos isto se quiser que o seu patético Império sobreviva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY">
-			<Text>A Alemanha precisa da sua ajuda. Seria do bom interesse do seu Império nos atender.</Text>
+			<Text>Em nome de nossa amizade, a Alemanha precisa de sua ajuda. Atender ao pedido seria do melhor interesse do seu país.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL">
-			<Text>A Alemanha precisa da sua ajuda, imediatamente. Nossos homens esperam sua resposta.</Text>
+			<Text>A Alemanha exige isto imediatamente. Nossas tropas aguardam sua resposta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1">
 			<Text>Não.</Text>
@@ -80,13 +80,13 @@
 			<Text>Você não está falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7">
-			<Text>Está falando sério?</Text>
+			<Text>Como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1">
 			<Text>O poderoso povo alemão cumprimenta quem nos visita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2">
-			<Text>A Alemanha saúda. Eu rezo para que os nossos grandes povos sempre vivam em paz.</Text>
+			<Text>A Alemanha saúda você. Rogo para que nossos dois grandes povos vivam sempre em paz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3">
 			<Text>Em nome do grande povo Alemão, dou as boas-vindas!</Text>
@@ -101,7 +101,7 @@
 			<Text>Até logo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4">
-			<Text>Até à próxima.</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5">
 			<Text>Vá embora agora.</Text>
@@ -155,25 +155,25 @@
 			<Text>Siga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1">
-			<Text>Desejamos um empate, concorda?</Text>
+			<Text>Chamemos isso de empate, certo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2">
-			<Text>Fico feliz que nós pudemos chegar a um acordo justo e honroso.</Text>
+			<Text>Fico feliz por termos chegado a uma paz justa e honrosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3">
 			<Text>A Alemanha reconhece a sua vitória. Parabéns!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_1">
-			<Text>Não por discurso ou por voto da maioria as grandes questões do tempo foram decididas - este foi o erro de 1848 e 1849 - mas sim com ferro e sangue.</Text>
+			<Text>Não é por discursos nem por votos da maioria que as grandes questões de nosso tempo são decididas — esse foi o erro de 1848 e 1849 —, mas por ferro e sangue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_2">
-			<Text>A eloquência não deterá um exército inimigo à sua volta.</Text>
+			<Text>Um exército conquistador na fronteira não será detido pela eloquência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_3">
-			<Text>Deus tem uma providência especial para quem tarda, quem se embriaga e aos Estados Unidos da América.</Text>
+			<Text>Deus tem uma providência especial para os tolos, os bêbados e os Estados Unidos da América.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_4">
-			<Text>Todos os tratos entre grande potências deixam de ser válidos quando entram em conflito pela sobrevivência.</Text>
+			<Text>Todos os tratados entre grandes potências deixam de ser obrigatórios quando entram em conflito com a luta pela existência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_1">
 			<Text>Inaceitável, inaceitável, inaceitável! Melhore sua oferta ou vá embora!</Text>
@@ -188,7 +188,7 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_1">
-			<Text>A Alemanha não pode aceitar sua oferta. Não poderia melhorá-la?</Text>
+			<Text>Em nome de nossa amizade, a Alemanha não pode aceitar sua oferta como está. Certamente pode melhorá-la, não?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_2">
 			<Text>Isso é o melhor que pode fazer?</Text>
@@ -221,7 +221,7 @@
 			<Text>A Alemanha não está interessada na sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY">
-			<Text>Muito Bem.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY">
 			<Text>Excelente! Mostrou grande perseverança.</Text>
@@ -233,16 +233,16 @@
 			<Text>Seria bom considerar esta oferta cuidadosamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY">
-			<Text>Acredito que este contrato será benéfico para nossos povos, O que você diz?</Text>
+			<Text>Acredito que este acordo beneficiará nossos dois povos. Em nome de nossa amizade, o que me diz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL">
-			<Text>O generoso povo alemão lhe fez uma oferta equiparada.</Text>
+			<Text>O generoso povo alemão lhe faz esta oferta extremamente justa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY">
-			<Text>Saia daqui, antes que se arrependa.</Text>
+			<Text>Venha buscar. Que arrogância insensata.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY">
-			<Text>Este não é momento adequado.</Text>
+			<Text>Uma concessão dessas não seria do nosso interesse neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL">
 			<Text>A Alemanha não se renderá às ameaças de nações inferiores.</Text>
@@ -263,7 +263,7 @@
 			<Text>Este desafio pode ser perigoso, especialmente se não tiver forças para enfrentá-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3">
-			<Text>Então descobriu o meu blefe. Eu parabenizo.</Text>
+			<Text>Então decidiu pagar para ver, hein? Parabéns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4">
 			<Text>Que decepcionante.</Text>

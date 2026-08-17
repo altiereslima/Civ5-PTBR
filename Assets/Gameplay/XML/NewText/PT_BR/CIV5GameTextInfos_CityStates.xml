@@ -20,9 +20,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ">
-		<Text>Edimburguense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Edimburguense|Edimburguense|Edimburguenses|Edimburguenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_DUBLIN">
 		<Text>Dublin</Text>
@@ -30,9 +30,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ">
-		<Text>Dublinense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Dublinense|Dublinense|Dublinenses|Dublinenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_GENEVA">
 		<Text>Genebra</Text>
@@ -90,9 +90,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ">
-		<Text>Copenhaguense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Copenhaguense|Copenhaguense|Copenhaguenses|Copenhaguenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_OSLO">
 		<Text>Oslo</Text>
@@ -100,9 +100,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_OSLO_ADJ">
-		<Text>de Oslo</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>de Oslo|de Oslo|de Oslo|de Oslo</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM">
 		<Text>Estocolmo</Text>
@@ -110,9 +110,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ">
-		<Text>Estocolmense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Estocolmense|Estocolmense|Estocolmenses|Estocolmenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_HELSINKI">
 		<Text>Helsinque</Text>
@@ -130,9 +130,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJ">
-		<Text>Bucarestense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Bucarestense|Bucarestense|Bucarestenses|Bucarestenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_BUDAPEST">
 		<Text>Budapeste</Text>
@@ -160,9 +160,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ">
-		<Text>Vienense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Vienense|Vienense|Vienenses|Vienenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_BRUSSELS">
 		<Text>Bruxelas</Text>
@@ -190,9 +190,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ">
-		<Text>Seulense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Seulense|Seulense|Seulenses|Seulenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_HANOI">
 		<Text>Hanói</Text>
@@ -200,9 +200,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
-		<Text>Hanoiense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Hanoiense|Hanoiense|Hanoienses|Hanoienses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_LHASA">
 		<Text>Lhasa</Text>
@@ -210,9 +210,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJ">
-		<Text>Lhasense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Lhasense|Lhasense|Lhasenses|Lhasenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_ALMATY">
 		<Text>Almati</Text>
@@ -220,9 +220,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJ">
-		<Text>Almatiense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Almatiense|Almatiense|Almatienses|Almatienses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR">
 		<Text>Kuala Lumpur</Text>
@@ -230,9 +230,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJ">
-		<Text>Kuala Lumpurense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Kuala Lumpurense|Kuala Lumpurense|Kuala Lumpurenses|Kuala Lumpurenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE">
 		<Text>Singapura</Text>
@@ -240,9 +240,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJ">
-		<Text>Singapurense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Singapurense|Singapurense|Singapurenses|Singapurenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO">
 		<Text>Rio de Janeiro</Text>
@@ -250,9 +250,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO_ADJ">
-		<Text>Carioca</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Carioca|Carioca|Cariocas|Cariocas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN">
 		<Text>Cidade do Cabo</Text>
@@ -266,13 +266,13 @@
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SIDON">
 		<Text>Sídon</Text>
-		<Gender>masculine</Gender>
+		<Gender>neuter:noart</Gender>
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJ">
-		<Text>Sidonense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Sidonense|Sidonense|Sidonenses|Sidonenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_TYRE">
 		<Text>Tiro</Text>
@@ -280,9 +280,9 @@
 		<Plurality>1</Plurality>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJ">
-		<Text>Tirense</Text>
-		<Gender>neuter:noart</Gender>
-		<Plurality>1</Plurality>
+		<Text>Tirense|Tirense|Tirenses|Tirenses</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
     </Row>    
   </Language_pt_BR>
 </GameData>

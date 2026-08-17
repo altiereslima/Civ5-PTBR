@@ -52,7 +52,7 @@
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_1">
-            <Text>Bem-vinda pessoa.</Text>
+            <Text>Boas-vindas.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_2">
             <Text>Saudações!</Text>

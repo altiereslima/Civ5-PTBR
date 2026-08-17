@@ -584,13 +584,13 @@
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marcos Históricos, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite o transporte aéreo de ou para esta cidade. [COLOR_POSITIVE_TEXT]Aumenta a capacidade de unidades aéreas da cidade de 6 para 10.[ENDCOLOR] 50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marcos Históricos, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas nesta edificação para obter [ICON_CULTURE] Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE] Cultura e 3 pontos de [ICON_GREAT_PEOPLE] Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL] Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD] Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um Bazar gerarão +2 de [ICON_GOLD] Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD] Ouro adicional.</Text>
+			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL] Petróleo e cada Oásis fornece +2 de [ICON_GOLD] Ouro. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possua um Bazar gerarão +2 de [ICON_GOLD] Ouro extras para o proprietário da cidade, e o proprietário da rota comercial ganhará +1 de [ICON_GOLD] Ouro adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
 			<Text>Substituto Indonésio único para o Jardim. +25% de geração de [ICON_GREAT_PEOPLE] Grandes Personalidades nesta cidade e +2 de [ICON_PEACE] Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
@@ -611,10 +611,10 @@
 			<Text>[NEWLINE][ICON_BULLET] Modificador para Hansa: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
-			<Text>Cria uma [ICON_CONNECTED] Conexão com a [ICON_CAPITAL] Capital pela a água (se já não estiverem [ICON_CONNECTED] conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD] Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
+			<Text>Cria uma [ICON_CONNECTED] Conexão com a [ICON_CAPITAL] Capital pela água (se ainda não estiverem [ICON_CONNECTED] conectadas por terra). Rotas comerciais marítimas originárias desta cidade têm um aumento de 50% no alcance e produzem 2 de [ICON_GOLD] Ouro adicionais quando conectadas a outra civilização.[NEWLINE][NEWLINE]A cidade deve ser construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
-			<Text>50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marco Histórico, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo dos Grandes Obras aumenta em 50%.</Text>
+			<Text>50% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias (Marcos Históricos, Moais, Château) é adicionado à geração de [ICON_TOURISM] Turismo da cidade. A geração de [ICON_TOURISM] Turismo das Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
 			<Text>Substituta Zulu único para o Quartel. Concede promoções únicas para unidades de ataque corpo a corpo pré-pólvora.</Text>
@@ -657,14 +657,14 @@
 			<Text>Uma Casbá só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção e [ICON_GOLD] Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um Forte. Deve ser construída em território Marroquino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
-			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa que um Forte. Deve ser construído em território Francês. Quando a tecnologia Aeronáutica for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
+			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa que um Forte. Deve ser construído em território Francês. Quando a tecnologia Voo for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
 		</Row>
 		<!-- WONDERS HELP -->
 		<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
 			<Text>Deve ser construído em uma Cidade Santa. 3 Missionários gratuitos aparecem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
-			<Text>Fornece um espaço adicional de rota comercial e um Navio Cargueiro aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui O Colosso gerarão 2 de [ICON_GOLD] Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD] Ouro. A cidade de estar construída na costa.</Text>
+			<Text>Fornece um espaço adicional de rota comercial e um Navio Cargueiro aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui O Colosso gerarão 2 de [ICON_GOLD] Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD] Ouro. A cidade deve estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_RED_FORT_HELP">
 			<Text>Edificações defensivas em todas as cidades são 25% mais eficientes.</Text>
@@ -788,6 +788,19 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
 			<Text>© 1991-2013 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são todas marcas registradas da Take-Two interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Utiliza Granny Animation. Copyright © 1999-2010 RAD Game Tools, Inc. Utiliza Miles Sound System. Copyright © 1991-2010 RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Entertainment Software Association. Todas as outras marcas e marcas registradas são propriedade de seus respectivos donos. Todos os direitos reservados. O conteúdo deste videogame é ficcional e não tem a intenção de representar ou descrever um registro real dos eventos, pessoas ou entidades no cenário histórico do jogo.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_UNMET_TT">
+			<Text>Uma civilização desconhecida só precisa se tornar Influente sobre mais 1 civilização para obter uma Vitória Cultural!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_UNMET_TT">
+			<Text>Uma civilização desconhecida só precisa se tornar Influente sobre mais 2 civilizações para obter uma Vitória Cultural.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER">
+			<Text>Saque da Cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER_HELP">
+			<Text>Rouba [ICON_GOLD] Ouro equivalente a 100% do dano causado a uma cidade.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -26,10 +26,10 @@
       <Text>Excelente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_1">
-      <Text>Por quê? Sua... pessoa inútil! Vou te esmagar!</Text>
+      <Text>Ora, sua... cria inútil de uma mula estéril! Vou esmagar você!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_2">
-      <Text>Ingrata criatura! Vou ensinar a você a não atacar seus superiores!</Text>
+      <Text>Criatura ingrata! Vou ensinar você a não atacar seus superiores!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_3">
       <Text>Miserável... Deveria ter destruído você há muitos anos.</Text>
@@ -41,7 +41,7 @@
       <Text>Seu povo pede para que seja libertado de sua incompetência. Prepare-se para a guerra.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_3">
-      <Text>Sua existência é uma vergonha para os líderes mundiais. Você deve ser destruído.</Text>
+      <Text>Sua existência contínua é uma vergonha para governantes do mundo inteiro. Terei de destruir você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_1">
       <Text>Idiota!  Sabe o que fez? O mundo vai lamentar por muito tempo o seu crime hediondo!</Text>
@@ -53,10 +53,10 @@
       <Text>Você me venceu? Mas como isso aconteceu? Deve haver algum engano!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_ANGRY">
-      <Text>Normalmente, eu simplesmente enviaria meus exércitos ao seu território e tomaria o que eu quero, mas hoje me sinto especialmente generoso. Espero que aproveite essa oportunidade única.</Text>
+      <Text>Normalmente eu simplesmente enviaria meus exércitos ao seu território e tomaria o que quero, mas hoje estou especialmente misericordioso. Espero que aproveite esta oportunidade única na vida.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_HAPPY">
-      <Text>Poderia ceder isso? A Pérsia ficaria em dívida por milhares de anos!</Text>
+      <Text>Em nome de nossa amizade, poderia nos ceder isto? A Pérsia ficaria em dívida por milhares de anos!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_NEUTRAL">
       <Text>Um presente? Para mim? Quanta consideração.</Text>
@@ -80,16 +80,16 @@
       <Text>Não deve estar falando a sério!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_7">
-      <Text>Está falando sério?</Text>
+      <Text>Como disse?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_1">
-      <Text>Eu, Dario, governante da poderosa Pérsia, cumprimento com apreço e amizade. Se as responsabilidades da liderança forem muito pesadas, não hesite em me consultar.</Text>
+      <Text>Eu, Dario, governante da poderosa Pérsia, recebo você com cordialidade e amizade. Se as responsabilidades da liderança se tornarem pesadas demais, não hesite em me consultar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_2">
-      <Text>Saudações gentis e generosas! Ofereço minha sincera amizade. Eu sou Dario, a liderança da Pérsia, e me considero uma pessoa extremamente inteligente e notável.</Text>
+      <Text>Recebo você com toda a cortesia e, em minha generosidade, estendo minha mão em amizade. Sou Dario, líder da Pérsia e um homem extremamente sábio e extraordinário.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_3">
-      <Text>Boas-vindas. Sou Dario, a liderança da poderosa Pérsia. Mas é claro que já sabia disso.</Text>
+      <Text>Boas-vindas! Sou Dario, o irrepreensível líder da poderosa Pérsia. Mas é claro que já sabia disso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_1">
       <Text>Tenha um bom dia!</Text>
@@ -101,7 +101,7 @@
       <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_4">
-      <Text>Até à próxima.</Text>
+      <Text>Até a próxima.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_5">
       <Text>Vá embora agora.</Text>
@@ -164,7 +164,7 @@
       <Text>Precisa fazer melhor que isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Acredito que sua oferta seja muito fraca. Não pode melhorar?</Text>
+      <Text>Em nome de nossa amizade, receio que sua oferta esteja um tanto mesquinha. Não poderia melhorá-la?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_2">
       <Text>É a sua melhor oferta?</Text>
@@ -188,7 +188,7 @@
       <Text>Infelizmente, temos que recusar sua oferta. Talvez possamos discutir isso de novo em alguns anos - digamos, depois que sua civilização descobrir o sabão.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_HAPPY">
-      <Text>Lamento muito, mas não posso aceitar estas condições. Se ocupasse uma posição de grande liderança mundial, entenderia.</Text>
+      <Text>Lamento muito, mas não posso aceitar estas condições. Se fosse um grande governante mundial, entenderia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_NEUTRAL">
       <Text>Infelizmente, não posso aceitar. Volte quando tiver algo melhor para negociar.</Text>
@@ -206,13 +206,13 @@
       <Text>Somos ensinados a ser generosos com pessoas em posições inferiores. Por isso, fazemos esta oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_HAPPY">
-      <Text>Minha infinita generosidade irá me levar à ruína! Sugiro que aceite esta oferta antes que eu recupere a consciência.</Text>
+      <Text>Minha extrema generosidade vai me levar à pobreza! Recomendo que aceite esta oferta antes que eu recobre o juízo!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_NEUTRAL">
-      <Text>Com minha infinita magnanimidade, estou fazendo esta oferta incrível. Concorda, é claro.</Text>
+      <Text>Em minha infinita magnanimidade, faço esta oferta inacreditavelmente justa. Concorda, é claro?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_ANGRY">
-      <Text>Creio que não entendeu a situação: sou o grande Dario, rei de Pérsia, e você é um rato que não merece nem beijar minhas vestes.</Text>
+      <Text>Acho que não entendeu a situação: eu sou o grande Dario, rei da Pérsia, e você é uma criatura inútil, indigna até de beijar a barra de minha veste.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_HAPPY">
       <Text>Hah! Uma piada muito boa, é verdade! Estava brincando, não é?</Text>

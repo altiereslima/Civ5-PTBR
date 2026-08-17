@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
     <Language_pt_BR>
@@ -26,7 +26,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Honra[ENDCOLOR] melhora a eficácia de seu exército de várias maneiras.[NEWLINE][NEWLINE]Adotando Honra, você ganhará um bônus de +33% no combate contra Bárbaros e será notificado quando surgir um novo acampamento bárbaro em território já revelado. Você também ganhará [ICON_CULTURE] Cultura para cada bárbaro morto. Desbloqueia a construção da Estátua de Zeus.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Honra você ganhará [ICON_GOLD] Ouro para cada unidade inimiga morta, além de permitir a compra de Grandes Generais com [ICON_PEACE] Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION] Produção no treinamento de unidades de ataque corpo a corpo e um [ICON_GREAT_PEOPLE] Grande General aparece próximo a sua [ICON_CAPITAL] Capital. Grandes Generais são produzidos 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Código do Guerreiro[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION] Produção ao treinar unidades de combate corpo a corpo, e um [ICON_GREAT_PEOPLE] Grande General aparece próximo à sua [ICON_CAPITAL] Capital. Grandes Generais são gerados 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Exército Profissional[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD] Ouro para atualizar unidades militares é reduzido em 33% e a construção de Quartéis, Arsenais e Academias Militares ocorre 50% mais rápido.</Text>
@@ -38,16 +38,16 @@
             <Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD] Ouro das cidades em 25%. Locais Sagrados fornecem +3 de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Mandato Divino[ENDCOLOR][NEWLINE]20% de desconto em todas as compras de unidades e edificações religiosas com [ICON_PEACE] Fé.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Mandato do Céu[ENDCOLOR][NEWLINE]20% de desconto em todas as compras de unidades e edificações religiosas com [ICON_PEACE] Fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Liberdade Religiosa[ENDCOLOR][NEWLINE]Cidades com uma religião predominante também recebem o bônus de crença do Panteão da segunda religião mais popular.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Cidades com uma religião predominante também recebem o bônus da crença de Panteão da segunda religião mais popular.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]Se você fundar uma religião, ganhe um bônus de crença da Reforma.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Patronato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE]Ao adotar o Patronato, a [ICON_INFLUENCE] Influência sobre Cidades-Estado decai 25% mais lento que o normal. Desbloqueia a construção do Palácio Proibido.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Patronato, Cidades-Estado aliadas ocasionalmente lhe presentearão com [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Mecenato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE]Ao adotar o Mecenato, a [ICON_INFLUENCE] Influência sobre Cidades-Estado decai 25% mais lento que o normal. Desbloqueia a construção do Palácio Proibido.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Mecenato, Cidades-Estado aliadas ocasionalmente lhe presentearão com [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CONSULATES">
             <Text>Consulados</Text>
@@ -155,7 +155,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Frotas do Tesouro[ENDCOLOR][NEWLINE]+4 de [ICON_GOLD] Ouro de todas as rotas comerciais marítimas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Racionalismo[ENDCOLOR] melhora a habilidade de usar e gerar [ICON_RESEARCH] Ciência.[NEWLINE][NEWLINE]Adotando Racionalismo, você obterá +10% de [ICON_RESERACH] Ciência enquanto o Império estiver [ICON_HAPPINESS_1] Feliz. Desbloqueia o construção da Torre de Porcelana.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Racionalismo, você receberá 1 tecnologia gratuita, além de permitir a compra de Grandes Cientistas com [ICON_PEACE] Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Racionalismo[ENDCOLOR] melhora a capacidade de usar e gerar [ICON_RESEARCH] Ciência.[NEWLINE][NEWLINE]Ao adotar Racionalismo, você obtém +10% de [ICON_RESEARCH] Ciência enquanto o Império estiver [ICON_HAPPINESS_1] Feliz. Desbloqueia a construção da Torre de Porcelana.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Racionalismo, você recebe 1 tecnologia gratuita e passa a poder comprar Grandes Cientistas com [ICON_PEACE] Fé a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Humanismo[ENDCOLOR][NEWLINE]Grandes Cientistas são obtidos 25% mais rápido.</Text>
@@ -194,7 +194,7 @@
             <Text>Capitalismo</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CAPITALISM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Capitalismo[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1] Felicidade Local para cada Cada da Moeda, Banco ou Bolsa de Valores.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Capitalismo[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1] Felicidade Local para cada Casa da Moeda, Banco ou Bolsa de Valores.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION">
             <Text>União Econômica</Text>
@@ -395,7 +395,7 @@
             <Text>Diplomacia das Canhoneiras</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Diplomacia das Canhoneiras[ENDCOLOR][NEWLINE]Ganhe +6 de [ICON_INFLUENCE] Influência (na velocidade de jogo Padrão) por turno com Cidades-Estado que você demandar tributos. Sua força militar é 50% mais efetiva em intimidar Cidades-Estado.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Diplomacia das Canhoneiras[ENDCOLOR][NEWLINE]Ganhe +6 de [ICON_INFLUENCE] Influência (na velocidade de jogo Padrão) por turno com Cidades-Estado das quais você poderia exigir tributo. Suas forças militares são 50% mais eficazes ao intimidar Cidades-Estado.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_ORDER">
             <Text>O Legado de Clausewitz</Text>
@@ -486,7 +486,7 @@
             <Text>Você não pode alterar Ideologias quando seu povo está [COLOR_POSITIVE_TEXT]Contente[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_CHANGE_IDEOLOGY">
-            <Text>Alterar Ideologia resultará em {1_AnarchyTurns} {1: plural 1?turno; other?turnos;} de anarquia em cada uma das suas cidades, onde não haverá produção de [ICON_GOLD] Ouro, [ICON_RESEARCH] Ciência, [ICON_CULTURE] Cultura, [ICON_PEACE] Fé ou [ICON_PRODUCTION] Produção. Além disso, reduzirá o número de Princípios Ideológicos que você atualmente possui nos princípios {2_CurrentIdeologyTenets} em {3_CurrentIdeologyTree} para apenas {4_NewIdeologyTenets} {4: plural 1?princípio; other?princípios;} em {5_NewIdeologyTree}.[NEWLINE][NEWLINE]Entretanto, você ganhará {6_HappinessGain} de [ICON_HAPPINESS_1] Felicidade de Opinião Pública.[NEWLINE](NOTA: Você também pode temporariamente perder [ICON_HAPPINESS_1] Felicidade dos princípios {3_CurrentIdeologyTree} que foram perdidos, até você selecionar princípios para a nova Ideologia).[NEWLINE][NEWLINE]Tem certeza que deseja trocar para a Ideologia [COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR]?</Text>
+            <Text>Alterar a Ideologia resultará em {1_AnarchyTurns} {1: plural 1?turno; other?turnos;} de anarquia em cada uma de suas cidades, período em que elas não produzirão [ICON_PRODUCTION] Produção, [ICON_GOLD] Ouro, [ICON_RESEARCH] Ciência, [ICON_CULTURE] Cultura nem [ICON_PEACE] Fé. Além disso, o número de Princípios Ideológicos será reduzido: dos {2_CurrentIdeologyTenets} princípios que você possui atualmente em {3_CurrentIdeologyTree} para apenas {4_NewIdeologyTenets} {4: plural 1?princípio; other?princípios;} em {5_NewIdeologyTree}.[NEWLINE][NEWLINE]Entretanto, você ganhará {6_HappinessGain} de [ICON_HAPPINESS_1] Felicidade de Opinião Pública.[NEWLINE](NOTA: você também pode perder temporariamente [ICON_HAPPINESS_1] Felicidade proveniente dos princípios de {3_CurrentIdeologyTree} que forem perdidos, até selecionar princípios para sua nova Ideologia).[NEWLINE][NEWLINE]Tem certeza de que deseja mudar para a Ideologia [COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR]?</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY">
             <Text>Você pode escolher uma Política Social ou Princípio Ideológico gratuitamente!</Text>
@@ -620,7 +620,7 @@
             <Text>Pagão Convertido</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_ARCHAEOLOGY">
-            <Text>Uma Escavação Arqueológica foi estabelecida em um Sítio Arqueológico. Escolha como usar o Arqueologista que você possui próximo a este local.</Text>
+            <Text>Uma Escavação Arqueológica foi estabelecida em um Sítio Arqueológico. Escolha como usar o Arqueólogo que você possui próximo a este local.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_ARCHAEOLOGY">
             <Text>ESCOLHER ARQUEOLOGIA</Text>
@@ -750,7 +750,7 @@
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-            <Text>A Casa de Ópera é uma edificação da Era Renascentista que aumenta a [ICON_CULTURE] Cultura de uma cidade. A cidade precisa possuir um Anfiteatro para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
+            <Text>A Casa de Ópera é uma edificação da Era do Renascimento que aumenta a [ICON_CULTURE] Cultura de uma cidade. A cidade precisa possuir um Anfiteatro para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
             <Text>O Museu é uma edificação do meio do jogo que aumenta a produção de [ICON_CULTURE] Cultura da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Obras de Arte.</Text>
@@ -807,7 +807,7 @@
             <Text>Requer Piedade. Todos os Missionários nascidos nesta cidade podem disseminar religião três vezes. Fornece uma Mesquita gratuita na cidade onde tiver sido construída.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP">
-            <Text>Requer Patronato. Fornece 2 Delegados adicionais no Congresso Mundial. -10% de [ICON_HAPPINESS_4] Infelicidade de [ICON_CITIZEN] Cidadãos em cidades não ocupadas.</Text>
+            <Text>Requer Mecenato. Fornece 2 Delegados adicionais no Congresso Mundial. -10% de [ICON_HAPPINESS_4] Infelicidade de [ICON_CITIZEN] Cidadãos em cidades não ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
             <Text>Requer Comércio. O custo de [ICON_GOLD] Ouro nas compras em todas as cidades é reduzido em 15%.</Text>

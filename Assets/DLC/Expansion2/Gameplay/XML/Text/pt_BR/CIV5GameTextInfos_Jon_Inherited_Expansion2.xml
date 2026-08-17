@@ -4,16 +4,16 @@
     <Language_pt_BR>
         <!-- === City-States === -->
         <Row Tag="TXT_KEY_CITY_STATE_ALLY_TT">
-            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 2?{1: gender masculine?são os atuais aliados; other?são as atuais aliadas;}; other?{1: gender masculine?é o atual aliado; other?é a atual aliada;};} deles. Você precisa de mais {2_NumInfluence} de [ICON_INFLUENCE] Influência para superar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1CivName:textkey} e se tornar aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 2?{1: gender masculine?são os atuais aliados; other?são as atuais aliadas;}; other?{1: gender masculine?é o atual aliado; other?é a atual aliada;};} dela. Você precisa de mais {2_NumInfluence} de [ICON_INFLUENCE] Influência para superar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} e formar uma aliança com ela.[NEWLINE][NEWLINE]Ao formar uma aliança com uma Cidade-Estado, você recebe bônus extras relativos à característica única dela e também recebe todos os recursos de luxo e estratégicos que ela tenha conectados.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_ALLY_ACTIVE_PLAYER_TT">
-            <Text>Você o atual aliado deles. Você está recebendo bônus extras, bem como qualquer recurso de luxo e estratégico que a Cidade-Estado tenha conectado.</Text>
+            <Text>Você é o atual aliado da Cidade-Estado. Você está recebendo bônus extras, bem como quaisquer Recursos de Luxo ou Estratégicos que ela tenha conectado.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_ALLY_UNKNOWN_TT">
-            <Text>Um jogador desconhecido é o atual aliado deles. Você precisa de mais {1_NumInfluence} de [ICON_INFLUENCE] Influência para superá-lo e se tornar o novo aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
+            <Text>Um jogador desconhecido é o atual aliado da Cidade-Estado. Você precisa de mais {1_NumInfluence} de [ICON_INFLUENCE] Influência para superá-lo e se tornar o novo aliado da Cidade-Estado.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_ALLY_NOBODY_TT">
-            <Text>Ninguém é atualmente aliado deles. Você precisa de mais {1_NumInfluence} de [ICON_INFLUENCE] Influência para se tornar aliado deles.[NEWLINE][NEWLINE]Se um jogador se tornar o aliado da Cidade-Estado, ele receberá bônus extras relativos à característica única da Cidade-Estado e também receberá qualquer recurso de luxo e estratégico que ela tenha conectado.</Text>
+            <Text>Atualmente, ela não tem nenhum aliado. Você precisa de mais {1_NumInfluence} de [ICON_INFLUENCE] Influência para formar uma aliança com ela.[NEWLINE][NEWLINE]Ao formar uma aliança com uma Cidade-Estado, você recebe bônus extras relativos à característica única dela e também recebe todos os recursos de luxo e estratégicos que ela tenha conectados.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_PROTECTED">
             <Text>Sua contínua proteção é um grande conforto para nós. O que podemos fazer por você?</Text>
@@ -106,7 +106,7 @@
             <Text>Nenhuma</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_NONE_FORMAL">
-            <Text>Atualmente não há nenhum pedido que esta Cidade-Estado tenha feito a você. Eles farão pedidos periodicamente, mas podem ficar retraídos se você os tiver intimidado recentemente.</Text>
+            <Text>Atualmente, esta Cidade-Estado não lhe deu nenhuma missão. Ela oferecerá missões periodicamente, mas pode deixar de fazê-lo se você a tiver intimidado recentemente.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_TT">
             <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] amiga fornecerá [ICON_HAPPINESS_1] Felicidade extra ao seu Império e fabricará recursos de luxo que não podem ser adquiridos de outra forma.</Text>
@@ -115,7 +115,7 @@
             <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR] amiga aumentará sua [ICON_PEACE] Fé, permitindo-lhe fortalecer sua religião com novas crenças e unidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
-            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares como presente. [NEWLINE][NEWLINE]Eles conhecem os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você for aliado deles e tiver pesquisado a tecnologia {@2_PrereqTech}, eles irão doar a unidade.</Text>
+            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares como presente.[NEWLINE][NEWLINE]Ela conhece os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você formar uma aliança com ela e tiver pesquisado a tecnologia {@2_PrereqTech}, ela lhe dará essa unidade como presente.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_NO_UU_TT">
             <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente fornecerá unidades militares avançadas como presente.</Text>
@@ -169,10 +169,10 @@
             <Text>Eles não temem seu poderio militar e resistirão a exigências de tributos.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_BULLY_CITY_STATE_PROMISE_BROKEN">
-            <Text>[COLOR_NEGATIVE_TEXT]Você fez uma promessa de parar de exigir tributos de uma Cidade-Estado protegida por eles, mas depois a descumpriu![ENDCOLOR]</Text>
+            <Text>[COLOR_NEGATIVE_TEXT]Você prometeu parar de exigir tributos de uma Cidade-Estado protegida por essa civilização, mas depois quebrou a promessa![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_BULLY_CITY_STATE_PROMISE_IGNORED">
-            <Text>[COLOR_NEGATIVE_TEXT]Eles pediram para que você parasse de exigir tributos de uma Cidade-Estado protegida por eles, mas você os ignorou![ENDCOLOR]</Text>
+            <Text>[COLOR_NEGATIVE_TEXT]Essa civilização pediu que você parasse de exigir tributos de uma Cidade-Estado sob sua proteção, mas você ignorou o pedido![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DISCUSS_PROTECTED_MINOR_FORGIVE_TT">
             <Text>Manterá relações com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, mas você deve retirar sua promessa de proteger {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} e perder {3_InfluenceLoss} de [ICON_INFLUENCE] Influência.</Text>
@@ -184,7 +184,7 @@
             <Text>Pedimos desculpas. Nós os deixaremos em paz.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_PROTECTED_MINORS_BULLIED">
-            <Text>[COLOR_NEGATIVE_TEXT]Você exigiu tributos de Cidade-Estado protegida por eles![ENDCOLOR]</Text>
+            <Text>[COLOR_NEGATIVE_TEXT]Você exigiu tributos de Cidades-Estado sob a proteção dessa civilização![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_SIDED_WITH_MINOR">
             <Text>[COLOR_NEGATIVE_TEXT]Eles maltrataram Cidades-Estado protegidas por você e você não fez vista grossa![ENDCOLOR]</Text>
@@ -226,13 +226,13 @@
             <Text>Sua descoberta de uma nova Maravilha Natural inspirou os cidadãos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_MinorCivName:textkey}! Por causa dos seus esforços, sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_GIVE_GOLD">
-            <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MinorCivName:textkey} {2: plural 2?foram; other?foi;} {2: gender feminine?{2: plural 2?forçadas; other?forçada;}; masculine?{2: plural 2?forçados; other?forçado;}; other?forçada;} a pagar tributos {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey} recentemente e a situação financeira deles está ruim. Eles estão pedindo um presente em Ouro para ajudá-los a ficar de pé novamente. Se você ajudá-los, eles irão recompensá-lo e ficarão menos resistentes a futuras exigências de tributos que você possa fazer.</Text>
+            <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MinorCivName:textkey} {2: plural 2?foram; other?foi;} {2: gender feminine?{2: plural 2?forçadas; other?forçada;}; masculine?{2: plural 2?forçados; other?forçado;}; other?forçada;} a pagar tributo {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey} recentemente, e agora seu tesouro está vazio. A Cidade-Estado está pedindo um presente em Ouro para se recuperar. Se você ajudar, receberá uma recompensa e a resistência da Cidade-Estado a futuras exigências de tributo aumentará.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GIVE_GOLD">
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?faliram; other?faliu;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GIVE_GOLD">
-            <Text>Seu presente em Ouro ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}! Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR] e eles agora estão menos resistentes a futuras exigências de tributos que você possa fazer.</Text>
+            <Text>Seu presente em Ouro ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}! Sua [ICON_INFLUENCE] Influência aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR], e a resistência da Cidade-Estado a futuras exigências de tributo aumentou.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GIVE_GOLD">
             <Text>Apoio em Ouro dado {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_MinorCivName:textkey}!</Text>
@@ -244,7 +244,7 @@
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?procuram; other?procura;} proteção!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_PLEDGE_TO_PROTECT">
-            <Text>Sua promessa de proteção ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}! Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR] e eles agora estão menos resistentes a futuras exigências de tributos que você possa fazer.</Text>
+            <Text>Sua promessa de proteção ajudou {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} a se {2: plural 2?recuperarem; other?recuperar;} do tributo pago {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_BullyName:textkey}! Sua [ICON_INFLUENCE] Influência aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR], e a resistência da Cidade-Estado a futuras exigências de tributo aumentou.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_PLEDGE_TO_PROTECT">
             <Text>Proteção prometida {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_MinorCivName:textkey}!</Text>
@@ -370,10 +370,10 @@
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?cancelaram; other?cancelou;} pedidos.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MERCANTILE">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], os mercados deles oferecem produtos exóticos ao seu povo! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_RELIGIOUS">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], eles compartilham seus conhecimentos cerimoniais com você! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
+            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece relíquias religiosas valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_MERCANTILE">
             <Text>({1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
@@ -382,13 +382,13 @@
             <Text>({1_NumFaith} de [ICON_PEACE] Fé {1: plural 1?perdido; other?perdidos;} por turno)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MERCANTILE">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], os mercados deles espalham a negociação de bens exóticos por todo seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_RELIGIOUS">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], eles lhe dão suas relíquias religiosas mais valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
+            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece suas relíquias religiosas mais valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MILITARISTIC">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR], eles irão lhe dar regularmente unidades militares. Às vezes eles lhe darão unidades únicas que você não teria acesso normalmente.</Text>
+            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR], ela lhe dará unidades militares regularmente. Às vezes, fornecerá Unidades Únicas às quais você normalmente não teria acesso.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINORS_NOW_WARY">
             <Text>Cidades-Estado cautelosas</Text>
@@ -424,16 +424,16 @@
             <Text>Tem certeza que deseja exigir tributo {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_MinorCivName:textkey}?</Text>
         </Row>
         <Row Tag="TXT_KEY_CONFIRM_BULLY_PROTECTED_CITY_STATE">
-            <Text>Tem certeza que deseja exigir tributo {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}? Atualmente eles estão sob proteção {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;}: {@2_CivName}.</Text>
+            <Text>Tem certeza de que deseja exigir tributo {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}? Atualmente, a Cidade-Estado está sob proteção {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;}: {@2_CivName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_CONFIRM_BULLY_PROTECTED_CITY_STATE_MULTIPLE">
-            <Text>Tem certeza que deseja exigir tributo {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}? Atualmente eles estão sob proteção de: {2_ListOfCivs}.</Text>
+            <Text>Tem certeza de que deseja exigir tributo {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}? Atualmente, a Cidade-Estado está sob proteção de: {2_ListOfCivs}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BULLY">
             <Text>Exigir tributo</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_BULLY_TT">
-            <Text>Cidades-Estado podem oferecer [ICON_GOLD] Ouro e Unidades, mas tomá-los a força diminuirá sua [ICON_INFLUENCE] Influência sobre eles.</Text>
+            <Text>Cidades-Estado podem fornecer [ICON_GOLD] Ouro e Unidades, mas tomá-los à força diminuirá sua [ICON_INFLUENCE] Influência sobre elas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_FIND_ON_MAP">
             <Text>Encontrar no mapa</Text>
@@ -448,7 +448,7 @@
             <Text>PEDIDOS:</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TT">
-            <Text>Prometer proteção a uma Cidade-Estado faz com que as outras potências mundiais fiquem sabendo que você a defenderá de ataques e exigências de tributos. Isso pode deter jogadores que não querem arriscar um conflito com você, mas a Cidade-Estado criará expectativa de que você fique do lado dela caso seja atacada ou intimidada.[NEWLINE][NEWLINE]Durante a proteção, seu valor base de [ICON_INFLUENCE] Influência sobre a Cidade-Estado é aumentado em {1_InfluenceMinimum}. A proteção não pode ser cancelada {2: plural 1?no; other?nos;} {2_TurnsMinimum} {2: plural 1?turno; other?turnos;} após a promessa ser feita.</Text>
+            <Text>Prometer proteção a uma Cidade-Estado faz com que as outras grandes potências saibam que você a defenderá de ataques e exigências de tributo. Isso pode deter jogadores que não queiram arriscar um conflito com você, mas a Cidade-Estado esperará que você fique ao lado dela quando for atacada ou intimidada.[NEWLINE][NEWLINE]Durante a proteção, seu ponto de repouso de [ICON_INFLUENCE] Influência com esta Cidade-Estado aumenta em {1_InfluenceMinimum}. A proteção não pode ser revogada até {2_TurnsMinimum} {2: plural 1?turno; other?turnos;} após a promessa.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_DISABLED_INFLUENCE_TT">
             <Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Você deve estar em paz e possuir {1_InfluenceNeededToPledge} ou mais de [ICON_INFLUENCE] Influência para prometer proteção.[ENDCOLOR]</Text>
@@ -539,13 +539,13 @@
             <Text>[COLOR_POSITIVE_TEXT]Estética[ENDCOLOR][NEWLINE]O valor base de [ICON_INFLUENCE] Influência sobre todas as Cidades-Estado é aumentado em 20.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para Impérios pequenos e focados. Em particular, fornece bônus para [ICON_GREAT_PEOPLE] Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE] Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE] Era de Ouro aumentará em 50%.[NEWLINE][NEWLINE]Será possível comprar Grandes Artistas com [ICON_PEACE] Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia ou Ordem.[ENCOLOR]</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para Impérios pequenos e focados. Em particular, fornece bônus para [ICON_GREAT_PEOPLE] Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE] Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE] Era de Ouro aumentará em 50%.[NEWLINE][NEWLINE]Será possível comprar Grandes Artistas com [ICON_PEACE] Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia ou Ordem.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR] é melhor para grandes e espalhadas civilizações, aumentando a força do Império com base na quantidade de cidades existentes.[NEWLINE][NEWLINE]Adotando Ordem, você irá aumentar a [ICON_HAPPINESS_1] Felicidade em +1 para cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Ordem, você receberá +2 de [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção, [ICON_RESEARCH] Ciência, [ICON_GOLD] Ouro e [ICON_CULTURE] Cultura por cada cidade.[NEWLINE][NEWLINE]Será possível comprar Grandes Engenheiros com [ICON_PEACE] Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Autocracia.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD] Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE] Cultura para cada ponto de [ICON_CULTURE] Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e Grandes Almirantes com [ICON_PEACE] Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENCOLOR]</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD] Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE] Cultura para cada ponto de [ICON_CULTURE] Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e Grandes Almirantes com [ICON_PEACE] Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Religião Organizada[ENDCOLOR][NEWLINE]+1 de [ICON_PEACE] Fé de Santuários e Templos.</Text>

@@ -97,7 +97,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
-			<Text>Infantaria I Guerra|Infantarias I Guerra</Text>
+			<Text>Infantaria da Grande Guerra|Infantarias da Grande Guerra</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -112,7 +112,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER">
-			<Text>Bombardeiro Voisin|Bombardeiros Voisin</Text>
+			<Text>Bombardeiro da Grande Guerra|Bombardeiros da Grande Guerra</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -597,5 +597,16 @@
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>		
+
+		<Row Tag="TXT_KEY_UNITCOMBAT_CARRIER">
+			<Text>Porta-aviões|Porta-aviões</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_SUBMARINE">
+			<Text>Submarino|Submarinos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
 	</Language_pt_BR>
 </GameData>

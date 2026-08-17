@@ -6,13 +6,13 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1">
-		 <Text>Mil saudações à nossa justa nação. Sou Haile Selassie, o Ras Tafari Makonnen e Imperador da Etiópia, seu humilde servo.</Text>
+		 <Text>Mil boas-vindas à nossa bela nação. Sou Haile Selassie, Ras Tafari Makonnen e Imperador da Etiópia, seu humilde servidor.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2">
-		 <Text>A Etiópia acolhe aqueles que vêm em paz e amizade. Estou ansioso para um relacionamento longo e abundante.</Text>
+		 <Text>A Etiópia acolhe quem vem em paz e amizade. Espero que tenhamos uma relação longa e próspera.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3">
-		 <Text>Bem-vindo, amigo, às minhas terras de paz e prosperidade! Eu sou o Leão Conquistador da Tribo de Judá, o Senhor dos senhores e Rei dos reis, mas você pode me chamar de Haile Selassie.</Text>
+		 <Text>Boas-vindas, em nome de nossa amizade, às minhas terras de paz e prosperidade. Eu sou o Leão Conquistador da tribo de Judá, o Senhor dos Senhores e Rei dos Reis, mas pode me chamar de Haile Selassie.</Text>
 	   </Row>
 	   <!-- Reage ao seu bluff sendo chamado -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1">
@@ -51,14 +51,14 @@
 	   <!-- Neutro -->
 	   <!-- Cumprimentos (reuniões subseqüentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1">
-		 <Text>Mil saudações.</Text>
+		 <Text>Mil boas-vindas.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2">
 		 <Text>Saudações.</Text>
 	   </Row>
 	   <!-- Adeus -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1">
-		 <Text>Até que nos encontremos de novo.</Text>
+		 <Text>Até nos vermos novamente.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2">
 		 <Text>Adeus.</Text>
@@ -72,17 +72,17 @@
 		 <Text>Sua oferta é muito interessante, mas não é aceitável. Por favor, repense isso.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_2">
-		 <Text>Você pode fazer um pouco melhor?</Text>
+		 <Text>Poderia melhorar um pouco?</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_3">
-		 <Text>Isso não é bom o suficiente.</Text>
+		 <Text>Isso não está suficientemente bom.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_4">
 		 <Text>Quase...</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL">
-		 <Text>Eu não estou interessado.</Text>
+		 <Text>Não tenho interesse.</Text>
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL">
@@ -112,47 +112,47 @@
 		 <Text>Devo recusar.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2">
-		 <Text>Não.</Text>
+		 <Text>Não, claro que não.</Text>
 	   </Row>
 	   <!-- Vamos ouvi-lo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1">
-		 <Text>Vá em frente.</Text>
+		 <Text>Continue.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2">
-		 <Text>Vá em frente.</Text>
+		 <Text>Continue.</Text>
 	   </Row>    
 	   <!-- Feliz -->
 	   <!-- Cumprimentos (reuniões subseqüentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3">
-		 <Text>Bem-vindo!</Text>
+		 <Text>Boas-vindas!</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4">
-		 <Text>Como está, amigo?</Text>
+		 <Text>Como vai? É bom ver que nossa amizade continua.</Text>
 	   </Row>
 	   <!-- Adeus -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3">
-		 <Text>Até logo.</Text>
+		 <Text>Adeus.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4">
 		 <Text>Adeus.</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY">
-		 <Text>Aceito.</Text>
+		 <Text>Concordo!</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - adoçar o negócio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_1">
-		 <Text>Meu amigo, tenho certeza de que você tem boas intenções, mas isso não serve. Podemos ser pessoas simples, mas não tire proveito disso.</Text>
+		 <Text>Em nome de nossa amizade, tenho certeza de que sua intenção é boa, mas isso não servirá. Podemos ser um povo simples, mas não permitiremos que tirem vantagem de nós.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_2">
-		 <Text>Isso é o melhor que você pode fazer?</Text>
+		 <Text>É o seu melhor?</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_3">
-		 <Text>Você está quase lá...</Text>
+		 <Text>Está quase lá...</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY">
-		 <Text>Obrigado, mas não.</Text>
+		 <Text>Agradeço, mas não.</Text>
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY">
@@ -168,7 +168,7 @@
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY">
-		 <Text>Amigo, a Etiópia lhe pede ajuda em sua hora de necessidade. Por favor, não nos deixe abatidos nas rochas da providência.</Text>
+		 <Text>Em nome de nossa amizade, a Etiópia clama por você nesta hora de necessidade. Por favor, não nos deixe ser esmagados contra as rochas da providência.</Text>
 	   </Row>
 	   <!-- Concorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3">
@@ -179,11 +179,11 @@
 		 <Text>Certamente que não.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4">
-		 <Text>Declinamos.</Text>
+		 <Text>Recusamos.</Text>
 	   </Row>
 	   <!-- Vamos ouvi-lo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3">
-		 <Text>Prossiga.</Text>
+		 <Text>Continue.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4">
 		 <Text>Estou ouvindo.</Text>
@@ -191,7 +191,7 @@
 	   <!-- Irritado -->
 	   <!-- Cumprimentos (reuniões subseqüentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5">
-		 <Text>Bem...</Text>
+		 <Text>E?</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6">
 		 <Text>O que você quer?</Text>
@@ -201,21 +201,21 @@
 		 <Text>Isso é tudo.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6">
-		 <Text>Vá embora agora.</Text>
+		 <Text>Vá embora.</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY">
-		 <Text>Aceito.</Text>
+		 <Text>Concordo!</Text>
 	   </Row>
 	   <!-- Oferta Comércio do jogador - adoçar o negócio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_1">
 		 <Text>Que crueldade e má vontade você deseja transmitir ao meu povo? Raramente vi tal maldade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_2">
-		 <Text>Isso não é bom o suficiente.</Text>
+		 <Text>Isso não é suficiente.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_3">
-		 <Text>Você deve fazer melhor que isso.</Text>
+		 <Text>Precisa melhorar isso.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_4">
 		 <Text>Quase...</Text>
@@ -230,7 +230,7 @@
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY">
-		 <Text>O que você pode tirar de mim que já não o fez? Você poderia transformar a terra em pó e cinzas.</Text>
+		 <Text>O que você ainda poderia tirar de mim que já não tenha tomado? Você transformaria a terra em pó e cinzas.</Text>
 	   </Row>
 	   <!-- Solicita um comércio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY">
@@ -238,15 +238,15 @@
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY">
-		 <Text>Os pobres, os doentes, os idosos, que necessitam de ajuda. Será mesmo que você vai virar as costas para eles?</Text>
+		 <Text>Os pobres, os doentes, os idosos — todos precisam de ajuda. Até você lhes daria as costas?</Text>
 	   </Row>
 	   <!-- Concorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4">
-		 <Text>Acho que devo.</Text>
+		 <Text>Suponho que devo aceitar.</Text>
 	   </Row>
 	   <!-- Discorda -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5">
-		 <Text>Não compreendi...</Text>
+		 <Text>Como é?</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6">
 		 <Text>Isso é inaceitável.</Text>
@@ -274,7 +274,7 @@
 		 <Text>É o silêncio que permite que o mal triunfe. Não vamos ficar mudos e permitir que você continue nessa busca louca impunemente.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3">
-		 <Text>Você depreda os fracos à sua volta, sempre com fome, nunca satisfeito. Depois de nós, quem será o próximo? Vamos resistir fortemente e nos proteger.</Text>
+		 <Text>Você ataca os fracos ao seu redor, sempre querendo mais e nunca se satisfazendo. Depois de nós, quem será o próximo? Permaneceremos firmes e protegeremos os nossos.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_QUOTE_1">
 		 <Text>Ao longo da história, tem sido a inatividade daqueles que poderiam ter agido, a indiferença daqueles que deveriam saber melhor, o silêncio da voz da justiça quando ela mais importava que tornou possível que o mal triunfasse.</Text>

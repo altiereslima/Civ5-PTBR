@@ -10,10 +10,10 @@
             <Text>Saudações! Eu sou Gustavo Adolfo, o Rei Dourado da Suécia. Talvez possamos trabalhar em conjunto, em aliança.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
-            <Text>Boas-vindas às terras do Rei das Neves, pessoa estrangeira. Eu sou Gustavo Adolfo, herdeiro e descendente da distinta Casa de Vasa.</Text>
+            <Text>Boas-vindas às terras do Rei das Neves. Sou Gustavo Adolfo, herdeiro e descendente da ilustre Casa de Vasa.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
-            <Text>Oh! Uma figura recém-chegada ao palco mundial. Saudações! Eu sou Gustavo Adolfo, celebrado Rei da Suécia. Que haja paz em minha corte.</Text>
+            <Text>Ora, alguém novo no palco mundial. Saudações, sou Gustavo Adolfo, célebre Rei da Suécia. Esteja em paz em minha corte.</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_1">
@@ -30,7 +30,7 @@
             <Text>Pensou que poderia superar-me, onde nem mesmo Tilly pôde? Quanta arrogância, quanta estupidez!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_2">
-            <Text>Ah... outra vitória para o poderoso Capitão Gars. Tenho que confessar: essa pessoa merece uma promoção.</Text>
+            <Text>Ha! Outra vitória para o poderoso Capitão Gars. Devo dizer: esse homem merece uma promoção.</Text>
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_1">
@@ -130,14 +130,14 @@
             <Text>Boas-vindas!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_4">
-            <Text>Bom dia, equivalente!</Text>
+            <Text>Bom dia, camarada.</Text>
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_3">
             <Text>Até logo!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_4">
-            <Text>Até logo, pessoa amiga!</Text>
+            <Text>Adeus.</Text>
         </Row>
         <!--Trade offer from player - yes -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY">
@@ -145,7 +145,7 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_1">
-            <Text>Ahh... a nobreza frequentemente tenta esses esquemas entre si, mas isso não significa que funcionem comigo.</Text>
+            <Text>Ha! Meus nobres costumam tentar esquemas assim uns contra os outros, mas isso não funcionará comigo. Em nome de nossa amizade, tente de novo.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_2">
             <Text>Ora, por favor... isso é o melhor que pode oferecer?</Text>
@@ -163,11 +163,11 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_HAPPY">
-            <Text>Fico muito triste, pessoa amiga, por ser incapaz de ajudar neste momento.</Text>
+            <Text>Lamento muito não poder ajudar neste momento, em nome de nossa amizade.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_HAPPY">
-            <Text>Acredito que nossos povos podem se beneficiar deste acordo.</Text>
+            <Text>Em nome de nossa amizade, acredito que nossos povos podem se beneficiar deste acordo.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_HAPPY">
@@ -244,7 +244,7 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_ANGRY">
-            <Text>Eu preferiria pintar todo o país com seu sangue, mas eu faço o que preciso, não importando o quão aborrecido.</Text>
+            <Text>Eu preferiria pintar o campo com seu sangue, mas faço o que devo, por mais desagradável que seja.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_ANGRY">

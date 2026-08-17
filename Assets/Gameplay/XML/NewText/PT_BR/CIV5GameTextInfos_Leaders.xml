@@ -29,7 +29,7 @@
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_DARIUS">
-			<Text>Dario I</Text>
+			<Text>Dário I</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH">
@@ -65,7 +65,7 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
-			<Text>Ram Khamhaeng</Text>
+			<Text>Ramkhamhaeng</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN">
@@ -73,7 +73,7 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON">
-			<Text>George Washington</Text>
+			<Text>Washington</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WU_ZETIAN">

@@ -11,7 +11,7 @@
       <Text>De acordo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_3">
-      <Text>Desde já.</Text>
+      <Text>Certamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_4">
       <Text>Trato feito.</Text>
@@ -29,22 +29,22 @@
       <Text>Você deve ter confundido nosso amor pela paz com fraqueza... Você pagará por isso!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_2">
-      <Text>Pessoa cretina... Você deve lamentar por isso!</Text>
+      <Text>Que vilania infame — você se arrependerá!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_3">
-      <Text>Você lamentará este dia, pessoa sanguinária!</Text>
+      <Text>Você lamentará este dia, criatura sanguinária!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_1">
-      <Text>Você demonstrou ser contra a liberdade; prepare-se para a guerra!</Text>
+      <Text>Você provou ser um inimigo irredutível da liberdade — prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_2">
-      <Text>O povo Americano se pronunciou. Sua agressão sem pretextos não nos deixa outra opção: prepare-se para a guerra!</Text>
+      <Text>O povo americano se pronunciou. Sua agressão gratuita não nos deixa escolha: prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_3">
-      <Text>Seu irresponsável comportamento fez com que seu povo fosse condenado; prepare-se para a guerra!</Text>
+      <Text>Seu comportamento irresponsável condenou seu povo — prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_1">
-      <Text>Tudo se perdeu, com exceção da honra. Acredito que será misericordiosa a sua vitória.</Text>
+      <Text>Tudo está perdido, exceto a honra. Confio que demonstrará misericórdia na vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_2">
       <Text>O dia é seu. Espero que demonstre misericórdia em seu triunfo.</Text>
@@ -59,7 +59,7 @@
       <Text>Você deve nos dar o que queremos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_HAPPY">
-      <Text>Poderia nos dar o que pedimos como uma forma de ajuda para quem necessita?</Text>
+      <Text>Em nome de nossa amizade e aliança, poderia nos ceder o seguinte nesta hora de necessidade?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_NEUTRAL">
       <Text>Queremos que nos entregue o que pedimos.</Text>
@@ -86,13 +86,13 @@
       <Text>Como...?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_1">
-      <Text>O povo dos Estados Unidos da América lhe dá as boas-vindas.</Text>
+      <Text>O povo dos Estados Unidos da América lhe dá as boas-vindas. Confio que seja favorável à liberdade?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_2">
-      <Text>Em nome do povo Americano, eu lhe dou as boas-vindas!</Text>
+      <Text>Em nome dos cidadãos dos Estados Unidos da América, dou-lhe as boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_3">
-      <Text>É uma honra ter este contato. Acredito que nossos povos viverão em paz e prosperidade.</Text>
+      <Text>É uma honra conhecer você. Espero sinceramente que nossos dois povos possam viver lado a lado em paz e prosperidade.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_1">
       <Text>Bom dia!</Text>
@@ -164,7 +164,7 @@
       <Text>Ficamos satisfeitos em ter feito as pazes com sua grande nação. Espero que não existam desentendimentos entre nossos povos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_1">
-      <Text>A disciplina é o espírito de um exército. Ela faz um grupo com poucos números formidável. Traz sucesso aos mais fracos e estima a todos.</Text>
+      <Text>A disciplina é a alma de um exército. Torna formidáveis pequenos efetivos; dá sucesso aos fracos e respeito a todos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_2">
       <Text>Governar não é raciocínio, nem oratória. É força. Tal como o fogo, é perigoso e temível.</Text>
@@ -224,10 +224,10 @@
       <Text>Estamos de acordo. Agradeço.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
-      <Text>Sua oferta parece ser vantajosa para os Estados Unidos.</Text>
+      <Text>Sua proposta é aceitável para os Estados Unidos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_ANGRY">
-      <Text>Proponho esta troca. O que você acha?</Text>
+      <Text>Oferecemos esta troca. Qual é sua resposta?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
       <Text>Saudações. Seria do seu interesse negociar com os Estados Unidos?</Text>
@@ -236,16 +236,16 @@
       <Text>Esta troca lhe interessa?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_ANGRY">
-      <Text>Perdeu o juízo? Somos um povo livre e nobre! Não nos curvamos perante pessoas assassinas e sem honra.</Text>
+      <Text>Perdeu o juízo? Somos um povo livre e nobre! Não nos curvamos a valentões nem canalhas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
-      <Text>Não posso ceder riquezas tão facilmente. Não sou um tirano; devo satisfações ao povo americano.</Text>
+      <Text>Não posso ceder nossas riquezas tão levianamente, nem mesmo em nome da amizade. Não sou tirano: devo prestar contas ao povo dos Estados Unidos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_NEUTRAL">
       <Text>Sua exigência é um insulto à nossa soberania e recusamos sem hesitar. É evidente que você subestimou nossa determinação.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_ANGRY">
-      <Text>Parece que não tenho outra opção a não ser aceitar sua exigência. Mas não pense que será sempre assim.</Text>
+      <Text>Parece que não tenho escolha senão aceitar sua exigência. Por enquanto.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_HAPPY">
       <Text>Com grande satisfação. Só precisa pedir.</Text>
@@ -272,7 +272,7 @@
       <Text>Que imprudência a sua.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WINWAR_1">
-      <Text>Tenho certeza que aprendeu que não se deve lutar contra os Estados Unidos!</Text>
+      <Text>Confio que tenha aprendido que não se deve brincar com os Estados Unidos!</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

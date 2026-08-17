@@ -6,13 +6,13 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1">
-      <Text>Que a sua pessoa seja muito bem-vinda a nossa bela nação. Eu sou Haile Selassie, o governante abissínio Tafari Makonnen e Imperador da Etiópia, a serviço de quem me visita.</Text>
+      <Text>Mil boas-vindas à nossa bela nação. Sou Haile Selassie, Ras Tafari Makonnen e Imperador da Etiópia, seu humilde servidor.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2">
-      <Text>A Etiópia saúda a quem vem em paz. Eu procuro uma longa e generosa relação diplomática.</Text>
+      <Text>A Etiópia acolhe quem vem em paz e amizade. Espero que tenhamos uma relação longa e próspera.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3">
-      <Text>Boas-vindas às minhas prósperas e tranquilas terras. Eu sou o Leão Conquistador da tribo de Judá, o Senhor dos Senhores e Rei dos Reis, mas pode me chamar de Haile Selassie.</Text>
+      <Text>Boas-vindas, em nome de nossa amizade, às minhas terras de paz e prosperidade. Eu sou o Leão Conquistador da tribo de Judá, o Senhor dos Senhores e Rei dos Reis, mas pode me chamar de Haile Selassie.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1">
@@ -51,7 +51,7 @@
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1">
-      <Text>Seja muito bem-vinda a pessoa que me visita.</Text>
+      <Text>Mil boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2">
       <Text>Saudações.</Text>
@@ -128,7 +128,7 @@
       <Text>Boas-vindas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4">
-      <Text>Como vai?</Text>
+      <Text>Como vai? É bom ver que nossa amizade continua.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3">
@@ -143,7 +143,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Tenho certeza de que a intenção é boa, mas isso não dará certo. Podemos ser um povo simples, mas ninguém tirará vantagem disso.</Text>
+      <Text>Em nome de nossa amizade, tenho certeza de que sua intenção é boa, mas isso não servirá. Podemos ser um povo simples, mas não permitiremos que tirem vantagem de nós.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_2">
       <Text>É o seu melhor?</Text>
@@ -169,7 +169,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY">
-      <Text>Nesta hora de dificuldades, a Etiópia clama. Por favor, não nos deixe ser açoitados nas rochas da providência.</Text>
+      <Text>Em nome de nossa amizade, a Etiópia clama por você nesta hora de necessidade. Por favor, não nos deixe ser esmagados contra as rochas da providência.</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3">
@@ -231,7 +231,7 @@
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY">
-      <Text>O que você quer que eu já não tenha? Esta terra será transformada em pó e cinzas.</Text>
+      <Text>O que você ainda poderia tirar de mim que já não tenha tomado? Você transformaria a terra em pó e cinzas.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY">
@@ -239,7 +239,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY">
-      <Text>O povo, quem está doente, quem não tem teto - precisa de ajuda. Até nestas condições haveria uma recusa?</Text>
+      <Text>Os pobres, os doentes, os idosos — todos precisam de ajuda. Até você lhes daria as costas?</Text>
     </Row>
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4">
@@ -275,7 +275,7 @@
       <Text>É o silêncio que permite ao mal triunfar. Nós não ficaremos em silêncio e não permitiremos que se continue impune com esta busca insana.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3">
-      <Text>As pessoas mais fracas ao redor são as vítimas, mesmo famintas, sem nunca se satisfazer. Depois de nós, quem será? Nós permaneceremos fortes e protegidos.</Text>
+      <Text>Você ataca os fracos ao seu redor, sempre querendo mais e nunca se satisfazendo. Depois de nós, quem será o próximo? Permaneceremos firmes e protegeremos os nossos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_QUOTE_1">
       <Text>Durante a história, foi a omissão daqueles que poderiam agir, a indiferença daqueles que deveriam procurar saber mais, o silêncio da justiça quando ela mais foi necessária, que permitiram ao mal triunfar.</Text>

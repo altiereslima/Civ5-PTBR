@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <Language_pt_BR>
         <!-- BELGIUM -->
@@ -722,7 +722,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SAO_TOME">
-            <Text>São Tome and Príncipe</Text>
+            <Text>São Tomé e Príncipe</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>

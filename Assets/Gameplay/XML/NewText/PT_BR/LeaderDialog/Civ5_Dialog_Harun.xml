@@ -3,10 +3,10 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_1">
-			<Text>Muito Bem.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_2">
-			<Text>Tudo Bem.</Text>
+			<Text>Tudo bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_3">
 			<Text>Com certeza.</Text>
@@ -27,22 +27,22 @@
 			<Text>Como ousa? Nós iremos esmagar sua civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_ATTACKED_2">
-			<Text>Que ultraje! Deveria expor sua face nas ameias do meu palácio para servir de banquete aos pombos. </Text>
+			<Text>Criatura vil! Vou pendurar essa cabeça horrenda nas ameias do meu palácio para os pombos se banquetearem!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_ATTACKED_3">
-			<Text>Pessoa tola! Lamento por você, eu juro!</Text>
+			<Text>Que tolice! Você se arrependerá disso, eu juro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_1">
 			<Text>Esta é a última vez que abusa da nossa boa vontade! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_2">
-			<Text>Sua existência é uma ofensa para o céu. Prepare-se para a guerra, ser desprezível!</Text>
+			<Text>Sua própria existência é uma ofensa ao Céu. Prepare-se para a guerra, criatura bárbara e desprezível!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_3">
 			<Text>O mundo será um lugar melhor sem a sua presença, prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DEFEATED_1">
-			<Text>Estou em desgraça; faça o que quiser. Escreverão poemas épicos sobre a minha grande queda.</Text>
+			<Text>Estou acabado; faça comigo o que quiser. Escreverão poemas épicos sobre minha grande queda.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DEFEATED_2">
 			<Text>Privou o mundo de um grande símbolo de beleza e iluminação. Espero que esteja contente.</Text>
@@ -51,10 +51,10 @@
 			<Text>A vitória é sua; quero expressar minhas congratulações. Meu palácio agora lhe pertence, espero que cuide bem dos pavões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_ANGRY">
-			<Text>Sua existência é uma ofensa para mim. Porém, tenho tendência para ser misericordioso... por um preço.</Text>
+			<Text>Sua existência me ofende. Hoje estou inclinado a ser misericordioso — por um preço.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_HAPPY">
-			<Text>Será que poderia nos ajudar nos momentos difíceis?</Text>
+			<Text>Em nome de nossa amizade, poderia nos ajudar em nossa hora de necessidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_NEUTRAL">
 			<Text>Se deseja manter a sua independência, insisto que nos entregue o seguinte.</Text>
@@ -81,7 +81,7 @@
 			<Text>Perdão, o que disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_FIRSTGREETING_1">
-			<Text>Boas-vindas! Sou Harun al-Rashid do povo Árabe. Venha, vamos admirar a beleza do meu palácio!</Text>
+			<Text>Boas-vindas! Sou Harun al-Rashid, do povo árabe. Venha — admiremos a suntuosidade do meu palácio!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_FIRSTGREETING_2">
 			<Text>Ah! Uma nova estrela apareceu no horizonte. Eu sou Harun al-Rashid da Arábia! Vou escrever um poema épico para celebrar nosso encontro histórico!</Text>
@@ -99,7 +99,7 @@
 			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_4">
-			<Text>Até à próxima.</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_5">
 			<Text>Devo alimentar os pavões. Vá embora agora.</Text>
@@ -135,7 +135,7 @@
 			<Text>Vá em frente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_2">
-			<Text>Continuar.</Text>
+			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_3">
 			<Text>Eu estou ouvindo.</Text>
@@ -150,7 +150,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_7">
-			<Text>Continuar.</Text>
+			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_LOSEWAR_1">
 			<Text>Eu agradeço a generosidade de seus termos. Verá que não somos ingratos.</Text>
@@ -165,7 +165,7 @@
 			<Text>Deveria apresentar algo superior a isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Não posso aceitar a sua oferta; Não consegue apresentar uma proposta melhor?</Text>
+			<Text>Não posso aceitar sua oferta como está; em nome de nossa amizade, não poderia melhorá-la?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_HAPPY_2">
 			<Text>Esta é sua melhor oferta?</Text>
@@ -186,10 +186,10 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_ANGRY">
-			<Text>Bateram em sua cabeça quando criança? Sua oferta é ultrajante.</Text>
+			<Text>Deixaram você cair de cabeça quando era criança? Sua oferta é ultrajante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_HAPPY">
-			<Text>Peça-me o que quiser. Qualquer coisa! Exceto isso.</Text>
+			<Text>Em nome de nossa amizade, peça-me qualquer coisa — qualquer coisa! Menos isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_NEUTRAL">
 			<Text>Como...? Esteve bebendo?</Text>
@@ -207,22 +207,22 @@
 			<Text>Posso lhe oferecer um acordo? Seus assessores podem explicar os detalhes, se achar muito complicado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADEREQUEST_HAPPY">
-			<Text>Vamos negociar, nossos povos irão se beneficiar com isso.</Text>
+			<Text>Negociemos em nome de nossa amizade: nossos dois povos se beneficiarão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRADEREQUEST_NEUTRAL">
 			<Text>Vamos fazer negócios!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_ANGRY">
-			<Text>É um ser feio e estúpido. A sua presença me ofende. Vá embora agora.</Text>
+			<Text>Sua feiura e estupidez me ofendem. Vá embora agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_HAPPY">
-			<Text>Sinto-me como se tivesse um punhal espetado no coração, mas preciso recusar o seu pedido.</Text>
+			<Text>É como um punhal no meu coração, mas, apesar de nossa amizade, preciso recusar seu pedido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_NEUTRAL">
-			<Text>Nunca! Amamos a paz, mas defenderemos nosso tesouro com nossa honra e nossa vida!</Text>
+			<Text>Nunca! Amamos a paz, mas defenderemos nosso tesouro e nossa honra com a própria vida!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_YES_ANGRY">
-			<Text>Muito bem. Uma grande civilização deve ser generosa com seus inferiores.</Text>
+			<Text>Muito bem. Uma grande civilização pode se dar ao luxo de ser caridosa com seus inferiores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_YES_HAPPY">
 			<Text>Certamente! Pode-se dar ao luxo de ser generoso quando se é absurdamente rico!</Text>

@@ -76,7 +76,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_TEXT_1">
-			<Text>Durante a Guerra Civil Americana, a União era o nome usado para se referir aos estados ainda alinhados com o governo federal dos Estados Unidos. Composta principalmente por estados que já haviam proibido a escravidão sem uma ordem federal, um total de 20, o Norte também controlava cinco estados fronteiriços que mantinham escravos. A União era liderada pelo Presidente Abraham Lincoln, que supervisionava tanto os aspectos logísticos quanto táticos da guerra contra o Sul. Desde o início da guerra, os estados da União tinham muito mais recursos e mão de obra disponíveis para impulsionar seus esforços, com o Norte sendo muito mais industrializado do que o Sul. A União também tinha uma população muito maior da qual recrutar soldados, superando o Sul em quase quatro para um. No entanto, apesar dessas vantagens, a União ainda enfrentava uma tarefa difícil ao recuperar os estados do sul. Os exércitos confederados eram liderados por oficiais experientes, e lutar para defender seus estados natais deu aos confederados uma vantagem distinta em seu conhecimento do terreno.</Text>
+			<Text>Durante a Guerra Civil Americana, a União era o nome usado para se referir aos estados ainda alinhados com o governo federal dos Estados Unidos. Composta principalmente por estados que já haviam proibido a escravidão sem uma ordem federal, um total de 20, o Norte também controlava cinco estados fronteiriços que mantinham escravos. A União era liderada pelo Presidente Abraham Lincoln, que supervisionava tanto os aspectos logísticos quanto táticos da guerra contra o Sul.[NEWLINE][NEWLINE]Desde o início da guerra, os estados da União tinham muito mais recursos e mão de obra disponíveis para impulsionar seus esforços, pois o Norte era muito mais industrializado do que o Sul. A União também tinha uma população muito maior da qual recrutar soldados, superando o Sul em quase quatro para um. No entanto, apesar dessas vantagens, a União ainda enfrentava uma tarefa difícil para retomar os estados sulistas. Os exércitos confederados eram liderados por oficiais experientes, e lutar para defender seus próprios estados dava aos confederados uma vantagem clara no conhecimento do terreno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_NAME">
 			<Text>Jefferson Davis</Text>
@@ -133,7 +133,7 @@
 			<Text>Captura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_7">
-			<Text>Em 10 de maio, Davis foi capturado por tropas da União e ficou preso por pouco mais de dois anos. Eventualmente, liberado sob fiança, Davis passou grande parte da próxima década trabalhando discretamente, evitando grande parte das aparições públicas ou discussões sobre o resultado da guerra.
+			<Text>Em 10 de maio, Davis foi capturado por tropas da União e ficou preso por pouco mais de dois anos. Por fim, liberado sob fiança, Davis passou grande parte da próxima década trabalhando discretamente, evitando grande parte das aparições públicas ou discussões sobre o resultado da guerra.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_8">

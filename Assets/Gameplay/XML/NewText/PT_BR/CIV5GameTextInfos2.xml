@@ -19,58 +19,58 @@
             <Text>Não há um alvo inimigo adjacente.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_ATTACK_HELP">
-            <Text>Mandar a unidade atacar o hexágono selecionado.</Text>
+            <Text>Ordene que a unidade ataque o hexágono selecionado.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP">
-            <Text>Lançar unidades</Text>
+            <Text>Salto de Paraquedas</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP">
-            <Text>Dentro de território amigo, esta unidade pode lançar unidades em outro hexágono. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
+            <Text>Quando estiver em território amigo, esta unidade poderá saltar de paraquedas para outro hexágono. Depois disso, ainda terá Movimento para realizar outras ações.</Text>
         </Row>
 		<Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP_WITH_RANGE">
-            <Text>Dentro de território amigo, esta unidade pode lançar unidades até {1_NumTiles} à frente. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
+            <Text>Quando estiver em território amigo, esta unidade poderá saltar de paraquedas para um hexágono a até {1_NumTiles} de distância. Depois disso, ainda terá Movimento para realizar outras ações.</Text>
 		</Row>		
         <Row Tag="TXT_KEY_INTERFACEMODE_AIR_SWEEP">
             <Text>Varredura aérea</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_AIR_SWEEP_HELP">
-            <Text>Mandar a unidade varrer uma área em busca de interceptadores aéreos e baseados em terra, limpando o caminho para futuros ataques aéreos.</Text>
+            <Text>Ordene que a unidade faça uma varredura na área em busca de interceptadores aéreos e terrestres, abrindo caminho para futuros ataques aéreos.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_RANGE_ATTACK">
             <Text>Ataque a Distância</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_RANGE_ATTACK_HELP">
-            <Text>Mandar a unidade atacar o hexágono selecionado a distância.</Text>
+            <Text>Ordene que a unidade ataque a distância o hexágono selecionado.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PARADROP">
-            <Text>Lançar unidades</Text>
+            <Text>Salto de Paraquedas</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PARADROP_HELP">
-            <Text>Lança unidades para um local específico. A missão está sujeita a interceptação.</Text>
+            <Text>Salta de paraquedas para um local especificado. A missão está sujeita a interceptação.</Text>
         </Row>
         <Row Tag="TXT_KEY_TURNS">
             <Text>Turnos</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_ERROR_HELP">
-            <Text>Atualizar a unidade.</Text>
+            <Text>Aprimorar a unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP">
-            <Text>Atualize a unidade para {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_UnitName}}. Isto requer {2_Num} de [ICON_GOLD] Ouro.</Text>
+            <Text>Aprimore a unidade para {@1: gender feminine?uma; other?um;} {@1_UnitName}. Isso requer {2_Num} [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_SCRAP_HELP">
             <Text>Executar esta ação dentro de seu território fornecerá {1_Num} de [ICON_GOLD] Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_TERRITORY">
-            <Text>Sua unidade precisa estar em território amigo para ser atualizada.</Text>
+            <Text>Sua unidade deve estar em território amigo para ser aprimorada.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_GOLD">
-            <Text>Você não possui [ICON_GOLD] Ouro suficiente para atualizar esta unidade.</Text>
+            <Text>Você não tem fundos suficientes para aprimorar esta unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_RESOURCES">
-            <Text>Você precisa de {1_ResourcesString} para atualizar esta unidade.</Text>
+            <Text>Você precisa de {1_ResourcesString} para aprimorar esta unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_STACKING">
-            <Text>Você precisa mover esta unidade para um hexágono vazio para ser atualizada.</Text>
+            <Text>Você precisa mover esta unidade para um hexágono vazio para aprimorá-la.</Text>
         </Row>
         <Row Tag="TXT_KEY_AIR_PATROL_FOUND_NOTHING">
             <Text>A patrulha aérea com {1: gender masculine?seu; feminine?sua;} {@1_UnitName} não encontrou resistência!</Text>
@@ -509,7 +509,7 @@
             <Text>Sim, continue!</Text>
         </Row>
         <Row Tag="TXT_KEY_FORCE_CONTROL_HANDICAP">
-            <Text>Forçar obstáculo</Text>
+            <Text>Forçar Nível de Dificuldade</Text>
         </Row>
         <Row Tag="TXT_KEY_FORCE_CONTROL_MAX_CITY_ELIMINATION">
             <Text>Forçar eliminação máxima de cidades</Text>
@@ -518,7 +518,7 @@
             <Text>Forçar máximo de turnos</Text>
         </Row>
         <Row Tag="TXT_KEY_FORCE_CONTROL_OPTIONS">
-            <Text>Opções de forçar jogo</Text>
+            <Text>Forçar Opções de Jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_FORCE_CONTROL_SPEED">
             <Text>Forçar velocidade do jogo</Text>
@@ -536,7 +536,7 @@
             <Text>Terminando</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_GRIP">
-            <Text>Modo contido</Text>
+            <Text>Modo de Arrasto</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_BACKSPACE">
             <Text>Backspace</Text>
@@ -692,7 +692,7 @@
             <Text>"Você negociou um embargo comercial contra nós!"</Text>
         </Row>
         <Row Tag="TXT_KEY_MEMORY_HIRED_WAR_ALLY">
-            <Text>"Você trouxe em uma guerra aliados contra nós!"</Text>
+            <Text>"Você trouxe um aliado para a guerra contra nós!"</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_COMPLETES_PROJECT">
             <Text>{1_PlyrName} completou o {@2_PrjctName}!</Text>
@@ -719,19 +719,19 @@
             <Text>Você treinou {@1: gender masculine?um; feminine?uma;} {@1_UnitName} em {@2_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_WORK_HAS_BEGUN_LIMITED">
-            <Text>[SPACE]O trabalho está começando agora em {@1_ProdName}.</Text>
+            <Text>[SPACE]O trabalho começou em {@1_ProdName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_MADE_PEACE_WITH">
             <Text>Você fez as pazes com {1_TeamName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_SIMULTANEOUS_TURNS_HELP">
-            <Text>Todas as Civilizações conduziram seus turnos ao mesmo tempo</Text>
+            <Text>Todas as Civilizações realizam seus turnos ao mesmo tempo.</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TAKEOVER_AI_HELP">
-            <Text>Os jogadores podem "tomar as rédeas" de uma Civilização IA a qualquer momento.</Text>
+            <Text>Os jogadores podem entrar a qualquer momento e assumir a vaga de uma Civilização controlada pela IA.</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TURN_TIMER_HELP">
-            <Text>Os turnos são limitados por um temporizador que se adapta de acordo com o tamanho da civilização.</Text>
+            <Text>Os turnos são limitados por um temporizador que se ajusta de acordo com o tamanho da maior Civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE">
             <Text>Você tem certeza disso?</Text>
@@ -755,34 +755,34 @@
             <Text>Você declarou guerra a {1_TeamName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PILLAGE_HELP">
-            <Text>Uma melhoria ou rota neste hexágono não poderá ser usada até ser reparada. Saquear uma melhoria renderá [GOLD]Ouro e recuperará 25 pontos de vida de sua unidade.</Text>
+            <Text>Uma melhoria ou rota neste hexágono não poderá ser usada até ser reparada. Saquear uma melhoria renderá [ICON_GOLD] Ouro e recuperará 25 pontos de vida da sua unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_TERRAIN_COAST">
             <Text>Litoral</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_ARCHER">
-            <Text>A distância</Text>
+            <Text>Unidades de Arquearia</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_GUN">
-            <Text>Armas de fogo</Text>
+            <Text>Unidades de Pólvora</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_HELICOPTER">
-            <Text>Aéreo</Text>
+            <Text>Unidades de Helicóptero</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_MELEE">
-            <Text>Corpo a corpo</Text>
+            <Text>Unidades Corpo a Corpo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_RECON">
-            <Text>Reconhecimento</Text>
+            <Text>Unidades de Reconhecimento</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_SOMEONE_CIRC_GLOBE">
             <Text>{1_PlyrName} provou que a Terra é redonda!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_CIRC_GLOBE">
-            <Text>Seus mapas provaram que a Terra é redonda! Seus navios receberam um bônus de {1_Change} de movimento.</Text>
+            <Text>Seus mapas provaram que a Terra é redonda! Seus navios recebem um bônus de {1_Change} de Movimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_QUICK_MOVES_HELP">
-            <Text>Todos os movimentos dos jogadores são acelerados.</Text>
+            <Text>Todos os movimentos do jogador são acelerados.</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_AUTOMATE_BUILD">
             <Text>Construir melhorias (automatizado)</Text>
@@ -824,7 +824,7 @@
             <Text>Forçar fim do turno</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_GRID">
-            <Text>Alternar entre mostrar hexágonos</Text>
+            <Text>Alternar exibição dos hexágonos</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_ISOMETRIC_CAMERA_LEFT">
             <Text>Girar câmera 45 graus para a esquerda</Text>
@@ -842,7 +842,7 @@
             <Text>Carregar jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_MOUSE_FLYING_CAMERA">
-            <Text>Destravar câmera voadora</Text>
+            <Text>Destravar o mouse da câmera voadora</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_NEXT_CITY">
             <Text>Próxima cidade</Text>
@@ -872,7 +872,7 @@
             <Text>Salvar jogo rápido</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_RESOURCE_ALL">
-            <Text>Mostrar todos os recursos revelados</Text>
+            <Text>Alternar exibição de todos os recursos</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_RETIRE">
             <Text>Retirar-se do jogo</Text>
@@ -884,7 +884,7 @@
             <Text>Salvar jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_SCORES">
-            <Text>Ativar tela de pontos</Text>
+            <Text>Alternar exibição das pontuações</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_SELECT_CAPITAL">
             <Text>Selecionar capital</Text>
@@ -902,10 +902,10 @@
             <Text>Mudar políticas</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_TOP_DOWN_CAMERA">
-            <Text>Alternar para a câmera "de cima para baixo"</Text>
+            <Text>Alternar visão superior da câmera</Text>
         </Row>
         <Row Tag="TXT_KEY_ACTION_YIELDS">
-            <Text>Ativar/Desativar produção</Text>
+            <Text>Alternar exibição dos rendimentos</Text>
         </Row>
         <Row Tag="TXT_KEY_ATTITUDE_ANNOYED">
             <Text>Irritado</Text>
@@ -926,7 +926,7 @@
             <Text>Histórico do chat</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_RELIGION_TO_ADOPT">
-            <Text>Por completar seu santuário imperial, você poderá agora adotar uma religião do Estado!</Text>
+            <Text>Ao concluir o Santuário do seu império, você agora pode adotar uma Religião de Estado!</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY">
             <Text>Cidade</Text>
@@ -947,22 +947,22 @@
             <Text>Tropical</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_EXTRA_STRENGTH">
-            <Text>[ICON_BULLET] {1_Resource}% de Força</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de Força</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_FORTIFY_MOD">
-            <Text>[ICON_BULLET] {1_Resource}% de Unidade Fortificada</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de Fortificação da Unidade</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_HILLS_MOD">
-            <Text>[ICON_BULLET] {1_Resource}% de Colinas (Habilidade da unidade)</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de Colinas (Habilidade da Unidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_MOD_VS_TYPE">
-            <Text>[ICON_BULLET] {1_Resource}% vs. {2_Type}</Text>
+            <Text>[ICON_BULLET]{1_Resource}% vs. {2_Type}</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_TILE_MOD">
-            <Text>[ICON_BULLET] {1_Resource}% de Defesa do hexágono</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de Defesa do Hexágono</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_UNIT_MOD">
-            <Text>[ICON_BULLET] {1_Resource}% de {2_TerrOrFeat} (Habilidade da unidade)</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de {2_TerrOrFeat} (Habilidade da Unidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_AUTOMATE">
             <Text>Automatizar a unidade</Text>
@@ -974,7 +974,7 @@
             <Text>Cancelar todas as ordens</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_DELETE">
-            <Text>[COLOR_WARNING_TEXT]Apagar a unidade[ENDCOLOR]</Text>
+            <Text>[COLOR_WARNING_TEXT]Dissolver a Unidade[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_GIFT">
             <Text>Presentear a unidade</Text>
@@ -986,7 +986,7 @@
             <Text>Parar automatização</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_UPGRADE">
-            <Text>Atualizar unidade</Text>
+            <Text>Aprimorar Unidade</Text>
         </Row>
         <Row Tag="TXT_KEY_COMMAND_WAKE">
             <Text>Acordar a unidade</Text>
@@ -1004,13 +1004,13 @@
             <Text>Os jogadores começam em guerra e não podem fazer as pazes.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_COMPLETE_KILLS">
-            <Text>Matança completa</Text>
+            <Text>Eliminação Completa</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_COMPLETE_KILLS_HELP">
             <Text>Para ser eliminado do jogo, um jogador deve ter todas as suas cidades e unidades destruídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_LOCK_MODS">
-            <Text>Travar Mods</Text>
+            <Text>Bloquear Mods</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_LOCK_MODS_HELP">
             <Text>Evita que este jogo seja carregado enquanto mods estiverem ativos. Útil para jogos competitivos.</Text>
@@ -1019,7 +1019,7 @@
             <Text>Nova semente aleatória</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NEW_RANDOM_SEED_HELP">
-            <Text>Cada vez que o jogo é carregado, um novo número aleatório é renovado. Isto significa que se você atacar depois de carregar, poderá ter um resultado diferente da primeira vez que você jogou.</Text>
+            <Text>Cada vez que o jogo é carregado, a semente do gerador de números aleatórios é regenerada. Isso significa que, se você atacar depois de carregar, poderá obter um resultado diferente da primeira vez que jogou.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_BARBARIANS">
             <Text>Sem bárbaros</Text>
@@ -1028,16 +1028,16 @@
             <Text>Bárbaros e seus acampamentos não aparecerão no mapa.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CHANGING_WAR_PEACE">
-            <Text>Permanente: guerra ou paz</Text>
+            <Text>Guerra ou Paz Permanente</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CHANGING_WAR_PEACE_HELP">
             <Text>Não importa em que estado o jogo começa (guerra ou paz), os jogadores não poderão mudar uma vez que o jogo comece. Útil para mods, como Segunda Guerra Mundial.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CITY_RAZING">
-            <Text>Proibido eliminar cidades</Text>
+            <Text>Sem Arrasamento de Cidades</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_CITY_RAZING_HELP">
-            <Text>Não é permitido aos jogadores exterminar cidades depois de capturá-las.</Text>
+            <Text>Os jogadores não podem arrasar cidades depois de capturá-las.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS">
             <Text>Sem ruínas antigas</Text>
@@ -1046,7 +1046,7 @@
             <Text>Ruínas antigas não aparecerão no mapa.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE">
-            <Text>Desafio uma cidade</Text>
+            <Text>Desafio de Uma Cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE_HELP">
             <Text>Aos jogadores HUMANOS só será permitido construir ou possuir uma cidade.</Text>
@@ -1061,7 +1061,7 @@
             <Text>Bárbaros enfurecidos</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RAGING_BARBARIANS_HELP">
-            <Text>A taxa na qual os Bárbaros surgem é muito aumentada.</Text>
+            <Text>A frequência com que os Bárbaros surgem aumenta significativamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES">
             <Text>Personalidades aleatórias</Text>
@@ -1070,16 +1070,16 @@
             <Text>Uma personalidade aleatória é escolhida para cada líder da IA, em vez de agirem como de costume, o que torna o jogo mais imprevisível.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_DISABLE_START_BIAS">
-            <Text>Desabilitar tendência inicial</Text>
+            <Text>Desabilitar Preferência de Posição Inicial</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_DISABLE_START_BIAS_HELP">
-            <Text>Desabilita a compatibilidade das Civilizações a certas condições de mapa. O começo será totalmente aleatório.</Text>
+            <Text>Desabilita a associação de Civilizações a determinadas condições do mapa. As posições iniciais serão totalmente aleatórias.</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_BARBARIANS">
-            <Text>Ficar de emboscada é coisa de bárbaros traidores!</Text>
+            <Text>Bárbaros traiçoeiros estão à espreita!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_EXPERIENCE">
-            <Text>Explorar as ruínas revelará escrituras antigas que proverá a sua unidade um novo treino de combate!</Text>
+            <Text>Ao explorar as ruínas, você revela escritos antigos que proporcionam novo treinamento de combate à sua unidade!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_GOLD">
             <Text>Você encontrou nas ruínas os tesouros de um antigo império! Você recebeu {1_Num} de [ICON_GOLD] Ouro!</Text>
@@ -1112,7 +1112,7 @@
             <Text>Pode sacrificar população para finalizar a produção em uma cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_AIRLIFT">
-            <Text>Modo de Ponte Aérea</Text>
+            <Text>Modo de Transporte Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_AIRSTRIKE">
             <Text>Modo de Ataque Aéreo</Text>
@@ -1130,7 +1130,7 @@
             <Text>Modo de Presentear Unidade</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_GLOBELAYER_INPUT">
-            <Text>Modo de Entrada Global</Text>
+            <Text>Modo de Entrada do Globo</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_MOVE_TO">
             <Text>Modo de Movimento</Text>
@@ -1145,13 +1145,13 @@
             <Text>Modo de Armas Nucleares</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_PING">
-            <Text>Ping dos Membros do Time</Text>
+            <Text>Enviar Ping à Equipe</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_REBASE">
             <Text>Modo de Rebase</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_ROUTE_TO">
-            <Text>Modo Caminhar Para</Text>
+            <Text>Modo de Construir Rota Até</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_SELECTION">
             <Text>Modo de Seleção</Text>
@@ -1166,7 +1166,7 @@
             <Text>{@1_CityName} foi capturada por {@2_ShortCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_FOUNDED">
-            <Text>{@1_CityName} foi fundada</Text>
+            <Text>{@1_CityName} foi fundada.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_RAZED_BY">
             <Text>{@2_CivName} incendiou {@1_CityName}!!!</Text>
@@ -1181,22 +1181,22 @@
             <Text>{@1_CityName} foi capturada por {@2_ShortCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WLTKD_ENDED_KNOWN_RESOURCE">
-            <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora quer [COLOR_HIGHLIGHT_TEXT]{@2_ResourceName}[ENDCOLOR]!</Text>
+            <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora exige [COLOR_HIGHLIGHT_TEXT]{@2_ResourceName}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WLTKD_ENDED_UNKNOWN_RESOURCE">
-            <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora quer um novo recurso que você ainda não descobriu!</Text>
+            <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora exige um novo Recurso que você ainda não descobriu!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CIV_DESTROYED">
             <Text>A Civilização {@1_CivAdj[2]} foi conquistada!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CIV_DESTROYED_SHORT">
-            <Text>{@1_CivName} {@1: gender masculine?{@1: plural 1?conquistado; other?conquistados;}; feminine{@1: plural 1?conquistada; other?conquistadas;};}!</Text>
+            <Text>{@1_CivName} {@1: gender masculine?{@1: plural 1?conquistado; other?conquistados;}; feminine?{@1: plural 1?conquistada; other?conquistadas;};}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CLEARING_FEATURE_RESOURCE">
-            <Text>Limpar {@1: gender masculine?o; feminine?a;} {@1_FeatName} gerou {2_Num} de [ICON_PRODUCTION] Produção para {@3_CityName}.</Text>
+            <Text>Limpar {@1: gender masculine?o; feminine?a;} {@1_FeatName} gerou {2_Num} [ICON_PRODUCTION] Produção para {@3_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_COMPLETED_WONDER_CHOOSE_TECH">
-            <Text>Você completou {@1: gender masculine?o; feminine?a;} {@1_BldgName}! Escolha uma tecnologia gratuitamente...</Text>
+            <Text>Você completou {@1: gender masculine?o; feminine?a;} {@1_BldgName}! Escolha uma tecnologia gratuita...</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_COMPLETES_WONDER">
             <Text>{1_PlyrName} completou {@2: gender masculine?o; feminine?a;} {@2_BldgName}!</Text>
@@ -1229,7 +1229,7 @@
             <Text>Um inimigo foi visto perto de {@1_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_ENEMY_UNIT_SURRENDER">
-            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_Adjective}} {2_EnUName} rendeu-se {3: gender masculine?ao seu; feminine?à sua;} {3_UnitName}!</Text>
+            <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_EnUName} {@2: gender masculine?{@1_Adjective[1]}; feminine?{@1_Adjective[2]};} rendeu-se {3: gender masculine?ao seu; feminine?à sua;} {3_UnitName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_ENEMY_UNIT_WITHDRAW">
             <Text>{@1: gender masculine?Um inimigo; feminine?Uma inimiga;} {@1_EnUName} ({2_Num} de dano) atacou {@3: gender masculine?seu; feminine?sua;} {@3_UnitName} ({4_Num} de dano)!</Text>
@@ -1241,7 +1241,7 @@
             <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_FeatName}} cresceu perto de {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_FIRST_TECH_CHOOSE_FREE">
-            <Text>Sua Civilização foi a primeira a descobrir a tecnologia [COLOR_TECH_TEXT]{@1_TechName}[ENDCOLOR]! Escolha uma tecnologia de graça...</Text>
+            <Text>Sua Civilização foi a primeira a descobrir [COLOR_TECH_TEXT]{@1_TechName}[ENDCOLOR]! Escolha uma tecnologia gratuita...</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GIFTED_UNIT_TO_YOU">
             <Text>{1_PlyrName} presenteou você com um grupo de {2_UnitName}!</Text>
@@ -1250,7 +1250,7 @@
             <Text>{1_GPName} nasceu em {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GP_BORN_SOMEWHERE">
-            <Text>{1_GPName} nasceu no estrangeiro!</Text>
+            <Text>{1_GPName} nasceu em uma terra distante!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GREAT_PERSON">
             <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
@@ -1259,28 +1259,28 @@
             <Text>{@2: gender masculine?Um; feminine?Uma;} {@2_UnitName} {@2_UnitName: gender masculine?{@3_civ_adjective[1]}; other?{@3_civ_adjective[2]};} que estava vagando pela área destruiu {@1: plural 1?{@1: gender masculine?um; feminine?uma;}; other?{@1: gender masculine?uns; other?umas;};} {@1_ImpName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED">
-            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION] Produção perdida será convertida em {3_NumGold}[ICON_GOLD]!</Text>
+            <Text>{@1_CityName} não pode mais trabalhar em {@2_BldgName}. A [ICON_PRODUCTION] Produção perdida é convertida em {3_NumGold}[ICON_GOLD]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_MELTDOWN_CITY">
             <Text>Um derretimento nuclear ocorreu em {@1_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_NUKE_INTERCEPTED">
-            <Text>{1_PlyrName} lançou {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {2_UnitName}}, mas {2: gender masculine?ele; feminine?ela;} foi {2: gender masculine?derrubado; feminine?derrubada;} por {3_Plyr2Name}!!!</Text>
+            <Text>{1_PlyrName} lançou {2: gender feminine?uma; other?um;} {2_UnitName}, mas {2: gender masculine?ele; feminine?ela;} foi {2: gender masculine?derrubado; feminine?derrubada;} por {3_Plyr2Name}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_NUKE_LAUNCHED">
             <Text>{1_PlyrName} lançou {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {2_UnitName}} e {2: gender masculine?ele; feminine?ela;} explodiu!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PILLAGED_CITY">
-            <Text>Você saqueou {1_Num} de [ICON_GOLD] na destruição de {@2_CityName}!!!</Text>
+            <Text>Você saqueou {1_Num} [ICON_GOLD] Ouro com a destruição de {@2_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_ADOPTED_POLICY">
-            <Text>{@1_PlyrName} adotou {@2_PolicyName} como ramo político!</Text>
+            <Text>{@1_PlyrName} adotou o Ramo de Políticas {@2_PolicyName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_ADOPTED_POLICY_SUMMARY">
             <Text>{@1_PlyrName} adotou {@2_PolicyName}</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_CONVERT_RELIGION">
-            <Text>{1_PlyrName} se converteu para o [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
+            <Text>{1_PlyrName} converteu-se ao [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS">
             <Text>{1_PlyrName}: começou a Era de Ouro.</Text>
@@ -1295,7 +1295,7 @@
             <Text>{1_PlyrName} fez uma aliança permanente com {2_TeamName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLUNDERED_GOLD_FROM_IMP">
-            <Text>Você roubou {1_Num}[ICON_GOLD] do {@2_ImpName}!</Text>
+            <Text>Você saqueou {1_Num}[ICON_GOLD] do {@2_ImpName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RECEIVED_GOLD">
             <Text>[SPACE]Você recebeu {1_Num} de ouro!</Text>
@@ -1304,7 +1304,7 @@
             <Text>{1_RelName} foi fundado em {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_REL_FOUNDED_UNKNOWN">
-            <Text>{1_RelName} foi fundado no estrangeiro!</Text>
+            <Text>{1_RelName} foi fundado em uma terra distante!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RELIGION_ADOPTED_ANOTHER_PLAYER">
             <Text>{1_PlyrName} adotou {@2_ReligionName}!</Text>
@@ -1313,16 +1313,16 @@
             <Text>Um jogador desconhecido adotou uma Religião!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RELIGION_ADOPTED_YOU">
-            <Text>Você completou um majestoso Santuário em {@1_CityName} para honrar {@2_ReligionName}! Agora você pode treinar Missionários para espalhar a fé.</Text>
+            <Text>Você completou um majestoso Santuário em {@1_CityName} para honrar {@2_ReligionName}! Agora você pode treinar Missionários lá para espalhar a fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RELIGION_SPREAD">
             <Text>[COLOR_HIGHLIGHT_TEXT]{1_RelName}[ENDCOLOR] espalhou-se em {@2_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_RESOURCE_DISCOVERED_CITY_DEMANDS">
-            <Text>Você descobriu [COLOR_HIGHLIGHT_TEXT]{@1_ResourceName}[ENDCOLOR], que a cidade de {@2_CityName} procura!</Text>
+            <Text>Você descobriu [COLOR_HIGHLIGHT_TEXT]{@1_ResourceName}[ENDCOLOR], que a cidade de {@2_CityName} exige!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_REVOLT_IN_CITY">
-            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_CivAdj}} revolta está ocorrendo em {@2_CityName}!</Text>
+            <Text>Uma revolta {@1_CivAdj[2]} ocorreu em {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_SOMEONE_CREATED_UNIT">
             <Text>{1_PlyrName} criou {2: gender masculine?um; feminine?uma;} {2_UnitName}!</Text>
@@ -1352,19 +1352,19 @@
             <Text>Seu turno começou!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNIT_DISBANDED_NO_MONEY">
-            <Text>{@1_UnitName} foi {@1: gender masculine?demitido; feminine?demitida;} por causa da carência de fundos!</Text>
+            <Text>{@1_UnitName} foi {@1: gender masculine?dissolvido; feminine?dissolvida;} por falta de fundos!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNITS_ON_STRIKE">
             <Text>Suas unidades estão em greve!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN_CIRC_GLOBE">
-            <Text>Uma Civilização distante fez a circum-navegação do Globo!</Text>
+            <Text>Uma Civilização distante circunavegou o globo!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN_CREATED_UNIT">
-            <Text>[COLOR_UNIT_TEXT]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?foi; other?foram;} {1: gender masculine?criado; feminine?criada;} no estrangeiro!</Text>
+            <Text>[COLOR_UNIT_TEXT]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?foi; other?foram;} {1: gender masculine?criado; feminine?criada;} em uma terra distante!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN_FIRST_TO_TECH">
-            <Text>Uma civilização distante foi a primeira a descobrir a tecnologia: {@1_TechName}!</Text>
+            <Text>Uma civilização distante foi a primeira a descobrir {@1_TechName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_WHAT_TO_RESEARCH_NEXT">
             <Text>O que você gostaria de pesquisar agora?</Text>
@@ -1373,28 +1373,28 @@
             <Text>{@1_PlyrName} completou {@2: gender *:art? ; masculine?{@2: plural 1?o; other?os;}; feminine?{@2: plural 1?a; other?as;};} {@2_WndrName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_WONDER_COMPLETED_UNKNOWN">
-            <Text>{@1: gender *:art? ; masculine?{@1: plural 1?O; other?Os;}; feminine?{@1: plural 1?A; other?As;};} {@1_WndrName} {@1: plural 1?foi; other?foram;} {@1: gender masculine?{@1: plural 1?construído; other?construídos;}; feminine?{@1: plural 1?construída; other?construídas;};} no estrangeiro!</Text>
+            <Text>{@1: gender *:art? ; masculine?{@1: plural 1?O; other?Os;}; feminine?{@1: plural 1?A; other?As;};} {@1_WndrName} {@1: plural 1?foi; other?foram;} {@1: gender masculine?{@1: plural 1?construído; other?construídos;}; feminine?{@1: plural 1?construída; other?construídas;};} em uma terra distante!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_WORK_HAS_BEGUN">
-            <Text>[SPACE]O trabalho começou em {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_ProdName}}.</Text>
+            <Text>[SPACE]Agora começou o trabalho em {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_ProdName}}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_AIR_UNIT_HURT">
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} foi {@1: gender masculine?interceptado; feminine?interceptada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName}! ({3}% de dano)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_ARE_ATTACKED_BY_AIR">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({3_Num} de dano) foi {@1: gender masculine?atacado; feminine?atacada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName}!</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({3_Num} de dano) foi {@1: gender masculine?bombardeado; feminine?bombardeada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_ARE_ATTACKED_BY_AIR_AND_DEATH">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} depois de ser {@1: gender masculine?atacado; feminine?atacada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName}!</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} após ser {@1: gender masculine?bombardeado; feminine?bombardeada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_ARE_ATTACKED_BY_CITY">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({3_Num} de dano) foi {@1: gender masculine?atacado; feminine?atacada;} por uma cidade inimiga chamada {@2_CityName}!</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({3_Num} de dano) foi {@1: gender masculine?bombardeado; feminine?bombardeada;} pela cidade inimiga de {@2_CityName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_ATTACK_BY_AIR">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} atacou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}! ({3_Damage} de dano)</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} bombardeou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}! ({3_Damage} de dano)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_ATTACK_BY_AIR_AND_DEATH">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} atacou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo e o destruiu; feminine?inimiga e a destruiu;}!</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} bombardeou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo e o destruiu; feminine?inimiga e a destruiu;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_CAPTURED_UNIT">
             <Text>Você capturou {@1: gender masculine?um; feminine?uma;} {@1_UnitName} {@1: gender masculine?inimigo; feminine?inimiga;}</Text>
@@ -1406,7 +1406,7 @@
             <Text>Sua cidade de {@1_CityName} foi saqueada por Bárbaros e {2_Num} de Ouro {2: plural 1?foi roubado; other?foram roubados;} do tesouro nacional!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_CITY_WAS_CAPTURED">
-            <Text>Enquanto se defendia, sua cidade de {@1_CityName} foi capturada por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@2_EnUName} {@3_owner_adjective}} ({4_Num} de dano)!</Text>
+            <Text>Enquanto se defendia, sua cidade de {@1_CityName} foi capturada por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?{@3_owner_adjective[1]}; feminine?{@3_owner_adjective[2]};} ({4_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_DEFENSES_REDUCED_TO">
             <Text>Suas defesas em {@1_CityName} foram reduzidas a {2_Num}% por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_UnitName}}!</Text>
@@ -1418,13 +1418,13 @@
             <Text>Você descobriu {@1: gender masculine?{@1: plural 1?o; other?os;}; feminine?{@1: plural 1?a; other?as;};} {@1_TechName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_HURT_ENEMY_AIR">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} interceptou {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {4_owner_adjective}} {@2_EnUName}! ({3}% de dano)</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} interceptou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?{@4_owner_adjective[1]}; feminine?{@4_owner_adjective[2]};}! ({3}% de dano)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT">
-            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@5_owner_adjective}} {@4_EnUName}!</Text>
+            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} ({2_Num} de dano) destruiu {@4: gender masculine?um; feminine?uma;} {@4_EnUName} {@4: gender masculine?{@5_owner_adjective[1]}; feminine?{@5_owner_adjective[2]};}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT_CITY">
-            <Text>Enquanto se defendia, sua cidade de {@1_CityName} ({2_Num} de dano) destruiu {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@4_owner_adjective}} {3_EnUName}!</Text>
+            <Text>Enquanto se defendia, sua cidade de {@1_CityName} ({2_Num} de dano) destruiu {@3: gender masculine?um; feminine?uma;} {@3_EnUName} {@3: gender masculine?{@4_owner_adjective[1]}; feminine?{@4_owner_adjective[2]};}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_REDUCE_CITY_DEFENSES">
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} reduziu as defesas de {@2_CityName} para {3_NewVal}%!</Text>
@@ -1451,10 +1451,10 @@
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} foi {@1: gender masculine?derrubado; feminine?derrubada;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_SURRENDER">
-            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_EnUName} se rendeu a {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@2_Adjective}} {@3_UnitName}!</Text>
+            <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_EnUName} se rendeu a {@3: gender masculine?um; feminine?uma;} {@3_UnitName} {@3: gender masculine?{@2_Adjective[1]}; feminine?{@2_Adjective[2]};}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED">
-            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@3_owner_adjective}} {@2_EnUName} ({4_Num} de dano)!</Text>
+            <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?{@3_owner_adjective[1]}; feminine?{@3_owner_adjective[2]};} ({4_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_UNKNOWN">
             <Text>Enquanto se defendia, {@1: gender masculine?seu; feminine?sua;} {@1_UnitName} foi {@1: gender masculine?destruído; feminine?destruída;} por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?disfarçado; feminine?disfarçada;} ({3_Num} de dano)!</Text>
@@ -1466,19 +1466,19 @@
             <Text>{@1: gender masculine?Seu; feminine?Sua;} {@1_UnitName} ({2_Num} de dano) atacou a cidade inimiga de {@3_CityName} ({4_Num} de dano)!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOUR_CITY_ATTACKED_BY_AIR">
-            <Text>Sua cidade de {@1_CityName} ({3_Num} de dano) foi atacada por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
+            <Text>Sua cidade de {@1_CityName} ({3_Num} de dano) foi bombardeada por {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_YOUR_CITY_RANGE_ATTACK">
-            <Text>{@1_Name} atacou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}! ({3_Damage} de dano)</Text>
+            <Text>{@1_Name} bombardeou {@2: gender masculine?um; feminine?uma;} {@2_EnUName} {@2: gender masculine?inimigo; feminine?inimiga;}! ({3_Damage} de dano)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_AIRLIFT">
-            <Text>Ponte Aérea</Text>
+            <Text>Transporte Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ALERT">
             <Text>Alerta</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_BOMBARD">
-            <Text>Atacar</Text>
+            <Text>Bombardear</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_BUILD_CITY">
             <Text>Fundar cidade</Text>
@@ -1514,7 +1514,7 @@
             <Text>Desembarcar</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HEAL">
-            <Text>Fortificar até estar curado</Text>
+            <Text>Fortificar até se curar</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HURRY_PRODUCTION">
             <Text>Acelerar produção</Text>
@@ -1538,16 +1538,16 @@
             <Text>Saquear</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ROUTE_TO">
-            <Text>Rota para</Text>
+            <Text>Construir Rota Até</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SKIP">
-            <Text>Pular o turno</Text>
+            <Text>Não Fazer Nada</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SLEEP">
             <Text>Dormir</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CULTURE_BOMB">
-            <Text>Bombardear cultura</Text>
+            <Text>Bomba Cultural</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE">
             <Text>Iniciar uma Era de Ouro</Text>
@@ -1559,13 +1559,13 @@
             <Text>Turnos simultâneos</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TAKEOVER_AI">
-            <Text>Capturar IA</Text>
+            <Text>Assumir Civilização da IA</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TURN_TIMER">
             <Text>Temporizador de turno</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_ADVISOR_POPUPS">
-            <Text>Janelas de Assessores</Text>
+            <Text>Janelas dos Assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_NO_UNIT_CYCLING">
             <Text>Sem alternar unidades</Text>
@@ -1592,28 +1592,28 @@
             <Text>Mostrar movimentos do inimigo</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_SHOW_FRIENDLY_MOVES">
-            <Text>Mostrar movimentos dos amigos</Text>
+            <Text>Mostrar movimentos aliados</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WAIT_AT_END_OF_TURN">
             <Text>Esperar no fim do turno</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_LEAVE_OLD_IMPS">
-            <Text>Trabalhadores automáticos deixam melhorias antigas</Text>
+            <Text>Trabalhadores automatizados preservam melhorias existentes</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_START_AUTO">
-            <Text>Trabalhadores começam no automático</Text>
+            <Text>Trabalhadores começam automatizados</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_ACTION">
-            <Text>Você está certo de que quer {@1_ActionName}?</Text>
+            <Text>Tem certeza de que deseja {@1_ActionName}?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD">
-            <Text>Você está certo de que quer {@1_ActionName}?[NEWLINE]O hexágono atual será substituído.</Text>
+            <Text>Você tem certeza de que quer {@1_ActionName}?[NEWLINE]A melhoria atual do hexágono será substituída.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD_WARN_TRADE_ROUTE">
-            <Text>Você está certo de que quer {@1_ActionName}?[NEWLINE]O hexágono atual será substituído e uma rota comercial poderá ser desconectada.</Text>
+            <Text>Você tem certeza de que quer {@1_ActionName}?[NEWLINE]A melhoria atual do hexágono será substituída e uma rota comercial poderá ser desconectada.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_RAZE">
-            <Text>Você tem certeza que quer arrasar esta cidade? (Essa ação não pode ser desfeita)</Text>
+            <Text>Você tem certeza de que quer arrasar esta cidade? (Essa ação pode ser desfeita)</Text>
         </Row>
         <Row Tag="TXT_KEY_BURNING">
             <Text>Queimando</Text>
@@ -1628,16 +1628,16 @@
             <Text>{@1_VoteName} (Requer {2_ReqNum} de {3_TotNum} votos totais)</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_LANDS_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] irá deflagrar GUERRA! Você tem certeza disso?</Text>
+            <Text>Entrar em território [COLOR_HIGHLIGHT_TEXT]{@1_CivAdj[1]}[ENDCOLOR] irá deflagrar GUERRA! Tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_CITY_STATE_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] deflagrará GUERRA! Você tem certeza disso?</Text>
+            <Text>Entrar em território [COLOR_HIGHLIGHT_TEXT]{@1_CivAdj[1]}[ENDCOLOR] deflagrará GUERRA! Tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_MINOR_CIV_LANDS">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] é um ato nada amigável de intimidação! Você tem certeza disso?</Text>
+            <Text>Entrar em território [COLOR_HIGHLIGHT_TEXT]{@1_CivAdj[1]}[ENDCOLOR] é um ato hostil de intimidação! Tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_WITH_OPEN_BORDERS">
-            <Text>(Você pode entrar pacificamente se assinar um Tratado de Fronteiras Abertas)</Text>
+            <Text>(Você pode entrar pacificamente se assinar um Tratado de Fronteiras Abertas.)</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_GOLD_CITY_CAPTURE">
             <Text>Você saqueou {1_Num} de [ICON_GOLD] pela captura de {@2_CityName}!</Text>
@@ -1658,22 +1658,22 @@
             <Text>Anexar a cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_PUPPET_CAPTURED_CITY">
-            <Text>Criar estado fantoche</Text>
+            <Text>Criar Cidade Fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_RAZE_CAPTURED_CITY">
             <Text>Arrasar a cidade!</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_DONT_ANNEX_CITY">
-            <Text>Deixar cidade como um estado fantoche</Text>
+            <Text>Deixar a Cidade como Fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO">
             <Text>Não</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ANNEX_PUPPET">
-            <Text>Você quer anexar o estado fantoche de {@1_CityName} ao seu Império? Isso permitirá que você escolha a produção, mas aumentará sua [ICON_HAPPINESS_4] Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
+            <Text>Você quer anexar a cidade fantoche de {@1_CityName} ao seu Império? Isso permitirá que você escolha a Produção, mas aumentará sua [ICON_HAPPINESS_4] Infelicidade e tornará mais lenta a aquisição de novas Políticas e Grandes Personalidades. Você não poderá desfazer isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO_PUPPET">
-            <Text>Não, converter em estado fantoche</Text>
+            <Text>Não, tornar a Cidade Fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_VOTES_FOR">
             <Text>{1_VtrName} vota em {2_PlyrName} ({3_Num} total)</Text>
@@ -1692,7 +1692,7 @@
         </Row>
         <Row Tag="TXT_KEY_PROMOTION">
             <!-- {1} = TXT_KEY_PROMOTION_ -->
-            <Text>{1} promoção!</Text>
+            <Text>{1} promoção recebida!</Text>
         </Row>
         <Row Tag="TXT_KEY_RELIGION_SPREAD_TO_CITY">
             <Text>Você espalhou {@1_ReligionName} em {@2_CityName}!</Text>
@@ -1704,7 +1704,7 @@
             <Text>Reparar uma melhoria</Text>
         </Row>
         <Row Tag="TXT_KEY_REPAIR_IMPROVEMENT_REC">
-            <Text>Isso irá restaurar funcionalmente a melhoria saqueada neste hexágono.</Text>
+            <Text>Isso restaurará a funcionalidade da melhoria saqueada neste hexágono.</Text>
         </Row>
         <Row Tag="TXT_KEY_REPAIR_IMPROVEMENT_HELP">
             <Text>Se uma melhoria no hexágono foi saqueada, um trabalhador pode repará-la.</Text>
@@ -1713,7 +1713,7 @@
             <Text>Remover uma estrada</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_REC">
-            <Text>Não é necessário conectar nossas cidades. E isso está nos custando [ICON_GOLD] de manutenção.</Text>
+            <Text>Ela não é necessária para conectar nossas cidades e está nos custando [ICON_GOLD] de manutenção.</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_HELP">
             <Text>Você pode remover uma estrada ou ferrovia que foi construída em um hexágono.</Text>
@@ -1746,7 +1746,7 @@
             <Text>Semana {1_WeekNum}</Text>
         </Row>
         <Row Tag="TXT_KEY_WORKER_BUILD_PROGRESS">
-            <Text>{1_Num} {1_Num: plural 1?turno; other?turnos;} para ter [COLOR_POSITIVE_TEXT]{2_WorkerBuildName}[ENDCOLOR]</Text>
+            <Text>{1_Num} {1_Num: plural 1?turno; other?turnos;} para concluir [COLOR_POSITIVE_TEXT]{2_WorkerBuildName}[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_YES">
             <Text>Sim</Text>
@@ -1774,19 +1774,19 @@
 		</Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_CITY">
-			<Text>Sua unidade deve estar em uma cidade para ser atualizada.</Text>
+			<Text>Sua unidade deve estar em uma cidade para ser aprimorada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_POLICY_SAVING">
-			<Text>Permitir salvar política</Text>
+			<Text>Permitir Adiar Políticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_POLICY_SAVING_HELP">
-			<Text>Os jogadores podem escolher uma Política Social mais tarde, em vez de precisar escolhê-la imediatamente.</Text>
+			<Text>Os jogadores podem adiar a escolha de uma Política Social para mais tarde, em vez de precisarem escolhê-la imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING">
-			<Text>Permitir salvar promoção</Text>
+			<Text>Permitir Adiar Promoções</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING_HELP">
-			<Text>Os jogadores podem promover uma unidade mais tarde, em vez de precisar promovê-la imediatamente.</Text>
+			<Text>Os jogadores podem adiar a escolha de uma promoção de unidade para mais tarde, em vez de precisarem escolhê-la imediatamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_SCIENCE">
 			<Text>Desabilitar pesquisa</Text>
@@ -1807,10 +1807,10 @@
 		  <Text>Não há penalidades ou benefícios por felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TUTORIAL">
-		  <Text>Desabilitar janelas de ajuda</Text>
+		  <Text>Desabilitar Janelas do Tutorial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TUTORIAL_HELP">
-			<Text>Desabilita as janelas de ajuda durante o jogo.</Text>
+			<Text>Desabilita as janelas do tutorial durante o jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_ATTRITION">
 			<Text>Desgaste</Text>
@@ -1822,7 +1822,7 @@
 			<Text>{@1: gender masculine?{@1: plural 1?Nosso; other?Nossos;}; feminine?{@1: plural 1?Nossa; other?Nossas;};} {@1_Num} {@1: plural 1?recuou; other?recuaram;} de um ataque corpo a corpo inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_UNIT_WITHDREW">
-			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo a corpo.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo recuou; other?inimigos recuaram;}; feminine?{@1: plural 1?inimiga recuou; other?inimigas recuaram;};} do seu ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PROTECTED_CITY_STATE">
       <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
@@ -1837,7 +1837,7 @@
 			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4] Infelicidade extra durante o arrasamento.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Arrasar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4] Infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4] infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
-			<Text>Vá para a tela da cidade. Você não poderá fazer nada enquanto estiver dentro.</Text>
+			<Text>Vá para a tela da cidade. Você não poderá alterar nada enquanto estiver nela.</Text>
          </Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY">
 			<Text>Exibir cidade</Text>
@@ -1853,13 +1853,13 @@
 			<Text>Estreito de Bering</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_BERING_DESC">
-			<Text>O Estreito de Bering e terras próximas, incluindo o distante Leste Russo, a Península Kamchatka e o Alasca.</Text>
+			<Text>O Estreito de Bering e as terras ao redor, incluindo o Extremo Oriente Russo, Kamchatka e o Alasca.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_BRITISH_ISLES_TITLE">
 			<Text>Ilhas Britânicas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_BRITISH_ISLES_DESC">
-			<Text>A Grã-Bretanha, Irlanda e inúmeras ilhas menores.</Text>
+			<Text>A Grã-Bretanha, a Irlanda e inúmeras ilhas menores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_CARRIBEAN_TITLE">
 			<Text>Caribe</Text>
@@ -1871,10 +1871,10 @@
 			<Text>Leste dos Estados Unidos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_EUS_DESC">
-			<Text>Um mapa que contempla desde a ponta sul do Texas até toda a extremidade da Nova Escócia.</Text>
+			<Text>Um mapa que se estende da ponta sul do Texas até a extremidade leste da Nova Escócia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_JAPAN_TITLE">
-			<Text>Ilha Japonesa</Text>
+			<Text>Terras Japonesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_JAPAN_DESC">
 			<Text>Este mapa se concentra exclusivamente no Japão, sem países vizinhos em jogo.</Text>
@@ -1954,19 +1954,19 @@
 			<Text>{1_Progress}/{2_Threshold}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX">
-			<Text>Habilitar salvamento automático no Fim do Turno</Text>
+			<Text>Habilitar salvamentos automáticos no fim do turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX_PBEM">
-			<Text>Habilitar Modo Jogar Por E-mail</Text>
+			<Text>Habilitar modo Jogar por E-mail</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_NOTICE">
 			<Text>Seu turno acabou. Por favor, envie o arquivo salvo ao próximo jogador da fila. Você pode encontrar o jogo salvo em seu diretório saves/pbem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_AIR_UNIT_DESTROYED">
-			<Text>Graças à interceptação da sua unidade {@1_UnitName}, {@3: gender *:art? ; masculine?{@3: plural 1?o; other?os;}; feminine?{@3: plural 1?a; other?as;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@4: gender *:art? ; masculine?{@4: plural 1?seu; other?seus;}; feminine?{@4: plural 1?sua; other?suas;};} {@4_DefUnitName} {@3: plural 1?foi; other?foram;} {@3: gender *:art?abatido; masculine?{@3: plural 1?abatido; other?abatidos;}; feminine?{@3: plural 1?abatida; other?abatidas;};}!</Text>
+			<Text>Graças à interceptação da sua unidade {@1_UnitName}, {@3: gender *:art? ; masculine?{@3: plural 1?o; other?os;}; feminine?{@3: plural 1?a; other?as;};} {@3_EnUName} {@3: gender masculine?{@3: plural 1?{@2_owner_adjective[1]}; other?{@2_owner_adjective[3]};}; feminine?{@3: plural 1?{@2_owner_adjective[2]}; other?{@2_owner_adjective[4]};};} que {@3: plural 1?atacava; other?atacavam;} {@4: gender *:art? ; masculine?{@4: plural 1?seu; other?seus;}; feminine?{@4: plural 1?sua; other?suas;};} {@4_DefUnitName} {@3: plural 1?foi; other?foram;} {@3: gender *:art?abatido; masculine?{@3: plural 1?abatido; other?abatidos;}; feminine?{@3: plural 1?abatida; other?abatidas;};}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_AIR_UNIT_INTERCEPTED">
-			<Text>Graças à interceptação da sua unidade {@1_UnitName}, causamos dano ({4_Num}) {@3: gender *:art?ao; masculine?{@3: plural 1?ao; other?aos;}; feminine?{@3: plural 1?à; other?às;};} {@3_EnUName} {@2_owner_adjective} que atacavam {@5: gender *:art?seu; masculine?{@5: plural 1?seu; other?seus;}; feminine?{@5: plural 1?sua; other?suas;};} {@5_DefUnitName}.</Text>		
+			<Text>Graças à interceptação da sua unidade {@1_UnitName}, causamos {4_Num} de dano {@3: gender *:art?ao; masculine?{@3: plural 1?ao; other?aos;}; feminine?{@3: plural 1?à; other?às;};} {@3_EnUName} {@3: gender masculine?{@3: plural 1?{@2_owner_adjective[1]}; other?{@2_owner_adjective[3]};}; feminine?{@3: plural 1?{@2_owner_adjective[2]}; other?{@2_owner_adjective[4]};};}, que {@3: plural 1?atacava; other?atacavam;} {@5: gender *:art?seu; masculine?{@5: plural 1?seu; other?seus;}; feminine?{@5: plural 1?sua; other?suas;};} {@5_DefUnitName}.</Text>		
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_LIBERATE_RESURRECT">
 			<Text>Esta cidade pertencia a [COLOR_POSITIVE_TEXT]{@1_PlayerName}[ENDCOLOR]. Você tem a oportunidade de devolvê-la a eles. Fazer isso os deixará eternamente agradecidos.</Text>
@@ -1981,19 +1981,19 @@
             <Text>Controles de Zoom</Text>
         </Row>
         <Row Tag="TXT_KEY_ZOOM_DETAILS">
-            <Text>ABRA 2 dedos na tela para diminuir o Zoom e JUNTE 2 dedos na tela para aumentar o Zoom.</Text>
+            <Text>JUNTE 2 dedos na tela para diminuir o zoom e AFASTE 2 dedos na tela para aumentar o zoom.</Text>
         </Row>
         <Row Tag="TXT_KEY_TOOL_TIPS_TITLE">
-            <Text>Janelas Emergentes e Movimento</Text>
+            <Text>Dicas e Movimento</Text>
         </Row>
         <Row Tag="TXT_KEY_TOOL_TIPS_DETAILS">
             <Text>ARRASTE 1 dedo sobre botões ou terreno para ver janelas emergentes.[NEWLINE]ARRASTE uma unidade para fora do seu hexágono para entrar no modo de movimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_SCROLLING_TITLE">
-            <Text>Rolagem e Fixação da tela</Text>
+            <Text>Rolagem e Deslocamento da Tela</Text>
         </Row>
         <Row Tag="TXT_KEY_SCROLLING_DETAILS">
-            <Text>ARRASTE 2 dedos na tela para fixar a câmera do jogo e mover as barras de rolagem dos menus.</Text>
+            <Text>ARRASTE 2 dedos na tela para deslocar a câmera do jogo e mover as barras de rolagem dos menus.</Text>
         </Row>
         <Row Tag="TXT_KEY_MOVE_TITLE">
             <Text>Movimentando Unidades</Text>
@@ -2005,13 +2005,13 @@
             <Text>Sair do Modo de Movimento</Text>
         </Row>
         <Row Tag="TXT_KEY_EXIT_MOVE_DETAILS">
-            <Text>Para sair do modo de movimento sem dar ordens, toque com o dedo uma segunda vez.</Text>
+            <Text>Para sair do modo de movimento sem dar uma ordem, toque na tela com um segundo dedo.</Text>
         </Row>
         <Row Tag="TXT_KEY_ESCAPE_TITLE">
             <Text>Sair</Text>
         </Row>
         <Row Tag="TXT_KEY_ESCAPE_DETAILS">
-            <Text>TOQUE com 3 dedos para fechar telas e abrir o menu do jogo.</Text>
+            <Text>TOQUE com 3 dedos para fechar telas ou abrir o menu do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_TOUCH_HIDE">
             <Text>Exibir no início</Text>

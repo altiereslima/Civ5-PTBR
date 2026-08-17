@@ -89,7 +89,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_TEXT_1">
-			<Text>A Dinastia Manchu da China, também conhecida como a Dinastia Qing, traça as suas bases para as tribos Jurchen que habitavam a região, historicamente conhecida como Manchúria. Estabelecidos pela primeira vez no século XVII pelo líder tribal Jurchen Nurhaci, os Manchus, sob o comando de Nurhaci, embarcaram em uma campanha de expansão e conquista contra a poderosa Dinastia Ming. Eventualmente, derrubaram os Ming, reivindicando as vastas áreas do território. A Dinastia Manchu governou a China por quase 300 anos e foi a última dinastia da China antes da formação da República Popular.</Text>
+			<Text>A Dinastia Manchu da China, também conhecida como a Dinastia Qing, traça as suas bases para as tribos Jurchen que habitavam a região, historicamente conhecida como Manchúria. Estabelecidos pela primeira vez no século XVII pelo líder tribal Jurchen Nurhaci, os Manchus, sob o comando de Nurhaci, embarcaram em uma campanha de expansão e conquista contra a poderosa Dinastia Ming. Por fim, derrubaram os Ming, reivindicando as vastas áreas do território. A Dinastia Manchu governou a China por quase 300 anos e foi a última dinastia da China antes da formação da República Popular.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_NAME">
 			<Text>Nurhaci dos Jurchen</Text>
@@ -104,7 +104,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_TEXT_1">
-			<Text>Nurhaci, chefe estimado dos Jurchen, é creditado pela união das tribos nômades Jurchen da China e pela criação das bases da Dinastia Manchu. Líder durante a segunda metade do século XVI, Nurhaci foi o primeiro Khan da Dinastia Jin, que mais tarde veio a ser conhecida como Qing ou a Dinastia Manchu após a sua morte. Durante seu reinado, Nurhaci colocou o seu povo em uma missão para ultrapassar a rival Dinastia Ming da China e, eventualmente, a Dinastia Joseon da Coreia. Nurhaci é notavelmente creditado pela criação dos Oito Bandeiras, um sistema organizacional para seus militares, que dividiu as tropas em companhias bandeiras de tamanho variável.</Text>
+			<Text>Nurhaci, chefe estimado dos Jurchen, é creditado pela união das tribos nômades Jurchen da China e pela criação das bases da Dinastia Manchu. Líder durante a segunda metade do século XVI, Nurhaci foi o primeiro Khan da Dinastia Jin, que mais tarde veio a ser conhecida como Qing ou a Dinastia Manchu após a sua morte. Durante seu reinado, Nurhaci colocou o seu povo em uma missão para ultrapassar a rival Dinastia Ming da China e, por fim, a Dinastia Joseon da Coreia. Nurhaci é notavelmente creditado pela criação dos Oito Bandeiras, um sistema organizacional para seus militares, que dividiu as tropas em companhias bandeiras de tamanho variável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
 			<Text>O Papeleiro é a Edificação Exclusiva dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD] Ouro da cidade.</Text>

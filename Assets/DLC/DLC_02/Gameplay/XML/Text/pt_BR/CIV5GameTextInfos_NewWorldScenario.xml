@@ -127,13 +127,13 @@
 			<Text>João Caboto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
-			<Text>Unidade militar dominante da Renascença. Esta unidade possui uma grande [ICON_STRENGTH] Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
+			<Text>Unidade militar dominante da Era do Renascimento. Esta unidade possui uma grande [ICON_STRENGTH] Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
 			<Text>Esta unidade é mais forte em combate que o Mosquete e luta com força em dobro contra unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
-			<Text>Unidade da Renascença que é especialista em exploração e colonização além-mar. Pode ser treinada por qualquer civilização.</Text>
+			<Text>Unidade da Era do Renascimento que é especialista em exploração e colonização além-mar. Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
 			<Text>O Conquistador é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o Conquistador possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do Cavaleiro.</Text>
@@ -280,7 +280,7 @@
 			<Text>Rondando os mares à procura da sua próxima vítima, o Corsário é um pirata legal, que conta com uma carta de corso do seu soberano para atacar embarcações inimigas em tempo de guerra. O principal objetivo de um Corsário é interromper as rotas comerciais do inimigo, enfraquecendo a sua economia ou a habilidade de guarnecer sua fragata e exército. Normalmente, o Corsário era um comerciante empreendedor que já possuía sua própria embarcação, tripulação e conhecia bem o mar e suas rotas comerciais. Em geral, o Corsário trabalhava sozinho, mas, às vezes, ele se juntava a outros para formar uma grande frota, a fim de abater alguns dos grandes inimigos.[NEWLINE][NEWLINE]O Corsário não visava o naufrágio da embarcação inimiga - somente sua captura e seus bens. O espólio era normalmente leiloado, com os ganhos repartidos entre o Corsário, algum possível investidor financeiro e a coroa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
-			<Text>Unidade naval da Renascença, usada para atacar civilizações europeias e roubar tesouros.</Text>
+			<Text>Unidade naval da Era do Renascimento, usada para atacar civilizações europeias e roubar tesouros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
 			<Text>Escola de Navegação</Text>

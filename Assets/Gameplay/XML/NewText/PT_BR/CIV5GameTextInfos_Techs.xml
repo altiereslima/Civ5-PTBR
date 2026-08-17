@@ -70,7 +70,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH">
-			<Text>Futura Tecnologia</Text>
+			<Text>Tecnologia Futura</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -85,7 +85,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
-			<Text>Partes Substituíveis</Text>
+			<Text>Peças Intercambiáveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -115,7 +115,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING">
-			<Text>Fundição de Metal</Text>
+			<Text>Fundição de Metais</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -150,7 +150,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RIFLING">
-			<Text>Estriamento</Text>
+			<Text>Raiamento</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -205,8 +205,8 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHERY_TITLE">
-			<Text>Arqueria</Text>
-			<Gender>feminine</Gender>
+			<Text>Tiro com Arco</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_TITLE">
@@ -315,9 +315,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS_TITLE">
-			<Text>Eletrônicos</Text>
-			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+			<Text>Eletrônica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_TITLE">
 			<Text>Engenharia</Text>
@@ -325,17 +325,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FERTILIZER_TITLE">
-			<Text>Fertilizantes</Text>
+			<Text>Fertilizante</Text>
 			<Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
-			<Text>Aeronáutica</Text>
-			<Gender>feminine</Gender>
+			<Text>Voo</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Futura Tecnologia</Text>
+			<Text>Tecnologia Futura</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -360,9 +360,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_TITLE">
-			<Text>Laser</Text>
+			<Text>Lasers</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MACHINERY_TITLE">
 			<Text>Maquinaria</Text>
@@ -375,7 +375,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASS_MEDIA_TITLE">
-			<Text>Mídia para as Massas</Text>
+			<Text>Comunicação de Massa</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -385,7 +385,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING_TITLE">
-			<Text>Fundição de Metal</Text>
+			<Text>Fundição de Metais</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -455,9 +455,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTICS_TITLE">
-			<Text>Plástico</Text>
+			<Text>Plásticos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_TITLE">
 			<Text>Cerâmica</Text>
@@ -470,7 +470,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PUBLISHING_TITLE">
-			<Text>Editoração</Text>
+			<Text>Publicação</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -495,12 +495,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE">
-			<Text>Partes Substituíveis</Text>
+			<Text>Peças Substituíveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RIFLING_TITLE">
-			<Text>Estriamento</Text>
+			<Text>Raiamento</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -530,7 +530,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEALTH_TITLE">
-			<Text>Camuflagem</Text>
+			<Text>Furtividade</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -565,9 +565,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_TITLE">
-			<Text>Armadilhas</Text>
+			<Text>Caça com Armadilhas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WRITING_TITLE">
 			<Text>Escrita</Text>

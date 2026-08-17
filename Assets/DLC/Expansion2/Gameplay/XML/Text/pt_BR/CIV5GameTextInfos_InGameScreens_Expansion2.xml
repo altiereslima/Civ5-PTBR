@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+﻿<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
@@ -65,7 +65,7 @@
             <Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} ({4_CivName})</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MINOR">
-            <Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} (City-State)</Text>
+            <Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} (Cidade-Estado)</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_HEADING">
             <Text>Rotas Comerciais:[NEWLINE]</Text>
@@ -442,7 +442,7 @@
             <Text>[ICON_PLUS] Cidades-Estado</Text>
         </Row>       <!--Unidade Comercial Construction Warnings -->
         <Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_LAND">
-            <Text>[NEWLINE][NEWLINE]Você não pode construir esta unidade comercial, pois não não há rotas comerciais terrestres disponíveis.</Text>
+            <Text>[NEWLINE][NEWLINE]Você não pode construir esta unidade comercial, pois não há rotas comerciais terrestres disponíveis.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_SEA">
             <Text>[NEWLINE][NEWLINE]Você não pode construir esta unidade comercial, pois não há rotas comerciais marítimas disponíveis.</Text>
@@ -454,13 +454,13 @@
             <Text>Achado Arqueológico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LEAD_IN">
-            <Text>Seu arqueologista descobriu...</Text>
+            <Text>Seu arqueólogo descobriu...</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE1">
             <Text>RELÍQUIAS DE ATAQUE A DISTÂNCIA</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE2">
-            <Text>RELÍQUIAS DE ATAQUE CORPO-A-COPOR</Text>
+            <Text>RELÍQUIAS DE ATAQUE CORPO-A-CORPO</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE3">
             <Text>RESTOS DE ACAMPAMENTO BÁRBARO</Text>
@@ -505,7 +505,7 @@
 		  <Text>Criar Escrita {1_String}</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
-            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueologista será consumido.</Text>
+            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
         </Row>
 	    <Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
 			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
@@ -514,7 +514,7 @@
             <Text>Criar Melhoria Marco Histórico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
-            <Text>Quando trabalhado, o Marco Histórico fornece [ICON_CULTURE] Cultura baseada na sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior a atual Era da civilização. O Arqueologista será consumido.</Text>
+            <Text>Quando trabalhado, o Marco Histórico fornece [ICON_CULTURE] Cultura baseada na sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior a atual Era da civilização. O Arqueólogo será consumido.</Text>
         </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
 		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
@@ -946,16 +946,16 @@
             <Text>Vazio (Musical)</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações poderão permutá-la no turno delas sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra de Arte. Grandes Obras de Arte só podem ser permutadas por outra Grande Obra de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra de Arte. Grandes Obras de Arte só podem ser permutadas por outra Grande Obra de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações poderão permutá-la no turno delas sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ARTIFACT_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por um Artefato. Artefatos só podem ser permutados por outro Artefato. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Artefato para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por um Artefato. Artefatos só podem ser permutados por outro Artefato. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Artefato para um espaço, mas não realizar uma permuta no seu turno, outras civilizações poderão permutá-lo no turno delas sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Musical. Grandes Obras Musicais só podem ser permutadas por outra Grande Obra Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas Grandes Obras ou Artefatos que você você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Musical. Grandes Obras Musicais só podem ser permutadas por outra Grande Obra Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações poderão permutá-la no turno delas sem a sua permissão! Certifique-se de exibir apenas Grandes Obras ou Artefatos que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_OTHERS_SLOT_EMPTY">
             <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} uma Grande Obra Literária que possa ser permutada.</Text>

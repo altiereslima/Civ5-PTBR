@@ -13,7 +13,7 @@
             <Text>Boas-vindas à Indonésia! Eu sou Gajah Mada. Espero que suas intenções sejam nobres...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_3">
-            <Text>Saudações! Sou Gajah Mada da Indonésia! Seja bem-vinda, pessoa visitante, ao meu glorioso império!</Text>
+            <Text>Saudações! Sou Gajah Mada da Indonésia! Boas-vindas ao meu glorioso império!</Text>
         </Row>
         <!-- Reage ao seu bluff sendo chamado -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_1">

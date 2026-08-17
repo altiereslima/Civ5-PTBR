@@ -17,7 +17,7 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_6">
-			<Text>Eu creio que sim.</Text>
+			<Text>Suponho que devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
@@ -29,22 +29,22 @@
 			<Text>Excelente! Que o sangue corra em torrentes furiosas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_3">
-			<Text>Em sua tolice! Eu ensoparei o mundo com o sangue de seus soldados!</Text>
+			<Text>Que tolice! Vou afogar o mundo no sangue de seus soldados!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1">
-			<Text>Estou com um estoque pequeno de prisioneiros para os sacrifícios. Seu povo servirá para mudar isso - prepare-se para a guerra!</Text>
+			<Text>Estou quase sem prisioneiros para sacrificar. Seus cidadãos servirão perfeitamente — prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2">
-			<Text>Você me dá nojo! Vou livrar o mundo de sua presença - preparem-se para a guerra!</Text>
+			<Text>Você me dá nojo! Vou livrar o mundo de sua presença — prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_3">
 			<Text>Morra, morra, morra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_1">
-			<Text>Meus soldados provaram-se inúteis e fracos - fico grato que os tenha matado!</Text>
+			<Text>Meus soldados provaram ser inúteis e fracos — fico feliz que tenha matado todos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_2">
-			<Text>Monstro! Quem pensa que é para destruir a minha nobreza?</Text>
+			<Text>Monstro! Quem é você para destruir minha grandeza?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3">
 			<Text>Apesar dos meus maiores esforços, você prevaleceu. Talvez agora eu possa encontrar a paz.</Text>
@@ -53,7 +53,7 @@
 			<Text>Eu quero seus bens, começando por isto!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY">
-			<Text>Eu preciso disto - você tem. Não me decepcione!</Text>
+			<Text>Eu preciso disto — você tem. Em nome de nossa amizade, não me decepcione!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL">
 			<Text>Dê-me o que eu quero ou eu destruirei seu povo!</Text>
@@ -80,7 +80,7 @@
 			<Text>Como...?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1">
-			<Text>Boas-vindas! Fique em estado de choque e maravilha com o meu poder e majestade!</Text>
+			<Text>Boas-vindas. Contemple com espanto meu poder e minha majestade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2">
 			<Text>O que vejo diante de mim? Apenas mais um coração batendo para o meu fogo sacrificial?</Text>
@@ -152,7 +152,7 @@
 			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LOSEWAR_1">
-			<Text>Maldição! Vou sacrificar dez mil cidadãos para me esquecer desta humilhação!</Text>
+			<Text>Maldição! Vou sacrificar dez mil cidadãos para expiar esta humilhação!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_1">
 			<Text>Ha, ha, hah! Não. Dê-me mais ou sua punição será certa!</Text>
@@ -164,7 +164,7 @@
 			<Text>Terá que fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Não tente abusar da nossa amizade! Terá que nos dar mais!</Text>
+			<Text>Idiota! Não ouse abusar de nossa amizade! Terá de nos dar mais!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_2">
 			<Text>É o melhor que pode fazer?</Text>
@@ -188,10 +188,10 @@
 			<Text>Não. Prefiro furar minhas entranhas com ferro quente a aceitar seus termos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY">
-			<Text>Obrigado, mas não. O que eu tenho que seja do mesmo valor de suas bugigangas?</Text>
+			<Text>Obrigado, mas não. Para que uma criatura como eu precisaria de suas bugigangas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL">
-			<Text>Pessoa tola e cega! Estou acima destas coisas!</Text>
+			<Text>Que tolice cega! Estou acima dessas coisas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY">
 			<Text>Muito bem. Agora arraste sua carcaça maligna para longe daqui, antes que eu me irrite e atire seu corpo para as iguanas!</Text>
@@ -215,19 +215,19 @@
 			<Text>Não! Não! Não! Não! Não! Não! Não! Alguém me dê um machado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_HAPPY">
-			<Text>Eu não tenho tempo para tolices.</Text>
+			<Text>Vá embora. Não tenho tempo para sua tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_NEUTRAL">
-			<Text>Criatura estúpida! Eu cuspo em suas palavras débeis!</Text>
+			<Text>Criatura pestilenta! Cuspo em suas exigências patéticas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_ANGRY">
-			<Text>Muito bem. Mas isso não salvará ninguém: eu terei minha vingança!</Text>
+			<Text>Muito bem. Mas isso não salvará você: terei minha vingança!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_HAPPY">
 			<Text>Agrada-me conceder seu pedido mais patético.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_NEUTRAL">
-			<Text>Não! Não! Não! Espere - minha escolha mudou. Sim.</Text>
+			<Text>Não! Não! Não! Espere — mudei de ideia. Sim.</Text>
  		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_1">
 			<Text>Está jogando um jogo perigoso.</Text>
@@ -242,13 +242,13 @@
 			<Text>Que decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_5">
-			<Text>A verdade? Espero que você não viva para lamentar sua miopia.</Text>
+			<Text>É mesmo? Espero que não viva para se arrepender de sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6">
-			<Text>Você é tão tolo.</Text>
+			<Text>Que tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1">
-			<Text>Deixe a paz durar até conseguirmos mais prisioneiros para sacrificar!</Text>
+			<Text>Que a paz dure até precisarmos de mais prisioneiros para sacrificar!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

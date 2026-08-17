@@ -17,7 +17,7 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_6">
-			<Text>Acho que devo.</Text>
+			<Text>Suponho que devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
@@ -26,7 +26,7 @@
 			<Text>Impressionante! Eu pensei que não teria capacidade para isso. Muito bem, comecemos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_2">
-			<Text>Em sua loucura e desespero, sua ganância causará sua ruína.</Text>
+			<Text>Que tolice irremediável! Sua ganância será sua ruína.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_3">
 			<Text>Que tolice! Seu povo está fadado à extinção!</Text>
@@ -38,7 +38,7 @@
 			<Text>Você foi útil... até agora. Prepare-se para a guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_3">
-			<Text>Pelas barbas do profeta, seu futuro está atrás de você! Prepare-se para a guerra!</Text>
+			<Text>Pelas barbas do profeta, sua ruína chegou! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_1">
 			<Text>Isso é terrível! Fui derrotado! Pelas barbas do profeta, como isso pode ter acontecido?</Text>
@@ -53,10 +53,10 @@
 			<Text>Você pode, temporariamente, impedir a sua destruição, dando-nos o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_HAPPY">
-			<Text>Será que não poderia ceder o seguinte a este velho aliado?</Text>
+			<Text>Em nome de nossa amizade e aliança, poderia nos ceder o seguinte?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Seria melhor nos dar o que queremos - a época de campanha da primavera está quase a chegar e meus generais esperam suas encomendas.</Text>
+			<Text>Seria do seu interesse nos dar o que queremos — a temporada de campanhas da primavera está chegando e meus generais aguardam ordens.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_1">
 			<Text>Não.</Text>
@@ -80,13 +80,13 @@
 			<Text>Como...?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_1">
-			<Text>Pelas barbas do profeta, estou muito satisfeito em conhecê-lo! Eu sou Solimão, líder dos poderosos Otomanos!</Text>
+			<Text>Pelas barbas do profeta, é um prazer este encontro! Sou Solimão, líder dos poderosos otomanos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_2">
 			<Text>A nação Otomana lhe dá saudações! Eu sou Solimão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_3">
-			<Text>Saudações! Eu sou Solimão, líder dos Otomanos! Deixe-nos celebrar esta grande ocasião!</Text>
+			<Text>Saudações! Sou Solimão, líder dos otomanos! Vamos banquetear para celebrar esta grande ocasião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_1">
 			<Text>Bom dia.</Text>
@@ -173,7 +173,7 @@
 			<Text>Está quase.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Que mão fechada! Certamente tem como melhorar!</Text>
+			<Text>Que ganância — parece a de um peixeiro com doze filhos! Certamente pode melhorar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_2">
 			<Text>Poderia melhorar a oferta um pouco?</Text>
@@ -185,13 +185,13 @@
 			<Text>Quase lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_ANGRY">
-			<Text>Não tenho tempo para tolices. Desapareça.</Text>
+			<Text>Não tenho tempo para suas tolices. Vá se jogar no Bósforo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_HAPPY">
-			<Text>Acho que o sol afetou seu juízo.</Text>
+			<Text>Em nome de nossa amizade, acho que passou tempo demais ao sol sem o turbante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_NEUTRAL">
-			<Text>Ridículo! Que ideia é essa?</Text>
+			<Text>Ridículo! Andou bebendo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_ANGRY">
 			<Text>Às vezes demonstra sensatez. Talvez haja esperança.</Text>
@@ -206,22 +206,22 @@
 			<Text>Creio que perceberá que estes acordos são vantajosos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_HAPPY">
-			<Text>Aceita estes acordos?</Text>
+			<Text>Em nome de nossa amizade, este acordo lhe parece aceitável?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_NEUTRAL">
 			<Text>Vamos negociar. É isto que deseja?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_ANGRY">
-			<Text>Acha mesmo que pode me subjugar? Que disparate!</Text>
+			<Text>Descendente de macacos! Acha mesmo que pode extorquir meu tesouro? Deve ter perdido o juízo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_HAPPY">
-			<Text>É assim que se trata alguém com quem tem relações? Francamente, não!</Text>
+			<Text>É assim que amigos se tratam? Pelas barbas do profeta, acho que não!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_NEUTRAL">
-			<Text>Por que não pede algo mais fácil? Não!</Text>
+			<Text>Por que não pede também meu primogênito? Não!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_ANGRY">
-			<Text>Está em vantagem agora. Mas isso não durará para sempre!</Text>
+			<Text>Está em vantagem por enquanto. Mas, pelas barbas do profeta, nem sempre será assim!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_HAPPY">
 			<Text>Claro! Sou conhecido por minha generosidade, não?</Text>
@@ -242,13 +242,13 @@
 			<Text>Que grande decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_5">
-			<Text>Espero que se arrependa amargamente de sua decisão.</Text>
+			<Text>Espero que não viva para se arrepender de sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_6">
 			<Text>Que tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_WINWAR_1">
-			<Text>Não cruze nosso caminho novamente, insisto. Ou não serei tão clemente!</Text>
+			<Text>Peço que não cruze nosso caminho novamente. Na próxima vez não serei tão clemente!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -70,7 +70,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_DESC">
 			<Text>
-			  Enquanto muitos navios são projetados para atravessar oceanos rapidamente ou transportar a maior quantidade de carga no menor espaço possível, os navios de guerra foram projetados para um único propósito - destruir outros navios. Além de obviamente estarem equipados com algum tipo de arma (tradicionalmente coisas como canhões ou aríetes), os navios de guerra também podem suportar mais danos e são muito mais manobráveis do que algo como um navio mercante ou de passageiros.[NEWLINE][NEWLINE]Conforme as tecnologias navais avançaram, também avançaram os navios de guerra. Galés e trirremes eram formas antigas de navios de guerra capazes de embater em navios inimigos, mas geralmente o combate era realizado pelo exército a bordo. No entanto, uma vez que os canhões se tornaram capazes de recargas rápidas, navios grandes impulsionados por velas foram empregados, com fileiras de canhões ao longo de cada lado da embarcação. Eventualmente, esses navios de madeira foram substituídos por outros feitos de ferro e aço, e as velas foram abandonadas em favor da energia a vapor e nuclear. Embora os navios de guerra modernos tenham pouca semelhança com as primeiras galeras, eles ainda seguem os mesmos princípios básicos de design - ser capaz de destruir o oponente primeiro, antes que ele possa te atingir.
+			  Enquanto muitos navios são projetados para atravessar oceanos rapidamente ou transportar a maior quantidade de carga no menor espaço possível, os navios de guerra foram projetados para um único propósito - destruir outros navios. Além de obviamente estarem equipados com algum tipo de arma (tradicionalmente coisas como canhões ou aríetes), os navios de guerra também podem suportar mais danos e são muito mais manobráveis do que algo como um navio mercante ou de passageiros.[NEWLINE][NEWLINE]Conforme as tecnologias navais avançaram, também avançaram os navios de guerra. Galés e trirremes eram formas antigas de navios de guerra capazes de embater em navios inimigos, mas geralmente o combate era realizado pelo exército a bordo. No entanto, uma vez que os canhões se tornaram capazes de recargas rápidas, navios grandes impulsionados por velas foram empregados, com fileiras de canhões ao longo de cada lado da embarcação. Por fim, esses navios de madeira foram substituídos por outros feitos de ferro e aço, e as velas foram abandonadas em favor da energia a vapor e nuclear. Embora os navios de guerra modernos tenham pouca semelhança com as primeiras galeras, eles ainda seguem os mesmos princípios básicos de design - ser capaz de destruir o oponente primeiro, antes que ele possa te atingir.
 		  </Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_QUOTE">
@@ -122,13 +122,13 @@
 			<Text>João Caboto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
-			<Text>Unidade militar dominante da Era Renascentista. Esta unidade possui uma alta [ICON_STRENGTH]Força de Combate, bem como a promoção Bônus contra Montarias (100). Pode ser construída por qualquer civilização.</Text>
+			<Text>Unidade militar dominante da Era do Renascimento. Esta unidade possui uma alta [ICON_STRENGTH]Força de Combate, bem como a promoção Bônus contra Montarias (100). Pode ser construída por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
 			<Text>Esta unidade é mais forte em combate do que o Mosquete e luta com força dobrada contra unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
-			<Text>Unidade da Era Renascentista que se especializa em exploração e colonização ultramarina. Pode ser construída por qualquer civilização.</Text>
+			<Text>Unidade da Era do Renascimento que se especializa em exploração e colonização ultramarina. Pode ser construída por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
 			<Text>O Conquistador é uma unidade de uso múltiplo, forte tanto em terra quanto no mar. É um excelente explorador em terra, com visibilidade extra e a habilidade de fundar novas cidades. Na água, o Conquistador possui a promoção de embarque defensivo que lhe permite se defender contra unidades navais. Ele também não sofre penalidade ao atacar cidades, ao contrário do Cavaleiro.</Text>
@@ -137,7 +137,7 @@
 			<Text>Só os Maias podem criar esta unidade. É mais barata e disponível mais cedo do que o Arqueiro, a qual substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST_STRATEGY">
-			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arqueria. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
+			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis antes, sem precisar pesquisar Tiro com Arco. Essa vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYAN_ATLATLIST_TEXT">
 			<Text>Os Atlatlistas eram unidades de combate superespecializadas que usavam um objeto de madeira longo, semelhante a uma lança, para disparar dardos em alta velocidade no alvo. Esta ferramenta, que se chamava "atlatl", tinha em uma extremidade uma pequena concavidade na qual o dardo apoiava e um sulco talhado ao longo para que o projétil deslizasse. Mediante o atlatl, o Atlatlista poderia lançar um dardo até 100m e a velocidades de quase 100km/h, muito mais longe e mais rápido do que um projétil lançado à mão. Os Atlatlistas maias eram capazes de devastar inimigos de longe, supondo que eles tivessem um visual claro com eles.[NEWLINE][NEWLINE]Alguns dos mais antigos atlatls remontam a 400.000 anos atrás e foram usados pelo extinto Homo Heidelbergensis. Acredita-se que o Homo Sapiens começou a usar as primeiras versões de atlatl no Paleolítico Superior, por volta de 15.500 a.C.</Text>
@@ -257,7 +257,7 @@
 			<Text>Permite declarações de guerra contra qualquer poder</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
-			<Text>Permite que seus Trabalhadores construam [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em fontes de [ICON_RES_DEER]Cervo, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.[ENDCOLOR], aumentando a produção de [ICON_GOLD]Ouro dos hexágonos do mapa.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em fontes de [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles[ENDCOLOR], que aumenta a geração de [ICON_GOLD] Ouro daqueles hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
 			<Text>Permite que você construa a [COLOR_POSITIVE_TEXT]Catapulta[ENDCOLOR], uma poderosa arma de cerco.</Text>
@@ -473,7 +473,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Sistema de Comboio[ENDCOLOR][NEWLINE]+6 de [ICON_GOLD]Ouro de todas as suas rotas comerciais marítimas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM_TEXT">
-			<Text>Ainda que comboios fossem usados desde o século 9 d.C. durante tempos de guerra para proteger transportes de tropas e invasões, a audácia crescente de piratas e corsários no Caribe levou os mercadores espanhóis e eventualmente a coroa a instituir um sistema de comboio para proteger a riqueza trazida da América do Novo Mundo para a Europa. Alguns dos comboios espanhóis e portugueses poderiam conter centenas de mercadores, como os comboios de metais preciosos espanhóis que navegaram dos anos 1520 até 1790.</Text>
+			<Text>Ainda que comboios fossem usados desde o século 9 d.C. durante tempos de guerra para proteger transportes de tropas e invasões, a audácia crescente de piratas e corsários no Caribe levou os mercadores espanhóis e por fim a coroa a instituir um sistema de comboio para proteger a riqueza trazida da América do Novo Mundo para a Europa. Alguns dos comboios espanhóis e portugueses poderiam conter centenas de mercadores, como os comboios de metais preciosos espanhóis que navegaram dos anos 1520 até 1790.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_NWS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]A velocidade de treinamento de [COLOR_POSITIVE_TEXT]Colonos[ENDCOLOR] é aumentada em 50% na [ICON_CAPITAL]Capital e um Colono grátis aparece perto da [ICON_CAPITAL]Capital.</Text>
@@ -497,10 +497,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Europeia[ENDCOLOR][NEWLINE]+50 de [ICON_PEACE]Fé por cada turno em que a sua [ICON_CAPITAL]Capital tiver sua religião original. (Inglaterra, França e Países Baixos são Protestantes; Portugal e Espanha são Católicos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS">
-			<Text>Jinete das Planícies</Text>
+			<Text>Cavaleiros das Planícies</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Jinete das Planícies[ENDCOLOR][NEWLINE]6 unidades não têm custo de manutenção. Receba imediatamente 6 Cavaleiros Comanche (unidades de cavalaria fortes que podem se defender contra Missionários). +8 de [ICON_PEACE]Fé na [ICON_CAPITAL]Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Cavaleiros das Planícies[ENDCOLOR][NEWLINE]6 unidades não têm custo de manutenção. Receba imediatamente 6 Cavaleiros Comanches (unidades de cavalaria fortes que podem se defender contra Missionários). +8 de [ICON_PEACE] Fé na [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_TEXT">
 			<Text>Até que Colombo tenha importado cavalos para as Índias Ocidentais em sua segunda viagem em 1493 d.C., não havia equinos sobrevivendo nas Américas. Descendentes dos animais abandonados pelos conquistadores, diversas raças se espalharam rapidamente pelas planícies da América do Norte, onde os nômades até então primitivos rapidamente fizeram do cavalo o pilar de sua sociedade e cultura.</Text>
@@ -610,7 +610,7 @@
 			<Text>Saque da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS_HELP">
-			<Text>+33% para a Força de Combate ao atacar cidades.</Text>
+			<Text>+33% de [ICON_STRENGTH] Força de Combate ao atacar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_EMBARKATION_HELP">
 			<Text>Pode embarcar em [COLOR_POSITIVE_TEXT]Hexágonos de Água[ENDCOLOR]. 10% de chance desta unidade sofrer 10 de dano por [COLOR_NEGATIVE_TEXT]Escorbuto[ENDCOLOR] cada vez que se mover para um hexágono de água neutro ou inimigo (a menos que a Escola de Navegação tenha sido construída).</Text>

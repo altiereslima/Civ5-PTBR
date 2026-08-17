@@ -62,7 +62,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS">
-			<Text>Jinete Comanche|Jinetes Comanches</Text>
+			<Text>Cavaleiro Comanche|Cavaleiros Comanches</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -449,7 +449,7 @@
 			<Text>Jan Vermeer</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HANS_HOLBEIN">
-			<Text>Hans Holbein the Younger</Text>
+			<Text>Hans Holbein, o Jovem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PIETER_BRUEGEL">
 			<Text>Pieter Bruegel</Text>
@@ -627,7 +627,7 @@
 			<Text>Caspar David Friedrich</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_BRUEGHEL">
-			<Text>Pieter Brueghel the Elder</Text>
+			<Text>Pieter Brueghel, o Velho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PETRUS_CHRISTUS">
 			<Text>Petrus Christus</Text>
@@ -820,6 +820,83 @@
 		</Row>
 		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_AMBROGIO_CONTARINI">
 			<Text>Ambrogio Contarini</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_ADRIEN_CARPENTIERS">
+			<Text>Adrien Carpentiers</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AUGUST_HAAKE">
+			<Text>August Haake</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAHRAM_KIRMANSHAHI">
+			<Text>Bahram Kirmanshahi</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARAVAGGIO">
+			<Text>Caravaggio</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDMUND_LEIGHTON">
+			<Text>Edmund Leighton</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCESCO_HAYEZ">
+			<Text>Francesco Hayez</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANS_POST">
+			<Text>Frans Post</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_HEALY">
+			<Text>George Peter Alexander Healy</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_ROUSSEAU">
+			<Text>Henri Rousseau</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HORACE_VERNET">
+			<Text>Horace Vernet</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ILYA_REPIN">
+			<Text>Ilya Repin</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOZEF_BORSOS">
+			<Text>József Borsos</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_BRIULLOV">
+			<Text>Karl Briullov</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SERGEY_IVANOV">
+			<Text>Sergey Vasilyevich Ivanov</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UTAGAWA_KUNIYOSHI">
+			<Text>Utagawa Kuniyoshi</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VIKTOR_VASNETSOV">
+			<Text>Viktor M. Vasnetsov</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_THE_YOUNGER">
+			<Text>Willem van de Velde, o Jovem</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BOUGUEREAU">
+			<Text>William Bouguereau</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_SIMPSON">
+			<Text>William Simpson</Text>
+			<Gender>masculine</Gender>
 		</Row>
 	</Language_pt_BR>
 </GameData>

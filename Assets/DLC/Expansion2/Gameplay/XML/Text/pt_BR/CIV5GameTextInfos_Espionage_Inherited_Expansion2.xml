@@ -3,7 +3,7 @@
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_ESPIONAGE_NOT_STARTED_YET">
-            <Text>A Espionagem começa quando alguém entra na Renascença.</Text>
+            <Text>A Espionagem começa quando alguém entra na Era do Renascimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_MORE_SPIES">
             <Text>Todos os seus espiões foram mortos.[NEWLINE]Substitutos estão sendo recrutados.</Text>
@@ -364,7 +364,7 @@
         </Row>
         <!-- EO screen -->
         <Row Tag="TXT_KEY_EO_POTENTIAL_SORT_TT">
-            <Text>Potencial indica o quão rápido tecnologias podem ser roubadas de uma cidade. Quanto mais alto o valor, mais rápido tecnologias poderão ser roubadas. O valor base vem da quantidade de ciência gerada pela cidade. O Potencial pode cair em razão das edificações defensivas na cidade, como o Condestável e o Distrito Policial. No entanto, o Potencial pode crescer quando um espião de alta graduação é utilizado para roubar tecnologias da cidade.</Text>
+            <Text>Potencial indica o quão rápido tecnologias podem ser roubadas de uma cidade. Quanto mais alto o valor, mais rápido tecnologias poderão ser roubadas. O valor base vem da quantidade de ciência gerada pela cidade. O Potencial pode cair em razão das edificações defensivas na cidade, como o Condestável e o Distrito Policial. O Potencial pode aumentar quando um espião de patente mais alta é usado para roubar tecnologias da cidade.[NEWLINE][NEWLINE]Clique para ordenar as cidades por Potencial.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_CITY_SORT_TT">
             <Text>Nome da cidade.[NEWLINE][NEWLINE]Clique para ordenar cidades pelos nomes.</Text>

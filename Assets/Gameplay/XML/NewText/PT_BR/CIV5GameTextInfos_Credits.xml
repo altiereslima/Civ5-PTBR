@@ -16,7 +16,7 @@
 			<Text>Firaxis Games</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_1_0_0"> <!-- Minor Title -->
-			<Text>Equipe de Desenho</Text>
+			<Text>Equipe de Design</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_1_1_0"> <!-- Heading-->
 			<Text>Criador Original de Civilization</Text>
@@ -43,19 +43,19 @@
 			<Text>Equipe de Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_1_0">
-			<Text>Produtores</Text>
+			<Text>Produtor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_1_1">
 			<Text>Dennis Shirk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_2_0">
-			<Text>Produtores Associados</Text>
+			<Text>Produtor Associado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_2_1">
 			<Text>Lisa Miller</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_3_0">
-			<Text>Produtores Adicionais</Text>
+			<Text>Produção Adicional</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS_2_2_3_1">
 			<Text>Clint McCaul</Text>

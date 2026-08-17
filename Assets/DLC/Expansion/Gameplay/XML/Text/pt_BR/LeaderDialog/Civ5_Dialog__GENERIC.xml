@@ -5,16 +5,16 @@
 	<Language_pt_BR>
 		<!-- Statements to player -->
 		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
-			<Text>Eu imaginei que você gostaria de saber que eu lancei um ataque contra um dos seus pequenos estados de estimação. As terras {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} serão uma bela adição ao meu território.</Text>
+			<Text>Imaginei que gostaria de saber que lancei uma invasão contra um de seus pequenos estados protegidos. As terras de {@1_MinorCivName} serão uma bela adição às minhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
-			<Text>Oops, parece que eu ataquei sua pequena amiga, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Vai querer fazer algo a respeito?</Text>
+			<Text>Ops, parece que ataquei sua pequena amiga, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Vai fazer algo a respeito?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
 			<Text>Chegou ao meu conhecimento que talvez eu tenha atacado {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Embora não tenha sido minha intenção criar um dissabor com sua civilização, foi um ato considerado totalmente necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
-			<Text>Fui informado de que meu império lançou um ataque contra {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Eu lhe asseguro que isso não foi de propósito e espero que não seja motivo para nos dividir.</Text>
+			<Text>Acabo de saber que meu império lançou um ataque contra {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Posso assegurar que não foi intencional e espero que isso não nos afaste.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_1">
 			<Text>Deveríamos considerar estabelecer nossas Embaixadas, que permitiriam uma diplomacia avançada entre nossos povos.</Text>
@@ -26,34 +26,34 @@
 			<Text>Sua intimidação {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName} é intolerável. Eu exijo que você cesse suas exigências de tributos a Cidades-Estado sob minha proteção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_2">
-			<Text>Eu ouvi falar sobre o que você fez {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName}. Você não percebeu que eles estão sob minha proteção? Não me provoque além disso.</Text>
+			<Text>Ouvi falar do que você fez {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName}. Não percebeu que essa Cidade-Estado está sob minha proteção? Não me provoque ainda mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
-			<Text>Nós exigimos tributos recentemente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} e eles nos atenderam. Você prometeu protegê-los de situações como essa, mas nós dois sabemos que você não é capaz de cumprir isso, não é?</Text>
+			<Text>Exigimos tributo recentemente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}, e a Cidade-Estado cedeu. Você prometeu protegê-la de situações como essa, mas nós dois sabemos que não pode cumprir essa promessa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
-			<Text>É muito fácil importunar sua pequena amiga {@1_MinorCivName}. Eles cederam às nossas exigências de tributos e eu acredito que você não esteja em posição de fazer algo a respeito, certo?</Text>
+			<Text>É muito fácil pressionar sua pequena amiga {@1_MinorCivName}. A Cidade-Estado cedeu às nossas exigências de tributo, e não acredito que você esteja em posição de fazer algo a respeito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_1">
-			<Text>Percebi que eu posso ter intimidado {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}, que está sob sua proteção. Espero que você não coloque as necessidades deles acima das minhas.</Text>
+			<Text>Chegou ao meu conhecimento que talvez eu tenha intimidado {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}, que está sob sua proteção. Espero que você não coloque as necessidades dessa Cidade-Estado acima das minhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_2">
-			<Text>Fui informado de que meus exércitos exigiram tributos {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Eu lhe asseguro, foi totalmente sem intenção e espero que isso não nos divida.</Text>
+			<Text>Acabo de saber que meus exércitos exigiram tributo {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Posso assegurar que isso não foi intencional e espero que não nos afaste.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
-			<Text>Saudações calorosas a você, sábio líder! Fico contente em ver que você também escolheu seguir o caminho da Independência. O mundo independente será mais forte se mais uma nação nos ajudar a lutar contra a opressão!</Text>
+			<Text>Saudações calorosas! Fico feliz em ver que você também escolheu seguir o caminho da Independência. O mundo livre será mais forte com mais uma nação ajudando a lutar contra a opressão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_1">
-			<Text>Saudações, camarada! Estou contente em ver que você também escolheu seguir o caminho da Ordem. Talvez possamos encontrar oportunidades para ajudar nossos impérios nos próximos 5 anos de planejamento!</Text>
+			<Text>Saudações, camarada! Fico feliz em ver que você também escolheu seguir o caminho da Ordem. Talvez possamos encontrar oportunidades de ajudar uns aos outros durante os próximos Planos Quinquenais de nossos impérios!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
-			<Text>Saudações, grande líder! Estou feliz em ver que você também escolheu seguir o caminho da Autocracia. Talvez possamos trabalhar juntos para assegurar que apenas as nações mais fortes sobrevivam e alcancem a verdadeira grandeza!</Text>
+			<Text>Bem-vindo, grande imperador! Tenho o prazer de ver que você também optou por seguir o caminho da Autocracia. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
 			<Text>Como é que um dos seus agentes imundos de alguma forma conseguiu roubar um de nossos segredos tecnológicos? Estas talvez sejam as últimas palavras que troquemos em paz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
-			<Text>Eu estou tentado a ignorar o seu recente roubo de um dos meus segredos tecnológicos, se houver uma promessa de que isso não ocorrerá novamente.</Text>
+			<Text>Posso relevar o recente roubo de um dos meus segredos tecnológicos, desde que haja uma promessa solene de que isso não acontecerá novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
 			<Text>Estou contente que você tenha concordado em parar com essa desonestidade ridícula.</Text>
@@ -68,34 +68,34 @@
 			<Text>Nossos agentes ajudam a manter nossa civilização a salvo de todas as ameaças, inclusive de você. Eles operarão da forma como nós quisermos, não como você pedir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
-			<Text>Agradeço por você trazer esse plano {@1_CivAdjective[1]} à minha atenção. Com este aviso, nós estaremos prontos para qualquer ato que eles tentarem. Sua generosa ajuda será lembrada.</Text>
+			<Text>Agradeço por trazer esse plano {@1_CivAdjective[1]} à nossa atenção. Com este aviso, estaremos prontos para qualquer coisa que tentem. Sua generosa ajuda será lembrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
-			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está tramando contra você. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes venham a descobrir.</Text>
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está tramando contra você. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
-			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar de surpresa sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes venham a descobrir.</Text>
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar de surpresa sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
-			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar você de surpresa. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes venham a descobrir.</Text>
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar você de surpresa. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
-			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes venham a descobrir.</Text>
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
-			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua civilização. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes venham a descobrir.</Text>
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua civilização. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
 			<Text>Nós eliminamos o seu espião, já que ele estava tentando nos roubar. Pelo que sei, é bem menos perigoso ler um livro e tentar aprender algo você mesmo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
-			<Text>Lamento muito qualquer confusão causada pelas últimas atividades do nosso agente. Por favor, permita que qualquer sentimento hostil seja enterrado com as extintas operações.</Text>
+			<Text>Lamento qualquer confusão causada pelas recentes atividades de nosso falecido agente. Que qualquer ressentimento fique enterrado junto com o agente morto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CONFRONT_YOU_KILLED_MY_SPY_1">
 			<Text>Olá! Você está aqui por causa daquele pequeno incidente de espionagem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_1">
-			<Text>Uma das minhas cidades foi recentemente assaltada e segredos tecnológicos foram levados. Posso ficar seguro de que você não está envolvido nisso?</Text>
+			<Text>Uma das minhas cidades foi recentemente assaltada e segredos tecnológicos foram roubados. Posso ter sua garantia de que você não teve nada a ver com isso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
 			<Text>Estou convencido de que você está espionando minha grande civilização. Sugiro que você pare com isso antes que alguém se machuque.</Text>
@@ -116,17 +116,17 @@
 			<Text>Seu fervor religioso é perturbador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_1">
-			<Text>Nós estamos ansiosos para antecipar sua rendição incondicional.</Text>
+			<Text>Aguardamos ansiosamente sua rendição incondicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_2">
 			<Text>Sua completa rendição parece razoável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_3">
-			<Text>Podemos fazer um acordo agora para evitar sua inevitável aniquilação.</Text>
+			<Text>Podemos fazer um acordo agora para evitar sua aniquilação total.</Text>
 		</Row>
 		<!-- Responses to player -->
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_BAD_1">
-			<Text>Nós verificaremos isso.</Text>
+			<Text>Veremos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
 			<Text>Ok. Está certo.</Text>
@@ -135,7 +135,7 @@
 			<Text>Permaneço convicto de que minha decisão é a melhor para o meu povo e minha nação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_BULLIED_MINOR_GOOD_1">
-			<Text>Muito bem. Nós monitoraremos a situação.</Text>
+			<Text>Muito bem. Vou acompanhar a situação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
 			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MajorCivName:textkey} {2: plural 2?anunciam; other?anuncia;} ao mundo que agora {2: plural 2?estão; other?está;} protegendo {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}. Atacar a Cidade-Estado ou lhe exigir tributos deteriorará fortemente as relações e talvez leve à guerra.</Text>

@@ -18,7 +18,7 @@
             <Text>Fornecido pelo nível de dificuldade</Text>
         </Row>
         <Row Tag="TXT_KEY_HANDICAP_SUPPLY">
-            <Text>Base de suprimento</Text>
+            <Text>Suprimento base</Text>
         </Row>
         <Row Tag="TXT_KEY_CITIES_SUPPLY_TT">
             <Text>Fornecido pelo número de cidades</Text>
@@ -33,7 +33,7 @@
             <Text>População</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_CAP_TT">
-            <Text>Total de suprimentos gerado</Text>
+            <Text>Total de suprimento gerado</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_CAP">
             <Text>Total de suprimentos</Text>
@@ -48,13 +48,13 @@
             <Text>Suprimento disponível para novas unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_REMAINING">
-            <Text>Suprimentos restantes</Text>
+            <Text>Suprimento restante</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT_TT">
-            <Text>Há mais unidades que suprimentos</Text>
+            <Text>Unidades acima do limite de suprimento</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT">
-            <Text>Suprimento deficitário</Text>
+            <Text>Déficit de suprimento</Text>
         </Row>
         <Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY_TT">
             <Text>Penalidade pelo déficit de suprimento</Text>
@@ -75,13 +75,13 @@
             <Text>Ordenar por movimentos restantes</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_SORT_MAX_MOVES">
-            <Text>Ordenar por maiores movimentos</Text>
+            <Text>Ordenar por movimento máximo</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_SORT_RANGED">
             <Text>Ordenar por ataque a distância</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_GENERAL_TT">
-            <Text>{1_current}/{2_needed}[NEWLINE]O progresso para chegar ao próximo Grande General é baseado na EXP adquirida pelas unidades de combate.</Text>
+            <Text>{1_current}/{2_needed}[NEWLINE]O progresso até o próximo Grande General é baseado na EXP obtida pelas unidades em combate.</Text>
         </Row>
         <!-- End Game Screen -->
         <Row Tag="TXT_KEY_VICTORY_INFO">
@@ -137,7 +137,7 @@
             <Text>CLASSIFICAÇÃO</Text>
         </Row>
         <Row Tag="TXT_KEY_HALL_OF_FAME_EMPTY">
-            <Text>Você não completou todos os jogos.</Text>
+            <Text>Você ainda não concluiu nenhuma partida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RANKING_STATEMENT">
             <Text>Você alcançou o nível de {1_GreatLeader}</Text>
@@ -238,7 +238,7 @@
             <Text>Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_FUTURE_TECH">
-          <Text>Futura Tecnologia</Text>
+          <Text>Tecnologia Futura</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_TURNS_TT">
             <Text>Turnos antes do fim do jogo</Text>
@@ -250,19 +250,19 @@
             <Text>Peças da Espaçonave:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DOMINATION_PROGRESS">
-            <Text>Jogadores que possuem sua Capital:</Text>
+            <Text>Jogadores que possuem sua Capital original:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_POLICIES_FINISHED">
-            <Text>Número de ramificações de políticas sociais completadas:</Text>
+            <Text>Número de Ramos de Políticas Sociais concluídos:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_UTOPIA_PROGRESS">
             <Text>Progresso do Projeto Utopia</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_VOTES_NEEDED">
-            <Text>Votos necessários para a vitória:</Text>
+            <Text>Votos necessários para a Vitória Diplomática:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_VOTES">
-            <Text>Total de votos diplomáticos válidos:</Text>
+            <Text>Total de votos diplomáticos disponíveis:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES">
             <Text>Votos para você:</Text>
@@ -277,7 +277,7 @@
             <Text>{1_NumPlayers} {1_NumPlayers: plural 1?jogador ainda controla sua [ICON_CAPITAL] Capital; other?jogadores ainda controlam suas [ICON_CAPITAL] Capitais;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_SOCIAL_POLICIES">
-            <Text>{1_player} completou {2_completedNum} das {3_totalNum} ramificações das políticas sociais.</Text>
+            <Text>{1_player} completou {2_completedNum} de {3_totalNum} Ramos de Políticas Sociais.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_DETAILS">
             <Text>Detalhes</Text>
@@ -305,16 +305,16 @@
             <Text>Pacto de Cooperação</Text>
         </Row>
         <Row Tag="TXT_KEY_PACT_OF_SECRECY">
-            <Text>Pacto secreto com {1_ally} contra {2_enemy}</Text>
+            <Text>Pacto de Sigilo com {1_ally} contra {2_enemy}</Text>
         </Row>
         <Row Tag="TXT_KEY_AT_WAR_WITH">
-            <Text>Em guerra com {1_enemy}</Text>
+            <Text>[COLOR_NEGATIVE_TEXT]Em guerra com {1_enemy}[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLIED_WITH">
-            <Text>Aliado com {1_ally}</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Aliado a {1_ally}[ENDCOLOR]</Text>
         </Row>            
         <Row Tag="TXT_KEY_DO_NO_MAJORS">
-            <Text>Você não encontrou nenhuma civilização.</Text>
+            <Text>Você ainda não encontrou nenhuma outra civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_NO_MINORS">
             <Text>Você não encontrou nenhuma Cidade-Estado.</Text>
@@ -378,7 +378,7 @@
             <Text>Duração do Acordo: {1_turn} {1: plural 1?turno; other?turnos;}</Text>
         </Row>		
         <Row Tag="TXT_KEY_DO_MAJORS">
-            <Text>Grandes Potencias</Text>
+            <Text>Grandes Potências</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_CITY_STATES">
             <Text>Cidades-Estado</Text>
@@ -396,7 +396,7 @@
             <Text>Histórico de acordos</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_CURRENT_DEALS">
-            <Text>Acordo atual</Text>
+            <Text>Acordos atuais</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_COMPLETE_DEALS">
             <Text>Acordos concluídos</Text>
@@ -460,7 +460,7 @@
             <Text>[ICON_PLUS] Rendimento das cidades</Text>
         </Row>
 		<Row Tag="TXT_KEY_EO_INCOME_CITIES_COLLAPSE">
-			<Text>[ICON_MINUS] Receita da Cidade</Text>
+			<Text>[ICON_MINUS] Rendimento das cidades</Text>
 		</Row>
         <Row Tag="TXT_KEY_EO_DIPLOMACY">
             <Text>Diplomacia</Text>
@@ -478,10 +478,10 @@
             <Text>Rendimento das rotas comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
-            <Text>[ICON_PLUS] Detalhes - Rotas comerciais</Text>
+            <Text>[ICON_PLUS] Rotas comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE">
-            <Text>[ICON_MINUS] Detalhes - Rotas comerciais</Text>
+            <Text>[ICON_MINUS] Rotas comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EXPENSES">
             <Text>Despesas</Text>
@@ -505,13 +505,13 @@
 			<Text>Custo total de manutenção das suas edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_EX_BASE_BUILDINGS">
-			<Text>Este seria o custo total em um nível de dificuldade muito difícil.</Text>
+			<Text>Este seria o custo total em um nível de dificuldade mais alto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HANDICAP_MAINTENANCE_MOD">
 			<Text>Você paga {1_Num}% do custo normal em razão do atual nível de dificuldade do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_IMPROVEMENTS">
-            <Text>Melhorias nos hexágonos</Text>
+            <Text>Estradas e Ferrovias</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_EX_IMPROVEMENTS">
             <Text>Custo total de manutenção das Estradas e Ferrovias que você construiu ou pelas quais é responsável. Estradas custam 1 de [ICON_GOLD] Ouro por turno, e Ferrovias custam 2 de [ICON_GOLD] Ouro por turno.</Text>
@@ -634,10 +634,10 @@
 			<Text>Cada [ICON_CITIZEN] Cidadão em uma cidade [ICON_OCCUPIED] Ocupada produz 1.34 de [ICON_HAPPINESS_4] Infelicidade</Text>
         </Row>
 		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS">
-			<Text>[ICON_PLUS] Colapso da cidade</Text>
+			<Text>[ICON_PLUS] Detalhamento por Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS_COLLAPSE">
-			<Text>[ICON_MINUS] Colapso da cidade</Text>
+			<Text>[ICON_MINUS] Detalhamento por Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_CITY_IS_OCCUPIED">
 			<Text>Cidade está [ICON_OCCUPIED] ocupada!</Text>
@@ -716,7 +716,7 @@
             <Text>Substituir o Nome</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_NAME">
-            <Text>Nome das Melhorias</Text>
+            <Text>Nome da melhoria</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_FEATURE_NAME">
             <Text>Nome da Característica</Text>
@@ -758,16 +758,16 @@
             <Text>Página Inicial - Conceitos do Jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
-            <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação à sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>
+            <Text>Civilization V examina toda a história humana - desde o passado mais remoto até o dia depois de amanhã. A seção "Conceitos do Jogo" da Civilopédia explica algumas das partes mais importantes do jogo - como construir e administrar cidades, como travar guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação à esquerda exibe os principais conceitos; clique em uma entrada para ver as subseções desse conceito.[NEWLINE][NEWLINE]Você pode ler todos os Conceitos do Jogo do início ao fim, se for a mãe do autor, mas, para todos os demais, recomendamos começar uma partida e consultá-los quando precisar durante o jogo. Se fizemos nosso trabalho direito, o Tutorial do jogo será tudo de que você precisará para entender como se orientar no início da partida.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECHNOLOGIES_HELP_TEXT">
-            <Text>A Tecnologia é extremamente importante para o sucesso ou fracasso de sua civilização. São 70 tecnologias no jogo, e cada uma oferece vantagens importantes. Algumas tecnologias permitirão construir novas edificações e maravilhas, outras aumentarão a produção dos seus terrenos e minas, outras permitirão a construção de ferrovias ou armamentos avançados.[NEWLINE][NEWLINE]É extremamente importante que sua civilização se mantenha competitiva na corrida tecnológica. Se ficar para trás um ou mais passos, poderá encarar o mesmo dilema dos Astecas que enfrentaram mosquetes e canhões espanhóis com espadas e estilingues. E como a própria história nos mostra, o aprimoramento avançado de tecnologias terá sempre sucesso nesses encontros.</Text>
+            <Text>A Tecnologia é extremamente importante para o sucesso ou fracasso de sua civilização. São 70 tecnologias no jogo, e cada uma oferece uma vantagem significativa durante a partida. Algumas tecnologias permitem construir novas edificações e maravilhas, outras aumentam o rendimento dos seus campos e minas, e outras ainda permitem construir ferrovias ou armamentos avançados.[NEWLINE][NEWLINE]É extremamente importante que sua civilização se mantenha competitiva na corrida tecnológica. Se ficar mais de um ou dois passos para trás, você se verá diante do mesmo dilema dos Astecas, que enfrentaram mosquetes e canhões espanhóis com espadas de obsidiana e fundas. E, como a história nos mostra, o lado com a tecnologia mais avançada sempre vence esses confrontos.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNITS_HELP_TEXT">
-			<Text>As Unidades representam a parte móvel da sua Civilização: os trabalhadores em suas colheitas e mineração, os colonos que constroem cidades, as Grandes Personalidades que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E, claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado, pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
+			<Text>As Unidades representam os elementos móveis da sua Civilização: Trabalhadores que cultivam os campos e exploram minas, Colonos que fundam novas cidades e Grandes Personalidades capazes de mudar sozinhas o rumo de um país por meio de sua genialidade ou criatividade. E, é claro, as unidades também representam as forças militares da sua Civilização.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Mantenha Unidades de Combate suficientes para cumprir seus objetivos militares e defender suas cidades, mas não exagere: os custos de manutenção podem levar sua Civilização à falência. Aprimore suas Unidades Militares sempre que puder, mas não hesite em dissolvê-las se os custos ficarem excessivos. Da mesma forma, mantenha Trabalhadores suficientes para o serviço, lembrando que sua manutenção também custa caro. Fique de olho nas finanças.[NEWLINE][NEWLINE]No início da partida, envie unidades para explorar o mundo! Sem saber o que acontece ao seu redor, você poderá ser surpreendido por vizinhos gananciosos — e as consequências podem ser fatais!</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PROMOTIONS_HELP_TEXT">
-            <Text>Suas unidades ganharão promoções através de combates e também quando são treinadas em cidades com Quartéis ou outras edificações militares. Estas promoções melhoram significativamente a capacidade de combate, aumentam a circulação ou a taxa de cura das suas unidades. Uma unidade que possui várias promoções é valiosíssima. Use-as com sabedoria nas batalhas e as atualize sempre que possível.</Text>
+            <Text>Suas unidades recebem promoções em combate e também ao serem treinadas em cidades com Quartéis ou outras edificações militares. As promoções podem melhorar drasticamente a capacidade de combate de uma unidade, aumentar seu Movimento ou acelerar sua cura. Uma unidade com muitas promoções é extremamente valiosa: use-a com sabedoria em batalha e aprimore-a sempre que possível.</Text>
 		</Row>
         <Row Tag="TXT_KEY_PEDIA_BUILDINGS_HELP_TEXT">
             <Text>Edificações podem melhorar significativamente a riqueza, população, defesa ou produtividade de uma cidade. Algumas melhoram a qualidade de algumas unidades militares construídas ali, enquanto outras permitirão que uma cidade costeira produza alimentos a partir do oceano.[NEWLINE][NEWLINE]É importante a construção de edificações. Se sua civilização está envolvida em alguma batalha, é natural que concentre toda sua produção em Unidades Militares, porém, se insistir nesta ideia por muito tempo, suas cidades ficarão inferiores a outras de civilizações mais desenvolvidas, colocando você em grande desvantagem no decorrer do jogo.</Text>
@@ -782,16 +782,16 @@
             <Text>Por vezes, ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade os colocava acima dos demais. Neste jogo, esses visionários são chamados "Grandes Personalidades".[NEWLINE][NEWLINE]Existem cinco tipos diferentes de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades por meio da construção de certas edificações e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram, e muito, a chegada de Grandes Personalidades. Equilibrar a necessidade de alimentos e o desejo de Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVS_HELP_TEXT">
-            <Text>Há uma grande variedade de civilizações e líderes a serem escolhidos no jogo. Cada qual possui suas próprias unidades especiais, edificações e/ou habilidades - a América tem o Miliciano e o Bombardeiro B17, Roma recebeu a Legião e a Balista, a Rússia o Cossaco e o Krepost. Aprender os pontos fortes e fracos de cada civilização torna o jogo mais divertido, tornando-o diferente a cada vez. Se você jogar com o Egito, utilizando a mesma estratégia de quando joga com a Índia, você pode não ter entendido muito bem o sentido do jogo.</Text>
+            <Text>Há uma grande variedade de Civilizações e líderes à sua escolha no jogo. Cada uma possui suas próprias unidades especiais, edificações e/ou habilidades - a América tem o Miliciano e o Bombardeiro B-17, Roma tem a Legião e a Balista, e a Rússia tem o Cossaco e o Krepost. Aprender a administrar os pontos fortes e fracos de cada Civilização é um dos aspectos mais divertidos do jogo e torna cada partida diferente. Se você jogar com o Egito usando exatamente a mesma estratégia que usa ao jogar com a Índia, talvez não tenha entendido a ideia.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
             <Text>Cidades-Estado representam as muitas civilizações menores que ocupam o mundo. São exatamente isso: Estados centrados em uma única cidade. Não podem criar Colonos e, portanto, não podem fundar novas cidades (seu território pode se expandir, mas nunca conterá mais de uma cidade). A exceção é a conquista: Cidades-Estado em guerra podem capturar cidades inimigas.[NEWLINE][NEWLINE]Se você fizer amizade com uma Cidade-Estado, ela poderá fornecer Alimento, Cultura ou até unidades militares. Se atacar uma Cidade-Estado, poderá capturá-la e incorporá-la ao seu império. (Isso pode fazer com que outras Cidades-Estado declarem guerra a você, portanto aja com cautela.)</Text>
 		</Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
-            <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas, assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
+            <Text>Em Civilization V, o mundo é formado por "hexágonos" (também chamados ocasionalmente de hexes ou espaços). Esses hexágonos apresentam vários "tipos de terreno" - deserto, planície, pradaria, colinas e assim por diante - e muitos também incluem "Características", como florestas e selvas. Esses elementos ajudam a determinar a utilidade do hexágono para uma cidade próxima, bem como a facilidade ou dificuldade de atravessá-lo. Além disso, o terreno e as Características de um hexágono podem ter efeitos importantes sobre qualquer combate que ocorra nele.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT">
-			<Text>As Características são elementos do terreno ou da vegetação sobre o hexágono. (Exemplo: os hexágonos de pasto poderão conter florestas ou pântanos sobre eles). Modificando essas características, você poderá alterar a produtividade e os "pontos de movimentos" (MP) que uma unidade gasta para passar pelo hexágono. As Características poderão fornecer também bônus de combate defensivo ou sanções a unidades inimigas ocupantes daquele hexágono.</Text>
+			<Text>As Características são elementos do terreno ou da vegetação que aparecem em um hexágono, sobre o terreno desse hexágono. (Por exemplo, um hexágono de Pradaria também pode ter uma Floresta ou um Pântano.) As Características modificam a produtividade de um hexágono e também podem alterar a quantidade de "pontos de movimento" (PM) que uma unidade gasta ao entrar nele. As Características também podem fornecer bônus ou penalidades de combate defensivo à unidade que ocupa o hexágono.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_LABEL">
             <Text>Características</Text>
@@ -803,7 +803,7 @@
             <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações dos mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
-            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, pedreiras, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorias. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+            <Text>Durante o jogo, você criará "Trabalhadores" - unidades não militares que irão "melhorar" as terras ao redor de suas cidades, aumentando a produtividade da terra ou dando acesso a um "recurso" próximo. As Melhorias incluem Fazendas, Postos Comerciais, Serrarias, Pedreiras, Minas e muito mais. Durante uma guerra, o inimigo pode "saquear" (destruir) suas Melhorias. Melhorias saqueadas não produzem efeito até que um Trabalhador as "repare".</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
             <Text>Página Inicial - Tecnologias</Text>
@@ -845,7 +845,7 @@
             <Text>[NEWLINE][TAB][TAB]"O absurdo é o conceito essencial e a primeira verdade."[NEWLINE][TAB][TAB]  - Albert Camus [NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TECHS">
-            <Text>[NEWLINE][TAB][TAB]"O cérebro é como um músculo. Quando está em uso, sentimos-nos muito bem. O saber é revigorante."[NEWLINE][TAB][TAB]  - Carl Sagan[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"O cérebro é como um músculo. Quando está em uso, sentimo-nos muito bem. O saber é revigorante."[NEWLINE][TAB][TAB]  - Carl Sagan[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_UNITS">
             <Text>[NEWLINE][TAB][TAB]"O destino de milhões que ainda irão nascer depende, abaixo de Deus, da coragem e conduta de um exército. [...] Temos, portanto, que decidir vencer ou morrer."[NEWLINE][TAB][TAB]  - George Washington[NEWLINE][TAB]</Text>
@@ -854,7 +854,7 @@
             <Text>[NEWLINE][TAB][TAB]"Cada soldado francês carrega um bastão de marechal na mochila."[NEWLINE][TAB][TAB]  - Napoleão Bonaparte[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_BUILDINGS">
-            <Text>[NEWLINE][TAB][TAB]"O físico pode enterrar seus erros, já o arquiteto pode apenas aconselhar seu cliente a plantar videiras."[NEWLINE][TAB][TAB]  - Frank Lloyd Wright[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"O médico pode enterrar seus erros, mas o arquiteto pode apenas aconselhar seu cliente a plantar videiras."[NEWLINE][TAB][TAB]  - Frank Lloyd Wright[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_WONDERS">
             <Text>[NEWLINE][TAB][TAB]"Inúmeras são as maravilhas do mundo, mas nada é mais maravilhoso do que o homem."[NEWLINE][TAB][TAB]  - Sófocles [NEWLINE][TAB]</Text>
@@ -875,10 +875,10 @@
             <Text>[NEWLINE][TAB][TAB]"Aguente firme. Não atire enquanto não atirarem, mas se quiserem guerra, iniciemos aqui"[NEWLINE][TAB][TAB]  - John Parker[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_RESOURCES">
-            <Text>[NEWLINE][TAB][TAB]"Não procure vida na imortalidade, mas desfrute ao máximo todos os recursos a sua volta"[NEWLINE][TAB][TAB]  - Píndaro[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"Não procure vida na imortalidade, mas desfrute ao máximo todos os recursos à sua volta."[NEWLINE][TAB][TAB]  - Píndaro[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_IMPROVEMENTS">
-            <Text>[NEWLINE][TAB][TAB]"Se eu puder de alguma forma contribuir com a diversão ou com a melhora do meu país, irei deixá-lo [...] com a secreta satisfação de não ter vivido em vão."[NEWLINE][TAB][TAB]  - Joseph Addison[NEWLINE][TAB]</Text>
+            <Text>[NEWLINE][TAB][TAB]"Se eu puder de alguma forma contribuir para a diversão ou a melhoria do país em que vivo, irei deixá-lo [...] com a secreta satisfação de pensar que não vivi em vão."[NEWLINE][TAB][TAB]  - Joseph Addison[NEWLINE][TAB]</Text>
         </Row>
         <!-- Pedia -->
         <Row Tag="TXT_KEY_CIVILOPEDIA">
@@ -912,7 +912,7 @@
             <Text>Políticas Sociais</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_9_LABEL">
-            <Text>Especialistas e Grandes Personalidades</Text>
+            <Text>Especialistas e Grandes Person.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_10_LABEL">
             <Text>Civilizações e Líderes</Text>
@@ -990,7 +990,7 @@
             <Text>Melhorias exclusivas:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_POLICYBRANCH_LABEL">
-            <Text>Ramificação política:</Text>
+            <Text>Ramo de Políticas:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PREREQ_POLICY_LABEL">
             <Text>Políticas necessárias:</Text>
@@ -1011,7 +1011,7 @@
             <Text>Revelado por:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_LEADS_TO_TECH_LABEL">
-            <Text>Libera as tecnologias:</Text>
+            <Text>Conduz às Tecnologias:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIT_UNLOCK_LABEL">
             <Text>Unidades desbloqueadas:</Text>
@@ -1029,7 +1029,7 @@
             <Text>Recursos necessários:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVES_RESRC_LABEL">
-            <Text>Recursos explorados:</Text>
+            <Text>Melhora Recursos:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_LOCAL_RESRC_LABEL">
             <Text>Recursos locais necessários:</Text>
@@ -1080,7 +1080,7 @@
             <Text>Características encontradas:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENTS_LABEL">
-            <Text>Explorado por:</Text>
+            <Text>Melhorado por:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAINS_LABEL">
             <Text>Encontrado em:</Text>
@@ -1104,7 +1104,7 @@
             <Text>Citação:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SOUND_BITE_LABEL">
-            <Text>Reproduzir citação</Text>
+            <Text>Reproduzir áudio</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_ABILITIES_LABEL">
             <Text>Habilidades especiais:</Text>
@@ -1183,13 +1183,13 @@
             <Text>Regras de combate</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_3">
-            <Text>Terreno e Recursos</Text>
+            <Text>Terreno e Características</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_4">
             <Text>Recursos</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_5">
-            <Text>Construindo melhorias</Text>
+            <Text>Construção de Melhorias</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_6">
             <Text>Alimento e Crescimento</Text>
@@ -1219,7 +1219,7 @@
             <Text>Assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_15">
-            <Text>Grandes Personalidades e Especialistas</Text>
+            <Text>Grandes Person. e Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_16">
             <Text>Cidades-Estado</Text>
@@ -1228,7 +1228,7 @@
             <Text>Movimento das Unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_18">
-            <Text>Regras de unidades aéreas</Text>
+            <Text>Regras de Combate Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_19">
             <Text>Ruínas e Bárbaros</Text>
@@ -1240,19 +1240,19 @@
             <Text>Vitória</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_1">
-            <Text>Promoções de Combate (Físico)</Text>
+            <Text>Promoções de combate corpo a corpo</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_2">
-            <Text>Promoções de Combate (Distância)</Text>
+            <Text>Promoções de combate a distância</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_3">
             <Text>Promoções navais</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_4">
-            <Text>Promoções na saúde</Text>
+            <Text>Promoções de cura</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_5">
-            <Text>Promoções de escolta</Text>
+            <Text>Promoções de reconhecimento</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTIONS_SECTION_6">
             <Text>Promoções aéreas</Text>
@@ -1316,7 +1316,7 @@
             <Text>Resolver combate sem animações</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL">
-            <Text>Nível Assessores</Text>
+            <Text>Nível dos Assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL_TT">
             <Text>Quantidade de conselhos que você receberá dos seus assessores.</Text>
@@ -1325,7 +1325,7 @@
             <Text>Restaurar as mensagens dos assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL_TT">
-            <Text>Reinicia o sistema de assessoramento de modo que receberá todas as mensagens de seus assessores.</Text>
+            <Text>Reinicia o sistema de Assessores para que todas as mensagens voltem a aparecer.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUDIO_QUALITY">
             <Text>Qualidade de áudio</Text>
@@ -1343,19 +1343,19 @@
           <Text>Trabalhadores em modo automático não removem características como florestas, selvas ou pântanos, exceto quando melhorando um recurso de luxo ou estratégico.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_CITIZEN_WARNING">
-            <Text>Não exibir tela de atenção aos cidadãos</Text>
+            <Text>Não exibir aviso de cidadãos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS">
-            <Text>Não exibir tela de recompensas</Text>
+            <Text>Não exibir janelas de recompensa</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS_TT">
-            <Text>Desabilitar tela de recompensa (tecnologia, ruínas antigas etc.)</Text>
+            <Text>Desativa janelas de recompensa (Tecnologia, Ruínas Antigas etc.).</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS">
-            <Text>Não recomendar hexágono</Text>
+            <Text>Não recomendar hexágonos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS_TT">
-            <Text>Desabilitar no mapa recomendações aos Colonos e Trabalhadores selecionados.</Text>
+            <Text>Desativa as recomendações no mapa quando Colonos ou Trabalhadores estão selecionados.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_CIVILIAN_YIELDS">
             <Text>Exibir rendimento de unidades civis</Text>
@@ -1367,19 +1367,19 @@
             <Text>Não exibir dicas básicas</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_BASIC_HELP_TT">
-            <Text>Condensar muitas dicas em uma única informação, retirando ajuda explicativa.</Text>
+            <Text>Reduz muitas dicas do jogo apenas às informações essenciais, removendo a ajuda explicativa.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN">
             <Text>Encerrar turno automaticamente no multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar a troca de turno automática em jogos multijogador.</Text>
+            <Text>Ativa a troca automática de turno em partidas multijogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN">
             <Text>Encerrar automaticamente o turno no modo um jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar a troca de turno automática no modo um jogador.</Text>
+            <Text>Ativa a troca automática de turno em partidas de um jogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_LENGTH">
             <Text>Duração para o fim de um turno: 10 segundos</Text>
@@ -1400,19 +1400,19 @@
             <Text>Turnos para o salvam. automático:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT">
-            <Text>A frequência em que o jogo salvará automaticamente.</Text>
+            <Text>Define com que frequência o jogo salva automaticamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT">
             <Text>Máximo de salvam. automáticos:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
-            <Text>Número máximo de salvamentos automáticos mantidos até que o jogo comece a apagar os antigos</Text>
+            <Text>Número máximo de salvamentos automáticos mantidos antes que o jogo comece a apagar os antigos.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI">
             <Text>Tamanho automático da interface</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI_TT">
-            <Text>O jogo captura o tamanho que se encaixa na resolução da tela.</Text>
+            <Text>O jogo escolhe o tamanho da interface que considera mais adequado à resolução da sua tela.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI">
             <Text>Usar escala menor na interface</Text>
@@ -1421,16 +1421,16 @@
             <Text>Força o jogo a usar a versão menor da interface.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI">
-            <Text>Atualizar interface</Text>
+            <Text>Recarregar Interface</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI_TT">
             <Text>Aplicar a mudança de escala na interface</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW">
-            <Text>Aumentar detalhes na visão estratégica</Text>
+            <Text>Visão Estratégica em Alto Detalhe</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW_TT">
-            <Text>A visão estratégia usará resolução com alta qualidade de textura, permitindo um zoom maior. Isso vai exigir mais do seu computador.</Text>
+            <Text>A Visão Estratégica usará texturas de maior resolução, permitindo aproximar mais o zoom. Isso exige mais do hardware do computador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST">
             <Text>Lista de pontuações de "Um Jogador"</Text>
@@ -1439,13 +1439,13 @@
             <Text>Exibe a lista simples de pontuações de jogos de Um Jogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM">
-            <Text>Alternar modo de cursor de zoom</Text>
+            <Text>Modo Alternativo de Zoom pelo Cursor</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM_TT">
-            <Text>Quando aplicado o zoom, a câmera irá aproximar sem que o cursor fique ancorado na imagem.</Text>
+            <Text>Ao diminuir o zoom, a câmera recuará em linha reta em vez de permanecer ancorada ao cursor.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO">
-            <Text>Exibir todas as informações políticas</Text>
+            <Text>Exibir todas as informações de Políticas</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO_TT">
             <Text>Todas as políticas serão exibidas na tela de Políticas Sociais, independentemente da Era e das ramificações desbloqueadas.</Text>
@@ -1469,7 +1469,7 @@
             <Text>Minimizar hexágonos cinzas</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES_TT">
-            <Text>Minimiza os hexágonos cinzas que são vistos ao navegar pelo mapa. Pode causar imagens borradas.</Text>
+            <Text>Minimiza os hexágonos cinzas vistos ao percorrer o mapa. Isso pode causar engasgos.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS">
             <Text>Permitir esmaecimento de sombra</Text>
@@ -1514,16 +1514,16 @@
             <Text>Qualidade da sombra</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FOW_QUALITY">
-            <Text>Qualidade da Névoa de Guerra</Text>
+            <Text>Qualidade da névoa</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_DETAIL_LEVEL">
             <Text>Detalhes do terreno</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_TESS_LEVEL">
-            <Text>Nível do mosaico do terreno</Text>
+            <Text>Nível de Tesselação do Terreno</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_SHADOW_QUALITY">
-            <Text>Qualidade do mosaico</Text>
+            <Text>Sombras do terreno</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_WATER_QUALITY">
             <Text>Qualidade da água</Text>
@@ -1553,7 +1553,7 @@
             <Text>Você tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON_TT">
-            <Text>Restaurar configurações para os valores padrões.</Text>
+            <Text>Restaurar todas as configurações para os valores padrão.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON">
             <Text>Cancelar</Text>
@@ -1578,7 +1578,7 @@
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
             <!--Text>Para alterar o idioma irá recarregar toda interface. De acordo? </Text-->
-            <Text>Para alterar o idioma, você precisa reiniciar o jogo. Salvar alterações? </Text>
+            <Text>Alterar o idioma fará a interface ser recarregada. Deseja continuar?</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MUSIC_SLIDER">
             <Text>Volume da música: {1_Num}</Text>
@@ -1639,25 +1639,25 @@
             <Text>Habilita a conversão de [ICON_PRODUCTION] Produção para {1_ResourceName:textkey}.</Text>
         </Row>
         <Row Tag="TXT_KEY_FASTER_MOVEMENT">
-            <Text>Movimento rápido em {1_TerrainName:textkey}</Text>
+            <Text>Movimento mais rápido em {1_TerrainName:textkey}</Text>
         </Row>
         <Row Tag="TXT_KEY_YIELD_IMPROVED">
             <Text>{1: gender masculine?{1: plural 1?O; other?Os;}; feminine?{1: plural 1?A; other?As;};} {1_ImprovementName:textkey} {1: plural 1?melhora; other?melhoram;} o rendimento de {2_YieldType:textkey} em {3_Num}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_FRESH_WATER">
-            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos SEM acesso a água.</Text>
+            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos SEM acesso a água doce.</Text>
         </Row>
         <Row Tag="TXT_KEY_FRESH_WATER">
-            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos com acesso à água.</Text>
+            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos com acesso a água doce.</Text>
         </Row>
         <Row Tag="TXT_KEY_FASTER_EMBARKED_MOVEMENT">
-            <Text>Movimento de embarque mais rápido.</Text>
+            <Text>Movimento embarcado mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_EMBARKING">
             <Text>Todas as unidades terrestres poderão embarcar e se mover nos hexágonos aquáticos. Todas as unidades que entrarem em território amigo ganharão essa habilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_CROSSING_OCEANS">
-            <Text>Permite unidades embarcadas se movimentarem em oceanos.</Text>
+            <Text>Permite que unidades embarcadas atravessem oceanos.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_OPEN_BORDERS">
             <Text>Permite tratados de Fronteiras Abertas.</Text>
@@ -1693,7 +1693,7 @@
             <Text>Pesquisado</Text>
         </Row>
         <Row Tag="TXT_KEY_PROGRESS_TOWARDS">
-            <Text>Avance para conseguir {1_name}</Text>
+            <Text>Progresso rumo a {1_name}</Text>
         </Row>
         <!--In Game Strategic Options -->
         <Row Tag="TXT_KEY_STRAT_ICON_MODE">
@@ -1766,26 +1766,26 @@
         </Row>
 		<!-- Choose Free Item Screen -->
 		<Row Tag="TXT_KEY_CHOOSE_FROM_FOLLOWING">
-			<Text>Escolher {1 : spellout} do seguinte:</Text>
+			<Text>Escolha {1 : spellout} dentre as opções a seguir:</Text>
         </Row>
 		<!-- new text -->
         <Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF">
-            <Text>Ciência: desabilitado</Text>
+            <Text>Ciência: desabilitada</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF_TOOLTIP">
             <Text>O sistema de ciência está desabilitado neste cenário. Nenhuma nova tecnologia será descoberta.</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF">
-            <Text>Felicidade: desabilitado</Text>
+            <Text>Felicidade: desabilitada</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_GOLDEN_AGES_OFF">
-            <Text>Eras Douradas: desligado</Text>
+            <Text>Eras de Ouro: desabilitadas</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF_TOOLTIP">
             <Text>O sistema de felicidade está desabilitado neste cenário. Eras Douradas não ocorrerão. Todas as penalidades associadas à infelicidade estão, da mesma forma, desabilitadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF">
-            <Text>Políticas: desabilitado</Text>
+            <Text>Políticas: desabilitadas</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF_TOOLTIP">
             <Text>O sistema de políticas sociais está desabilitado neste cenário. Nenhuma nova política será adquirida, apesar de a cultura atuar para a expansão das fronteiras da cidade.</Text>
@@ -1796,10 +1796,10 @@
 			<Text>REPETIÇÃO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_PLAYPAUSE">
-			<Text>Executar/Pausar</Text>
+			<Text>Reproduzir/Pausar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_NOGRAPHDATA">
-			<Text>Sem Gráfico</Text>
+			<Text>Sem Dados de Gráfico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_VIEWER_MESSAGES_TITLE">
 			<Text>Mensagens</Text>
@@ -1889,7 +1889,7 @@
 			<Text>Número de Trabalhadores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_IMPROVEDTILES">
-			<Text>Hexágonos Explorados</Text>
+			<Text>Hexágonos Melhorados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_REPLAY_DATA_WORKEDTILES">
 			<Text>Hexágonos Trabalhados</Text>
@@ -1971,10 +1971,10 @@
           <Text>Uma proposta diplomática desta civilização que está aguardando sua resposta.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_REQUEST_OUTGOING" >
-          <Text>Esta civilização ainda não respondeu sua proposta diplomática.</Text>
+          <Text>Esta civilização ainda não respondeu à sua proposta diplomática.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_REQUEST_IN_PROGRESS" >
-          <Text>Você não pode fazer uma proposta diplomática com esta civilização, pois você possui uma proposta pendente com outra civilização.</Text>
+          <Text>Você não pode fazer uma proposta diplomática a esta civilização, pois possui uma proposta pendente com outra civilização.</Text>
         </Row>      	  
         <Row Tag="TXT_KEY_MULTIPLAYER_OPTIONS">
           <Text>OPÇÕES MULTIJOGADOR</Text>
@@ -2003,7 +2003,7 @@
           <Text>Convite Steam</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE_TT">
-          <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o jogo for jogado na Internet e você seja amigo do anfitrião do jogo.</Text>
+          <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se a partida for pela Internet e você for amigo do anfitrião na Steam.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL">
           <Text>E-mail</Text>
@@ -2101,7 +2101,7 @@
       </Row>	  
     <!-- Player List  -->
     <Row Tag="TXT_KEY_MP_PLAYER_CONNECTED">
-      <Text>O jogador está atualmente em jogo.</Text>
+      <Text>O jogador está na partida.</Text>
     </Row>
     <Row Tag="TXT_KEY_MP_PLAYER_NOTCONNECTED">
       <Text>O jogador não está conectado.</Text>

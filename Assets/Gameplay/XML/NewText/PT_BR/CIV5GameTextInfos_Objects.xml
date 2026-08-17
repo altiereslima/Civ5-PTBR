@@ -57,7 +57,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_ERA_3">
-			<Text>Renascença</Text>
+			<Text>Era do Renascimento</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -210,7 +210,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
-			<Text>Plataforma Costeira|Plataformas Costeiras</Text>
+			<Text>Plataforma Petrolífera|Plataformas Petrolíferas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -256,7 +256,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
 			<Text>Manufatura|Manufaturas</Text>
-			<Gender>feminine</Gender>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
@@ -280,7 +280,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
-			<Text>Programa Apolo</Text>
+			<Text>Programa Apollo</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -290,42 +290,42 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_CASING">
-			<Text>Cápsula Espacial</Text>
-			<Gender>feminine</Gender>
+			<Text>Revestimento da Espaçonave</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_COCKPIT">
-			<Text>Cabine Espacial</Text>
+			<Text>Cabine da Espaçonave</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_DOCKING_BAY">
-			<Text>Plataforma Espacial</Text>
+			<Text>Baia de Acoplamento da Espaçonave</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_ENGINE">
-			<Text>Motor Espacial</Text>
+			<Text>Motor da Espaçonave</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
-			<Text>Suporte de Vida Espacial</Text>
+			<Text>Suporte de Vida da Espaçonave</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
-			<Text>Câmara Criogênica Espacial</Text>
+			<Text>Câmara de Estase da Espaçonave</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_THRUSTERS">
-			<Text>Propulsores Espaciais</Text>
+			<Text>Propulsores da Espaçonave</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SS_BOOSTER">
-			<Text>Propulsor Espacial</Text>
+			<Text>Propulsor da Espaçonave</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -375,8 +375,8 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_DYES">
-			<Text>Tintas|Tintas</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Corantes|Corantes</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_FISH">
@@ -440,7 +440,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_WHALES">
-			<Text>Baleias|Baleiras</Text>
+			<Text>Baleias|Baleias</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>2|2</Plurality>
 		</Row>
@@ -495,7 +495,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_TITLE">
-			<Text>Pontos Grande Artista:</Text>
+			<Text>Pontos de Grande Artista:</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
@@ -510,7 +510,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER_TITLE">
-			<Text>Pontos Grande Engenheiro:</Text>
+			<Text>Pontos de Grande Engenheiro:</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
@@ -540,12 +540,12 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT">
-			<Text>Mercador</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Mercador|Mercadores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT_TITLE">
-			<Text>Pontos Grande Mercador:</Text>
+			<Text>Pontos de Grande Mercador:</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
@@ -555,7 +555,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_TITLE">
-			<Text>Pontos Grande Cientista:</Text>
+			<Text>Pontos de Grande Cientista:</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
@@ -770,12 +770,12 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_GIBRALTAR">
-			<Text>Rocha de Gibraltar</Text>
-			<Gender>feminine</Gender>
+			<Text>Rochedo de Gibraltar</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_GEYSER">
-			<Text>Antigo Géiser</Text>
+			<Text>Old Faithful</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
@@ -795,7 +795,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
-			<Text>Casa Grande|Casas Grandes</Text>
+			<Text>Casa Longa|Casas Longas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -815,8 +815,8 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAPER_MAKER_DESC">
-			<Text>Papeleiro|Papeleiros</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Fábrica de Papel|Fábricas de Papel</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MONUMENT_DESC">
@@ -840,7 +840,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_DESC">
-			<Text>Sepultura|Sepulturas</Text>
+			<Text>Tumba|Tumbas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -880,7 +880,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_SPECIAL_TEXT">
-			<Text>Edificações Especialistas</Text>
+			<Text>Edificações de Especialistas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>

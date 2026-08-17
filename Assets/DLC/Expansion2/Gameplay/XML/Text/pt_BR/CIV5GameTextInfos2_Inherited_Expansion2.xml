@@ -131,7 +131,7 @@
 			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL_HELP">
-			<Text>99.9% de redução na eficiência dos espiões inimigos na cidade em que for instalado. Todas as outras cidades da civilização têm uma redução de 25% na efetividade das atividades espiãs inimigas.</Text>
+			<Text>Reduz em 99,9% a eficiência dos espiões inimigos na cidade em que for construído. Todas as outras cidades da civilização recebem uma redução de 25% na eficiência dos espiões inimigos. Anula o bônus de [ICON_TOURISM] Turismo da tecnologia Internet dos outros jogadores.</Text>
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_STRATEGY">
@@ -261,7 +261,7 @@
 			<Text>Primeira unidade aérea que pode bombardear unidades e cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER_STRATEGY">
-			<Text>O Bombardeiro Voisin é uma das primeiras unidades aéreas. É efetivo contra alvos terrenos, um pouco menos contra alvos navais e bastante vulnerável a ataques de aeronaves inimigas. O Bombardeiro Voisin pode ter como base uma cidade pertencente à civilização do jogador ou a bordo de um Porta-Aviões. Pode se movimentar de base para base e executar missões em um alcance de 6 hexágonos. Use-o para atacar unidades e cidades inimigas. Quando possível, envie Triplanos ou Aviões primeiro para acionar as armas antiaéreas do inimigo no turno. Veja as regras na seção "Aeronaves" para mais informações.</Text>
+			<Text>O Bombardeiro da Grande Guerra é uma das primeiras unidades aéreas. É eficaz contra alvos terrestres, um pouco menos contra alvos navais e bastante vulnerável a ataques de aeronaves inimigas. O Bombardeiro da Grande Guerra pode ter como base uma cidade pertencente à civilização do jogador ou ficar a bordo de um Porta-Aviões. Pode se deslocar de base para base e executar missões dentro de seu alcance de 6 hexágonos. Use-o para atacar unidades e cidades inimigas. Quando possível, envie Triplanos ou Caças primeiro para acionar as armas antiaéreas do inimigo naquele turno. Consulte as regras na seção “Aeronaves” para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WWI_TANK">
 			<Text>O primeiro do seu gênero, esta unidade da fase avançada do jogo pode se movimentar após atacar.</Text>
@@ -300,7 +300,7 @@
 			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando explorada, produz muitos pontos de [ICON_RESEARCH] Ciência. Além disso, ele pode lhe dar imediatamente uma grande quantidade de pontos de ciência, baseados na produção científica da sua civilização. O Grande Cientista é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
-			<Text>A Infantaria da Guerra Mundial é a unidade de combate terrestre básica da Era Moderna. É significativamente mais forte que o seu predecessor, o Fuzileiro.</Text>
+			<Text>A Infantaria da Grande Guerra é a unidade de combate terrestre básica da Era Moderna. É significativamente mais forte que sua antecessora, o Fuzileiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
 			<Text>Unidade naval especializada em repelir aeronaves inimigas. Pode carregar 3 mísseis. Usada para caçar e destruir Submarinos inimigos.</Text>
@@ -351,7 +351,7 @@
 			<Text>Unidade de infantaria mais poderosa no jogo, até a Infantaria Mecanizada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
-			<Text>A Infantaria é significativamente mais forte que seu predecessor, a Infantaria da Guerra Mundial. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
+			<Text>A Infantaria é significativamente mais forte que sua antecessora, a Infantaria da Grande Guerra. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, deve ser apoiada por Artilharia, Tanques e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
 			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo a corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
@@ -481,7 +481,7 @@
 			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
-			<Text>+34% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas.</Text>
+			<Text>+34% de [ICON_STRENGTH] Força de Combate ao [COLOR_POSITIVE_TEXT]interceptar[ENDCOLOR] aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
 			<Text>+33% de [ICON_STRENGTH] Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR].</Text>
@@ -679,7 +679,7 @@
 			<Text>Bônus vs Cidades (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SILENT_HUNTER">
-			<Text>Bônus ao atacar (100)</Text>
+			<Text>Bônus ao atacar (75)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STEAM_POWERED">
 			<Text>Movimentos em dobro no Litoral</Text>
@@ -779,7 +779,7 @@
 			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_SUMMARY">
-			<Text>Você ganhará seu primeiro espião quando alguma civilização do jogo entrar na Renascença. Espiões podem ser enviados a uma cidade em outra civilização com o objetivo de roubar tecnologia e colher informações. Você também pode enviar um espião a uma de suas cidades para descobrir, eliminar ou diminuir as ações de um espião inimigo. Para designar o seu primeiro espião, escolha a opção "Espionagem" no botão "Informação Adicional".</Text>
+			<Text>Você ganhará seu primeiro Espião quando qualquer civilização do jogo entrar na Era do Renascimento. Espiões podem ser enviados a uma cidade de outra civilização para roubar tecnologias e obter informações. Você também pode enviar um Espião a uma de suas próprias cidades para ter a chance de retardar, descobrir ou eliminar um espião inimigo.[NEWLINE][NEWLINE]Ao enviar um Espião para a capital de outra civilização, você pode designá-lo como Diplomata. Diplomatas não roubam tecnologias e servem apenas para obter informações. Além disso, se a civilização-alvo seguir uma Ideologia diferente, seu Diplomata começará a espalhar propaganda, aumentando seu bônus de [ICON_TOURISM] Turismo nessa civilização. Por ser Diplomata, ele não corre perigo diante de outros espiões. Diplomatas se tornam ainda mais úteis quando o Congresso Mundial é fundado, fornecendo informações sobre como outras civilizações pretendem votar e permitindo negociar votos por meio da diplomacia.[NEWLINE][NEWLINE]Para enviar seu primeiro Espião ou Diplomata, selecione "Visão Geral da Espionagem" no menu "Informações Adicionais".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_ADVISOR_QUESTION">
 			<Text>O que é um espião?</Text>
@@ -902,7 +902,7 @@
 			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_SUMMARY">
-			<Text>A Maravilha "O Grande Firewall" reduz a efetividade dos espiões inimigos em 99.9% na cidade em que for construída e em 25% em todas as cidades da sua civilização.</Text>
+			<Text>A Maravilha O Grande Firewall reduz em 99,9% a eficiência dos espiões inimigos na cidade em que for construída e em 25% em todas as outras cidades da sua civilização. Ela também anula o bônus de [ICON_TOURISM] Turismo da tecnologia Internet dos outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
 			<Text>Como atrasar o progresso de um espião inimigo?</Text>
@@ -1142,7 +1142,7 @@
 			<Text>{TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_SUMMARY">
-			<Text>Se uma Religião que você tenha fundado se tornar predominante em uma Cidade-Estado, a taxa na qual sua [ICON_INFLUENCE] Influência sobre eles cai diminuirá em 25%. Da mesma forma, se sua [ICON_INFLUENCE] Influência estiver negativa, a taxa na qual ela se recupera aumentará em 50%.[NEWLINE][NEWLINE]Além disso, Cidades-Estado ocasionalmente pedirão que uma Religião específica seja disseminada a eles. Se você obtiver sucesso em atender este pedido, você receberá uma significativa recompensa em [ICON_INFLUENCE] Influência.</Text>
+			<Text>Se uma Religião que você fundou se tornar a Religião predominante em uma Cidade-Estado, a taxa de queda de sua [ICON_INFLUENCE] Influência sobre ela será reduzida em 25%. Da mesma forma, se sua [ICON_INFLUENCE] Influência for negativa, a taxa de recuperação aumentará em 50%.[NEWLINE][NEWLINE]Além disso, Cidades-Estado ocasionalmente pedirão que uma Religião específica seja disseminada nelas. Se você atender ao pedido, receberá uma recompensa significativa em [ICON_INFLUENCE] Influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_ADVISOR_QUESTION">
 			<Text>Há algum benefício em disseminar Religião a uma Cidade-Estado?</Text>
@@ -1280,13 +1280,13 @@
 			<Text>Construir uma Cidadela faz de você proprietário de todos os hexágonos adjacentes a ela, já que sua fronteira aumentará para englobar a Cidadela. Adicionalmente, a Cidadela fornece um grande bônus defensivo para qualquer unidade que ocupá-la e, além disso, causa dano a qualquer unidade inimiga que terminar seu turno próxima a ela (o dano não se acumula com outras Cidadelas). Perceba que a Cidadela somente funciona quando está em seu território. Se ela mudar de lado, em razão de uma cidade próxima ser conquistada pelo inimigo, ela será eficaz apenas ao novo dono. Se a nova fronteira reclamar hexágonos já pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_BODY">
-			<Text>Um Grande Artista pode iniciar uma "Era de Ouro". Este é um período de especial produtividade para uma civilização. Durante a Era de Ouro, qualquer hexágono que produz ouro, produzirá 1 ouro extra, a produção (martelos) em cidades aumentará em 20% e a cultura em todo o império aumentará em 20%. A duração de uma Era de Ouro depende da dificuldade e velocidade do jogo. O Grande Artista é consumido quando inicia uma Era de Ouro.</Text>
+			<Text>Um Grande Artista pode iniciar uma "Era de Ouro". Este é um período de especial produtividade para uma civilização. Durante a Era de Ouro, qualquer hexágono que produz ouro, produzirá 1 ouro extra, a produção (martelos) em cidades aumentará em 20% e a [ICON_CULTURE] Cultura em todo o império aumentará em 20%. A duração de uma Era de Ouro depende da dificuldade e velocidade do jogo. O Grande Artista é consumido quando inicia uma Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_TITLE">
 			<Text>Habilidade Especial: Era de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_CAUSES_HEADING2_BODY">
-			<Text>Os seguintes itens aumentam a felicidade de sua população:[NEWLINEW][NEWLINE]Maravilhas Naturais: cada Maravilha Natural que você descobre aumenta permanentemente a felicidade de sua população.[NEWLINE][NEWLINE]Recursos de Luxo: explore esses recursos dentro do seu território ou os negocie com outras civilizações. Cada tipo de recurso aumenta a felicidade de sua população (mas você não ganha felicidade extra por ter muitas fontes de um mesmo recurso).[NEWLINE][NELINE]Edificações: certas edificações aumentam a felicidade de sua população. Dentre elas, estão o Coliseu, o Circo, o Teatro e outros. Cada edificação construída em qualquer lugar de sua civilização aumenta sua felicidade geral (assim, dois Coliseus produzem o dobro de felicidade que um único Coliseu produz, diferentemente dos Recursos de Luxo).[NEWLINE][NEWLINE]Maravilhas: certas Maravilhas, como a Catedral de Notre Dame e a Torre Eiffel podem lhe dar um grande bônus na felicidade.[NEWLINE][NEWLINE]Políticas Sociais: embora não haja um ramo político focado em felicidade, algumas políticas em cada ramo ou aumentam a felicidade ou diminuem a infelicidade.[NEWLINE][NEWLINE]Tecnologias: por si só, elas não fornecem felicidade, mas desbloqueiam edificações, maravilhas, recursos e políticas sociais que o fazem.[NEWLINE][NEWLINE]Religião: Certas crenças religiosas fornecem felicidade, assim como algumas edificações religiosas que podem ser compradas com Fé.</Text>
+			<Text>Os seguintes itens aumentam a felicidade de sua população:[NEWLINE][NEWLINE]Maravilhas Naturais: cada Maravilha Natural descoberta aumenta permanentemente a felicidade de sua civilização.[NEWLINE][NEWLINE]Recursos de Luxo: explore esses recursos dentro do seu território ou negocie-os com outras civilizações. Cada tipo de recurso aumenta a felicidade de sua população (mas você não recebe felicidade extra por possuir várias cópias do mesmo recurso de luxo).[NEWLINE][NEWLINE]Edificações: certas edificações aumentam a felicidade de sua população. Entre elas estão o Coliseu, o Circo, o Teatro e outras. Cada edificação construída em qualquer lugar de sua civilização aumenta a felicidade geral (assim, dois Coliseus produzem o dobro da felicidade de um, diferentemente dos Recursos de Luxo).[NEWLINE][NEWLINE]Maravilhas: certas Maravilhas, como a Catedral de Notre-Dame e Prora, podem conceder um grande aumento de felicidade.[NEWLINE][NEWLINE]Políticas Sociais: embora nenhum ramo seja dedicado exclusivamente à felicidade, há algumas políticas em cada ramo que aumentam a felicidade ou reduzem a infelicidade.[NEWLINE][NEWLINE]Tecnologias: por si só, não fornecem felicidade, mas desbloqueiam edificações, maravilhas, recursos e políticas sociais que o fazem.[NEWLINE][NEWLINE]Religião: certas crenças religiosas fornecem felicidade, assim como algumas edificações religiosas que podem ser compradas com [ICON_PEACE] Fé.</Text>
 		</Row>
 		<!-- BELIEFS -->
 		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
@@ -1296,7 +1296,7 @@
 			<Text>Taxa de [ICON_FOOD] Crescimento 10% mais rápida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN">
-			<Text>+1 de [ICON_PRODUCTION] Produção em cidades com população superior a 3</Text>
+			<Text>+1 de [ICON_PRODUCTION] Produção em cidades com população de 3 ou mais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
 			<Text>+1 de [ICON_PRODUCTION] Produção de Barcos Pesqueiros</Text>
@@ -1317,7 +1317,7 @@
 			<Text>+2 de [ICON_PEACE] Fé por Pedreira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
-			<Text>Obtenha [ICON_PEACE] Fé se você vencer uma batalha a 4 hexágonos de distância de sua cidade</Text>
+			<Text>Obtenha [ICON_PEACE] Fé ao vencer uma batalha a até 4 hexágonos de sua cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
 			<Text>Taxa de [ICON_FOOD] Crescimento 15% mais rápida na cidade, se não estiver em guerra</Text>
@@ -1332,7 +1332,7 @@
 			<Text>+1 de [ICON_HAPPINESS_1] Felicidade de cidades em rios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE">
-			<Text>+1 de [ICON_HAPPINESS_1] Felicidade de cidades com população superior a 6</Text>
+			<Text>+1 de [ICON_HAPPINESS_1] Felicidade de cidades com população de 6 ou mais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS">
 			<Text>Crescimento das fronteiras 15% mais rápido</Text>
@@ -1365,7 +1365,7 @@
 			<Text>Ganhe 50 de [ICON_PEACE] Fé cada vez que uma Grande Personalidade for consumida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
-			<Text>+1 de [ICON_HAPPINESS_1] Felicidade Global para cada 5 devotos desta religião em cidades estrangeiras não inimigas</Text>
+			<Text>+1 de [ICON_HAPPINESS_1] Felicidade Global para cada 8 devotos desta religião em cidades estrangeiras não inimigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS">
 			<Text>+10% de [ICON_CULTURE] Cultura se não estiver em guerra</Text>
@@ -1544,7 +1544,7 @@
 			<Text>Você pode escolher uma tecnologia gratuita!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DISCOVER_FREE_TECH">
-			<Text>ESCOLHA UMA TECNOLOGIA GRATUITA</Text>
+			<Text>TECNOLOGIA GRÁTIS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED">
 			<Text>{1_PlayerName} conquistou {2_CityName} e restaurou a soberania {3_CivAdj[2]}. A chama de {4_CivName}, outrora apagada, queima novamente.</Text>
@@ -1599,7 +1599,7 @@
 			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há seis tipos de unidades não combatentes: Colonos, Trabalhadores, Barcos de Serviço, Grandes Personalidades, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há seis tipos de unidades não combatentes: Colonos, Trabalhadores, Barcos de Trabalho, Grandes Personalidades, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_NARROW_CONTINENTS_HELP">
 			<Text>O mundo é formado por continentes grandes e estreitos.</Text>
@@ -1641,7 +1641,7 @@
 			<Text>Você pode consumir seu Grande Cientista para obter um bocado de pontos de ciência, equivalente à média de produção de ciência da sua civilização nos últimos oito turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
-			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma fonte deste recurso próximo de {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco de Serviço (mar) para explorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
+			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma fonte deste recurso próximo de {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco de Trabalho (mar) para melhorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_BODY">
 			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigas com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>

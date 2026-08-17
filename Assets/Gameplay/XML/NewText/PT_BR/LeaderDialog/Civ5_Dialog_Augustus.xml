@@ -3,7 +3,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_1">
-			<Text>Muito Bem.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_2">
 			<Text>De acordo.</Text>
@@ -24,22 +24,22 @@
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_1">
-			<Text>Que desperdício de vidas e riquezas... Vocês lamentarão.</Text>
+			<Text>Que desperdício insensato de vidas e riquezas — você se arrependerá disso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
 			<Text>Você cometeu um grave erro... Sua condenação está assegurada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
-			<Text>Tanta valentia, mas tão imprudente. Veremos se seu cérebro está à altura da sua audácia.</Text>
+			<Text>Tanta bravura e tão pouco juízo. Se ao menos tivesse inteligência à altura da coragem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_1">
-			<Text>Por Zeus, você pagará por seus insultos à poderosa Roma! Prepare-se para morrer!</Text>
+			<Text>Por Júpiter, você pagará por seus insultos à poderosa Roma! Prepare-se para morrer!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
 			<Text>Meus cofres estão vazios e meus soldados, nervosos. Por isso você deve morrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
-			<Text>Juro pelo espírito de meu pai, e por Deus Júlio, que os seus dias estão contados. Prepare-se para a guerra.</Text>
+			<Text>Pelo espírito de meu pai, o divino Júlio, juro que seus dias estão contados. Prepare-se para a guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_1">
 			<Text>Parabéns por sua vitória.</Text>
@@ -78,7 +78,7 @@
 			<Text>Você não está falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_7">
-			<Text>Está falando sério?</Text>
+			<Text>Perdão?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_1">
 			<Text>Saudações. Sou Augusto, Imperador e Pontífice Máximo de Roma. Se tiver amizade por Roma, dou-lhe as boas-vindas.</Text>
@@ -99,7 +99,7 @@
 			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_4">
-			<Text>Até à próxima.</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_5">
 			<Text>Vá embora já.</Text>
@@ -135,7 +135,7 @@
 			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_3">
-			<Text>Escutaremos.</Text>
+			<Text>Estou ouvindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_4">
 			<Text>Sim?</Text>
@@ -153,13 +153,13 @@
 			<Text>Seus soldados combateram bem. Apresento meus parabéns pela vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
-			<Text>Eu encontrei uma Roma de tijolos e a fiz de mármore.</Text>
+			<Text>Encontrei Roma como uma cidade de tijolos e a deixei como uma cidade de mármore.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
 			<Text>Apressa-te lentamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_3">
-			<Text>Eu prefiro um comandante afoito a um cauteloso.</Text>
+			<Text>Dê-me um comandante cauteloso, não um afoito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_1">
 			<Text>Isso não basta. Quer melhorá-lo?</Text>
@@ -192,7 +192,7 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_ANGRY">
-			<Text>Pelo sangue imortal de Ares, sua oferta é um insulto à Roma.</Text>
+			<Text>Pelo sangue imortal de Marte, sua oferta é um insulto a Roma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_HAPPY">
 			<Text>Lamentavelmente, os presságios desaconselham esse curso de ação.</Text>
@@ -219,13 +219,13 @@
 			<Text>Eis aqui a nossa oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
-			<Text>Prefiro morrer primeiro.</Text>
+			<Text>Prefiro que morra antes disso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
 			<Text>Eu não posso dar os tesouros de Roma tão facilmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
-			<Text>Suponho que terá um último desejo, verdade?</Text>
+			<Text>Será que deseja tanto assim morrer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_ANGRY">
 			<Text>Aceito.</Text>
@@ -240,7 +240,7 @@
 			<Text>Hah. Você tem coragem. Eu tinha minhas dúvidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_2">
-			<Text>Você me capturou. Muito bem.</Text>
+			<Text>Pagou para ver. Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_3">
 			<Text>Que decepção.</Text>
@@ -255,10 +255,10 @@
 			<Text>Que tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
-			<Text>Muito bem. Está em sua consciência.</Text>
+			<Text>Que a responsabilidade recaia sobre você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
-			<Text>O deus Ares voltou a sorrir para mim. Ajoelhem-se, inimigos de Roma!</Text>
+			<Text>O deus Marte voltou a sorrir para nós. Assim serão humilhados todos os inimigos de Roma!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

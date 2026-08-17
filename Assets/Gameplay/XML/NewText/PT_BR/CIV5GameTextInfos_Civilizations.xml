@@ -17,9 +17,9 @@
 			<Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ARABIA_ADJECTIVE">
-            <Text>Árabe|Árabes</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Árabe|Árabe|Árabes|Árabes</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ARABIA_DESC">
             <Text>Império Árabe</Text>
@@ -32,9 +32,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE">
-            <Text>Asteca|Astecas</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Asteca|Asteca|Astecas|Astecas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_AZTEC_DESC">
             <Text>Império Asteca</Text>
@@ -52,7 +52,7 @@
 			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_BARBARIAN_DESC">
-            <Text>Acampamento Bárbaro</Text>
+            <Text>Estado Bárbaro</Text>
             <Gender>masculine</Gender>
 			<Plurality>1</Plurality>
         </Row>
@@ -172,7 +172,7 @@
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_IROQUOIS_DESC">
-            <Text>Nação Iroquesa</Text>
+            <Text>Império Iroquês</Text>
             <Gender>feminine</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -197,9 +197,9 @@
 			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_MINOR_ADJECTIVE">
-            <Text>Cidade-Estado|Cidades-Estado</Text>
-            <Gender>feminine</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>da Cidade-Estado|da Cidade-Estado|da Cidade-Estado|da Cidade-Estado</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_MINOR_DESC">
             <Text>Cidade-Estado</Text>
@@ -224,12 +224,12 @@
         <Row Tag="TXT_KEY_CIV_OTTOMAN_SHORT_DESC">
             <Text>Otomanos</Text>
             <Gender>masculine</Gender>
-            <Plurality>1</Plurality>
+            <Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_PERSIA_ADJECTIVE">
-            <Text>Persa|Persas</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Persa|Persa|Persas|Persas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_PERSIA_DESC">
             <Text>Império Persa</Text>
@@ -287,9 +287,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
-            <Text>Songai|Songais</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Songai|Songai|Songais|Songais</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_DESC">
             <Text>Império Songai</Text>
@@ -297,7 +297,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_SHORT_DESC">
-            <Text>Songais</Text>
+            <Text>Songai</Text>
             <Gender>masculine</Gender>
             <Plurality>2</Plurality>
         </Row>

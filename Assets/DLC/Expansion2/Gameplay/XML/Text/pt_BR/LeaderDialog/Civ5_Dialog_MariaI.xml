@@ -165,7 +165,7 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_HAPPY">
-            <Text>Consideraria este negócio para uma amiga?</Text>
+            <Text>Em nome de nossa amizade, consideraria este acordo?</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_HAPPY">

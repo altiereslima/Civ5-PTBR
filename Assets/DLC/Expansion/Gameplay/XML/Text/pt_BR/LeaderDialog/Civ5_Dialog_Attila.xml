@@ -31,7 +31,7 @@
       <Text>Lembre-se que isso poderia ter sido evitado. Seu povo não suportará por muito tempo suas repetidas tentativas de autodestruição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_WINWAR_2">
-      <Text>Espero que a lição tenha sido aprendida. Talvez eu deva libertar você de sua extravagância para assegurar que se lembrará.</Text>
+      <Text>Espero que tenha aprendido a lição. Talvez eu alivie você de sua prata mais refinada para garantir que se lembre.</Text>
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_LOSEWAR_1">
@@ -45,7 +45,7 @@
       <Text>Meu povo lamentará minha perda não com lágrimas, mas com o sangue de combatentes. Eu posso ir, mas alguém irá se erguer e tomar o meu lugar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DEFEATED_2">
-      <Text>Pode ter tomado minhas terras e afugentado meus exércitos, mas os Hunos são imponentes e poderosos. Eles não aceitarão uma liderança fraca.</Text>
+      <Text>Pode ter tomado minhas terras e dispersado meus exércitos, mas os Hunos são orgulhosos e poderosos. Eles não aceitarão quem demonstrar fraqueza no comando.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DEFEATED_3">
       <Text>É fácil tomar um território pela força, mas não liderá-lo. Você venceu metade da batalha, mas a parte mais difícil ainda está por vir.</Text>
@@ -101,7 +101,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Hmmm... Sinto que minha pilha de tesouros não está crescendo a contento. Pode adicionar a sua parte agora ou eu posso pegar o que eu desejar depois.</Text>
+      <Text>Hmmm... Sinto que minha pilha de riquezas está ficando entediante. Você pode aumentá-la agora, ou mais tarde eu mesmo tomarei o que quiser.</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_1">
@@ -138,7 +138,7 @@
       <Text>Até nos vermos novamente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_4">
-      <Text>Até logo, pessoa amiga!</Text>
+      <Text>Adeus, camarada.</Text>
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_HAPPY">
@@ -146,7 +146,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Ah! Nem mesmo os romanos ousariam apresentar uma oferta como esta. Tente novamente, liderança aliada.</Text>
+      <Text>Ha! Nem mesmo os romanos ousariam apresentar uma oferta como esta. Tente novamente, camarada.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_2">
       <Text>Certeza de que não pode fazer um pouco melhor?</Text>
@@ -214,7 +214,7 @@
     </Row> 
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_1">
-      <Text>Eu sinto a fúria crescer dentro de mim, mas permitirei que melhore a sua oferta.</Text>
+      <Text>Posso sentir a bile subindo pela garganta, mas, por insistência de meus conselheiros, permitirei que melhore sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_2">
       <Text>Isso não é suficiente.</Text>
@@ -251,7 +251,7 @@
     </Row>
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_5">
-      <Text>Vocês estão em delírio!</Text>
+      <Text>Você enlouqueceu!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_6">
       <Text>Isso é inaceitável.</Text>
@@ -267,13 +267,13 @@
       <Text>O dote de Honória deve ser pago! Essa terra será minha, quer você me dê pacificamente ou não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DECLAREWAR_2">
-      <Text>As forças de Roma se quebraram como gravetos contra os flancos do meu exército. Como você suportará? Meus cavaleiros enterrarão seu povo.</Text>
+      <Text>As forças de Roma se partiram como gravetos contra os flancos do meu exército; como você resistirá? Meus cavaleiros esmagarão você contra a terra.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_DECLAREWAR_3">
       <Text>Eu estou cansando deste trono. Acho que eu gostaria de possuir o seu agora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_1">
-      <Text>Maldito! Eu terei sua liderança antes que o dia termine.</Text>
+      <Text>Maldito! Terei sua cabeça antes que o dia termine.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_2">
       <Text>Eu esperaria esta traição de Roma, não de você. Não importa... todos vocês sangram.</Text>

@@ -10,10 +10,10 @@
             <Text>Eu sou Casimiro, a Grande. Rei da Polônia! O que traz você ao meu glorioso reino?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_2">
-            <Text>Saudações, pessoa que viaja! Eu sou Casimiro da Polônia! Venha, vamos festejar e compartilhar as histórias de nossos povos.</Text>
+            <Text>Saudações! Sou Casimiro da Polônia. Venha — vamos festejar e compartilhar as histórias de nossos povos.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_3">
-            <Text>Boas-vindas, figura desconhecida! Eu sou Casimiro, a Grande, da Polônia. Talvez tenha ouvido falar das minhas muitas conquistas?</Text>
+            <Text>Boas-vindas! Sou Casimiro, o Grande, da Polônia. Talvez tenha ouvido falar das minhas muitas conquistas?</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_1">
@@ -154,7 +154,7 @@
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_HAPPY">
-            <Text>Não faria, conscientemente, uma oferta tão modesta a uma figura amiga, não é?</Text>
+            <Text>Você não faria conscientemente uma oferta tão ruim em nome de nossa amizade, faria?</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_HAPPY">

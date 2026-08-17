@@ -345,7 +345,7 @@
 			<Text>[NEWLINE][ICON_BULLET] {3_DesireLevel} para {2_VoteChoice} em {1_Proposal}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_COMMITMENT">
-			<Text>[NEWLINE][NEWLINE]Por causa de um acordo comercial, eles concordaram em comprometer {3_NumDelegates} {3_NumDelegates: plural 1?Delegado; other?Delegados;} para apoiar o ato de {2_VoteChoice} a proposta: {1_Proposal}.</Text>
+			<Text>[NEWLINE][NEWLINE]Por causa de um acordo comercial, eles concordaram em destinar {3_NumDelegates} {3_NumDelegates: plural 1?Delegado; other?Delegados;} para apoiar {2_VoteChoice} na proposta {1_Proposal}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS">
 			<Text>[NEWLINE][NEWLINE]Baseada em nosso conhecimento sobre os desejos das outras Civilizações, nossa contagem para esta proposta está em:</Text>
@@ -478,7 +478,7 @@
 			<Text>Obtendo o apoio necessário de no mínimo {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;}, {@2_CivName} {@2: plural 2?{@2: gender feminine?foram escolhidas as Líderes Mundiais; other?foram escolhidos os Líderes Mundiais;}; other?{@2: gender feminine?foi escolhida a Líder Mundial; other?foi escolhido o Líder Mundial;};}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL_DETAILS">
-			<Text>Sem a obtenção do apoio necessário de no mínimo {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;}, a proposta de Liderança Mundial falhou. {2: plural 1?A; other?As;} {2_NumCivilizations} {2_NumCivilizations: plural 1?Civilização mais bem classificada ganhou; other?Civilizações mais bem classificadas ganharam;} permanentemente Delegados adicionais.</Text>
+			<Text>Sem obter o apoio necessário de pelo menos {1_NumDelegates} {1_NumDelegates: plural 1?Delegado; other?Delegados;}, a proposta de Liderança Mundial falhou. {2: plural 1?A; other?As;} {2_NumCivilizations} {2_NumCivilizations: plural 1?Civilização mais bem classificada ganhou; other?Civilizações mais bem classificadas ganharam;} Delegados adicionais permanentemente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_CHANGED_SUMMARY">
 			<Text>{@1_CivName} {@1: plural 2?tornaram-se; other?tornou-se;} {@1: plural 2?{@1: gender feminine?as anfitriãs; other?os anfitriões;}; other?{@1: gender feminine?a anfitriã; other?o anfitrião;};}</Text>
@@ -487,7 +487,7 @@
 			<Text>{@1_CivName} {@1: plural 2?permanecem; other?permanece;} {@1: plural 2?{@1: gender feminine?as anfitriãs; other?os anfitriões;}; other?{@1: gender feminine?a anfitriã; other?o anfitrião;};}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_DETAILS">
-			<Text>A Sessão Especial da {1_LeagueName} escolheu {@2_CivName} para {@2: plural 2?serem; other?ser;} {@2: plural 2?{@2: gender feminine?as próximas as anfitriãs; other?os próximos anfitriões;}; other?{@2: gender feminine?a próxima anfitriã; other?o próximo anfitrião;};}.</Text>
+			<Text>A Sessão Especial da {1_LeagueName} escolheu {@2_CivName} para {@2: plural 2?serem; other?ser;} {@2: plural 2?{@2: gender feminine?as próximas anfitriãs; other?os próximos anfitriões;}; other?{@2: gender feminine?a próxima anfitriã; other?o próximo anfitrião;};}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_PASS_SUMMARY">
 			<Text>A resolução de {1_ResolutionName} foi aceita</Text>
@@ -496,7 +496,7 @@
 			<Text>A resolução de {1_ResolutionName} não foi aceita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_PASS">
-			<Text>A resolução de {1_ResolutionName} foi aceita. Seus efeitos [COLOR_WARNING_TEXT]já não estão ativos[ENDCOLOR].</Text>
+			<Text>A resolução {1_ResolutionName} foi aprovada. Seus efeitos [COLOR_POSITIVE_TEXT]agora estão ativos[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_FAIL">
 			<Text>A resolução de {1_ResolutionName} não foi aceita.</Text>
@@ -536,7 +536,7 @@
 			<Text>{@1_Ordinal} Congresso {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_2">
-			<Text>{@1_Ordinal} Consílio {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}</Text>
+			<Text>{@1_Ordinal} Conferência {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_3">
 			<Text>{@1_Ordinal} Conselho {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}</Text>

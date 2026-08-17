@@ -56,7 +56,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AIX_EN_PROVINCE">
-			<Text>Aix-en-Province</Text>
+			<Text>Aix-en-Provence</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -91,7 +91,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALEMANNI">
-			<Text>Alemanni</Text>
+			<Text>Alamano</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -331,7 +331,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AVAR">
-			<Text>Avar</Text>
+			<Text>Ávaro</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -421,7 +421,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BANTU">
-			<Text>Bantu</Text>
+			<Text>Banto</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -867,7 +867,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIMMERIAN">
 			<Text>Ciméria</Text>
-			<Gender>feminine</Gender>
+			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CINCINNATI">
@@ -876,8 +876,8 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIRCASSIAN">
-			<Text>Circassiana</Text>
-			<Gender>feminine</Gender>
+			<Text>Circássia</Text>
+			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CIRCEI">
@@ -951,7 +951,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CUMAN">
-			<Text>Cuman</Text>
+			<Text>Cumano</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1286,7 +1286,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GAUL">
-			<Text>Gaul</Text>
+			<Text>Gália</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1306,7 +1306,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GEPID">
-			<Text>Gepid</Text>
+			<Text>Gépida</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1451,7 +1451,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HARAPPAN">
-			<Text>Harappan</Text>
+			<Text>Harapa</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1721,7 +1721,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JUTE">
-			<Text>Jute</Text>
+			<Text>Juto</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1766,7 +1766,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KANSAS_CITY">
-			<Text>Cidade do Kansas</Text>
+			<Text>Kansas City</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1806,7 +1806,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KASSITE">
-			<Text>Kassite</Text>
+			<Text>Cassita</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2136,7 +2136,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MAGYAR">
-			<Text>Magyar</Text>
+			<Text>Magiar</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2211,7 +2211,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MAYA">
-			<Text>Maya</Text>
+			<Text>Maia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2281,7 +2281,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MINOAN">
-			<Text>Minoan</Text>
+			<Text>Minoica</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2531,7 +2531,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_OLMEC">
-			<Text>Olmec</Text>
+			<Text>Olmeca</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -2701,7 +2701,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PHOCAEA">
-			<Text>Foiceia</Text>
+			<Text>Foceia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3016,12 +3016,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAXON">
-			<Text>Saxon</Text>
+			<Text>Saxão</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND">
-			<Text>Scotland</Text>
+			<Text>Escócia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3576,7 +3576,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_UZBEK">
-			<Text>Uzbek</Text>
+			<Text>Uzbeque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3586,7 +3586,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VANDAL">
-			<Text>Vandal</Text>
+			<Text>Vândalo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3621,7 +3621,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTH">
-			<Text>Visigoth</Text>
+			<Text>Visigodo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3781,7 +3781,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ZAPOTEC">
-			<Text>Zapotec</Text>
+			<Text>Zapoteca</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -3971,7 +3971,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SYRACUSE">
-			<Text>Syracuse</Text>
+			<Text>Siracusa</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -4256,7 +4256,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_SONG_CITY_NAME_TOMBOUCTU">
-			<Text>Tombouctou</Text>
+			<Text>Tombuctu</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -4411,12 +4411,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GOTH">
-			<Text>Goth</Text>
+			<Text>Godo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KHAZAK">
-			<Text>Khazak</Text>
+			<Text>Cazaque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

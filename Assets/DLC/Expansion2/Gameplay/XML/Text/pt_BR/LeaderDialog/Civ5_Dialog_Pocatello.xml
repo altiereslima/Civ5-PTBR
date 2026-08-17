@@ -157,7 +157,7 @@
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY">
-            <Text>Pegue o que precisa, pessoa amiga.</Text>
+            <Text>Pegue o que precisar, em nome de nossa amizade.</Text>
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY">

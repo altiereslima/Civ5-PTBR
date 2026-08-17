@@ -6,7 +6,7 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1">
-      <Text>Boas-vindas aos protegidos portos de Cartago, pessoa estrangeira. Sou conhecida como Dido, a viajante de Tiro.</Text>
+      <Text>Boas-vindas, visitante, aos portos protegidos de Cartago. Sou conhecida como Dido, a viajante de Tiro.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2">
       <Text>A Rainha de Cartago lhe dá as boas-vindas a esta agradável cidade. Embora muitos me conheçam como Elissa, pode me chamar de Dido.</Text>
@@ -36,7 +36,7 @@
       <Text>Que bruxaria foi feita? Que tipo de encanto foi jogado sobre meu exército? Serei mais cuidadosa em uma próxima vez.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2">
-      <Text>Eu devo ter irritado as Parcas... é a única explicação. Alguém como você poderia sequer sonhar em me derrotar, a não ser que tenha recebido ajuda do alto.</Text>
+      <Text>Devo ter irritado as Parcas; é a única explicação. Ninguém como você jamais poderia esperar me derrotar, a menos que tivesse recebido ajuda do alto.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1">
@@ -144,7 +144,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Ora... Eu não atenderia uma oferta dessas nem de Eneias. Que tal tentar novamente?</Text>
+      <Text>Ora... Eu não aceitaria uma oferta dessas nem do meu querido Eneias. Que tal tentar novamente?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2">
       <Text>É o seu melhor?</Text>
@@ -237,7 +237,7 @@
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY">
-      <Text>Certamente é um trabalho para quem não tem o que fazer, mas ao menos posso dizer que tentei - o que é melhor do que outras pessoas nesta sala.</Text>
+      <Text>Sei que é uma missão tola, mas ao menos posso dizer que tentei — o que é mais do que posso dizer de outros nesta sala.</Text>
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY">
@@ -277,7 +277,7 @@
       <Text>O que espera ganhar com um ato desprezível como este? Meus elefantes vão realinhar seu senso de razão... de graça.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3">
-      <Text>Com falsidade vem até o meu porto, criatura hipócrita?! Os deuses serão testemunhas que você irá me pagar seu débito com sangue e trabalho forçado.</Text>
+      <Text>Você chega ao meu porto com falsidade — hipócrita, serpente! Tendo os Deuses por testemunhas, pagará sua dívida com sangue e trabalho.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

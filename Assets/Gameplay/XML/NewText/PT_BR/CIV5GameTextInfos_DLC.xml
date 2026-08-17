@@ -52,7 +52,7 @@
 			<Text>DLC VIKING DISPONÍVEL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPMAPPACK_DLC_AVAILABLE">
-			<Text>DLC MAPAS DISPONÍVEL</Text>
+			<Text>DLC DE PACOTE DE MAPAS DISPONÍVEL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVWORLD">
 			<Text>JOGAR CIVWORLD AGORA!</Text>
@@ -74,7 +74,7 @@
 			<Text>Coreia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_DESCRIPTION">
-			<Text>Sejong, o Grande</Text>
+			<Text>Coreia de Sejong, o Grande</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_NAME">
 			<Text>Maravilhas Antigas</Text>

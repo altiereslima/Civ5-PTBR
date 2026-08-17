@@ -171,7 +171,7 @@
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
-			<Text>Sua assistência seria muito apreciada, pessoa amiga. Sua generosidade benevolente é renomada.</Text>
+			<Text>Sua ajuda seria muito apreciada, em nome de nossa amizade. Sua generosidade é conhecida.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_3">
@@ -264,7 +264,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_1">
-			<Text>Você se provou uma pessoa governante incapaz, e eu não posso mais suportar a lamúria do seu povo. Ele será libertado de sua tirania.</Text>
+			<Text>Você demonstrou não ter condições de governar, e não posso mais suportar os clamores de seu povo. Vou libertá-lo de sua tirania.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_2">
 			<Text>Sabe o que fez para nos trazer a esta... infeliz sequência de eventos.</Text>

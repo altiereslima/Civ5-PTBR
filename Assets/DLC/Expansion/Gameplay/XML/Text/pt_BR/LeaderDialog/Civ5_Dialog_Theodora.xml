@@ -6,27 +6,27 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_1">
-      <Text>Hmmm... mas que surpresa agradável - como devo me dirigir a esta misteriosa figura estrangeira? Eu sou Teodora, a amada de Bizâncio.</Text>
+      <Text>Ora, mas que surpresa agradável — como devo chamar esta misteriosa visita? Sou Teodora, a amada de Bizâncio.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_2">
-      <Text>Eu sou Teodora, apreciadora de todas as belezas e maravilhas do mundo. Impressione-me, figura estrangeira, e eu acharei um lugar para ti em minha coleção.</Text>
+      <Text>Sou Teodora, senhora de todas as maravilhas e belezas do mundo. Impressione-me, e talvez eu encontre para você um lugar apropriado em minha coleção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_3">
-      <Text>Embora eu tenha muitos admiradores, tu és a pessoa convidada mais estimada. Podes me chamar de Teodora, Imperatriz favorita de Bizâncio.</Text>
+      <Text>Embora eu tenha muitos admiradores, você está entre meus convidados mais estimados. Pode me chamar de Teodora, favorecida Imperatriz de Bizâncio.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_1">
-      <Text>Eu gosto de ver a coragem em uma pessoa. É muito interessante.</Text>
+      <Text>Gosto de ver um pouco de coragem. É muito animador.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_2">
-      <Text>Eu te subestimei. Eu acho isso... excitante.</Text>
+      <Text>Subestimei você. Acho isso... excitante.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_3">
-      <Text>Esqueça... Tu não resistirás sempre ao meu charme.</Text>
+      <Text>Não importa. Você nem sempre será tão imune aos meus encantos.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_1">
-      <Text>Eu diria que foi bastante agradável, não concordas? Eu amo tanto a vitória.</Text>
+      <Text>Eu diria que foi bastante agradável, não concorda? Eu adoro vencer.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_2">
       <Text>Espero que a lição tenha sido aprendida. Não gostei de ter que aplicar tal punição.</Text>
@@ -43,7 +43,7 @@
       <Text>Os ventos da mudança trazem o frio que mata a delicada flor. O que esta nação tem de mais querido foi destruído.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_2">
-      <Text>Age como uma criança com seus brinquedos. Meu povo jamais demonstrará apreço por tal pessoa, nem suportará esta indignação de forma educada.</Text>
+      <Text>Age como uma criança brincando com seus brinquedos. Meu povo jamais amará você, nem aceitará esta indignidade de bom grado.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_3">
       <Text>Quando o sol nascer novamente, ele chorará pelo que vir. O sangue desta civilização corre dentro de mim... e eu não mais existirei.</Text>
@@ -51,7 +51,7 @@
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_1">
-      <Text>Saudações.</Text>
+      <Text>Saudações, meu bem.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_2">
       <Text>Olá novamente.</Text>
@@ -69,7 +69,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Suas palavras são intrigantes, mas preciso ouvir mais.</Text>
+      <Text>Suas palavras doces me intrigam, mas preciso ouvir mais.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_2">
       <Text>Não há nada mais a oferecer?</Text>
@@ -125,10 +125,10 @@
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_3">
-      <Text>Seja bem-vinda a pessoa que retorna.</Text>
+      <Text>Que bom ter você de volta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_4">
-      <Text>Que bom que veio!</Text>
+      <Text>Meu bem!</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_3">
@@ -149,7 +149,7 @@
       <Text>É o melhor que se pode fazer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_3">
-      <Text>Quase.</Text>
+      <Text>Quase, meu bem.</Text>
     </Row>
     <!--Trade offer from player - no -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_HAPPY">
@@ -165,7 +165,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_HAPPY">
-      <Text>Onde está meu presente? Sempre se traz um presente em uma visita.</Text>
+      <Text>Meu bem, onde está meu presente? Você sempre traz um quando vem me visitar.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_HAPPY">
@@ -173,7 +173,7 @@
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_3">
-      <Text>Claro.</Text>
+      <Text>Claro, meu bem.</Text>
     </Row> 
     <!--Disagrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_3">
@@ -184,7 +184,7 @@
     </Row> 
     <!--Let's hear it -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_3">
-      <Text>Sim?</Text>
+      <Text>Sim, meu bem?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_4">
       <Text>Estou ouvindo.</Text>
@@ -239,7 +239,7 @@
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_ANGRY">
-      <Text>Espero que não haja concordância, assim poderei lhe oferecer algo mais pessoal.</Text>
+      <Text>Espero que recuse, para que eu possa oferecer isto a alguém mais digno.</Text>
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_4">
@@ -266,16 +266,16 @@
       <Text>É sempre uma pena ter que destruir algo belo. Felizmente, este não é o caso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_3">
-      <Text>Meus presentes não são respondidos e pessoas mensageiras voltam de mãos vazias. Terei o que é meu, pela força.</Text>
+      <Text>Você não retribui meus presentes, e meus mensageiros voltam de mãos vazias. Vim buscar pela força aquilo que é meu.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_1">
       <Text>Suas intenções finalmente se revelaram. O que pensa ser capaz de fazer comigo?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_2">
-      <Text>Fúria não é algo conveniente. Terei que ensinar uma lição.</Text>
+      <Text>Ora, meu bem, ataques de fúria não lhe caem bem. Terei que ensinar uma lição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_3">
-      <Text>O quê? Pensa ser a única pessoa pretendente? Muitos virão ao meu socorro. Trata-se de apenas um.</Text>
+      <Text>O quê? Achou que era a única opção? Muitos virão em meu auxílio — seu apoio está longe de ser o único.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

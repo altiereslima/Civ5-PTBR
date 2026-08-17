@@ -18,7 +18,7 @@
 			<Text>O jogo escolherá qualquer tipo de mapa (exceto Terra).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANDOM_MAP_SIZE">
-			<Text>Tamanho de Mapa Aleatório</Text>
+			<Text>Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANDOM_MAP_SIZE_HELP">
 			<Text>O jogo escolherá aleatoriamente um dos tamanhos de mapa para você jogar. Você não saberá qual deles foi escolhido.</Text>
@@ -36,7 +36,7 @@
 			<Text>Pacote DLC '{1_string}' não está instalado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNAVAILABLE_LEADER_TT">
-			<Text>Líder está indisponível porque alguns jogadores não possuem o pacote DLC requerido '{1_string}'.</Text>
+			<Text>O líder está indisponível porque alguns jogadores não possuem o pacote DLC necessário '{1_string}'.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANDOM_LEADER">
 			<Text>Líder aleatório</Text>
@@ -82,7 +82,7 @@
 			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ADV_SETUP">
-			<Text>Configurações Avançadas</Text>
+			<Text>Config. avançada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_START_GAME">
 			<Text>Iniciar o jogo</Text>
@@ -93,7 +93,7 @@
 		<!-- Custom Map Options -->
 
 		<Row Tag="TXT_KEY_RANDOM_MAP_SCRIPT">
-			<Text>Tipo de Mapa Aleatório</Text>
+			<Text>Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ANY_MAP_SCRIPT">
 			<Text>Qualquer tipo de mapa</Text>
@@ -126,7 +126,7 @@
 			<Text>Uma vasta região dominada por colinas e cadeias de montanhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ARBOREA">
-			<Text>Arborizado</Text>
+			<Text>Arbórea</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_ARBOREA_HELP">
 			<Text>Um mundo quase completamente coberto por florestas.</Text>
@@ -150,7 +150,7 @@
 			<Text>Menos aleatório que Continentes, mas você pode escolher a quantidade de continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_DONUT">
-			<Text>Anelado</Text>
+			<Text>Donut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_DONUT_HELP">
 			<Text>Uma pangeia circular. Você pode escolher o tipo de terreno do centro.</Text>
@@ -162,7 +162,7 @@
 			<Text>Um pequeno mundo sem oceanos, onde os climas e a distribuição de recursos desafiam as leis da física climática.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS">
-			<Text>Planalto global</Text>
+			<Text>Planaltos Globais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS_HELP">
 			<Text>Um mundo muito vasto, dominado por colinas e cordilheiras.</Text>
@@ -201,7 +201,7 @@
 			<Text>Lagos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_LAKES_HELP">
-			<Text>Um mundo sem oceanos, apenas pequenos lagos.</Text>
+			<Text>Um mundo sem oceanos, apenas corpos d'água menores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_LARGE_ISLANDS">
 			<Text>Ilhas grandes</Text>
@@ -231,7 +231,7 @@
 			<Text>Oásis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OASIS_HELP">
-			<Text>Uma região fértil dividida ao meio por um deserto árido. Adequado para partidas multijogador em duelo ou equipes de dois jogadores.</Text>
+			<Text>Uma região fértil dividida ao meio por um deserto árido. Adequado para partidas de duelo ou multijogador com duas equipes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OVAL">
 			<Text>Oval</Text>
@@ -252,7 +252,7 @@
 			<Text>Cada civilização tem seu próprio subcontinente. Todos estão conectados em sentido horário aos vizinhos adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SKIRMISH">
-			<Text>Combate</Text>
+			<Text>Escaramuça</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SKIRMISH_HELP">
 			<Text>Um mapa balanceado projetado para 2 jogadores.</Text>
@@ -297,7 +297,7 @@
 			<Text>Roda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_WHEEL_HELP">
-			<Text>Cada civilização tem seu próprio subcontinente. Pontes terrestres no estilo Central e Anel conectam as áreas.</Text>
+			<Text>Cada civilização tem seu próprio subcontinente. Pontes terrestres nos estilos Centro radial e Anel conectam as áreas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_AMAZON">
 			<Text>Amazônia</Text>
@@ -363,7 +363,7 @@
 			<Text>Fechar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CLOSE_HELP">
-			<Text>Fecha esta aba de opções.</Text>
+			<Text>Fechar este conjunto de opções.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_PANGAEA_HELP">
 			<Text>Todos os jogadores começam em uma grande massa de terra. Pode haver pequenas ilhas fora do continente principal.</Text>
@@ -456,37 +456,37 @@
 			<Text>Um por Continente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido para fornecer um continente por equipe (máximo de seis, no entanto).</Text>
+			<Text>Será escolhido um modelo de mapa que forneça um continente por equipe, com no máximo seis continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TWO_PER_CONTINENT">
 			<Text>2</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TWO_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido que inclua exatamente dois grandes continentes.</Text>
+			<Text>Será escolhido um modelo de mapa com exatamente dois grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_THREE_PER_CONTINENT">
 			<Text>3</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_THREE_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido que inclua exatamente três grandes continentes.</Text>
+			<Text>Será escolhido um modelo de mapa com exatamente três grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FOUR_PER_CONTINENT">
 			<Text>4</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FOUR_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido que inclua exatamente quatro grandes continentes.</Text>
+			<Text>Será escolhido um modelo de mapa com exatamente quatro grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FIVE_PER_CONTINENT">
 			<Text>5</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_FIVE_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido que inclua exatamente cinco grandes continentes.</Text>
+			<Text>Será escolhido um modelo de mapa com exatamente cinco grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SIX_PER_CONTINENT">
 			<Text>6</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SIX_PER_CONTINENT_HELP">
-			<Text>Um modelo de mapa será escolhido que inclua exatamente seis grandes continentes.</Text>
+			<Text>Será escolhido um modelo de mapa com exatamente seis grandes continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RESOURCE_APPEARANCE">
 			<Text>Distribuição de Recursos</Text>
@@ -513,7 +513,7 @@
 			<Text>Padrão de Montanhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES">
-			<Text>Falhas Tectônicas</Text>
+			<Text>Cadeias de Montanhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES_HELP">
 			<Text>Cordilheiras de estilo tectônico, ao longo de falhas aleatórias.</Text>
@@ -546,7 +546,7 @@
 			<Text>Normal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_THIN">
-			<Text>Escasso</Text>
+			<Text>Baixa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BODIES_OF_WATER">
 			<Text>Corpos d'Água</Text>
@@ -585,7 +585,7 @@
 			<Text>Mares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SEAS_HELP">
-			<Text>A maioria dos corpos d'água será de mares salgados de dimensão modesta, altamente aleatórios em forma.</Text>
+			<Text>A maioria dos corpos d'água será formada por mares salgados de dimensões modestas e formatos bastante aleatórios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_BUFFER_ZONES">
 			<Text>Zonas Intermediárias</Text>
@@ -600,7 +600,7 @@
 			<Text>Escolha não adicionar nenhuma terra extra entre as civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX">
-			<Text>Sim (máximo de 10 civilizações)</Text>
+			<Text>Sim (Máx. 10 civilizações)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX_HELP">
 			<Text>Adicione terra extra entre as civilizações. (Disponível apenas até um máximo de dez civilizações.)</Text>
@@ -618,7 +618,7 @@
 			<Text>Compacto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_PRESSED_HELP">
-			<Text>Menos irregularidades intensas na forma da costa.</Text>
+			<Text>Menos irregularidades, e de menor intensidade, no formato da costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_SOLID">
 			<Text>Sólido</Text>
@@ -672,7 +672,7 @@
 			<Text>Poucas Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_VARIOUS_TINY_ISLANDS">
-			<Text>Várias Ilhas Pequenas</Text>
+			<Text>Várias Ilhas Minúsculas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_MANY_TINY_ISLANDS">
 			<Text>Muitas Ilhas Minúsculas</Text>
@@ -720,7 +720,7 @@
 			<Text>Oposto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_TEAM_SETTING">
-			<Text>Configuração da Equipe</Text>
+			<Text>Config. Equipe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_START_TOGETHER">
 			<Text>Começar Juntos</Text>
@@ -838,7 +838,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_OPTION_RANDOM">
-			<Text>Aleatorizar</Text>
+			<Text>Aleatório</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTION_DOMINANT_TERRAIN">
 			<Text>Terreno Dominante</Text>
@@ -893,7 +893,7 @@
 			<Text>Colinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS_HELP">
-			<Text>Terras altas acidentadas com vales de pastagens.</Text>
+			<Text>Terras altas acidentadas com vales de pradaria.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE">
@@ -966,7 +966,7 @@
 			<Text>Os seguintes mods são necessários para este jogo salvo:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MODS_TT">
-			<Text>Acessar "mods" criados por usuários</Text>
+			<Text>Acessar mods criados por usuários</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OPTIONS">
 			<Text>OPÇÕES</Text>
@@ -975,13 +975,13 @@
 			<Text>Configurações do jogo e do sistema</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OTHER">
-			<Text>OUTRO</Text>
+			<Text>OUTROS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OTHER_TT">
 			<Text>Outras informações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HALL_OF_FAME">
-			<Text>HALL DA FAMA</Text>
+			<Text>GALERIA DA FAMA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HALL_OF_FAME_TT">
 			<Text>Maiores pontuações.</Text>
@@ -990,7 +990,7 @@
 			<Text>ÚLTIMAS NOTÍCIAS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LATEST_NEWS_TT">
-			<Text>Leia as últimas notícias (Requer conexão com a Internet).</Text>
+			<Text>Leia as últimas notícias (requer conexão com a Internet).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CREDITS">
 			<Text>CRÉDITOS</Text>
@@ -1134,14 +1134,14 @@
 			<Text>Espaço para a descrição do título</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOMEONE_STILL_LOADING">
-			<Text>ALGO ainda está carregando</Text>
+			<Text>ALGUÉM ainda está carregando</Text>
 		</Row>
 		<!-- Advanced Setup Screen Buttons and Headers-->
 		<Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER">
 			<Text>Remover IA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER_TT">
-			<Text>Remove este jogador de IA.</Text>
+			<Text>Remover este jogador de IA.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_GAME_OPTIONS">
 			<Text>Opções de jogo</Text>
@@ -1156,7 +1156,7 @@
 			<Text>Restaurar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_ADD_DEFAULT_TT">
-			<Text>Restaurar opções padrões</Text>
+			<Text>Restaurar opções padrão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_RAGING_BARBARIANS">
 			<Text>Bárbaros enfurecidos</Text>
@@ -1234,13 +1234,13 @@
 			<Text>Nível de dificuldade: {1_handicap}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_CITY_STATES">
-			<Text>Cidades-Estado: {1_number}</Text>
+			<Text>Cid.-Estado: {1_number}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS">
 			<Text>Turnos máximos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_MAP_DESC_FORMAT">
-			<Text>{1_description} [NEWLINE] Num Civs: {2_civs}      Turnos máximos: {3_num}      Era de início: {4_era}</Text>
+			<Text>{1_description} [NEWLINE] Nº de civs: {2_civs}      Turnos máximos: {3_num}      Era de início: {4_era}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AD_SETUP_PLAYER_COUNT">
 			<Text>Jogadores: {1_PlayerCount}</Text>
@@ -1258,7 +1258,7 @@
 			<Text>Aleatorizar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_ADVANCED_SETUP">
-			<Text>Configurações Avançadas</Text>
+			<Text>Config. avançada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_SELECTION_SCREEN">
 			<Text>CONFIGURAR PARTIDA</Text>
@@ -1542,10 +1542,10 @@
 			<Text>Destravar jogador de IA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_DISABLE_SLOT">
-			<Text>Desabilitar espaço</Text>
+			<Text>Desativar espaço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_ENABLE_SLOT">
-			<Text>Habilitar espaço</Text>
+			<Text>Ativar espaço</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
 			<Text>Trocar para este espaço de jogador.</Text>
@@ -1581,7 +1581,7 @@
 			<Text>Humano Necessário</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_HUMANREQ_TT">
-			<Text>Os espaços de "Jogador" devem ser ocupados por jogadores humanos antes que o jogo possa começar.</Text>
+			<Text>Espaços que exigem jogador humano devem ser ocupados por um jogador humano antes que a partida possa começar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SLOTTYPE_AI">
 			<Text>IA</Text>
@@ -1611,7 +1611,7 @@
 			<Text>Hospedar um jogo em rede local</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN_DESC">
-			<Text>Selecione as opções da partida e depois hospede uma. Isso criará uma partida que os jogadores da sua rede local verão na sala e poderão acessar.</Text>
+			<Text>Selecione as opções da partida e depois hospede uma. Isso criará uma partida que os jogadores da sua rede local verão na sala e poderão entrar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_JOIN_FAILED">
 			<Text>Erro ao entrar na sessão multijogador.</Text>
@@ -1689,7 +1689,7 @@
 			<Text>Servidores: rede local</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_LAN_TT">
-			<Text>Servidores Dedicados Steam na LAN local.</Text>
+			<Text>Servidores dedicados Steam na rede local.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LIST_SERVERS_FRIENDS">
 			<Text>Servidores: amigos</Text>
@@ -1791,7 +1791,7 @@
 			<Text>Obtendo pontuações do placar...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LB_NOTSUPPORTEDBYMOD" >
-			<Text>A configuração do seu mod atual não permite placar.</Text>
+			<Text>A configuração atual de mods não oferece suporte a placares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LB_NOLEADERBOARD" >
 			<Text>Não há pontuações publicadas neste placar.[NEWLINE]Seja o primeiro a publicar uma pontuação completando um jogo para um jogador!</Text>
@@ -1803,10 +1803,10 @@
 			<Text>Você não publicou neste placar.[NEWLINE]Desafie o mundo completando um jogo para um jogador!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_PULLDOWN" >
-			<Text>Placar</Text>
+			<Text>Placares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_PULLDOWN_TT" >
-			<Text>Placar para todo o conteúdo de jogo atualmente instalado, DLC e mods.</Text>
+			<Text>Placares de todo o conteúdo de jogo, DLC e mods atualmente instalados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_RANKING" >
 			<Text>Classificação</Text>
@@ -1815,22 +1815,22 @@
 			<Text>AMIGOS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_FRIENDS_TT" >
-			<Text>Exibir o seu placar e o dos seus amigos.</Text>
+			<Text>Exibir o placar com você e seus amigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_PERSONAL" >
 			<Text>PESSOAL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_PERSONAL_TT" >
-			<Text>Exibir placar da sua posição no placar global.</Text>
+			<Text>Exibir sua posição no placar global.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_GLOBAL" >
 			<Text>GLOBAL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_GLOBAL_TT" >
-			<Text>Exibir placar dos melhores jogadores do mundo.</Text>
+			<Text>Exibir o placar dos melhores jogadores do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD">
-			<Text>PLACAR</Text>
+			<Text>PLACARES</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADERBOARD_TT">
 			<Text>Compare suas pontuações com seus amigos e com o mundo (Requer conexão ativa com a Internet).</Text>
@@ -1868,7 +1868,7 @@
 		</Row>
 		
 		<Row Tag="TXT_KEY_UPDATING_GAME_DATA">
-			<Text>Configurando dados do jogo... Por Favor, aguarde.</Text>
+			<Text>Configurando dados do jogo... Por favor, aguarde.</Text>
 		</Row>
 
 	</Language_pt_BR>

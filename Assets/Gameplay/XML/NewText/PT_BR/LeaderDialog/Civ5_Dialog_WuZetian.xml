@@ -23,13 +23,13 @@
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1">
-			<Text>Que imprudência! Nós lhe destruiremos facilmente!</Text>
+			<Text>Que tolice! Vamos estripar você como uma carpa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2">
-			<Text>Pessoa bárbara e imprudente! A destruição lhe aguarda!</Text>
+			<Text>Que barbárie insensata! Vamos destruir você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3">
-			<Text>Que assim seja! Você se arrependerá deste dia pelo resto de sua breve existência!</Text>
+			<Text>Maldição! Você lamentará este dia pelo resto de sua breve existência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1">
 			<Text>Sua utilidade chegou ao fim. Morra.</Text>
@@ -44,19 +44,19 @@
 			<Text>Você me destruiu. Parabéns. Se as circunstâncias tivessem sido contrárias, eu teria feito o mesmo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2">
-			<Text>Estou farta deste mundo. Talvez eu possa me vingar no próximo.</Text>
+			<Text>Estou acabada neste mundo. Talvez me vingue no próximo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3">
 			<Text>Você demonstrou astúcia e dignidade como oponente. Aplaudo sua vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY">
-			<Text>Se deseja continuar com sua miserável existência, dê-me o seguinte.</Text>
+			<Text>Se deseja prolongar sua miserável existência, dê-nos o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY">
-			<Text>A China precisa do seu apoio. Estou certa de que podemos contar com sua ajuda.</Text>
+			<Text>Em nome de nossa amizade, a China precisa de sua ajuda. Estou certa de que podemos contar com seu apoio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Sugiro que me conceda o seguinte, pois a alternativa será bem mais cara para todos nós.</Text>
+			<Text>Recomendo que nos dê o seguinte, pois a alternativa provavelmente sairá muito mais cara para todos os envolvidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1">
 			<Text>Não.</Text>
@@ -86,7 +86,7 @@
 			<Text>Saudações. Eu sou a Imperatriz Wu Zetian. A China quer a paz para seu próprio desenvolvimento. Se nos deixar em paz, faremos o mesmo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3">
-			<Text>Saudações. Eu sou Wu Zetian, Imperatriz da China. A China quer uma coexistência pacífica e um comércio justo, mas responderemos a agressões com firmeza. Espero que nossos interesses sejam comuns.</Text>
+			<Text>Saudações. Sou Wu Zetian, Imperatriz da China. A China busca coexistência pacífica e comércio justo, mas responderá com firmeza à agressão. Espero que pense da mesma forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1">
 			<Text>Bom dia.</Text>
@@ -107,7 +107,7 @@
 			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7">
-			<Text>Nosso trato já está feito.</Text>
+			<Text>Terminamos por aqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1">
 			<Text>Boas-vindas.</Text>
@@ -155,7 +155,7 @@
 			<Text>A China deseja a paz com todos os seus vizinhos. Espero que não seja necessário repetir este assunto frustrante futuramente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Pensa que somos pessoas ignorantes do campo? Essa oferta é inaceitável. Melhore-a. </Text>
+			<Text>Acha que somos camponeses ignorantes? Essa oferta é inaceitável. Melhore-a.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é suficiente.</Text>
@@ -185,7 +185,7 @@
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY">
-			<Text>Sua arrogância só se compara à sua ignorância. Recusamos sua oferta ridícula.</Text>
+			<Text>Sua arrogância só se compara à sua ignorância. Recusamos sua oferta desprezível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY">
 			<Text>Temo não poder aceitar sua oferta neste momento.</Text>
@@ -206,31 +206,31 @@
 			<Text>Esta é a nossa oferta.  Pode aceitar ou recusar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY">
-			<Text>Esta oferta parece aceitável?</Text>
+			<Text>Em nome de nossa amizade, esta oferta lhe parece aceitável?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL">
 			<Text>Acredito que um comércio justo beneficia a todos. O que acha desta oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY">
-			<Text>Insensato! Quer extorquir tributos da China? Vá embora ou eu exporei suas entranhas!</Text>
+			<Text>Criatura insensata! Quer extorquir tributos da China? Vá embora ou eu estriparei você como um porco!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY">
 			<Text>Lamento por não podermos atender ao seu pedido neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL">
-			<Text>Eu me pergunto: será loucura ou estupidez? O que motivou essa exigência frágil?</Text>
+			<Text>Eu me pergunto: será loucura ou uma estupidez profunda e persistente que leva a fazer tal exigência?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY">
-			<Text>Muito bem. Mas nos vingaremos. Sugiro cautela daqui em diante.</Text>
+			<Text>Muito bem. Mas teremos nossa vingança. Sugiro que durma com um olho aberto daqui em diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY">
-			<Text>Certamente. A China tem o prazer de ajudar.</Text>
+			<Text>Certamente. A China tem prazer em ajudar seus amigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL">
 			<Text>Muito bem. Provavelmente será mais barato do que iniciar uma guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1">
-			<Text>Está em um jogo perigoso.</Text>
+			<Text>Está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2">
 			<Text>Muito bem. Da próxima vez não serei tão amigável!</Text>
@@ -242,7 +242,7 @@
 			<Text>Que decepcionante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5">
-			<Text>Verdade? Espero que não se arrependa de sua falta de visão.</Text>
+			<Text>É mesmo? Espero que não viva para lamentar sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6">
 			<Text>Que tolice.</Text>

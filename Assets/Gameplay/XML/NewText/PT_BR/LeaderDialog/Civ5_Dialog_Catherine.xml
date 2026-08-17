@@ -17,7 +17,7 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6">
-			<Text>Suponho que seja o correto.</Text>
+			<Text>Suponho que devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
@@ -26,7 +26,7 @@
 			<Text>Confundiu minha paixão por fraqueza.  Arrepender-se-á por isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2">
-			<Text>Subestimou-nos - A sagrada Rússia irá prevalecer!</Text>
+			<Text>Subestimou-nos — a Santa Rússia vai devorar você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3">
 			<Text>Que tolice. Você irá pagar.</Text>
@@ -50,16 +50,16 @@
 			<Text>Demonstrou ser mais inteligente do que eu pensei. Parabéns!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3">
-			<Text>Fomos derrotados. Isso me faz dependente de você. Há destino pior, eu acho.</Text>
+			<Text>Fomos derrotados. Isso me torna sua prisioneira. Há destinos piores, suponho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY">
 			<Text>Se quiser sobreviver, deveria dar o que queremos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY">
-			<Text>Em nossa amizade, poderia nos ceder o seguinte?</Text>
+			<Text>Em nome de nossa amizade, poderia nos ceder o seguinte?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Importar-se-ia em fazer um pequeno presente para garantir uma continuada relação pacífica entre nossas duas grandes nações?</Text>
+			<Text>Aceitaria fazer um pequeno presente para garantir que as relações entre nossas duas grandes nações continuem pacíficas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1">
 			<Text>Não.</Text>
@@ -80,16 +80,16 @@
 			<Text>Não pode ser!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7">
-			<Text>A sério?</Text>
+			<Text>Como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1">
-			<Text>É bom encontrar outra pessoa influente no mundo. Bajulações de súditos podem ser tão cansativas, não é mesmo?</Text>
+			<Text>É bom encontrar outra figura no cenário mundial. A bajulação dos próprios súditos pode ser tão cansativa, não acha?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2">
-			<Text>Boas-vindas! Sempre me divirto ao encontrar lideranças de nações menores!</Text>
+			<Text>Boas-vindas! Sempre me divirto conhecendo governantes de nações menores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3">
-			<Text>Olá! Se tiver inteligência e sensibilidade, nos daremos bem!</Text>
+			<Text>Olá! Se tiver tanta inteligência e bom senso quanto charme, vamos nos dar esplendidamente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1">
 			<Text>Bom dia.</Text>
@@ -158,7 +158,7 @@
 			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1">
-			<Text>Parabenizo seu sucesso. Fui superada por sua valentia.</Text>
+			<Text>Parabéns por seu sucesso. Fui realmente superada por sua habilidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2">
 			<Text>Agora vamos aproveitar os frutos da paz.</Text>
@@ -167,10 +167,10 @@
 			<Text>Agradeço por sua paciência. Não me achará ingrata.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_1">
-			<Text>O soberano é absoluto; pois não há nenhuma outra autoridade, exceto a que está no centro de sua única pessoa, que possa atuar com um vigor proporcional à extensão desse vasto domínio.</Text>
+			<Text>O soberano é absoluto, pois não existe outra autoridade além daquela concentrada em sua própria pessoa que possa agir com vigor proporcional à extensão de tão vasto domínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_2">
-			<Text>Eu vou ser uma ditadora, é meu trabalho, e o bom Deus que me perdoe, porque essa sou eu.</Text>
+			<Text>Serei uma autocrata; esse é o meu ofício. E que o bom Deus me perdoe; esse é o dele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_3">
 			<Text>Eu gosto de elogiar e recompensar abertamente, mas culpar sempre de forma discreta.</Text>
@@ -206,10 +206,10 @@
 			<Text>Quase!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY">
-			<Text>Meu marido faleceu, você sabe. A Rússia não é mais governada por uma pessoa tola. Recusamos.</Text>
+			<Text>Meu marido morreu, sabe. A Rússia já não é governada por um idiota. Recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY">
-			<Text>Quer se aproveitar de nossas boas relações? Comporte-se, ou terei que tomar medidas.</Text>
+			<Text>Quer se aproveitar de nossa intimidade? Comporte-se, ou ficarei muito zangada com você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL">
 			<Text>Meras palavras não podem descrever nosso desinteresse por essa oferta.</Text>
@@ -227,16 +227,16 @@
 			<Text>Estamos fazendo a você uma oferta. Você aceitará se souber o que é melhor para si.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY">
-			<Text>Posso tentar você com essa troca?</Text>
+			<Text>Esta troca seria tentadora para você?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
 			<Text>Tem interesse em uma troca?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
-			<Text>Que audácia! Como ousa? Eu deveria esquartejar e dar aos porcos!</Text>
+			<Text>Que audácia! Como ousa? Eu deveria esquartejar você e dar os pedaços aos porcos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
-			<Text>Que pessoa má. Sua sorte é que eu gosto de você.</Text>
+			<Text>Que travessura terrível. Sua sorte é que tenho tanta afeição por você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL">
 			<Text>Você não está em posição de nos exigir nada. Recusamos!</Text>
@@ -263,10 +263,10 @@
 			<Text>Quanta tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5">
-			<Text>Muito bem. Que seja em sua cabeça.</Text>
+			<Text>Muito bem. A responsabilidade será sua.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1">
-			<Text>Está feito. Demonstrou um péssimo comportamento. Espero que tenha aprendido com o erro de seus caminhos.</Text>
+			<Text>Está feito. Seu comportamento foi péssimo, sabe. Espero que tenha entendido onde errou.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

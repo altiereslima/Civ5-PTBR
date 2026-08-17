@@ -14,11 +14,11 @@
       <Text>Olá, combatente. Eu sou Boadiceia, líder do povo Celta. Talvez possamos construir uma aliança neste mundo turbulento.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_3">
-      <Text>Saudações, liderança estrangeira. Eu sou Boadiceia, Rainha dos Celtas, escolhida de Prasutagus. Em mim, vivem a vontade do meu povo e a alma de um Rei.</Text>
+      <Text>Saudações a quem lidera terras estrangeiras. Eu sou Boadiceia, Rainha dos Celtas, escolhida de Prasutagus. Em mim vivem a vontade do meu povo e a alma de um Rei.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_1">
-      <Text>Ah... vejo que há mais habilidades em você do que na média das lideranças. Eu cedo a você esta vitória.</Text>
+      <Text>Ah... vejo que você tem mais juízo que a maioria. Concedo-lhe esta vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_2">
       <Text>Tenha cuidado com ações ridículas, a menos que tenha se esquecido com quem está lidando.</Text>
@@ -39,16 +39,16 @@
       <Text>Você pode ter conquistado nossas terras e riquezas, mas meu povo é imponente. Nosso legado viverá e dificilmente será esquecido.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_2">
-      <Text>Liderança desprezível, saiba que você venceu esta guerra só nas aparências. Suas cidades estão enterradas e suas tropas derrotadas. Eu tive minha vitória particular.</Text>
+      <Text>Desprezível! Saiba que você venceu esta guerra apenas no nome. Suas cidades jazem soterradas e suas tropas, derrotadas. Eu tenho minha própria vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_3">
-      <Text>Sinto alguma satisfação em saber que foi sua pessoa a responsável por superar meu povo neste campo de batalha. Em outra situação, eu reconheceria sua capacidade como minha igual.</Text>
+      <Text>Sinto algum consolo por ter sido você quem venceu meu povo neste campo de batalha. Em outra ocasião, eu teria orgulho de considerar você à minha altura.</Text>
     </Row>
 
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_1">
-      <Text>Bom dia, equivalente!</Text>
+      <Text>Bom dia!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_2">
       <Text>Saudações.</Text>
@@ -66,7 +66,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Você descobrirá que a minha pessoa não é simplória. É preciso melhorar sua oferta.</Text>
+      <Text>Você verá que não sou nenhuma simplória. Melhore sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_2">
       <Text>Poderia melhorar um pouco?</Text>
@@ -190,7 +190,7 @@
     <!--Angry -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_5">
-      <Text>Ah, é sua pessoa.</Text>
+      <Text>Ah, é você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_6">
       <Text>O que você quer?</Text>
@@ -208,7 +208,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_1">
-      <Text>Nem mesmo a pessoa louca de Nero aceitaria esta oferta. Melhore-a ou suma daqui.</Text>
+      <Text>Nem mesmo o louco Nero aceitaria esta oferta. Melhore-a ou suma daqui.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_2">
       <Text>Isso não é suficiente.</Text>
@@ -265,7 +265,7 @@
       <Text>Você não maculará mais essa terra com sua pequenez! Às armas, compatriotas. À guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_1">
-      <Text>Pessoa traiçoeira! O povo Celta não tolerará um abuso atrevido e calunioso como este. Eu terei a sua cabeça!</Text>
+      <Text>Que traição desprezível! O povo celta não tolerará tamanha agressão e calúnia — terei sua cabeça!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_2">
       <Text>Como ousa?! Esqueceu-se do preço pago por Londinium? Suas ruas irão tremer com os gritos de guerra do meu povo.</Text>

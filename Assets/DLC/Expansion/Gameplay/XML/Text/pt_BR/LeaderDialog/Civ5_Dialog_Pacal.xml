@@ -7,23 +7,23 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_1">
-            <Text>Saudações, pessoa indomável. Sou conhecido como Pacal. Trazeis uma mensagem dos Deuses? Posso senti-los, seu hálito gelado em minha nuca.</Text>
+            <Text>Saudações, alma errante. Sou conhecido como Pacal. Você traz uma mensagem dos Deuses? Posso senti-los, o hálito gelado deles em minha nuca.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_2">
-            <Text>Satisfação em conhecê-la, pessoa estrangeira - pode me chamar de Pacal, o Grande. Não que isso importe... acredito que não nos falaremos mais.</Text>
+            <Text>Saudações, visitante — pode me chamar de Pacal, o Grande. Não que isso importe muito... não creio que voltaremos a conversar.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_3">
-            <Text>Que escuridão e desespero trazeis ao poderoso Pacal? Eu ofereceria um refresco, mas tenho um apocalipse para me preparar.</Text>
+            <Text>Que escuridão e desespero você traz ao poderoso Pacal? Eu ofereceria algo para beber, mas tenho um apocalipse a preparar.</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_1">
-            <Text>Trazeis destruição para si!</Text>
+            <Text>Você traz destruição para si!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_2">
             <Text>Que decepção...</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_3">
-            <Text>Enfureceste a Morte. Ela acordou!</Text>
+            <Text>Você enfureceu a Morte. Ela despertou!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_4">
             <Text>Espere. As corujas da Morte virão em seguida.</Text>
@@ -36,24 +36,24 @@
             <Text>Sim, sim! Os Deuses me favorecem! Eu governarei supremo, mesmo que seja apenas até o fim!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_WINWAR_2">
-            <Text>Veja, eu disse que isso era sem sentido. E agora toda essa escuridão sobre nós e tantos possíveis sacrifícios, desperdiçados.</Text>
+            <Text>Veja, eu disse que isso era inútil com o grande dilúvio prestes a nos atingir. Tantos possíveis sacrifícios, desperdiçados.</Text>
         </Row>
         <!--Submissive after losing a war -->
         <Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_1">
             <Text>Pegue o que quiser - não faz mais diferença agora. Não pode ver o que está no horizonte?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_2">
-            <Text>Ha ha! Pessoa tola e patética! Aproveite seus espólios enquanto pode - eles pesarão quando o chão se abrir sob seus pés.</Text>
+            <Text>Ha! Que tolice! Aproveite os espólios enquanto puder — eles pesarão quando o chão desmoronar sob seus pés.</Text>
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_1">
-            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Estás condenado a ver o mundo ser destruído, enquanto me salvaste deste destino.</Text>
+            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Você está condenado a ver o mundo se desfazer, enquanto me salva desse destino.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_2">
             <Text>Aproveite o seu insignificante reino enquanto pode... nada mais importa. Eu não importo... você não importa... As corujas! Eu posso ouvir as corujas!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_3">
-            <Text>Quando os céus tiverem sido levados pela enchente, você também será levado pelas correntes. Fizeste-me um grande favor, não terei mais que testemunhar isso.</Text>
+            <Text>Quando os céus forem inundados, você também será arrastado pelas correntes. Fez-me um grande favor; não precisarei mais testemunhar isto.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_4">
             <Text>Pode ter me derrotado, mas não pode parar o que já está em movimento. Nossos destinos estão prescritos em rocha - somente as lágrimas dos deuses podem remover seus entalhes.</Text>
@@ -100,11 +100,11 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
-            <Text>Que coisa ridícula é esta? Não tens sacrifícios a fazer? Seria um melhor uso do seu tempo.</Text>
+            <Text>Que absurdo é esse? Você não tem sacrifícios a fazer? Seria um uso melhor do seu tempo.</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
-            <Text>Que a ira dos deuses desça sobre ti, caso não atendas à minha proposta.</Text>
+            <Text>Que a ira dos Deuses recaia sobre você, caso não aceite minha oferta.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
@@ -135,14 +135,14 @@
         <!--Happy -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_3">
-            <Text>Vais passar o apocalipse comigo?</Text>
+            <Text>Vai passar o apocalipse comigo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_GREETING_4">
             <Text>Olá novamente.</Text>
         </Row>
         <!--Goodbye -->
         <Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_3">
-            <Text>Até breve, talvez nunca.</Text>
+            <Text>Adeus... talvez para sempre.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_4">
             <Text>Adeus.</Text>
@@ -171,7 +171,7 @@
         </Row>
         <!--Demand for tribute from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_HAPPY">
-            <Text>Por que queres roubar de Pacal? Não tens nada melhor para fazer com o seu tempo antes do mundo se esfarelar em pó?</Text>
+            <Text>Por que deseja roubar Pacal? Não tem nada melhor para fazer com seu tempo antes que o mundo se desfaça em pó?</Text>
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_HAPPY">
@@ -230,11 +230,11 @@
             <Text>Precisa fazer melhor que isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
-            <Text>Quase, pessoa do campo...</Text>
+            <Text>Quase... mas ainda é uma oferta de camponês.</Text>
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_ANGRY">
-            <Text>Que a ira dos meus ancestrais caia sobre ti! Enfureceste os deuses com sua imprudência. Saia!</Text>
+            <Text>Que o flagelo dos ancestrais recaia sobre você! Você enfureceu os Deuses com sua imprudência. Saia!</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_YES_ANGRY">
@@ -264,7 +264,7 @@
             <Text>Isso é inaceitável.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_7">
-            <Text>Não podes estar falando sério!</Text>
+            <Text>Você não pode estar falando sério!</Text>
         </Row>
         <!--Let's hear it -->
         <Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_5">
@@ -272,7 +272,7 @@
         </Row>
 
         <Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_1">
-            <Text>Somente um poderá viver para ver o fim do ciclo da Contagem Longa, e não será um, uma descrente estúpida como você! Prepare-se para a destruição.</Text>
+            <Text>Somente um poderá viver para ver o fim do ciclo da Contagem Longa, e certamente não será alguém sem fé e sem juízo como você! Prepare-se para a destruição.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_2">
             <Text>Uma esperança, uma esperança resta. Se eu derrotar você, talvez eu possa renovar a fé dos Deuses nos homens e parar a grande inundação da ruína.</Text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <!-- Sid Meier's Civilization V -->
 <!-- Copyright Firaxis Games 2010 -->
@@ -25,7 +25,7 @@
 			<Text>Mostre o Colono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
-			<Text>Considere enviar seu [COLOR_UNIT_TEXT]Guerreiro[/COLOR] para [COLOR_ADVISOR_HIGHLIGHT_TEXT]explorar novos territórios[/COLOR]. Quando uma unidade é selecionada, clique com o botão direito do mouse para poder movimentá-la.</Text>
+			<Text>Considere enviar seu [COLOR_UNIT_TEXT]Guerreiro[/COLOR] para [COLOR_ADVISOR_HIGHLIGHT_TEXT]explorar novos territórios[/COLOR]. Com uma unidade selecionada, clique com o botão direito em um hexágono para fazê-la se mover até lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
 			<Text>Explore o mundo</Text>
@@ -52,7 +52,7 @@
 			<Text>Mostre a ruína</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
-			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está. Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
+			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está. Em combate, tanto a unidade atacante quanto a defensora podem sofrer dano, e uma delas pode ser destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
 			<Text>Combate corpo a corpo</Text>
@@ -61,10 +61,10 @@
 			<Text>Mostre a unidade de combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
-			<Text>Nós não temos unidades militares defendendo nosso território. É indispensável ter uma ou mais unidades militares em nosso território para nos defender de ataques bárbaros e desencorajar outras civilizações de tentar ataques furtivos.</Text>
+			<Text>Nós não temos unidades militares defendendo nosso território. É útil ter uma ou mais unidades militares em nosso território para repelir bárbaros errantes e desencorajar outras civilizações de tentar ataques furtivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
-			<Text>Unidades militares para defesa</Text>
+			<Text>Precisamos de defesa militar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
 			<Text>As terras próximas a sua cidade podem ser mais produtivas. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Produza um Trabalhador[/COLOR] para melhorar seu território.</Text>
@@ -73,7 +73,7 @@
 			<Text>Produza um Trabalhador!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
-			<Text>Agora que você tem um Trabalhador, você pode ordenar que ele faça melhorias para impulsionar a produtividade de nosso território. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Trabalhador para um hexágono em destaque e construa uma melhoria.[/COLOR]</Text>
+			<Text>Agora que temos um Trabalhador, podemos ordenar que ele construa melhorias para aumentar a produtividade do nosso território. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Mova seu Trabalhador para um hexágono em destaque e construa uma melhoria.[/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
 			<Text>Trabalhadores</Text>
@@ -82,7 +82,7 @@
 			<Text>Mostre o Trabalhador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
-			<Text>Os [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] são indefesos, então tenha extrema atenção quando movê-los para fora de nossas fronteiras. Como temos apenas uma cidade no momento, devemos[COLOR_ADVISOR_HIGHLIGHT_TEXT] manter nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] dentro do nosso território[/COLOR].</Text>
+			<Text>Os [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] são indefesos, então tenha extrema cautela ao movê-los para fora de nossas fronteiras. Como temos apenas uma cidade no momento, devemos [COLOR_ADVISOR_HIGHLIGHT_TEXT]manter nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] dentro do nosso território[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
 			<Text>Mantenha seus Trabalhadores seguros!</Text>
@@ -91,10 +91,10 @@
 			<Text>Mostre o Trabalhador</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
-			<Text>Nós temos um Trabalhador, mas ele não está melhorando os hexágonos. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa uma melhoria[/COLOR] em um hexágono próximo de suas cidades para obter um benefício econômico.</Text>
+			<Text>Nós temos um Trabalhador, mas ainda não melhoramos nenhum hexágono. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que seu Trabalhador construa uma melhoria[/COLOR] em um hexágono próximo de uma de suas cidades para obter um benefício econômico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
-			<Text>Trabalhadores precisam trabalhar</Text>
+			<Text>Trabalhador precisa trabalhar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
 			<Text>Mostre o Trabalhador</Text>
@@ -106,7 +106,7 @@
 			<Text>Pare de produzir Trabalhadores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
-			<Text>Temos uma unidade que está perto de ser destruída. Unidades feridas são muito menos eficazes no combate e são facilmente mortas, por isso considere movê-la para um local seguro e ordene-a que [COLOR_ADVISOR_HIGHLIGHT_TEXT]se fortifique até que esteja curada[/COLOR].</Text>
+			<Text>Temos uma unidade que está perto de ser destruída. Unidades feridas são muito menos eficazes no combate e são facilmente eliminadas, por isso considere movê-la para um local seguro e ordene que ela [COLOR_ADVISOR_HIGHLIGHT_TEXT]se fortifique até se curar[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
 			<Text>Cure sua unidade!</Text>
@@ -118,7 +118,7 @@
 			<Text>Este é um mundo perigoso e estamos vulneráveis a ataques. Recomendo que [COLOR_ADVISOR_HIGHLIGHT_TEXT]construa unidades militares adicionais[/COLOR] para explorar e defender sua civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
-			<Text>É preciso mais militares</Text>
+			<Text>Precisamos de mais tropas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
 			<Text>Seu povo não está mais feliz. Uma população [ICON_HAPPINESS_4] infeliz não irá crescer tão rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhorias em recursos[/COLOR].</Text>
@@ -130,13 +130,13 @@
 			<Text>Mostre o recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
-			<Text>Seu povo está muito [ICON_HAPPINESS_4] infeliz. Nossas cidades têm drasticamente reduzido a [ICON_PRODUCTION] Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edificações que produzam felicidade, melhorias e negociando recursos com outros líderes.</Text>
+			<Text>Seu povo está muito [ICON_HAPPINESS_4] infeliz. A [ICON_PRODUCTION] Produção de nossas cidades foi drasticamente reduzida e nossas unidades não lutarão tão bem. Deixe seu povo mais feliz construindo edificações que gerem Felicidade, construindo melhorias sobre recursos e negociando recursos com outros líderes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
-			<Text>Seu povo está irritado!</Text>
+			<Text>Seu povo está furioso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
-			<Text>Nossa capital tem crescido e se tornou uma cidade movimentada! Pode ser a hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT]treinar um Colono[/COLOR] para fundar outras cidades.</Text>
+			<Text>Nossa capital cresceu e se tornou uma cidade movimentada! Pode ser hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT]treinar um Colono[/COLOR] para fundar outra cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
 			<Text>Nova cidade?</Text>
@@ -187,7 +187,7 @@
 			<Text>Mostre a cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
-			<Text>Nossa capital acabou de construir algo. Cidades podem construir unidades, edificações e maravilhas do mundo, mas somente um tipo de cada vez.</Text>
+			<Text>Nossa capital acabou de construir uma unidade. Cidades podem construir unidades, edificações e Maravilhas do Mundo, mas apenas um item por vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
 			<Text>Construção concluída</Text>
@@ -199,13 +199,13 @@
 			<Text>Uma unidade por hexágono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
-			<Text>Ter várias unidades militares retardará a [ICON_PRODUCTION] Produção de nossas cidades. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Pare a construção de novas unidades militares[/COLOR] até nossa infraestrutura melhorar.</Text>
+			<Text>Temos tantas unidades militares que isso está reduzindo a [ICON_PRODUCTION] Produção de nossas cidades. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Pare de treinar novas unidades militares[/COLOR] até que nossa infraestrutura possa sustentar mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
 			<Text>Manutenção militar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
-			<Text>Agora você conta com uma unidade de combate a distância. Estas unidades podem atacar os inimigos a mais de um hexágono de distância, mas são facilmente destruídas quando atacadas por unidades combatentes. Mantenha essas unidades seguras atrás de sua linha de frente e elas lhe servirão bem.</Text>
+			<Text>Agora você conta com uma unidade de combate a distância. Essas unidades podem atacar inimigos a mais de um hexágono de distância, mas são facilmente destruídas quando atacadas por unidades corpo a corpo. Mantenha-as seguras atrás de sua linha de frente e elas lhe servirão bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
 			<Text>Unidades de combate a distância</Text>
@@ -214,16 +214,16 @@
 			<Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
-			<Text>Você pode atualizar suas unidades obsoletas, transformando-as em unidades mais poderosas, gastando seu [ICON_GOLD] Ouro. Para atualizar uma unidade, mova-a para dentro de seu território e o botão de atualização de unidade aparecerá. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Clique no botão Atualizar[/COLOR] para melhorar sua unidade obsoleta.</Text>
+			<Text>Você pode aprimorar unidades obsoletas, transformando-as em unidades mais poderosas ao gastar [ICON_GOLD] Ouro. Para aprimorar uma unidade, mova-a para dentro do seu território; então, o botão de aprimoramento aparecerá. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Clique no botão Aprimorar[/COLOR] para modernizar sua unidade obsoleta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
-			<Text>Atualizando unidades</Text>
+			<Text>Aprimorando Unidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
-			<Text>Mostre a unidade obsoleta</Text>
+			<Text>Localizar Unidade Aprimorável</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
-			<Text>Graças a sua pesquisa, todas as suas futuras unidades militares possuirão a funcionalidade "Embarcar" e assim poderão se mover sobre a água. Para uma unidade terrestre embarcar, simplesmente ordene que ela se mova sobre um hexágono aquático. Unidades embarcadas são indefesas, então recomendo escoltá-las com embarcações militares.</Text>
+			<Text>Graças à sua pesquisa, todas as suas futuras unidades militares possuirão a promoção "Embarcar" e poderão se mover sobre a água. Para embarcar uma unidade terrestre, basta ordená-la a se mover para um hexágono aquático. Unidades embarcadas são indefesas, então considere escoltá-las com embarcações militares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
 			<Text>Embarcando unidades</Text>
@@ -232,7 +232,7 @@
 			<Text>Mostre a unidade a embarcar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
-			<Text>A unidade inimiga perto de você está fortificada. Isso significa que ela tem um bônus especial de defesa (indicado por símbolo de um escudo). Unidades fortificadas são extremamente difíceis para derrotar em um ataque individual, recomendo então atacá-las com várias unidades no mesmo turno.</Text>
+			<Text>A unidade inimiga perto de você está fortificada. Isso significa que ela possui um bônus especial de defesa (indicado pelo símbolo de um escudo). Unidades fortificadas são extremamente difíceis de derrotar em combate um contra um, então considere atacá-las com várias unidades no mesmo turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
 			<Text>Unidades fortificadas</Text>
@@ -241,7 +241,7 @@
 			<Text>Mostre a unidade de combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
-			<Text>Cidades podem ser difíceis para se capturar. Além da sua forte defesa, elas também atacam, danificam e destroem as suas unidades. Ataque-as com várias unidades fortes no mesmo turno para capturá-la.</Text>
+			<Text>Cidades podem ser difíceis de capturar. Além de terem defesas fortes, elas revidam e podem danificar ou destruir suas unidades atacantes. Ataque com várias unidades fortes no mesmo turno para capturar cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
 			<Text>Sitiando cidades</Text>
@@ -250,13 +250,13 @@
 			<Text>Mostre a unidade de combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
-			<Text>Nosso tesouro cresceu muito e temos dinheiro para gastar. Você pode usar seu dinheiro para comprar hexágonos e expandir seu território, comprar influência com as Cidades-Estado, atualizar suas unidades ou subornar outras civilizações.</Text>
+			<Text>Nosso tesouro cresceu e temos dinheiro para gastar. Você pode usá-lo para comprar hexágonos e expandir seu território, comprar influência sobre Cidades-Estado, aprimorar suas unidades ou subornar outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
 			<Text>Gaste um pouco de ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
-			<Text>Cidades podem bombardear inimigos próximos, danificá-los ou matá-los. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene sua cidade que bombardeie as tropas inimigas![/COLOR]</Text>
+			<Text>Cidades podem bombardear inimigos próximos, danificá-los ou matá-los. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Ordene que sua cidade bombardeie as tropas inimigas![/COLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
 			<Text>Ataque com a cidade</Text>
@@ -325,7 +325,7 @@
 			<Text>Cruzar rios reduz o movimento das unidades. Cruzar um rio geralmente consome todos os pontos de movimento da unidade. Além disso, é muito difícil lutar bem ao atacar através de um rio, portanto posicione suas unidades com cuidado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
-			<Text>Movimento: atravessando Rios</Text>
+			<Text>Movimento: Cruzando rios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
 			<Text>Mostre o rio</Text>
@@ -340,25 +340,25 @@
 			<Text>Mostre a unidade naval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
-			<Text>Barcos de Serviço permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os Barcos de Serviço serão convertidos definitivamente.</Text>
+			<Text>Barcos de Trabalho permitem melhorar recursos de Peixes e Baleias ao longo da sua costa. Depois de melhorar esses locais, os Barcos de Trabalho serão consumidos permanentemente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
-			<Text>Barcos de Serviço</Text>
+			<Text>Barcos de Trabalho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
-			<Text>Mostre o Barco de Serviço</Text>
+			<Text>Mostrar Barco de Trabalho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
-			<Text>Unidades de cerco são excelentes para abater cidades em outros territórios, mas são indefesas se forem atacadas por outras unidades, por isso sempre as defenda!</Text>
+			<Text>Unidades de cerco são excelentes para destruir cidades à distância, mas são indefesas se atacadas por outras unidades, então sempre as proteja!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
-			<Text>Unidade de Cerco</Text>
+			<Text>Unidades de Cerco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
 			<Text>Mostre a unidade de cerco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
-			<Text>Maravilhas Naturais são encontradas ao redor do mundo. Descobri-las faz sua Civilização feliz. Se você construir uma cidade próxima a elas, terá um benefício significativo. Explore o mundo para encontrar mais!</Text>
+			<Text>Maravilhas Naturais estão escondidas pelo mundo. Descobri-las aumenta a Felicidade da sua Civilização. Se você construir uma cidade adjacente a elas, receberá um benefício significativo. Explore o mundo para encontrar mais!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
 			<Text>Maravilhas Naturais</Text>
@@ -376,10 +376,10 @@
 			<Text>Mostre o invasor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
-			<Text>Acampamentos bárbaros são vilas que devem ser erradicadas o mais rápido possível! Acampamentos bárbaros geram mais bárbaros e quanto mais cedo destruí-los, menos problemas você terá.</Text>
+			<Text>Acampamentos bárbaros são lugares vis que devem ser erradicados o mais rápido possível! Eles geram mais bárbaros, e quanto antes você os destruir, menos problemas causarão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
-			<Text>Acampamentos bárbaros</Text>
+			<Text>Acampamento bárbaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
 			<Text>Mostre o acampamento bárbaro</Text>
@@ -397,7 +397,7 @@
 			<Text>Negocie seus luxos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
-			<Text>Se desejar se comunicar com uma civilização ou uma cidade-estado novamente, você pode clicar no banner da cidade como um atalho para falar com eles.</Text>
+			<Text>Se desejar se comunicar novamente com uma civilização ou Cidade-Estado, você pode clicar no banner de uma cidade dela como atalho para entrar em contato.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
 			<Text>Contatar uma Civilização ou Cidade-Estado</Text>
@@ -406,31 +406,31 @@
 			<Text>Mostre a cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
-			<Text>Clique no Painel de Diplomacia para ler mais sobre relacionamentos com nossos vizinhos. Ele nos fornece todas as informações essenciais sobre nossos acordos diplomáticos e tratados.</Text>
+			<Text>Clique no Painel de Diplomacia para saber mais sobre nossas relações com nossos vizinhos. Ele fornece todas as informações essenciais sobre nossos acordos diplomáticos e tratados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
 			<Text>Painel de Diplomacia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
-			<Text>Todas as suas unidades já receberam suas ordens e não há mais nada que você possa fazer neste turno. Clique no botão "Próximo Turno".</Text>
+			<Text>Todas as suas unidades já receberam ordens e não há mais nada que você possa fazer neste turno. Pressione o botão "Próximo Turno" para avançar para o turno seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
 			<Text>Clique no botão Próximo Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
-			<Text>Esta foi uma boa decisão! Este ataque vai causar muito dano ao seu oponente, sem sofrer muitos danos em suas unidades.</Text>
+			<Text>Esta é uma jogada inteligente! Este ataque causará muito dano ao seu oponente sem que suas unidades sofram muito dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
 			<Text>Ataque inteligente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
-			<Text>Talvez seja uma boa ideia reconsiderar este ataque; você vai causar danos mínimos ao seu oponente e eles vão causar estragos consideráveis a você.</Text>
+			<Text>Talvez seja melhor reconsiderar este ataque; você causará pouco dano ao adversário e sofrerá dano considerável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
 			<Text>Este ataque pode não terminar bem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
-			<Text>Este ataque vai danificar ambos os lados igualmente. Esta é uma boa hora para continuar com este ataque, se tiver várias unidades próximas para usá-las antes que eles façam o mesmo com você!</Text>
+			<Text>Este ataque causará dano semelhante aos dois lados. É uma boa ideia prosseguir se você tiver várias unidades próximas para desgastar o inimigo antes que ele possa fazer o mesmo com você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
 			<Text>Batalha equilibrada</Text>
@@ -445,10 +445,10 @@
 			<Text>Esta batalha não deu certo para nós. Talvez com um pouco mais de planejamento possamos recuperar a nossa glória no campo de batalha. Certifique-se de usar a previsão de combate antes de atacar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
-			<Text>Não foi a nossa hora</Text>
+			<Text>Não foi nosso melhor momento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
-			<Text>Essa batalha foi um desperdício. Não ganhamos vantagens nem ferimos gravemente o nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
+			<Text>Essa batalha não teve resultado decisivo. Não obtivemos vantagem nem ferimos gravemente nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
 			<Text>Batalha equilibrada</Text>
@@ -469,7 +469,7 @@
 			<Text>Mostre a cidade ocupada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos está gerando uma grande quantidade de [ICON_HAPPINESS_4] Infelicidade. Construir um Tribunal naquela cidade irá cortar o seu descontentamento, mas nos falta uma tecnologia para fazê-lo. Pesquise Matemática, para que possamos construir o Tribunal e torná-los, assim, membros felizes da nossa civilização.</Text>
+			<Text>A cidade que recentemente ocupamos está gerando uma grande quantidade de [ICON_HAPPINESS_4] Infelicidade. Construir um Tribunal naquela cidade reduzirá o descontentamento, mas ainda não pesquisamos a tecnologia necessária. Pesquise Matemática para que possamos construir o Tribunal e tornar seus cidadãos membros felizes da nossa civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada está infeliz</Text>
@@ -478,16 +478,16 @@
 			<Text>Mostre a cidade ocupada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
-			<Text>Conseguimos [ICON_INFLUENCE] influência suficiente com uma Cidade-Estado para sermos amigos! Para ver o bônus que recebemos de presente, clique na Cidade-Estado. Nossa [ICON_INFLUENCE] influência diminuirá com o passar do tempo, então continue ajudando a Cidade-Estado ou dê presentes com o seu [ICON_GOLD] Ouro para mantermos o nível de amizade.</Text>
+			<Text>Conseguimos [ICON_INFLUENCE] Influência suficiente sobre uma Cidade-Estado para nos tornarmos amigos! Para ver quais bônus recebemos por isso, clique na Cidade-Estado. Nossa [ICON_INFLUENCE] Influência diminuirá lentamente com o tempo, então continue ajudando-a ou ofereça presentes de [ICON_GOLD] Ouro para manter nosso nível de amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
-			<Text>Fazendo uma amizade!</Text>
+			<Text>Conseguimos um amigo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
 			<Text>Mostre a Cidade-Estado amiga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
-			<Text>Nossa unidade está dentro da zona de controle de um inimigo. Isso significa que quando você passar por um hexágono próximo de uma unidade inimiga ou de uma cidade do mesmo inimigo, todos os movimentos da unidade neste turno serão consumidos.</Text>
+			<Text>Nossa unidade está dentro da Zona de Controle de um inimigo. Isso significa que, ao se mover de um hexágono adjacente a uma unidade ou cidade inimiga para outro hexágono adjacente ao mesmo inimigo, todo o Movimento restante da unidade naquele turno será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
 		  <Text>Zona de controle</Text>
@@ -496,7 +496,7 @@
 		  <Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
-		  <Text>Parabéns! Uma Grande Personalidade nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era de Ouro, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
+		  <Text>Parabéns, uma Grande Personalidade surgiu em sua civilização! Esses indivíduos brilhantes podem fazer várias coisas por você: iniciar uma Era de Ouro, construir no mapa uma melhoria de hexágono exclusiva ou usar seu poder especial com grande efeito!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
 		  <Text>Grandes Personalidades</Text>
@@ -511,7 +511,7 @@
 			<Text>Como conseguir a vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
-			<Text>Graças as suas vitórias militares, um grande General apareceu! Grandes Generais podem se juntar as unidades militares e dar um enorme benefício às que estiverem próximas!</Text>
+			<Text>Graças às suas vitórias militares, um Grande General surgiu! Grandes Generais podem ocupar o mesmo hexágono que unidades militares e concedem um enorme benefício às unidades próximas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
 			<Text>Grande General</Text>
@@ -520,13 +520,13 @@
 			<Text>Mostre o Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
-			<Text>As cidades são alvos formidáveis que muitas vezes requerem 4 ou mais unidades para capturá-las. Quando você atacá-las, elas irão danificar suas unidades atacantes. As cidades também possuem uma arma de ataque de bombardeio que será usada contra qualquer sitiante. Tem certeza de que deseja continuar o ataque?</Text>
+			<Text>As cidades são alvos formidáveis que muitas vezes exigem 4 ou mais unidades para serem capturadas. Quando você as ataca em combate corpo a corpo, elas causam dano à sua unidade atacante. Elas também possuem um ataque de bombardeio a distância que será usado contra os sitiantes. Tem certeza de que deseja prosseguir com o ataque?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
 			<Text>Atacando cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
-			<Text>Para treinar [COLOR_UNIT_TEXT]Colonos[/COLOR] a [ICON_CITIZEN] população deve ser de pelo menos 2 cidadãos. Então, para acelerar sua jornada daremos a sua primeira cidade um [ICON_CITIZEN] Cidadão extra. Não se acostume com isso; cidades fundadas de agora em diante vão começar com apenas 1 de [ICON_CITIZEN] população.</Text>
+			<Text>Colonos exigem 2 de [ICON_CITIZEN] população para serem treinados, então, para acelerar seu progresso, demos à sua primeira cidade 1 [ICON_CITIZEN] Cidadão extra. Não se acostume: as cidades fundadas daqui em diante começarão com apenas 1 de [ICON_CITIZEN] população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
 			<Text>População extra</Text>
@@ -541,13 +541,13 @@
 			<Text>Tela da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
-			<Text>Em 'Escolher Produção', uma unidade, maravilha ou edificação é selecionada para ser produzida na cidade. Uma cidade pode produzir apenas um item de cada vez. Toda vez que a sua cidade concluir uma produção, você deverá escolher algo novo para produzir.</Text>
+			<Text>Em "Escolher Produção", seleciona-se uma unidade, edificação ou maravilha para ser produzida em uma cidade. Uma cidade só pode produzir um item de cada vez. Sempre que sua cidade concluir a produção de algo, você deverá escolher um novo item para produzir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
 			<Text>Escolher Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
-			<Text>Em "Escolha uma Tecnologia" você pode selecionar uma tecnologia para sua civilização pesquisar. Quando uma tecnologia for descoberta, você será questionado sobre o que deseja pesquisar em seguida.</Text>
+			<Text>Em "Escolha uma Tecnologia", você pode selecionar uma tecnologia para sua civilização pesquisar. Quando uma tecnologia for descoberta, você deverá selecionar uma nova tecnologia para pesquisar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
 			<Text>Escolha uma Tecnologia</Text>
@@ -565,31 +565,31 @@
 			<Text>Lista de Unidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
-			<Text>A Visão Militar fornece um olhar detalhado de todas as unidades de sua civilização, bem como a quantidade de suprimentos que suas unidades estão consumindo e o progresso para gerar um Grande General.</Text>
+			<Text>A Visão Militar fornece informações detalhadas sobre todas as unidades da sua civilização, além de mostrar quanto suprimento elas estão consumindo e o progresso para obter um Grande General.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
 			<Text>Visão Militar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
-			<Text>A Lista de Cidades apresenta todas as cidades da sua civilização. Você pode usar esta lista para obter uma visão rápida do que sua civilização está fazendo atualmente e facilmente alterar a produção se você for para a guerra.</Text>
+			<Text>A Lista de Cidades apresenta todas as cidades da sua civilização. Você pode usá-la para obter uma visão rápida do que sua civilização está fazendo e alterar facilmente a produção caso entre em guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
 			<Text>Lista de Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
-			<Text>A Visão Econômica fornece um olhar detalhado de todas as cidades. Você também pode analisar sua produção de [ICON_GOLD] Ouro e em quê você o está gastando.</Text>
+			<Text>A Visão Econômica apresenta informações detalhadas sobre todas as suas cidades. Nela, você também pode analisar sua receita de [ICON_GOLD] Ouro e descobrir em que está gastando [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
 			<Text>Visão Econômica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
-			<Text>A Lista de Diplomacia mostra todas as Civilizações e Cidades-Estado que você já teve contato e ver seus pontos. Clicando em uma das entradas você entrará em contato com elas.</Text>
+			<Text>A Lista de Diplomacia mostra todas as Civilizações e Cidades-Estado com as quais você já entrou em contato e suas pontuações. Clicar em uma entrada colocará você em contato com elas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
 			<Text>Lista de Diplomacia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
-			<Text>A Visão de Diplomacia é a sua porta de entrada para todas as informações diplomáticas. Você poderá ver o status diplomático entre as civilizações, olhar os acordos comerciais existentes e quais recursos estão disponíveis para negociar com outras civilizações.</Text>
+			<Text>A Visão de Diplomacia é a sua porta de entrada para todas as informações diplomáticas. Você pode ver o status diplomático entre as civilizações, consultar os acordos comerciais existentes e verificar quais recursos estão disponíveis para negociar com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
 			<Text>Visão Diplomática</Text>
@@ -601,7 +601,7 @@
 			<Text>Negociações Diplomáticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
-			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE] cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
+			<Text>A tela de Políticas Sociais permite escolher as Políticas Sociais que moldarão sua civilização. Você gasta a [ICON_CULTURE] Cultura acumulada para desbloquear Políticas Sociais. Alguns ramos só podem ser selecionados após alcançar determinada era tecnológica. Além disso, alguns ramos são mutuamente exclusivos. Passe o mouse sobre eles para identificar quais não podem ser usados ao mesmo tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
 			<Text>Políticas Sociais</Text>
@@ -610,10 +610,10 @@
 			<Text>Tutorial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL0_TITLE_ONLY">
-			<Text>Aprenda como jogar</Text>
+			<Text>Aprenda enquanto joga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL0_DESC">
-			<Text>Novo no Civilization? Não sabe por onde começar? Com medo de que os infames bárbaros destruam a sua recém-criada civilização? Deixe seus assessores guiarem você pelos conceitos básicos e as diferentes fases do jogo! Este belo tutorial mostra os aspectos básicos mais importantes do jogo, incluindo uma leitura rápida de todas as seções listadas abaixo. </Text>
+			<Text>Novo no Civilization? Não sabe por onde começar? Com medo de que os terríveis Bárbaros dominem sua jovem civilização antes mesmo de você começar? Deixe seus Assessores guiarem você pelos conceitos e estágios básicos do jogo enquanto você joga! Este tutorial abrangente cobrirá todos os aspectos básicos importantes do jogo, incluindo uma passagem por todas as seções listadas abaixo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL1_TITLE">
 			<Text>Movimento e Exploração</Text>
@@ -625,7 +625,7 @@
 			<Text>Movimento e Exploração</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL1_DESC">
-			<Text>A exploração é o ato de pesquisar ou viajar pelos terrenos (incluindo o espaço) com o objetivo de descobrir os recursos ou informações. Na história humana, a exploração do mundo físico teve seu auge durante a Era dos Descobrimentos (séculos XVI e XVII), estimulada pela necessidade da Europa de se comunicar com o resto do mundo. Na era mais moderna, a busca de mais conhecimentos científicos avançados e de informações continua levando a exploração mais além.</Text>
+			<Text>Exploração é o ato de pesquisar ou percorrer um terreno (incluindo o espaço) com o objetivo de descobrir recursos ou informações. Na história humana, a exploração do mundo físico atingiu seu auge durante a Era dos Descobrimentos, impulsionada pela busca europeia de contato com o restante do mundo. Na era moderna, a busca por conceitos científicos e informações mais avançados continua a impulsionar a exploração.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL2_TITLE">
 			<Text>Fundando Cidades</Text>
@@ -637,7 +637,7 @@
 			<Text>Fundar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL2_DESC">
-			<Text>O coração de uma civilização são suas cidades e o povo que vive nelas. Criar novas cidades para expandir sua influência, riqueza e o poder de seu império são requisitos básicos que você precisa saber. Nem todos os lugares são apropriados para fundar cidades e uma cidade mal estabelecida pode se tornar drasticamente lenta em sua expansão.</Text>
+			<Text>O coração de toda civilização está em suas cidades e nas pessoas que vivem nelas. Criar novas cidades para expandir a influência, a riqueza e o poder do seu Império é um conceito fundamental. Nem todo local é adequado para uma nova cidade, e uma cidade mal posicionada pode desacelerar drasticamente sua expansão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL3_TITLE">
 			<Text>Melhorando Cidades</Text>
@@ -649,7 +649,7 @@
 			<Text>Melhorando Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL3_DESC">
-			<Text>Cidades devem se expandir e crescer para se tornarem membros produtivos de uma civilização e melhorá-las com [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] pode ajudar a aumentar sua influência. Isto não serve somente para mantê-las a altura do resto do mundo, mas também aumentar o quanto elas recolhem de suas terras. Durante a história, as cidades que deixaram de crescer e não ficaram à altura das nações que as rodeavam ficaram atrasadas, tornando-se alvos fáceis para os conquistadores.</Text>
+			<Text>As cidades precisam se expandir e crescer para serem membros produtivos de uma civilização, e melhorá-las com [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] pode ajudar a ampliar sua influência. Melhorar suas cidades não só as ajuda a acompanhar o restante do mundo, como também aumenta o rendimento das terras que trabalham. Ao longo da história, cidades que não crescem nem se desenvolvem junto às nações ao redor rapidamente ficam para trás e se tornam alvos fáceis de conquista.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL4_TITLE">
 			<Text>Combate e Conquista</Text>
@@ -661,7 +661,7 @@
 			<Text>Combate e Conquista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL4_DESC">
-			<Text>Pode chegar um momento em que alguém queira o que é seu e não queira pedir por eles. O combate, a guerra e as conquistas enchem as páginas da história da humanidade. As civilizações que não forem capazes de se defender de seus inimigos não viverão para contar a história. Mesmo que não fique na ofensiva, compreender o combate e como fazer a guerra pode salvar sua civilização do desastre.</Text>
+			<Text>Pode chegar um momento em que alguém queira o que é seu e não queira conversar sobre isso. Combates, guerras e conquistas permeiam as páginas da história humana, e civilizações incapazes de se defender de seus inimigos raramente vivem para contar a história. Mesmo que você nunca parta para a ofensiva, compreender o combate e como travar uma guerra eficaz pode salvar sua civilização do desastre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL5_TITLE">
 			<Text>Diplomacia Básica</Text>
@@ -673,7 +673,7 @@
 			<Text>Diplomacia Básica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL5_DESC">
-			<Text>Diplomacia, intercâmbio comercial, alianças ou acordos são maneiras mais educadas de tratar com seus vizinhos. Uma boa habilidade diplomática muitas vezes pode salvá-lo de uma guerra longa e custosa. Alguns dos líderes mais eficazes da história eram também mestres na arte da Diplomacia. Um comentário no momento apropriado pode ser mais poderoso e mortal que todas as espadas do mundo.</Text>
+			<Text>Diplomacia, comércio, alianças e acordos são maneiras mais educadas de lidar com seus vizinhos, e habilidades diplomáticas eficazes muitas vezes podem salvar você de uma guerra longa e cara. Alguns dos líderes mais eficazes da história foram mestres da arte da Diplomacia; uma observação bem colocada muitas vezes pode ser mais poderosa e mortal do que qualquer número de espadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
 			<Text>Sou seu Assessor Científico. Nesta lição, ensinarei a mover as unidades pelo mapa. No caminho, você descobrirá ruínas antigas, maravilhas naturais e novos continentes!</Text>
@@ -682,25 +682,25 @@
 			<Text>Movimento e Exploração</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
-			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como as cidades funcionam, como fundar uma cidade e quais são os melhores lugares para fundá-las.</Text>
+			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como as cidades funcionam, como fundar novas cidades e quais são os melhores lugares para fundá-las.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
 			<Text>Criar Colonos e Fundar Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
-			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para melhorar suas cidades. Com seu comando, seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construirão rotas para coletar [ICON_GOLD] Ouro, melhorias para ajudar suas cidades a crescer mais rápido, levantar edificações e encontrar recursos para fazer seu povo feliz.</Text>
+			<Text>Sou sua Assessora Econômica. Nesta lição, ensinarei como usar Trabalhadores para melhorar suas cidades. Sob seu comando, seus Trabalhadores construirão rotas comerciais para coletar [ICON_GOLD] Ouro, construirão melhorias para ajudar suas cidades a crescer mais rápido e produzir mais depressa e melhorarão recursos para deixar nosso povo mais feliz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
-			<Text>Uso de Trabalhadores para a cidade</Text>
+			<Text>Usando Trabalhadores para Melhorar Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
-			<Text>Sou seu Assessor Militar e você pode imaginar porque estou aqui. Nesta lição, ensinarei como exterminar os bárbaros e destruir seus acampamentos, bem como conquistar uma cidade de uma civilização inimiga.</Text>
+			<Text>Sou seu Assessor Militar e você pode imaginar por que estou aqui. Nesta lição, ensinarei como exterminar os bárbaros e destruir seus acampamentos, bem como conquistar uma cidade de uma civilização inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
 			<Text>Combate e Conquista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
-			<Text>Sou sua Assessora para Relações Exteriores. Nesta lição ensinarei o básico sobre diplomacia com outras civilizações e Cidades-Estado. Este é um assunto complicado, então por enquanto vamos nos concentrar sobre dois conceitos importantes: desenvolver sua influência sobre uma Cidade-Estado e negociar recursos com uma civilização vizinha.</Text>
+			<Text>Sou sua Assessora para Relações Exteriores. Nesta lição, você aprenderá o básico da diplomacia com outras civilizações e Cidades-Estado. Este é um assunto complicado, então, por enquanto, vamos nos concentrar em dois conceitos importantes: desenvolver influência sobre uma Cidade-Estado e negociar recursos com uma civilização vizinha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
 			<Text>Diplomacia Básica</Text>
@@ -733,19 +733,19 @@
 			<Text>Descubra {1_Num} Maravilhas Naturais. ({2_Num} {2_Num: plural 1?descoberta; other?descobertas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_COMPLETE">
-			<Text>Descubra {1_Num} Maravilhas Naturais. Concluído!</Text>
+			<Text>Encontrou {1_Num} Maravilhas Naturais. Concluído!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_2_COMPLETE">
-			<Text>Você completou o tutorial Encontre as Cidades! Belo Trabalho!</Text>
+			<Text>Você completou o tutorial Fundar Cidades! Belo trabalho!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS">
-			<Text>Conecte {1_Num} cidades a sua capital usando estradas.</Text>
+			<Text>Conecte {1_Num} cidades à sua capital usando estradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_PROGRESS">
 			<Text>Conecte {1_Num} cidades à sua capital usando estradas. ({2_Num} {2_Num: plural 1?conectada; other?conectadas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_COMPLETE">
-			<Text>Conecte {1_Num} cidades a sua capital usando estradas. Concluído!</Text>
+			<Text>Conecte {1_Num} cidades à sua capital usando estradas. Concluído!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES">
 			<Text>Construa melhorias em {1_Num} recursos.</Text>
@@ -832,7 +832,7 @@
 			<Text>Lista de Cidades-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TECHNOLOGY_LIST">
-			<Text>Tecnologias</Text>
+			<Text>Lista de Tecnologias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_BUILDING_LIST">
 			<Text>Edificações</Text>
@@ -889,7 +889,7 @@
 			<Text>Estamos gastando muito com a manutenção militar. Devemos parar de construir mais unidades militares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_ERADICATE_BARBARIANS">
-			<Text>É hora de nossos vizinhos bárbaros se extinguirem. Construa unidades militares e use-as para destruir os campos deles.</Text>
+			<Text>É hora de nossos vizinhos bárbaros serem erradicados. Construa unidades militares e use-as para destruir os acampamentos deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_WINNING_WARS">
 			<Text>Estamos ganhando! Mantenha a pressão para conseguirmos a vitória!</Text>
@@ -901,13 +901,13 @@
 			<Text>Devemos continuar a explorar o mundo para descobrir ruínas antigas, maravilhas naturais e outras civilizações!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON">
-			<Text>Temos exploradores suficientes para descobrir o mundo. Devemos parar de treinar novas unidades de exploração.</Text>
+			<Text>Temos exploradores suficientes para descobrir o mundo. Não devemos começar a treinar novas unidades terrestres de exploração.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON_SEA">
 			<Text>Precisamos continuar a explorar os mares para encontrar novos continentes para colonizar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON_SEA">
-			<Text>Exploramos com eficácia as águas litorâneas. Não precisamos enviar mais unidades para explorar os mares.</Text>
+			<Text>Já exploramos águas litorâneas o suficiente. Não deve ser necessário enviar mais unidades para explorar os mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
 			<Text>Temos espaço para expandir, então vamos treinar um [COLOR_UNIT_TEXT]Colono[/COLOR] e fundar uma nova cidade!</Text>
@@ -925,16 +925,16 @@
 			<Text>Temos muitas cidades litorâneas, por isso devemos focar em edificações que melhorem o rendimento de nossos hexágonos litorâneos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
-			<Text>Temos recursos marinhos que não estamos usando. Construa Barcos de Serviço e use-os para ajudar a nossa civilização!</Text>
+			<Text>Temos recursos aquáticos que não estamos usando. Construa Barcos de Trabalho e use-os para ajudar nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
 			<Text>Temos um [COLOR_UNIT_TEXT]Colono[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>Temos uma crise de [ICON_FOOD] Alimentos! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_FOOD] Alimentos que necessitamos.</Text>
+			<Text>Temos uma crise de [ICON_FOOD] Alimento! Use Trabalhadores para construir melhorias que aumentem a quantidade de [ICON_FOOD] Alimento fornecida por um hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
-			<Text>Temos uma crise de [ICON_PRODUCTION] Produção! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_PRODUCTION] Produção que necessitamos.</Text>
+			<Text>Temos uma crise de [ICON_PRODUCTION] Produção! Use Trabalhadores para construir melhorias que aumentem a quantidade de [ICON_PRODUCTION] Produção fornecida por um hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
 			<Text>Evite construir Ancoradouros, porque não podemos usá-los sem duas cidades litorâneas.</Text>
@@ -943,19 +943,19 @@
 			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de Ancoradouros. Construa Ancoradouros nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD] Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
-			<Text>Precisamos aumentar nossa geração de [ICON_GOLD] Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD] Ouro do hexágono e faça edificações que aumentem a nossa geração de [ICON_GOLD] Ouro.</Text>
+			<Text>Precisamos aumentar nossa geração de [ICON_GOLD] Ouro para continuar competitivos. Dissolva unidades obsoletas para reduzir a manutenção, use nossos Trabalhadores para construir melhorias que aumentem a quantidade de [ICON_GOLD] Ouro de um hexágono e construa edificações que aumentem nossa geração de [ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
 			<Text>Estamos trabalhando em uma Grande Pirâmide, então não precisamos construir Celeiros em nossas outras cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
-			<Text>Nossa [ICON_PRODUCTION] Produção está diminuindo em razão do número de unidades que temos. Devemos dispensar quaisquer unidades desnecessárias para que nossa civilização possa operar em plena capacidade.</Text>
+			<Text>Nossa [ICON_PRODUCTION] Produção está sendo reduzida pelo número de unidades que temos. Devemos dissolver as unidades desnecessárias para que nossa civilização possa operar em plena capacidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ISLAND_START">
 			<Text>Nossa pátria é um continente pequeno, sem muito espaço para expansão. Precisamos nos concentrar em tecnologias navais até que possamos embarcar unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] é muito pequena neste momento para realizar grandes edificações, como maravilhas. Concentre-se em fazê-la crescer para um tamanho maior antes de assumir grandes projetos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] ainda é pequena demais para empreender grandes construções como Maravilhas. Concentre-se em fazê-la crescer antes de assumir grandes projetos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não possui litoral, o que significa que não há acesso por água. Então você terá que se preocupar mais com os ursos do que com os tubarões.</Text>
@@ -985,7 +985,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION] Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir minas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edificações que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edificações que melhoram nossa produção militar. Para aproveitar ao máximo esses benefícios, devemos treinar novas unidades para nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] está preparada e pronta para treinar um [COLOR_UNIT_TEXT]Colono[/COLOR] e expandir nosso império.</Text>
@@ -994,16 +994,16 @@
 			<Text>Mantenha a guarda em volta de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], nossa Capital. Inimigos estão rondando a área e devemos estar preparados para um ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_UNDER_BLOCKADE">
-			<Text>Os inimigos estão tentando bloquear [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR]! Use os ataques à distância da cidade e barcos próximos para eliminar os navios inimigos que estão no bloqueio.</Text>
+			<Text>Os inimigos estão tentando bloquear [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR]! Use os ataques a distância da cidade e os barcos próximos para expulsar os navios inimigos que tentam manter o bloqueio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS">
-			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para desbloquear um bônus {2_Adjective:textkey} exclusivo da nossa civilização!</Text>
+			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para desbloquear um bônus {@2_Adjective[1]} exclusivo da nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_UNIT">
-			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR], que é exclusiva da nossa {3_Adjective:textkey} civilização!</Text>
+			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR], que é exclusiva da nossa civilização {@3_Adjective[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_BUILDING">
-			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], que é exclusiva da nossa {3_Adjective:textkey} civilização!</Text>
+			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR] para, assim, podermos construir a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], que é exclusiva da nossa civilização {@3_Adjective[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECHSTRATEGY_RESOURCE">
 			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], o que nos permitirá melhorar o recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR] dentro das nossas fronteiras.</Text>
@@ -1015,52 +1015,52 @@
 			<Text>Seria sábio não provocar [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Eles são imensamente mais poderosos que nós. Portanto, recomendo que não mexa com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_WAR">
-			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está indo bem. Devemos considerar oferecer a paz para acabar com a hostilidade.</Text>
+			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está indo bem. Devemos considerar oferecer a paz para encerrar as hostilidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_PEACE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem uma força militar muito mais forte que nós e seria insensato declarar guerra neste momento.</Text>
+			<Text>As forças militares de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] são muito mais fortes que as nossas, e seria insensato declarar guerra neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
 			<Text>Estamos tão fortes quanto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; esta guerra irá testar a nossa coragem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
-			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está indo bem e temos uma força de combate mais forte que eles. Mantenha a pressão para conseguirmos a vitória!</Text>
+			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está indo bem e temos forças de combate superiores. Mantenha a pressão e vamos conquistar a vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_PEACE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais fraco que nós. Se tiver algo que desejamos, este é um bom momento para pedir.</Text>
+			<Text>As forças militares de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] são mais fracas que as nossas. Se houver algo que desejamos, este é um bom momento para pedir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_WAR">
-			<Text>Com os nossos números, somos capazes de esmagar absolutamente [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]! Seja rápido antes que eles possam fugir usando algum truque diplomático.</Text>
+			<Text>Com nossa superioridade numérica, devemos ser capazes de esmagar [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]! Aja rápido antes que consigam escapar usando algum estratagema diplomático frágil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_PEACE">
-			<Text>Nosso exército é muito mais poderoso que o de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Não estou sugerindo que devamos forçá-los, mas devemos exercer a nossa força propositadamente para sustentar nosso reino glorioso!</Text>
+			<Text>Nosso exército é muito mais poderoso que o de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Não estou sugerindo que devamos intimidá-los, mas devemos exercer nossa força de maneira deliberada para sustentar nosso glorioso reino!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_MEDIUM">
 			<Text>Hmm, isso é interessante. Vimos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movendo unidades perto das nossas fronteiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_HIGH">
-			<Text>Temos visto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movimentar uma série de unidades em torno das nossas fronteiras. Eles podem estar se preparando para um ataque.</Text>
+			<Text>Vimos várias unidades de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] próximas às nossas fronteiras. Isso pode ser o prelúdio de um ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_INCREDIBLE">
 			<Text>Isso não pode ser bom. [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] reuniu um enorme exército em nossas fronteiras! Devemos nos preparar para um ataque furtivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_MEDIUM">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] expandiu-se para mais perto do nosso território.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] expandiu seu território para mais perto do nosso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_HIGH">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] estão consumindo grande parte da terra perto das nossas cidades. Podemos precisar discutir este assunto com eles.</Text>
+			<Text>A expansão de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está ocupando grande parte das terras próximas às nossas cidades. Talvez precisemos discutir esse assunto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_INCREDIBLE">
 			<Text>A apropriação de terras por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CivName:textkey}[/COLOR] parece estar tentando sufocar nossas cidades com suas fronteiras! Precisamos tomar medidas sobre isso ou não teremos nenhuma saída senão a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_NONE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] parece ser bastante pacífica com outras civilizações. Porém, tenho certeza que eles estão aprontando alguma coisa!</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem mantido relações bastante pacíficas com outras civilizações. Mesmo assim, tenho certeza de que alguma coisa está sendo tramada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MINOR">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem sido hostil com outras civilizações. Devemos ficar atentos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MAJOR">
-			<Text>Eu sinto que [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é hostil e aprecia atacar as civilizações menores e Cidades-Estado próximas. Minha mãe me disse que a melhor coisa para um valentão é um soco no nariz!</Text>
+			<Text>Acho que [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem agido de forma intimidatória e se diverte atacando civilizações menores e Cidades-Estado. Minha mãe dizia que a melhor resposta a um valentão é um rápido soco no nariz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_SEVERE">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está atacando todo mundo! Proteja mulheres e crianças e defenda nossa capital para impedir que alcance uma vitória por dominação!</Text>
@@ -1075,10 +1075,10 @@
 			<Text>Eu acho que vi a única unidade que [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possuía. Parecia triste e solitária. Seria trágico para eles se entrassem em uma guerra com alguém com o nosso poder.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POOR">
-			<Text>O [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não possui uma força militar como a nossa, mas não devemos tirar sarro deles durante as reuniões diplomáticas; eles podem se sentir inseguros.</Text>
+			<Text>As forças militares de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não são tão fortes quanto as nossas, mas não devemos zombar demais durante as reuniões diplomáticas; isso pode causar insegurança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui militares com a mesma força que nós.</Text>
+			<Text>A força militar de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é aproximadamente igual à nossa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais forte que nós. Não devemos entrar em combate sem um planejamento cuidadoso e sem gastar um tempo crescendo e melhorando as nossas unidades de combate.</Text>
@@ -1090,10 +1090,10 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui um exército capaz de nos varrer do mapa. Faça tudo o que puder para manter a paz com eles e fortaleça nossas forças militares o mais rápido possível para tornar nossa situação menos perigosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_WEAK">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] começou a competir conosco em uma aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] começou a competir conosco pela aliança de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_STRONG">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está competindo fortemente para ter uma aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está disputando intensamente conosco a aliança de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_FIERCE">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está agressivamente minando a nossa relação com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]!</Text>
@@ -1207,16 +1207,16 @@
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não obtivermos influência logo. Eles querem que obtenhamos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se conseguirmos, poderemos ganhar mais influência para manter nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CITY_STATE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa aliança.</Text>
+			<Text>Vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não obtivermos influência logo. Eles querem que façamos o trabalho sujo deles e derrotemos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso pode irritar outras partes, mas sustentaria nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_PLAYER">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_NATURAL_WONDER">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
+			<Text>Vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Encontrar uma Maravilha Natural nos renderia influência com facilidade para manter o relacionamento, então vamos explorar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CLEAR_BARBARIANS">
 			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, tente matar os bárbaros que estão perto do território deles.</Text>
@@ -1240,34 +1240,34 @@
 			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa amizade.</Text>
+			<Text>Vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que obtenhamos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se conseguirmos, poderemos ganhar mais influência para manter nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CITY_STATE">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa amizade</Text>
+			<Text>Vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que façamos o trabalho sujo deles e derrotemos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso pode irritar outras partes, mas sustentaria nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_PLAYER">
 			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Se quisermos manter a amizade, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_NATURAL_WONDER">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
+			<Text>Vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Encontrar uma Maravilha Natural nos renderia influência com facilidade para manter o relacionamento, então vamos explorar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CLEAR_BARBARIANS">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não ganharmos mais influência logo. Se quisermos manter a amizade, tente matar os bárbaros que estão perto do território deles.</Text>
+			<Text>Vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não ganharmos mais influência logo. Se quisermos manter a amizade, tente eliminar bárbaros dentro do território deles ou em hexágonos adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE">
 			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se dermos algum dinheiro ou uma unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_WAR_WITH_MAJOR">
-			<Text>Se quiser melhorar nossas relações com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR], eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR].</Text>
+			<Text>Se quisermos melhorar nossas relações com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR], precisamos ajudá-los na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_ROUTE">
 			<Text>Construir com nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] uma rota da nossa capital até [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] melhoraria nosso relacionamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CAMP">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se destruirmos um campo bárbaro perto deles.</Text>
+			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se destruirmos um acampamento bárbaro próximo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONNECT_RESOURCE">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se nos conectarmos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR].</Text>
+			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se conectarmos o recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
 			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR].</Text>
@@ -1276,7 +1276,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] estaria totalmente impressionada se tivéssemos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Providencie uma dessas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CITY_STATE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]! Por que eles querem isso? Soa cruel, mas eu tenho certeza que é por uma razão perfeitamente válida.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]! Por que essa Cidade-Estado quer isso? Parece cruel, mas tenho certeza de que existe uma razão perfeitamente válida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que entremos em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR]. Encontrar [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR] durante nossas explorações nos renderia Influência com facilidade.</Text>
@@ -1285,7 +1285,7 @@
 			<Text>A descoberta de uma maravilha natural nos daria mais influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CLEAR_BARBARIANS">
-			<Text>Matar todos os bárbaros perto do território de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] nos dará alguma influência sobre eles.</Text>
+			<Text>Matar bárbaros dentro do território de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] ou em hexágonos adjacentes nos dará alguma influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturássemos a cidade e a libertássemos, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de Influência com ela.</Text>
@@ -1315,13 +1315,13 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa da edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos a edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH] ciência e fazer progressos significativos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
-			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter um exército moderno é a chave para ataques seguros e eficazes.</Text>
+			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter forças militares modernas é fundamental para a segurança e para realizar ataques eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
 			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à edificação [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], a qual, quando construída, concederá promoções para as unidades construídas na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
-			<Text>Não temos nenhum acesso ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] e há uma fonte próxima à cidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Envie um Trabalhador para melhorar o hexágono para que possamos nos beneficiar desse recurso.</Text>
+			<Text>Não temos nenhum recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR], e existe uma fonte próxima a [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Envie um Trabalhador para melhorar esse hexágono e obter acesso ao recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_MORE">
 			<Text>Existe uma fonte de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] perto da cidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Nós já temos esse recurso, mas poderíamos usar qualquer adicional em negociações diplomáticas.</Text>
@@ -1330,10 +1330,10 @@
 			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR], que não os possui. Devemos tentar fechar um acordo com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
-			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem, eventualmente, ser usadas contra nós.</Text>
+			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem acabar sendo usadas contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
-			<Text>Por favor, me perdoe; Lamento por não ter conselhos muito úteis neste momento. Talvez você deva construir mais cidades?</Text>
+			<Text>Por favor, me perdoe; lamento não ter conselhos muito úteis neste momento. Talvez você deva construir mais cidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_MILITARY">
 			<Text>Construa mais unidades! Ou não. Eu não tenho muitos conselhos neste momento. Posso pensar em alguma coisa se você perguntar depois.</Text>
@@ -1372,22 +1372,22 @@
 			<Text>Por favor, não me diga isso de novo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
-			<Text>Assessor de Informações</Text>
+			<Text>Informações dos Assessores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COUNSEL">
 			<Text>Conselho dos Assessores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_MILITARY">
-			<Text>Esta é a recomendação do seu Assessor Militar.</Text>
+			<Text>Seu Assessor Militar recomenda construir isto aqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_ECONOMIC">
-			<Text>Esta é a recomendação da sua Assessora Econômica.</Text>
+			<Text>Sua Assessora Econômica recomenda construir isto aqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_FOREIGN">
-			<Text>Esta é a recomendação da sua Assessora para Relações Exteriores.</Text>
+			<Text>Sua Assessora para Relações Exteriores recomenda construir isto aqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_SCIENCE">
-			<Text>Esta é a recomendação do seu Assessor Científico.</Text>
+			<Text>Seu Assessor Científico recomenda construir isto aqui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_MILITARY">
 			<Text>Seu Assessor Militar recomenda pesquisar esta tecnologia.</Text>
@@ -1402,7 +1402,7 @@
 			<Text>Seu Assessor Científico recomenda pesquisar esta tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BEGIN_GAME_BUTTON">
-			<Text>Começar sua jornada</Text>
+			<Text>Comece sua jornada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BEGIN_GAME_BUTTON_CONTINUE">
 			<Text>Continue sua jornada</Text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
@@ -67,7 +67,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TAIRONA_TEXT">
-			<Text>O reino de Tairona englobava um grupo de chefes vagamente aliados nas montanhas de Sierra Nevada de Santa Maria (atual Colômbia) que datam do século I d.C.. O contato com o invasor espanhol foi limitado até 1599 d.C., quando os Tairona se revoltaram e atacaram igrejas e padres em protesto contra a perseguição religiosa; os espanhóis revidaram com entusiasmo e em 1602 os Tairona foram derrotados e dispersos. A religião dos Tairona era bem diferente das tradições da maior parte da América do Sul, abrangendo tanto o divórcio quanto a homossexualidade, bem como o "vício da mastigação da coca", colocando-os em rota de colisão com a Igreja Católica.</Text>
+			<Text>O reino de Tairona englobava um grupo de chefes vagamente aliados nas montanhas de Sierra Nevada de Santa Maria (atual Colômbia) que datam do século I d.C. O contato com o invasor espanhol foi limitado até 1599 d.C., quando os Tairona se revoltaram e atacaram igrejas e padres em protesto contra a perseguição religiosa; os espanhóis revidaram com entusiasmo e em 1602 os Tairona foram derrotados e dispersos. A religião dos Tairona era bem diferente das tradições da maior parte da América do Sul, abrangendo tanto o divórcio quanto a homossexualidade, bem como o "vício da mastigação da coca", colocando-os em rota de colisão com a Igreja Católica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN">
 			<Text>Tzintzuntzan</Text>
@@ -80,7 +80,7 @@
 			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TZINTZUNTZAN_TEXT">
-			<Text>Os Tarascos, cuja capital Tzintzuntzan estava na região dos lagos de Pátzcuaro, permaneceram livres do domínio asteca desde que seu pequeno reino foi fundado nos anos 1200 d.C.. No auge da sua influência, Tzintzuntzan era um centro comercial de cerca de 30.000 habitantes, com uma grande praça cercada pelas casas da nobreza e do sacerdócio, dominada por cinco yácatas (pirâmides semicirculares) de frente para os lagos. Até ser dominada pelos espanhóis na década de 1520 - seu último rei, Tanganxoan II, foi queimado na fogueira em 1529 - a cidade dominava o comércio do centro-sul do México.</Text>
+			<Text>Os Tarascos, cuja capital Tzintzuntzan estava na região dos lagos de Pátzcuaro, permaneceram livres do domínio asteca desde que seu pequeno reino foi fundado nos anos 1200 d.C. No auge da sua influência, Tzintzuntzan era um centro comercial de cerca de 30.000 habitantes, com uma grande praça cercada pelas casas da nobreza e do sacerdócio, dominada por cinco yácatas (pirâmides semicirculares) de frente para os lagos. Até ser dominada pelos espanhóis na década de 1520 - seu último rei, Tanganxoan II, foi queimado na fogueira em 1529 - a cidade dominava o comércio do centro-sul do México.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT">
 			<Text>Hurões</Text>
