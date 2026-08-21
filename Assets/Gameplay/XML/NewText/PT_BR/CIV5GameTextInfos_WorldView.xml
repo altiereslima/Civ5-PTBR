@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -10,7 +10,7 @@
 			<Text>Bônus vs Cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_ATTACK_OVER_RIVER">
-			<Text>Ataque através de rio</Text>
+			<Text>Ataque ao atravessar um rio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_AMPHIBIOUS_ATTACK">
 			<Text>Ataque anfíbio</Text>
@@ -52,7 +52,7 @@
 			<Text>Bônus vs {1_UnitType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_DOMAIN">
-			<Text>Bônus vs domínio</Text>
+			<Text>Bônus vs domínio </Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_FORT_UNITS">
 			<Text>Bônus vs unidades fortificadas</Text>
@@ -82,10 +82,10 @@
 			<Text>Bônus vs bárbaros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_YOUR_APPROXIMATE_DAMAGE">
-			<Text>Dano aproximado:</Text>
+			<Text>Dano aproximado causado:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_APPROXIMATE_DAMAGE">
-			<Text>: Dano aproximado</Text>
+			<Text>: Dano aproximado causado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_UNIT_STRENGTH">
 			<Text>FORÇA TOTAL</Text>
@@ -243,7 +243,7 @@
 			<Text>Saúde</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RECOMMENDED">
-			<Text>Recomendado:</Text>
+			<Text>Recomendação:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_REPAIR_TILE">
 			<Text>Reparar Hexágono</Text>
@@ -255,7 +255,7 @@
 			<Text>UNIDADE PROMOVIDA!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED_TT">
-			<Text>Exibe as promoções que a sua unidade pode selecionar.</Text>
+			<Text>Revela promoções que a sua unidade pode selecionar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_NAME">
 			<Text>Nome da unidade</Text>
@@ -270,13 +270,13 @@
 			<Text>Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_MOVEMENT_TT">
-			<Text>A quantidade de hexágonos que esta unidade pode percorrer por turno.</Text>
+			<Text>O número de hexágonos que esta unidade pode percorrer em um turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT">
 			<Text>Alcance</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT_TT">
-			<Text>A quantidade de hexágonos que esta unidade pode percorrer em voo por turno.</Text>
+			<Text>O número de hexágonos que esta unidade pode sobrevoar em um turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_NO_MOVES">
 			<Text>UNIDADE SEM MOVIMENTOS</Text>
@@ -297,7 +297,7 @@
 			<Text>A sua unidade pode mover mais {1_Num} {1: plural 1?hexágono; other?hexágonos;} neste turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_UNIT_MAY_STRIKE_REBASE">
-			<Text>A sua unidade pode atacar a {1_Num} {1: plural 1?hexágono; other?hexágonos;} ou mudar de base em até {2_Num} {2: plural 1?hexágono; other?hexágonos;}.</Text>
+			<Text>A sua unidade pode atacar a {1_Num} {1: plural 1?hexágono; other?hexágonos;} ou mudar de base a até {2_Num} {2: plural 1?hexágono; other?hexágonos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_SET_HITPOINTS_TT">
 			<Text>{1_Num}/{2_Num} pontos de vida</Text>
@@ -306,7 +306,7 @@
 			<Text>[NEWLINE][COLOR_YELLOW]Clique para selecionar esta unidade.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UN_VOTES_TO_WIN">
-			<Text>Votos das Nações Unidas necessários para vencer</Text>
+			<Text>Votos das Nações Unidas necessários para ganhar</Text>
 		</Row>
 		<!--Strategic View Options-->
 		<Row Tag="TXT_KEY_SV_OVERLAY_NONE">
@@ -417,13 +417,13 @@
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_RESEARCH] dos acordos de pesquisa com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_BUDGET_DEFICIT">
-			<Text>[ICON_BULLET] [COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do déficit [ICON_GOLD] orçamentário![ENDCOLOR]</Text>
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do déficit orçamentário de [ICON_GOLD] Ouro![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_AVAILABLE_GOLD">
 			<Text>Você possui um total de {1_Num} [ICON_GOLD] Ouro disponível para gastar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_TOTAL_INCOME">
-			<Text>Renda total: {1_Num}, sendo:</Text>
+			<Text>Um total de {1_Num} {1: plural 1?arrecadado; other?arrecadados;}, sendo:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CITY_OUTPUT">
 			<Text>{1_Num} do rendimento de todas as cidades.</Text>
@@ -435,13 +435,13 @@
 			<Text>{1_Num} das outras Civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_TOTAL_EXPENSES">
-			<Text>Despesas totais: {1_Num}, sendo:</Text>
+			<Text>Um total de {1_Num} {1: plural 1?gasto; other?gastos;}, sendo:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_UNIT_MAINT">
 			<Text>{1_Num} na manutenção das unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_UNIT_SUPPLY">
-			<Text>{1_Num} em suprimento de unidades fora do seu território.</Text>
+			<Text>{1_Num} gastos no suprimento de unidades fora do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_BUILDING_MAINT">
 			<Text>{1_Num} gastos na manutenção das Edificações.</Text>
@@ -456,7 +456,7 @@
 			<Text>Despesas que não puderem ser pagas serão descontadas dos seus pontos de Ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLD_EXPLANATION">
-			<Text>Com [ICON_GOLD] Ouro você pode comprar terrenos, unidades e edificações para suas cidades ou dar presentes a Cidades-Estado para melhorar sua relação com elas.</Text>
+			<Text>Com [ICON_GOLD] Ouro você pode comprar terrenos, unidades e edificações para suas cidades ou dar presentes a Cidades-Estado para que elas gostem mais de você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_TOTAL_HAPPINESS">
 			<Text>O nível de [ICON_HAPPINESS_1] Felicidade do seu Império é {1_Num}.</Text>
@@ -465,10 +465,10 @@
 			<Text>O nível de {1_Icon} Infelicidade do seu Império é {2_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
-			<Text>Como a [ICON_HAPPINESS_4] Infelicidade chegou a 10, o Império agora está MUITO [ICON_HAPPINESS_4] infeliz! As cidades não crescem mais, Colonos não podem ser treinados, a [ICON_PRODUCTION] Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
+			<Text>Como a [ICON_HAPPINESS_4] Infelicidade chegou a 10, o Império agora está [ICON_HAPPINESS_4] MUITO infeliz! As cidades não crescem mais, os Colonos não podem ser treinados, a [ICON_PRODUCTION] Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
-			<Text>As cidades crescerão a apenas 1/4 da velocidade normal enquanto o Império estiver [ICON_HAPPINESS_3] infeliz!</Text>
+			<Text>As cidades vão crescer apenas a 1/4 da velocidade normal enquanto o império estiver [ICON_HAPPINESS_3] Infeliz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_SOURCES">
 			<Text>Você está gerando um total de {1_Num} de [ICON_HAPPINESS_1] Felicidade, sendo:</Text>
@@ -534,22 +534,22 @@
 			<Text>{1_Num} pelas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_EXPLANATION">
-			<Text>A [ICON_HAPPINESS_1] Felicidade é necessária para manter suas cidades crescendo. Ela é usada para combater a [ICON_HAPPINESS_4] Infelicidade.</Text>
+			<Text>É necessária [ICON_HAPPINESS_1] Felicidade para fazer com que as suas cidades cresçam. Ela é usada para combater a [ICON_HAPPINESS_4] Infelicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_NOW">
-			<Text>O Império está em uma [ICON_GOLDEN_AGE] Era de Ouro por mais {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
+			<Text>O Império está em [ICON_GOLDEN_AGE] Era de Ouro por mais {1_Num} {1: plural 1?turno; other?turnos;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_PROGRESS">
 			<Text>[ICON_BULLET] {1_NumCurrent}/{2_NumNeeded} de progresso até a próxima [ICON_GOLDEN_AGE] Era de Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_ADDITION">
-			<Text>[ICON_BULLET] {1_Num} {1: plural 1?é; other?são;} {1: plural 1?adicionado; other?adicionados;} por turno pelo excesso de [ICON_HAPPINESS_1] Felicidade.</Text>
+			<Text>[ICON_BULLET] {1_Num} {1: plural 1?é; other?são;} {1: plural 1?adquirido; other?adquiridos;} por turno pelo excesso de [ICON_HAPPINESS_1] Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_LOSS">
 			<Text>[ICON_BULLET] {1_Num} {1: plural 1?é; other?são;} {1: plural 1?perdido; other?perdidos;} por turno pela [ICON_HAPPINESS_4] Infelicidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-			<Text>Durante uma [ICON_GOLDEN_AGE] Era de Ouro, cada hexágono do seu Império que produz pelo menos 1 [ICON_GOLD] Ouro produz 1 a mais, e as cidades recebem +20% de [ICON_PRODUCTION] Produção.</Text>
+			<Text>Enquanto estiver na [ICON_GOLDEN_AGE] Era de Ouro, todos os hexágonos do seu Império que estiverem gerando pelo menos 1 de [ICON_GOLD] Ouro irão produzir 1 extra e as cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_ACCUMULATED">
 			<Text>Você acumulou {1_Num} de [ICON_CULTURE] Cultura em todo o Império.</Text>
@@ -570,7 +570,7 @@
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] das Cidades-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_CITY_COST">
-			<Text>Cada cidade que você possui aumenta em {1_Num}% o custo das Políticas Sociais! Se deseja seguir uma estratégia cultural, não se expanda demais!</Text>
+			<Text>Cada cidade que você possui aumenta os custos para adoção de Políticas Sociais em {1_Num}%! Se quiser jogar com foco em Cultura, não se expanda demais!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_NO_RESOURCES_DISCOVERED">
 			<Text>Ainda não foram descobertos recursos!</Text>
@@ -586,10 +586,10 @@
 		</Row>
 		<!-- City Banner Text-->
 		<Row Tag="TXT_KEY_CITY_CONNECTED">
-			<Text>A cidade tem uma [ICON_CONNECTED] Rota comercial com a [ICON_CAPITAL] Capital!</Text>
+			<Text>A cidade tem uma [ICON_CONNECTED] Rota Comercial com a [ICON_CAPITAL] Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_BLOCKADED">
-			<Text>A cidade está [ICON_BLOCKADED] bloqueada por uma unidade inimiga!</Text>
+			<Text>A cidade está [ICON_BLOCKADED] Bloqueada por uma unidade inimiga!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_BURNING">
 			<Text>A cidade será [ICON_RAZING] arrasada em {1_Num} {1_Num: plural 1?turno; other?turnos;}!</Text>
@@ -598,10 +598,10 @@
 			<Text>A cidade está em [ICON_RESISTANCE] Resistência por {1_Num} {1: plural 1?turno; other?turnos;}! Enquanto estiver nesta situação, a cidade não pode fazer nada de útil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_PUPPET">
-			<Text>A cidade é um [ICON_PUPPET] fantoche! Você não pode tomar decisões por ela enquanto permanecer nesse estado.</Text>
+			<Text>A cidade é um [ICON_PUPPET] Fantoche! Você não pode tomar decisões por ela enquanto esta situação perdurar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_OCCUPIED">
-			<Text>A cidade está [ICON_OCCUPIED] ocupada! Ela produzirá [ICON_HAPPINESS_4] Infelicidade extra até que um Tribunal seja construído.</Text>
+			<Text>A cidade está [ICON_OCCUPIED] Ocupada! Ela produzirá [ICON_HAPPINESS_4] Infelicidade extra enquanto um Tribunal não for construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_ANNEX_TT">
 			<Text>Clique para anexar esta cidade.</Text>
@@ -638,13 +638,13 @@
 			<Text>Bandeiras de unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTIONS_UNIT_FLAGS_TT">
-			<Text>Oculta todas as bandeiras de unidade.</Text>
+			<Text>Oculte todas as bandeiras de unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTIONS_HEX_GRID">
 			<Text>Grade de hexágonos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTIONS_HEX_GRID_TT">
-			<Text>Exibe a grade.</Text>
+			<Text>Mostrar a grade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_OPTIONS_YIELD_ICONS">
 			<Text>Ícones de rendimento</Text>
@@ -669,16 +669,16 @@
 			<Text>Símbolo do cidadão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT">
-			<Text>Conectar este recurso à sua rede comercial fará esta cidade iniciar a festa "Nós Amamos o Rei", que aumenta o crescimento de [ICON_FOOD] Alimento!</Text>
+			<Text>Conectar este recurso à sua rede comercial fará esta cidade iniciar a festa "Nós Amamos o Rei", aumentando seu [ICON_FOOD] crescimento!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT">
-			<Text>Esta cidade está celebrando a festa "Nós Amamos o Rei", que aumenta o crescimento de [ICON_FOOD] Alimento!</Text>
+			<Text>Esta cidade está festejando "Nós Amamos o Rei", o que aumenta seu [ICON_FOOD] crescimento!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_TT">
 			<Text>Queime, querida! Queime!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_DISABLED_BECAUSE_CAPITAL_TT">
-			<Text>Não se pode arrasar uma cidade que já foi uma Capital.</Text>
+			<Text>Não se pode arrasar uma cidade que já foi uma Capital</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_TEXT">
 			<Text>Arrasar cidade</Text>
@@ -729,7 +729,7 @@
 			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TT">
-			<Text>Clique aqui para que esta Cidade use a distribuição padrão dos cidadãos.</Text>
+			<Text>Clique aqui para que esta cidade use a distribuição padrão dos cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TEXT">
 			<Text>Foco padrão</Text>
@@ -744,7 +744,7 @@
 			<Text>Evitar crescimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_AVOID_GROWTH_TT">
-			<Text>Clique aqui para que a cidade tente permanecer com a mesma população.</Text>
+			<Text>Clique aqui para que a cidade tente se manter com a mesma população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BUTTON_C_TEXT">
 			<Text>Fechar foco da cidade</Text>
@@ -813,10 +813,10 @@
 			<Text>Exibir fila</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PROD_METER_TT">
-			<Text>Clique com o botão direito para mais informações.</Text>
+			<Text>Clique com o botão direito para mais informações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CHANGE_PROD_TT">
-			<Text>Mude o projeto de produção atual desta cidade. Apenas um item pode ser produzido por vez.</Text>
+			<Text>Mudar o projeto de produção atual da cidade. Apenas um item pode ser produzido de cada vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CHANGE_PROD">
 			<Text>MUDAR PRODUÇÃO</Text>
@@ -825,13 +825,13 @@
 			<Text>ESCOLHER PRODUÇÃO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CHOOSE_PROD_TT">
-			<Text>Escolha o projeto de produção atual desta cidade. Apenas um item pode ser produzido por vez.</Text>
+			<Text>Escolher o projeto de produção atual da cidade. Apenas um item pode ser produzido de cada vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_PROD">
 			<Text>Adicionar à fila</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_PROD_TT">
-			<Text>Adicione um item ao fim da fila de produção (até seis itens). Apenas um item será produzido por vez.</Text>
+			<Text>Adicionar um item ao fim da fila de produção (até seis itens). Apenas um item será produzido de cada vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
 			<Text>Quando você possuir [ICON_GOLD] Ouro suficiente, compre imediatamente uma unidade ou edificação.</Text>
@@ -855,7 +855,7 @@
 			<Text>Quando você possuir [ICON_GOLD] Ouro suficiente, poderá comprar um dos hexágonos em destaque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_SPECIALISTCONTROL_TT">
-			<Text>Alterne entre o controle manual e o controle da IA sobre os Especialistas das Edificações.</Text>
+			<Text>Alternar entre o controle manual e o controle da IA sobre os Especialistas das Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_MAINTENANCE">
 			<Text>Manutenção</Text>
@@ -870,16 +870,16 @@
 			<Text>Seleção de fila</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GG_PROGRGRESS">
-			<Text>Progresso do Grande General</Text>
+			<Text>Progresso para Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GP_PROGRGRESS">
-			<Text>Progresso da Grande Personalidade</Text>
+			<Text>Progresso para Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_MAP">
 			<Text>Voltar ao mapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BUY_PLOT_TEXT">
-			<Text>Comprar parcela de texto</Text>
+			<Text>Texto de compra de terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BUILDING_LIST">
 			<Text>Lista de Edificações</Text>
@@ -888,7 +888,7 @@
 			<Text>Controle manual de especialistas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CLAIM_NEW_LAND">
-			<Text>Comprar este terreno por {1_Num}[ICON_GOLD] {1: plural 1?Ouro; other?Ouro;}.</Text>
+			<Text>Comprar este terreno por {1_Num}[ICON_GOLD] Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOOD_IN_TURNS">
 			<Text>{1_Num} [ICON_FOOD] /turno, {2_Num} {2: plural 1?turno; other?turnos;}</Text>
@@ -909,7 +909,7 @@
 			<Text>Quando você possuir [ICON_GOLD] Ouro suficiente, você poderá financiar o estabelecimento dos seus cidadãos em um dos hexágonos destacados em branco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED">
-			<Text>Recurso desejado: {1_ResourceName}</Text>
+			<Text>Recurso requerido: {1_ResourceName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_CITY_COMB_STRENGTH_TT">
 			<Text>Força de combate da cidade</Text>
@@ -924,19 +924,19 @@
 			<Text>Você selecionou este hexágono para ser trabalhado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GUVNA_WORK_TILE">
-			<Text>O seu Governador selecionou este hexágono para ser trabalhado. Clique aqui para alterar.</Text>
+			<Text>O seu Governador selecionou este hexágono para ser trabalhado. Clique aqui para substituir essa escolha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_NUTHA_CITY_TILE">
 			<Text>Este hexágono está sendo trabalhado por outra cidade da sua Civilização. Você pode clicar aqui para trabalhar nele, mas a outra cidade não continuará trabalhando nele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_BLOCKADED_CITY_TILE">
-			<Text>Este hexágono foi bloqueado por um inimigo. Você não poderá trabalhar nele até que o bloqueio seja removido.</Text>
+			<Text>Este hexágono está sendo bloqueado por um inimigo. Você não poderá trabalhar nele até que o inimigo que o bloqueia seja removido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_ENEMY_UNIT_CITY_TILE">
 			<Text>Um inimigo está neste hexágono. Você não pode trabalhar nele até que a unidade inimiga seja removida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNWORKED_CITY_TILE">
-			<Text>Este hexágono não está sendo trabalhado no momento. Você pode clicar aqui para trabalhá-lo, mas isso pode substituir a escolha já feita pela IA.</Text>
+			<Text>Este hexágono não está sendo trabalhado atualmente. Você pode clicar aqui para trabalhá-lo, mas isso poderá substituir a escolha que a IA já fez por você.</Text>
 		</Row>
 		<!-- Disabled Unit actions -->
 		<Row Tag="TXT_KEY_BUILD_BLOCKED_PREREQ_TECH">
@@ -960,7 +960,7 @@
 		</Row>
 		<!-- Misc -->
 		<Row Tag="TXT_KEY_ACPANEL_END_TURN">
-			<Text>FINALIZAR TURNO</Text>
+			<Text>Finalizar turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_STATUS">
 			<Text>Situação da unidade</Text>
@@ -1000,13 +1000,13 @@
 			<Text>Próximo de uma Dança de Guerra Inimiga</Text> 
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_IMPROVEMENT_NEAR">
-			<Text>Próximo de Melhoria do Bônus de Combate</Text>
+			<Text>Próximo de uma melhoria com bônus de combate</Text>
  		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GARRISONED_CITY_RANGE_BONUS">
 			<Text>Bônus de unidade alojada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4] infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
+			<Text>Como a [ICON_HAPPINESS_4] Infelicidade chegou a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
  		</Row>
 		<Row Tag="TXT_KEY_TP_UNHAPPINESS_SPECIALISTS">
 			<Text>{1_Num : number "#.##"} {1: plural 1?gerado; other?gerados;} por [ICON_CITIZEN] Especialistas.</Text>
@@ -1024,7 +1024,7 @@
 			<Text>Informações Gerais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_AND_RESOURCES">
-			<Text>Recursos e Felicidade</Text>
+			<Text>Recursos &amp; Felicidade</Text>
  		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK_MODIFIER">
 			<Text>Modificador de Ataque a Distância</Text>
@@ -1048,13 +1048,13 @@
 		  <Text>Processando turno do jogador {1_PlayerCount}</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
-			<Text>[COLOR_YELLOW]Interceptação por caça ou[ENDCOLOR]</Text>
+			<Text>[COLOR_YELLOW]Interceptação por Caça ou[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
 			<Text>[COLOR_YELLOW]antiaéreo aumentará o dano[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
-			<Text>[COLOR_WARNING_TEXT]Unidades antiaéreas inimigas conhecidas: {1_Number}[ENDCOLOR]</Text>
+			<Text>[COLOR_WARNING_TEXT]Unidades Inimigas Antiaéreas Conhecidas: {1_Number}[ENDCOLOR]</Text>
 		</Row>		
     <Row Tag="TXT_KEY_TP_CULTURE_FROM_TRAITS">
       <Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] pelas Características.</Text>

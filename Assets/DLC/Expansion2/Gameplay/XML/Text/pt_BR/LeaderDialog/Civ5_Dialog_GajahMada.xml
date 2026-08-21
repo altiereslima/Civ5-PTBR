@@ -169,7 +169,7 @@
         </Row>
         <!-- Exige tributo -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_HAPPY">
-            <Text>Você poderia ser persuadido a ajudar em um momento de necessidade?</Text>
+            <Text>Seria possível convencer você a ajudar em um momento de necessidade?</Text>
         </Row>
         <!-- Concorda -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_3">
@@ -222,7 +222,7 @@
             <Text>Isso não será suficiente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_3">
-            <Text>Você deve fazer melhor que isso.</Text>
+            <Text>Você terá de fazer melhor do que isso.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_4">
             <Text>Sua proposta é um insulto.</Text>
@@ -271,7 +271,7 @@
             <Text>Há apenas um caminho a seguir... a guerra!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_1">
-            <Text>Você deve ter muita coragem... ou muita tolice!</Text>
+            <Text>Você demonstra muita coragem... ou muita insensatez!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_2">
             <Text>Você ousa atacar o grande Gajah Mada?!</Text>

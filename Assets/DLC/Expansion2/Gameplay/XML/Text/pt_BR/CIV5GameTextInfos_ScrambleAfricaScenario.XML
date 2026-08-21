@@ -14,7 +14,7 @@
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_DAWN_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Os europeus haviam reivindicado a maioria das terras nativas em outros lugares, mas não o continente sombrio da África. Impulsionados pelo senso de aventura, desejo por riqueza e sede de conhecimento, exploradores e colonos invadiram a África a partir do norte e oeste. Lá, eles encontraram reinos perdidos, criaturas exóticas e impérios nativos que desafiaram seus sonhos de colonização. Você pode reivindicar as riquezas da África como europeu? Ou tentará repelir os intrusos?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Alcance uma alta pontuação após 100 turnos. Cada Maravilha Natural encontrada concede +4 de [ICON_HAPPINESS_1]Felicidade. Os europeus (Bélgica, Inglaterra, França, Alemanha, Itália, Portugal) ganham Pontos de Vitória se forem os primeiros a descobrir uma Maravilha Natural e por recuperar Artefatos. Ganhar [ICON_GOLD]Ouro marca Pontos de Vitória para os Norte-Africanos (Egito, Marrocos, Otomanos); Subsaarianos (Etiópia, Boers, Zulu) marcam por [ICON_CULTURE]Cultura. O controle do Canal de Suez e da linha ferroviária mais longa entre duas cidades também marca Pontos de Vitória. A terra vale o dobro.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O interior da África muda a cada vez que você joga. Apenas as civilizações europeias podem embarcar, construir ferrovias e escavar Artefatos, e elas não podem declarar guerra umas às outras. Da mesma forma, as civilizações norte-africanas também não podem declarar guerra umas às outras.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Os europeus haviam reivindicado a maior parte das terras nativas em outras regiões do mundo, mas ainda não o Continente Negro da África. Movidos pelo espírito de aventura, pelo desejo de riqueza e pela sede de conhecimento, exploradores e colonos avançaram para o interior africano a partir do norte e do oeste. Ali encontraram reinos perdidos, animais exóticos e impérios nativos que desafiaram seus planos de colonização. Você conseguirá tomar as riquezas da África como uma potência europeia? Ou repelirá os invasores?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Obtenha a maior pontuação após 100 turnos. Cada Maravilha Natural descoberta concede +4 de [ICON_HAPPINESS_1]Felicidade. As potências europeias (Bélgica, Inglaterra, França, Alemanha, Itália e Portugal) recebem Pontos de Vitória por serem as primeiras a descobrir Maravilhas Naturais e por recuperar Artefatos. As civilizações norte-africanas (Egito, Marrocos e Otomanos) recebem Pontos de Vitória ao obter [ICON_GOLD]Ouro; as subsaarianas (Etiópia, Bôeres e Zulu), ao obter [ICON_CULTURE]Cultura. Controlar o Canal de Suez e possuir a linha ferroviária mais longa entre duas cidades também concede Pontos de Vitória. O controle territorial vale o dobro.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O interior da África muda a cada partida. Apenas as civilizações europeias podem embarcar, construir Ferrovias e escavar Artefatos, e elas não podem declarar guerra umas às outras. Da mesma forma, as civilizações norte-africanas também não podem declarar guerra entre si.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BRIEFING_BUTTON">
@@ -33,10 +33,10 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_TEXT_1">
-			<Text>Tendo obtido sua independência apenas em 1830 d.C., a Bélgica foi relativamente tardia na corrida europeia por colônias na África. Embora os territórios coloniais belgas incluíssem as pequenas regiões de Ruanda e Burundi, eram principalmente compostos pelo Congo Belga, uma vasta área drenada pelo Rio Congo. Ao contrário da maioria das colônias, o Congo não era administrado pelo governo, mas sim propriedade privada do Rei Leopoldo II da Bélgica. De agosto de 1879 a junho de 1884, enquanto sob contrato com o Rei Leopoldo para navegar pelo rio, o explorador Henry Stanley negociou tratados com vários chefes tribais, nos quais eles transferiram todos os direitos de suas respectivas terras para o rei belga. Leopoldo procedeu a estabelecer postos militares privados e plantações para a colheita de borracha. Em 1884, a Conferência de Berlim, liderada pelo chanceler alemão Otto von Bismarck, reconheceu a propriedade de Leopoldo sobre o Congo. As políticas brutais de Leopoldo por fim levaram a protestos internacionais; em 1908, apesar das ofertas do envelhecido Leopoldo de reformar seu governo pessoal do território, o parlamento belga anexou relutantemente o "Estado Livre do Congo" do rei como uma colônia.</Text>
+			<Text>Tendo conquistado sua independência apenas em 1830 d.C., a Bélgica entrou relativamente tarde na corrida europeia por colônias na África. Embora suas possessões coloniais incluíssem os pequenos territórios de Ruanda e Burundi, elas consistiam principalmente no Congo Belga, uma vasta área drenada pelo Rio Congo. Ao contrário da maioria das colônias, o Congo não era administrado pelo governo, mas constituía propriedade privada do rei Leopoldo II da Bélgica. De agosto de 1879 a junho de 1884, contratado por Leopoldo para navegar o rio, o explorador Henry Stanley negociou tratados com diversos chefes tribais, pelos quais estes transferiam ao rei belga os direitos sobre suas terras. Leopoldo passou então a estabelecer postos militares privados e plantações para a extração de borracha. Em 1884, a Conferência de Berlim, presidida pelo chanceler alemão Otto von Bismarck, reconheceu a posse do Congo por Leopoldo. As políticas brutais do rei acabaram provocando protestos internacionais; em 1908, apesar de suas promessas de reformar o governo pessoal do território, o parlamento belga anexou relutantemente o “Estado Livre do Congo” como colônia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
-			<Text>O Colosso de Rodes</Text>
+			<Text>O Colosso de Rhodes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS">
 			<Text>Taxa de construção de melhorias no terreno duplicada.</Text>
@@ -63,7 +63,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ITALY_TEXT_1">
-			<Text>O Império Africano Italiano surgiu após a nação, unificada no estado moderno em 1861 d.C., participar da "corrida pela África". Nessa época, França, Inglaterra, Espanha, Portugal e Países Baixos já haviam estado colonizando a África por 100 anos. Buscando conquistar partes ainda não reivindicadas do continente, até o início da Primeira Guerra Mundial, a Itália havia anexado Eritreia, Somália e Líbia. No entanto, ela havia sido derrotada em sua primeira tentativa de conquistar a Etiópia na guerra de 1895-1896; a Etiópia só cairia sob domínio italiano em 1936. Em 1915, a Itália entrou na Primeira Guerra Mundial ao lado dos Aliados Ocidentais, com o acordo da Grã-Bretanha e da França de que receberia territórios significativos na Europa e, após a derrota da Alemanha, terras extensas retiradas das possessões alemãs na África Oriental. No entanto, no Tratado de Versalhes que encerrou a guerra, a Itália recebeu poucas terras na Europa e nenhuma na África, o que levou ao ressentimento em relação às potências coloniais europeias que durou duas décadas.</Text>
+			<Text>O Império Africano Italiano surgiu depois que a Itália, unificada como Estado moderno em 1861 d.C., entrou na “corrida pela África”. Naquela altura, França, Inglaterra, Espanha, Portugal e Países Baixos já colonizavam o continente havia cerca de um século. Em busca de regiões ainda não reivindicadas, a Itália anexou Eritreia, Somália e Líbia até o início da Primeira Guerra Mundial. Sua primeira tentativa de conquistar a Etiópia, na guerra de 1895-1896, porém, terminou em derrota; a Etiópia só cairia sob domínio italiano em 1936. Em 1915, a Itália entrou na Primeira Guerra Mundial ao lado dos Aliados Ocidentais após Grã-Bretanha e França prometerem-lhe territórios significativos na Europa e, com a derrota da Alemanha, extensas áreas das possessões alemãs na África Oriental. O Tratado de Versalhes, contudo, concedeu à Itália poucas terras na Europa e nenhuma na África, alimentando por duas décadas o ressentimento contra as potências coloniais europeias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST_SHORT">
 			<Text>Legado de Muhammad Ali</Text>
@@ -87,7 +87,7 @@
 			<Text>A Grande Marcha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BOER">
-			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_FOOD]Comida por cada fazenda.</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_FOOD]Comida por fazenda.</Text>
 		</Row>
 		<!-- Leaders -->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_NAME">
@@ -148,7 +148,7 @@
 			<Text>Boas-vindas. Sou Jules Grévy da França, amante de zebras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_2">
-			<Text>Boas-vindas, Estranho! Sou Jules Grévy, Presidente da França! Sou leal aos meus amigos, morte aos meus inimigos. Qual você será?</Text>
+			<Text>Boas-vindas, estrangeiro! Sou Jules Grévy, presidente da França! Sou leal aos meus amigos e implacável com meus inimigos. Qual dos dois você será?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_3">
 			<Text>Ah. Encontramo-nos finalmente. Sou Jules Grévy, Presidente da França. Venha: vamos discutir a divisão da África entre nossas duas grandes nações.</Text>
@@ -181,7 +181,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_TEXT_1">
-			<Text>Embora o chanceler alemão Bismarck (serviu de 1871 a 1890) tenha visto o interesse alemão na África como distração, ele estava intensamente interessado e intimamente envolvido na corrida pela África por meio da Conferência de Berlim, que ele organizou em 1884, para resolver formalmente várias reivindicações coloniais. Além de resolver várias disputas de fronteira, a Conferência de Berlim, sob a mediação de Bismarck, determinou que o Congo era propriedade privada de Leopoldo II, que as 14 nações signatárias teriam livre comércio em todo o Congo, que os rios Níger e Congo estavam abertos a todo tráfego, que a escravidão seria abolida nas terras islâmicas e formalizou os procedimentos internacionais para estabelecer uma reivindicação colonial.</Text>
+			<Text>Embora o chanceler alemão Bismarck (no cargo de 1871 a 1890) considerasse o interesse alemão na África uma distração, envolveu-se profundamente na corrida pelo continente por meio da Conferência de Berlim, organizada por ele em 1884 para resolver formalmente diversas reivindicações coloniais. Além de arbitrar disputas de fronteira, a conferência, sob sua mediação, determinou que o Congo seria propriedade privada de Leopoldo II, garantiu livre comércio às 14 nações signatárias em toda a região, abriu os rios Níger e Congo à navegação, estabeleceu a abolição da escravidão nas terras islâmicas abrangidas pelos acordos e formalizou os procedimentos internacionais para o reconhecimento de reivindicações coloniais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS}</Text>
@@ -397,10 +397,10 @@
 			<Text>Uma Escavação Arqueológica só pode ser construída por um Arqueólogo em um Sítio Arqueológico. As escavações da tumba de Tutancâmon são um exemplo de uma importante Escavação Arqueológica. Ao construir a Escavação, seu Arqueólogo descobrirá que tipo de Artefato está enterrado nesse local. O artefato é então enviado para a Europa para pontos de vitória bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
-			<Text>Converte o Sítio Arqueológico em um Escavação Arqueológica, que envia o artefato para a Europa para pontos de vitória bônus.</Text>
+			<Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, enviando o artefato para a Europa em troca de Pontos de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC_AFRICA">
-			<Text>Isso pode enviá-lo de volta para a Europa em troca de pontos de vitória.</Text>
+			<Text>O artefato pode ser enviado à Europa em troca de Pontos de Vitória.</Text>
 		</Row>
 		<!-- Natural Wonders -->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT">
@@ -411,13 +411,13 @@
 			<Text>A Estela é um monumento único que aumenta a produção de [ICON_CULTURE]Cultura da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM_STRATEGY">
-			<Text>O Museu Estatal é uma Edificação Exclusiva dos Boers que aumenta a produção de [ICON_CULTURE]Cultura da cidade (especialmente quando abriga Grandes Obras). Ele já vem com 1 Grande Obra pré-construída. Civilizações europeias que capturarem uma cidade com um Museu Estatal ganharão Pontos de Vitória por capturar artefato(s). Substitui o Museu.</Text>
+			<Text>O Museu Estatal é uma Edificação Exclusiva dos Bôeres que aumenta a produção de [ICON_CULTURE]Cultura da cidade, especialmente quando abriga Grandes Obras. Ele já contém 1 Grande Obra. Civilizações europeias que capturarem uma cidade com um Museu Estatal ganharão Pontos de Vitória pelos artefatos capturados. Substitui o Museu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAATSMUSEUM_TEXT">
 			<Text>O primeiro Museu Estatal foi construído em 1892 d.C. em Pretória, com o propósito declarado de "melhorar e manter a consciência pública em relação aos aspectos culturais de valor", focando especificamente na história, etnografia, arqueologia e ciências naturais da região. Quando a Guerra Anglo-Boer estourou, os aspectos patrióticos do Museu Estatal se tornaram ainda mais pronunciados, já que os cidadãos sob comando Boer foram incentivados a doar objetos e recordações dos campos de batalha. Após a derrota dos Boers, os Museus Estatais não foram mais apoiados com fundos públicos; em vez disso, foram financiados por comitês privados em cidades de todo o Transvaal e Estado Livre de Orange.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
-			<Text>O Banho Turco é uma Edificação Exclusiva dos Otomanos. Assim como uma bolsa de valores, o Banho Turco aumenta a riqueza da cidade. No entanto, o Banho Turco também aumenta a quantidade de [ICON_GOLD] Ouro que uma cidade gera. Rotas comerciais feitas por outros jogadores para uma cidade com um Mercado gerarão um extra de 2 de [ICON_GOLD] Ouro para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 1 de [ICON_GOLD] Ouro pela rota comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
+			<Text>O Banho Turco é uma Edificação Exclusiva dos Otomanos. Assim como uma Bolsa de Valores, aumenta a riqueza da cidade e também a quantidade de [ICON_GOLD]Ouro que ela gera. Rotas Comerciais de outros jogadores destinadas a uma cidade com um Mercado geram +2 de [ICON_GOLD]Ouro para o proprietário da cidade, enquanto o proprietário da rota recebe +1 de [ICON_GOLD]Ouro adicional pela Rota Comercial. A cidade deve ter um Banco antes que o Banho Turco possa ser construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
 			<Text>A cidade deve ter um banco.</Text>
@@ -427,46 +427,46 @@
 		</Row>
 		<!-- Units-->
 		<Row Tag="TXT_KEY_UNIT_HELP_FORCE_PUBLIQUE">
-			<Text>Uma unidade de infantaria especializada em combate em terreno acidentado e contra unidades feridas. Apenas os Belgas podem construí-lo.</Text>
+			<Text>Unidade de infantaria especializada em combater em terreno acidentado e enfrentar unidades feridas. Apenas os belgas podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE_STRATEGY">
-			<Text>Substitui o Fuzileiro para os Belgas. Recebe a Promoção de Terreno Acidentado, que permite lutar melhor em terrenos difíceis. Esta unidade também possui uma promoção que aumenta sua força contra unidades feridas.</Text>
+			<Text>Substitui o Fuzileiro dos belgas. Recebe a promoção de Terreno Acidentado, que melhora seu desempenho nesse tipo de terreno, além de uma promoção que aumenta sua força contra unidades feridas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FORCE_PUBLIQUE_TEXT">
 			<Text>A Força Pública serviu como uma gendarmaria e força militar no Congo Belga de 1908 a 1960, quando se tornou o núcleo do Exército Congolês após a independência. Composta por africanos de etnias mistas, principalmente do Alto-Congo, Zanzibar e outras colônias belgas, a Força Pública era comandada por brancos, veteranos do Exército Belga ou mercenários europeus. Espalhada pela região em pequenos destacamentos, a força atuava contra caçadores furtivos, traficantes de escravos árabes e tribos rebeldes, além de servir nas campanhas da África Oriental nas duas guerras mundiais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY2">
-			<Text>A Legião Estrangeira é a unidade francesa única, que substitui o Fuzileiro. Ela recebe um bônus de combate significativo quando opera fora de suas fronteiras, tornando-a uma excelente unidade para se lançar contra territórios inimigos. </Text>
+			<Text>A Legião Estrangeira é a Unidade Exclusiva francesa que substitui o Fuzileiro. Ela recebe um bônus de combate significativo quando opera fora do território amigo, o que a torna excelente para ofensivas em território inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION2">
-			<Text>Apenas os franceses podem construí-lo. Esta unidade possui um bônus de combate fora do território amigo, ao contrário do Fuzileiro que substitui.</Text>
+			<Text>Apenas os franceses podem treiná-la. Esta unidade recebe um bônus de combate fora do território amigo, ao contrário do Fuzileiro que substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRANDENBURG_CLASS">
-			<Text>Este Navio Blindado é o navio mais forte neste cenário. Apenas os alemães podem construí-lo.</Text>
+			<Text>Este é o Navio Blindado mais forte do cenário. Apenas os alemães podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS_STRATEGY">
 			<Text>Substitui o Navio Blindado para os alemães. Possui uma maior força de combate, o que lhe confere uma maior capacidade de influenciar cidades-estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_BRANDENBURG_CLASS_TEXT">
-			<Text>O primeiro desses navios blindados alemães primitivos da classe Brandemburgo foi encomendado em 1893. Eles eram um projeto intermediário entre os grandes navios blindados costeiros e os encouraçados oceânicos. Os quatro primeiros lançados estavam fortemente blindados e equipados com seis canhões pesados de 11 polegadas. Participaram de ações em locais tão distantes quanto a China durante a Revolta dos Boxers e o Mediterrâneo durante a Primeira Guerra Mundial, antes de serem vendidos ou desmontados.</Text>
+			<Text>O primeiro navio alemão da classe Brandemburgo entrou em serviço em 1893. Esses pré-dreadnoughts representavam uma etapa intermediária entre os grandes navios blindados costeiros e os encouraçados oceânicos. Fortemente protegidos e armados com seis canhões pesados de aproximadamente 280 mm, quatro navios foram lançados. A classe atuou em regiões tão distantes quanto a China, durante a Revolta dos Boxers, e o Mediterrâneo, durante a Primeira Guerra Mundial, antes de seus navios serem vendidos ou desmontados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAIO_DUILIO_CLASS">
 			<Text>Um Navio Blindado especializado em atacar cidades. Apenas os italianos podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS_STRATEGY">
-			<Text>Substitui o Navio Blindado para os italianos. Recebe a promoção "Assaltante Costeiro" que aumenta sua força contra cidades.</Text>
+			<Text>Substitui o Navio Blindado dos italianos. Recebe a promoção “Assaltante Costeiro”, que aumenta sua força contra cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_CAIO_DUILIO_CLASS_TEXT">
 			<Text>A Marinha Real Italiana construiu dois dos três planejados Caio Duilio na década de 1870. Esses navios blindados oceânicos estavam equipados com dois canhões de 100 toneladas e uma blindagem de 50 mm, sendo tão revolucionários para a época que os britânicos abandonaram sua nova classe de encouraçado para projetar uma resposta ao modelo italiano. Embora os Caio Duilio e Enrico Dandolo nunca tenham entrado em combate e tenham sido desmontados em 1909 e 1920, respectivamente, foram implantados várias vezes na costa africana do Mediterrâneo para proteger ou promover os interesses italianos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DERVISH_CAVALRY">
-			<Text>Cavalaria que gera Grandes Generais mais rapidamente e luta melhor em terreno aberto. Apenas os Egípcios podem treiná-la.</Text>
+			<Text>Cavalaria que gera Grandes Generais mais rapidamente e luta melhor em terreno aberto. Apenas os egípcios podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY_STRATEGY">
-			<Text>Substituto egípcio da Cavalaria. Suas promoções a permitem gerar Grandes Generais mais rapidamente e lutar melhor em terreno aberto.</Text>
+			<Text>Substitui a Cavalaria dos egípcios. Suas promoções permitem que ela gere Grandes Generais mais rapidamente e lute melhor em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_DERVISH_CAVALRY_TEXT">
-			<Text>Conhecido como o "Mullah Louco", o líder religioso Mohammed Abdullah al-Hasan estabeleceu um estado Dervixe na Somália que travou uma guerra anti-imperialista por 20 anos contra os britânicos, italianos e etíopes. De suas forças, aproximadamente 10.000 eram a temida Cavalaria Dervixe, usada principalmente para interdição de linhas de abastecimento e rotas de retirada. Desigualmente armada e equipada, liderada por chefes tribais, a Cavalaria Dervixe era marcada por seu fanatismo, tornando-os adversários temíveis dispostos a sofrer perdas que deteriam outras unidades. Até 1920, quando o Mullah foi finalmente derrotado, seus comandantes mais eficazes estavam entre a Cavalaria Dervixe.</Text>
+			<Text>Conhecido como o “Mullah Louco”, o líder religioso Mohammed Abdullah al-Hasan estabeleceu na Somália um Estado dervixe que travou por 20 anos uma guerra anti-imperialista contra britânicos, italianos e etíopes. De suas forças, aproximadamente 10.000 homens compunham a temida Cavalaria Dervixe, usada sobretudo para interromper linhas de abastecimento e rotas de retirada. Armada e equipada de forma irregular e liderada por chefes tribais, a cavalaria destacava-se pelo fanatismo, o que a tornava um adversário temível disposto a aceitar perdas que deteriam outras unidades. Até 1920, quando o Mullah foi finalmente derrotado, muitos de seus comandantes mais eficazes pertenciam à Cavalaria Dervixe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_VOLUNTEERS">
 			<Text>Fuzileiro especializado na defesa que se cura sempre que mata seu oponente. Somente as Repúblicas Boer podem construí-lo.</Text>
@@ -478,10 +478,10 @@
 			<Text>Houve muita simpatia fora do Império Britânico pela República Boer durante a Segunda Guerra dos Boers (1899-1902), e voluntários estrangeiros chegaram para ajudar em sua luta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EXPLORER">
-			<Text>Um Arqueólogo especial que não é atrasado por terreno acidentado e tem um ataque e defesa limitados. Somente os europeus podem treiná-lo. Não precisa de uma Universidade. [COLOR_NEGATIVE_TEXT]Como todas as unidades nesse cenário ele não tem o comando Explorar.[ENDCOLOR]</Text>
+			<Text>Arqueólogo especial que não sofre redução de movimento em terreno acidentado e possui capacidade limitada de ataque e defesa. Apenas os europeus podem treiná-lo. Não requer Universidade. [COLOR_NEGATIVE_TEXT]Como todas as unidades deste cenário, ele não possui o comando Explorar.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EXPLORER_STRATEGY">
-			<Text>Substituto europeu do Arqueólogo. Ele pode defender e atacar, ao contrário do Arqueólogo. Ele também pode mover-se através de terreno acidentado como se o terreno estivesse limpo. Ele não precisa de uma Universidade.</Text>
+			<Text>Substitui o Arqueólogo das civilizações europeias. Ao contrário do Arqueólogo, pode atacar e se defender, além de atravessar terreno acidentado como se fosse terreno desobstruído. Não requer Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_EXPLORER_TEXT">
 			<Text>Embora as costas da África tenham sido exploradas por três séculos, só no início do século XIX d.C. é que as potências europeias iniciaram um esforço conjunto para explorar o interior do continente. Partindo de postos comerciais costeiros, missões e assentamentos coloniais, os exploradores ocidentais avançaram pelo interior em pequenas expedições em busca de maravilhas lendárias, civilizações nativas "perdidas" e conhecimento científico. Alguns, como David Livingstone, eram missionários médicos; alguns, como Pietro di Brazza, buscavam aventura; e outros, como MacGregor Laird, eram comerciantes em busca de novas oportunidades de lucro. Seja qual for a motivação, os exploradores europeus desempenharam um papel importante na história da África.</Text>
@@ -496,7 +496,7 @@
 			<Text>Unidade de cerco entre Canhão e Artilharia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_STRATEGY">
-			<Text>O Túmulo Funerário é uma Edificação Exclusiva dos Egípcios que aumenta a produção da cidade em [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura (por abrigar uma Grande Obra pré-construída). Não tem custos de manutenção para a cidade. Civilizações europeias que o capturam também ganham Pontos de Vitória por capturar um artefato. Substitui o Coliseu.</Text>
+			<Text>O Túmulo Funerário é uma Edificação Exclusiva dos egípcios que aumenta a produção de [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura da cidade ao abrigar uma Grande Obra pré-construída. Não possui custo de manutenção. Civilizações europeias que o capturarem também ganharão Pontos de Vitória pelo artefato capturado. Substitui o Coliseu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_HELP">
 			<Text>Não requer manutenção de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Se esta cidade for capturada por um conquistador europeu, a Grande Obra armazenada no interior marcará Pontos de Vitória para essa civilização.</Text>
@@ -518,7 +518,7 @@
 			<Text>Transferência de Movimento para o General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_SCENARIO_HELP">
-			<Text>O Grande General move-se à taxa desta unidade se começarem o turno empilhados.</Text>
+			<Text>O Grande General se move à mesma velocidade desta unidade se ambos começarem o turno empilhados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_HEAL_OUTSIDE_FRIENDLY">
 			<Text>Só Cura em Território Amigo</Text>
@@ -540,19 +540,19 @@
 			<Text>Europeus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
-			<Text>Unidades de Combate [COLOR_POSITIVE_TEXT]Europeias[ENDCOLOR][NEWLINE][NEWLINE] só podem se curar dentro de território amigo. Unidades terrestres de combate (a não ser Exploradores) têm [COLOR_NEGATIVE_TEXT]-1 de Alcance Visual[ENDCOLOR]. NÃO pode construir a Guilda de Escritores, a Guilda de Artistas, nem a Guilda de Músicos.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Europeus[ENDCOLOR][NEWLINE][NEWLINE]As unidades de combate só podem se curar em território amigo. Unidades terrestres de combate, exceto Exploradores, têm [COLOR_NEGATIVE_TEXT]-1 de Alcance Visual[ENDCOLOR]. Você NÃO pode construir a Guilda de Escritores, a Guilda de Artistas nem a Guilda de Músicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
 			<Text>Norte-Africanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Norte-Africanos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_GOLD]Ouro para cada unidade que você eliminar. NÃO pode construir a Guilda de Escritores, a Guilda de Artistas, nem a Guilda de Músicos.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Norte-Africanos[ENDCOLOR][NEWLINE][NEWLINE]Ganhe [ICON_GOLD]Ouro por unidade inimiga eliminada. Você NÃO pode construir a Guilda de Escritores, a Guilda de Artistas nem a Guilda de Músicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
 			<Text>Subsaarianos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Subsaarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_CULTURE]Cultura para cada unidade que você eliminar, exceto bárbaros. Permite as cidades construírem Guilda de Escritores, a Guilda de Artistas, e a Guilda de Músicos.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Subsaarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganhe [ICON_CULTURE]Cultura por unidade inimiga eliminada, exceto Bárbaros. Suas cidades podem construir a Guilda de Escritores, a Guilda de Artistas e a Guilda de Músicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
 			<Text>Táticas Avançadas de Cerco</Text>
@@ -606,7 +606,7 @@
 			<Text>Mercadorias Melhoradas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N3_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Mercadorias Melhoradas[ENDCOLOR][NEWLINE] +1 de [ICON_GOLD]Ouro por cada Mercado.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Mercadorias Melhoradas[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro por Mercado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N4">
 			<Text>Recrutamento</Text>
@@ -618,13 +618,13 @@
 			<Text>Caravanas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N5_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Caravanas[ENDCOLOR][NEWLINE]+2 de [ICON_GOLD]Ouro por todas as suas rotas comerciais terrestre.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Caravanas[ENDCOLOR][NEWLINE]+2 de [ICON_GOLD]Ouro por todas as suas Rotas Comerciais terrestres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6">
 			<Text>Polo Comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Polo Comercial[ENDCOLOR][NEWLINE]+10 de [ICON_GOLD] na [ICON_CAPITAL]Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Polo Comercial[ENDCOLOR][NEWLINE]+10 de [ICON_GOLD]Ouro na [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S2">
 			<Text>Nacionalismo</Text>
@@ -648,16 +648,16 @@
 			<Text>Centros Culturais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S6_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Ganhe +5 de [ICON_CULTURE]Cultura por cada Grande Obra.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Ganhe +5 de [ICON_CULTURE]Cultura por Grande Obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_EUROPEAN_TITLE">
-			<Text>{1: gender masculine?Estimadíssimo; feminine?Estimadíssima;} {1_PlayerName:textkey} {@2: plural 2?{2: gender masculine?dos {@2_CivName}; feminine?das {@2_CivName};}; other?{@2_CivName};}</Text>
+			<Text>Ilustre {1_PlayerName:textkey} de {2_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_N_AFRICAN_TITLE">
-			<Text>{1_PlayerName:textkey}, {1: gender masculine?soberano; feminine?soberana;} {@2: plural 2?{1: gender masculine?dos ; feminine?das ;};}{@2_CivName}</Text>
+			<Text>{1_PlayerName:textkey}, governante de {2_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SUB_SAHARAN_TITLE">
-			<Text>{1_PlayerName:textkey}, {1: gender masculine?o Audacioso; feminine?a Audaciosa;} {@2: plural 2?{1: gender masculine?dos ; feminine?das ;};}{@2_CivName}</Text>
+			<Text>Valente {1_PlayerName:textkey} de {2_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_EUROPEAN">
 			<Text>Europeu</Text>
@@ -689,13 +689,13 @@
 		</Row>
 		<!--National Wonders-->
 		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_HELP">
-			<Text>Rotas comerciais que outros jogadores fazem para uma cidade com o Canal de Suez gerarão 4 de [ICON_GOLD]Ouro extra para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 2 de [ICON_GOLD]Ouro pela rota comercial. Apenas uma permitida no mundo.</Text>
+			<Text>Rotas Comerciais de outros jogadores para uma cidade com o Canal de Suez geram +4 de [ICON_GOLD]Ouro para o proprietário da cidade, enquanto o proprietário da Rota Comercial recebe +2 de [ICON_GOLD]Ouro. Apenas um Canal de Suez pode existir no mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUEZ_CANAL_TEXT">
 			<Text>Inaugurado em 1869 após 10 anos de construção, o Canal de Suez é uma via navegável que conecta o Mar Mediterrâneo ao Mar Vermelho, permitindo o transporte e a navegação entre a Europa e a Ásia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_STRATEGY">
-			<Text>O Canal de Suez aumenta a quantidade de [ICON_GOLD]Ouro que uma cidade gera. Rotas comerciais que outros jogadores fazem para uma cidade com um Canal de Suez gerarão 4 de [ICON_GOLD]Ouro extra para o proprietário da cidade, e o proprietário da rota comercial ganhará mais 2 de [ICON_GOLD]Ouro pela rota comercial. Apenas uma permitida no mundo.</Text>
+			<Text>O Canal de Suez aumenta a geração de [ICON_GOLD]Ouro da cidade. Rotas Comerciais de outros jogadores para uma cidade com o Canal geram +4 de [ICON_GOLD]Ouro para o proprietário da cidade, enquanto o proprietário da Rota Comercial recebe +2 de [ICON_GOLD]Ouro. Apenas um Canal de Suez pode existir no mundo.</Text>
 		</Row>
 		<!--In-Game Messages-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALLY_GAINED">
@@ -732,19 +732,19 @@
 			<Text>A linha ferroviária construída por {1_CivName} foi destruída. Essa civilização perde {2_VPAmount} Pontos de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_NEW_LONGEST_RR_PLAYER">
-			<Text>A linha ferroviária entre {1_CityName} e {2_CityName} ({3_Length} {3: plural 1?hexágono; other?hexágonos;}) agora é a mais longa na África. Os {4_VPAmount} Pontos de Vitória pela linha ferroviária mais longa agora são concedidos {5_CivName: plural 2?{1: gender masculine?aos {1}; feminine?as {1};}; other?{1};}.</Text>
+			<Text>A linha ferroviária entre {1_CityName} e {2_CityName} ({3_Length} {3: plural 1?hexágono; other?hexágonos;}) agora é a mais longa da África. Os {4_VPAmount} Pontos de Vitória pela linha ferroviária mais longa agora pertencem a {5_CivName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LONGER_RR">
-			<Text>{1_CivName} aumentou o comprimento de sua linha ferroviária mais longa. A conexão ferroviária mais longa agora é de {2_CityName} para {3_CityName} ({4_Length} hexágonos).</Text>
+			<Text>{1_CivName} ampliou sua linha ferroviária mais longa. A maior conexão ferroviária agora liga {2_CityName} a {3_CityName} ({4_Length} hexágonos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIG_COMPLETE">
-			<Text>Seu explorador descobriu um artefato africano. {1_Num} Pontos de Vitória ganhos.[NEWLINE][NEWLINE](O artefato foi removido do jogo, tendo sido enviado de volta para a Europa).</Text>
+			<Text>Seu explorador descobriu um artefato africano. {1_Num} Pontos de Vitória ganhos.[NEWLINE][NEWLINE](O artefato foi removido do jogo e enviado de volta à Europa.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED">
-			<Text>{1_Num: plural 1?Foi descoberta {1} Grande Obra; other?Foram descobertas {1} Grandes Obras;} durante a captura de {2_CityName}. Estes artefatos foram imediatamente levados para a Europa e acrescentam {3_Num} Pontos de Vitória para sua pontuação.</Text>
+			<Text>{1_Num: plural 1?Foi descoberta {1} Grande Obra; other?Foram descobertas {1} Grandes Obras;} durante a captura de {2_CityName}. Esses artefatos foram imediatamente levados para a Europa e somam {3_Num} Pontos de Vitória à sua pontuação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED_OTHER">
-			<Text>{1_Num: plural 1?Foi descoberta {1} Grande Obra; other?Foram descobertas {1} Grandes Obras;} durante a captura de {2_CityName} por {3_PlayerName}. Estes artefatos foram imediatamente levados para a Europa e acrescentam {4_Num} Pontos de Vitória para a pontuação da sua civilização.</Text>
+			<Text>{1_Num: plural 1?Foi descoberta {1} Grande Obra; other?Foram descobertas {1} Grandes Obras;} durante a captura de {2_CityName} por {3_PlayerName}. Esses artefatos foram imediatamente levados para a Europa e somam {4_Num} Pontos de Vitória à pontuação da sua civilização.</Text>
 		</Row>
 		<!--Scoring-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_WONDERS">

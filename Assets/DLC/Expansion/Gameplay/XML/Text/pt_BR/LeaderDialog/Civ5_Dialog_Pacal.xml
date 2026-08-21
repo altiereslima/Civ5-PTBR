@@ -47,13 +47,13 @@
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_1">
-            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Você está condenado a ver o mundo se desfazer, enquanto me salva desse destino.</Text>
+            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Seu destino é ver o mundo se desfazer, enquanto me poupa dessa sina.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_2">
             <Text>Aproveite o seu insignificante reino enquanto pode... nada mais importa. Eu não importo... você não importa... As corujas! Eu posso ouvir as corujas!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_3">
-            <Text>Quando os céus forem inundados, você também será arrastado pelas correntes. Fez-me um grande favor; não precisarei mais testemunhar isto.</Text>
+            <Text>Quando os céus forem inundados, as correntes também levarão você. Fez-me um grande favor; não precisarei mais testemunhar isto.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_4">
             <Text>Pode ter me derrotado, mas não pode parar o que já está em movimento. Nossos destinos estão prescritos em rocha - somente as lágrimas dos deuses podem remover seus entalhes.</Text>
@@ -175,7 +175,7 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_HAPPY">
-            <Text>Amigo, acredito ter encontrado uma forma de salvar a todos nós! Veja... veja e aceite minha oferta!</Text>
+            <Text>Em nome de nossa amizade, acredito ter encontrado uma forma de salvar a todos nós! Veja... veja e aceite minha oferta!</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">

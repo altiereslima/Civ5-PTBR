@@ -95,7 +95,7 @@
         </Row>
         <!--Requests a trade -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_NEUTRAL">
-            <Text>Aceite esta oferta em consideração.</Text>
+            <Text>Considere esta oferta.</Text>
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_NEUTRAL">
@@ -153,7 +153,7 @@
         </Row>
         <!--Trade offer from player - no -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_HAPPY">
-            <Text>Desculpe, mas o custo é muito alto para que seja aceito.</Text>
+            <Text>Sinto muito, mas o custo é alto demais para aceitarmos.</Text>
         </Row>
         <!--Demand for tribute from player - yes -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_HAPPY">
@@ -169,7 +169,7 @@
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_HAPPY">
-            <Text>Pelo interesse do meu povo, peço isto.</Text>
+            <Text>No interesse do meu povo, peço isto a você.</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_3">
@@ -216,7 +216,7 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_1">
-            <Text>Sua oferta não faz nenhum sentido, da minha perspectiva.</Text>
+            <Text>Do meu ponto de vista, sua oferta não faz sentido algum.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_2">
             <Text>Isso não será suficiente.</Text>
@@ -268,7 +268,7 @@
             <Text>Você tomou muitas decisões imprudentes. Prepare-se para a guerra!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_3">
-            <Text>Pela proteção do meu povo, você deve ir.</Text>
+            <Text>Para proteger meu povo, você terá de desaparecer.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_1">
             <Text>Lamento por todos que serão afetados por este conflito.</Text>

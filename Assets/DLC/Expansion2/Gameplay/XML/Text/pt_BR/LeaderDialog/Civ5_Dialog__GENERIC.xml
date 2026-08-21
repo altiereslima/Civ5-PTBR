@@ -11,7 +11,7 @@
 			<Text>Ops, parece que ataquei sua pequena amiga, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Vai fazer algo a respeito?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
-			<Text>Chegou ao meu conhecimento que eu possa ter atacado {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Embora não fosse meu objetivo estar em desacordo com o seu império, este foi considerado um curso de ação necessário.</Text>
+			<Text>Chegou ao meu conhecimento que talvez eu tenha atacado {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Embora meu objetivo não fosse entrar em conflito com seu Império, consideramos essa ação necessária.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
 			<Text>Acabo de saber que meu império lançou um ataque contra {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Posso assegurar que não foi intencional e espero que isso não nos afaste.</Text>
@@ -47,16 +47,16 @@
 			<Text>Saudações, camarada! Fico feliz em ver que você também escolheu seguir o caminho da Ordem. Talvez possamos encontrar oportunidades de ajudar uns aos outros durante os próximos Planos Quinquenais de nossos impérios!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
-			<Text>Bem-vindo, grande imperador! Tenho o prazer de ver que você também optou por seguir o caminho da Autocracia. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
+			<Text>Saudações, grande líder! Tenho o prazer de ver que você também optou por seguir o caminho da Autocracia. Que possamos trabalhar juntos para garantir que apenas as nações mais fortes sobrevivam para alcançar a verdadeira grandeza!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
-			<Text>Como é que um de seus sujos agentes de alguma forma roubou um dos nossos segredos tecnológicos básicos? Estas podem ser as últimas palavras que falamos em paz.</Text>
+			<Text>Como um de seus agentes imundos conseguiu roubar um dos nossos segredos tecnológicos básicos? Estas podem ser as últimas palavras que trocamos em paz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
 			<Text>Posso relevar o recente roubo de um dos meus segredos tecnológicos, desde que haja uma promessa solene de que isso não acontecerá novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
-			<Text>Estou feliz que você concordou em parar com esses pequenos roubos.</Text>
+			<Text>Fico feliz por você ter concordado em pôr fim a esses pequenos roubos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
 			<Text>Sua indiscrição não é uma surpresa.</Text>
@@ -65,7 +65,7 @@
 			<Text>Como você pediu, os nossos agentes não realizarão mais operações em seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_NO_1">
-			<Text>Nossos agentes ajudam a manter nossa civilização a salvo de todas as ameaças, incluindo você. Eles operam como nós precisamos, não como você pede.</Text>
+			<Text>Nossos agentes ajudam a manter nossa civilização segura contra todas as ameaças, inclusive você. Eles agem conforme nossas necessidades, não conforme seus pedidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
 			<Text>Agradeço por trazer esse plano {@1_CivAdjective[1]} à nossa atenção. Com este aviso, estaremos prontos para qualquer coisa que tentem. Sua generosa ajuda será lembrada.</Text>
@@ -86,7 +86,7 @@
 			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua civilização. Esperamos que você compartilhe conosco qualquer intriga que seus agentes descubram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
-			<Text>Matamos seu espião, já que estava tentando roubar de nós. Pela minha experiência, é muito menos perigoso ler um livro e tentar aprender alguma coisa sozinho.</Text>
+			<Text>Matamos seu espião, já que estava tentando roubar de nós. Pela minha experiência, é muito menos perigoso ler um livro e tentar aprender alguma coisa por conta própria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
 			<Text>Lamento qualquer confusão causada pelas recentes atividades de nosso falecido agente. Que qualquer ressentimento fique enterrado junto com o agente morto.</Text>
@@ -98,7 +98,7 @@
 			<Text>Uma das minhas cidades foi recentemente assaltada e segredos tecnológicos foram roubados. Posso ter sua garantia de que você não teve nada a ver com isso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
-			<Text>Estou convencido de que você está espionando minha grande civilização. Você deve parar, antes que alguém se machuque.</Text>
+			<Text>Tenho certeza de que você está espionando minha grande civilização. Você deve parar antes que alguém se machuque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_STOP_CONVERSIONS_1">
 			<Text>Tomamos conhecimento das conversões religiosas que vocês estão realizando dentro de nosso império. Pedimos que acabem com essa atividade imediatamente!</Text>
@@ -198,7 +198,7 @@
 			<Text>Eu vou escavar onde eu quiser.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_STOP_DIGGING">
-			<Text>Nós não pretendíamos ofendê-lo ao tentarmos roubar a sua herança cultural.</Text>
+			<Text>Não pretendíamos ofender você ao tentarmos roubar sua herança cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
 			<Text>O povo de minha nação tem sido ofendido por suas mensagens burguesas de liberdade e igualdade. Eles parecem acreditar que eles têm o direito de se manifestar nas ruas!</Text>
@@ -207,13 +207,13 @@
 			<Text>Sua conspiração ideológica tem nos amedrontado com uma revolução pela Ordem em nossa terra. Será que essas greves de trabalhadores nunca acabarão?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
-			<Text>Sua mensagem de força através de poder supremo tem ressoado em nosso povo. Devemos imitar seu temido estado totalitário?</Text>
+			<Text>Sua mensagem de força por meio do poder supremo repercutiu entre nosso povo. Será que precisamos imitar seu temido Estado totalitário?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
 			<Text>Seus cidadãos clamam pelas liberdades humanas. Derrube este muro de opressão e adira à causa da liberdade e do progresso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
-			<Text>Os trabalhadores oprimidos da sua terra são infelizes. Quer você goste ou não, a história está do nosso lado. Vamos enterrá-lo!</Text>
+			<Text>Os trabalhadores oprimidos da sua terra são infelizes. Quer você goste ou não, a história está do nosso lado. Vamos enterrar você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
 			<Text>Seus cidadãos inquietos estão necessitando de uma liderança forte. Junte-se a nós para escrevermos a história, em vez de ficar sentado com as mãos cruzadas.</Text>

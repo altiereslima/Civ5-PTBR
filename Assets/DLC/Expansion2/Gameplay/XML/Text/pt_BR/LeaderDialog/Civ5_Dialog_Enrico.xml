@@ -156,7 +156,7 @@
 		</Row>
 		<!-- A demanda por homenagem do jogador - sim -->
 		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_YES_HAPPY">
-			<Text>Sempre cuido de quem me é aliado.</Text>
+			<Text>Sempre cuido de quem está ao meu lado.</Text>
 		</Row>
 		<!-- A demanda por homenagem do jogador - no -->
 		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_NO_HAPPY">

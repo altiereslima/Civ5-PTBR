@@ -30,7 +30,7 @@
 			<Text>Que isso sirva de lição... espero que seja lembrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_2">
-			<Text>Seu desempenho não é melhor que o de um mercenário estrangeiro e deplorável. Terá que fazer muito melhor para me derrotar.</Text>
+			<Text>Seu desempenho foi deplorável, digno de tropas mercenárias de segunda categoria. Terá de fazer muito melhor para me derrotar.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_1">
@@ -47,7 +47,7 @@
 			<Text>Talvez seja melhor assim... ao menos agora não terei que testemunhar a destruição de minha amada nação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_3">
-			<Text>Maldito! Eu tinha esperança de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente ele continuará a sofrer sob seu julgo.</Text>
+			<Text>Maldição! Eu tinha esperança de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente ele continuará a sofrer sob seu jugo.</Text>
 		</Row>
 
 		<!--Neutral -->
@@ -127,7 +127,7 @@
 		<!--Happy -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_3">
-			<Text>Bem-vindo!</Text>
+			<Text>Boas-vindas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_4">
 			<Text>Olá novamente.</Text>
@@ -159,11 +159,11 @@
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
-			<Text>Estamos sempre prontos para ajudar um aliado em dificuldade.</Text>
+			<Text>É sempre um prazer ajudar quem está em dificuldade.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
-			<Text>Não desta vez, amigo. Temos nossos próprios problemas para lidar.</Text>
+			<Text>Não desta vez. Temos nossos próprios problemas para resolver.</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_HAPPY">

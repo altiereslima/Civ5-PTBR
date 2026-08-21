@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_1">
@@ -11,7 +11,7 @@
 			<Text>Certamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_4">
-			<Text>Isso é aceito.</Text>
+			<Text>De acordo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_5">
 			<Text>Oh, muito bem.</Text>
@@ -23,13 +23,13 @@
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_1">
-			<Text>Que tolice! Agora vamos destruir seu povo!</Text>
+			<Text>Idiota miserável! Agora vamos destruir você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_2">
 			<Text>Criatura bárbara e inútil! Pagará por sua agressão gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_3">
-			<Text>Criatura balofa e idiota! Agora vamos destruir você!</Text>
+			<Text>Criatura balofa e idiota! Agora terei de destruir você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_1">
 			<Text>É com relutância, que beira a autoaversão, que anuncio que pretendo eliminar sua grande civilização da face do planeta.</Text>
@@ -41,19 +41,19 @@
 			<Text>As exigências da sobrevivência determinam que eu conquiste imediatamente uma grande parte — talvez a totalidade — da sua civilização. Sinto muito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_1">
-			<Text>Você é muito mais inteligente do que eu pensei. Meus parabéns.</Text>
+			<Text>Você é muito mais inteligente do que eu supunha. Parabéns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_2">
 			<Text>Demonstrou habilidade e audácia notáveis. Quase se diria que é do povo japonês!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_3">
-			<Text>Bem jogado. Você me derrotou.</Text>
+			<Text>Foi uma bela jogada. Você me derrotou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_4">
 			<Text>Estou derrotado. Parabéns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_ANGRY">
-			<Text>Não consigo pensar em uma maneira melhor para consolidarmos nossa eterna amizade do que a concessão desta insignificância por sua parte.</Text>
+			<Text>Não consigo imaginar maneira melhor de consolidarmos nossa eterna amizade do que você nos conceder esta ninharia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_HAPPY">
 			<Text>Pode o humilde e amistoso povo japonês pedir um pequeno favor em nome de nossa grande amizade e aliança?</Text>
@@ -68,13 +68,13 @@
 			<Text>Devo humildemente discordar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_3">
-			<Text>Com a mais profunda dor, lamento. Devo recusar.</Text>
+			<Text>Com o mais profundo pesar, devo recusar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_4">
 			<Text>Talvez em algum outro momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_5">
-			<Text>Como...?</Text>
+			<Text>Perdão, como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_1">
 			<Text>Estamos muito satisfeitos e honrados em conhecer quem lidera com grandeza e comanda na guerra.</Text>
@@ -83,19 +83,19 @@
 			<Text>Este humilde soldado saúda tamanha força guerreira e espera sinceramente uma aliança justa e equilibrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_3">
-			<Text>Na verdade, os céus sorriram para nós e nos conduziram à sua presença. Como podemos ajudar?</Text>
+			<Text>Na verdade, os céus sorriram para nós ao nos conduzir à sua augusta presença. Como podemos servir?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_1">
-			<Text>Bom dia.</Text>
+			<Text>Tenha um bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_2">
-			<Text>Despeço-me.</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_3">
 			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_4">
-			<Text>Até nos encontrarmos novamente.</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_5">
 			<Text>Vá embora agora.</Text>
@@ -104,7 +104,7 @@
 			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_7">
-			<Text>Terminamos por aqui.</Text>
+			<Text>Nosso assunto aqui terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_1">
 			<Text>Boas-vindas.</Text>
@@ -122,7 +122,7 @@
 			<Text>Oh, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_6">
-			<Text>Tudo bem?</Text>
+			<Text>Pois não?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_7">
 			<Text>Como posso ajudar?</Text>
@@ -143,7 +143,7 @@
 			<Text>Sim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_6">
-			<Text>Você estava dizendo...</Text>
+			<Text>Estava dizendo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_7">
 			<Text>Diga.</Text>
@@ -152,19 +152,19 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_LOSEWAR_1">
-			<Text>É a oposição mais poderosa e valente que já enfrentamos. Foi uma honra lutar contra você!</Text>
+			<Text>De fato, nunca enfrentamos tamanha força e valentia. Foi uma honra lutar contra você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_QUOTE_1">
 			<Text>Imagawa tem 40.000 homens marchando em direção a este lugar? Não acredito. Ele tem "apenas" 25 mil soldados. Sim, ainda são muitos. Então, Sado, você quer que eu me renda. E se nos rendermos? Ficará satisfeito em perder a vida dessa forma? E se resistirmos, como Katsuie quer? E se ficarmos neste castelo, fecharmos tudo e esperarmos até os Imagawa perderem o apetite, encerrarem o cerco e voltarem para casa? Prolongaríamos nossa vida por cinco ou dez dias, e o que não podemos defender continuaria indefeso. Estamos no fundo do poço, sabe, e nosso destino é interessante. É claro que a miséria também é grande. Mas vejo assim: é a oportunidade de uma vida. Não posso me dar ao luxo de perdê-la. Querem mesmo passar a vida inteira rezando por longevidade? Nascemos para morrer! Quem estiver comigo, venha ao campo de batalha amanhã de manhã. Quem não estiver, fique onde está e me veja vencer!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Com grande vergonha e autoaversão, temos de sinceramente rejeitar sua oferta extremamente generosa. Humildemente peço que considere oportuno melhorar sua oferta para com quem é indigno.</Text>
+			<Text>Com grande vergonha e desprezo por nós mesmos, devemos, com profundo pesar, recusar sua extremamente generosa oferta. Humildemente imploramos que considere melhorá-la para nós, indignos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Você deve fazer melhor que isso.</Text>
+			<Text>Tem de oferecer mais do que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_4">
 			<Text>Quase...</Text>
@@ -200,10 +200,10 @@
 			<Text>Infelizmente, não podemos concordar com a sua gentil e generosa oferta neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_NEUTRAL">
-			<Text>Lamentavelmente, temos de recusar sua oferta.</Text>
+			<Text>Com grande pesar, devemos recusar sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_ANGRY">
-			<Text>Nós rastejamos em admiração a sua beneficência e justiça.</Text>
+			<Text>Prostramo-nos em admiração diante de sua beneficência e retidão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY">
 			<Text>Estamos muito satisfeitos e honrados em concordar com sua oferta.</Text>
@@ -212,7 +212,7 @@
 			<Text>Estamos honrados em aceitar sua oferta justa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_ANGRY">
-			<Text>Nós humildemente solicitamos que você olhe com bons olhos o nosso acordo comercial proposto.</Text>
+			<Text>Pedimos, com toda humildade, que veja com bons olhos nossa proposta de acordo comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_HAPPY">
 			<Text>Em nome de nossa amizade, concordaria com o seguinte acordo?</Text>
@@ -239,22 +239,22 @@
 			<Text>Ficaríamos extremamente honrados em aceitar seu mais generoso e razoável pedido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_1">
-			<Text>Eu humildemente agradeço a sua consideração.</Text>
+			<Text>Agradeço humildemente por sua consideração.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_2">
-			<Text>Ah, bem: para começar, nós provavelmente não precisávamos disso.</Text>
+			<Text>Ah, bem: provavelmente nem precisávamos disso para começar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_3">
 			<Text>Tem razão: somos indignos de tamanha generosidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_4">
-			<Text>Obrigado mesmo!</Text>
+			<Text>Obrigado mesmo assim!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_5">
-			<Text>Muito bem. Tenho certeza que você tem suas razões.</Text>
+			<Text>Muito bem. Tenho certeza de que tem suas razões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ODA_WINWAR_1">
-			<Text>Assim as armas japonesas sempre triunfarão!</Text>
+			<Text>Assim, as armas japonesas sempre triunfarão!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

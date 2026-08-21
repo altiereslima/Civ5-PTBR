@@ -7,13 +7,13 @@
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_1">
-		  <Text>Bem-vindo à Corte de Joseon, amigo! Eu tenho feito muito para ajudar o meu povo - você pode dizer o mesmo?</Text>
+		  <Text>Boas-vindas à Corte de Joseon! Tenho feito muito para ajudar meu povo — você pode dizer o mesmo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_2">
 		  <Text>Saudações! Eu sou Sejong da Coreia. Você veio à procura de sabedoria e conhecimento, que muitos apreciam em minha presença?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_3">
-		  <Text>Bem-vindo à justa Corte da Coreia, honorável estrangeiro. Eu sou Sejong, iluminado líder deste meu poderoso povo.</Text>
+		  <Text>Boas-vindas à justa Corte da Coreia. Eu sou Sejong, líder iluminado deste meu poderoso povo.</Text>
 		</Row>
 		<!--Reacts to his bluff being called -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_1">
@@ -30,7 +30,7 @@
 		  <Text>Tecnologia superior, planejamento e sabedoria triunfam mais uma vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_2">
-		  <Text>Você não pode vencer os veneráveis do Hall da Fama - as melhores mentes do meu país trabalhando juntas contra você.</Text>
+		  <Text>Você não pode vencer os veneráveis do Salão dos Notáveis - as melhores mentes do meu país trabalhando juntas contra você.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_1">
@@ -127,10 +127,10 @@
 		<!--Happy -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_3">
-		  <Text>Saudações, amigo.</Text>
+		  <Text>Saudações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_4">
-		  <Text>Bem-vindo.</Text>
+		  <Text>Boas-vindas.</Text>
 		</Row>
 		<!--Goodbye -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_3">
@@ -145,7 +145,7 @@
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_1">
-		  <Text>Eu gostaria muito de aceitar sua oferta assim como está, mas eu sei que os meus veneráveis do Hall da Fama não aprovariam a minha lógica.</Text>
+		  <Text>Eu gostaria muito de aceitar sua oferta assim como está, mas eu sei que os meus veneráveis do Salão dos Notáveis não aprovariam a minha lógica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_2">
 		  <Text>Isso é o melhor que você pode fazer?</Text>
@@ -167,7 +167,7 @@
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_HAPPY">
-		  <Text>Meu amigo, nós temos muito que discutir e muito a ganhar um com o outro.</Text>
+		  <Text>Em nome de nossa amizade, temos muito que discutir e muito a ganhar um com o outro.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_HAPPY">
@@ -264,7 +264,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_1">
-		  <Text>O Hall da Fama se cansou das suas palhaçadas tiranas. Forçadamente nós devemos libertar sua nação e levá-la ao esclarecimento.</Text>
+		  <Text>O Salão dos Notáveis se cansou das suas palhaçadas tiranas. Forçadamente nós devemos libertar sua nação e levá-la ao esclarecimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_2">
 		  <Text>O tempo não espera por nada e eu sinto que esta marcha é mais que urgente. Você está em nosso caminho e eu não possuo mais recursos para medidas diplomáticas.</Text>

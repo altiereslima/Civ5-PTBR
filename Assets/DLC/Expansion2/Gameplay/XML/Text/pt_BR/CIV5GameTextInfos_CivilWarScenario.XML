@@ -7,14 +7,14 @@
 			<Text>Guerra Civil Americana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_DESC">
-			<Text>De 1861 a 1865, a América sofreu uma sangrenta guerra civil, com o peso da ação centrada entre as capitais de Washington e Richmond. Você pode levar uma dessas nações à vitória?</Text>
+			<Text>De 1861 a 1865, os Estados Unidos atravessaram uma sangrenta guerra civil, com os principais combates concentrados entre as capitais Washington e Richmond. Você consegue conduzir uma dessas jovens nações à vitória?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TURNS_REMAINING">
 			<Text>Turnos restantes: {1_TurnsRemaining}</Text>
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]12 de abril de 1861. Morteiros confederados abrem fogo contra o Forte Sumter no porto de Charleston, sinalizando o início da Guerra Civil Americana. O presidente Abraham Lincoln convoca voluntários para alistamentos de 90 dias, confiante de que a rebelião pode ser reprimida em pouco tempo. Jefferson Davis, recém-eleito presidente dos Estados Confederados, está igualmente otimista. Davis audaciosamente transfere seu governo para Richmond, Virgínia, a apenas 160 quilômetros de Washington, D.C.  Você consegue a rápida vitória que ambos os lados estão prevendo? Ou esta guerra testará se uma nação concebida em liberdade pode perdurar?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Vença capturando a capital do seu oponente antes que o tempo acabe.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Arrasar cidades e colonos estão desativados. Apenas cidades com uma destas edificações de produção podem criar unidades: Arsenal (Infantaria), Estábulo (Cavalaria), Trabalho em Ferro (Artilharia) ou Estaleiro (Unidades Navais). Capture cidades inimigas para controlar esses centros de produção e o recurso Mão de Obra, necessário para unidades de Infantaria. Todas as unidades do jogador que se move primeiro recebem apenas metade de seu movimento usual no turno de abertura. As cidades não têm ataque à distância e apenas defesa mínima acima da força de combate de qualquer guarnição. O alcance dos Grandes Generais aumentou para 5 e eles são deslocados para uma cidade próxima em vez de mortos.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]12 de abril de 1861. Morteiros confederados abrem fogo contra o Forte Sumter, no porto de Charleston, dando início à Guerra Civil Americana. O presidente Abraham Lincoln convoca voluntários para alistamentos de 90 dias, confiante de que a rebelião será reprimida rapidamente. Jefferson Davis, recém-eleito presidente dos Estados Confederados, está igualmente otimista. Davis transfere seu governo para Richmond, Virgínia, a apenas 160 km de Washington, D.C. Você conseguirá a vitória rápida prevista por ambos os lados? Ou esta guerra provará se uma nação concebida em liberdade pode perdurar?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]Vença capturando a capital do adversário antes que o tempo acabe.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Arrasar cidades e fundar novas cidades com Colonos estão desativados. Apenas cidades com uma destas edificações de produção podem criar unidades: Arsenal (Infantaria), Estábulo (Cavalaria), Siderurgia (Artilharia) ou Estaleiro da Marinha (Unidades Navais). Capture cidades inimigas para controlar esses centros de produção e o recurso Mão de Obra, necessário para unidades de Infantaria. No turno inicial, todas as unidades do jogador que se move primeiro recebem apenas metade do movimento normal. As cidades não realizam ataques à distância e possuem apenas uma defesa mínima além da Força de Combate da guarnição. O alcance dos Grandes Generais aumenta para 5; quando derrotados, eles são deslocados para uma cidade próxima em vez de serem mortos.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BRIEFING_BUTTON">
@@ -35,7 +35,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_1">
-			<Text>Nascido em 1809 em uma pequena cabana no centro de Kentucky, Abraham Lincoln surgiu de origens aparentemente humildes para se tornar um dos maiores estadistas da história americana. Em seus primeiros 20 anos, Lincoln serviu em vários papéis governamentais menores antes de ser eleito para a Assembleia Geral de Illinois em 1834. Em 1836, ele começou a praticar direito, e não demorou muito para que ele estabelecesse uma reputação como um advogado astuto disposto a assumir uma ampla variedade de casos. Durante mandatos sucessivos na Câmara de Representantes de Illinois e posteriormente um único mandato na Câmara de Representantes dos EUA, Lincoln ficou conhecido por suas opiniões contrárias à expansão adicional da escravidão nos Estados Unidos, uma questão-chave que se tornou uma marca registrada de sua carreira política.
+			<Text>Nascido em 1809 em uma pequena cabana no centro do Kentucky, Abraham Lincoln ascendeu de origens aparentemente humildes para se tornar um dos maiores estadistas da história dos Estados Unidos. Aos vinte e poucos anos, Lincoln ocupou vários cargos públicos menores antes de ser eleito para a Assembleia Geral de Illinois em 1834. Em 1836, começou a exercer a advocacia e logo conquistou a reputação de advogado astuto, disposto a assumir uma ampla variedade de casos. Durante mandatos sucessivos na Câmara dos Representantes de Illinois e, mais tarde, em um único mandato na Câmara dos Representantes dos Estados Unidos, Lincoln tornou-se conhecido por se opor à expansão da escravidão no país, questão que marcaria sua carreira política.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_2">
@@ -147,35 +147,35 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_TEXT_1">
-			<Text>Os Estados Confederados da América, também conhecidos como Confederação, foram o nome escolhido pelos estados do sul que optaram por se separar dos Estados Unidos após a eleição de Abraham Lincoln para a presidência em 1860. Vendo as perspectivas de Lincoln sobre a escravidão como levando a uma violação dos direitos individuais de cada estado, incluindo o direito de quebrar a constituição e se separar, os estados do sul fizeram exatamente isso. [NEWLINE] [NEWLINE] O Presidente Confederado, Jefferson Davis, procurou supervisionar diretamente não apenas as questões logísticas do esforço de guerra, mas também as estratégias militares e nomeações dos exércitos do sul (assim como seu homólogo no Norte). A Confederação enfrentou uma guerra contra um oponente armado com equipamentos superiores, maior mão de obra e mais matérias-primas dedicadas ao conflito. Essas preocupações pouco fizeram para diminuir o entusiasmo das forças do sul pela luta que se avizinhava, pois viam isso como uma batalha por seu modo de vida e pelos direitos individuais de cada estado em oposição ao governo federal.</Text>
+			<Text>Os estados do Sul que decidiram se separar dos Estados Unidos após a eleição de Abraham Lincoln para a presidência, em 1860, adotaram o nome “Estados Confederados da América”, também conhecido como Confederação. Esses estados viam as posições de Lincoln sobre a escravidão como uma ameaça aos direitos de cada estado, inclusive ao que consideravam ser seu direito de romper com a Constituição e se separar; e foi exatamente o que fizeram.[NEWLINE][NEWLINE]O presidente confederado Jefferson Davis procurou supervisionar diretamente não apenas a logística do esforço de guerra, mas também as estratégias militares e as nomeações dos exércitos do Sul, assim como seu equivalente no Norte. A Confederação enfrentava um adversário com equipamentos superiores, maior disponibilidade de mão de obra e mais matérias-primas destinadas ao conflito. Ainda assim, essas desvantagens pouco reduziram o entusiasmo das forças sulistas pela luta, vista por elas como uma defesa de seu modo de vida e dos direitos dos estados diante do governo federal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_TEXT">
-			<Text>Os Quebra-bloqueios confederados eram navios mercantes leves e rápidos comissionados para escapar ou superar os navios de guerra da União que tentavam fazer cumprir o Plano Anaconda, uma estratégia para privar o Sul de seu comércio de algodão com as nações europeias. Levar algodão para fora e suprimentos médicos e militares para dentro era um negócio lucrativo, se perigoso, para os capitães do Sul; até o final da guerra, a União havia capturado 1100 Quebra-bloqueios e destruído outros 355.</Text>
+			<Text>Os Quebra-bloqueios confederados eram navios mercantes leves e rápidos empregados para furar o bloqueio ou ultrapassar os navios de guerra da União que faziam cumprir o Plano Anaconda, estratégia destinada a privar o Sul de seu comércio de algodão com as nações europeias. Levar algodão para fora e trazer suprimentos médicos e militares era um negócio lucrativo, embora perigoso, para os capitães sulistas; até o fim da guerra, a União havia capturado 1.100 Quebra-bloqueios e destruído outros 355.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CARBINE_CAVALRY_TEXT">
-			<Text>Carabinas, com um cano mais curto do que um rifle, eram menos precisas, mas muito mais fáceis de usar quando montadas. A maioria dos regimentos de cavalaria da União e alguns confederados haviam sido equipados com carabinas até o final da guerra, o que provou seu valor em ações de cavalaria como Brandy Station e Yellow Tavern.</Text>
+			<Text>As carabinas, de cano mais curto que os fuzis, eram menos precisas, mas muito mais fáceis de usar a cavalo. Ao fim da guerra, a maioria dos regimentos de cavalaria da União e alguns da Confederação estavam equipados com carabinas, que provaram seu valor em combates de cavalaria como Brandy Station e Yellow Tavern.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_CORPS_TEXT">
-			<Text>De ambos os lados, o corpo de infantaria era a principal formação organizacional dos exércitos; no Exército Confederado, eles compreendiam de duas a quatro divisões e eram nomeados pelo seu comandante (por exemplo, Corpo de Longstreet), enquanto os Corpos da União eram padronizados em três divisões e simplesmente numerados. Um corpo compreenderia entre 10.000 e 25.000 homens, comandados por um tenente-general no lado Sul e um major-general nos exércitos do Norte.</Text>
+			<Text>Em ambos os lados, o Corpo de Infantaria era uma das principais formações organizacionais dos exércitos. No Exército Confederado, reunia de duas a quatro divisões e recebia o nome de seu comandante (por exemplo, Corpo de Longstreet); na União, os Corpos eram padronizados em três divisões e simplesmente numerados. Um Corpo reunia entre 10.000 e 25.000 homens e era comandado por um tenente-general no Sul e por um major-general nos exércitos do Norte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_DIVISION_TEXT">
 			<Text>Uma divisão de infantaria geralmente era composta de duas a quatro brigadas, cada brigada entre 1200 e 2500 soldados. Comandada por um general, a divisão era a unidade básica de manobra durante a batalha; teoricamente, esses generais tinham a tarefa de guardar o poder de ataque de sua divisão até serem capazes de desferir um golpe forte em vez de uma série de golpes menores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_RIFLED_CANNON_TEXT">
-			<Text>O processo de raiar (estriamento) adiciona ranhuras no interior do cano de um canhão para melhorar o alcance e a precisão da peça, ao custo de um aumento nas despesas de fabricação e da necessidade de um cano mais longo. Embora vários tipos de artilharia raiada tenham sido fornecidos aos exércitos da Guerra Civil, o mais famoso é o Canhão Parrott, usado por ambos os lados em diferentes tamanhos, desde os comuns de 10 libras para uso em campo até os de 300 libras, instalados em fortificações.</Text>
+			<Text>O estriamento acrescenta sulcos ao interior do cano de um canhão para melhorar o alcance e a precisão da peça, ao custo de uma fabricação mais cara e da necessidade de um cano mais longo. Embora vários modelos de artilharia raiada tenham equipado os exércitos da Guerra Civil, o mais famoso foi o Canhão Parrott, usado por ambos os lados em diferentes calibres, desde peças de campanha de cerca de 4,5 kg até enormes peças de fortificação de aproximadamente 136 kg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MILITARY_ENGINEER_TEXT">
 			<Text>Engenharia militar é definida de forma ampla como a arte de projetar e construir fortificações militares e manter as linhas de transporte e comunicação militares. Na Guerra Civil, com os avanços recentes na tecnologia, os engenheiros militares não eram apenas responsáveis pelas fortificações de campo e permanentes, pontes e bases, mas também pela construção e reparo das linhas de trem e telégrafo que mudaram tão dramaticamente a natureza da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_TEXT">
-			<Text>O primeiro navio de guerra movido a vapor revestido de ferro ou aço foi lançado pela Marinha Francesa em 1859, mas as primeiras batalhas envolvendo navios blindados ocorreram em 1862 durante a Guerra Civil. Rapidamente ficou claro que o navio blindado havia substituído o navio de guerra de madeira como o navio de guerra mais poderoso em alto-mar; no final da guerra, a Marinha Confederada lançou 24 couraçados (embora 59 tenham sido iniciados, vários foram destruídos antes da conclusão), enquanto a União comissionou 52 couraçados costeiros.</Text>
+			<Text>O primeiro navio de guerra a vapor revestido de ferro ou aço foi lançado pela Marinha Francesa em 1859, mas as primeiras batalhas envolvendo navios blindados ocorreram em 1862, durante a Guerra Civil. Rapidamente ficou claro que o navio blindado havia substituído o navio de linha de madeira como a embarcação de guerra mais poderosa em atividade; até o fim da guerra, a Marinha Confederada lançou 24 navios blindados (embora 59 tenham sido iniciados e vários destruídos antes da conclusão), enquanto a União colocou em serviço 52 navios blindados costeiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_TEXT">
-			<Text>Na Guerra Civil, um "monitor" era um navio de guerra blindado movido a vapor com uma borda livre muito baixa (cerca de um pé da linha d'água até o convés), montando algumas peças de artilharia pesada em uma ou mais torres. Destinados principalmente para uso nos rios que cortavam o território do Sul, as embarcações impróprias para navegação em alto-mar eram usadas para apoiar as forças terrestres, proteger posições nas margens dos rios e controlar a passagem dos rios; os monitores foram cruciais para as vitórias da União no Oeste, especialmente ao longo do Rio Mississippi.</Text>
+			<Text>Na Guerra Civil, um “monitor” era um navio de guerra blindado a vapor com borda livre extremamente baixa — cerca de 30 cm entre a linha d’água e o convés — e algumas peças de artilharia pesada montadas em uma ou mais torres. Destinadas principalmente aos rios que cortavam o território do Sul, essas embarcações pouco adequadas ao alto-mar apoiavam forças terrestres, protegiam posições ribeirinhas e controlavam a navegação. Os monitores foram decisivos para as vitórias da União no Oeste, especialmente ao longo do Rio Mississippi.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_TEXT">
-			<Text>Os Estados Unidos usaram o recrutamento para aumentar a mão de obra militar pela primeira vez durante a Guerra Civil, promulgando uma lei autorizando o recrutamento de cidadãos para complementar os voluntários. O presidente dos Estados Confederados, Jefferson Davis, propôs a primeira lei de recrutamento do Sul em março de 1862, enquanto as licenças para licenças de voluntários estavam pendentes; ela foi aprovada pelo Congresso Confederado no mês seguinte. As leis de recrutamento de ambas as nações buscaram resolver as deficiências de mão de obra decorrentes das altas taxas de baixas, mas se tornaram cada vez mais impopulares à medida que a guerra avançava.</Text>
+			<Text>Os Estados Unidos recorreram ao recrutamento obrigatório para ampliar sua mão de obra militar pela primeira vez durante a Guerra Civil, aprovando uma lei que convocava cidadãos para complementar os voluntários. O presidente dos Estados Confederados, Jefferson Davis, propôs a primeira lei de recrutamento do Sul em março de 1862, quando se aproximava o vencimento dos alistamentos voluntários; ela foi aprovada pelo Congresso Confederado no mês seguinte. As leis de recrutamento das duas nações procuravam compensar a falta de mão de obra provocada pelas altas taxas de baixas, mas tornaram-se cada vez mais impopulares à medida que a guerra avançava.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_HELP">
 			<Text>A mão de obra é produzida por Quartéis, e é necessária para manter sua Infantaria. Proteger seus Quartéis produtores de Mão de Obra é crucial para a vitória, especialmente no Sul, onde a Mão de Obra é escassa.</Text>
@@ -187,10 +187,10 @@
 			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Canhão Raiado[ENDCOLOR], uma unidade de artilharia com 3 de Alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"O canhão Yankee de três polegadas era um tiro certeiro a qualquer distância inferior a uma milha. Eles podiam acertar o final de um barril de farinha com mais frequência do que errar, a menos que o atirador ficasse nervoso."[NEWLINE][TAB][TAB] - Artilheiro confederado na Batalha de Atlanta[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]“O canhão raiado ianque de 76 mm acertava com precisão qualquer alvo a menos de 1,6 km. Eles conseguiam atingir a extremidade de um barril de farinha mais vezes do que erravam, a menos que o artilheiro ficasse nervoso.”[NEWLINE][TAB][TAB] - Artilheiro confederado na Batalha de Atlanta[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_DESC">
-			<Text>O estriamento adiciona sulcos no interior do cano do canhão para melhorar o alcance e a precisão da peça, com o custo de aumentar o gasto na fabricação e a necessidade de um cano mais longo. Tanto os exércitos da União quanto os Confederados no Teatro Oriental incluíam baterias de artilharia raiada, junto com baterias de canhões de alma lisa e raiados mistos.</Text>
+			<Text>O estriamento adiciona sulcos ao interior do cano do canhão para melhorar o alcance e a precisão da peça, ao custo de maior complexidade e despesa de fabricação e da necessidade de um cano mais longo. Tanto os exércitos da União quanto os da Confederação no Teatro Oriental empregavam baterias de artilharia raiada, além de baterias mistas de canhões de alma lisa e raiados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_HELP">
 			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Corpo de Infantaria[ENDCOLOR], uma melhoria para a Divisão de Infantaria que requer mais mão de obra, mas possui uma [ICON_STRENGTH]Força de Combate muito maior.</Text>
@@ -199,7 +199,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Por que eles chamam de guerras civis quando sempre são extraordinariamente incivilizadas?"[NEWLINE][TAB][TAB] - Elizabeth Fitch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_DESC">
-			<Text>No início da Guerra Civil Americana, havia várias academias militares dedicadas a educar jovens em ciência militar, sendo a mais notável a Academia Militar dos Estados Unidos em West Point. O Sul, por outro lado, ostentava mais e, possivelmente, melhores academias particulares que atendiam às tradições sulistas: as de Citadel, Virgínia e Porter na Carolina do Sul, St. Charles College no Mississippi e outras.</Text>
+			<Text>No início da Guerra Civil havia várias academias militares dedicadas à formação de jovens em ciência militar, sobretudo a Academia Militar dos Estados Unidos em West Point. O Sul, por sua vez, possuía mais academias privadas — e, segundo alguns, melhores — ligadas às tradições sulistas: a Citadel e a Academia Militar Porter, na Carolina do Sul; o Instituto Militar da Virgínia; o St. Charles College, no Mississippi; entre outras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
 			<Text>Permite construir o [COLOR_POSITIVE_TEXT]Engenheiro Militar[ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Ferrovias. Esta unidade também pode ser consumida para construir uma Cidadela ou Ponte de Barcas.</Text>
@@ -217,7 +217,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Nossos melhores oficiais estimam que um homem armado com uma Carabina Spencer é equivalente a três com qualquer outra arma."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
-			<Text>A Guerra Civil Americana é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os Rifles de Repetição, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilhava o mecanismo de disparo.</Text>
+			<Text>A Guerra Civil Americana é frequentemente mencionada como a primeira guerra “moderna” da história, em parte pelo uso de armas inovadoras. Uma das mais decisivas no nível tático foi o Rifle de Repetição, uma arma de cano único capaz de carregar vários cartuchos, cujo mecanismo de recarga também reengatilhava a arma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
 			<Text>Permite construir [COLOR_POSITIVE_TEXT]Navios Blindados[ENDCOLOR], uma poderosa unidade naval que dominará as embarcações navais de madeira.</Text>
@@ -241,7 +241,7 @@
 			<Text>Dobra a taxa de cura de todas as suas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Este conflito é uma coisa que tenho esperado. Estou bem, forte e jovem - jovem o suficiente para ir para a frente. Se não posso ser um soldado, vou ajudar os soldados."[NEWLINE][TAB][TAB] - Clara Barton[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]“Este conflito é algo pelo qual eu esperava. Estou bem, forte e jovem — jovem o bastante para ir à frente de batalha. Se não posso ser soldado, ajudarei os soldados.”[NEWLINE][TAB][TAB] - Clara Barton[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_DESC">
 			<Text>Antes da Guerra Civil Americana, os exércitos tendiam a ser pequenos, principalmente devido a questões logísticas e de mobilização. Mas os exércitos maiores e em movimento mais rápido, juntamente com a crescente letalidade das armas, trouxeram a demanda tanto dos civis quanto dos oficiais por um melhor método de tratamento dos feridos. No lado da União, após a Batalha de Bull Run, o General McClellan nomeou o cirurgião Charles Tipler como o primeiro diretor médico do Exército de Potomac; em 1862, William Hammond foi nomeado Cirurgião Geral dos Estados Unidos e lançou uma série de reformas nos procedimentos de evacuação, tratamento e recuperação dos feridos, incluindo hospitais de campanha integrados operando nas linhas de frente.</Text>
@@ -259,10 +259,10 @@
 			<Text>Reduz pela metade o tempo para construir Ferrovias e dobra sua taxa de movimento em Ferrovias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"O Norte pode fabricar uma máquina a vapor, locomotiva ou vagão de trem; mal você pode fazer um jarda de tecido ou um par de sapatos. Você está se precipitando para a guerra com um dos povos mais poderosos, engenhosamente mecânicos e determinados da Terra, bem à sua porta."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]“O Norte pode fabricar uma máquina a vapor, uma locomotiva ou um vagão ferroviário; vocês mal conseguem produzir um metro de tecido ou um par de sapatos. Estão se precipitando numa guerra contra um dos povos mais poderosos, engenhosos, mecanizados e determinados da Terra — bem à sua porta.”[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_DESC">
-			<Text>O Departamento de Guerra dos Estados Unidos criou a Ferrovia Militar dos Estados Unidos (USMRR, sigla em inglês) em 1862 para operar todas as linhas ferroviárias apreendidas depois que o Congresso autorizou Lincoln a requisitar todas as ferrovias e linhas telegráficas para uso militar. No final da guerra, a USMRR controlava mais de 3.000 quilômetros de trilhos no norte e linhas ferroviárias capturadas no sul.</Text>
+			<Text>A Ferrovia Militar dos Estados Unidos (USMRR) foi criada pelo Departamento de Guerra em 1862 para operar linhas ferroviárias apreendidas pelo governo federal, depois que o Congresso autorizou Lincoln a requisitar ferrovias e linhas telegráficas para uso militar. Ao fim da guerra, a USMRR controlava mais de 3.200 km de trilhos do Norte, além de linhas ferroviárias capturadas no Sul.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_HELP">
 			<Text>Permite construir [COLOR_POSITIVE_TEXT]Metralhadoras Gatling[ENDCOLOR], uma poderosa unidade com 1 de Alcance.</Text>
@@ -280,7 +280,7 @@
 			<Text>[NEWLINE][TAB][TAB]"A guerra é o inferno."[NEWLINE][TAB][TAB] - William Tecumseh Sherman[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_DESC">
-			<Text>Uma estratégia antiga, "terra arrasada" se refere a campanhas destinadas a destruir tudo o que possa ser útil ao inimigo, incluindo propriedades civis. Na Guerra Civil, diante de uma guerra que durou o suficiente para se tornar cada vez mais impopular na retaguarda, os Estados Unidos iniciaram a política, mais famosamente durante a marcha ao mar de Sherman e a campanha de Sheridan no Vale de Shenandoah.</Text>
+			<Text>Estratégia antiga, “terra arrasada” designa campanhas destinadas a destruir tudo o que possa ser útil ao inimigo, inclusive propriedades civis. Na Guerra Civil, diante de um conflito prolongado que se tornava cada vez mais impopular na frente doméstica, os Estados Unidos adotaram essa política sobretudo durante a Marcha ao Mar de Sherman e a campanha de Sheridan no Vale de Shenandoah.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_HELP">
 			<Text>Dobra o bônus de combate por estar fortificado.</Text>
@@ -289,7 +289,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Sempre lamentei que o último ataque em Cold Harbor tenha sido feito."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_DESC">
-			<Text>Uma fortificação de campo destinada a proteger a infantaria contra a cavalaria e o fogo de mísseis, trincheiras têm sido usadas na guerra desde os primeiros dias; durante a Guerra Civil, trincheiras temporárias foram cavadas durante as batalhas, como em Gettysburg, enquanto trincheiras mais elaboradas e extensas protegiam cidades estratégicas como Washington e Richmond.</Text>
+			<Text>Fortificações de campanha destinadas a proteger a infantaria contra cavalaria e projéteis são usadas desde os primórdios da guerra. Durante a Guerra Civil, trincheiras temporárias eram cavadas durante as batalhas, como em Gettysburg, enquanto sistemas mais elaborados e extensos protegiam cidades estratégicas como Washington e Richmond.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_1">
 			<Text>Permite que a cavalaria saqueie hexágonos.</Text>
@@ -306,7 +306,7 @@
 			<Text>Permite que unidades terrestres atravessem este hexágono de Litoral. Só pode ser construída em um hexágono de Litoral com 4 ou mais hexágonos terrestres adjacentes a ela. Construída por um Engenheiro Militar embarcado, que é consumido durante a construção da Ponte de Barcas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_TEXT">
-			<Text>As Pontes de Barcas (ou "Flutuantes") foram usadas por ambos os lados durante a guerra para permitir a travessia rápida de rios por infantaria, artilharia e carroças; um design inovador e leve conhecido como Cumberland Pontoons foi especialmente crucial durante as campanhas da União no sul profundo.</Text>
+			<Text>As pontes de barcas (ou “pontes flutuantes”) foram usadas por ambos os lados durante a guerra para permitir a travessia rápida de rios por infantaria, artilharia e carroças; um projeto inovador e leve conhecido como Cumberland Pontoons foi especialmente importante durante as campanhas da União no Extremo Sul.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE">
 			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]Ponte de Barcas[\LINK]</Text>
@@ -386,7 +386,7 @@
 			<Text>EVENTO PRÓ-UNIÃO: Proclamação de Emancipação[NEWLINE][NEWLINE]Abraham Lincoln emitiu uma grande proclamação declarando a liberdade de todas as pessoas escravizadas no território Confederado. A Mão de Obra da União aumenta em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CLARA_BARTON">
-			<Text>EVENTO PRÓ-UNIÃO: Clara Barton[NEWLINE][NEWLINE]A humanitária Clara Barton foi nomeada para liderar os hospitais de campanha da União neste teatro. Graças aos esforços desta "Anjo do Campo de Batalha", a Mão de Obra da União aumenta em {1_Num}.</Text>
+			<Text>EVENTO PRÓ-UNIÃO: Clara Barton[NEWLINE][NEWLINE]A humanitária Clara Barton foi nomeada para liderar os hospitais de campanha da União neste teatro. Graças aos esforços deste “Anjo do Campo de Batalha”, a Mão de Obra da União aumenta em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CALL_VOLUNTEERS">
 			<Text>EVENTO PRÓ-UNIÃO: Chamado para Voluntários[NEWLINE][NEWLINE]O apelo urgente de Abraham Lincoln por voluntários da União foi atendido. {1_Num} divisões de infantaria da União acabam de chegar via ferrovia do Nordeste.</Text>
@@ -407,10 +407,10 @@
 			<Text>EVENTO PRÓ-CONFEDERADO: Distúrbios Contra o Recrutamento em Nova Iorque[NEWLINE][NEWLINE]A instabilidade civil tomou conta de Nova Iorque! Distúrbios estouraram devido às últimas leis de recrutamento da União, que convocam homens para o serviço militar. Tropas precisarão ser desviadas para conter a agitação. A Mão de Obra da União diminui em {1_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_COTTON_PRICES">
-			<Text>EVENTO PRÓ-CONFEDERADO: Preços do Algodão[NEWLINE][NEWLINE]Os preços do algodão dispararam na Europa. Os lucros Confederados com a corrida de bloqueio aumentam dramaticamente. A causa Confederada ganha {1_Num} de [ICON_GOLD]Ouro.</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Preços do Algodão[NEWLINE][NEWLINE]Os preços do algodão dispararam na Europa. Os lucros confederados com as operações de quebra-bloqueio aumentam drasticamente. A causa confederada ganha {1_Num} de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MOSBYS_RAIDERS">
-			<Text>EVENTO PRÓ-CONFEDERADO: Os Guerreiros de Mosby[NEWLINE][NEWLINE]Guerrilheiros Confederados liderados por John S. Mosby capturaram diversos grandes comboios de carroças da União no norte da Virgínia. {1_Num}% do [ICON_GOLD]Ouro atual da União em seu tesouro foi tomado pelos Confederados!</Text>
+			<Text>EVENTO PRÓ-CONFEDERADO: Os Guerrilheiros de Mosby[NEWLINE][NEWLINE]Guerrilheiros confederados liderados por John S. Mosby capturaram vários grandes comboios de carroças da União no norte da Virgínia. A Confederação tomou {1_Num}% do [ICON_GOLD]Ouro que a União tinha em seu tesouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_LEE_ARRIVES">
 			<Text>EVENTO PRÓ-CONFEDERADO: Robert E. Lee Assume o Comando[NEWLINE][NEWLINE]Joe Johnston foi ferido em batalha. Robert E. Lee é promovido para comandar o Exército da Virgínia do Norte. Isso aumenta o modificador de combate do Grande General Confederado de +20% para +30%. Todas as unidades que começarem o turno dentro de 5 hexágonos ganham +1 de [ICON_MOVES]Movimento.</Text>
@@ -425,10 +425,10 @@
 			<Text>NOVO COMANDANTE DA UNIÃO: Joe Hooker[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln sente que é hora de substituir o atual comandante da União. Joe Hooker assume o comando. Ele fornece um modificador de combate de 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MEADE">
-			<Text>NOVO COMANDANTE DA UNIÃO: George Meade[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln mais uma vez procura um novo comandante. George Meade assume o comando, uma clara melhoria em relação ao comando anterior. Ele fornece um significativo modificador de combate de +30%.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: George Meade[NEWLINE][NEWLINE]Após a derrota em {1_CityName}, Lincoln mais uma vez procura um novo comandante. George Meade assume o comando, uma clara melhoria em relação à liderança anterior. Ele fornece um modificador de combate significativo de +30%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_GRANT">
-			<Text>NOVO COMANDANTE DA UNIÃO: Ulysses Grant[NEWLINE][NEWLINE]Lincoln finalmente encontrou seu homem. Ulysses Grant, já vitorioso em diversas campanhas no Teatro do Oeste, é trazido para o leste e assume o comando. Ele fornece um modificador de combate de 30% e todas as unidades que começarem o turno dentro de 5 hexágonos ganham +1 de [ICON_MOVES]Movimento.</Text>
+			<Text>NOVO COMANDANTE DA UNIÃO: Ulysses Grant[NEWLINE][NEWLINE]Lincoln finalmente encontrou o comandante que procurava. Ulysses Grant, já vitorioso em diversas campanhas no Teatro do Oeste, é trazido para o leste e assume o comando. Ele fornece um modificador de combate de 30%, e todas as unidades que começarem o turno a até 5 hexágonos dele ganham +1 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_IMPROVEMENTS_CITADEL_TEXT">
 			<Text>Uma Cidadela é uma poderosa fortificação que só pode ser construída por um Engenheiro. Ao construir a Cidadela, suas fronteiras culturais também se expandirão para cercar a Cidadela de todos os lados por um hexágono. Qualquer unidade estacionada dentro de uma Cidadela recebe um bônus de força defensiva de 100%. Além disso, qualquer unidade inimiga que encerrar seu turno ao lado de uma Cidadela sofre 30 de dano (o dano não se acumula com outras Cidadelas).</Text>

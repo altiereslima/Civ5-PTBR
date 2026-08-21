@@ -12,7 +12,7 @@
       <Text>Sou Teodora, senhora de todas as maravilhas e belezas do mundo. Impressione-me, e talvez eu encontre para você um lugar apropriado em minha coleção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_3">
-      <Text>Embora eu tenha muitos admiradores, você está entre meus convidados mais estimados. Pode me chamar de Teodora, favorecida Imperatriz de Bizâncio.</Text>
+      <Text>Embora eu tenha muitos admiradores, você está entre as pessoas que mais estimo receber. Pode me chamar de Teodora, favorecida Imperatriz de Bizâncio.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_1">
@@ -46,7 +46,7 @@
       <Text>Age como uma criança brincando com seus brinquedos. Meu povo jamais amará você, nem aceitará esta indignidade de bom grado.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_3">
-      <Text>Quando o sol nascer novamente, ele chorará pelo que vir. O sangue desta civilização corre dentro de mim... e eu não mais existirei.</Text>
+      <Text>Quando o sol nascer novamente, chorará pelo que verá. A essência desta civilização corre em minhas veias... e agora eu não existo mais.</Text>
     </Row>    
     <!--Neutral -->
     <!--Greetings (subsequent meetings) -->
@@ -75,7 +75,7 @@
       <Text>Não há nada mais a oferecer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -206,7 +206,7 @@
     </Row>
     <!--Trade offer from player - yes -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_ANGRY">
-      <Text>Tudo bem. Concordo</Text>
+      <Text>Tudo bem. Concordo.</Text>
     </Row> 
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_1">
@@ -239,7 +239,7 @@
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_ANGRY">
-      <Text>Espero que recuse, para que eu possa oferecer isto a alguém mais digno.</Text>
+      <Text>Espero que recuse, para que eu possa oferecer isto a quem mereça mais.</Text>
     </Row> 
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_4">
@@ -275,7 +275,7 @@
       <Text>Ora, meu bem, ataques de fúria não lhe caem bem. Terei que ensinar uma lição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_3">
-      <Text>O quê? Achou que era a única opção? Muitos virão em meu auxílio — seu apoio está longe de ser o único.</Text>
+      <Text>O quê? Achou que só você me cortejava? Muitos virão em meu auxílio — você é apenas mais uma pessoa entre tantas.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

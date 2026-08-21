@@ -22,7 +22,7 @@
             <Text>Ótimo! Nossos mensageiros chegaram encontraram você a tempo. Nós temos um novo pedido que pode ser de seu interesse.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_GREETING_MERCANTILE">
-            <Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] e possuímos muitos luxos que podem fazer nossos cidadãos felizes.</Text>
+            <Text>Somos um povo [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR] e possuímos muitos luxos capazes de aumentar a Felicidade dos seus cidadãos.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_GREETING_RELIGIOUS">
             <Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Religioso[ENDCOLOR] e podemos ajudar a estimular suas tradições religiosas.</Text>
@@ -79,10 +79,10 @@
             <Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_TECHS_FORMAL} Até agora, o líder possui {1_LeaderScore} {1: plural 1?tecnologia; other?tecnologias;} e você tem [COLOR_POSITIVE_TEXT]{2_PlayerScore}[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_INVEST">
-            <Text>Presentes em Ouro são temporariamente mais efetivos.</Text>
+            <Text>Presentes em Ouro são temporariamente mais eficazes.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_INVEST_FORMAL">
-            <Text>Presentes em Ouro são temporariamente mais efetivos.</Text>
+            <Text>Presentes em Ouro são temporariamente mais eficazes.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_BULLY_CITY_STATE">
             <Text>Nós gostaríamos que você humilhasse nossas Cidades-Estado rivais, para colocá-las na linha.</Text>
@@ -109,13 +109,13 @@
             <Text>Atualmente, esta Cidade-Estado não lhe deu nenhuma missão. Ela oferecerá missões periodicamente, mas pode deixar de fazê-lo se você a tiver intimidado recentemente.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_TT">
-            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] amiga fornecerá [ICON_HAPPINESS_1] Felicidade extra ao seu Império e fabricará recursos de luxo que não podem ser adquiridos de outra forma.</Text>
+            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR] amiga fornecerá [ICON_HAPPINESS_1] Felicidade extra ao seu Império e produzirá Recursos de Luxo exclusivos que não podem ser obtidos de outra forma.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_RELIGIOUS_TT">
             <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR] amiga aumentará sua [ICON_PEACE] Fé, permitindo-lhe fortalecer sua religião com novas crenças e unidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
-            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares como presente.[NEWLINE][NEWLINE]Ela conhece os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você formar uma aliança com ela e tiver pesquisado a tecnologia {@2_PrereqTech}, ela lhe dará essa unidade como presente.</Text>
+            <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares avançadas como presente.[NEWLINE][NEWLINE]Ela conhece os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você formar uma aliança com ela e tiver pesquisado a tecnologia {@2_PrereqTech}, ela lhe dará essa unidade como presente.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_NO_UU_TT">
             <Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente fornecerá unidades militares avançadas como presente.</Text>
@@ -304,7 +304,7 @@
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} olha para outro lugar.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_INVEST">
-            <Text>{3: gender *:noart?{}; feminine?{3: plural 2?As ; other?A ;}; masculine?{3: plural 2?Os ; other?O ;}; other?{};}{3_MinorCivName:textkey} {3: plural 2?estão; other?está;} empreendendo um grande projeto público de construção. Cada presente em Ouro para eles durante este período será mais efetivo, recompensando [COLOR_POSITIVE_TEXT]{2_BoostPercentage}%[ENDCOLOR] mais [ICON_INFLUENCE] Influência. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
+            <Text>{3: gender *:noart?{}; feminine?{3: plural 2?As ; other?A ;}; masculine?{3: plural 2?Os ; other?O ;}; other?{};}{3_MinorCivName:textkey} {3: plural 2?estão; other?está;} realizando um grande projeto de obras públicas. Cada presente em Ouro durante esse período será mais eficaz, concedendo [COLOR_POSITIVE_TEXT]{2_BoostPercentage}%[ENDCOLOR] mais [ICON_INFLUENCE] Influência. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_INVEST">
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?procuram; other?procura;} investidores!</Text>
@@ -370,7 +370,7 @@
             <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?cancelaram; other?cancelou;} pedidos.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MERCANTILE">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+            <Text>Por ser uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu Império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_RELIGIOUS">
             <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece relíquias religiosas valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
@@ -382,7 +382,7 @@
             <Text>({1_NumFaith} de [ICON_PEACE] Fé {1: plural 1?perdido; other?perdidos;} por turno)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MERCANTILE">
-            <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+            <Text>Por ser uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu Império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_RELIGIOUS">
             <Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece suas relíquias religiosas mais valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
@@ -485,10 +485,10 @@
         </Row>
         <!-- === END City-States === -->
         <Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED_ACTIVE_PLAYER">
-            <Text>Você fundou a nova religião {@1_ReligionName} na cidade santa {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}.</Text>
+            <Text>Você fundou a nova religião {@1_ReligionName} na Cidade Sagrada {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED">
-            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 2?fundaram; other?fundou;} a nova religião {@2_ReligionName} na cidade santa {@3: gender *:noart?de; feminine?{@3: plural 2?das; other?da;}; masculine?{@3: plural 2?dos; other?do;}; other?de;} {@3_CityName}.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 2?fundaram; other?fundou;} a nova religião {@2_ReligionName} na Cidade Sagrada {@3: gender *:noart?de; feminine?{@3: plural 2?das; other?da;}; masculine?{@3: plural 2?dos; other?do;}; other?de;} {@3_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED_UNKNOWN">
             <Text>Uma civilização desconhecida fundou a nova religião {@1_ReligionName} em uma de suas cidades.</Text>
@@ -599,7 +599,7 @@
             <Text>A unidade precisa estar em uma de suas cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SPREAD_RELIGION_HELP">
-            <Text>Esta ordem converterá, à religião da unidade, alguns dos cidadãos da cidade próxima. Esta unidade será consumida se esta é a última ação para disseminar religião. Disseminar utilizando um Grande Profeta também remove a influência de outras religiões.</Text>
+            <Text>Esta ordem converterá alguns cidadãos da cidade próxima à religião da unidade. A unidade será consumida se esta for sua última ação de Disseminar Religião. Quando realizada por um Grande Profeta, a ação também remove a influência de outras religiões.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SPREAD_RELIGION_DISABLED_HELP">
             <Text>A unidade precisa estar dentro ou adjacente a uma cidade (não precisa ser uma cidade amiga).</Text>
@@ -623,7 +623,7 @@
             <Text>Esta ordem consumirá a Grande Personalidade e lhe permitirá adicionar duas novas crenças a sua religião. Você também terá a opção de comprar Inquisidores para defender sua religião.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ENHANCE_RELIGION_DISABLED_HELP">
-            <Text>A unidade precisa estar dentro da cidade santa desta religião.</Text>
+            <Text>A unidade precisa estar na Cidade Sagrada desta Religião.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_REPAIR_FLEET_HELP">
             <Text>Esta ordem consumirá o Grande Almirante e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
@@ -686,7 +686,7 @@
             <Text>[NEWLINE][NEWLINE]Uma Declaração de Amizade é necessária para negociar esse item (a não ser que seja um acordo de paz).</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_NEED_DOF_TT_ONE_LINE">
-            <Text>Uma Declaração de Amizade é necessária para negociar este item (a não ser que seja um acordo de paz). Ao invés disso, considere negociar ouro por turno.</Text>
+            <Text>Uma Declaração de Amizade é necessária para negociar este item (a menos que seja um acordo de paz). Em vez disso, considere negociar Ouro por turno.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_TECH">
             <Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Cavalaria).</Text>

@@ -72,7 +72,7 @@
       <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -125,7 +125,7 @@
       <Text>Boas-vindas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_4">
-      <Text>Ah! É bom revê-la.</Text>
+      <Text>Ah! É bom ver você novamente.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_3">
@@ -154,7 +154,7 @@
     </Row>
     <!--Demand for tribute from player - yes -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_HAPPY">
-      <Text>Estamos sempre em prontidão para auxiliar quem nos é aliado em suas necessidades.</Text>
+      <Text>Estamos sempre em prontidão para auxiliar quem está ao nosso lado.</Text>
     </Row>
     <!--Demand for tribute from player - no -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_HAPPY">

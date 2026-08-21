@@ -29,7 +29,7 @@
       <Text>Maldita seja sua linhagem por mil gerações! Pagará por isto!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_ATTACKED_2">
-      <Text>Criatura maligna! Nossos bravos guerreiros vão massacrar você!</Text>
+      <Text>Criatura maligna! Meus bravos guerreiros vão massacrar você!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_ATTACKED_3">
       <Text>Que assim seja. Muitos de seus guerreiros morrerão por sua estupidez.</Text>
@@ -41,25 +41,25 @@
       <Text>É melhor morrer como leões do que viver como cães — prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DECLAREWAR_3">
-      <Text>Você é uma praga sobre a Mãe Terra — prepare-se para a guerra!</Text>
+      <Text>Você é uma praga para a Mãe Terra — prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_1">
-      <Text>Meu povo foi destruído. Espero que ao menos tenha saciado sua sede de sangue.</Text>
+      <Text>Meu povo foi destruído. Rezo para que enfim tenha saciado sua sede de sangue.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_2">
-      <Text>Fomos vencidos... Que assim seja. Mas nosso espírito jamais será vencido! Voltaremos!</Text>
+      <Text>Fomos vencidos... Que assim seja. Mas nossos espíritos jamais serão vencidos! Voltaremos!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_3">
-      <Text>Estamos acabados. Nossos guerreiros estão mortos; nossas terras são suas. Talvez em outro mundo encontremos a paz que não encontramos neste.</Text>
+      <Text>Estamos acabados. Nossos guerreiros foram massacrados; nossas terras são suas. Talvez no próximo mundo encontremos a paz que não encontramos neste.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_ANGRY">
-      <Text>Exigimos o seguinte como tributo. Aguardamos sua resposta.</Text>
+      <Text>Exigimos o seguinte como tributo. Meus bravos guerreiros aguardam sua resposta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_HAPPY">
       <Text>Em nome de nossa amizade, pode nos ajudar em nosso momento de necessidade?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Exigimos o seguinte como tributo. Não ouse negar.</Text>
+      <Text>Exigimos o seguinte como tributo. Não recuse.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_1">
       <Text>Não.</Text>
@@ -80,7 +80,7 @@
       <Text>Não está falando sério!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_7">
-      <Text>Como...?</Text>
+      <Text>Perdão, como disse?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_FIRSTGREETING_1">
       <Text>Saudações! Sou Hiawatha, porta-voz dos iroqueses. Buscamos a paz com todos, mas não tememos a guerra.</Text>
@@ -98,19 +98,19 @@
       <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_3">
-      <Text>Vá em paz.</Text>
+      <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_4">
-      <Text>Até mais.</Text>
+      <Text>Até a próxima.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_5">
-      <Text>Vá embora!</Text>
+      <Text>Vá embora agora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_6">
       <Text>Isso é tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_7">
-      <Text>Isso era tudo.</Text>
+      <Text>Nosso assunto aqui terminou.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_1">
       <Text>Boas-vindas.</Text>
@@ -122,13 +122,13 @@
       <Text>Saudações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_4">
-      <Text>Tenha um bom dia.</Text>
+      <Text>Bom dia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_5">
       <Text>Ah, é você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_6">
-      <Text>Está bem?</Text>
+      <Text>Pois não?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_7">
       <Text>O que quer?</Text>
@@ -137,7 +137,7 @@
       <Text>Prossiga.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_2">
-      <Text>Avance.</Text>
+      <Text>Prossiga.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_3">
       <Text>Estou ouvindo.</Text>
@@ -146,7 +146,7 @@
       <Text>Sim?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_5">
-      <Text>O que você disse?</Text>
+      <Text>Estava dizendo?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_6">
       <Text>E?</Text>
@@ -161,7 +161,7 @@
       <Text>É um erro tentar nos enganar. Melhore sua oferta ou vá embora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_ANGRY_2">
-      <Text>Isto não é o suficiente.</Text>
+      <Text>Isso não basta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_ANGRY_3">
       <Text>Melhore sua oferta.</Text>
@@ -176,13 +176,13 @@
       <Text>Quase lá...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Contas brilhantes e bugigangas de vidro já não nos interessam — terá de oferecer algo melhor.</Text>
+      <Text>Contas brilhantes e bugigangas de vidro já não nos interessam; terá de oferecer mais.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_2">
-      <Text>Você pode se esforçar um pouco mais?</Text>
+      <Text>Pode melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não é o suficiente.</Text>
+      <Text>Ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase lá...</Text>
@@ -191,10 +191,10 @@
       <Text>Pensa que somos tolos? Suma daqui.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NO_HAPPY">
-      <Text>Suas palavras doces não escondem por completo que pretende nos roubar até o último bem.</Text>
+      <Text>Suas palavras melosas não escondem por completo o fato de que pretende nos roubar tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NO_NEUTRAL">
-      <Text>Pretende nos deixar nus e famintos na floresta? Certamente não.</Text>
+      <Text>Pretende nos deixar nus e famintos na floresta? Claro que não.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_YES_ANGRY">
       <Text>Aceitamos.</Text>
@@ -209,13 +209,13 @@
       <Text>Mesmo contra meu bom senso, ofereço esta troca.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_HAPPY">
-      <Text>Em nome de nossa amizade, este acordo serve para você?</Text>
+      <Text>Em nome de nossa amizade, esta troca lhe convém?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_NEUTRAL">
       <Text>Esta troca lhe interessa?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_ANGRY">
-      <Text>Que tolice! Preferimos morrer a nos submeter à sua chantagem.</Text>
+      <Text>Idiota! Preferimos morrer a nos submeter à sua chantagem.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_HAPPY">
       <Text>Mesmo em nome de nossa amizade, não podemos ser tão generosos.</Text>
@@ -233,7 +233,7 @@
       <Text>Aceitamos suas condições. Mas um dia lamentará sua ganância.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_1">
-      <Text>Que estupidez...</Text>
+      <Text>Que tolice, que tolice...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_2">
       <Text>Está jogando um jogo perigoso.</Text>

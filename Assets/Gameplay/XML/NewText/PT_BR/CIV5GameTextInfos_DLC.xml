@@ -49,7 +49,7 @@
 			<Text>Conquista do Novo Mundo Deluxe</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_DENMARK_DLC_AVAILABLE">
-			<Text>DLC VIKING DISPONÍVEL</Text>
+			<Text>DLC VIKINGUE DISPONÍVEL</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPMAPPACK_DLC_AVAILABLE">
 			<Text>DLC DE PACOTE DE MAPAS DISPONÍVEL</Text>
@@ -58,7 +58,7 @@
 			<Text>JOGAR CIVWORLD AGORA!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ACE_PATROL_PROMO">
-			<Text>ACE PATROL NO STEAM</Text>
+			<Text>ACE PATROL NA STEAM</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DLC_MAP_PACK_2_AVAILABLE">
 			<Text>CONTINENTES MISTURADOS</Text>

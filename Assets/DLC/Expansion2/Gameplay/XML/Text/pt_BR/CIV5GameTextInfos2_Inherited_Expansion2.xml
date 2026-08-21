@@ -49,7 +49,7 @@
 		</Row>
 		<!-- City-States -->
 		<Row Tag="TXT_KEY_INTERFACEMODE_GIFT_TILE_IMPROVEMENT">
-			<Text>Modo Presente da Melhoria do Hexágono</Text>
+			<Text>Modo de Presentear Melhoria de Hexágono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_DISPLAY">
 			<Text>Esta é a visão geral da Religião!</Text>
@@ -61,19 +61,19 @@
 			<Text>Esta é a visão geral da Espionagem!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_OVERVIEW_BODY">
-			<Text>A tela de Espionagem lhe dá uma visão geral da sua rede de inteligência. Você pode usá-la para verificar a atual situação dos seus espiões. Mas ela também é [COLOR_ADVISOR_HIGHLIGHT_TEXT]o local central de onde você dá ordens aos seus espiões[/COLOR]: seja para movê-los para uma cidade diferente, para realizar uma avaliação ou para roubar uma tecnologia.</Text>
+			<Text>A tela de Espionagem oferece uma visão geral de toda a sua rede de inteligência. Você pode usá-la para verificar a situação atual dos seus espiões. Ela também é [COLOR_ADVISOR_HIGHLIGHT_TEXT]o centro de comando de onde você dá ordens aos seus espiões[/COLOR]: movê-los para outra cidade, estabelecer Vigilância ou roubar uma tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_DISPLAY">
 			<Text>Escolha um Panteão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_BODY">
-			<Text>O seu povo está alegre! Você acumulou [ICON_PEACE] Fé suficiente [COLOR_ADVISOR_HIGHLIGHT_TEXT]para fundar um Panteão[/COLOR], o primeiro passo rumo à criação de uma Religião.[NEWLINE][NEWLINE]Após clicar na Notificação abaixo, as Crenças disponíveis para você será exibida. Geralmente, elas são baseadas no terreno, então, escolha alguma que você pense que vai ajudá-lo dependendo do terreno que você possua a sua volta.</Text>
+			<Text>Seu povo está em festa! Você acumulou [ICON_PEACE] Fé suficiente [COLOR_ADVISOR_HIGHLIGHT_TEXT]para fundar um Panteão[/COLOR], o primeiro passo para fundar uma Religião.[NEWLINE][NEWLINE]Após clicar na Notificação abaixo, serão exibidas as Crenças de Panteão disponíveis. Em geral, elas são baseadas no terreno; escolha a que melhor aproveite as características da região ao seu redor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_DISPLAY">
 			<Text>Você pode fundar uma Religião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_BODY">
-			<Text>Os sermões do seu Grande Profeta foram ouvidos e você agora pode [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Escolha um símbolo e um nome para ela. Em seguida, você deverá escolher duas Crenças para a sua nova Religião: uma Crença Fundadora (bônus de jogador a quem fundar a religião) e uma Crença de Devoção (Crença baseada em cidades que se aplica a qualquer uma em que sua Religião se disseminar).</Text>
+			<Text>Os sermões do seu Grande Profeta foram ouvidos, e agora você pode [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Escolha um símbolo e um nome para ela. Em seguida, você poderá escolher duas Crenças adicionais para sua nova Religião: uma Crença Fundadora (bônus para o jogador que fundar a Religião) e uma Crença de Devoção (bônus em nível de cidade que se aplica a qualquer cidade para a qual sua Religião se disseminar).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_TECH_TO_STEAL_DISPLAY">
 			<Text>Você pode roubar uma Tecnologia!</Text>
@@ -94,7 +94,7 @@
 			<Text>Você pode usar a tela de Espionagem (encontrada no botão Informações Adicionais do canto superior direito da tela) para colocar seus espiões ou na ofensiva (para espionar e roubar civilizações estrangeiras) ou na defensiva (para proteger suas cidades e tecnologias).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_BODY">
-			<Text>Você obteve seu primeiro ponto de [ICON_PEACE] Fé. A [ICON_PEACE] Fé pode ser usada para fundar um Panteão, para produzir Grandes Profetas e, quando você tiver fundado uma religião, para comprar Missionários, Inquisidores e edificações religiosas. Coloque o mouse sobre o ícone da [ICON_PEACE] Fé, na barra de menu superior, para ver o quanto de [ICON_PEACE] Fé você precisa para a próxima ação.</Text>
+			<Text>Você obteve seu primeiro ponto de [ICON_PEACE] Fé. A [ICON_PEACE] Fé pode ser usada para fundar um Panteão, fazer surgir Grandes Profetas e, depois que você fundar uma Religião, comprar Missionários, Inquisidores e edificações religiosas. Coloque o mouse sobre o ícone de [ICON_PEACE] Fé na barra de menu superior para ver quanto de [ICON_PEACE] Fé ainda falta para atingir o próximo marco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_DISPLAY">
 			<Text>Você tem Fé!</Text>
@@ -106,7 +106,7 @@
 			<Text>Você tem um espião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_BODY">
-			<Text>A forte Fé do seu povo inspirou o surgimento de um Grande Profeta![NEWLINE][NEWLINE]Já que este é o seu primeiro Grande Profeta, eu recomendo que você o use para [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Assim, você possuirá total controle sobre Crenças que a Religião lhe dará. Há uma quantidade máxima de Religiões permitidas em cada jogo, então pegue a sua o mais rápido que puder.</Text>
+			<Text>A fé inabalável do seu povo inspirou o surgimento de um Grande Profeta![NEWLINE][NEWLINE]Como este é o seu primeiro Grande Profeta, recomendo fortemente que você o use para [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Assim, terá controle total sobre as Crenças que a Religião lhe concederá. Há um número limitado de Religiões que podem ser fundadas em cada partida, portanto garanta a sua o quanto antes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_DISPLAY">
 			<Text>Um Grande Profeta nasceu!</Text>
@@ -135,16 +135,16 @@
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_STRATEGY">
-			<Text>Uma importante Maravilha Nacional defensiva para civilizações focadas em tecnologia. A Agência Nacional de Inteligência fornece um espião adicional, promove todos os seus espiões existentes e reduz em 15% a efetividade das atividades espiãs inimigas. A civilização precisa de um Distrito Policial em todas as cidades para poder construí-la.</Text>
+			<Text>Uma importante Maravilha Nacional defensiva para civilizações focadas em tecnologia. A Agência Nacional de Inteligência fornece um espião adicional, promove todos os seus espiões existentes e reduz em 15% a eficácia das atividades de espionagem inimigas. A civilização precisa de um Distrito Policial em todas as cidades para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP">
-			<Text>Fornece um espião adicional e promove todos os seus espiões existentes. Além disso, reduz em 15% a efetividade das ações espiãs inimigas. Precisa de um Distrito Policial em todas as cidades.</Text>
+			<Text>Fornece um espião adicional e promove todos os seus espiões existentes. Além disso, reduz em 15% a eficácia das ações de espionagem inimigas. Exige um Distrito Policial em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_STRATEGY">
-		  <Text>Uma edificação importante para uma civilização com poucas e populosas cidades tentar espalhar sua religião pelo mundo. Deve ser construído em uma Cidade Santa. Dobra a pressão religiosa emanada desta cidade. A civilização deve possuir um Templo em todas as cidades antes de poder construir o Grande Templo.</Text>
+		  <Text>Uma edificação importante para uma civilização com poucas cidades populosas que queira disseminar sua religião pelo mundo. Deve ser construído em uma Cidade Sagrada. Dobra a pressão religiosa emanada desta cidade. A civilização deve possuir um Templo em todas as cidades antes de poder construir o Grande Templo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_HELP">
-		  <Text>Dobra a pressão religiosa emanada desta cidade.[NEWLINE][NEWLINE]Deve ser construído em uma Cidade Santa. Um Templo deve existir em todas as cidades. O custo é proporcional à quantidade de cidades no Império.</Text>
+		  <Text>Dobra a pressão religiosa emanada desta cidade.[NEWLINE][NEWLINE]Deve ser construído em uma Cidade Sagrada. É necessário ter construído um Templo em todas as cidades. O custo aumenta de acordo com a quantidade de cidades no Império.</Text>
 		</Row>		
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
@@ -163,16 +163,16 @@
 			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_STRATEGY">
-			<Text>O Condestável diminui a taxa de roubo de tecnologias de sua cidade por espiões inimigos.</Text>
+			<Text>A Delegacia reduz a velocidade com que espiões inimigos podem roubar tecnologias de sua cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_HELP">
 			<Text>Reduz em 25% a taxa de roubo por espiões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_STRATEGY">
-			<Text>Distritos Policiais reduzem a taxa de roubo de tecnologias de sua cidade por espiões inimigos. A cidade precisa possuir um Condestável para poder construir um Distrito Policial.</Text>
+			<Text>O Distrito Policial reduz a velocidade com que espiões inimigos podem roubar tecnologias de sua cidade. A cidade precisa possuir uma Delegacia para poder construir um Distrito Policial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_HELP">
-			<Text>Reduz em 25% a taxa de roubo por espiões.[NEWLINE][NEWLINE]A cidade precisa possuir um Condestável.</Text>
+			<Text>Reduz em 25% a velocidade de roubo de tecnologias por espiões inimigos.[NEWLINE][NEWLINE]A cidade precisa possuir uma Delegacia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MONASTERY_HELP">
 			<Text>Cada fonte de [ICON_RES_INCENSE] Incenso e [ICON_RES_WINE] Vinho explorada por esta cidade produz +1 de [ICON_PEACE] Fé e +1 de [ICON_CULTURE] Cultura.</Text>
@@ -288,13 +288,13 @@
 			<Text>O Grande Almirante possui a habilidade de reparar instantaneamente toda unidade naval e embarcada que estiver no mesmo hexágono e nos adjacentes. O Grande Almirante é consumido quando realiza esta ação. O Grande Almirante também fornece um bônus de 15% a todas as unidades navais do jogador em uma distância de 2 hexágonos. O Grande Almirante NÃO é consumido quando fornece este bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
-			<Text>O Grande General pode construir a melhoria especial Cidadela que dá um grande bônus defensivo para qualquer unidade que a ocupe, causa dano a unidades que se movimentam próximo a ela e trás os hexágonos adjacentes para dentro do seu território. Ele é consumido quando constrói a Cidadela. O Grande General fornece um bônus de 15% de combate para todas as unidades terrestres do jogador num raio de 2 hexágonos e NÃO é consumido quando ele fornece este bônus.</Text>		
+			<Text>O Grande General pode construir a melhoria especial Cidadela, que concede um grande bônus defensivo à unidade que a ocupar, causa dano às unidades inimigas que se movimentarem ao lado dela e traz os hexágonos adjacentes para dentro do seu território. Ele é consumido ao construir a Cidadela. O Grande General fornece um bônus de 15% de combate a todas as unidades terrestres do jogador em um raio de 2 hexágonos e NÃO é consumido ao fornecer esse bônus.</Text>		
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
 			<Text>Grandes Engenheiros podem construir a melhoria especial Indústria, que, quando explorada, fornece uma grande quantidade de [ICON_PRODUCTION] Produção para a cidade. Eles também podem acelerar a produção/treinamento de uma unidade, edificação ou Maravilha em uma cidade. Os Grandes Engenheiros são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
-			<Text>O Grande Mercador pode construir a melhoria especial Alfândega que, quando explorada, produz muito [ICON_GOLD] Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD] Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. O Grande Mercador é consumido quando utilizado para qualquer um desses objetivos.</Text>
+			<Text>O Grande Mercador pode construir a melhoria especial Alfândega que, quando explorada, produz muito [ICON_GOLD] Ouro. Ele também pode viajar até uma Cidade-Estado e realizar uma Missão Comercial que produz uma grande quantia de [ICON_GOLD] Ouro e concede muitos Pontos de Influência com a Cidade-Estado. O Grande Mercador é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
 			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando explorada, produz muitos pontos de [ICON_RESEARCH] Ciência. Além disso, ele pode lhe dar imediatamente uma grande quantidade de pontos de ciência, baseados na produção científica da sua civilização. O Grande Cientista é consumido quando utilizado para qualquer um desses objetivos.</Text>
@@ -339,7 +339,7 @@
 			<Text>Poderosa Unidade Montada da Era Medieval. Fraca contra Piqueiros. Apenas os Songais podem treiná-la. Esta Unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
-			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>
+			<Text>Unidade rápida de ataque a distância, altamente eficaz em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
 			<Text>Uma rápida unidade de ataque a distância. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE] Cavalos para ser treinada, ao contrário da Carruagem Arqueira, unidade que ela substitui.</Text>
@@ -372,7 +372,7 @@
 			<Text>O Contratorpedeiro é uma unidade naval de ataque corpo a corpo preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, navios de guerra e porta-aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Contratorpedeiro possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
-			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval de ataque corpo a corpo.</Text>			
+			<Text>Embarcação rápida da fase avançada do jogo, muito eficaz em reconhecimento. Também é usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval corpo a corpo.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
 			<Text>Os Navios Blindados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
@@ -478,7 +478,7 @@
 			<Text>+33% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
-			<Text>+25% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas.</Text>
+			<Text>+33% de [ICON_STRENGTH] Força de Combate ao interceptar aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
 			<Text>+34% de [ICON_STRENGTH] Força de Combate ao [COLOR_POSITIVE_TEXT]interceptar[ENDCOLOR] aeronaves inimigas.</Text>
@@ -526,7 +526,7 @@
 			<Text>A unidade irá [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizer alguma ação. A unidade irá tentar recuar ao se deparar com um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
-			<Text>+15% de [ICON_STRENGTH] Força de Combate quando possuir uma unidade amiga adjacente.</Text>
+			<Text>+15% de [ICON_STRENGTH] Força de Combate quando estiver adjacente a uma unidade amiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM_HELP">
 			<Text>+15% de bônus de ataque em território amigo.</Text>
@@ -592,7 +592,7 @@
 			<Text>A unidade naval derrotada pode passar a fazer parte da sua frota.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_ADMIRAL_HELP">
-			<Text>Melhora a efetividade do combate de unidades navais próximas.</Text>
+			<Text>Melhora a eficácia em combate das unidades navais próximas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_HELP">
 			<Text>+2 de [ICON_MOVES] Movimento.</Text>
@@ -706,7 +706,7 @@
 			<Text>Bônus vs inimigo ferido/avariado (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_HELP">
-			<Text>Melhora a efetividade do combate de unidades terrestres próximas.</Text>
+			<Text>Melhora a eficácia em combate das unidades terrestres próximas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_BONUS">
 			<Text>Bônus vs Unidades Navais</Text>
@@ -812,7 +812,7 @@
 			<Text>E se não houver mais tecnologias a serem roubadas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_SUMMARY">
-			<Text>Após seu espião realizar uma avaliação na civilização alvo, ele automaticamente começará a colher informações. Se ele descobrir que não há tecnologias que você precisa, então você receberá uma notificação sobre isso. Você, então, pode escolher mover seu espião a um local mais promissor ou deixar seu espião na civilização alvo em busca de intrigas. Intrigas são informações interceptadas que você pode entrar a outras civilizações. Por exemplo, você pode possuir um espião na Arábia e descobrir que eles planejam invadir o Egito. Você pode informar o Egito sobre a trama e receber um avanço na relação diplomática como resultado.</Text>
+			<Text>Depois que seu espião estabelecer Vigilância na civilização-alvo, ele começará automaticamente a coletar informações. Se descobrir que não há tecnologias que você ainda precise, você receberá uma notificação. Então poderá mover o espião para um local mais promissor ou deixá-lo na civilização-alvo em busca de intrigas. Intrigas são informações interceptadas que você pode compartilhar com outras civilizações. Por exemplo, um espião na Arábia pode descobrir que os árabes planejam invadir o Egito. Você pode informar o Egito sobre a trama e, com isso, melhorar suas relações diplomáticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
 			<Text>Roubando Tecnologia</Text>
@@ -824,16 +824,16 @@
 			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_BODY">
-			<Text>Um espião roubou tecnologia de você! Você deveria considerar construir edificações defensivas, como o Condestável ou Distrito Policial ou, ainda, usar um dos seus espiões para trabalhar em contrainteligência.</Text>
+			<Text>Um espião roubou uma tecnologia de você! Considere construir edificações defensivas, como a Delegacia ou o Distrito Policial, ou usar um de seus próprios espiões em operações de contraespionagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_QUESTION">
 			<Text>Como usar espiões para roubar tecnologia?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
-			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edificações defensivas, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+			<Text>Seus espiões podem roubar tecnologias de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro envie seu espião a uma cidade da civilização-alvo. Assim que chegar, ele passará algum tempo estabelecendo Vigilância (veja a coluna "Atividade"). Quando a Vigilância estiver estabelecida, você saberá se a civilização-alvo possui alguma tecnologia que possa ser roubada. Se possuir, o tempo necessário dependerá da quantidade de Ciência produzida pela cidade-alvo e da graduação do seu espião. Quanto maior a graduação e a produção de Ciência da cidade, mais rápido o espião poderá agir.[NEWLINE][NEWLINE]Outros fatores também podem aumentar o tempo necessário para roubar uma tecnologia, entre eles edificações defensivas como a Delegacia e o Distrito Policial. A maravilha Grande Firewall pode interromper completamente a atividade de espionagem inimiga. Além disso, se a cidade-alvo possuir um espião na defesa, seu espião poderá ser descoberto ou até eliminado, ficando fora de ação por muitos turnos. Isso também prejudicará suas relações diplomáticas com a civilização-alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
-			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edificações defensivas, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+			<Text>Seus espiões podem roubar tecnologias de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro envie seu espião a uma cidade da civilização-alvo. Assim que chegar, ele passará algum tempo estabelecendo Vigilância (veja a coluna "Atividade"). Quando a Vigilância estiver estabelecida, você saberá se a civilização-alvo possui alguma tecnologia que possa ser roubada. Se possuir, o tempo necessário dependerá da quantidade de Ciência produzida pela cidade-alvo e da graduação do seu espião. Quanto maior a graduação e a produção de Ciência da cidade, mais rápido o espião poderá agir.[NEWLINE][NEWLINE]Outros fatores também podem aumentar o tempo necessário para roubar uma tecnologia, entre eles edificações defensivas como a Delegacia e o Distrito Policial. A maravilha Grande Firewall pode interromper completamente a atividade de espionagem inimiga. Além disso, se a cidade-alvo possuir um espião na defesa, seu espião poderá ser descoberto ou até eliminado, ficando fora de ação por muitos turnos. Isso também prejudicará suas relações diplomáticas com a civilização-alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC">
 			<Text>Espiões e Cidades-Estado</Text>
@@ -842,22 +842,22 @@
 			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_SUMMARY">
-			<Text>Espiões podem ser usados para aumentar sua influência sobre Cidades-Estado "fraudando" suas eleições locais ou realizando um golpe de estado. Para interagir com uma Cidade-Estado, primeiro envie um espião a uma Cidade-Estado alvo. Assim que o espião chegar, haverá um período de tempo onde ele fará uma avaliação (veja na coluna "Atividade"). Terminada a avaliação, suas opções de espionagem ficarão disponíveis. Fraudar uma eleição, uma habilidade passiva, ocorre a cada 15 turnos enquanto seu espião estiver na Cidade-Estado alvo. Se o único espião na Cidade-Estado for o seu, sua influência sobre ela irá aumentar, enquanto a dos outros irá diminuir. A presença de um espião inimigo, especialmente um de maior graduação, poderá fazer com que esta missão falhe. Entretanto, você não precisa se preocupar, pois falhar na tentativa de fraudar uma eleição não trás riscos ao seu espião.[NEWLINE][NEWLINE]Realizar um golpe de estado trás mais benefícios que fraudar uma eleição, mas é bem mais arriscado. Um golpe de estado bem sucedido permite que você "roube" a posição de aliança de outra civilização. Para dar um golpe de estado, envie um espião para uma Cidade-Estado aliada à outra civilização, da mesma forma que você faria para fraudar uma eleição. Assim que a avaliação estiver realizada, você terá um novo botão disponível chamado "Golpe". Ao clicar nele, uma mensagem de aviso aparecerá exibindo a probabilidade de sucesso do seu golpe. Quanto mais influência você possuir sobre a civilização alvo, maiores serão suas chances. O problema? Se seu espião falhar, ele será executado.</Text>
+			<Text>Espiões podem aumentar sua Influência sobre Cidades-Estado fraudando eleições locais ou tentando um golpe de Estado. Para interagir com uma Cidade-Estado, primeiro envie um espião até ela. Assim que chegar, ele passará algum tempo estabelecendo Vigilância (veja a coluna "Atividade"). Quando a Vigilância estiver estabelecida, suas opções de espionagem ficarão disponíveis. Fraudar eleições é uma ação passiva que ocorre a cada 15 turnos enquanto o espião permanece na Cidade-Estado. Se o seu for o único espião presente, sua Influência aumentará e a das outras civilizações diminuirá. A presença de um espião inimigo, especialmente de graduação mais alta, pode fazer a tentativa fracassar. A falha ao fraudar eleições, porém, não coloca seu espião em risco.[NEWLINE][NEWLINE]Um golpe de Estado oferece benefícios maiores, mas é muito mais arriscado. Se for bem-sucedido, você assume a posição de aliado que pertencia a outra civilização. Para tentar um golpe de Estado, envie um espião a uma Cidade-Estado aliada a outra civilização, como faria para fraudar eleições. Depois de estabelecer Vigilância, ficará disponível o botão "Golpe". Ao clicar nele, uma mensagem exibirá a probabilidade de sucesso. Quanto maior sua Influência sobre a Cidade-Estado-alvo, maiores serão suas chances. Se o espião falhar, será executado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_ADVISOR_QUESTION">
 			<Text>Como usar espiões com Cidades-Estado?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
-			<Text>Fazendo Avaliação</Text>
+			<Text>Vigilância</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_DESCRIPTION">
 			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
-			<Text>Para fazer uma avaliação, envie um espião para uma cidade alvo. Assim que o espião chegar, haverá um período de tempo em que ele realizará uma avaliação (veja na coluna "Atividade"). Quando a avaliação terminar, você saberá se a cidade alvo possui tecnologias que você possa roubar. Você também será capaz de ver a tela da cidade inimiga e ter uma chance de interceptar importantes informações (como preparações para uma invasão).</Text>
+			<Text>Para estabelecer Vigilância, envie um espião a uma cidade-alvo. Assim que chegar, ele precisará de algum tempo para estabelecer a Vigilância (veja a coluna "Atividade"). Quando terminar, você saberá se a cidade-alvo possui tecnologias que possam ser roubadas. Também poderá exibir a tela da cidade inimiga e terá a chance de interceptar informações importantes, como preparativos para uma invasão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
-			<Text>Como realizar uma avaliação?</Text>
+			<Text>Como estabelecer Vigilância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC">
 			<Text>Contrainteligência</Text>
@@ -872,13 +872,13 @@
 			<Text>Como parar outros espiões?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC">
-			<Text>Condestáveis e Distritos Policiais</Text>
+			<Text>Delegacias e Distritos Policiais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_DESCRIPTION">
 			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_SUMMARY">
-			<Text>Você também poderá diminuir a atividade espiã inimiga ao construir Condestáveis e Distritos Policiais em suas cidades. Se uma cidade possuir um Condestável ou um Distrito Policial, o tempo necessário para se roubar uma tecnologia aumenta em 25% para cada uma das edificações.</Text>
+			<Text>Você também pode reduzir a atividade de espiões inimigos construindo Delegacias e Distritos Policiais em suas cidades. Se uma cidade possuir uma Delegacia ou um Distrito Policial, o tempo necessário para roubar uma tecnologia aumenta em 25% para cada uma dessas edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_ADVISOR_QUESTION">
 			<Text>Como atrasar o progresso de um espião inimigo?</Text>
@@ -1034,7 +1034,7 @@
 			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_SUMMARY">
-			<Text>Esses são bônus relacionados ao jogador. Esses efeitos positivos são obtidos pelo jogador que fundar uma Religião, enquanto ele controlar a Cidade Santa onde a Religião se originar. A maioria deles está ligada à disseminação da Religião pelo mapa, dando ao fundador da Religião um forte incentivo para espalhá-la o máximo possível.</Text>
+			<Text>Esses são bônus relacionados ao jogador. Os efeitos positivos são recebidos pelo jogador que fundou a Religião enquanto ele controlar a Cidade Sagrada onde ela se originou. A maioria está ligada à disseminação da Religião pelo mapa, dando ao fundador um forte incentivo para espalhá-la o máximo possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_ADVISOR_QUESTION">
 			<Text>O que são Crenças Fundadoras?</Text>
@@ -1058,7 +1058,7 @@
 			<Text>{TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_SUMMARY">
-			<Text>Há duas formas de disseminar uma Religião: a natural, que a cidade santa e qualquer cidade religiosa geram, e a proposital, que são ações que um jogador pode realizar para converter outras cidades.[NEWLINE][NEWLINE]A propagação natural da Religião é bastante simples: toda cidade que possui uma Religião predominante (mais da metade de seus cidadãos devotos desta Religião) exerce uma pressão nos hexágonos próximos a ela (no máximo 10). Se outra cidade estiver no mesmo raio de alcance e ela ainda não possuir uma religião predominante, então a pressão lentamente começará a converter cidadãos. Se a cidade já possuir uma religião predominante, então será necessário duas ou mais cidades exercendo pressão para que os cidadãos comecem a ser convertidos. Quanto mais cidades exercerem pressão sobre a cidade alvo, mais rápido os cidadãos serão convertidos. Você pode ver a pressão exercida por você, bem como a pressão que você está sofrendo, ao colocar o mouse sobre o ícone da Religião no título da cidade (se ela já possuir um Panteão ou Religião). [NEWLINE][NEWLINE]Para acelerar a disseminação de sua Religião, as seguintes opções estão disponíveis: você pode comprar Missionários, gastando [ICON_PEACE] Fé em qualquer cidade que já possua uma Religião que você queira disseminar como sua predominante. Para comprar um, entre na tela da cidade e você poderá clicar no menu de compra, no canto inferior esquerdo da tela. O Missionário ficará cinza se você não possuir [ICON_PEACE] Fé suficiente para adquiri-lo. Assim que você possuir um Missionário, você poderá enviá-lo para dentro ou próximo a uma cidade que você queira converter e clicar no botão Disseminar Religião, que normalmente irá consumi-lo após dois usos.[NEWLINE][NEWLINE]Grandes Profetas podem disseminar Religião de um modo similar, mas, além disso, eles podem abolir qualquer outra Religião que possa estar presente em sua cidade alvo. Eles podem realizar esta ação várias vezes antes de serem consumidos.</Text>
+			<Text>Há duas formas de disseminar uma Religião: a natural, que a Cidade Sagrada e qualquer cidade religiosa geram, e a proposital, que são ações que um jogador pode realizar para converter outras cidades.[NEWLINE][NEWLINE]A propagação natural da Religião é bastante simples: toda cidade que possui uma Religião predominante (mais da metade de seus cidadãos devotos desta Religião) exerce uma pressão nos hexágonos próximos a ela (no máximo 10). Se outra cidade estiver no mesmo raio de alcance e ela ainda não possuir uma religião predominante, então a pressão lentamente começará a converter cidadãos. Se a cidade já possuir uma religião predominante, então será necessário duas ou mais cidades exercendo pressão para que os cidadãos comecem a ser convertidos. Quanto mais cidades exercerem pressão sobre a cidade alvo, mais rápido os cidadãos serão convertidos. Você pode ver a pressão exercida por você, bem como a pressão que você está sofrendo, ao colocar o mouse sobre o ícone da Religião no título da cidade (se ela já possuir um Panteão ou Religião). [NEWLINE][NEWLINE]Para acelerar a disseminação de sua Religião, as seguintes opções estão disponíveis: você pode comprar Missionários, gastando [ICON_PEACE] Fé em qualquer cidade que já possua uma Religião que você queira disseminar como sua predominante. Para comprar um, entre na tela da cidade e você poderá clicar no menu de compra, no canto inferior esquerdo da tela. O Missionário ficará cinza se você não possuir [ICON_PEACE] Fé suficiente para adquiri-lo. Assim que você possuir um Missionário, você poderá enviá-lo para dentro ou próximo a uma cidade que você queira converter e clicar no botão Disseminar Religião, que normalmente irá consumi-lo após dois usos.[NEWLINE][NEWLINE]Grandes Profetas podem disseminar Religião de um modo similar, mas, além disso, eles podem abolir qualquer outra Religião que possa estar presente em sua cidade alvo. Eles podem realizar esta ação várias vezes antes de serem consumidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_ADVISOR_QUESTION">
 			<Text>Como a Religião é disseminada?</Text>
@@ -1130,7 +1130,7 @@
 			<Text>{TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_SUMMARY">
-			<Text>Você pode escolher intimidar uma Cidade-Estado ao lhe exigir tributos, que podem ser em forma de um Trabalhador ou de um bocado de ouro. Uma forma de intimidar uma Cidade-Estado é por meio do seu poderio militar, comparado ao de outras civilizações, ou possuir unidades militares próximas à Cidade-Estado.[NEWLINE][NEWLINE]Se você quiser exigir tributo, abra o painel diplomático da Cidade-Estado e clique na opção "Exigir Tributo". Se a opção estiver em vermelho, a Cidade-Estado não teme você e não cederá às suas exigências. Se você obtiver sucesso, você ganhará o tributo, mas perderá influência com a Cidade-Estado.</Text>
+			<Text>Você pode intimidar uma Cidade-Estado para exigir tributo. O tributo pode ser um Trabalhador ou uma quantia única de [ICON_GOLD] Ouro. Uma forma de intimidar uma Cidade-Estado é possuir um poderio militar superior ao de outras civilizações ou manter unidades militares nas proximidades.[NEWLINE][NEWLINE]Para exigir tributo, abra o painel diplomático da Cidade-Estado e clique em "Exigir Tributo". Se as opções seguintes estiverem em vermelho, a Cidade-Estado não teme você e não cederá à exigência. Se tiver sucesso, receberá o tributo, mas perderá Influência com a Cidade-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_ADVISOR_QUESTION">
 			<Text>Como exigir tributo?</Text>
@@ -1169,16 +1169,16 @@
 			<Text>O que significa uma Cidade-Estado ser religiosa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC">
-			<Text>Mercante</Text>
+			<Text>Mercantil</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_DESCRIPTION">
 			<Text>{TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_SUMMARY">
-			<Text>Uma Cidade-Estado mercante pode fornecer um item de luxo único para sua civilização e ajudar a sua felicidade.</Text>
+			<Text>Uma Cidade-Estado Mercantil pode fornecer um Recurso de Luxo exclusivo à sua civilização e ajudar a aumentar sua Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_ADVISOR_QUESTION">
-			<Text>O que significa uma Cidade-Estado ser mercante?</Text>
+			<Text>O que significa uma Cidade-Estado ser Mercantil?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON">
 			<Text>Espionagem</Text>
@@ -1572,7 +1572,7 @@
 			<Text>(+{1_Pressure} Pressionando)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HOLY_CITY_TOOLTIP_LINE">
-			<Text>Cidade Santa {2: gender masculine?do; feminine? da;} {2_ReligionName} {1_ReligionIcon}</Text>
+			<Text>Cidade Sagrada {2: gender masculine?do; feminine?da; other?de;} {2_ReligionName} {1_ReligionIcon}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_NO_FOLLOWERS">
 			<Text>Nenhum devoto religioso nesta cidade.</Text>
@@ -1632,28 +1632,28 @@
 			<Text>Quando está em guerra com uma Cidade-Estado, sua influência continuará negativa e ela não lhe dará nada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WAROFTHE_HEADING2_BODY">
-			<Text>Você pode declarar guerra a uma Cidade-Estado a qualquer momento. Você pode fazer isso através do Painel de Diplomacia ou ordenando a uma de suas unidades que ataque uma unidade dela ou a própria Cidade-Estado. Você pode propor a paz a uma Cidade-Estado clicando no Painel de Diplomacia ou clicando sobre a cidade.[NEWLINE][NEWLINE]É importante lembrar que, se atacar muitas Cidades-Estado, muitas ficarão irritadas com você, causando o nível de sua influência mínima cair permanentemente de 0 para -20.</Text>
+			<Text>Você pode declarar guerra a uma Cidade-Estado a qualquer momento, seja pelo Painel de Diplomacia ou ordenando que uma de suas unidades ataque uma unidade ou cidade dela. Também pode propor paz pelo Painel de Diplomacia ou clicando sobre a cidade.[NEWLINE][NEWLINE]É importante lembrar que, se atacar Cidades-Estado demais, muitas ficarão desconfiadas de você, fazendo seu nível mínimo de Influência cair permanentemente de 0 para -20.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_TITLE">
 			<Text>Habilidade Especial: Ciência Gratuita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_BODY">
-			<Text>Você pode consumir seu Grande Cientista para obter um bocado de pontos de ciência, equivalente à média de produção de ciência da sua civilização nos últimos oito turnos.</Text>
+			<Text>Você pode consumir seu Grande Cientista para receber imediatamente uma quantidade de Ciência equivalente à produção média de Ciência da sua civilização nos oito turnos anteriores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
-			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma fonte deste recurso próximo de {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco de Trabalho (mar) para melhorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
+			<Text>Não temos nenhuma fonte de {1_ResourceName:textkey}, mas há uma próxima a {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco de Trabalho (mar) para melhorar esse hexágono e obter acesso ao recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_BODY">
 			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigas com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
-			<Text>Montanhas são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>Montanhas são elevações íngremes e intransponíveis para unidades não aéreas, com exceção das unidades cartaginesas. Elas são particularmente inúteis para uma civilização, exceto como barreiras contra invasões.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransponível (exceto para unidades aéreas e cartaginesas)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_CITYBANNER_HEADING2_BODY">
-			<Text>A bandeira da cidade aparece no Mapa Principal. Ela fornece uma visão útil sobre o que está acontecendo na cidade.[NEWLINE][TAB][TAB][TAB][TAB] Nome[NEWLINE][TAB][TAB][TAB][TAB] Força de Defesa [NEWLINE][TAB][TAB][TAB][TAB] Unidade alojada na cidade[NEWLINE][TAB][TAB][TAB][TAB] Item sendo construído na cidade*[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para completar a construção*[NEWLINE][TAB][TAB][TAB][TAB] Tamanho da cidade[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para cidade crescer*[NEWLINE][TAB][TAB][TAB][TAB] Religião da cidade**[NEWLINE][TAB][TAB][TAB][TAB] * Não é exibido nas cidades estrangeiras.[NEWLINE][TAB][TAB][TAB][TAB] ** Não é exibida até que um Panteão ou Religião esteja presente na cidade.</Text>
+			<Text>A bandeira da cidade aparece no Mapa Principal e fornece uma visão útil do que está acontecendo nela.[NEWLINE][TAB][TAB][TAB][TAB] Nome[NEWLINE][TAB][TAB][TAB][TAB] Força de Defesa[NEWLINE][TAB][TAB][TAB][TAB] Unidade alojada na cidade[NEWLINE][TAB][TAB][TAB][TAB] Item sendo construído na cidade*[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para concluir a construção*[NEWLINE][TAB][TAB][TAB][TAB] Tamanho da cidade[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para a cidade crescer*[NEWLINE][TAB][TAB][TAB][TAB] Religião da cidade**[NEWLINE][TAB][TAB][TAB][TAB] * Não é exibido em cidades estrangeiras.[NEWLINE][TAB][TAB][TAB][TAB] ** Não é exibida até que um Panteão ou uma Religião esteja presente na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDINGS_PREREQUISITES_HEADING2_BODY">
-			<Text>À exceção única do Monumento, que não possui pré-requisitos e está disponível para construção no início do jogo, você precisa de conhecimento de uma tecnologia específica para construir uma edificação. Por exemplo, você precisa pesquisar o Bronze para poder construir um Quartel.[NEWLINE][NEWLINE]Algumas edificações possuem pré-requisitos de recursos também - por exemplo: uma cidade precisa possuir um recurso explorado de Cavalos ou Marfim próximo para construir um Circo.[NEWLINE][NEWLINE]Além disso, algumas edificações possuem pré-requisitos de outros edificações. Você não pode construir um Templo em uma cidade sem construir um Santuário nela antes.</Text>
+			<Text>Com exceção do Monumento, que não possui pré-requisitos e está disponível desde o início do jogo, você precisa conhecer uma tecnologia específica para construir uma edificação. Por exemplo, é necessário pesquisar Bronze para construir um Quartel.[NEWLINE][NEWLINE]Algumas edificações também possuem pré-requisitos de recursos. Por exemplo, uma cidade precisa ter uma fonte explorada de Cavalos ou Marfim nas proximidades para construir um Circo.[NEWLINE][NEWLINE]Além disso, algumas edificações exigem outras edificações como pré-requisito. Você não pode construir um Templo em uma cidade sem antes construir nela um Santuário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_SPECIALISTS_HEADING2_BODY">
 			<Text>Especialistas são cidadãos que foram designados para trabalhar em uma edificação construída em suas cidades. Há quatro tipos de especialistas em Civilization V: Cientistas, Mercadores, Artistas e Engenheiros. Um Museu, por exemplo, permite que um ou dois cidadãos sejam designados para trabalhar como Artistas nesta edificação. Nem todas as edificações permitem que especialistas sejam designados a elas. Veja os dados de cada edificação para mais detalhes.</Text>		
@@ -1665,10 +1665,10 @@
 			<Text>O dono de uma cidade pode estacionar uma unidade militar dentro da cidade para apoiar sua defesa. Parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não receberá dano quando a cidade for atacada. Entretanto, se a cidade for capturada, a unidade será destruída.[NEWLINE][NEWLINE]Uma unidade alojada pode atacar unidades inimigas próximas sem que a cidade perca o bônus de alojamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar antes de ser atacado</Text>
+		  <Text>Recuar Antes de Combate Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
-		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
+		  <Text>A unidade tentará recuar ao enfrentar um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou quando há poucos hexágonos vazios atrás da unidade.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

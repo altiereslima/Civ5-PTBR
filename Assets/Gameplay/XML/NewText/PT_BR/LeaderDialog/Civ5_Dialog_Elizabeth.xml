@@ -27,7 +27,7 @@
 			<Text>Muito bem - fica na sua consciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_3">
-			<Text>Como se atreve?! Sofrerá pela sua monstruosa arrogância!</Text>
+			<Text>Como ousa! Sofrerá por sua monstruosa arrogância!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_1">
 			<Text>Seus muitos insultos a nós e aos nossos leais súditos não ficarão impunes. Prepare-se para a guerra!</Text>
@@ -36,16 +36,16 @@
 			<Text>Pela graça de Deus, seus dias estão contados. Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_3">
-			<Text>O tempo para discursos educados e gestos bonitos terminou - vamos nos encontrar no campo de batalha!</Text>
+			<Text>O tempo dos discursos corteses e dos gestos elegantes acabou — nós nos encontraremos no campo de batalha!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_1">
-			<Text>Você nos superou no campo de batalha. Parabéns pela vitória.</Text>
+			<Text>Você nos superou no campo de batalha. Parabenizamos você por sua vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_2">
-			<Text>A derrota veio, por enquanto. Mas a Inglaterra ressurgirá um dia, ainda mais poderosa do que antes!</Text>
+			<Text>Você nos derrotou, por enquanto. Mas um dia a Inglaterra se erguerá novamente, ainda mais poderosa do que antes!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_3">
-			<Text>Você triunfou sobre nós. O dia é seu.</Text>
+			<Text>Você triunfou sobre nós. Hoje a vitória é sua.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_ANGRY">
 			<Text>Entregue-nos o que queremos ou sofra as consequências.</Text>
@@ -60,10 +60,10 @@
 			<Text>Não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_2">
-			<Text>Certamente não.</Text>
+			<Text>Certamente que não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_3">
-			<Text>Nós recusamos.</Text>
+			<Text>Recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_4">
 			<Text>Claro que não.</Text>
@@ -75,13 +75,13 @@
 			<Text>Não pode estar falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_7">
-			<Text>Perdão?</Text>
+			<Text>Perdão, como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_1">
-			<Text>Saudações. Esperamos que nossos povos sejam amigos, ao invés de inimigos.</Text>
+			<Text>Saudações. Esperamos que nossos povos se encontrem como amigos, e não como inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_2">
-			<Text>É bom que nossos caminhos tenham se cruzado. Rezo para que tenha sido um vento auspicioso que nos reuniu.</Text>
+			<Text>É um prazer nos encontrarmos. Rezo para que tenha sido um vento auspicioso que nos reuniu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_3">
 			<Text>Temos o prazer de conhecer você.</Text>
@@ -90,37 +90,37 @@
 			<Text>Boas-vindas à Inglaterra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_1">
-			<Text>Bom dia.</Text>
+			<Text>Tenha um bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_2">
-			<Text>Até breve.</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_3">
-			<Text>Adeus.</Text>
+			<Text>Até logo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_4">
 			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_5">
-			<Text>Retirem-se agora.</Text>
+			<Text>Vá embora agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_6">
 			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_7">
-			<Text>Retirem-se!</Text>
+			<Text>Fora daqui!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_1">
-			<Text>É bom ver você.</Text>
+			<Text>Que bom encontrar você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_2">
-			<Text>Olá, novamente!</Text>
+			<Text>Olá de novo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_3">
 			<Text>Saudações!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_4">
-			<Text>Bem-vindos!</Text>
+			<Text>Boas-vindas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_5">
 			<Text>Oh, é você.</Text>
@@ -132,13 +132,13 @@
 			<Text>O que deseja?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_1">
-			<Text>Vamos ouvir.</Text>
+			<Text>Pois bem, vamos ouvir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_2">
 			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_3">
-			<Text>Prossigam.</Text>
+			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_4">
 			<Text>Estou ouvindo.</Text>
@@ -147,7 +147,7 @@
 			<Text>Sim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_6">
-			<Text>O que estão dizendo?</Text>
+			<Text>O que estava dizendo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_7">
 			<Text>E?</Text>
@@ -168,16 +168,16 @@
 			<Text>A Inglaterra não é tão generosa. Terá que fazer melhor do que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_2">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso não é bom o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Devem fazer melhor que isso.</Text>
+			<Text>Precisa fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_4">
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Ora! A Inglaterra mal pode se dar ao luxo de tanta generosidade, mesmo em nome de uma querida amizade! Não pode melhorar sua oferta?</Text>
+			<Text>Ora! A Inglaterra mal pode se dar ao luxo de tanta generosidade, mesmo com amigos queridos! Não pode melhorar sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_2">
 			<Text>Essa é a sua melhor oferta?</Text>
@@ -195,28 +195,28 @@
 			<Text>Pode fazer melhor?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Isso não é suficiente.</Text>
+			<Text>Isso ainda não é bom o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_4">
 			<Text>Quase.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_ANGRY">
-			<Text>Sua proposta é um insulto para a Inglaterra. Nós recusamos.</Text>
+			<Text>Sua proposta é um insulto à Inglaterra. Recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_HAPPY">
-			<Text>Em nome de nossa querida amizade, eu pessoalmente lhe daria tudo o que possuímos, até nosso último centavo. Meus conselheiros são um pouco menos generosos. Por isso, infelizmente, devo recusar sua oferta.</Text>
+			<Text>Apesar de nossa amizade, daríamos pessoalmente tudo o que possuímos, até nosso último tostão, mas nossos conselheiros são um tanto menos generosos. Portanto, com pesar, devemos recusar sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_NEUTRAL">
-			<Text>Nós lhe imploramos para não desperdiçar o nosso tempo com tolices.</Text>
+			<Text>Imploramos que não desperdice nosso tempo com tamanha tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_ANGRY">
-			<Text>Ah, muito bem. Aceito. Estamos de acordo.</Text>
+			<Text>Ah, muito bem. Suponho que devo aceitar. Estamos de acordo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_HAPPY">
 			<Text>Parabenizamos sua habilidade de negociação e perspicácia! Aceitamos a sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_NEUTRAL">
-			<Text>A sua oferta nos agrada. Nós aceitamos.</Text>
+			<Text>Sua oferta nos agrada. Aceitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_ANGRY">
 			<Text>Eis nossa oferta — muito melhor do que você merece.</Text>
@@ -228,7 +228,7 @@
 			<Text>Relações comerciais são a alma da civilização, concorda?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY">
-			<Text>Ousa exigir tributo de NÓS? Vá embora, criatura odiosa!</Text>
+			<Text>Ousa exigir tributo de nós? Vá embora, criatura odiosa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_HAPPY">
 			<Text>Não é assim que se trata uma amizade. Sua audácia nos surpreende!</Text>
@@ -237,7 +237,7 @@
 			<Text>Muito engraçado! Claro que não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY">
-			<Text>Você nos tem em desvantagem agora, mas pode não ser sempre assim. Vamos nos lembrar disso.</Text>
+			<Text>Agora você está em vantagem sobre nós, mas nem sempre será assim. Não esqueceremos isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY">
 			<Text>É nosso prazer ajudar quem conta com nossa amizade e aliança em tempos de necessidade.</Text>
@@ -249,7 +249,7 @@
 			<Text>Que decepcionante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_2">
-			<Text>Realmente muito decepcionante.</Text>
+			<Text>Que grande decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_3">
 			<Text>É mesmo? Acredito que não viverá para se arrepender de sua falta de visão.</Text>
@@ -258,10 +258,10 @@
 			<Text>Que tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_5">
-			<Text>Seu orgulho sem sentido trará sua ruína, se não tomar cuidado.</Text>
+			<Text>Seu orgulho insensato será sua ruína se não tomar cuidado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_6">
-			<Text>Muito bem. Está em sua consciência.</Text>
+			<Text>Muito bem. A responsabilidade é sua.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WINWAR_1">
 			<Text>A Inglaterra sempre se levantará triunfante sobre seus inimigos! Seria prudente se lembrar disso no futuro.</Text>

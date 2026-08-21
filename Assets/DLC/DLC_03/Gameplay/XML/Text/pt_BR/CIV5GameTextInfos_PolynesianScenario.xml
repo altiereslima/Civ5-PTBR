@@ -311,13 +311,13 @@
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA">
             <Text>Tonga</Text>
-            <Gender>neuter:noart</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_HEADING_1">
             <Text>História</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_TEXT_1">
-            <Text>Tonga é um dos maiores grupos culturais da Polinésia e lutou contra as outras regiões pela supremacia das ilhas do Pacífico. Tonga alcançou o seu apogeu como poder regional no século XIV, tempo durante o qual foi conseguido algo como a hegemonia regional dos chefes e navegadores. O arquipélago do Reino de Tonga consiste em 176 ilhas, espalhadas por 700.000 milhas quadradas do Oceano Pacífico, situadas ao nordeste da Nova Zelândia e ao sudoeste das Ilhas Havaianas.[NEWLINE][NEWLINE]É difícil determinar quando os humanos chegaram ao arquipélago Tongan. O sítio inequívoco mais antigo é encontrado na vila de Pea, em Tongatapu, e possui 3000 anos aproximadamente. Evidências em cerâmica do período Lapita foram encontradas em Tonga, mas isso representaria um feito de navegação considerável para aquela civilização.[NEWLINE][NEWLINE]O primeiro contato com o Ocidente foi registrado pelos Holandeses, em 1616, embora o encontro mais famoso tenha ocorrido durante a viagem do Capitão James Cook pelo Pacífico. Cook nomeou Tonga como &quot;A Ilha dos Amigos&quot;, em razão da hospitalidade dos Tonganenses. Curiosamente, parece que os mesmos Tonganenses planejaram a morte de Cook, mas, como não conseguiram acordo sobre um plano de como fazê-lo, Cook foi embora sem ser perturbado e, aparentemente, alheio ao perigo que corria. Missionários europeus extensivamente Cristianizaram os Tonganenses do final do século XVIII ao início do XIX.[NEWLINE][NEWLINE]Tonga mergulhou em uma guerra civil por cinquenta anos, seguida pelo assassinato do chefe maior em 1799, mas em 1845, o guerreiro Taufa'ahau reivindicou o título de chefe principal e se auto batizou Rei George Tupou I. Ele, então, começou a libertar as castas sociais mais baixas, criar um código de leis e limitar o poder dos outros chefes, assinando uma aliança com os Britânicos sob um Tratado de Amizade. Tonga nunca se tornou uma colônia Britânica por completo, permanecendo com autonomia e desfrutando de proteção militar dos Britânicos.[NEWLINE][NEWLINE]A posição de Tonta como uma encruzilhada do Pacífico Sul a transformou em uma região estrategicamente importante durante a Segunda Guerra Mundial. Os soldados Tonganenses lutaram nas Ilhas Salomão e a ilha de Tongatapu se tornou um local crítico para suprimentos que vinham da América do Norte, com destino à Nova Zelândia e Austrália. Hoje, Tonga é independente, uma monarquia constitucional (o único grupo Polinésio que nunca abandonou a monarquia) e que abraça uma reforma democrática e a modernização do seu governo.</Text>
+            <Text>Tonga é um dos maiores grupos culturais da Polinésia e lutou contra as outras regiões pela supremacia das ilhas do Pacífico. Tonga alcançou o seu apogeu como poder regional no século XIV, tempo durante o qual foi conseguido algo como a hegemonia regional dos chefes e navegadores. O arquipélago do Reino de Tonga consiste em 176 ilhas, espalhadas por 700.000 milhas quadradas do Oceano Pacífico, situadas ao nordeste da Nova Zelândia e ao sudoeste das Ilhas Havaianas.[NEWLINE][NEWLINE]É difícil determinar quando os humanos chegaram ao arquipélago Tongan. O sítio inequívoco mais antigo é encontrado na vila de Pea, em Tongatapu, e possui 3000 anos aproximadamente. Evidências em cerâmica do período Lapita foram encontradas em Tonga, mas isso representaria um feito de navegação considerável para aquela civilização.[NEWLINE][NEWLINE]O primeiro contato com o Ocidente foi registrado pelos Holandeses, em 1616, embora o encontro mais famoso tenha ocorrido durante a viagem do Capitão James Cook pelo Pacífico. Cook nomeou Tonga como &quot;A Ilha dos Amigos&quot;, em razão da hospitalidade dos Tonganenses. Curiosamente, parece que os mesmos Tonganenses planejaram a morte de Cook, mas, como não conseguiram acordo sobre um plano de como fazê-lo, Cook foi embora sem ser perturbado e, aparentemente, alheio ao perigo que corria. Missionários europeus extensivamente Cristianizaram os Tonganenses do final do século XVIII ao início do XIX.[NEWLINE][NEWLINE]Tonga mergulhou em uma guerra civil por cinquenta anos, seguida pelo assassinato do chefe maior em 1799, mas em 1845, o guerreiro Taufa'ahau reivindicou o título de chefe principal e se auto batizou Rei George Tupou I. Ele, então, começou a libertar as castas sociais mais baixas, criar um código de leis e limitar o poder dos outros chefes, assinando uma aliança com os Britânicos sob um Tratado de Amizade. Tonga nunca se tornou uma colônia Britânica por completo, permanecendo com autonomia e desfrutando de proteção militar dos Britânicos.[NEWLINE][NEWLINE]A posição de Tonga como uma encruzilhada do Pacífico Sul a transformou em uma região estrategicamente importante durante a Segunda Guerra Mundial. Os soldados Tonganenses lutaram nas Ilhas Salomão e a ilha de Tongatapu se tornou um local crítico para suprimentos que vinham da América do Norte, com destino à Nova Zelândia e Austrália. Hoje, Tonga é independente, uma monarquia constitucional (o único grupo Polinésio que nunca abandonou a monarquia) e que abraça uma reforma democrática e a modernização do seu governo.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE">
             <Text>A [ICON_INFLUENCE] Influência com Cidades-Estado cai à taxa de dois terços da velocidade normal e se recupera 50% mais rápido.</Text>
@@ -327,7 +327,7 @@
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA">
             <Text>Samoa</Text>
-            <Gender>neuter:noart</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_HEADING_1">
             <Text>História</Text>
@@ -359,7 +359,7 @@
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA">
             <Text>Hiva</Text>
-            <Gender>neuter:noart</Gender>
+            <Gender>neuter</Gender>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_HEADING_1">
             <Text>História</Text>

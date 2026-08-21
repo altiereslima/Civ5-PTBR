@@ -50,7 +50,7 @@
 			<Text>Você me destruiu e, com isso, conquistou um lugar de honra entre os deuses. Meus parabéns!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_3">
-			<Text>Você me destruiu? Isto é verdade? Que tipo de criatura é você?</Text>
+			<Text>Você me destruiu? Pode ser verdade? Que espécie de criatura é você?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_4">
 			<Text>Fui destruído. Parabéns pela vitória. Peço que trate meus súditos com misericórdia.</Text>
@@ -62,7 +62,7 @@
 			<Text>Em nome de nossa amizade, a Grécia precisa de sua ajuda. Peço que não nos decepcione!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Seria bom que nos desse imediatamente o seguinte.</Text>
+			<Text>Faria bem em nos dar imediatamente o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_1">
 			<Text>Devo recusar.</Text>
@@ -95,7 +95,7 @@
 			<Text>Saudações! Sou Alexandre, filho de reis e neto de deuses! Pode dizer o mesmo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_3">
-			<Text>Boas-vindas! Sou Alexandre, governante destas terras. Busco amizades fortes ou inimigos dignos da minha lâmina. De que lado ficará?</Text>
+			<Text>Boas-vindas! Sou Alexandre, governante destas terras. Busco alianças fortes ou desafios dignos da minha lâmina. De que lado ficará?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_1">
 			<Text>Até a próxima.</Text>
@@ -167,13 +167,13 @@
 			<Text>O céu não pode admitir dois sóis, nem a Terra dois mestres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Você acha que sou ignorante? Eu aprendi matemática com o próprio Aristóteles. Você tem de fazer melhor que isso!</Text>
+			<Text>Você me toma por um simplório? Aprendi matemática com o próprio Aristóteles. Terá de fazer melhor que isso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_2">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Você tem que fazer melhor que isso.</Text>
+			<Text>Terá de fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_4">
 			<Text>Quase...</Text>
@@ -197,13 +197,13 @@
 			<Text>Pode melhorar um pouco?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso ainda não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_4">
 			<Text>Quase...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_ANGRY">
-			<Text>Sua oferta é uma afronta. É um insulto para mim - e para a Grécia.</Text>
+			<Text>Sua oferta é uma afronta. É um insulto para mim — e para a Grécia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_HAPPY">
 			<Text>Obrigado, mas não.</Text>
@@ -227,13 +227,13 @@
 			<Text>Em nome de nossa amizade, isso lhe parece razoável?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_NEUTRAL">
-			<Text>Eu acredito que isso resultaria em benefícios para nós dois.</Text>
+			<Text>Acredito que isso seria benéfico para nós dois.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_ANGRY">
 			<Text>Verme! Esqueceu que está falando com um rei e herdeiro dos deuses?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_HAPPY">
-			<Text>Apesar da minha grande admiração, devo recusar.</Text>
+			<Text>Apesar do grande apreço que tenho por você, devo recusar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL">
 			<Text>Ha, ha, ha! Você deve estar brincando!</Text>
@@ -242,16 +242,16 @@
 			<Text>Muito bem. Parece que não tenho escolha. Mas um dia você pagará por isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_HAPPY">
-			<Text>Certamente - leve o que lhe agradar! Eu sou a alma da generosidade!</Text>
+			<Text>Certamente — leve o que lhe agradar! Eu sou a alma da generosidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_NEUTRAL">
 			<Text>Muito bem. Aproveite enquanto pode.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_1">
-			<Text>Sem problema. Iremos buscá-lo quando estivermos prontos.</Text>
+			<Text>Sem problema. Iremos atrás de você quando estivermos prontos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_2">
-			<Text>Que decepcionante.</Text>
+			<Text>Que decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_3">
 			<Text>Mas que decepcionante.</Text>
@@ -266,10 +266,10 @@
 			<Text>Que tolice! Viverá para se arrepender disso, eu prometo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_1">
-			<Text>Isso foi interessante. Vamos fazer novamente algum dia!</Text>
+			<Text>Foi divertido. Vamos repetir isso algum dia!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_2">
-			<Text>Lutou bem — para quem vive na barbárie. Poetas escreverão sobre nossa luta épica!</Text>
+			<Text>Lutou bem — considerando sua barbárie. Poetas escreverão sobre nossa luta épica!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

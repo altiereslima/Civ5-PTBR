@@ -15,10 +15,10 @@
 			<Text>Permite que embaixadas sejam estabelecidas nas capitais de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF">
-			<Text>Religião: DESABILITADA</Text>
+			<Text>DESATIVADA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF_TOOLTIP">
-			<Text>O sistema religioso está desabilitado neste jogo. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
+			<Text>O sistema religioso está desativado neste jogo. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MO_GA_PROGRESS">
 			<Text>Progresso do Grande Almirante</Text>
@@ -51,7 +51,7 @@
 			<Text>Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_INCOME_RELIGION">
-			<Text>Vindo da Religião</Text>
+			<Text>Renda da Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_INTRIGUE_TURN">
 			<Text>Turno</Text>
@@ -130,7 +130,7 @@
 			<Text>Lembrar-me depois</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_NO_WORLD_RELIGIONS">
-			<Text>Não há religiões no mundo.</Text>
+			<Text>Não há Religiões Mundiais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RO_WR_RELIGION">
 			<Text>Religião</Text>
@@ -227,7 +227,7 @@
 			<Text>Agentes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_NAME_RANK">
-			<Text>Nome</Text>
+			<Text>Nome/Graduação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_LOCATION">
 			<Text>Localização</Text>
@@ -260,7 +260,7 @@
 			<Text>Novo na Expansão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-			<Text>Por vezes, ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Personalidades".[NEWLINE][NEWLINE]Existem tipos diferentes de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial. [NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades por meio da construção de certas edificações e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Personalidades. Equilibrar a necessidade de alimentos e o desejo de Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
+			<Text>Repetidas vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo ao seu redor — artistas, cientistas, generais, mercadores e outros, cuja genialidade os destacou dos demais. Neste jogo, esses visionários são chamados de "Grandes Personalidades".[NEWLINE][NEWLINE]Existem sete tipos de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada tipo possui uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades ao construir certas edificações e Maravilhas e, em seguida, ocupá-las com "especialistas": cidadãos de suas cidades que deixam de trabalhar nos campos ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram bastante a chegada de Grandes Personalidades. Equilibrar a necessidade de Produção e Alimento com o desejo de obter Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_COUP">
 			<Text>Golpe</Text>
@@ -269,7 +269,7 @@
 			<Text>O espião tentará promover um golpe de estado para tornar sua civilização aliada da Cidade-Estado, que já deve estar aliada a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_STAGE_COUP_QUESTION">
-			<Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} pode tentar um golpe de estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName}, colocando no poder um grupo que será nosso aliado. A facção líder apoiadora {4_CivShortDesc[2]} será deposta e sua influência diminuída.[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]Esta operação possui uma chance de {5_PERCENT}% de sucesso.[ENDCOLOR]Se for bem-sucedida, você se tornará aliado {6: gender *:noart?em; feminine?{6: plural 2?nas; other?na;}; masculine?{6: plural 2?nos; other?no;}; other?em;} {6_CityName} e {7: gender *:noart?{}; feminine?{7: plural 2?as ; other?a ;}; masculine?{7: plural 2?os ; other?o ;}; other?{};}{7_CivShortDesc} {7: plural 2?terão; other?terá;} sua influência diminuída. Se você falhar, seu espião será morto na tentativa e sua influência sobre {8: gender *:noart?{}; feminine?{8: plural 2?as ; other?a ;}; masculine?{8: plural 2?os ; other?o ;}; other?{};}{8_CityName} cairá.[NEWLINE][NEWLINE]Deseja que {9: gender feminine?a; other?o;} {9_SpyRank} {10_SpyName} tente um golpe de estado {11: plural 2?{11: gender feminine?nas; masculine?nos; other?em;}; other?{11: gender feminine?na; masculine?no; other?em;};} {11_CityName}?</Text>
+			<Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} pode tentar um golpe de estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName}, colocando no poder um grupo que será nosso aliado. A facção líder apoiadora {4_CivShortDesc[2]} será deposta e sua influência diminuída.[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]Esta operação possui uma chance de {5_PERCENT}% de sucesso.[ENDCOLOR] Se for bem-sucedida, você se tornará aliado {6: gender *:noart?de; feminine?{6: plural 2?das; other?da;}; masculine?{6: plural 2?dos; other?do;}; other?de;} {6_CityName} e {7: gender *:noart?{}; feminine?{7: plural 2?as ; other?a ;}; masculine?{7: plural 2?os ; other?o ;}; other?{};}{7_CivShortDesc} {7: plural 2?terão; other?terá;} sua influência diminuída. Se você falhar, seu espião será morto na tentativa e sua influência sobre {8: gender *:noart?{}; feminine?{8: plural 2?as ; other?a ;}; masculine?{8: plural 2?os ; other?o ;}; other?{};}{8_CityName} cairá.[NEWLINE][NEWLINE]Deseja que {9: gender feminine?a; other?o;} {9_SpyRank} {10_SpyName} tente um golpe de estado {11: plural 2?{11: gender feminine?nas; masculine?nos; other?em;}; other?{11: gender feminine?na; masculine?no; other?em;};} {11_CityName}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_KIA">
 			<Text>MORTO EM AÇÃO</Text>
@@ -296,13 +296,13 @@
 			<Text>Crença Fundadora</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOUNDER_BELIEF">
-			<Text>Selecione uma Crença (bônus ao fundador da civilização).</Text>
+			<Text>Selecione uma Crença (bônus para a civilização fundadora).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF">
 			<Text>Crença de Devoção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOLLOWER_BELIEF">
-			<Text>Selecione uma Crença (bônus a cada cidade devota).</Text>
+			<Text>Selecione uma Crença (bônus para cada cidade que segue a religião).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF2">
 			<Text>Segunda Crença de Devoção</Text>
@@ -317,10 +317,10 @@
 			<Text>Selecione uma Crença Aperfeiçoadora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_BONUS_BELIEF">
-			<Text>Bônus da Crença</Text>
+			<Text>Crença Adicional</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_BONUS_BELIEF">
-			<Text>Selecione um Bônus da Crença.</Text>
+			<Text>Selecione uma Crença Adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_OK_BUTTON">
 			<Text>Fundar Religião</Text>
@@ -353,10 +353,10 @@
 			<Text>Fundado em {1_DateYear}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM">
-			<Text>Tem certeza que deseja fundar o {1_ReligionName}?</Text>
+			<Text>Tem certeza que deseja fundar {1_ReligionName}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM_ENHANCE">
-			<Text>Tem certeza que deseja aperfeiçoar o {1_ReligionName}?</Text>
+			<Text>Tem certeza que deseja aperfeiçoar {1_ReligionName}?</Text>
 		</Row>
 		<!-- =====================================-->
 		<!-- == BEGIN new Diplomacy Victory text keys ==-->
@@ -375,13 +375,13 @@
 			<Text>A quantidade projetada de votos que cada jogador receberá na próxima eleição das Nações Unidas. Os votos definitivos podem se alterar, dependendo dos acontecimentos que ocorrerem entre agora e a eleição.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_SUMMARY_ALT">
-			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 2?possuem; other?possui;} uma projeção de {2_NumProjectedVotes} {2: plural 1?voto; other?votos;}.</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 2?possuem; other?possui;} projeção de {2_NumProjectedVotes} {2: plural 1?voto; other?votos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CIVS_ALT">
-			<Text>Na eleição anterior, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_CivName} {@1: plural 2?receberam; other?recebeu;} {2_NumVotesFromCivs} {2: plural 1?voto; other?votos;} de civilizações. Isso pode mudar na próxima eleição, baseado em relações internacionais. As civilizações votarão na outra civilização com a qual tiverem as melhores relações.</Text>
+			<Text>Na eleição anterior, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_CivName} {@1: plural 2?receberam; other?recebeu;} {2_NumVotesFromCivs} {2: plural 1?voto; other?votos;} de civilizações. Isso pode mudar na próxima eleição, com base nas relações internacionais. As civilizações votarão na outra civilização com a qual tiverem as melhores relações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CITYSTATES_ALT">
-			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} ganhará {2_NumVotesFromMinorCivs} {2: plural 1?voto; other?votos;} de Cidades-Estado, se as relações com elas continuarem da forma que estão agora. As Cidades-Estado votarão na civilização que as libertou por último ou na qual, no momento da votação, estiver aliada, se não houver um libertador.</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} ganhará {2_NumVotesFromMinorCivs} {2: plural 1?voto; other?votos;} de Cidades-Estado, se as relações com elas continuarem da forma que estão agora. As Cidades-Estado votarão na civilização que as libertou por último ou na civilização da qual for aliada no momento da votação, se não houver um libertador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_UN_ALT">
 			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} recebe 1 voto por construir as Nações Unidas.</Text>
@@ -391,7 +391,7 @@
 			<Text>Civilizações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_COL_TT_ALT">
-			<Text>Na eleição anterior, a quantidade de votos recebidos por outras civilizações.</Text>
+			<Text>Na eleição anterior, a quantidade de votos recebidos de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TT_ALT">
 			<Text>Na última eleição das Nações Unidas, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_CivName} {@1: plural 2?receberam; other?recebeu;} votos das civilizações com as quais {@1: plural 2?possuíam; other?possuía;} as melhores relações:</Text>
@@ -408,17 +408,17 @@
 			<Text>Quantidade atual de Cidades-Estado libertadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_VOTES_TT_ALT">
-			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 2?foram mais recentemente; other?foi mais recentemente;} {@1: plural 2?{@1: gender feminine?libertadas; masculine?libertados; other?libertadas;}; other?{@1: gender feminine?libertada; masculine?libertado; other?libertada;};} por:</Text>
+			<Text>{@1_CivName} libertou mais recentemente:</Text>
 		</Row>
 		<!-- Last Vote column-->
 		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE_ALT">
 			<Text>Último Voto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_COL_TT_ALT">
-			<Text>Na eleição anterior, quais civilizações foram votadas. (Não se pode votar em si)</Text>
+			<Text>Civilização que recebeu o voto na eleição anterior. (Não é possível votar em si mesmo.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TT_ALT">
-			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_VotingCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName} na última eleição, já que tinham as melhores relações.[NEWLINE][NEWLINE]Atual tendência {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_VotingCivName} ao seu respeito: {@3_MoodTowardsYou}</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_VotingCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName} na última eleição, já que tinham as melhores relações.[NEWLINE][NEWLINE]Atitude atual {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_VotingCivName} em relação a você: {@3_MoodTowardsYou}</Text>
 		</Row>
 		<!-- ===================================-->
 		<!-- == END new Diplomacy Victory text keys ==-->

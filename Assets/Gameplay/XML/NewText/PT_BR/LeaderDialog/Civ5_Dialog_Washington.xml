@@ -29,13 +29,13 @@
       <Text>Você deve ter confundido nosso amor pela paz com fraqueza... Você pagará por isso!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_2">
-      <Text>Que vilania infame — você se arrependerá!</Text>
+      <Text>Infame! Você se arrependerá!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_3">
-      <Text>Você lamentará este dia, criatura sanguinária!</Text>
+      <Text>Criatura sanguinária! Você se arrependerá deste dia!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_1">
-      <Text>Você provou ser um inimigo irredutível da liberdade — prepare-se para a guerra!</Text>
+      <Text>Você provou ser uma ameaça irredutível à liberdade e à independência — prepare-se para a guerra!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_2">
       <Text>O povo americano se pronunciou. Sua agressão gratuita não nos deixa escolha: prepare-se para a guerra!</Text>
@@ -56,13 +56,13 @@
       <Text>Parabéns pela vitória.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_ANGRY">
-      <Text>Você deve nos dar o que queremos.</Text>
+      <Text>Seria prudente dar-nos o que queremos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_HAPPY">
       <Text>Em nome de nossa amizade e aliança, poderia nos ceder o seguinte nesta hora de necessidade?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Queremos que nos entregue o que pedimos.</Text>
+      <Text>Exigimos de você o seguinte.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_1">
       <Text>Não.</Text>
@@ -83,7 +83,7 @@
       <Text>Você não está falando sério!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_7">
-      <Text>Como...?</Text>
+      <Text>Perdão, como disse?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_1">
       <Text>O povo dos Estados Unidos da América lhe dá as boas-vindas. Confio que seja favorável à liberdade?</Text>
@@ -95,7 +95,7 @@
       <Text>É uma honra conhecer você. Espero sinceramente que nossos dois povos possam viver lado a lado em paz e prosperidade.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_1">
-      <Text>Bom dia!</Text>
+      <Text>Tenha um bom dia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_2">
       <Text>Até logo.</Text>
@@ -104,10 +104,10 @@
       <Text>Até logo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_4">
-      <Text>Espero que nos encontremos novamente.</Text>
+      <Text>Até a próxima.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_5">
-      <Text>Vá agora.</Text>
+      <Text>Vá embora agora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_6">
       <Text>Isso é tudo.</Text>
@@ -131,7 +131,7 @@
       <Text>Ah, é você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_6">
-      <Text>Tudo bem?</Text>
+      <Text>Pois não?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_7">
       <Text>O que deseja?</Text>
@@ -152,7 +152,7 @@
       <Text>Sim?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_6">
-      <Text>Diga...</Text>
+      <Text>O que dizia?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_7">
       <Text>E?</Text>
@@ -161,16 +161,16 @@
       <Text>Continue.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_LOSEWAR_1">
-      <Text>Ficamos satisfeitos em ter feito as pazes com sua grande nação. Espero que não existam desentendimentos entre nossos povos.</Text>
+      <Text>Saudamos a paz com sua grande nação. Rezo para que nenhum mal-entendido futuro volte a separar nossos povos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_1">
       <Text>A disciplina é a alma de um exército. Torna formidáveis pequenos efetivos; dá sucesso aos fracos e respeito a todos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_2">
-      <Text>Governar não é raciocínio, nem oratória. É força. Tal como o fogo, é perigoso e temível.</Text>
+      <Text>O governo não é razão; não é eloquência; é força. Como o fogo, é um servo perigoso e um senhor temível.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_3">
-      <Text>Se quisermos evitar o insulto, devemos ser capazes de revidá-lo; se quisermos a paz, um dos meios mais eficazes de nossa crescente prosperidade, é mostrar que estamos sempre preparados para a guerra.</Text>
+      <Text>Se desejamos evitar insultos, devemos ser capazes de repeli-los; se desejamos garantir a paz — um dos instrumentos mais poderosos de nossa crescente prosperidade —, é preciso que saibam que estamos sempre prontos para a guerra.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_1">
       <Text>Isso é inaceitável. É preciso melhorar.</Text>
@@ -209,13 +209,13 @@
       <Text>Quase...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_ANGRY">
-      <Text>Certamente não. Não nos falta juízo.</Text>
+      <Text>Certamente não. Não somos tolos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_HAPPY">
       <Text>Com todo o respeito e amizade... devo recusar sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_NEUTRAL">
-      <Text>Devo recusar sua oferta. Não é interessante.</Text>
+      <Text>Devo recusar sua oferta. Ela não atende aos nossos interesses.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_ANGRY">
       <Text>Feito.</Text>
@@ -248,13 +248,13 @@
       <Text>Parece que não tenho escolha senão aceitar sua exigência. Por enquanto.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_HAPPY">
-      <Text>Com grande satisfação. Só precisa pedir.</Text>
+      <Text>Com prazer. Bastava pedir.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_NEUTRAL">
-      <Text>Muito bem. Parece que não tenho outra opção a não ser aceitar sua exigência. Mas devo aconselhar a não nos pressionar demais.</Text>
+      <Text>Muito bem. Parece que não tenho escolha senão aceitar sua exigência. Mas aviso: não nos pressione demais.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_1">
-      <Text>Está em um jogo perigoso.</Text>
+      <Text>Está jogando um jogo perigoso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_2">
       <Text>Muito bem. Da próxima vez não serei tão cordial!</Text>
@@ -263,13 +263,13 @@
       <Text>Que decepção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_4">
-      <Text>Estou totalmente decepcionado.</Text>
+      <Text>Que grande decepção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_5">
-      <Text>É mesmo? Espero que não se arrependa de sua falta de visão.</Text>
+      <Text>É mesmo? Espero que não viva para se arrepender de sua falta de visão.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_6">
-      <Text>Que imprudência a sua.</Text>
+      <Text>Que tolice da sua parte.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_WINWAR_1">
       <Text>Confio que tenha aprendido que não se deve brincar com os Estados Unidos!</Text>

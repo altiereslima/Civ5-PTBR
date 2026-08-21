@@ -34,7 +34,7 @@
     </Row>
     <!--Submissive after losing a war -->
     <Row Tag="TXT_KEY_LEADER_MARIA_LOSEWAR_1">
-      <Text>Você... Ser cruel! É tão indelicado quanto os revoltosos Prussianos!</Text>
+      <Text>Você... criatura cruel! Sua falta de civilidade rivaliza com a dos revoltosos prussianos!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_MARIA_LOSEWAR_2">
       <Text>Uma pequena derrota... nada para me preocupar. Eu sofri e sobrevivi a situações piores.</Text>
@@ -76,7 +76,7 @@
       <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>

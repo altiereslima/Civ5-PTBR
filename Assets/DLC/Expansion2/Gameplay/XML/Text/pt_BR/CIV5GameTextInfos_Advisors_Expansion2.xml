@@ -2,10 +2,10 @@
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
-            <Text>Eu sou seu assessor econômico. Nesta lição, vou ensinar a você como usar Trabalhadores para melhorar suas cidades. Sob seu comando, seus trabalhadores vão construir conexões entre cidades para coletar [ICON_GOLD] Ouro, construir melhorias para ajudar suas cidades a crescerem e construírem as coisas mais rápido, além de melhorar os recursos para fazer nosso povo feliz.</Text>
+            <Text>Eu sou seu assessor econômico. Nesta lição, ensinarei como usar Trabalhadores para melhorar suas cidades. Sob seu comando, os Trabalhadores construirão Conexões entre Cidades para gerar [ICON_GOLD] Ouro, criarão melhorias para ajudar suas cidades a crescer e produzir mais rapidamente e melhorarão recursos para deixar nosso povo mais feliz.</Text>
         </Row>
         <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
-            <Text>Temos cidades no litoral que podem ser conectadas usando Portos. Construa portos nessas cidades para fornecer conexões entre cidades pela água e coletar mais [ICON_GOLD] Ouro!</Text>
+            <Text>Temos cidades costeiras que podem ser conectadas por Ancoradouros. Construa Ancoradouros nessas cidades para criar Conexões entre Cidades através do mar e gerar mais [ICON_GOLD] Ouro!</Text>
         </Row>
     </Language_pt_BR>
 </GameData>

@@ -146,7 +146,7 @@
       <Text>Mapas multijogador</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_45">
-      <Text>Scripts de mapas</Text>
+      <Text>Scripts de Mapas</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_46">
       <Text>Mapas históricos</Text>
@@ -173,7 +173,7 @@
       <Text>Fictício</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_53">
-      <Text>Construções em cidades</Text>
+      <Text>Desenho das cidades</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_CATEGORY_54">
       <Text>Edificações</Text>
@@ -212,7 +212,7 @@
       <Text>Criar uma partida personalizada usando mods.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DATABASE_UNAVAILABLE">
-      <Text>A base de dados de mods está temporariamente indisponível.</Text>
+      <Text>O banco de dados de mods está temporariamente indisponível.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DELETEMOD">
       <Text>Apagar</Text>
@@ -230,7 +230,7 @@
       <Text>Você está prestes a baixar um Mod ou pacote de software criado por um usuário. Você usa Mods por sua conta e risco.[NEWLINE][NEWLINE]A 2K Games e a Firaxis Games não são as criadoras deste Mod, e ele pode conter vírus, worms, cavalos de Troia, programas de registro ou outros códigos maliciosos.[NEWLINE][NEWLINE]Ao baixar este arquivo, você reconhece e aceita todos os riscos associados e isenta a 2K Games, a Firaxis Games, suas afiliadas e seus agentes de toda e qualquer responsabilidade relacionada ao uso deste arquivo.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOADER_NOTINITIALIZED">
-      <Text>Não se pode baixar porque não foi iniciado o Microsoft BITS.</Text>
+      <Text>Não é possível baixar porque o Microsoft BITS não foi iniciado.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOADING">
       <Text>Baixando</Text>
@@ -263,7 +263,7 @@
       <Text>Transferido</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_7">
-      <Text>Completo</Text>
+      <Text>Concluído</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_8">
       <Text>Cancelado</Text>
@@ -305,7 +305,7 @@
       <Text>A solicitação foi cancelada.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_ERROR_SAVE_INCOMPATIBLE_MODS">
-      <Text>[COLOR_RED]Os mods habilitados atualmente não são compatíveis com esta partida.[ENDCOLOR]</Text>
+      <Text>[COLOR_RED]Os mods ativados atualmente não são compatíveis com esta partida salva.[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_ERROR_SERVICE_DISABLED">
       <Text>Os serviços foram desativados.</Text>
@@ -335,7 +335,7 @@
       <Text>MB</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FILTER_LATEST_VERSION">
-      <Text>Mostrar só a versão mais recente</Text>
+      <Text>Exibir apenas a versão mais recente</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FIRSTPAGE">
       <Text>Primeira página</Text>
@@ -383,7 +383,7 @@
       <Text>Instalar mods</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_INSTALL_MODS_TT">
-      <Text>Há mods disponíveis para instalação.</Text>
+      <Text>Existem mods disponíveis para instalação.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_INSTALL_PROGRESS">
       <Text>{1_ProcessedFiles}/{2_TotalFiles}</Text>
@@ -437,7 +437,7 @@
       <Text>Agradecimentos especiais:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELSTATUS">
-      <Text>Estado:</Text>
+      <Text>Status:</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LABELSUPPORTSMULTIPLAYER">
       <Text>Multijogador?</Text>
@@ -464,7 +464,7 @@
       <Text>Última página</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LIKE_IT">
-      <Text>Gostei</Text>
+      <Text>Curtir</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_LIKE_IT_TOOLTIP">
       <Text>Dar uma avaliação positiva.</Text>
@@ -539,10 +539,10 @@
       <Text>Obrigado por enviar sua denúncia. Um representante da 2K examinará a questão em breve.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_REPORT_TITLE">
-      <Text>Formulário de denúncia de violação</Text>
+      <Text>Formulário de denúncia de infração</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_RESULTS_EMPTY">
-      <Text>Nenhum mod foi encontrado.</Text>
+      <Text>Não foram encontrados mods.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_RESUMEDOWNLOAD">
       <Text>Retomar</Text>
@@ -605,16 +605,16 @@
       <Text>Atualizar todos os mods</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS_TT">
-      <Text>Atualizar todos os mods instalados para a versão online mais recente.</Text>
+      <Text>Atualizar todos os mods instalados para a versão on-line mais recente.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_UPDATE_MOD">
       <Text>Atualizar mod</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_UPDATE_MOD_LATEST_TT">
-      <Text>Atualizar o mod para a versão mais recente.</Text>
+      <Text>Atualizar mod para a versão mais recente.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_UPDATE_MOD_TT">
-      <Text>Atualizar o mod para a versão {1_Version}.</Text>
+      <Text>Atualizar mod para a versão {1_Version}.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_UPDATEMOD">
       <Text>Atualizar</Text>
@@ -629,7 +629,7 @@
       <Text>SEM PARTIDAS PERSONALIZADAS</Text>
     </Row>
     <Row Tag="TXT_KEY_SELECT_CUSTOM_GAME">
-      <Text>Selecionar um jogo personalizado</Text>
+      <Text>Selecionar uma partida personalizada</Text>
     </Row>
 	<!-- new text -->
 	<Row Tag="TXT_KEY_SELECT_SCENARIO">
@@ -651,13 +651,13 @@
 		<Text>[COLOR_RED]Outra versão deste mod já está ativada.[ENDCOLOR]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_MOD_BLOCKED_BY_OTHER_MOD">
-		<Text>[COLOR_RED]Mod está bloqueado por outro mod.[ENDCOLOR]</Text>
+		<Text>[COLOR_RED]O mod está bloqueado por outro mod.[ENDCOLOR]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_MOD_MISSING_DEPENDENCIES">
-		<Text>[COLOR_RED]Faltam dependências necessárias do mod.[ENDCOLOR]</Text>
+		<Text>[COLOR_RED]Faltam dependências necessárias para o mod.[ENDCOLOR]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_MOD_HAS_EXCLUSIVITY_CONFLICTS">
-		<Text>[COLOR_RED]Mod está bloqueado por exclusividade.[ENDCOLOR]</Text>
+		<Text>[COLOR_RED]O mod está bloqueado por exclusividade.[ENDCOLOR]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_MOD_BAD_GAMEVERSION">
 		<Text>[COLOR_RED]Esta versão do jogo não é compatível com este mod.[ENDCOLOR]</Text>
@@ -679,7 +679,7 @@
       <Text>PRÓXIMO</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_WORKSHOP">
-      <Text>ENCONTRAR MODS</Text>
+      <Text>OBTER MODS</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_WORKSHOP_TT">
       <Text>Clique para abrir a sobreposição da Steam e explorar os mods disponíveis.</Text>
@@ -706,7 +706,7 @@
 		<Text>Depende de {1_ModName}</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_REFERENCES">
-		<Text>Referencia {1_ModName}</Text>
+		<Text>Faz referência a {1_ModName}</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_BLOCKS">
 		<Text>Bloqueia {1_ModName}</Text>
@@ -718,7 +718,7 @@
 		<Text>Todos os outros DLCs</Text>
 	</Row>
 	<Row Tag="TXT_KEY_MODDING_NOASSOCIATIONS">
-		<Text>Nenhum</Text>
+		<Text>Nenhuma</Text>
 	</Row>	
   </Language_pt_BR>
 </GameData>

@@ -75,7 +75,7 @@
       <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -146,7 +146,7 @@
       <Text>Em nome de nossa amizade, tenho certeza de que sua intenção é boa, mas isso não servirá. Podemos ser um povo simples, mas não permitiremos que tirem vantagem de nós.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_2">
-      <Text>É o seu melhor?</Text>
+      <Text>É o melhor que pode fazer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_HAPPY_3">
       <Text>Está quase lá...</Text>

@@ -15,7 +15,7 @@
 			<Text>Histórico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O Grande Cisma dividiu a igreja cristã em leste e oeste. Todas as tentativas de reconciliar Bizâncio e Roma fracassaram. Enquanto isso, os exércitos islâmicos do Grande Turco ameaçam Constantinopla com a captura. Em resposta, o Papa Urbano II emite um chamado para uma cruzada para fortalecer os bizantinos e libertar a Terra Santa. O palco está montado para uma batalha dramática entre as fés. Com tanta carnificina no horizonte, você será capaz de preservar a civilização como a conhecemos e conduzir o mundo para a glória do Renascimento?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]A vitória é concedida com base na pontuação após 200 turnos. Ganhe pontos de vitória especiais do cenário da seguinte forma:[NEWLINE][ICON_BULLET]Controle da Cidade Sagrada: Controle (ou seja, aliado com) a Cidade Sagrada de sua religião ou Jerusalém (10 Pontos de Vitória por turno).[NEWLINE][ICON_BULLET]Imperador do Sacro Império Romano: Vença a eleição recebendo a maioria dos votos de todos os poderes e Cidades-Estado (250 Pontos de Vitória por eleição).[NEWLINE][ICON_BULLET]Novo Mundo: Envie Caravelas para o oeste após pesquisar Exploração.[NEWLINE][ICON_BULLET]Guerra Religiosa: Capture cidades que sigam uma religião diferente.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Três religiões são estabelecidas antes do início do jogo: Catolicismo (Cidade Sagrada é Cidade do Vaticano), Ortodoxia (Cidade Sagrada é Constantinopla) e Islã (Cidade Sagrada é Meca). Controle sua Cidade Sagrada (ou Jerusalém) para obter os benefícios das Crenças Fundadoras de sua religião.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O Grande Cisma dividiu a igreja cristã em leste e oeste. Todas as tentativas de reconciliar Bizâncio e Roma fracassaram. Enquanto isso, os exércitos islâmicos do Grande Turco ameaçam capturar Constantinopla. Em resposta, o Papa Urbano II faz um chamado para uma cruzada a fim de reforçar os bizantinos e libertar a Terra Santa. O palco está montado para uma batalha dramática entre as fés. Com tanta carnificina no horizonte, você será capaz de preservar a civilização como a conhecemos e conduzir o mundo para a glória do Renascimento?[NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]A vitória é concedida com base na pontuação após 200 turnos. Ganhe pontos de vitória especiais do cenário da seguinte forma:[NEWLINE][ICON_BULLET]Controle da Cidade Sagrada: Controle a Cidade Sagrada de sua religião (ou seja aliado dela) ou Jerusalém (10 Pontos de Vitória por turno).[NEWLINE][ICON_BULLET]Imperador do Sacro Império Romano: Vença a eleição recebendo a maioria dos votos de todos os poderes e Cidades-Estado (250 Pontos de Vitória por eleição).[NEWLINE][ICON_BULLET]Novo Mundo: Envie Caravelas para o oeste após pesquisar Exploração.[NEWLINE][ICON_BULLET]Guerra Religiosa: Capture cidades que sigam uma religião diferente.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Três religiões são estabelecidas antes do início do jogo: Catolicismo (Cidade Sagrada é Cidade do Vaticano), Ortodoxia (Cidade Sagrada é Constantinopla) e Islã (Cidade Sagrada é Meca). Controle sua Cidade Sagrada (ou Jerusalém) para obter os benefícios das Crenças Fundadoras de sua religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BRIEFING">
 			<Text>Resumo</Text>
@@ -34,7 +34,7 @@
 			<Text>Saladino</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_SUBTITLE">
-			<Text>Primeiro Sultão do Egito e Síria</Text>
+			<Text>Primeiro Sultão do Egito e da Síria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_LIVED">
 			<Text>1138-1193 d.C.</Text>
@@ -301,13 +301,13 @@
 			<Text>Você precisa controlar a Cidade Sagrada/Jerusalém para receber os benefícios das Crenças Fundadoras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CARAVEL">
-			<Text>{1: gender masculine?Um; feminine?Uma;} {@1_UnitName} está partindo para o Novo Mundo! Por essa façanha de exploração, você recebe {2_VPAmount} {1: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
+			<Text>{1: gender masculine?Um; feminine?Uma;} {@1_UnitName} está partindo para o Novo Mundo! Por essa façanha de exploração, você recebe {2_VPAmount} {2: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CONQUISTADOR">
 			<Text>{1: gender masculine?Um; feminine?Uma;} {@1_UnitName} está partindo para o Novo Mundo! Por essa façanha de conquista no Novo Mundo, você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_OTHER_CARAVEL">
-			<Text>{@1_PlayerName} enviou uma expedição ao Novo Mundo. Por essa façanha de exploração, ele recebe {2_VPAmount} {1: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
+			<Text>{@1_PlayerName} enviou uma expedição ao Novo Mundo. Por essa façanha de exploração, recebeu {2_VPAmount} {2: plural 1?Ponto; other?Pontos;} de Vitória. {3: plural 1?Ainda resta mais {3_NumRemaining} expedição, que receberá; other?Ainda restam mais {3_NumRemaining} expedições, que receberão;} Pontos de Vitória por exploração.</Text>
 		</Row>
 		<!--Scenario-specific diplo modifiers-->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_1">
@@ -383,7 +383,7 @@
 			<Text>Poderosa Unidade Montada Medieval, fraca contra Piqueiros. Apenas os Aiúbidas podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do Cavaleiro que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o Cavaleiro. Essa unidade tem as mesmas estatísticas que o Cavaleiro, mas é significativamente melhor atacando cidades. A Mameluco pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de a Mameluco atingir o alvo.</Text>
+			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o Cavaleiro. Essa unidade tem as mesmas estatísticas que o Cavaleiro, mas é significativamente melhor ao atacar cidades. O Mameluco pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o Mameluco atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
 			<Text>O Arqueiro Galês é uma unidade exclusiva celta, substituindo o Besteiro. O Arqueiro Galês tem um alcance maior do que o Besteiro, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
@@ -395,7 +395,7 @@
 			<Text>Hussardos são ótimos batedores e combatentes de flancos. São um pouco mais fortes e rápidos que o Lanceiro Montado que substituem. Eles começam com Promoções que lhes dão +1 Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_RUSSIAN_COSSACK_STRATEGY">
-			<Text>O Cossaco é um unidade exclusiva russa, substituindo o Lanceiro Montado. Eles são mais fortes que os Lanceiros Montados e ganham um forte bônus de combate quando batalhando com unidades feridas. Isso faz os Cossacos excepcionalmente fortes no contra-ataque - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de Cossacos!</Text>
+			<Text>O Cossaco é uma unidade exclusiva russa, substituindo o Lanceiro Montado. Eles são mais fortes que os Lanceiros Montados e ganham um forte bônus de combate ao enfrentar unidades feridas. Isso torna os Cossacos excepcionalmente fortes no contra-ataque: deixe o inimigo desgastar as tropas da linha de frente e, então, acabe com ele com uma carga de Cossacos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
 			<Text>Unidade de exploração naval do Renascimento. Mova-as para a borda ocidental do mapa para ganhar Pontos de Vitória. Luta como uma unidade naval de combate corpo a corpo.</Text>
@@ -407,7 +407,7 @@
 			<Text>O Conquistador é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o Cavaleiro, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do Cavaleiro. Depois de pesquisar Exploração, a Espanha pode enviar 3 Conquistadores para a borda ocidental do mapa para ganhar Pontos de Vitória no Novo Mundo e [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
-			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao Besteiro, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
+			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-la. Esta unidade tem 1 de alcance adicional em comparação com o Besteiro, mas é um pouco mais fraca. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
 			<Text>A Igreja de Madeira aumenta a [ICON_PEACE]Fé de uma cidade, acelerando a velocidade com que você pode fundar e espalhar religiões. A cidade deve conter um Santuário antes que a Igreja de Madeira possa ser construída. A Igreja de Madeira não tem custo de manutenção e leva metade do tempo para ser construída em comparação com o Templo, que ela substitui.</Text>

@@ -8,7 +8,7 @@
 	<Language_pt_BR>
 		<!-- WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
-			<Text>Alambra|Alambras</Text>
+			<Text>Alhambra|Alhambras</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>

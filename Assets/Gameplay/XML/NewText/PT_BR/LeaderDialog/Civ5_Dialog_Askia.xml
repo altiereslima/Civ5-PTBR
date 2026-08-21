@@ -26,13 +26,13 @@
 			<Text>Queimará por isso, eu juro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_2">
-			<Text>Seu povo está condenado ao fogo e à destruição.</Text>
+			<Text>Criatura tola! Você condenou seu povo ao fogo e à destruição.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_3">
 			<Text>Criatura desprezível! Pagará por isso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_1">
-			<Text>Criatura vil! Você é uma abominação ao céu e à terra. Será destruída!</Text>
+			<Text>Criatura vil! Você é uma abominação aos olhos do céu e da terra. Eu destruirei você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_2">
 			<Text>Amaldiçoo você e seu povo bárbaro. Varreremos vocês da face da Terra com o grande fogo purificador da justiça.</Text>
@@ -41,13 +41,13 @@
 			<Text>Você e seu povo são selvagens e ignorantes. Serão destruídos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_1">
-			<Text>Os Bárbaros avançam e outra grande civilização é destruída. A noite está sobre nós - apague as luzes.</Text>
+			<Text>Os bárbaros avançam, e outra grande civilização é destruída. A noite cai sobre nós — apague as luzes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_2">
 			<Text>Fomos consumidos pelas chamas do ódio e da fúria. Aproveite sua vitória neste mundo — pagará um alto preço no próximo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_ANGRY">
-			<Text>Se não der o que queremos, iremos convocar o grande fogo da justiça sobre suas cidades e destruiremos tudo.</Text>
+			<Text>Se não nos der o que queremos, faremos cair as chamas da justiça sobre suas cidades e destruiremos você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
 			<Text>Songai precisa de sua ajuda na luta contra os hereges e a escória que infestam a Terra.</Text>
@@ -74,22 +74,22 @@
 			<Text>Não é possível que esteja falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_7">
-			<Text>Como disse?</Text>
+			<Text>Perdão, como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_1">
 			<Text>Saudações. Sou Askia de Songai. Somos um povo justo, mas quem se voltar contra nós encontrará apenas destruição. Convém não repetir os erros que outros cometeram no passado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_2">
-			<Text>Minhas bênçãos. Eu sou Askia de Songai. Pretendo paz com todos, mas não fujo da guerra quando necessário. Se deseja sobreviver, não torne isto necessário.</Text>
+			<Text>Bênçãos sobre você. Sou Askia de Songai. Busco a paz com todos, mas não recuo diante da guerra quando ela se faz necessária. Se quiser sobreviver, não nos obrigue a isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_3">
 			<Text>Saudações. Sou Askia, rei de Songai. Somos um povo esclarecido que busca a troca pacífica de conhecimentos com os outros. No entanto, estamos plenamente preparados para nos defender quando necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_4">
-			<Text>Saudações. Eu sou Askia de Songai. Pretendemos paz com todos. Se procura problemas, sugiro que o faça em outro lugar.</Text>
+			<Text>Saudações. Sou Askia de Songai. Buscamos a paz com todos. Se procura problemas, sugiro que os procure em outro lugar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_1">
-			<Text>Bom dia.</Text>
+			<Text>Tenha um bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_2">
 			<Text>Até logo.</Text>
@@ -107,7 +107,7 @@
 			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_7">
-			<Text>Terminamos por aqui.</Text>
+			<Text>Nossos assuntos aqui estão encerrados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_1">
 			<Text>Boas-vindas.</Text>
@@ -155,10 +155,10 @@
 			<Text>Agradecemos por ter posto fim a esta guerra sem sentido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Não me deixe irritado. Você não vai gostar de mim quando estou irritado. Melhore sua oferta ou vá embora.</Text>
+			<Text>Não me irrite. Você não gostaria de me ver furioso. Melhore sua oferta ou vá embora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_2">
-			<Text>Isso não é suficientemente bom.</Text>
+			<Text>Isso não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_3">
 			<Text>Deve fazer melhor que isso.</Text>
@@ -179,7 +179,7 @@
 			<Text>Poderia fazer um pouco melhor?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Isso não é bom o suficiente.</Text>
+			<Text>Isso ainda não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_4">
 			<Text>Quase…</Text>
@@ -191,7 +191,7 @@
 			<Text>Não posso concordar com as suas condições. São injustas para o povo de Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL">
-			<Text>Sua oferta é inaceitável. Pretende nos insultar com ela?</Text>
+			<Text>Sua oferta é inaceitável. Pretendia nos insultar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_ANGRY">
 			<Text>Seu talento para os negócios quase compensa seus outros defeitos.</Text>
@@ -245,13 +245,13 @@
 			<Text>Mas que decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_6">
-			<Text>Espero que não viva para se arrepender de sua falta de visão.</Text>
+			<Text>É mesmo? Espero que não viva para se arrepender de sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_7">
 			<Text>Quanta estupidez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_WINWAR_1">
-			<Text>É só por causa da nossa misericórdia que você ainda existe. Não nos teste de novo!</Text>
+			<Text>É apenas graças à nossa misericórdia que você ainda existe. Não nos teste novamente!</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

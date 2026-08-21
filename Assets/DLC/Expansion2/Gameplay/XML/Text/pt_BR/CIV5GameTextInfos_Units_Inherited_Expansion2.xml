@@ -117,7 +117,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
-			<Text>Tanque|Tanques</Text>
+			<Text>Blindado Terrestre|Blindados Terrestres</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -142,12 +142,12 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
-			<Text>Unid. naval de abordagem|Unid. navais de abordagem</Text>
+			<Text>Unidades navais de abordagem|Unidades navais de abordagem</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
-			<Text>Unid. naval à distância|Unid. navais à distância</Text>
+			<Text>Unidades navais de ataque à distância|Unidades navais de ataque à distância</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -607,6 +607,15 @@
 			<Text>Submarino|Submarinos</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY">
+			<Text>O Miliciano é a unidade exclusiva americana que substitui o Mosqueteiro. Pode atravessar terrenos difíceis como se fossem livres (todos os hexágonos custam 1 ponto de [ICON_MOVES] Movimento), recebe um bônus ao lutar em terreno acidentado e gera pontos para uma [ICON_GOLDEN_AGE] Era Dourada ao derrotar um inimigo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
+			<Text>Transporta inicialmente 2 aeronaves; a capacidade pode ser aumentada por promoções.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MINUTEMAN">
+			<Text>Uma das primeiras unidades de pólvora do jogo. Apenas os Americanos podem treiná-la. Substitui o Mosqueteiro. Esta unidade pode atravessar terreno acidentado como se fosse plano, recebe um bônus ao lutar em terreno acidentado e gera pontos para uma [ICON_GOLDEN_AGE] Era Dourada ao derrotar um inimigo.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

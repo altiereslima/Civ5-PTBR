@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
@@ -36,11 +36,11 @@
 		 <Text>Pessoas mal orientadas por vezes criam ideias erradas e, por sua vez, ações equivocadas. Não é tarde demais para você encontrar o caminho da verdade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2">
-		 <Text>Saiba que você está sendo vigiado por sua nação: se você continuar a fazer o mal, ela vai perder a esperança e a confiança em você.</Text>
+		 <Text>Saiba que sua nação observa suas ações: se continuar a fazer o mal, ela perderá a esperança e a confiança em você.</Text>
 	   </Row>
 	   <!-- Derrotado e removido do jogo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1">
-		 <Text>Deus e a história vão se lembrar de suas ações neste dia. Eu espero que você esteja pronto para o seu julgamento iminente.</Text>
+		 <Text>Deus e a história vão se lembrar de suas ações neste dia. Espero que tenha se preparado para seu julgamento iminente.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2">
 		 <Text>Entristece-me ver que o espírito do ímpio continua a lançar sua sombra sobre este mundo. Que você encontre a sua própria paz, antes de conduzir o seu povo à destruição.</Text>
@@ -160,11 +160,11 @@
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY">
-		 <Text>Mil desculpas, mas não podemos fazer parte disso neste momento. Existe alguma outra coisa em que podemos ajudá-lo?</Text>
+		 <Text>Mil desculpas, mas neste momento não podemos nos desfazer disso. Há algo mais em que possamos ajudar?</Text>
 	   </Row>
 	   <!-- Solicita um comércio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY">
-		 <Text>Vamos jantar juntos e discutir assuntos mundiais. Não somos pessoas materiais, mas temos algumas coisas que podem interessá-lo.</Text>
+		 <Text>Vamos jantar juntos e discutir assuntos mundiais. Não somos pessoas materiais, mas temos algumas coisas que podem ser de seu interesse.</Text>
 	   </Row>
 	   <!-- Exige tributo -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY">
@@ -209,7 +209,7 @@
 	   </Row>
 	   <!-- Oferta Comércio do jogador - adoçar o negócio -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_1">
-		 <Text>Que crueldade e má vontade você deseja transmitir ao meu povo? Raramente vi tal maldade.</Text>
+		 <Text>Que crueldade e má vontade você pretende infligir ao meu povo? Raramente vi tamanha maldade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NEEDMORE_ANGRY_2">
 		 <Text>Isso não é suficiente.</Text>
@@ -226,7 +226,7 @@
 	   </Row> 
 	   <!-- A demanda por homenagem do jogador - sim -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY">
-		 <Text>Eu não tenho os meios físicos para impedi-lo. Isso não pode, contudo, ser sempre o caso.</Text>
+		 <Text>Não disponho dos meios materiais para impedir você desta vez. Isso, porém, pode não ser sempre assim.</Text>
 	   </Row>
 	   <!-- A demanda por homenagem do jogador - no -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY">
@@ -265,10 +265,10 @@
 		 <Text>Não tomamos esta decisão de ânimo leve, mas vamos lutar quando necessário. Vamos vencer, porque estamos confiantes na vitória do bem sobre o mal.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3">
-		 <Text>Eu tentei todas as outras vias, mas ainda assim você persiste nesta loucura. Espero que, por sua causa, seu fim seja rápido.</Text>
+		 <Text>Tentei todos os outros caminhos, mas você insiste nessa loucura. Para o seu próprio bem, espero que seu fim seja rápido.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1">
-		 <Text>Como São Jorge matou o dragão, vamos nos levantar e ficar contra este dragão ímpio e cruel que surgiu para oprimir a humanidade.</Text>
+		 <Text>Assim como São Jorge matou o dragão, nós nos ergueremos contra este dragão ímpio e cruel que surgiu para oprimir a humanidade.</Text>
 	   </Row>
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2">
 		 <Text>É o silêncio que permite que o mal triunfe. Não vamos ficar mudos e permitir que você continue nessa busca louca impunemente.</Text>

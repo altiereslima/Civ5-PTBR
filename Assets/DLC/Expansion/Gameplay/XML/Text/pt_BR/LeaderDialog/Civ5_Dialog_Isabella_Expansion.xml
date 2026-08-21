@@ -141,7 +141,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_LOSEWAR_1">
-			<Text>Os Céus certamente abençoarão sua misericórdia para com o inimigo derrotado.</Text>
+			<Text>Os Céus certamente abençoarão sua misericórdia diante de minha derrota.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
@@ -221,7 +221,7 @@
 			<Text>Claro: os justos devem se unir contra os pagãos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
-			<Text>Certamente: os Céus nos comandam a sermos generosos com aqueles que precisam.</Text>
+			<Text>Certamente: os Céus nos ordenam que sejamos generosos com quem precisa.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_1">
@@ -235,7 +235,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WINWAR_1">
-			<Text>Tem sorte de os Céus nos pedirem para sermos misericordiosos, senão eu destruiria você.</Text>
+			<Text>Você tem sorte de os Céus nos pedirem misericórdia; caso contrário, eu destruiria sua civilização.</Text>
 		</Row>
 
 	</Language_pt_BR>

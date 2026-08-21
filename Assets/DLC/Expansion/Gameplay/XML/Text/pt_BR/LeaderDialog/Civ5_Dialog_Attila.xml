@@ -78,7 +78,7 @@
       <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -273,7 +273,7 @@
       <Text>Eu estou cansando deste trono. Acho que eu gostaria de possuir o seu agora.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_1">
-      <Text>Maldito! Terei sua cabeça antes que o dia termine.</Text>
+      <Text>Maldição! Terei sua cabeça antes que o dia termine.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_2">
       <Text>Eu esperaria esta traição de Roma, não de você. Não importa... todos vocês sangram.</Text>

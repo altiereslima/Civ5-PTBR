@@ -97,7 +97,7 @@
         <Slider Length="555" Anchor="C,C" ID="Tooltip2TimerSlider" Style="Slider" WheelSteps="10" /-->
 
         <PullDown Offset="0,25" Anchor="C,C" Style="GenericPullDown" ScrollThreshold="200"   SpaceForScroll="0" Size="300,32" ID="TutorialPull" ToolTip="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL_TT" >
-          <Label Anchor="L,C" AnchorSide="o,i" Offset="10,0" String="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL" />
+          <Label Anchor="L,C" AnchorSide="o,i" Offset="10,0" String="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL" Font="TwCenMT16" />
         </PullDown>
 
         <GridButton Offset="0,15" Anchor="C,B" Size="300,32" ID="ResetTutorialButton" Style="SmallButton" ToolTip="TXT_KEY_OPSCREEN_RESET_TUTORIAL_TT">
@@ -127,14 +127,14 @@
     <Container Size="971,500" Offset="0,44" ID="IFacePanel" Hidden="1">
       <Stack ID="IFaceStack" Anchor="C,t" Padding="20" Offset="0,90" >
         <Box Anchor="c,c" Size="400,120" Offset="100,0" Color="White,0" >
-          <Label Anchor="R,T" Offset="44,9" LeadingOffset="-10" WrapWidth="300" String="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES" ToolTip="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT" >
+          <Label Anchor="R,T" Offset="44,9" LeadingOffset="-10" WrapWidth="300" Font="TwCenMT18" String="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES" ToolTip="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT" >
             <Box Anchor="R,C" AnchorSide="o,i" Offset="10,0" Size="34,24" Color="255,255,200,255" >
               <Box Anchor="C,C"  Offset="0,0" Size="32,22" Color="0,0,0,255" >
                 <EditBox EditMode="1" Size="30,18" Anchor="C,C" ID="AutosaveTurnsEdit" Font="TwCenMT14" NumberInput="1" MaxLength="3" />
               </Box>
             </Box>
           </Label>
-          <Label Anchor="R,B" Offset="44,48" LeadingOffset="-10" WrapWidth="300" String="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT" ToolTip="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT" >
+          <Label Anchor="R,B" Offset="44,48" LeadingOffset="-10" WrapWidth="300" Font="TwCenMT18" String="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT" ToolTip="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT" >
             <Box Anchor="R,C" AnchorSide="o,i" Offset="10,0" Size="34,24" Color="255,255,200,255" >
               <Box Anchor="C,C"  Offset="0,0" Size="32,22" Color="0,0,0,255" >
                 <EditBox EditMode="1" Size="30,18" Anchor="C,C" ID="AutosaveMaxEdit" Font="TwCenMT14" NumberInput="1" MaxLength="3" />
@@ -283,7 +283,7 @@
 
       <!-- Turn Notify Options -->
       <Grid Offset="40,100" Size="395,200" Color="White,128" Style="Grid9FrameButtons" >
-        <Label Anchor="C,T" Offset="0,5" WrapWidth="250" LeadingOffset="-10" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_OPTIONS" />
+        <Label Anchor="C,T" Offset="0,5" WrapWidth="250" LeadingOffset="-10" Font="TwCenMT16" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_OPTIONS" />
         <Box Anchor="C,T" Offset="0,30" Size="375,160" Color="0,0,0,0">
           <Stack Anchor="L,T" Padding="0" StackGrowth="Bottom">
             <CheckBox Anchor="R,T" Offset="-32,0" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE" LeadingOffset="0" WrapWidth="350" ID="TurnNotifySteamInviteCheckbox" ToolTip="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE_TT" />
@@ -301,7 +301,7 @@
 
       <!-- Turn Notify Host Options -->
       <Grid Offset="440,100" Size="460,280" Color="White,128" Style="Grid9FrameButtons" >
-        <Label Anchor="C,T" Offset="0,5" WrapWidth="250" LeadingOffset="-10" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_HOST_OPTIONS" />
+        <Label Anchor="C,T" Offset="0,5" WrapWidth="250" LeadingOffset="-10" Font="TwCenMT16" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_HOST_OPTIONS" />
         <Stack Anchor="L,T" Offset="10,30" Padding="10" StackGrowth="Bottom">
           <Label Anchor="L,C" Offset="0,10" LeadingOffset="-10" WrapWidth="300" String="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS" >
             <Box Anchor="R,C" AnchorSide="o,i" Offset="10,0" Size="184,24" Color="255,255,200,255" >

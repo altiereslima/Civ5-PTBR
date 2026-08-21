@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
@@ -59,7 +59,7 @@
             <Text>Reforma</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_REFORMATION_BELIEF_TITLE">
-            <Text>Reforma da Crença</Text>
+            <Text>Adicionar Crença de Reforma</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MAJOR">
             <Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} ({4_CivName})</Text>
@@ -143,13 +143,13 @@
             <Text>Rotas Comerciais para sua civilização que outros criaram</Text>
         </Row>
         <Row Tag="TXT_KEY_ADDITIONAL_INTERNATIONAL_TRADE_ROUTE">
-            <Text>Permite estabelecimento de uma rota comercial adicional.</Text>
+            <Text>Permite estabelecer uma Rota Comercial adicional.</Text>
         </Row>
         <Row Tag="TXT_KEY_EXTENDS_SEA_TRADE_ROUTE_RANGE">
-            <Text>Estende o alcance das rotas comerciais marinhas.</Text>
+            <Text>Aumenta o alcance das Rotas Comerciais marítimas.</Text>
         </Row>
         <Row Tag="TXT_KEY_EXTENDS_LAND_TRADE_ROUTE_RANGE">
-            <Text>Estende o alcance das rotas comerciais terrestres.</Text>
+            <Text>Aumenta o alcance das Rotas Comerciais terrestres.</Text>
         </Row>       <!-- Establish International Rota Comercial Popup -->
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_TITLE">
             <Text>Estabelecer Rota Comercial</Text>
@@ -179,10 +179,10 @@
             <Text>Bônus das Políticas Sociais: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_YOURS">
-            <Text>{1_CityName} Ouro por turno: {2_Num}</Text>
+            <Text>Ouro por turno de {1_CityName}: {2_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_THEIRS">
-            <Text>{1_CityName} Ouro por turno: {2_Num}</Text>
+            <Text>Ouro por turno de {1_CityName}: {2_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_EXCLUSIVE_CONNECTION">
             <Text>Bônus por conexões exclusivas: {1_Num}</Text>
@@ -197,7 +197,7 @@
             <Text>{1_ResourceIcon} {2_ResourceName:textkey}: {3_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RIVER_MODIFIER">
-            <Text>Próximo a Rio: +{1_Num}%</Text>
+            <Text>Próximo a um Rio: +{1_Num}%</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_DOMAIN_SEA_MODIFIER">
             <Text>Rota marítima: {1_Num}x</Text>
@@ -266,19 +266,19 @@
             <Text>Mais Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_GOLD_DELTA">
-            <Text>Diferença Mais Ouro</Text>
+            <Text>Maior Diferença de Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE">
             <Text>Mais Ciência</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE_DELTA">
-            <Text>Diferença Mais Ciência</Text>
+            <Text>Maior Diferença de Ciência</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_PREV_ROUTE">
             <Text>Rota Anterior</Text>
         </Row>       <!--Change Unidade Comercial Home City -->
         <Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_TITLE">
-            <Text>Alterar Cidade Natural da Unidade Comercial</Text>
+            <Text>Alterar Cidade de Origem da Unidade Comercial</Text>
         </Row>
         <Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_STARTING_CITY">
             <Text>Cidade Inicial: {1_CityName}</Text>
@@ -304,7 +304,7 @@
 		</Row>		
 		<!--Trade Overview -->
         <Row Tag="TXT_KEY_TRADE_ROUTE_OVERVIEW">
-            <Text>Visão de Rotas Comerciais</Text>
+            <Text>Visão Geral das Rotas Comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_TAB_EXISTING_TR">
             <Text>Suas Rotas Comerciais</Text>
@@ -373,19 +373,19 @@
             <Text>Lista todas as rotas comerciais que outros criaram com suas cidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_DOMAIN_TT">
-            <Text>Unidades comerciais podem estar ou em terra (com uma Caravana) ou nas águas (com um Navio Cargueiro).[NEWLINE][NEWLINE]Clique para ordenar pelo domínio das rotas comerciais.</Text>
+            <Text>As unidades comerciais podem viajar por terra (com uma Caravana) ou por mar (com um Navio Cargueiro).[NEWLINE][NEWLINE]Clique para ordenar as Rotas Comerciais por domínio.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_FROM_CIV_TT">
-            <Text>Clique para ordenar por qual civilização a rota comercial está vindo.</Text>
+            <Text>Clique para ordenar pela civilização de origem da Rota Comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_FROM_CITY_TT">
-            <Text>Clique para ordenar por qual cidade a rota comercial está vindo.</Text>
+            <Text>Clique para ordenar pela cidade de origem da Rota Comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_TO_CIV_TT">
-            <Text>Clique para ordenar para qual civilização a rota comercial está indo.</Text>
+            <Text>Clique para ordenar pela civilização de destino da Rota Comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_TO_CITY_TT">
-            <Text>Clique para ordenar para qual cidade a rota comercial está indo.</Text>
+            <Text>Clique para ordenar pela cidade de destino da Rota Comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRO_COL_FROM_GPT_TT">
             <Text>Clique para ordenar pela quantidade de [ICON_GOLD] Ouro que a civilização que criou a rota comercial gera por ela.</Text>
@@ -448,7 +448,7 @@
             <Text>[NEWLINE][NEWLINE]Você não pode construir esta unidade comercial, pois não há rotas comerciais marítimas disponíveis.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NO_EXTRA_SLOTS">
-            <Text>[NEWLINE][NEWLINE]Você não pode construir uma unidade comercial, pois você está no seu milite de unidades comerciais.</Text>
+            <Text>[NEWLINE][NEWLINE]Você não pode construir uma unidade comercial porque atingiu o limite de unidades comerciais.</Text>
         </Row>       <!-- Culture Related -->
         <Row Tag="TXT_KEY_CHOOSE_ARCHAEOLOGY_TITLE">
             <Text>Achado Arqueológico</Text>
@@ -469,7 +469,7 @@
             <Text>RUÍNAS ANTIGAS SAQUEADAS</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE5">
-            <Text>CIDADE ELIMINADA</Text>
+            <Text>CIDADE ARRASADA</Text>
         </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE6">
 		  <Text>ESCRITA ANTIGA</Text>
@@ -502,31 +502,31 @@
             <Text>Criar Artefato {1_String}</Text>
         </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITING_HEADER">
-		  <Text>Criar Escrita {1_String}</Text>
+		  <Text>Criar Obra Literária {1_String}</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
             <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
         </Row>
 	    <Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
-			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
+			<Text>A obra escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. A obra fornece +2 de [ICON_CULTURE] Cultura e +2 de [ICON_TOURISM] Turismo. O Arqueólogo será consumido.</Text>
 		</Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
-            <Text>Criar Melhoria Marco Histórico</Text>
+            <Text>Criar Melhoria de Marco Histórico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
-            <Text>Quando trabalhado, o Marco Histórico fornece [ICON_CULTURE] Cultura baseada na sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior a atual Era da civilização. O Arqueólogo será consumido.</Text>
+            <Text>Quando trabalhado, um Marco Histórico fornece [ICON_CULTURE] Cultura de acordo com sua idade. +1 de [ICON_CULTURE] Cultura por Era anterior à Era atual desta civilização. O Arqueólogo será consumido.</Text>
         </Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de outra civilização concede um bônus diplomático permanente com aquela nação.[ENDCOLOR]</Text>    
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Marco Histórico no território de uma Cidade-Estado concede um grande bônus único de Influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
 		  <Text>Iniciar Renascença Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_RESULT">
-		  <Text>O artefato literário será consumido para dar à civilização um grande e único aumento [ICON_CULTURE] Cultural.</Text>
+		  <Text>O artefato literário será consumido para conceder à civilização um grande bônus único de [ICON_CULTURE] Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_WORK_POPUP_WRITTEN_ARTIFACT">
 		  <Text>Artefato Literário</Text>
@@ -571,16 +571,16 @@
             <Text>[COLOR_MAGENTA]Dominante[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_FALLING">
-            <Text>[COLOR_RED]Decadente[ENDCOLOR]</Text>
+            <Text>[COLOR_RED]Em Queda[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_STATIC">
-            <Text>[COLOR_WHITE]Estático[ENDCOLOR]</Text>
+            <Text>[COLOR_WHITE]Estável[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_RISING_SLOWLY">
-            <Text>[COLOR_PLAYER_LIGHT_GREEN_TEXT]Levantando-se Devagar[COLOR_PLAYER_LIGHT_GREEN_TEXT]</Text>
+            <Text>[COLOR_PLAYER_LIGHT_GREEN_TEXT]Crescendo Lentamente[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_RISING">
-            <Text>[COLOR_GREEN]Levantando-se[ENDCOLOR]</Text>
+            <Text>[COLOR_GREEN]Crescendo[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CULTURE_HEADER_TT">
             <Text>[ICON_CULTURE] Cultura produzida por esta Cidade</Text>
@@ -595,52 +595,52 @@
             <Text>[ICON_GREAT_WORK] Grandes Obras na cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_TT">
-            <Text>Literária: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
+            <Text>Literatura: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Música: {3_String}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT_ENTRY">
             <Text>{1_Num}/{2_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT">
-            <Text>Literária: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
+            <Text>Literatura: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Música: {3_String}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER_TT">
-            <Text>Número de Civilizações cuja cultura Influente foi atingida além do total necessário para uma Vitória Cultural</Text>
+            <Text>Número de Civilizações sobre as quais sua cultura se tornou Influente, em relação ao total necessário para uma Vitória Cultural</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_LEVEL_HEADER_TT">
-            <Text>Valores possíveis são:[NEWLINE]- Desconhecido[NEWLINE]- Exótico[NEWLINE]- Familiar[NEWLINE]- Popular[NEWLINE]- Influente[NEWLINE]- Dominante[NEWLINE][NEWLINE]Resulta em benefícios advindos da civilização influenciada, iniciando no nível Familiar:[NEWLINE] 1. Bônus [ICON_RESEARCH] Científico de Rotas Comerciais[NEWLINE] 2. Os [ICON_SPY] Espiões ficam mais efetivos[NEWLINE] 3. Fica mais fácil controlar cidades conquistadas</Text>
+            <Text>Valores possíveis:[NEWLINE]- Desconhecido[NEWLINE]- Exótico[NEWLINE]- Familiar[NEWLINE]- Popular[NEWLINE]- Influente[NEWLINE]- Dominante[NEWLINE][NEWLINE]A partir do nível Familiar, você obtém benefícios em relação à civilização influenciada:[NEWLINE] 1. Bônus de [ICON_RESEARCH] Ciência nas Rotas Comerciais[NEWLINE] 2. Os [ICON_SPY] Espiões se tornam mais eficazes[NEWLINE] 3. Torna-se mais fácil controlar cidades conquistadas</Text>
         </Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_FAMILIAR">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+1 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões realizam avaliação em 1 turno[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]25% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios obtidos:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+1 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões estabelecem Vigilância em 1 turno[NEWLINE]- Ao conquistar uma cidade da civilização influenciada:[NEWLINE]25% de redução no tempo de Agitação e na perda de População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_POPULAR">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões realizam avaliação em 1 turno e operam em 1 graduação acima em Cidades-Estado aliadas à civilização influenciada[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]50% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios obtidos:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões estabelecem Vigilância em 1 turno e operam com 1 Graduação a mais nas Cidades-Estado aliadas da civilização influenciada[NEWLINE]- Ao conquistar uma cidade da civilização influenciada:[NEWLINE]50% de redução no tempo de Agitação e na perda de População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_INFLUENTIAL">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões realizam avaliação em 1 turno e operam em 1 graduação acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]75% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios obtidos:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões estabelecem Vigilância em 1 turno e operam com 1 Graduação a mais nas cidades da civilização influenciada e em suas Cidades-Estado aliadas[NEWLINE]- Ao conquistar uma cidade da civilização influenciada:[NEWLINE]75% de redução no tempo de Agitação e na perda de População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_DOMINANT">
-		  <Text>Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões realizam avaliação em 1 turno e operam em 2 graduações acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]Não há tempo de agitação ou perda de população</Text>
+		  <Text>Benefícios obtidos:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH] Ciência[NEWLINE]- [ICON_SPY] Espiões estabelecem Vigilância em 1 turno e operam com 2 Graduações a mais nas cidades da civilização influenciada e em suas Cidades-Estado aliadas[NEWLINE]- Ao conquistar uma cidade da civilização influenciada:[NEWLINE]sem tempo de Agitação e sem perda de População</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_BONUS_CITY_STATE">
-		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Os espiões estão operando em {1_SpyBonus} {1_SpyBonus: plural 1?graduação; other?graduações;} acima do normal, já que esta Cidade-Estado é aliada a uma civilização sobre a qual você possui forte influência cultural.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]O Espião está operando com {1_SpyBonus} {1_SpyBonus: plural 1?Graduação; other?Graduações;} a mais que o normal porque esta Cidade-Estado é aliada de uma civilização sobre a qual você exerce forte Influência Cultural.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_BONUS_MAJOR_CIV">
-		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Os espiões estão operando em {1_SpyBonus} {1_SpyBonus: plural 1?graduação; other?graduações;} acima do normal, já que você possui forte influência cultural sobre esta civilização.[ENDCOLOR]</Text>
+		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]O Espião está operando com {1_SpyBonus} {1_SpyBonus: plural 1?Graduação; other?Graduações;} a mais que o normal porque você exerce forte Influência Cultural sobre esta civilização.[ENDCOLOR]</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CO_INFLUENCE_PERCENT_HEADER_TT">
-            <Text>Todo o [ICON_TOURISM] Turismo como uma percentagem de toda a [ICON_CULTURE] Cultura da civilização alvo</Text>
+            <Text>[ICON_TOURISM] Turismo acumulado ao longo da partida como porcentagem da [ICON_CULTURE] Cultura acumulada pela civilização-alvo</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_MODIFIERS_HEADER_TT">
-            <Text>Modificadores à produção de [ICON_TOURISM] Turismo à civilização alvo</Text>
+            <Text>Modificadores da produção de [ICON_TOURISM] Turismo contra a civilização-alvo</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_TOURISM_HEADER_TT">
             <Text>Produção de [ICON_TOURISM] Turismo ajustada</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_TREND_HEADER_TT">
-            <Text>Indicador Levantando-se ou Decadente[NEWLINE](e se Levantando-se, a janela emergente exibe o número de turnos até ficar Influente)</Text>
+            <Text>Indicador de crescimento ou queda[NEWLINE](se estiver crescendo, a dica mostra o número de turnos até se tornar Influente)</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENTIAL_TURNS_TT">
-            <Text>Influente em {1_Num} {1: plural 1:turno; other?turnos;} (assumindo que a produção de Turismo permaneça inalterada)</Text>
+            <Text>Influente em {1_Num} {1: plural 1?turno; other?turnos;} (supondo que a geração de Turismo permaneça inalterada)</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_TOURISM_PERCENT_TT">
             <Text>{1_String}[NEWLINE]{2_String} alcançado em {3_Num}%</Text>
@@ -670,7 +670,7 @@
             <Text>{1_Num} de [ICON_TOURISM] Turismo de {2_Num} [ICON_GREAT_WORK] {2: plural 1?Grande Obra; other?Grandes Obras;}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_THEMING_BONUSES">
-            <Text>{1_Num} de [ICON_TOURISM] Turismo de Bônus de Museu e de Maravilha Temática</Text>
+            <Text>{1_Num} de [ICON_TOURISM] Turismo dos Bônus Temáticos de Museus e Maravilhas</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_TILES">
             <Text>{1_Num} de [ICON_TOURISM] Turismo de {2_Num}% da [ICON_CULTURE] Cultura de Maravilhas do Mundo, Maravilhas Naturais e Melhorias</Text>
@@ -784,7 +784,7 @@
             <Text>[COLOR_NEGATIVE_TEXT]Onda Revolucionária[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_OVERVIEW">
-            <Text>A Opinião Pública de cada civilização é monitorada assim que o Império adota uma Ideologia e é calculada baseada na Influência exercida por uma civilização comparada com a Influência recebida de outras civilizações com uma Ideologia.[NEWLINE][NEWLINE]Se a pressão da Influência de outras Ideologias exceder a pressão da atual Ideologia, a Opinião Pública vai se distanciar de [COLOR_POSITIVE_TEXT]Contente[ENDCOLOR] e criar [ICON_HAPPINESS_4] Infelicidade. O resumo abaixo exibe um símbolo para cada unidade de pressão a uma Ideologia.[NEWLINE][NEWLINE]</Text>
+            <Text>A Opinião Pública de cada civilização passa a ser acompanhada quando o império adota uma Ideologia e é calculada comparando a Influência exercida pela civilização com a Influência recebida de outras civilizações que também possuem uma Ideologia.[NEWLINE][NEWLINE]Se a pressão de Influência de outras Ideologias superar a pressão da Ideologia atual, a Opinião Pública se afastará de [COLOR_POSITIVE_TEXT]Contente[ENDCOLOR] e gerará [ICON_HAPPINESS_4] Infelicidade. O resumo abaixo exibe um símbolo para cada unidade de pressão em direção a uma Ideologia.[NEWLINE][NEWLINE]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_NOT_INFLUENCED">
             <Text>Não influenciado pela Ideologia de qualquer outra civilização.</Text>
@@ -805,13 +805,13 @@
             <Text>[NEWLINE]Por [COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR]:[NEWLINE]{1_String}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_PREFERRED_IDEOLOGY">
-            <Text>[NEWLINE][NEWLINE]Ideologia Preferida é [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
+            <Text>[NEWLINE][NEWLINE]A Ideologia Preferida é [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE1">
             <Text>Opinião Pública está gerando {1_Num} de [ICON_HAPPINESS_4]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE2">
-            <Text>[NEWLINE] Que é maior do que:</Text>
+            <Text>[NEWLINE]  O maior destes valores:</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE3">
             <Text>[NEWLINE] {1_Num} de [ICON_HAPPINESS_4] por cidade OU</Text>
@@ -847,13 +847,13 @@
             <Text>Clique para Mover</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_MOVE_TT">
-            <Text>Clique com botão esquerdo nos Grandes Obras para movê-los de um local para outro.</Text>
+            <Text>Clique com o botão esquerdo nas Grandes Obras para movê-las de um local para outro.</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_VIEW">
             <Text>Clique para Exibir</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_VIEW_TT">
-            <Text>Clique com botão esquerdo nos Grandes Obras para exibi-los.</Text>
+            <Text>Clique com o botão esquerdo nas Grandes Obras para visualizá-las.</Text>
         </Row>
         <Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
             <Text>Sítios Arqueológicos ainda não escavados: {1_Num}</Text>
@@ -934,7 +934,7 @@
             <Text>Necessário ser Influente em {1_XofYString} Civilizações para uma Vitória Cultural</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_EMPTY">
-            <Text>Vazio (Literária)</Text>
+            <Text>Vazio (Literatura)</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_SLOT_EMPTY">
             <Text>Vazio (Arte)</Text>
@@ -943,7 +943,7 @@
             <Text>Vazio (Artefato)</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_SLOT_EMPTY">
-            <Text>Vazio (Musical)</Text>
+            <Text>Vazio (Música)</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_TT">
             <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço na edificação ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações poderão permutá-la no turno delas sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
@@ -997,7 +997,7 @@
             <Text>Isso reiniciará a proposta de troca de uma Grande Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_WRITING_HEADER">
-            <Text>Literária</Text>
+            <Text>Literatura</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_ART_HEADER">
             <Text>Arte</Text>
@@ -1006,7 +1006,7 @@
             <Text>Artefato</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_MUSIC_HEADER">
-            <Text>Musical</Text>
+            <Text>Música</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_THIS">
             <Text>Selecionar {1_String}</Text>
@@ -1045,7 +1045,7 @@
             <Text>Conexões entre Cidades</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_TRADE">
-            <Text>Vindo de Conexões entre Cidades</Text>
+            <Text>Renda das Conexões entre Cidades</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
             <Text>[ICON_PLUS] Conexões entre Cidades</Text>
@@ -1063,10 +1063,10 @@
             <Text>Diplomacia[NEWLINE][NEWLINE]Turnos até o Congresso Mundial se reunir: {1_Num}[NEWLINE][NEWLINE]À medida que os jogadores avançam pelas eras, este intervalo diminui.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_DIPLOMACY_AND_VICTORY_SESSION">
-            <Text>Diplomacia[NEWLINE][NEWLINE]Turnos até a Nações Unidas se reunir: {1_TurnsUntilSession}[NEWLINE][NEWLINE]Turnos até a próxima proposta de [COLOR_POSITIVE_TEXT]Líder Mundial[ENDCOLOR]: {2_TurnsUntilVictorySession}[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Vitória Diplomática[ENDCOLOR] é possível agora. Para vencer, uma Civilização precisa receber o apoio de delegados suficientes em uma proposta de [COLOR_POSITIVE_TEXT]Líder Mundial[ENDCOLOR].</Text>
+            <Text>Diplomacia[NEWLINE][NEWLINE]Turnos até a Organização das Nações Unidas se reunir: {1_TurnsUntilSession}[NEWLINE][NEWLINE]Turnos até a próxima proposta de [COLOR_POSITIVE_TEXT]Líder Mundial[ENDCOLOR]: {2_TurnsUntilVictorySession}[NEWLINE][NEWLINE]A [COLOR_POSITIVE_TEXT]Vitória Diplomática[ENDCOLOR] agora é possível. Para vencer, uma Civilização precisa receber o apoio de Delegados suficientes em uma proposta de [COLOR_POSITIVE_TEXT]Líder Mundial[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_24">
-            <Text>Negociar</Text>
+            <Text>Comércio</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_25">
             <Text>Congresso Mundial</Text>
@@ -1093,7 +1093,7 @@
             <Text>Turnos até a próxima proposta de Líder Mundial:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_NEEDED">
-            <Text>Delegados para ser Líder Mundial:</Text>
+            <Text>Delegados necessários para vencer a proposta de Líder Mundial:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_CONTROLLED">
             <Text>Delegados que Você Controla:</Text>
@@ -1102,10 +1102,10 @@
             <Text>Total de Delegados Disponíveis:</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_UN_ACTIVE">
-            <Text>As Nações Unidas estão ativas e a Vitória é possível.</Text>
+            <Text>A Organização das Nações Unidas está ativa, e a Vitória é possível.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_UN_INACTIVE">
-            <Text>As Nações Unidas ainda não começaram.</Text>
+            <Text>A Organização das Nações Unidas ainda não foi criada.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITYVIEW_TOURISM_TEXT">
             <Text>Turismo</Text>
@@ -1147,7 +1147,7 @@
             <Text>Cenário VP 4</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-            <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Personalidades".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Personalidade no jogo: Grandes Mercadores, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades através da construção de certas edificações e maravilhas e, depois, designando a elas "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos hexágonos da cidade, eles aceleraram muito a chegada de uma Grande Personalidade. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Personalidades é um desafio importante de gestão da cidade.</Text>
+            <Text>Ao longo da história, surgiram repetidas vezes homens e mulheres que transformaram profundamente o mundo ao seu redor — artistas, cientistas, generais, mercadores e outros cujo talento os destacou muito acima dos demais. Neste jogo, esses visionários são chamados de "Grandes Personalidades".[NEWLINE][NEWLINE]Há nove tipos de Grandes Personalidades no jogo: Grandes Mercadores, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada tipo possui uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades ao construir determinadas edificações e maravilhas e, depois, designar "especialistas" para elas — cidadãos de suas cidades que deixam de trabalhar nos campos ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram bastante o surgimento de Grandes Personalidades. Equilibrar a necessidade de Produção e Alimento com o desejo de obter Grandes Personalidades é um desafio importante da administração das cidades.</Text>
         </Row>       <!--New Declare War Screen -->
         <Row Tag="TXT_KEY_DECLARE_WAR_TOP">
             <Text>Tem certeza que deseja declarar guerra contra {1_CivName}?</Text>
@@ -1159,16 +1159,16 @@
             <Text>Cidades-Estado Aliadas</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_HEADER">
-            <Text>Tratar com {1_CivName}</Text>
+            <Text>Acordos com {1_CivName}</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_TURNS_LEFT">
-            <Text>{1_Num} {1: plural 1?Turno; other? Turnos;} Restando</Text>
+            <Text>{1_Num} {1: plural 1?Turno Restante; other?Turnos Restantes;}</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_YOU">
             <Text>De Você</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_OTHER">
-            <Text>{1: gender feminine?{1: plural 2?{Das}; other?{Da};}; other?{1: plural 2:{Dos}; other?{Do};};} {1_CivName}</Text>
+            <Text>{1: gender feminine?{1: plural 2?{Das}; other?{Da};}; other?{1: plural 2?{Dos}; other?{Do};};} {1_CivName}</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES_HEADER">
             <Text>Rotas Comerciais</Text>
@@ -1180,7 +1180,7 @@
             <Text>Não</Text>
         </Row>       <!--City Banner -->
         <Row Tag="TXT_KEY_CITY_DIPLOMAT_OTHER_CIV_TT">
-            <Text>{1_SpyRank} {2_SpyName} está {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como um diplomata. Enquanto {4_SpyRank} {5_SpyName} estiver nesta cidade, ele estabelecerá uma vigilância e informará a votação daquela Civilização na votação do Congresso Mundial. {6_SpyRank} {7_SpyName} também informará qualquer intriga que descobrir durante sua visita.</Text>
+            <Text>{1_SpyRank} {2_SpyName} está {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como Diplomata. Enquanto {4_SpyRank} {5_SpyName} estiver na cidade, estabelecerá Vigilância e informará você sobre os votos dessa Civilização no Congresso Mundial. {6_SpyRank} {7_SpyName} também informará qualquer intriga que descobrir durante a missão.</Text>
         </Row>       <!-- Declare War Popup -->
         <Row Tag="TXT_KEY_DECLARE_WAR_UNDER_PROTECTION_OF">
             <Text>SOB A PROTEÇÃO DE</Text>

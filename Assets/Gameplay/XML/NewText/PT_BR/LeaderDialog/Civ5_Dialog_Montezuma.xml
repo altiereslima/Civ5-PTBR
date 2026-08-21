@@ -23,7 +23,7 @@
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_1">
-			<Text>Agora eu destruirei a sua civilização!</Text>
+			<Text>Agora vou destruir você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_2">
 			<Text>Excelente! Que o sangue corra em torrentes furiosas!</Text>
@@ -32,7 +32,7 @@
 			<Text>Que tolice! Vou afogar o mundo no sangue de seus soldados!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1">
-			<Text>Estou quase sem prisioneiros para sacrificar. Seus cidadãos servirão perfeitamente — prepare-se para a guerra!</Text>
+			<Text>Estou quase sem prisioneiros para sacrificar. Seus cidadãos servirão muito bem — prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2">
 			<Text>Você me dá nojo! Vou livrar o mundo de sua presença — prepare-se para a guerra!</Text>
@@ -47,13 +47,13 @@
 			<Text>Monstro! Quem é você para destruir minha grandeza?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3">
-			<Text>Apesar dos meus maiores esforços, você prevaleceu. Talvez agora eu possa encontrar a paz.</Text>
+			<Text>Apesar de todos os meus esforços, você me derrotou. Talvez agora eu possa encontrar alguma paz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_ANGRY">
 			<Text>Eu quero seus bens, começando por isto!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY">
-			<Text>Eu preciso disto — você tem. Em nome de nossa amizade, não me decepcione!</Text>
+			<Text>Preciso disto — e você o tem. Em nome de nossa amizade, não me decepcione!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL">
 			<Text>Dê-me o que eu quero ou eu destruirei seu povo!</Text>
@@ -65,7 +65,7 @@
 			<Text>Certamente não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_3">
-			<Text>Nós recusamos.</Text>
+			<Text>Recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_4">
 			<Text>É claro que não.</Text>
@@ -74,22 +74,22 @@
 			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_6">
-			<Text>Isso não pode ser sério!</Text>
+			<Text>Não pode estar falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_7">
-			<Text>Como...?</Text>
+			<Text>Perdão, como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1">
-			<Text>Boas-vindas. Contemple com espanto meu poder e minha majestade!</Text>
+			<Text>Boas-vindas. Contemple com assombro meu poder e minha majestade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2">
-			<Text>O que vejo diante de mim? Apenas mais um coração batendo para o meu fogo sacrificial?</Text>
+			<Text>O que vejo diante de mim? Mais um coração pulsante para meu fogo sacrificial?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_3">
-			<Text>Eu sou Montezuma, Imperador dos Astecas! Que tipo de criatura se apresenta?</Text>
+			<Text>Sou Montezuma, imperador dos astecas! Que tipo de criatura é você?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_4">
-			<Text>Pare! Quem se atreve a entrar em minha majestosa presença?</Text>
+			<Text>Alto! Quem ousa entrar em minha augusta presença?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_1">
 			<Text>Adeus.</Text>
@@ -98,7 +98,7 @@
 			<Text>Vá embora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_3">
-			<Text>Até nos encontrarmos de novo.</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_4">
 			<Text>Retire-se agora.</Text>
@@ -107,7 +107,7 @@
 			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_6">
-			<Text>Nossos negócios aqui terminaram.</Text>
+			<Text>Nosso assunto aqui terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_1">
 			<Text>Boas-vindas.</Text>
@@ -143,7 +143,7 @@
 			<Text>Sim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_5">
-			<Text>Você estava dizendo...</Text>
+			<Text>Estava dizendo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_6">
 			<Text>E?</Text>
@@ -155,16 +155,16 @@
 			<Text>Maldição! Vou sacrificar dez mil cidadãos para expiar esta humilhação!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Ha, ha, hah! Não. Dê-me mais ou sua punição será certa!</Text>
+			<Text>Ha, ha, hah! Não. Dê-me mais, ou sua ruína estará garantida!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_2">
-			<Text>Isso não é o suficiente</Text>
+			<Text>Isso não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_3">
 			<Text>Terá que fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Idiota! Não ouse abusar de nossa amizade! Terá de nos dar mais!</Text>
+			<Text>Idiota! Não ouse abusar assim da minha amizade! Tem de me dar mais!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_2">
 			<Text>É o melhor que pode fazer?</Text>
@@ -185,16 +185,16 @@
 			<Text>Quase lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_ANGRY">
-			<Text>Não. Prefiro furar minhas entranhas com ferro quente a aceitar seus termos!</Text>
+			<Text>Não. Prefiro perfurar minhas entranhas com espetos em brasa a aceitar seus termos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY">
-			<Text>Obrigado, mas não. Para que uma criatura como eu precisaria de suas bugigangas?</Text>
+			<Text>Obrigado, mas não. Que necessidade uma criatura como eu teria de suas bugigangas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL">
-			<Text>Que tolice cega! Estou acima dessas coisas.</Text>
+			<Text>Idiota! Estou acima dessas coisas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY">
-			<Text>Muito bem. Agora arraste sua carcaça maligna para longe daqui, antes que eu me irrite e atire seu corpo para as iguanas!</Text>
+			<Text>Muito bem. Agora arraste sua carcaça maligna para fora daqui antes que eu perca o controle e faça de você comida para as iguanas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_HAPPY">
 			<Text>Excelente! Vou sacrificar 50 prisioneiros para comemorar nosso acordo!</Text>
@@ -203,7 +203,7 @@
 			<Text>Sim, sim. Isso é bom. O que mais você quer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_ANGRY">
-			<Text>Aceite os termos deste acordo ou seu povo irá sofrer!</Text>
+			<Text>Aceite os termos deste acordo ou seu povo sofrerá!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_HAPPY">
 			<Text>Aqui estão os meus termos. Seria um gesto nada amistoso recusá-los.</Text>
@@ -233,7 +233,7 @@
 			<Text>Está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_2">
-			<Text>Muito bem. Da próxima vez não serei tão cortês.</Text>
+			<Text>Muito bem. Da próxima vez não serei tão cortês!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_3">
 			<Text>Que desapontamento.</Text>
@@ -245,7 +245,7 @@
 			<Text>É mesmo? Espero que não viva para se arrepender de sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6">
-			<Text>Que tolice.</Text>
+			<Text>Que tolice a sua.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1">
 			<Text>Que a paz dure até precisarmos de mais prisioneiros para sacrificar!</Text>

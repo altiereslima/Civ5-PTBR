@@ -22,7 +22,7 @@
 			<Text>Ótimo! Nossos mensageiros chegaram e encontraram você a tempo. Nós temos um novo pedido que pode ser de seu interesse.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_MERCANTILE">
-			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] e possuímos muitos luxos que podem fazer nossos cidadãos felizes.</Text>
+			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR] e possuímos muitos luxos que podem deixar seus cidadãos felizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_RELIGIOUS">
 			<Text>Nós somos um povo [COLOR_POSITIVE_TEXT]Religioso[ENDCOLOR] e podemos ajudar a estimular suas tradições religiosas.</Text>
@@ -31,19 +31,19 @@
 			<Text>({1: plural 1?Turno restante; other?Turnos restantes;}: {1_TurnsRemaining})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIVE_GOLD">
-			<Text>Nós ainda estamos enfrentando dificuldades, depois que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} nos forçou a pagar-lhes tributos. Se você puder nos fornecer algum ouro para que possamos andar com nossos próprios pés, nós ficaremos muito agradecidos.</Text>
+			<Text>Nós ainda estamos enfrentando dificuldades, depois que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} nos forçou a pagar-lhes tributos. Se você puder nos fornecer algum ouro para que possamos nos reerguer, nós ficaremos muito agradecidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIVE_GOLD_FORMAL">
 			<Text>Eles querem que você lhes dê um presente de ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_PLEDGE_TO_PROTECT">
-			<Text>Nós estamos cansados de sermos pressionados {1: plural 2?{1: gender feminine?pelas; masculine?pelos; other?por;}; other?{1: gender feminine?pela; masculine?pelo; other?por;};} {1_CivName:textkey}. Se você prometer publicamente nos proteger, talvez eles possam pensar duas vezes na próxima vez. Nós lhe recompensaremos pelo trabalho.</Text>
+			<Text>Nós estamos cansados de sermos pressionados {1: plural 2?{1: gender feminine?pelas; masculine?pelos; other?por;}; other?{1: gender feminine?pela; masculine?pelo; other?por;};} {1_CivName:textkey}. Se você prometer publicamente nos proteger, talvez consigamos repeli-los da próxima vez. Nós lhe recompensaremos pelo trabalho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_PLEDGE_TO_PROTECT_FORMAL">
 			<Text>Eles querem que você prometa proteção a eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_CULTURE">
-			<Text>Nossos artistas estão procurando por uma civilização sensível culturalmente para inspirá-los. Se sua cultura crescer e ultrapassar as outras civilizações que conhecermos nos anos vindouros, nós recompensaremos você.</Text>
+			<Text>Nossos artistas procuram uma potência cultural refinada que inspire seu trabalho. Se seu crescimento cultural superar o das outras civilizações que conhecemos nos próximos anos, nós o recompensaremos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_CULTURE_FORMAL">
 			<Text>Eles recompensarão o jogador com o maior crescimento cultural.</Text>
@@ -58,7 +58,7 @@
 			<Text>Nós recompensaremos o jogador que obtiver a maior quantidade de [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL">
-			<Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE] fé.</Text>
+			<Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_WINNING_FORMAL">
 			<Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL} Até agora, você lidera com [ICON_PEACE] [COLOR_POSITIVE_TEXT]{1_PlayerScore}[ENDCOLOR].</Text>
@@ -79,13 +79,13 @@
 			<Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_TECHS_FORMAL} Até agora, o líder possui {1_LeaderScore} {1: plural 1?tecnologia; other?tecnologias;} e você tem [COLOR_POSITIVE_TEXT]{2_PlayerScore}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_INVEST">
-			<Text>Presentes em Ouro são temporariamente mais efetivos.</Text>
+			<Text>Presentes em Ouro são temporariamente mais eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_INVEST_FORMAL">
-			<Text>Presentes em Ouro são temporariamente mais efetivos.</Text>
+			<Text>Presentes em Ouro são temporariamente mais eficazes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_BULLY_CITY_STATE">
-			<Text>Nós gostaríamos que você humilhasse nossas Cidades-Estado rivais, para colocá-las na linha.</Text>
+			<Text>Nós gostaríamos que você intimidasse nossas Cidades-Estado rivais, para colocá-las na linha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_BULLY_CITY_STATE_FORMAL">
 			<Text>Eles querem que você exija tributos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_TargetName:textkey}.</Text>
@@ -109,13 +109,13 @@
 			<Text>Atualmente, esta Cidade-Estado não lhe deu nenhuma missão. Ela oferecerá missões periodicamente, mas pode deixar de fazê-lo se você a tiver intimidado recentemente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_TT">
-			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR] amiga fornecerá [ICON_HAPPINESS_1] Felicidade extra ao seu Império e fabricará recursos de luxo que não podem ser adquiridos de outra forma.</Text>
+			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR] amiga fornecerá [ICON_HAPPINESS_1] Felicidade extra ao seu Império e produzirá Recursos de Luxo especiais que não podem ser obtidos de outra forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_RELIGIOUS_TT">
 			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR] amiga aumentará sua [ICON_PEACE] Fé, permitindo-lhe fortalecer sua religião com novas crenças e unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
-			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares como presente.[NEWLINE][NEWLINE]Ela conhece os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você formar uma aliança com ela e tiver pesquisado a tecnologia {@2_PrereqTech}, ela lhe dará essa unidade como presente.</Text>
+			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente lhe fornecerá unidades militares avançadas como presente.[NEWLINE][NEWLINE]Ela conhece os segredos {@1: plural 2?{@1: gender feminine?das; masculine?dos; other?de;}; other?{1: gender feminine?da; masculine?do; other?de;};} [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Se você formar uma aliança com ela e tiver pesquisado a tecnologia {@2_PrereqTech}, ela lhe dará essa unidade como presente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_NO_UU_TT">
 			<Text>Uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] amiga ocasionalmente fornecerá unidades militares avançadas como presente.</Text>
@@ -130,22 +130,22 @@
 			<Text>Ah, justamente o que estávamos procurando. Obrigado por seu apoio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_DIPLO_JUST_REVOKED_PROTECTION">
-			<Text>Muito bem... vire as costas para nós se você realmente precisa.</Text>
+			<Text>Muito bem... vire as costas para nós, se é isso que precisa fazer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GIFT_FAITH_FIRST">
-			<Text>Eles lhe deram seus estimados símbolos religiosos, recompensando você com [COLOR_POSITIVE_TEXT]{1_NumFaith} de [ICON_PEACE] Fé[ENDCOLOR].</Text>
+			<Text>Eles lhe dão seus estimados símbolos religiosos, recompensando você com [COLOR_POSITIVE_TEXT]{1_NumFaith} de [ICON_PEACE] Fé[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GIFT_FAITH_OTHER">
-			<Text>Eles compartilharam seus conhecimentos de rituais religiosos, dando-lhe [COLOR_POSITIVE_TEXT]{1_NumFaith} de [ICON_PEACE] Fé[ENDCOLOR].</Text>
+			<Text>Eles compartilham seus conhecimentos de rituais religiosos, dando-lhe [COLOR_POSITIVE_TEXT]{1_NumFaith} de [ICON_PEACE] Fé[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ANGRY_CSTATE_TT">
 			<Text>Você fez algo para irritar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CityStateName:textkey}, como exigir tributo, movimentar-se dentro de suas fronteiras ou declarar guerra. Você pode atender aos pedidos deles ou fornecer-lhes presentes de [ICON_GOLD] Ouro para compensá-los.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEUTRAL_CSTATE_TT">
-			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CityStateName:textkey} nem gosta nem deixa de gostar de você. Atender aos pedidos deles ou dar-lhes [ICON_GOLD] Ouro melhorará suas relações.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CityStateName:textkey} não gosta nem desgosta de você. Atender aos pedidos deles ou dar-lhes [ICON_GOLD] Ouro melhorará suas relações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FRIENDS_CSTATE_TT">
-			<Text>Você é [COLOR_POSITIVE_TEXT]Amigo[ENDCOLOR] {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityStateName:textkey}. Para se tornar aliado, a sua [ICON_INFLUENCE] Influência sobre eles deve ser superior a dos outros jogadores.</Text>
+			<Text>Você é [COLOR_POSITIVE_TEXT]Amigo[ENDCOLOR] {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityStateName:textkey}. Para se tornar aliado, a sua [ICON_INFLUENCE] Influência sobre eles deve ser superior à dos outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ALLIES_CSTATE_TT">
 			<Text>Você é [COLOR_POSITIVE_TEXT]Aliado[ENDCOLOR] {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityStateName:textkey}, já que a sua [ICON_INFLUENCE] Influência sobre eles é maior que a dos outros jogadores.</Text>
@@ -163,7 +163,7 @@
 			<Text>Você está recebendo [COLOR_POSITIVE_TEXT]{1_Num} de [ICON_PEACE] Fé[ENDCOLOR] deles por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CSTATE_INFLUENCE_RATE">
-			<Text>A cada turno, sua [ICON_INFLUENCE] Influência sobre eles irá alterar em {1_InfluenceRate} até que chegue em {2_InfluenceAnchor}.</Text>
+			<Text>A cada turno, sua [ICON_INFLUENCE] Influência sobre eles mudará em {1_InfluenceRate}, até se estabilizar em {2_InfluenceAnchor}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CSTATE_CAN_BULLY">
 			<Text>Eles reconhecem seu poderio militar e cederão a exigências de tributos.</Text>
@@ -223,7 +223,7 @@
 			<Text>Como pedido {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MinorCivName:textkey}, você construiu {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_WonderName}! Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE">
-			<Text>Para o deleite {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {2_MinorCivName:textkey}, você eliminou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}! Eles estão extremamente gratos por sua assistência nesse assunto. Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
+			<Text>Para o deleite {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_MinorCivName:textkey}, você eliminou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}! Eles estão extremamente gratos por sua assistência nesse assunto. Sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GREAT_PERSON">
 			<Text>Como pedido {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MinorCivName:textkey}, você produziu {1: gender feminine?uma; other?um;} {1_UnitName}! Os estudiosos deles estão eufóricos e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR].</Text>
@@ -265,25 +265,25 @@
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} anseia por cultura!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_CULTURE">
-			<Text>Você impressionou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey} com sua [ICON_CULTURE] Cultura! Eles ficaram cegos à cultura das outras civilizações e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
+			<Text>Você impressionou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey} com sua [ICON_CULTURE] Cultura! Eles ignoram a cultura das outras civilizações e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_CULTURE">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?estão; other?está;} {1: gender *:noart?impressionada; feminine?{1: plural 2?impressionadas; other?impressionada;}; masculine?{1: plural 2?impressionados; other?impressionado;}; other?impressionada;} com você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONTEST_CULTURE">
-			<Text>Outra civilização impressionou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey} com a cultura deles. Seu crescimento cultural não foi suficiente e sua [ICON_INFLUENCE] Influência permanece como antes. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
+			<Text>Outra civilização impressionou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey} com sua cultura. Seu crescimento cultural não foi suficiente e sua [ICON_INFLUENCE] Influência permanece como antes. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONTEST_CULTURE">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} olha para outro lugar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONTEST_FAITH">
-			<Text>O povo {3: gender *:noart?de; feminine?{3: plural 2?das; other?da;}; masculine?{3: plural 2?dos; other?do;}; other?de;} {3_MinorCivName:textkey} busca nos assuntos mundanos por uma orientação religiosa. Aquele que obter a maior quantidade de [ICON_PEACE] Fé no período de {2_TurnsDuration} {2: plural 1?turno; other?turnos;} ganhará [ICON_INFLUENCE] Influência sobre eles. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
+			<Text>O povo {3: gender *:noart?de; feminine?{3: plural 2?das; other?da;}; masculine?{3: plural 2?dos; other?do;}; other?de;} {3_MinorCivName:textkey} busca nos assuntos mundanos por uma orientação religiosa. Aquele que obtiver a maior quantidade de [ICON_PEACE] Fé no período de {2_TurnsDuration} {2: plural 1?turno; other?turnos;} ganhará [ICON_INFLUENCE] Influência sobre eles. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONTEST_FAITH">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?clamam; 1?clama;} por fé!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_FAITH">
-			<Text>O clero {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_MinorCivName:textkey} estão comovidos com sua piedade. Eles afastaram a fé inferior da civilização deles e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
+			<Text>O clero {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_MinorCivName:textkey} está comovido com sua piedade. Ele rejeita a fé inferior das outras civilizações, e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_FAITH">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?estão; other?está;} {1: gender *:noart?impressionada; feminine?{1: plural 2?impressionadas; other?impressionada;}; masculine?{1: plural 2?impressionados; other?impressionado;}; other?impressionada;} com você!</Text>
@@ -301,7 +301,7 @@
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?procuram; other?procura;} por ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_TECHS">
-			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?estão; other?está;} {1: gender *:noart?maravilhada; feminine?{1: plural 2?maravilhadas; other?maravilhada;}; masculine?{1: plural 2?maravilhados; other?maravilhado;}; other?maravilhada;} com seu rápido avanço tecnológico! Os cientistas e intelectuais deles dispensaram as outras civilizações por serem muito vagarosas e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?estão; other?está;} {1: gender *:noart?maravilhada; feminine?{1: plural 2?maravilhadas; other?maravilhada;}; masculine?{1: plural 2?maravilhados; other?maravilhado;}; other?maravilhada;} com seu rápido avanço tecnológico! Os cientistas e intelectuais deles desconsideram as outras civilizações por considerá-las estagnadas e sua [ICON_INFLUENCE] Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]. Civilizações que obtiveram sucesso (empates são permitidos):[NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_TECHS">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?estão; other?está;} {1: gender *:noart?impressionada; feminine?{1: plural 2?impressionadas; other?impressionada;}; masculine?{1: plural 2?impressionados; other?impressionado;}; other?impressionada;} com você!</Text>
@@ -313,7 +313,7 @@
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} olha para outro lugar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_INVEST">
-			<Text>{3: gender *:noart?{}; feminine?{3: plural 2?As ; other?A ;}; masculine?{3: plural 2?Os ; other?O ;}; other?{};}{3_MinorCivName:textkey} {3: plural 2?estão; other?está;} empreendendo um grande projeto público de construção. Cada presente em Ouro para eles durante este período será mais efetivo, recompensando [COLOR_POSITIVE_TEXT]{2_BoostPercentage}%[ENDCOLOR] mais [ICON_INFLUENCE] Influência. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
+			<Text>{3: gender *:noart?{}; feminine?{3: plural 2?As ; other?A ;}; masculine?{3: plural 2?Os ; other?O ;}; other?{};}{3_MinorCivName:textkey} {3: plural 2?estão; other?está;} empreendendo um grande projeto público de construção. Cada presente em Ouro para eles durante este período será mais eficaz, recompensando [COLOR_POSITIVE_TEXT]{2_BoostPercentage}%[ENDCOLOR] mais [ICON_INFLUENCE] Influência. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;}.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_INVEST">
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?procuram; other?procura;} investidores!</Text>
@@ -379,7 +379,7 @@
 			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} {1: plural 2?cancelaram; other?cancelou;} pedidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MERCANTILE">
-			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_RELIGIOUS">
 			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece relíquias religiosas valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
@@ -391,7 +391,7 @@
 			<Text>({1_NumFaith} de [ICON_PEACE] Fé {1: plural 1?perdido; other?perdidos;} por turno)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MERCANTILE">
-			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercante[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
+			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Mercantil[ENDCOLOR], seus mercados espalham o comércio de bens exóticos por todo o seu império! (+{1_NumHappiness} de [ICON_HAPPINESS_1] Felicidade)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_RELIGIOUS">
 			<Text>Sendo uma Cidade-Estado [COLOR_POSITIVE_TEXT]Religiosa[ENDCOLOR], ela lhe oferece suas relíquias religiosas mais valiosas! (+{1_NumFaith} de [ICON_PEACE] Fé por turno)</Text>
@@ -620,7 +620,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Fascismo[ENDCOLOR][NEWLINE]A quantidade de recursos estratégicos produzidos pelo Império aumenta em 100%. Todos os Grandes Generais recebem de +2 [ICON_MOVES] Pontos de Movimento.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_POLICE_STATE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Estado Policial[ENDCOLOR][NEWLINE]+3 de [ICON_HAPPINESS_1] Felicidade na cidade local de cada Tribunal. A construção de Tribunais demora metade do tempo normal. A efetividade de espiões inimigos é reduzida em 25%. As chances dos seus contra espiões de capturar espiões inimigos aumentam em 25%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Estado Policial[ENDCOLOR][NEWLINE]+3 de [ICON_HAPPINESS_1] Felicidade na cidade local de cada Tribunal. A construção de Tribunais demora metade do tempo normal. A efetividade de espiões inimigos é reduzida em 25%. As chances dos seus contraespiões de capturar espiões inimigos aumentam em 25%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_SOVEREIGNTY_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Soberania[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD] Ouro por cada edificação [ICON_RESEARCH] Científica.</Text>
@@ -752,7 +752,7 @@
 			<Text>Um Pôlder pode ser construído apenas em Planícies Inundadas e Pântanos. Ele aumenta a produção de [ICON_FOOD] Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION] Produção e +2 de [ICON_GOLD] Ouro assim que a Economia for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_POLDER_TEXT">
-			<Text>Um Pôlder é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de planícies inundadas ou de pântanos. Com o tempo, a terra drenada cede de modo que o pôlder acaba ficando abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros pôlderes foram construídos no século XI d.C., embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar pântanos e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em pôlderes da Europa. Embora existam pôlderes em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3.000 pôlderes representando cerca de 27% das terras do país. A própria Amsterdã é construída em grande parte sobre pôlder. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
+			<Text>Um Pôlder é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de planícies inundadas ou de pântanos. Com o tempo, a terra drenada cede de modo que o pôlder acaba ficando abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros pôlderes foram construídos no século XI d.C., embora a construção de aterros como barreiras à água remeta aos romanos. Os holandeses têm uma longa história de recuperar pântanos e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em pôlderes da Europa. Embora existam pôlderes em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3.000 pôlderes representando cerca de 27% das terras do país. A própria Amsterdã é construída em grande parte sobre pôlder. Como um ditado holandês afirma: "Deus fez o mundo, mas os holandeses fizeram a Holanda".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_POLDER">
 			<Text>Construir um [LINK=IMPROVEMENT_POLDER]Pôlder[\LINK]</Text>

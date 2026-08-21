@@ -99,10 +99,10 @@
 			<Text>Um jogador desconhecido reconquistou sua [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF">
-			<Text>Você adotou a política social Reforma e, agora, pode adicionar uma crença a sua religião.</Text>
+			<Text>Você adotou a política social Reforma e agora pode adicionar uma Crença de Reforma à sua Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ADD_REFORMATION_BELIEF">
-			<Text>REFORMAR CRENÇA</Text>
+			<Text>ADICIONAR CRENÇA DE REFORMA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_SUMMARY">
 			<Text>Rota comercial saqueada</Text>
@@ -129,7 +129,7 @@
 			<Text>Bárbaros saquearam a rota comercial que {1_PlayerName} estabeleceu entre {2_CityName} e {3_CityName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL">
-			<Text>Primeira Cultura Influenciável</Text>
+			<Text>Primeira Cultura Influente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_TT">
 			<Text>{1_CivName} {1_CivName: plural 1?é; other?são;} a primeira civilização a conseguir uma cultura que possui influência sobre outro jogador.</Text>
@@ -138,10 +138,10 @@
 			<Text>Uma civilização desconhecida é a primeira civilização a conseguir uma cultura que possui influência sobre outro jogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL">
-			<Text>Não Mais Influenciável</Text>
+			<Text>Deixou de Ser Influente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL_TT">
-			<Text>Sua cultura já não possui influência sobre qualquer civilização.</Text>
+			<Text>Sua cultura deixou de ser Influente sobre uma ou mais civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_ACTIVE_PLAYER_TT">
 			<Text>Você é a primeira civilização a conseguir uma cultura que possui influência sobre outro jogador.</Text>
@@ -150,31 +150,31 @@
 			<Text>Vitória Cultural Próxima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER_TT">
-			<Text>Sua cultura precisa ser influenciável sobre mais 1 civilização para você obter uma Vitória Cultural!</Text>
+			<Text>Sua cultura precisa se tornar Influente sobre mais 1 civilização para você obter uma Vitória Cultural!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE">
 			<Text>Ameaça de Vitória Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_TT">
-			<Text>{1_CivName} precisa ser influenciável sobre mais 1 civilização para obter uma Vitória Cultural!</Text>
+			<Text>{1_CivName} precisa se tornar Influente sobre mais 1 civilização para obter uma Vitória Cultural!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER">
 			<Text>Vitória Cultural ao Alcance</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER_TT">
-			<Text>Sua cultura precisa ser influenciável sobre mais 2 civilizações para você obter uma Vitória Cultural.</Text>
+			<Text>Sua cultura precisa se tornar Influente sobre mais 2 civilizações para você obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO">
-			<Text>Vitória Cultural Disputada</Text>
+			<Text>Candidato à Vitória Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_TT">
-			<Text>{1_CivName} precisa ser influenciável sobre mais 2 civilizações para obter uma Vitória Cultural.</Text>
+			<Text>{1_CivName} precisa se tornar Influente sobre mais 2 civilizações para obter uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_GALLEASS">
 			<Text>Uma unidade naval brutalmente poderosa da Era Medieval, usada para tomar o controle dos mares com seu ataque a distância. Melhor no ataque e defesa que a Galeaça padrão que ela substitui, mas mais dispendiosa. Só pode ser construída por Veneza.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_PATHFINDER">
-			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o Batedor. Ela possui uma promoção que a permite escolher o benefício quando descobre uma ruína antiga.</Text>
+			<Text>Excelente na exploração e temível em combate, esta unidade exclusiva Shoshone substitui o Batedor. Ela possui uma promoção que lhe permite escolher o benefício ao descobrir uma Ruína Antiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
 			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
@@ -192,7 +192,7 @@
 			<Text>Arqueólogos são um subtipo especial de Trabalhador que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo Marco Histórico ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em Museus, Palácios, Hermitages e Maravilhas específicas. Arqueólogos podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. Arqueólogos não podem ser comprados com [ICON_GOLD] Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
-			<Text>Especializados em derrotar Cavaleiros e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
+			<Text>Especializada em derrotar Cavaleiros e outras unidades montadas. Somente os Zulus podem treiná-la. Além disso, realiza um ataque inicial à distância antes do combate corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
 			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos Assírios.</Text>
@@ -204,7 +204,7 @@
 			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o Lanceiro Montado, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
-			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES] Movimento que a Caravela, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD] Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Unidade naval de combate corpo a corpo excelente para exploração marítima. Possui mais pontos de [ICON_MOVES] Movimento que a Caravela, que ela substitui, e pode usar uma habilidade única quando estiver próxima a território estrangeiro para obter [ICON_GOLD] Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
 			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. Paraquedistas também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
@@ -225,7 +225,7 @@
 			<Text>Unidade de infantaria futurística especializada em enfrentar o perigo em qualquer lugar do mundo. O Esquadrão XCOM pode se mover e saquear após aterrissar, mas não pode entrar em combate até o próximo turno.[NEWLINE][NEWLINE][COLOR_CYAN]Boa sorte, Comandante![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
-			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio Exército Voluntário da Ideologia Independência. Esta unidade possui um bônus de combate quando luta fora de território amigo, no mais é muito similar a Infantaria I Guerra.</Text>
+			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio Exército Voluntário da Ideologia Independência. Possui um bônus de combate quando luta fora de território amigo; no restante, é muito semelhante à Infantaria da Grande Guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
 			<Text>Esta Grande Personalidade única de Veneza substitui o Grande Mercador. Além da habilidade de conduzir uma Missão Comercial, o Mercador de Veneza pode comprar Cidades-Estado, trazendo-as ao controle Veneziano como um Fantoche.</Text>
@@ -243,7 +243,7 @@
 			<Text>[ICON_MINUS] Grandes Escritores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PLUS_PILLAGE_UPSET">
-			<Text>Isso significa GUERRA?!? (vs. {1_Team})[NEWLINE]Isso também irritará o time {2_Team}, pois você está saqueando uma rota comercial conectada a eles.</Text>
+			<Text>Isso significa GUERRA?!? (contra {1_Team})[NEWLINE]Isso também irritará a equipe {2_Team}, pois você está saqueando uma Rota Comercial conectada a ela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_PLUNDER_WARNING">
 			<Text>Saquear esta rota comercial irá irritar o time {1_Team}, pois ela está conectada à cidade deles. Tem certeza que deseja saquear a rota comercial e irritá-los?</Text>
@@ -367,10 +367,10 @@
 			<Text>Quando está próximo a uma cidade inimiga, as demais unidades dentro de 2 hexágonos ganham um bônus de 50% ao atacar a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II">
-			<Text>Bônus vs Cidades (250)</Text>
+			<Text>Bônus contra Cidades (250)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II_HELP">
-			<Text>+250% de Bônus vs Cidades.</Text>
+			<Text>+250% de Bônus contra Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS">
 			<Text>Era de Ouro de Vitórias</Text>
@@ -651,20 +651,20 @@
 			<Text>Um Acampamento Pau-Brasil só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD] Ouro adicional. Após a tecnologia Acústica ser descoberta, ele também fornece [ICON_CULTURE] Cultura extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
-			<Text>Uma Feitoria só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada recurso de luxo que a Cidade-Estado estiver conectada, independentemente do seu status com a Cidade-Estado. Porém, esta cópia do recurso não pode ser negociada. Além disso, ela fornece o mesmo bônus de defesa de +50% que um Forte. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Uma Feitoria só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada tipo de Recurso de Luxo conectado pela Cidade-Estado, independentemente do seu status com ela. Essa cópia do recurso, porém, não pode ser negociada. Além disso, fornece o mesmo bônus de defesa de +50% que um Forte. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
 			<Text>Uma Casbá só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD] Alimento, [ICON_PRODUCTION] Produção e [ICON_GOLD] Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um Forte. Deve ser construída em território Marroquino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
-			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa que um Forte. Deve ser construído em território Francês. Quando a tecnologia Voo for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e de [ICON_GOLD] Ouro em 2.</Text>
+			<Text>Um Château deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro Château. Ele fornece o mesmo bônus de defesa de +50% que um Forte. Deve ser construído em território Francês. Quando a tecnologia Voo for descoberta, sua geração de [ICON_CULTURE] Cultura aumenta em 1 e a de [ICON_GOLD] Ouro aumenta em 2.</Text>
 		</Row>
 		<!-- WONDERS HELP -->
 		<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
-			<Text>Deve ser construído em uma Cidade Santa. 3 Missionários gratuitos aparecem.</Text>
+			<Text>Deve ser construído em uma Cidade Sagrada. Faz aparecer 3 Missionários gratuitos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
-			<Text>Fornece um espaço adicional de rota comercial e um Navio Cargueiro aparece na cidade. Rotas comerciais que outros jogadores estabelecerem com uma cidade que possui O Colosso gerarão 2 de [ICON_GOLD] Ouro adicionais para o proprietário, e a rota comercial deste ganhará mais 1 de [ICON_GOLD] Ouro. A cidade deve estar construída na costa.</Text>
+			<Text>Fornece um espaço adicional de Rota Comercial e faz aparecer um Navio Cargueiro na cidade. Rotas Comerciais que outros jogadores estabelecerem com a cidade que possui O Colosso gerarão 2 de [ICON_GOLD] Ouro adicionais para esta cidade, e o proprietário da Rota Comercial receberá mais 1 de [ICON_GOLD] Ouro. A cidade deve estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_RED_FORT_HELP">
 			<Text>Edificações defensivas em todas as cidades são 25% mais eficientes.</Text>
@@ -685,7 +685,7 @@
 			<Text>Requer a política Independência. +1 de [ICON_PRODUCTION] Produção dos especialistas em cada cidade. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TERRA_COTTA_ARMY_HELP">
-			<Text>Cria uma cópia de cada tipo de unidade militar terrestre controlada por você e a coloca próximo a cidade onde o Exército de Terracota for construído.</Text>
+			<Text>Cria uma cópia de cada tipo de unidade militar terrestre sob seu controle e a posiciona próximo à cidade onde o Exército de Terracota for construído.</Text>
 		</Row>
 		<!-- NATURAL WONDERS HELP -->
 		<Row Tag="TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP">
@@ -718,19 +718,19 @@
 			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Arte de diferentes Eras e diferentes Civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas de diferentes Eras e de Civilizações diferentes da do dono da cidade.</Text>
+			<Text>Para maximizar o bônus temático, preencha todos os espaços de Grandes Obras com Grandes Obras Literárias de Eras diferentes e de civilizações diferentes da civilização do proprietário da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MUSEUM_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que ambos as Grandes Obras são do mesmo tipo (ambos Artes ou ambos Artefatos), da mesma Era e, ou ambos da civilização da cidade, ou ambos de civilizações diferentes da do dono da cidade.</Text>
+			<Text>Para maximizar o bônus temático, certifique-se de que ambas as Grandes Obras sejam do mesmo tipo (ambas Obras de Arte ou ambas Artefatos), da mesma Era e que sejam ambas da civilização da cidade ou ambas de civilizações diferentes da civilização do proprietário da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLOBE_THEATER_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas da mesma Era e mesma Civilização.</Text>
+			<Text>Para maximizar o bônus temático, preencha todos os espaços de Grandes Obras com Grandes Obras Literárias da mesma Era e da mesma civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BROADWAY_THEMING_BONUS_HELP">
 			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Músicas da mesma Era e mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas de diferentes Eras e diferentes Civilizações.</Text>
+			<Text>Para maximizar o bônus temático, preencha todos os espaços de Grandes Obras com Grandes Obras Literárias de Eras diferentes e de civilizações diferentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE_THEMING_BONUS_HELP">
 			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Músicas de diferentes Eras, mas da mesma Civilização.</Text>
@@ -763,19 +763,19 @@
 			<Text>Museu de Arte Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_SISTINE_CHAPEL">
-			<Text>Capela da Arte {1_Era} {2_CivAdjective[2]}</Text>
+			<Text>Capela de Arte {1_Era} {2_CivAdjective[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_OXFORD_UNIVERSITY">
-			<Text>Biblioteca da Literatura Mundial</Text>
+			<Text>Biblioteca de Literatura Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_LOUVRE">
 			<Text>Museu Mais Visitado do Mundo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_UFFIZI">
-			<Text>Museu da Arte {1_Era} {2_CivAdjective[2]}</Text>
+			<Text>Museu de Arte {1_Era} {2_CivAdjective[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_GLOBE_THEATER">
-			<Text>Teatro da Literatura {1_Era} {2_CivAdjective[2]}</Text>
+			<Text>Teatro de Literatura {1_Era} {2_CivAdjective[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_BROADWAY">
 			<Text>Palco para Música {1_Era} {2_CivAdjective[2]}</Text>
@@ -784,7 +784,7 @@
 			<Text>Biblioteca do Conhecimento Antigo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_SYDNEY_OPERA_HOUSE">
-			<Text>Centro para a Arte Musical {2_CivAdjective[2]}</Text>
+			<Text>Centro de Artes Musicais {2_CivAdjective[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
 			<Text>© 1991-2013 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e seus respectivos logotipos são todas marcas registradas da Take-Two interactive Software, Inc. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Utiliza Granny Animation. Copyright © 1999-2010 RAD Game Tools, Inc. Utiliza Miles Sound System. Copyright © 1991-2010 RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Entertainment Software Association. Todas as outras marcas e marcas registradas são propriedade de seus respectivos donos. Todos os direitos reservados. O conteúdo deste videogame é ficcional e não tem a intenção de representar ou descrever um registro real dos eventos, pessoas ou entidades no cenário histórico do jogo.</Text>
@@ -801,6 +801,18 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER_HELP">
 			<Text>Rouba [ICON_GOLD] Ouro equivalente a 100% do dano causado a uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_HELP">
+			<Text>A cidade deve possuir um Mercado. Rotas Comerciais de outros jogadores para uma cidade com uma Corte do Sátrapa geram +1 de [ICON_GOLD] Ouro para o dono da cidade, e o dono da Rota Comercial recebe +1 de [ICON_GOLD] Ouro adicional pela rota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
+			<Text>Esta unidade é muito mais barata que o Piqueiro e pode saquear sem gastar pontos de Movimento. Rouba Ouro ao atacar uma cidade. É liberada pela Política Social Exército Mercenário e não pode ser treinada: deve ser comprada com Ouro. Pode se mover imediatamente após a compra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
+			<Text>Poderosa unidade de infantaria medieval. Apenas os Japoneses podem treiná-la. Combate com mais eficiência e ajuda a gerar Grandes Generais mais rapidamente que o Espadachim de Espada Longa, que ela substitui. Samurais embarcados podem construir Barcos de Pesca em um turno sem serem consumidos, o que os torna úteis mesmo em tempos de paz.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
+			<Text>Unidade aérea destinada a controlar os céus e interceptar aeronaves inimigas. Apenas os Japoneses podem construí-la. Recebe um bônus contra outros Caças e não requer [ICON_OIL] Petróleo.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

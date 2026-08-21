@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
     <Language_pt_BR>
@@ -14,7 +14,7 @@
         </Row>
         <!-- Policies -->
         <Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_RELIGION">
-            <Text>[COLOR_WARNING_TEXT]Esta política está bloqueada em jogos sem Religião.[ENDCOLOR]</Text>
+            <Text>[COLOR_WARNING_TEXT]Este ramo está bloqueado em jogos sem Religião.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Tradição[ENDCOLOR] é melhor para pequenos Impérios.[NEWLINE][NEWLINE]A adoção de Tradição irá acelerar a taxa de crescimento das fronteiras em cidades e fornecer 3 pontos de [ICON_CULTURE] Cultura na [ICON_CAPITAL] Capital. Desbloqueia a construção dos Jardins Suspensos.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Tradição, serão fornecidos +15% de [ICON_FOOD] Crescimento e um Aqueduto gratuito nas suas 4 primeiras cidades. Além disso, ela também permite a compra de Grandes Engenheiros com [ICON_PEACE] Fé, a partir da Era Industrial.</Text>
@@ -44,7 +44,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Cidades com uma religião predominante também recebem o bônus da crença de Panteão da segunda religião mais popular.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]Se você fundar uma religião, ganhe um bônus de crença da Reforma.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]Se você fundar uma Religião, recebe uma Crença de Reforma adicional.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Mecenato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE]Ao adotar o Mecenato, a [ICON_INFLUENCE] Influência sobre Cidades-Estado decai 25% mais lento que o normal. Desbloqueia a construção do Palácio Proibido.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Mecenato, Cidades-Estado aliadas ocasionalmente lhe presentearão com [ICON_GREAT_PEOPLE] Grandes Personalidades.</Text>
@@ -65,7 +65,7 @@
             <Text>Estética</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Estética[ENDCOLOR] melhora a habilidade da civilização em produzir [ICON_CULTURE] Cultura.[NEWLINE][NEWLINE]Ao adotar Estética, a obtenção de Grandes Escritores, Artistas e Músico ocorrerá 25% mais rápido. Desbloqueia a construção da A Galeria dos Ofícios.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Estética, o bônus de Museus e Maravilhas temáticas é dobrado, além de permitir a compra de Grandes Escritores, Artistas e Músicos com [ICON_PEACE] Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Estética[ENDCOLOR] melhora a capacidade da civilização de produzir [ICON_CULTURE] Cultura.[NEWLINE][NEWLINE]Ao adotar Estética, o surgimento de Grandes Escritores, Artistas e Músicos ocorrerá 25% mais rápido. Desbloqueia a construção da Galeria dos Ofícios.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Estética, o bônus temático de Museus e Maravilhas é dobrado, além de permitir a compra de Grandes Escritores, Artistas e Músicos com [ICON_PEACE] Fé a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS">
             <Text>Centros Culturais</Text>
@@ -305,7 +305,7 @@
             <Text>Capacidades Laborais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Capacidades Laborais[ENDCOLOR][NEWLINE]Fábricas aumenta a produção de [ICON_RESEARCH] Ciência das cidades em 25%. Construa Fábricas na metade do tempo normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Faculdades Operárias[ENDCOLOR][NEWLINE]Fábricas aumentam em 25% a geração de [ICON_RESEARCH] Ciência da cidade. Construa Fábricas na metade do tempo normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN">
             <Text>Plano Quinquenal</Text>
@@ -344,7 +344,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Mobilização[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD] Ouro para compra de unidades é reduzido em 33%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_UNITED_FRONT_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Frente Unida[ENDCOLOR][NEWLINE]Cidades-Estado Militaristas fornecem unidades duas vezes mais quando você estiver em guerra com um adversário em comum.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Frente Unida[ENDCOLOR][NEWLINE]Cidades-Estado Militaristas fornecem unidades com o dobro da frequência quando você estiver em guerra contra um inimigo em comum.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FUTURISM">
             <Text>Futurismo</Text>
@@ -356,7 +356,7 @@
             <Text>Espionagem Industrial</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Espionagem Industrial[ENDCOLOR][NEWLINE]Espiões roubam tecnologia duas vezes mais que o normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Espionagem Industrial[ENDCOLOR][NEWLINE]Espiões roubam tecnologias com o dobro da velocidade normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MILITARISM_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Militarismo[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1] Felicidade Local de cada Quartel, Depósito de Armas ou Academia Militar.</Text>
@@ -663,7 +663,7 @@
         </Row>
         <!-- Other -->
         <Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_HELP">
-            <Text>Destrua esta rota comercial para obter [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Se você não estiver em guerra com o dono da rota comercial, você precisará declará-la antes de poder saquear. Saquear uma rota comercial que vai a outra civilização prejudicará a relação entre vocês, se não estiverem em guerra.</Text>
+            <Text>Destrua esta Rota Comercial para obter [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Se você não estiver em guerra com o proprietário da Rota Comercial, precisará declarar guerra antes de poder saqueá-la. Saquear uma Rota Comercial ligada a outra civilização prejudicará suas relações com ela se vocês não estiverem em guerra.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_DISABLED_HELP">
             <Text>Você deve ser capaz de declarar guerra contra o dono da rota comercial.</Text>
@@ -777,16 +777,16 @@
             <Text>1 Tecnologia Gratuita. Fornece uma Biblioteca gratuita na cidade onde for construída. Contém 2 espaços para Grandes Obras Literárias.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
-            <Text>Requer Exploração. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 4 espaços para Grandes Obras de Arte.</Text>
+            <Text>Requer Exploração. 1 Grande Artista gratuito aparece próximo à cidade onde a Maravilha tiver sido construída. Contém 4 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_UFFIZI_HELP">
-            <Text>Requer Estética. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras de Arte.</Text>
+            <Text>Requer Estética. 1 Grande Artista gratuito aparece próximo à cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_GLOBE_THEATER_HELP">
-            <Text>1 Grande Escritor gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 2 espaços para Grandes Obras Literárias.</Text>
+            <Text>1 Grande Escritor gratuito aparece próximo à cidade onde a Maravilha tiver sido construída. Contém 2 espaços para Grandes Obras Literárias.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_BROADWAY_HELP">
-            <Text>1 Grande Músico gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras Musicais.</Text>
+            <Text>1 Grande Músico gratuito aparece próximo à cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras Musicais.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_SISTINE_CHAPEL_HELP">
             <Text>+25% de [ICON_CULTURE] Cultura em todas as cidades. Contém 2 espaços para Grandes Obras de Arte.</Text>
@@ -813,7 +813,7 @@
             <Text>Requer Comércio. O custo de [ICON_GOLD] Ouro nas compras em todas as cidades é reduzido em 15%.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
-            <Text>Requer Racionalismo. Um Grande Cientista aparece próximo a cidade onde a Maravilha tiver sido construída. 50% mais [ICON_RESEARCH] Ciência é gerada de Acordos de Pesquisa.</Text>
+            <Text>Requer Racionalismo. Um Grande Cientista aparece próximo à cidade onde a Maravilha tiver sido construída. Acordos de Pesquisa geram 50% mais [ICON_RESEARCH] Ciência.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_HELP">
             <Text>+1 de [ICON_PRODUCTION] Produção de Cientistas, e +1 de [ICON_RESEARCH] Ciência de Engenheiros. Grandes Cientistas fornecem 33% mais [ICON_RESEARCH] Ciência quando usados para pesquisar novas tecnologias. Só pode ser construída colaborativamente através do Congresso Mundial.</Text>
@@ -858,7 +858,7 @@
             <Text>+1 de [ICON_GOLD] Ouro de cada [ICON_CONNECTED] Conexão e Recursos de [ICON_RES_OIL] Petróleo fornecem o dobro da quantidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_LIKED_OUR_PROPOSAL">
-            <Text>[COLOR_POSITIVE_TEXT]Eles Gostaram da nossa proposta ao Congresso Mundial.[ENDCOLOR]</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Eles gostaram da nossa proposta ao Congresso Mundial.[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DISLIKED_OUR_PROPOSAL">
             <Text>[COLOR_WARNING_TEXT]Eles não gostaram da nossa proposta ao Congresso Mundial.[ENDCOLOR]</Text>
@@ -888,7 +888,7 @@
             <Text>Confederação Mercante</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_TEXT">
-            <Text>Mais comumente referida como uma liga comercial ou aliança de comércio, uma Confederação Mercante é criada para proteger os interesses econômicos e privilégios diplomáticos dos comerciantes em cidades e nações ao longo das rotas comerciais. Embora essas confederações de comerciantes não tivessem qualquer posição oficial, vários - como a Empresa de Mercadores Aventureiros de Londres (fundada em 1407 d.C.) e da ainda mais poderosa Liga Hanseática (formada em 1356) - tiveram significativa influência econômica e dominaram rotas comerciais específicas por longos períodos. Durante o Renascimento, as confederações comerciais foram estabelecidas em cidades-estado como Veneza e Gênova para proteger os interesses dos comerciantes de determinados produtos no estrangeiro. Estas ligas comerciais atingiram o seu auge durante os séculos 15 e 16, mas caíram depois que os governos nacionais e empresas patrocinadas pelas coroas gradualmente assumiram as responsabilidades de regulação e diplomática que as ligas tinham anteriormente realizado.</Text>
+            <Text>Mais comumente chamada de liga comercial ou aliança mercantil, uma Confederação Mercante é criada para proteger os interesses econômicos e os privilégios diplomáticos dos comerciantes em cidades e nações ao longo das rotas comerciais. Embora essas confederações de mercadores não tivessem posição oficial, várias — como a Companhia dos Mercadores Aventureiros de Londres (fundada em 1407 d.C.) e a ainda mais poderosa Liga Hanseática (formada em 1356) — exerceram significativa influência econômica e dominaram rotas comerciais específicas por longos períodos. Durante o Renascimento, confederações comerciais foram estabelecidas em cidades-estado como Veneza e Gênova para proteger no exterior os interesses dos comerciantes de determinados produtos. Essas ligas atingiram seu auge nos séculos XV e XVI, mas declinaram à medida que governos nacionais e companhias patrocinadas pela Coroa assumiram gradualmente as responsabilidades regulatórias e diplomáticas que antes cabiam às ligas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Confederação Mercante[ENDCOLOR][NEWLINE]+2 de [ICON_GOLD] Ouro de rotas comerciais com Cidades-Estado.</Text>
@@ -900,7 +900,7 @@
             <Text>Pare de escavar meus artefatos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Regra Coletiva[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonos[ENDCOLOR] em 50% na [ICON_CAPITAL] Capital e um Colono gratuito aparece próximo a [ICON_CAPITAL] Capital. (Veneza recebe um Mercador de Veneza ao invés de um Colono.)</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Regra Coletiva[ENDCOLOR][NEWLINE]Acelera o treinamento de [COLOR_POSITIVE_TEXT]Colonos[ENDCOLOR] em 50% na [ICON_CAPITAL] Capital, e um Colono gratuito aparece próximo à [ICON_CAPITAL] Capital. (Veneza recebe um Mercador de Veneza em vez de um Colono.)</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_HEAL_DISABLED_HELP">
             <Text>Esta unidade não pode se curar fora de território amigo ou quando está embarcada.</Text>
@@ -912,10 +912,10 @@
             <Text> (Eles não gostam de provocadores de guerra.)</Text>
         </Row>
         <Row Tag="TXT_KEY_WARMONGER_HATE_LOW">
-            <Text> (Eles fingem não notar provocadores de guerra.)</Text>
+            <Text> (Eles relevam provocações de guerra moderadas.)</Text>
         </Row>
 		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MINOR">
-			<Text>[COLOR_WARNING_TEXT]Eles possuem alguma preocupação anterior sobre suas provocações de guerra.[ENDCOLOR]</Text>
+			<Text>[COLOR_WARNING_TEXT]Eles demonstram alguma preocupação inicial com suas provocações de guerra.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MAJOR">
 			<Text>[COLOR_NEGATIVE_TEXT]Eles claramente veem a ameaça potencial em suas provocações de guerra.[ENDCOLOR]</Text>
@@ -924,7 +924,7 @@
 			<Text>[COLOR_NEGATIVE_TEXT]Eles acreditam que suas provocações de guerra se tornaram um problema global proeminente.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_CRITICAL">
-			<Text>[COLOR_NEGATIVE_TEXT]Eles temem que suas provocações de guerra logo afundará o mundo em uma nova Idade Média![ENDCOLOR]</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Eles temem que suas provocações de guerra logo mergulhem o mundo em uma nova Era das Trevas![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_MINOR">
 			<Text>Você receberá uma penalidade de provocação de guerra [COLOR_YELLOW]MENOR[ENDCOLOR] se você capturar esta cidade.</Text>

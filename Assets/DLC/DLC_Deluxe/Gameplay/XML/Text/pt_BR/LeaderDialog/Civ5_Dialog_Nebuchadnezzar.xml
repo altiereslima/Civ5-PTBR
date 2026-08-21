@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_1">
@@ -20,13 +20,13 @@
 			<Text>Eu acho que sim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_7">
-			<Text>Está pronto.</Text>
+			<Text>Está feito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_1">
 			<Text>Eu acho que terei mingau para o jantar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_2">
-			<Text>Vamos destruí-lo, você sabe. Você se preocupa com um pouco de queijo?</Text>
+			<Text>Vamos destruir você, sabe. Você se preocupa com um pouco de queijo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_3">
 			<Text>Está certo. Eu presumo que você saiba o que está fazendo.</Text>
@@ -86,7 +86,7 @@
 			<Text>Eu sou Nabucodonosor da Babilônia. Aqueles tolos dizem que eu sou um deus, mas isso parece improvável. Quem é você?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_2">
-			<Text>Eu sou Nabucodonosor, rei da Babilônia. Rezo ardentemente para que você não seja apenas mais um idiota enviado aqui para gastar o meu tempo.</Text>
+			<Text>Eu sou Nabucodonosor, rei da Babilônia. Rezo ardentemente para que você não seja apenas outra criatura idiota enviada aqui para desperdiçar meu tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_3">
 			<Text>Eu sou Nabucodonosor. Você é real ou apenas um fantasma dos meus sentidos torturados?</Text>
@@ -110,7 +110,7 @@
 			<Text>Vá embora agora - eu irei saborear a taça do desespero em solidão.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_1">
-			<Text>Bem-vindo. Por favor, ignore os gritos.</Text>
+			<Text>Boas-vindas. Por favor, ignore os gritos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_2">
 			<Text>Já nos conhecemos?</Text>
@@ -122,7 +122,7 @@
 			<Text>Oh, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_5">
-			<Text>Bem? Fale mais alto. Eu mal posso ouvi-lo com o excesso de sangue martelando em meu cérebro.</Text>
+			<Text>Bem? Fale mais alto. Mal consigo ouvir você com todo esse sangue martelando em meu cérebro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_6">
 			<Text>O que você quer?</Text>
@@ -152,7 +152,7 @@
 			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LOSEWAR_1">
-			<Text>Tolo, tolo - permitindo-me viver. Você sempre deve destruir os galhos, tronco e raiz dos seus inimigos.</Text>
+			<Text>Que tolice — permitir que eu viva. Sempre se deve destruir os galhos, o tronco e a raiz dos inimigos.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_ANGRY_1">
 			<Text>Não me irrite! Eu posso ser muito terrível quando fico enfurecido. Melhore a sua oferta.</Text>
@@ -224,7 +224,7 @@
 			<Text>Vou lhe dar mil cantoras concubinas no outro mundo, mas neste mundo você não ganha nada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_NEUTRAL">
-			<Text>Tolo chacal! Faria bem para você ir para o Egito, onde pessoas como você são adoradas. Aqui, você não vai conseguir nada.</Text>
+			<Text>Criatura de chacal! Faria bem em ir para o Egito, onde pessoas como você são adoradas. Aqui, não conseguirá nada.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_ANGRY">
 			<Text>Seu hálito fétido sufoca a minha vida. Pegue o que você deseja e desapareça.</Text>

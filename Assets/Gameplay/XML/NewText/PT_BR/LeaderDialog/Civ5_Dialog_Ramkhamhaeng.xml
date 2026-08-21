@@ -17,13 +17,13 @@
 			<Text>Oh, muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_6">
-			<Text>Suponho que devo aceitar.</Text>
+			<Text>Suponho que sim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_7">
 			<Text>Excelente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_1">
-			<Text>Eu não esperava mais de você. Você não irá nos encontrar despreparados.</Text>
+			<Text>Eu não esperava nada melhor de você. Não nos encontrará despreparados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_2">
 			<Text>Que audácia! Vingarei com seu sangue este insulto ao meu povo!</Text>
@@ -35,19 +35,19 @@
 			<Text>Você nos insultou pela última vez. Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_2">
-			<Text>Sua insolência não me deixa escolha. Prepare-se para a guerra!</Text>
+			<Text>Seu comportamento ultrajante e ofensivo não me deixa escolha: prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_3">
 			<Text>Escória sem honra! Destruirei você por sua insolência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_1">
-			<Text>Tudo se perdeu, menos a honra. Há apenas um caminho aberto para mim agora. Eu lhe desejo adeus.</Text>
+			<Text>Tudo está perdido, exceto a honra. Agora só me resta um caminho. Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_2">
-			<Text>Você finalmente prevaleceu. Há apenas um caminho aberto para mim agora. Adeus!</Text>
+			<Text>Você finalmente me derrotou. Agora só me resta um caminho. Adeus!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_3">
-			<Text>Parabéns pela vitória. Agora só há um caminho honroso aberto para mim. Adeus!</Text>
+			<Text>Parabéns pela vitória. Agora só me resta um caminho honroso. Adeus!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_ANGRY">
 			<Text>Estes são meus termos. Aceite-os ou morra.</Text>
@@ -56,7 +56,7 @@
 			<Text>Em nome de nossa amizade, poderia nos ajudar nesta hora de necessidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Para sua sobrevivência, sugiro que aceite meus termos.</Text>
+			<Text>Se deseja sobreviver, é melhor aceitar meus termos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_1">
 			<Text>Não.</Text>
@@ -65,7 +65,7 @@
 			<Text>Certamente não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_3">
-			<Text>Nós recusamos.</Text>
+			<Text>Recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_4">
 			<Text>É claro que não.</Text>
@@ -77,7 +77,7 @@
 			<Text>Não é possível que esteja falando sério!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_7">
-			<Text>Como...?</Text>
+			<Text>Perdão, como disse?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
 			<Text>Boas-vindas a Sião. Sou Ram Khamhaeng. Sua visita nos honra profundamente.</Text>
@@ -89,34 +89,34 @@
 			<Text>Saudações. Sou Ram Khamhaeng, rei de Sião. Sua visita honra profundamente nossa humilde nação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_1">
-			<Text>Bom dia.</Text>
+			<Text>Tenha um bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_2">
-			<Text>Adeus</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_3">
-			<Text>Tchau</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_4">
-			<Text>Até nos vermos novamente</Text>
+			<Text>Até a próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_5">
-			<Text>Vá embora</Text>
+			<Text>Vá embora agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_6">
-			<Text>Isso é tudo</Text>
+			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_7">
-			<Text>Nossos negócios terminam aqui</Text>
+			<Text>Nossos assuntos aqui estão encerrados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_1">
-			<Text>Boas-vindas</Text>
+			<Text>Boas-vindas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_2">
-			<Text>Olá</Text>
+			<Text>Olá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_3">
-			<Text>Saudações</Text>
+			<Text>Saudações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_4">
 			<Text>Bom dia.</Text>
@@ -125,19 +125,19 @@
 			<Text>Oh, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_6">
-			<Text>Então?</Text>
+			<Text>Pois não?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_7">
 			<Text>O que deseja?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_1">
-			<Text>Vá em frente.</Text>
+			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_2">
-			<Text>Prossiga</Text>
+			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_3">
-			<Text>Estou ouvindo</Text>
+			<Text>Estou ouvindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_4">
 			<Text>Sim?</Text>
@@ -152,10 +152,10 @@
 			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LOSEWAR_1">
-			<Text>A vitória foi sua, por ora. Mas haverá retaliação!</Text>
+			<Text>A vitória é sua, por enquanto. Mas terei minha vingança!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Sua oferta é injusta e desonrosa — exatamente o que eu esperava de você. Melhore-a ou retire-se.</Text>
+			<Text>Sua oferta é injusta e desonrosa — eu não esperava nada melhor de você. Melhore-a ou retire-se.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_2">
 			<Text>Isso não é suficiente.</Text>
@@ -164,7 +164,7 @@
 			<Text>Terá de fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Tenho certeza de que não pretendia me insultar pessoalmente, mas sua oferta é injusta com meu povo. Confio que irá melhorá-la?</Text>
+			<Text>Tenho certeza de que não quis me insultar pessoalmente, mas sua oferta é injusta com meu povo. Confio que irá melhorá-la?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_2">
 			<Text>É o melhor que pode oferecer?</Text>
@@ -173,7 +173,7 @@
 			<Text>Está quase lá.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Do jeito que está, sua oferta é injusta e me faria perder prestígio diante do meu povo. Por favor, melhore-a.</Text>
+			<Text>Do jeito que está, sua oferta é injusta e me faria perder prestígio perante meu povo. Por favor, melhore-a.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_2">
 			<Text>Poderia melhorar um pouco?</Text>
@@ -188,7 +188,7 @@
 			<Text>Não se pode negociar com quem não tem honra. Agora, retire-se.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_HAPPY">
-			<Text>Certamente não tomará isso como desrespeito, mas não posso aceitar seus termos.</Text>
+			<Text>Tenho certeza de que não quis me desrespeitar, mas não posso aceitar seus termos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_NEUTRAL">
 			<Text>Sua oferta é um insulto ao povo de Sião. Eu a recuso.</Text>
@@ -197,7 +197,7 @@
 			<Text>Oh, muito bem. Seus termos são aceitáveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_HAPPY">
-			<Text>Sentimo-nos honrados com sua proposta e com sua amizade.</Text>
+			<Text>Sua proposta nos honra profundamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_NEUTRAL">
 			<Text>Um acordo justo honra ambas as partes. Concordo.</Text>
@@ -206,13 +206,13 @@
 			<Text>Estes são meus termos. Insisto que os aceite.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_HAPPY">
-			<Text>Será uma grande honra se este acordo for aceito.</Text>
+			<Text>Você me honraria muito se aceitasse este acordo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_NEUTRAL">
 			<Text>Saudações. Acredito que isto seja justo para ambos os lados. O que me diz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_ANGRY">
-			<Text>Retire-se! Sua presença desonra minha corte!</Text>
+			<Text>Fora daqui, miserável inútil! Sua mera presença desonra minha corte!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_HAPPY">
 			<Text>Com grande relutância, devo recusar seu pedido.</Text>
@@ -221,16 +221,16 @@
 			<Text>Preferiria a morte a aceitar esse tipo de humilhação!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_ANGRY">
-			<Text>Que insolência! Vou vingar esta desonra!</Text>
+			<Text>Que insolência! Vingarei esta desonra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY">
-			<Text>Como quem nos visita em amizade, nada posso recusar.</Text>
+			<Text>Por ser nossa visita e por nossa amizade, nada posso lhe recusar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_NEUTRAL">
-			<Text>Muito bem, parece que não tenho escolha. Mas esta humilhação terá vingança. Eu juro!</Text>
+			<Text>Muito bem, parece que não tenho escolha. Mas vingarei esta humilhação; eu juro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_1">
-			<Text>Está entrando em um jogo perigoso.</Text>
+			<Text>Está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_2">
 			<Text>Muito bem. Da próxima vez não serei tão cortês.</Text>
@@ -242,7 +242,7 @@
 			<Text>Que grande decepção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_5">
-			<Text>Verdade? Espero que não viva para se arrepender.</Text>
+			<Text>É mesmo? Espero que não viva para se arrepender de sua falta de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_6">
 			<Text>Que tolice.</Text>

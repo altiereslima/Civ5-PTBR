@@ -27,7 +27,7 @@
 			<Text>Que desperdício insensato de vidas e riquezas — você se arrependerá disso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
-			<Text>Você cometeu um grave erro... Sua condenação está assegurada.</Text>
+			<Text>Você calculou muito mal — sua ruína está garantida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
 			<Text>Tanta bravura e tão pouco juízo. Se ao menos tivesse inteligência à altura da coragem.</Text>
@@ -36,7 +36,7 @@
 			<Text>Por Júpiter, você pagará por seus insultos à poderosa Roma! Prepare-se para morrer!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
-			<Text>Meus cofres estão vazios e meus soldados, nervosos. Por isso você deve morrer.</Text>
+			<Text>Há pouco ouro em meu tesouro, e meus soldados estão inquietos. Portanto, você deve morrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
 			<Text>Pelo espírito de meu pai, o divino Júlio, juro que seus dias estão contados. Prepare-se para a guerra.</Text>
@@ -54,7 +54,7 @@
 			<Text>Se deseja sobreviver, dê-nos o seguinte agora mesmo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_HAPPY">
-			<Text>Por favor, nos dê o que pedimos.</Text>
+			<Text>Por favor, dê-nos o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_NEUTRAL">
 			<Text>Dê-nos o que queremos ou sofra as consequências.</Text>
@@ -84,7 +84,7 @@
 			<Text>Saudações. Sou Augusto, Imperador e Pontífice Máximo de Roma. Se tiver amizade por Roma, dou-lhe as boas-vindas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_2">
-			<Text>Saudações. Roma é justa com seus aliados e implacável com seus inimigos. De que lado você se encontra?</Text>
+			<Text>Boas-vindas. Roma é leal a quem permanece ao seu lado e leva a morte a quem se opõe. De que lado está?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_3">
 			<Text>Boas-vindas. Roma fica honrada com a sua presença.</Text>
@@ -105,7 +105,7 @@
 			<Text>Vá embora já.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_6">
-			<Text>Isso é tudo.</Text>
+			<Text>Nossos assuntos aqui estão encerrados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_1">
 			<Text>Boas-vindas.</Text>
@@ -117,13 +117,13 @@
 			<Text>Saudações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_4">
-			<Text>Tenha um bom dia.</Text>
+			<Text>Bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_5">
 			<Text>Ah, é você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_6">
-			<Text>Tudo bem?</Text>
+			<Text>Então?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_7">
 			<Text>O que você quer?</Text>
@@ -153,7 +153,7 @@
 			<Text>Seus soldados combateram bem. Apresento meus parabéns pela vitória.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
-			<Text>Encontrei Roma como uma cidade de tijolos e a deixei como uma cidade de mármore.</Text>
+			<Text>Encontrei Roma de tijolos e a deixei de mármore.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
 			<Text>Apressa-te lentamente.</Text>
@@ -168,10 +168,10 @@
 			<Text>Isso não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_3">
-			<Text>Tem que melhorar.</Text>
+			<Text>Terá de melhorar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Você age com tanta cautela quanto minha esposa, Lívia. Não pode oferecer mais?</Text>
+			<Text>Você demonstra tanta parcimônia quanto minha esposa, Lívia. Não pode oferecer mais?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_2">
 			<Text>É a sua melhor oferta?</Text>
@@ -183,10 +183,10 @@
 			<Text>Isso não basta. Que tal melhorar a proposta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Será que pode se esforçar um pouco mais?</Text>
+			<Text>Pode melhorar um pouco a oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Isto não é o suficiente.</Text>
+			<Text>Isso ainda não basta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_4">
 			<Text>Quase...</Text>
@@ -207,10 +207,10 @@
 			<Text>Esplêndido. Trato feito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_NEUTRAL">
-			<Text>Acordo feito.</Text>
+			<Text>Feito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_ANGRY">
-			<Text>Pense sobre isso.</Text>
+			<Text>Considere isto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_HAPPY">
 			<Text>Apresento esta oferta para sua análise.</Text>
@@ -219,10 +219,10 @@
 			<Text>Eis aqui a nossa oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
-			<Text>Prefiro que morra antes disso.</Text>
+			<Text>Antes disso, quero ver você morrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
-			<Text>Eu não posso dar os tesouros de Roma tão facilmente.</Text>
+			<Text>Não posso distribuir os tesouros de Roma com tamanha leviandade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
 			<Text>Será que deseja tanto assim morrer?</Text>
@@ -255,7 +255,7 @@
 			<Text>Que tolice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
-			<Text>Que a responsabilidade recaia sobre você.</Text>
+			<Text>Muito bem. Que a responsabilidade recaia sobre você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
 			<Text>O deus Marte voltou a sorrir para nós. Assim serão humilhados todos os inimigos de Roma!</Text>

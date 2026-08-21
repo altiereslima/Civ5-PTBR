@@ -120,12 +120,12 @@
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO">
-            <Text>Cidade do Congo</Text>
+            <Text>M'banza-Kongo</Text>
             <Gender>feminine</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJ">
-            <Text>Congolense|Congolenses</Text>
+            <Text>Congolês|Congolesa|Congoleses|Congolesas</Text>
             <Gender>neuter|neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -260,7 +260,7 @@
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY">
-            <Text>Quebec</Text>
+            <Text>Cidade de Quebec</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>

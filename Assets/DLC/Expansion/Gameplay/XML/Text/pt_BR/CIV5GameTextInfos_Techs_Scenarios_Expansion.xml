@@ -48,12 +48,12 @@
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_TITLE">
-			<Text>Nobreza Opressora</Text>
+			<Text>Dever da Nobreza</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_TITLE">
-			<Text>Embarcações Aéreas</Text>
+			<Text>Dirigíveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>

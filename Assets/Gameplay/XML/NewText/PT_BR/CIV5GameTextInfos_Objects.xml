@@ -795,7 +795,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
-			<Text>Casa Longa|Casas Longas</Text>
+			<Text>Casa Comprida|Casas Compridas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>

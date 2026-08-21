@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
@@ -12,13 +12,13 @@
 			<Text>Foco em [ICON_PEACE] Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TT">
-			<Text>Clique aqui para que esta cidade a geração de [ICON_PEACE] Fé.</Text>
+			<Text>Clique aqui para fazer esta cidade enfatizar a geração de [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GG_STACKED">
 			<Text>Unidade empilhada com um Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_ACCUMULATED">
-			<Text>{1_Num} de [ICON_PEACE] Fé {1: plural 1?foi acumulado; other?foram acumulados;} por todo o Império.</Text>
+			<Text>Seu império acumulou {1_Num} de [ICON_PEACE] Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_FROM_CITIES">
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades.</Text>
@@ -27,31 +27,31 @@
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_FROM_RELIGION">
-			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Crenças.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] proveniente de Crenças de Fundação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_RELIGIONS_LEFT">
 			<Text>Religiões que ainda podem ser fundadas: {1_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PROPHET">
-			<Text>Ao menos {1_Num} de [ICON_PEACE] Fé {1: plural 1?é necessário; other?são necessários;} para ter sua próxima chance de gerar um Grande Profeta.</Text>
+			<Text>É necessário acumular pelo menos {1_Num} de [ICON_PEACE] Fé para ter a próxima chance de gerar um Grande Profeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_GREAT_PERSON">
-			<Text>Você está qualificado a comprar, utilizando [ICON_PEACE] Fé, uma dessas Grandes Personalidades: </Text>
+			<Text>Você pode comprar qualquer uma destas Grandes Personalidades com [ICON_PEACE] Fé: </Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PANTHEON">
-			<Text>Ao menos {1_Num} de [ICON_PEACE] Fé {1: plural 1?é necessário; other?são necessários;} para fundar o próximo Panteão religioso. Se você deseja fundar um Panteão, você precisa fazê-lo antes que exista uma Religião aperfeiçoada no jogo (embora você sempre possa formar um desde que já não tenha sido criado o número máximo permitido de religiões).</Text>
+			<Text>É necessário acumular pelo menos {1_Num} de [ICON_PEACE] Fé para fundar o próximo Panteão. Se quiser fundar um Panteão, faça isso antes que alguma Religião seja aperfeiçoada (você ainda poderá fundar um se o número de Panteões criados for menor que o número máximo de Religiões).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_FAITH_PANTHEONS_LOCKED">
-			<Text>Uma religião foi aperfeiçoada e o número de panteões formados é pelo menos igual ao número máximo de religiões. Com essas condições, você não pode mais fundar um Panteão. Use sua [ICON_PEACE] Fé acumulada para comprar unidades e edificações religiosas se uma religião foi disseminada para uma de suas cidades. Ou guarde-a até a Era Industrial ou posterior para gerar Grandes Personalidades.</Text>
+			<Text>Uma Religião foi aperfeiçoada e o número de Panteões criados já é igual ou superior ao número máximo de Religiões. Nessas condições, você não pode mais fundar um Panteão. Use a [ICON_PEACE] Fé acumulada para comprar unidades ou edificações religiosas se uma Religião estiver presente em uma de suas cidades, ou guarde-a até a Era Industrial ou posterior para adquirir Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FROM_RELIGION">
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de Religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_FROM_GOLDEN_AGE">
-			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era de Ouro.</Text>
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] de sua Era Dourada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_PANTHEON_DESCRIPTION">
-			<Text>adorando panteão com crença:</Text>
+			<Text>adora um Panteão com a crença:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_RELIGION_DESCRIPTION">
 			<Text>fundou a religião:</Text>
@@ -63,10 +63,10 @@
 			<Text>Bônus de Defesa da Capital</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_TRAIT_LOW_TECH_BONUS">
-			<Text>Bônus vs Tecnologia Avançada</Text>
+			<Text>Bônus contra Tecnologia Superior</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_TRAIT_SMALL_SIZE_BONUS">
-			<Text>Bônus vs Grandes Civilizações</Text>
+			<Text>Bônus contra Civilização Maior</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_ENEMY_CITY_BELIEF_BONUS">
 			<Text>Guerra Justa</Text>
@@ -81,10 +81,10 @@
 			<Text>Próximo de um Oponente Apavorante</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES">
-			<Text>Disseminações</Text>
+			<Text>Disseminações Restantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES_TT">
-			<Text>Isso indica o número restante de vezes que esta unidade pode disseminar sua religião a uma cidade.</Text>
+			<Text>Indica quantas vezes esta unidade ainda pode disseminar sua Religião para uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_REMOVE_HERESY_USES">
 			<Text>{TXT_KEY_MISSION_REMOVE_HERESY}</Text>
@@ -102,7 +102,7 @@
 			<Text>{1_Num} pela felicidade local.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_TEAMMATE">
-			<Text>Esta cidade é de um parceiro de time.</Text>
+			<Text>Esta cidade pertence a um membro da sua equipe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_HAPPINESS_POLICIES">
 			<Text>{1_Num} pela felicidade global por políticas sociais.</Text>
@@ -111,10 +111,10 @@
 			<Text>{1_Num} pela felicidade global por edificações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era de Ouro, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION] Produção e a [ICON_CULTURE] Cultura por todo o império é aumentada em 20%.</Text>
+			<Text>Durante uma [ICON_GOLDEN_AGE] Era Dourada, cada hexágono do seu império que produzir pelo menos 1 de [ICON_GOLD] Ouro produzirá 1 adicional. As cidades recebem +20% de [ICON_PRODUCTION] Produção, e a [ICON_CULTURE] Cultura de todo o império aumenta em 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_ADJACENT_TERRITORY">
-			<Text>{@1_ImprovementName} {@1: gender feminine?{@1: plural 2?devem ser construídas; other?deve ser construída;}; other?{@1: plural 2?devem ser construídos; other?deve ser construído;};} dentro ou adjacente ao seu território.</Text>
+			<Text>{@1_ImprovementName} {@1: gender feminine?{@1: plural 2?devem ser construídas; other?deve ser construída;}; other?{@1: plural 2?devem ser construídos; other?deve ser construído;};} dentro do seu território ou em um hexágono adjacente a ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_OF">
 			<Text>A Cidade-Estado {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}</Text>
@@ -126,10 +126,10 @@
 			<Text>Ignora Grande General</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE">
-			<Text>[COLOR_CYAN]Chance de Captura se afundar: {1_Percent}%[ENDCOLOR]</Text>
+			<Text>[COLOR_CYAN]Chance de Captura se for Afundada: {1_Percent}%[ENDCOLOR]</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
-			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE] Era de Ouro, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD] Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION] Produção.</Text>
+			<Text>Durante uma [ICON_GOLDEN_AGE] Era Dourada, cada hexágono do seu império que produzir pelo menos 1 de [ICON_GOLD] Ouro produzirá 1 adicional. As cidades recebem +20% de [ICON_PRODUCTION] Produção.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

@@ -21,7 +21,7 @@
 		</Row>  
 		<!-- Beliefs -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHURCH_PROPERTY_SHORT">
-			<Text>Patriarcado</Text>
+			<Text>Patriarcados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_ITINERANT_PREACHERS_SHORT">
 			<Text>Apóstolos dos Eslavos</Text>
@@ -57,7 +57,7 @@
 			<Text>Trabalho Ético</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE_SHORT">
-			<Text>Casamento Clérigo</Text>
+			<Text>Casamento Clerical</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

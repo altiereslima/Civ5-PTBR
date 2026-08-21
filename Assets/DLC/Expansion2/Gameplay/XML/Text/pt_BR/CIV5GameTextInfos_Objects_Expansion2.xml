@@ -37,7 +37,7 @@
       <Text>Construir uma [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Escavação Arqueológica[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP">
-      <Text>Construir um [LINK=IMPROVEMENT_BRAZILWOOD_CAMP]Acampamento Pau-Brasil[\LINK]</Text>
+      <Text>Construir um [LINK=IMPROVEMENT_BRAZILWOOD_CAMP]Acampamento de Pau-Brasil[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_KASBAH">
       <Text>Construir um [LINK=IMPROVEMENT_KASBAH]Casbá[\LINK]</Text>
@@ -54,7 +54,7 @@
 		<Plurality>1|2</Plurality>
 	</Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP">
-      <Text>Acampamento Pau-Brasil</Text>
+      <Text>Acampamento de Pau-Brasil|Acampamentos de Pau-Brasil</Text>
     </Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_KASBAH">
       <Text>Casbá|Casbás</Text>
@@ -72,7 +72,7 @@
     </Row>
     <!-- Archaeological Artifacts-->
     <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
-      <Text>Rosário</Text>
+      <Text>Contas</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CAMP">
       <Text>Fragmento de Cerâmica</Text>
@@ -119,10 +119,10 @@
       <Text>Colar</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RUIN">
-      <Text>Pêndulo</Text>
+      <Text>Pingente</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CAMP">
-      <Text>Canoa</Text>
+      <Text>Dracar</Text>
 	  <Gender>feminine</Gender>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_1">
@@ -131,11 +131,11 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_2">
-      <Text>Armadura</Text>	  
+      <Text>Peitoral</Text>	  
 	  <Gender>feminine</Gender>	  
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RANGED">
-      <Text>Flechas</Text>
+      <Text>Virotes de Besta</Text>
 	  <Gender>feminine</Gender>	  
 	  <Plurality>2</Plurality>	  
     </Row>
@@ -151,11 +151,11 @@
       <Text>Dobrão</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_1">
-      <Text>Espada Grande</Text>
+      <Text>Espada de Duas Mãos</Text>
 	  <Gender>feminine</Gender>	  	  
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_2">
-      <Text>Placa de Armadura</Text>
+      <Text>Armadura de Placas</Text>
 	  <Gender>feminine</Gender>	  	  
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RANGED">
@@ -183,7 +183,7 @@
       <Text>Sabre</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RANGED">
-      <Text>Capacete de Artilharia</Text>
+      <Text>Projétil de Artilharia</Text>
     </Row>
     <Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CITY">
       <Text>Brincos</Text>
@@ -622,7 +622,7 @@
       <Text>Adoração dos Magos</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_RUBENS_AND_ISABELLA">
-      <Text>Rubens e Isabella Brant na Casa de Jardim</Text>
+      <Text>Rubens e Isabella Brant no Caramanchão de Madressilvas</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CHILDS_BATH">
       <Text>O Banho da Criança</Text>
@@ -634,7 +634,7 @@
       <Text>O Balanço</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GIANT_MAGNOLIAS">
-      <Text>Magnólia Gigante Sobre Veludo Azul</Text>
+      <Text>Magnólias Gigantes sobre um Tecido de Veludo Azul</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_KILLING">
       <Text>São Jorge Matando o Dragão</Text>
@@ -646,7 +646,7 @@
       <Text>Uma Corrida Para a Madeira</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GEORGE_WASHINGTON_PORTRAIT">
-      <Text>George Washington</Text>
+      <Text>George Washington (Retrato Lansdowne)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_ATTACK_ON_BEIJING">
       <Text>Ataque ao Castelo de Pequim Durante a Rebelião Boxer</Text>
@@ -659,7 +659,7 @@
       <Text>Nin Me Shara</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HYMN_TO_THE_MUSE">
-      <Text>Hino às Musas</Text>
+      <Text>Hino à Musa</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GUANGLING_SAN">
       <Text>Guangling San</Text>
@@ -668,7 +668,7 @@
       <Text>Lamma Bada Yatathanna</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_WHIRLING_DERVISH">
-      <Text>Mevlevi</Text>
+      <Text>Dervixe Rodopiante</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_UT_QUEANT_LAXIS">
       <Text>Ut Queant Laxis</Text>
@@ -686,7 +686,7 @@
       <Text>Spem In Alium</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_MISSA_PAPAE_MARCELLI">
-      <Text>Missa Papa Marcelli: Kyrie</Text>
+      <Text>Missa Papae Marcelli: Kyrie</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_XICOCHI">
       <Text>Xicochi</Text>
@@ -713,7 +713,7 @@
       <Text>Quinta Sinfonia</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CAPRICE_NO_24">
-      <Text>Caprice Nº 24 em A Menor</Text>
+      <Text>Capricho Nº 24 em Lá Menor</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_TE_DEUM">
       <Text>Te Deum</Text>
@@ -722,7 +722,7 @@
       <Text>Raindrop Prelude</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DIE_WALKURE">
-      <Text>As Valquírias</Text>
+      <Text>A Valquíria</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LA_FORZA_DEL_DESTINO">
       <Text>Pace, pace mio Dio</Text>
@@ -737,7 +737,7 @@
       <Text>Danças Húngaras</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_NIGHT_ON_BALD_MOUNTAIN">
-      <Text>Noite em Bald Mountain</Text>
+      <Text>Uma Noite no Monte Calvo</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_1812_OVERTURE">
       <Text>Abertura de 1812</Text>
@@ -798,7 +798,7 @@
     </Row>
 	<!-- Additional great musician works -->
 	<Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
-      <Text>Assim Falou Zoroastro</Text>
+      <Text>Assim Falou Zaratustra</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SATURN">
       <Text>Saturno</Text>
@@ -883,7 +883,7 @@
       <Text>Nag Hammadi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LINEAR_B">
-      <Text>Fragmentos Linear B</Text>
+      <Text>Fragmentos em Linear B</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_PAPYRUS_ANI">
       <Text>Papiro de Ani</Text>
@@ -917,7 +917,7 @@
       <Text>Tigre em uma Tempestade Tropical (Surpreso!)</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_THE_HOME_GUARD">
-      <Text>O Guarda Territorial</Text>
+      <Text>A Guarda Territorial</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_CEREMONIAL_SITTING">
       <Text>Sessão Cerimonial do Conselho de Estado em 7 de maio de 1901</Text>
@@ -974,13 +974,13 @@
 		<Text>Bisão</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
-		<Text>O Bisão Norte-Americano, que já cobriu as Grandes Planícies em rebanhos maciços, foi a fonte primária de carne, tendões, pele e osso, necessários para a sobrevivência de muitas tribos nativas. Caçado à beira da extinção pelos norte-americanos no final do ano de 1800, nas últimas décadas o bisão fez um retorno devido a programas de vida selvagem federais e estaduais.</Text>
+		<Text>O bisão norte-americano, que já percorreu as Grandes Planícies em enormes rebanhos, foi uma fonte essencial de carne, tendões, couro e ossos para a sobrevivência de muitas tribos nativas. Caçado pelos norte-americanos até quase a extinção no fim do século XIX, o bisão se recuperou nas últimas décadas graças a programas federais e estaduais de conservação da fauna.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
 		<Text>Cacau</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
-		<Text>O cacau, um produto da árvore nativa Cacaueiro da América do Sul, era uma mercadoria importante na Mesoamérica pré-colombiana e destacou-se em culturas tribais. Introduzido pelos espanhóis na Europa em meados dos anos 1700, era imensamente popular no preparo de bebidas, como ingrediente e até mesmo como medicamento.</Text>
+		<Text>As sementes de cacau, produzidas pelo cacaueiro nativo da América do Sul, eram uma mercadoria importante na Mesoamérica pré-colombiana e tinham grande destaque nas culturas tribais. Levado pelos espanhóis à Europa, em meados do século XVIII o cacau já era extremamente popular como bebida, ingrediente culinário e até medicamento.</Text>
 	</Row>	
   </Language_pt_BR>
 </GameData>

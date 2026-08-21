@@ -52,7 +52,7 @@
         <!--Neutral -->
         <!--Greetings (subsequent meetings) -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_1">
-            <Text>Seja bem-vinda a minha presença!</Text>
+            <Text>Boas-vindas à minha corte!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_2">
             <Text>Saudações!</Text>
@@ -143,7 +143,7 @@
         </Row>
         <!--Trade offer from player - sweeten the deal -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_HAPPY_1">
-            <Text>Eu sempre tenho os melhores interesses do meu povo em mente - você deve fazer melhor.</Text>
+            <Text>Tenho sempre em mente os melhores interesses do meu povo — você terá de melhorar sua oferta.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_HAPPY_2">
             <Text>Isso é o melhor que pode oferecer?</Text>
@@ -169,7 +169,7 @@
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_HAPPY">
-            <Text>Certamente que está em condições de ajudar uma rainha e seu povo, correto?</Text>
+            <Text>Certamente pode encontrar uma forma de ajudar uma rainha e seu povo, não?</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_3">
@@ -263,7 +263,7 @@
             <Text>O que estava dizendo?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_1">
-            <Text>Temo que não posso permitir que seu reino continue existindo. Espero que não se importe.</Text>
+            <Text>Temo não poder permitir que seu reino continue existindo. Espero que não se importe.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_2">
             <Text>Oh, uh, sim, eu pensei que deveria saber: vamos declarar guerra contra sua civilização agora.</Text>

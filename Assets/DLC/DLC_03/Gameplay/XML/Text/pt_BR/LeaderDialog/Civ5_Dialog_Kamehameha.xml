@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
@@ -6,23 +6,23 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_1">
-      <Text>Ah, um colega explorador! Seja bem-vindo às ilhas da grande Polinésia! Eu, o Grande Kamehameha, convido você a compartilhar do meu banquete e fogo.</Text>
+      <Text>Ah, que bom encontrar quem também explora! Boas-vindas às ilhas da grande Polinésia! Eu, o Grande Kamehameha, convido você a compartilhar do meu banquete e do fogo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
-      <Text>Seja bem-vindo, estrangeiro! Eu sou Kamehameha, Rei da Polinésia. Venha, devemos realizar uma grande hula para celebrar o nosso encontro.</Text>
+      <Text>Boas-vindas à Polinésia! Eu sou Kamehameha, Rei da Polinésia. Venha, devemos realizar uma grande hula para celebrar nosso encontro.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
-      <Text>Saudações e que as bênçãos caiam sobre você, amigo. Eu sou Kamehameha, grande Rei da Polinésia. Vamos compartilhar nossos recursos e trabalhar juntos em harmonia!</Text>
+      <Text>Saudações, e que as bênçãos caiam sobre você. Eu sou Kamehameha, grande Rei da Polinésia. Vamos compartilhar nossos recursos e trabalhar em harmonia!</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1">
       <Text>Em outra hora, talvez.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2">
-      <Text>Cuidado onde você pisa, amigo.</Text>
+      <Text>Cuidado onde pisa.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_3">
-      <Text>Você é mais sábio do que os meus Kahunas disseram.</Text>
+      <Text>Você demonstra mais sabedoria do que meus Kahunas disseram.</Text>
     </Row>
     <!--Gloats after winning a war -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_1">
@@ -36,7 +36,7 @@
       <Text>Talvez as estrelas estejam erradas... Eu preciso consultar meus Kahunas sobre isso.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_2">
-      <Text>A deusa Pele lhe honra com sua dança. Você ganhou sua graça, amigo, mas não espere ter sua atenção para sempre.</Text>
+      <Text>A deusa Pele honra você com sua dança. Você ganhou sua graça, mas não espere ter sua atenção para sempre.</Text>
     </Row>
     <!--Defeated and removed from game -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_1">
@@ -96,7 +96,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Amigo, estamos precisando da sua assistência!</Text>
+      <Text>Estamos precisando de sua ajuda!</Text>
     </Row>  
     <!--Agrees -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_1">
@@ -122,14 +122,14 @@
     <!--Happy -->
     <!--Greetings (subsequent meetings) -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_3">
-      <Text>Seja bem-vindo, amigo.</Text>
+      <Text>Boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_4">
       <Text>É sempre um prazer.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_3">
-      <Text>Até logo, meu amigo.</Text>
+      <Text>Até logo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_4">
       <Text>Tchau.</Text>
@@ -140,7 +140,7 @@
     </Row>
     <!--Trade offer from player - sweeten the deal -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Eu considero você como irmão, mas nem mesmo a família pode ser tão ousada.</Text>
+      <Text>Considero você parte da família, mas nem mesmo em família se pode ter tamanha ousadia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_2">
       <Text>Isso é o melhor que você pode fazer?</Text>
@@ -162,7 +162,7 @@
     </Row>
     <!--Demands tribute -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_HAPPY">
-      <Text>Meu amigo, você não pagou sua justa parte à hula.</Text>
+      <Text>Em nome de nossa amizade, você não pagou sua justa parte à hula.</Text>
     </Row>
     <!--Requests a trade -->
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_HAPPY">
@@ -257,7 +257,7 @@
       <Text>O que você estava dizendo?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_1">
-      <Text>O antigo fogo que cruzou o céu proclamou que esse dia viria, mas eu tolamente esperei o contrário. Prepare-se para a destruição, amigo.</Text>
+      <Text>O antigo fogo que cruzou o céu proclamou que esse dia viria, mas eu tolamente esperei o contrário. Prepare-se para a destruição.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_2">
       <Text>Eu levantei a "Pedra Naha" e ainda assim você está contra mim. A profecia declara que eu devo unir as terras e você está no meu caminho.</Text>

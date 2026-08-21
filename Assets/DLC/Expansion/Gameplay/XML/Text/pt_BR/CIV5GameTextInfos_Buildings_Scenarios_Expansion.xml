@@ -81,7 +81,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR">
-			<Text>Fabricante de Éter|Fabricantes de Éter</Text>
+			<Text>Fabricador de Éter|Fabricadores de Éter</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

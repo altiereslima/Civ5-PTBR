@@ -76,7 +76,7 @@
       <Text>Poderia melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isso não está suficientemente bom.</Text>
+      <Text>Isso ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -129,7 +129,7 @@
       <Text>Boas-vindas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_GREETING_4">
-      <Text>Ah! É bom revê-la.</Text>
+      <Text>Ah! É bom ver você novamente.</Text>
     </Row>
     <!--Goodbye -->
     <Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3">
@@ -147,7 +147,7 @@
       <Text>Ora... Eu não aceitaria uma oferta dessas nem do meu querido Eneias. Que tal tentar novamente?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2">
-      <Text>É o seu melhor?</Text>
+      <Text>É o melhor que pode fazer?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_3">
       <Text>Está quase lá...</Text>

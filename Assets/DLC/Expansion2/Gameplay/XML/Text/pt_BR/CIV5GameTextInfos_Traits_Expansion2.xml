@@ -6,13 +6,13 @@
 			<Text>Sereníssima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
-			<Text>Não pode treinar Colonos ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um Mercador de Veneza aparece após descobrir a Óptica. Pode realizar compras em cidades fantoches.</Text>
+			<Text>Não pode treinar Colonos nem anexar cidades. Possui o dobro do número normal de Rotas Comerciais disponíveis. Um Mercador de Veneza aparece após pesquisar Óptica. Pode realizar compras em cidades fantoches.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
 			<Text>Azagaia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS">
-			<Text>Unidades corpo a corpo custam 50% menos em manutenção. Todas as unidades requerem 25% menos experiência para ganharem sua próxima promoção.</Text>
+			<Text>Unidades corpo a corpo custam 50% menos em manutenção. Todas as unidades precisam de 25% menos experiência para obter a próxima promoção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT">
 			<Text>Tesouros de Nínive</Text>
@@ -33,10 +33,10 @@
 			<Text>A geração de [ICON_TOURISM] Turismo é de +100% durante as Eras Douradas. Grandes Artistas, Grandes Músicos e Grandes Escritores são obtidos 50% mais rápido durante as Eras Douradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SPICE_SHORT">
-			<Text>Insulanos Apimentados</Text>
+			<Text>Insulanos das Especiarias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SPICE">
-			<Text>As 3 primeiras cidades fundadas em continentes diferentes de onde a Indonésia iniciar fornecem, cada uma, 2 Recursos de Luxo únicos (e nunca podem ser eliminadas).</Text>
+			<Text>As 3 primeiras cidades fundadas em continentes diferentes daquele em que a Indonésia começou fornecem, cada uma, 2 Recursos de Luxo exclusivos e nunca podem ser arrasadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
 			<Text>Mar Fechado</Text>
@@ -54,19 +54,25 @@
 			<Text>Passagem para a África</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
-			<Text>Recebe +3 de [ICON_GOLD] Ouro e +1 de [ICON_CULTURE] Cultura por cada Rota Comercial com uma civilização ou Cidade-Estado diferentes. Os donos das Rotas Comerciais recebem +2 de [ICON_GOLD] Ouro por cada uma enviada ao Marrocos.</Text>
+			<Text>Recebe +3 de [ICON_GOLD] Ouro e +1 de [ICON_CULTURE] Cultura por cada Rota Comercial com uma civilização ou Cidade-Estado diferente. Os donos das Rotas Comerciais recebem +2 de [ICON_GOLD] Ouro por cada Rota Comercial enviada ao Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT">
 			<Text>Navios do Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2">
-			<Text>As Caravanas ganham +50% de alcance. Suas rotas comerciais disseminam a religião da cidade natal com eficiência dobrada. Recursos de [ICON_OIL] Petróleo são dobrados.</Text>
+			<Text>As Caravanas recebem +50% de alcance. Suas Rotas Comerciais disseminam a religião da cidade de origem com o dobro da eficácia. Os recursos de [ICON_OIL] Petróleo são dobrados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
 			<Text>Cidade da Luz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
 			<Text>Os bônus temáticos de Museu e Maravilha Mundial são dobrados em sua Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+			<Text>Ao derrotar uma unidade Bárbara dentro de um acampamento, há 67% de chance de você receber 25 de [ICON_GOLD] Ouro e de ela se juntar ao seu lado. A manutenção de unidades terrestres custa 25% menos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED">
+			<Text>As unidades lutam como se estivessem com força total mesmo quando danificadas. +1 de [ICON_CULTURE] Cultura por Barco de Pesca e +2 de [ICON_CULTURE] Cultura por Atol.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -29,10 +29,10 @@
       <Text>Criatura perniciosa! Você lamentará este dia!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2">
-      <Text>Criatura vil! Prepare-se para enfrentar minha ira divina!</Text>
+      <Text>Canalha! Prepare-se para enfrentar minha ira divina!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3">
-      <Text>Que tolice lamentável. Condenou a si e à sua patética civilização.</Text>
+      <Text>Imbecil lamentável. Você condenou a si e à sua patética civilização.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1">
       <Text>É uma praga sobre a terra. Prepare-se para morrer.</Text>
@@ -41,10 +41,10 @@
       <Text>Sua civilização bárbara me ofende. Prepare-se para a guerra.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3">
-      <Text>Está escrito nas estrelas. Devo destruir você.</Text>
+      <Text>As estrelas falaram. Devo destruir você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1">
-      <Text>Que tolice! Um deus não pode ser derrotado! Meu poder divino destruirá você a qualquer momento! Tenho certeza!</Text>
+      <Text>Idiota! Um deus não pode ser derrotado! Meu poder divino destruirá você a qualquer momento! Tenho certeza!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2">
       <Text>Você não ganhou nada. Derrube-me, e meu espírito perseguirá sua alma até o próprio abismo!</Text>
@@ -59,7 +59,7 @@
       <Text>Em nome de nossa amizade, o Egito aceita graciosamente seu generoso presente!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL">
-      <Text>Se quiser sobreviver, faria bem em dar o seguinte.</Text>
+      <Text>Se quiser sobreviver, faria bem em nos dar o seguinte.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1">
       <Text>Não.</Text>
@@ -80,19 +80,19 @@
       <Text>Não está falando sério!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7">
-      <Text>Como...?</Text>
+      <Text>Perdão, como disse?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1">
-      <Text>Saudações. Sou Ramsés, governante do poderoso Egito. Também sou um Deus. Demonstra grande valor ao se dirigir a mim.</Text>
+      <Text>Saudações. Sou Ramsés, governante do poderoso Egito. Também sou um deus. Demonstra grande coragem ao se aproximar de mim.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
-      <Text>Boas-vindas. Sou Ramsés do Egito. As estrelas haviam previsto a sua chegada.</Text>
+      <Text>Boas-vindas. Sou Ramsés do Egito. As estrelas previram sua chegada.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
-      <Text>Saudações. Sou o Deus Ramsés, personificação viva do Egito, pai e mãe de todas as civilizações.</Text>
+      <Text>Saudações. Sou o deus Ramsés, a personificação viva do Egito, pai e mãe de todas as civilizações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1">
-      <Text>Tenha um bom dia!</Text>
+      <Text>Tenha um bom dia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2">
       <Text>Adeus.</Text>
@@ -101,7 +101,7 @@
       <Text>Adeus.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4">
-      <Text>Até mais.</Text>
+      <Text>Até a próxima.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5">
       <Text>Vá embora.</Text>
@@ -110,7 +110,7 @@
       <Text>Isso é tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7">
-      <Text>Terminamos por aqui.</Text>
+      <Text>Nosso assunto aqui terminou.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
       <Text>Dou-lhe as boas-vindas.</Text>
@@ -122,13 +122,13 @@
       <Text>Saudações.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4">
-      <Text>Tenha um bom dia!</Text>
+      <Text>Bom dia.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5">
       <Text>Ah, é você.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6">
-      <Text>Bem?</Text>
+      <Text>Pois não?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7">
       <Text>O que quer?</Text>
@@ -140,13 +140,13 @@
       <Text>Prossiga.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3">
-      <Text>Estamos ouvindo.</Text>
+      <Text>Estou ouvindo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4">
       <Text>Sim?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5">
-      <Text>Você estava dizendo...</Text>
+      <Text>Estava dizendo?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6">
       <Text>E?</Text>
@@ -167,22 +167,22 @@
       <Text>Precisa melhorar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_1">
-      <Text>Esperava mais. Certamente sabe que sua oferta não é justa. Pode melhorá-la?</Text>
+      <Text>Ora, eu esperava mais de você. Certamente percebe que sua oferta é injusta — não pode melhorá-la?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_2">
       <Text>É sua melhor oferta?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_3">
-      <Text>Está quase lá...</Text>
+      <Text>Você está quase lá...</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_1">
-      <Text>Até um Deus tem seus gastos, como já sabe. Deve melhorar sua oferta.</Text>
+      <Text>Até um deus tem despesas, sabe: deve melhorar sua oferta.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_2">
-      <Text>Pode se esforçar um pouco mais?</Text>
+      <Text>Pode melhorar um pouco?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_3">
-      <Text>Isto não é suficiente.</Text>
+      <Text>Ainda não é bom o suficiente.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_4">
       <Text>Quase...</Text>
@@ -194,25 +194,25 @@
       <Text>Aprecio sua oferta e nossa amizade, mas devo recusá-la. Os céus já nos dão tudo de que precisamos.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL">
-      <Text>Sou um Deus. Por que eu necessitaria algo de você?</Text>
+      <Text>Sou um deus. Como poderia precisar de algo de você?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY">
-      <Text>Muito bem. Se for o que promete.</Text>
+      <Text>Muito bem. Você mostra potencial.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY">
-      <Text>Sua oferta me contempla. Bem feito.</Text>
+      <Text>Sua oferta me agrada. Muito bem.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL">
-      <Text>Sua oferta é aceitável. Tem minha benção.</Text>
+      <Text>Sua oferta é aceitável. Você tem minha bênção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY">
       <Text>O Egito lhe oferece este acordo. Recuse por sua conta e risco.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY">
-      <Text>O onisciente Ramsés sabe que esta proposta é de seu agrado.</Text>
+      <Text>O onisciente Ramsés sabe que este acordo será do seu agrado.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL">
-      <Text>O generoso Egito lhe oferece o seguinte trato.</Text>
+      <Text>O generoso Egito lhe oferece o seguinte acordo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY">
       <Text>Vá embora antes que eu amaldiçoe você e sua família até a nona geração!</Text>
@@ -224,13 +224,13 @@
       <Text>Cria de cão raivoso! Como ousa insultar o poderoso Egito dessa forma!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY">
-      <Text>Oh, muito bem. Um deus pode se dar ao luxo de ser generoso com criaturas mais humildes.</Text>
+      <Text>Oh, muito bem. Um deus pode se dar ao luxo de ser generoso até mesmo com a mais humilde das criaturas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY">
-      <Text>Suas orações não ficarão sem resposta, em nome de nossa fiel amizade!</Text>
+      <Text>Suas orações não ficarão sem resposta. Nossa amizade é das mais fiéis!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL">
-      <Text>Claro que sim! Ficamos felizes em recompensar nossos súditos leais.</Text>
+      <Text>Claro que sim. Ficamos felizes em recompensar nossos súditos leais.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1">
       <Text>Está jogando um jogo perigoso.</Text>
@@ -242,7 +242,7 @@
       <Text>Que decepção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4">
-      <Text>Decepcionante.</Text>
+      <Text>Que grande decepção.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5">
       <Text>Ah, é? Acredito que não viverá para lamentar sua falta de visão.</Text>
@@ -251,7 +251,7 @@
       <Text>Que estupidez a sua.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1">
-      <Text>Não se volte contra mim novamente! Na próxima vez, suas súplicas patéticas por misericórdia não salvarão você.</Text>
+      <Text>Não se oponha a mim novamente! Na próxima vez, suas súplicas patéticas por misericórdia não salvarão você.</Text>
     </Row>
   </Language_pt_BR>
 </GameData>

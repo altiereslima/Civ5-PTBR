@@ -9,10 +9,10 @@
 			<Text>BÔNUS DA CONTAGEM LONGA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT_TT">
-			<Text>Você pode escolher um bônus grátis para celebrar o fim do atual b'ak'tun da Contagem Longa (calendário vigesimal) Maia!</Text>
+			<Text>Você pode escolher um bônus grátis para celebrar o fim do atual b'ak'tun do calendário maia da Contagem Longa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON">
-			<Text>SELEC. GDE. PERSONALIDADE DA FÉ</Text>
+			<Text>GRANDE PERSONALIDADE PELA FÉ</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON_TT">
 			<Text>Você pode escolher uma das seguintes Grandes Personalidades como benefício por sua Fé acumulada!</Text>
@@ -48,7 +48,7 @@
 			<Text>Um Grande Profeta não pode ser selecionado, pois você ainda não fundou uma religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION">
-			<Text>Desativar Religiões</Text>
+			<Text>Desativar Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION_HELP">
 			<Text>Desativa o sistema de religiões. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
@@ -129,7 +129,7 @@
 			<Text>Sem espionagem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_ESPIONAGE_HELP">
-			<Text>Desabilitar o sistema de espionagem. Nenhum espião será gerado.</Text>
+			<Text>Desativa o sistema de espionagem. Nenhum espião será concedido.</Text>
 		</Row>
 		<!--EMBASSIES-->
 		<Row Tag="TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING">
@@ -152,7 +152,7 @@
 			<Text>(Não é possível votar em si mesmo.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CIV_ALT">
-			<Text>{@1_VotingCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, civilização com a qual {@1: plural 2?possuem; other?possui;} melhor relação.</Text>
+			<Text>{@1_VotingCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, civilização com a qual {@1: plural 2?possuem; other?possui;} as melhores relações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CITYSTATE_ALT">
 			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, porque {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_RecipientCivName} {@2: plural 2?libertaram ou são aliados; other?libertou ou é aliado;} deles atualmente.</Text>
